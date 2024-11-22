@@ -1,4 +1,5 @@
 import nltk
+import re
 nltk.download("stopwords")
 
 text = """On March 9, 2024, at 1331 eastern standard time, Southwest Airlines flight 4318 encountered 
@@ -31,10 +32,16 @@ print(stop_wrds)
 
 wordtext = nltk.word_tokenize(text)
 
-print("NLTK_WORD Test: \n", wordtext, "\n\n")
+print("NLTK_WORD Tokenizer: \n", wordtext, "\n\n")
 
 wordtextstop = []
 for word in wordtext:
     if word not in stop_wrds:
         wordtextstop.append(word)
-print(wordtextstop)
+print("Online Method: \n", wordtextstop, "\n")
+
+text = re.sub(r'[^a-zA-Z\s]', '', text)  # Remove punctuation and numbers
+text = text.lower()  # Convert to lowercase
+words = text.split()  # Split into words
+words = [word for word in words if word not in stop_wrds]
+print("GitHub Method: \n", words, "\n")
