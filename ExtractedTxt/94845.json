@@ -1,0 +1,29 @@
+{
+    "Filename": "94845.txt",
+    "Location": "Naples, Florida",
+    "Accident Number": "GAA17CA180",
+    "Date & Time": "February 17, 2017, 11:50 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N737RT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot control reported landing 70 knot airplane buffeted pushed right runway centerline pilot recovered realigned airplane nose centerline reported entered flare airplane encountered another wind gust airplane ballooned airplane descended pitched landed hard nose gear propeller struck ground pilot landed airplane without incident airplane sustained substantial damage firewall metar reported wind variable 05 knot time accident pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain pitch control resulted hard landing",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

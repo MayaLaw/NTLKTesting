@@ -1,0 +1,29 @@
+{
+    "Filename": "98733.txt",
+    "Location": "SUNNS intersection, Osaka,",
+    "Accident Number": "DCA19CA034",
+    "Date & Time": "December 4, 2018, 18:00 UTC",
+    "Aircraft": "Boeing 767",
+    "Registration": "N193DN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 2 Minor, 92",
+    "Analysis": {
+        "Text": "december 4 2018 2130 japan standard time delta air line flight 278 n193dn boeing 767300er encountered severe turbulence cruise 95 passenger crew onboard one flight attendant received serious injury two flight attendant received minor injury airplane damaged regularly scheduled international passenger flight operating provision 14 code federal regulation part 121 kansai international airport rjbb osaka japan honolulu international airport phnl honolulu hawaii first officer pilot flying captain pilot monitoring according captain flight experienced continuous light turbulence climb upon reaching fl350 moonless night smooth air captain said deactivated seat belt sign released flight attendant begin cabin service also giving precautionary notice interphone remain seated seatbelt fastened much possible added weather radar set gain auto depicting green radar return display said approaching sunns intersection noted radar showed light green return said discussed first officer agreed request turn climb avoid depicted weather clearance given make turn captain said turned seatbelt sign made announcement everyone including flight attendant seated flight made course deviation avoid weather captain indicated radar gave definition depiction lightning illumination emanating cloud showed cloud extended 1000 foot flight level continued turn remain outside green weather return depiction said radar depiction suddenly showed faint dot red center time ride went immediately smooth severe turbulence without intervening intermediate intensity noted",
+        "Top Words": [
+            [
+                "flight",
+                9
+            ],
+            [
+                "captain",
+                5
+            ],
+            [
+                "said",
+                5
+            ]
+        ]
+    }
+}

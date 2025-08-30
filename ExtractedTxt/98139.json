@@ -1,0 +1,29 @@
+{
+    "Filename": "98139.txt",
+    "Location": "McGrath, Alaska",
+    "Accident Number": "GAA18CA504",
+    "Date & Time": "August 20, 2018, 08:30 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N6727A",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported takeoff gravel dirt airstrip rogue crosswind gust wind pushed airplane right airplane struck bump became airborne continued drifting right landed hard creek airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported prevailing wind light variable gusting airplane departing south probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff crosswind",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

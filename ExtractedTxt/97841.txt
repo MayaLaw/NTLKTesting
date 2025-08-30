@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Patriot, Indiana
+Accident Number:
+CEN18FA282
+Date & Time:
+July 19, 2018, 17:00 Local 
+Registration:
+N228LC
+Aircraft:
+Fisher Celebrity
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aircraft structural failure
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot was conducting a personal flight in  his recently-purchased experimental, 
+amateur-built biplane when the airplane experienced an in-flight breakup and subsequently impacted a 
+cornfield. There were no witnesses to the accident. The upper and lower left wings were attached to each 
+other but were separated from the fuselage. Part of the lower right wing was located with the wreckage 
+but not attached to the fuselage. Additional parts of the upper and lower right wings were found 
+scattered throughout an area between 400 yards to 800 yards west of the impact area, and other parts of 
+the wings were found about 80 yards from the wreckage; however, the majority of the wing structure 
+was not found.
+The right wing attachment fittings displayed fractures intersecting the inboard wing spar attachment bolt 
+hole. The fracture features for each attachment fitting were rough and matte gray in appearance, 
+consistent with ductile overstress fracture and with upward bending of the wing at the attachment 
+location. The outboard end of the attachment fitting piece for the aft spar was also bent aft relative to the 
+inboard end, consistent with the entire upper and lower right wings folding upward and rearward, 
+bending and separating from the airplane. Because this airplane is a biplane, the upward bending of the 
+lower wing attachment was secondary to a primary failure elsewhere, the location of which could not be 
+determined due to the fact that a majority of the wing structure was unrecovered. There was no evidence 
+of any preexisting damage on the wing spar attachment fittings.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An in-flight separation of the right wing due to upward and rearward bending that led to an 
+overstress fracture. The reason for the upward and rearward bending could not be determined 

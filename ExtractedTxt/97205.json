@@ -1,0 +1,29 @@
+{
+    "Filename": "97205.txt",
+    "Location": "Albuquerque, New Mexico",
+    "Accident Number": "GAA18CA262",
+    "Date & Time": "May 7, 2018, 17:30 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N632EP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported en route air unstable choppy airplane climb expected added airplane managed climb 9500 ft mean sea level maintain altitude sudden violent drop altitude followed draft subsequently airplane descended 500 ft ground two hill still struggling climb observed appeared dirt plateau followed cliff decided land plateau avoid possibly falling cliff landing airplane nosed airplane sustained substantial damage fuselage empennage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot decision continue flight mountainous terrain downdraft condition necessitated precautionary landing unsuitable terrain",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "climb",
+                3
+            ]
+        ]
+    }
+}

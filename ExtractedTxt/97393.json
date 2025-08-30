@@ -1,0 +1,29 @@
+{
+    "Filename": "97393.txt",
+    "Location": "Warsaw, Kentucky",
+    "Accident Number": "ERA18LA158",
+    "Date & Time": "June 3, 2018, 09:45 Local",
+    "Aircraft": "Bellanca 7ECA",
+    "Registration": "N8698",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Preflight or dispatch event",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "preflight inspection engine run revealed anomaly pilot attempted takeoff upsloping turf runway initial takeoff roll normal however airplane reached 60 knot pilot determined airplane acceleration normal airplane would clear tree end runway able stop within remaining runway pilot rejected takeoff applied full rudder airplane ground looped resulting substantial damage fuselage cursory examination engine reveal preimpact mechanical anomaly would precluded normal operation however examination determine whether engine capable developing full rated power accident takeoff runway measured 1100 ft 125 ft approximate 3 slope calculated density altitude time accident 2389 ft wind reported nearest weather observation facility would provided headwind component 3 knot takeoff runway according pilot operating handbook maximum gross weight airplane would required 938 ft clear 50ft obstacle given wind condition dry level grass runway however actual distance required would greater calculated 938 ft due upsloping runway likely reduced acceleration noticed pilot result decreased engine performance due density altitude combined upsloping runway would increased runway distance required reach takeoff speed also likely even full engine power given condition day accident runway distance required would close exceeded runway length available although pilot acted appropriately aborting takeoff upon realizing airplane would clear tree end runway delayed decision abort resulted insufficient runway remaining slow stop airplane",
+        "Top Words": [
+            [
+                "runway",
+                13
+            ],
+            [
+                "would",
+                8
+            ],
+            [
+                "takeoff",
+                7
+            ]
+        ]
+    }
+}

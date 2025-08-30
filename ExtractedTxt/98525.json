@@ -1,0 +1,29 @@
+{
+    "Filename": "98525.txt",
+    "Location": "Indianapolis, Indiana",
+    "Accident Number": "WPR19LA011",
+    "Date & Time": "October 21, 2018, 14:44 Local",
+    "Aircraft": "Piper PA32R",
+    "Registration": "N2920Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported approaching destination airport 1000 ft ground level engine lost total power unsuccessful attempt restart engine pilot performed forced landing nearby parking lot airplane sustained substantial damage postaccident examination engine revealed singledrive dual magneto failed produce spark due displacement camshaft result camshaft positioned neutral contact point opened instead closed camshaft rotated approximately 8 point closed open magneto reassembled manufacturer specification tested found produce spark ignition lead displacement camshaft resulted magneto producing spark ignition lead subsequent loss engine power could determined displacement magneto camshaft result improper installation moved flight probable cause finding national transportation safety board determines probable cause accident total loss engine power due displacement dual magneto internal camshaft resulted magneto inability produce spark",
+        "Top Words": [
+            [
+                "magneto",
+                6
+            ],
+            [
+                "camshaft",
+                6
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

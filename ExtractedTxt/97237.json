@@ -1,0 +1,29 @@
+{
+    "Filename": "97237.txt",
+    "Location": "Julian, California",
+    "Accident Number": "WPR18FA139",
+    "Date & Time": "May 10, 2018, 20:31 Local",
+    "Aircraft": "Beech 76",
+    "Registration": "N803FC",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "2hour nighttime visual flight rule instructional crosscountry flight radar data identified airplane easterly flight track first two maneuver mountainous terrain initiated first maneuver left turn 48 course heading 176 course heading throughout turn airplane altitude remained 5600 ft mean sea level msl groundspeed decreased 55 knot completion turn groundspeed increased 67 knot airplane began climb 6600 ft msl continuing southwest course heading 195 airplane made right turn course reversal resumed easterly heading 10 mile radar data depicted airplane initiated second left 180 turn maneuver altitude 6200 ft msl groundspeed 121 knot apparent apex turn airplane 6100 ft msl groundspeed 50 knot airplane began descend groundspeed increased 74 knot decreased 50 knot last radar return showed airplane altitude 5700 ft msl groundspeed 67 knot near accident site radar data revealed maneuver similar except second maneuver began higher elevation terrain airplane separation terrain second maneuver low 1200 ft ground level airplane altitude 6100 ft terrain 4900 ft radar contact lost weather reporting aera accident site indicated extreme turbulence severe downdraft high wind condition although evidence strong wind area time second maneuver consensus among available wind data however upset occurred immediately downwind relatively high terrain inside temperature inversion promote wave action turbulence thus airplane likely encountered downdraft pilot unable recover resulting airplane subsequent impact terrain",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "ft",
+                8
+            ],
+            [
+                "maneuver",
+                7
+            ]
+        ]
+    }
+}

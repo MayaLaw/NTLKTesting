@@ -1,0 +1,62 @@
+AC/prop/rotor contact w person
+Abnormal runway contact
+Abrupt maneuver
+Aerodynamic stall/spin
+Air traffic event
+Aircraft loading event
+Aircraft structural failure
+Aircraft wake turb encounter
+Altitude deviation
+Birdstrike
+Cabin safety event
+Collision during takeoff/land
+Collision with terr/obj (non-CFIT)
+Controlled flight into terr/obj (CFIT)
+Course deviation
+Dragged wing/rotor/float/other
+Electrical system malf/failure
+Explosion (non-impact)
+Fire/smoke (non-impact)
+Flight control sys malf/fail
+Fuel contamination
+Fuel exhaustion
+Fuel related
+Fuel starvation
+Ground collision
+Ground handling event
+Hard landing
+Inflight upset
+Landing area overshoot
+Landing area undershoot
+Landing gear collapse
+Landing gear not configured
+Loss of control in flight
+Loss of control on ground
+Loss of engine power (partial)
+Loss of engine power (total)
+Loss of lift
+Loss of visual reference
+Low altitude operation/event
+Medical event
+Midair collision
+Miscellaneous/other
+Navigation error
+Nose over/nose down
+Not Found
+Other weather encounter
+Part(s) separation from AC
+Powerplant sys/comp malf/fail
+Preflight or dispatch event
+Runway excursion
+Runway incursion veh/AC/person
+Security/criminal event
+Structural icing
+Sys/Comp malf/fail (non-power)
+Tailstrike
+Turbulence encounter
+Uncontained engine failure
+Unknown or undetermined
+VFR encounter with IMC
+Wildlife encounter (non-bird)
+Windshear or thunderstorm
+Wrong surface or wrong airport

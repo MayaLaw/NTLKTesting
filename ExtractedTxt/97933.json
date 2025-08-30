@@ -1,0 +1,29 @@
+{
+    "Filename": "97933.txt",
+    "Location": "Wadsworth, Ohio",
+    "Accident Number": "GAA18CA452",
+    "Date & Time": "July 28, 2018, 13:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N4855G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported telephone interview landing variable wind condition approach speed fast landing roll wind pushed airplane runway right added apply full braking action pilot stated landing roll strong crosswind gust pushed airplane right side runway bush described wind variable gusting report wind speed airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located 10 mile southsouthwest airport reported 34 minute accident wind 290 8 knot automated station reported 26 minute accident wind 310 5 knot airplane landed runway 3 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "wind",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

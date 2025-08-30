@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Rushville, Indiana
+Accident Number:
+CEN18LA352
+Date & Time:
+August 27, 2018, 13:50 Local 
+Registration:
+N4379L
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot indicated that, during the cross-country flight, the engine "sputtered" several times then 
+regained power. During the descent, it sputtered again and then lost power. The pilot reported she did 
+not believe she was experiencing carburetor icing conditions during the cruise portion of the flight and 
+did not remember what temperature the carburetor temperature gauge was displaying at the time. During 
+the descent, the pilot attempted to troubleshoot the engine power loss without applying carburetor heat 
+but was not successful in regaining engine power. During the forced landing, she attempted to maneuver 
+the airplane between a power line pole and several trees. The airplane struck the power lines and 
+impacted a field in a slightly nose-down attitude, which resulted in substantial damage to the wings and 
+fuselage.
+Postaccident examination of the airplane and engine revealed no mechanical malfunctions or failures 
+that would have precluded normal operation. The airplane had adequate fuel on board to complete the 
+flight. The weather conditions at the time of the accident were conducive to serious carburetor icing at 
+glide power settings. The loss of engine power likely occurred due to carburetor icing and the pilot's 
+failure to apply carburetor heat in conditions conducive to carburetor icing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Loss of engine power due to carburetor icing and the pilot's failure to use carburetor heat in weather 
+conditions conducive to carburetor icing.

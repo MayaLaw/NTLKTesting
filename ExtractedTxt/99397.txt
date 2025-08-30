@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Winter Haven, Florida
+Accident Number:
+WPR19LA136
+Date & Time:
+May 4, 2019, 11:00 Local 
+Registration:
+N2134T
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The instructional flight was in-bound to the initial approach fix to practice a simulated instrument 
+approach when the engine began to fluctuate and sputter. The flight instructor switched fuel tanks and 
+turned on the fuel pump to no avail. The airplane was unable to reach a nearby airport, so the flight 
+instructor accomplished a forced landing in an open field. During the forced landing, the airplane’s left 
+wing sustained substantial damage when the landing gear struck a rut in the field.
+Postaccident examination of the airplane revealed no pre-impact anomalies. During the first of several 
+engine runs, the engine started uneventfully but subsequently surged and stopped. Pressure was applied 
+to the fuel system and fuel was observed leaking out of the top two vent holes of the fuel selector. The 
+fuel selector was subsequently bypassed, and the engine started and ran with no additional anomalies 
+noted.
+The fuel selector was removed and examined.  During a pressure test, when the fuel valve was 
+positioned to the left or right tank position, a fuel leak occurred again from the vent holes. Subsequently, 
+the fuel valve was disassembled to examine the housing, shaft, and four O-rings. No anomalies were 
+observed to the housing or shaft. Microscopic examination revealed that two O-rings appeared to have 
+frictional interactions with the inner surface of the housing bore, and the other two O-rings exhibited 
+wear on the surfaces in contact with the inner surface of the housing bore. No additional anomalies were 
+noted.
+The circumstances of the accident are consistent with air entering the fuel system where the fuel leaks 
+occurred in the fuel selector valve.  Air in the fuel lines would have interrupted the flow of fuel to the 
+engine, resulting in a loss of engine power.

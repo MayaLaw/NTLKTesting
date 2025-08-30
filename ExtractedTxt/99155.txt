@@ -1,0 +1,43 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Skwentna, Alaska
+Accident Number:
+ANC19FA038
+Date & Time:
+March 6, 2019, 17:30 Local 
+Registration:
+N7469A
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a cross-country flight through mountainous terrain from a hunting camp to his 
+home airport. Forecast products and AIRMETs that were valid for the flight route indicated that 
+mountain obscuration, marginal visual flight rules, instrument flight rules, and moderate icing conditions 
+were expected. A friend of the pilot stated that snow showers began at the departure site shortly before 
+the airplane departed. The radar track indicated that the pilot initially flew low through a mountain 
+valley, about 4,000 ft mean sea level (msl) (2,500 ft above ground level), and then climbed to 6,900 ft 
+msl while tracking east toward the destination. The last recorded radar data target indicated an altitude 
+about 1,000 ft above the nearest mountain peak. When the airplane did not arrive at the destination, an 
+ALNOT was issued and an extensive multi-agency search was conducted over the snow-covered 
+mountain range; the search was terminated about 2 weeks later when the wreckage was not found. More 
+than 4 months later, after the snow melted, the wreckage was discovered on a mountain ridge about 15 
+miles east of the last radar return point.
+A postaccident examination of the airframe and engine revealed no evidence of mechanical 
+malfunctions or failures that would have precluded normal operation. The damage to the airplane 
+indicated that it impacted the ground in a nose-down, near-vertical attitude with a rear fuselage twist, 
+which was consistent with an aerodynamic stall and spin. 
+A review of satellite imagery, sounding data, and radar reflectivity over the accident site revealed that an 
+overcast cloud layer with approximate cloud-top heights of 20,000 ft was present at the accident time. 
+Moderate rime icing conditions and light precipitation were likely present. Weather camera images near 
+the accident site indicated obscured mountaintops in broken to overcast cloud layers. Given the weather 
+information, it is likely that structural icing accumulated during the flight, resulting in the pilot's 
+inability to maintain airspeed and/or altitude, which resulted in an aerodynamic stall and spin.

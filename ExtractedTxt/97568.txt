@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Chester, Connecticut
+Accident Number:
+GAA18CA374
+Date & Time:
+June 21, 2018, 19:30 UTC 
+Registration:
+N6KG
+Aircraft:
+Beech V35B
+Aircraft Damage:
+Substantial
+Defining Event:
+Ground collision
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, during taxi to his hangar, the airplane's left wingtip struck the east-facing wall of 
+a hangar. The airplane pivoted about the left wing and entered the hangar before it came to a stop. 
+The airplane sustained substantial damage to the engine mounts. 
+The pilot asserted that the accident could have been prevented if he had monitored the distance from the 
+airplane's wingtip to the hangar.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain clearance from a hangar during taxi. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "99411.txt",
+    "Location": "Naples, Florida",
+    "Accident Number": "ERA19FA170",
+    "Date & Time": "May 11, 2019, 15:30 Local",
+    "Aircraft": "Piper PA 30",
+    "Registration": "N7650Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Birdstrike",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "approach destination airport visual meteorological condition airplane deviated unannounced intended flight path descended impacted ground postaccident examination airframe flight control engine engine system propeller revealed evidence preimpact failure malfunction remains 38pound black vulture found wreckage rear seat headrest two inflatable lift vest located 440 ft main wreckage found contain either dna andor microscopic feather black vulture black vulture located among wreckage airplane flight path deviation unannounced likely black vulture directly impacted penetrated windshield front pilot position incapacitated resulting uncontrolled descent airplane certificated accordance civil air regulation 3 specified minimum standard window windshield structure strength bird penetration probable cause finding national transportation safety board determines probable cause accident incapacitation pilot due birdstrike windshield front pilot position approach land",
+        "Top Words": [
+            [
+                "black",
+                4
+            ],
+            [
+                "vulture",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98652.txt",
+    "Location": "Harmon, North Dakota",
+    "Accident Number": "CEN19FA030",
+    "Date & Time": "November 17, 2018, 22:40 Local",
+    "Aircraft": "Cessna 441",
+    "Registration": "N441CX",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "pilot two medical crewmembers repositioning airplane pick patient aeromedical transport dark night instrument meteorological condition prevailed flight radar data showed airplane climb 14000 ft mean sea level departure proceed direct toward destination airport beginning right descending turn airplane subsequently broke inflight impacted terrain distress call received pilot accident although weather condition conducive inflight icing evidence structural icing identified scene debris field 2500 ft long disbursement wreckage confirmed wing horizontal stabilizer elevator engine separated airplane impacting ground examination wreckage revealed initiating failure failure wing passed center airplane three wing spar exhibited sbending deformation indicative positive overload producing compressive buckling fracture impact signature black paint transfer gouged aluminum consistent left outboard wing separating struck right engine wing spar failed evidence preexiting condition would degraded strength airplane structure fracture location flight control continuity confirmed examination engine propeller available system showed mechanical malfunction failure could contributed accident descending right turn inconsistent intended flight track atcprovided clearance however insufficient information determine initiated pilot became aware airplane state dark night imc condition yet absence distress call communication atc airplane deviation suggests pilot initially aware change state structural failure signature airplane indicative wing failing positive overload consistent pilot initiating pull maneuver exceeded airplane spar structural integrity attempted recovery spiral dive",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "wing",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

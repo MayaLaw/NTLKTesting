@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Deport, Texas
+Accident Number:
+CEN18LA113
+Date & Time:
+March 2, 2018, 16:25 Local 
+Registration:
+N3733X
+Aircraft:
+Aero Commander 100-180
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+ 
+The private pilot reported that the airplane had been parked outside and exposed to an extended period 
+of rainfall in the days leading to the accident. On the day before the accident, the pilot drained nearly 2 
+gallons of water from the fuel system before he saw clean, blue fuel. He subsequently repositioned the 
+airplane on the ramp to see if he could get more water out of the tanks and installed new gaskets for the 
+fuel caps. On the day of the accident, the pilot sumped the fuel system and found a small amount of 
+water during the first check but reported that it was clear on the second check. During the pre-takeoff 
+engine run-up, the airplane operated normally, and the pilot chose to depart.
+About 25 minutes after takeoff, the pilot executed a steep turn about 500 ft above ground level. About 1 
+minute after leveling off, the engine sputtered once and experienced a total loss of power. His attempt to 
+restart the engine was unsuccessful. The pilot performed a forced landing to a field but was unable to 
+stop the airplane before hitting trees during the landing roll. He reported that there were no mechanical 
+malfunctions or failures with the airplane that would have precluded normal operation before the loss of 
+engine power. Postaccident examination of the airplane revealed that the right wing was separated from 
+the airframe and contained no fuel. The left wing was about 1/2 full, but the fuel was not sampled. The 
+fuel filler neck and cap showed large amounts of rust, indicative of inadequate maintenance of the fuel 
+caps, which would have allowed water to enter the neck and tanks. It is likely that precipitation entered 
+the fuel system around the poorly-maintained fuel filler and cap, which resulted in water contamination 
+of the fuel, and that there was water remaining in the system even after the pilot drained large amounts 
+of water before the flight, which resulted in the subsequent loss of engine power.   
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

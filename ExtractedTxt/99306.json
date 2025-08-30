@@ -1,0 +1,29 @@
+{
+    "Filename": "99306.txt",
+    "Location": "Key West, Florida",
+    "Accident Number": "ERA19LA156",
+    "Date & Time": "April 23, 2019, 12:00 Local",
+    "Aircraft": "Cessna 208",
+    "Registration": "N366TA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "5 None",
+    "Analysis": {
+        "Text": "pilot landed seaplane easterly wind noticed surface wind greater forecast unable taxi beaching location elected return destination maneuvered airplane wind applied takeoff power described takeoff run bumpy water condition rough pilot reported left float departed airplane rotation speed airplane subsequently nosed water pilot passenger assisted nearby vessel airplane subsequently sank 50 ft water inclement sea wind condition prevented recovery wreckage 52 day wreckage stored outside additional 13 day recovery salvage company extensive saltwater corrosion prevented metallurgical examination landing gear component however indication preexisting mechanical malfunction failure found probable cause finding national transportation safety board determines probable cause accident pilot decision attempt takeoff rough sea condition resulting damage float sinking seaplane",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "wind",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

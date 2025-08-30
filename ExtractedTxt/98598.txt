@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Cleburne, Texas
+Accident Number:
+GAA19CA048
+Date & Time:
+November 1, 2018, 14:00 Local 
+Registration:
+N3984L
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the final approach to the destination airport, the engine lost power. Due to 
+homes that were in line with the approach end of the runway, he decided to perform an emergency 
+landing in a field, during which the airplane slid and then came to rest in trees. 
+The airplane sustained substantial damage to the left wing.
+The pilot reported that he had not considered the engine's fuel burn for touch-and-go landings or 
+headwinds during his preflight planning. During postaccident examination, a Federal Aviation 
+Administration inspector reported that the fuel gauges read zero and that no fuel was found in the right 
+fuel tank and only 10 ounces of fuel were found in the left fuel tank. Fuel was added to the airplane, and 
+the engine started and operated normally. He added that he talked to the pilot, and he stated that he had 
+flown 3.6 hours and performed at least six touch-and-go landings. The pilot also stated that the airplane 
+usually has a 3.5-hour maximum range at 1,000 ft above ground level at 8 to 9 gallons per hour and that 
+he likely did not properly monitor the engine's fuel consumption, which led to fuel exhaustion. Given 
+the evidence, it is likely the pilot did not ensure that there was sufficient fuel onboard the airplane for the 
+flight and that he did not monitor it properly during the flight, which resulted in fuel exhaustion and the 
+subsequent total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper preflight fuel planning and in-flight fuel management, which resulted in fuel 
+exhaustion and the subsequent total loss of engine power. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "98269.txt",
+    "Location": "Northway, Alaska",
+    "Accident Number": "GAA18CA541",
+    "Date & Time": "September 5, 2018, 16:25 Local",
+    "Aircraft": "CUB CRAFTERS INC CC18",
+    "Registration": "N413CC",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported straightandlevel flight large bird struck airplane right wing airplane control became degraded pilot chose offairport landing site landed airplane without incident airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident airplane collision bird straightandlevel flight finding environmental issue animalsbirds effect operation",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

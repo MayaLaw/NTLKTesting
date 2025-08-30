@@ -1,0 +1,32 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Dalhart, Texas
+Accident Number:
+CEN17LA226
+Date & Time:
+June 9, 2017, 15:05 Local 
+Registration:
+N782SW
+Aircraft:
+Piper PA 32R-301T
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airplane was in cruise flight when the engine's forward main seal (crankshaft seal) began to leak 
+engine oil. Shortly thereafter, the engine lost power, and the pilot subsequently performed a forced 
+landing to a field about 5 miles west of the departure airport. 
+Postaccident examination of the engine revealed that the bottom half of the crankshaft seal had slipped 
+forward from its placement, which allowed engine oil to leak from the engine. The seal had an 
+approximate time in service of 21 hours since its replacement. It is likely that maintenance personne 
+installed an improperly sized crankshaft seal, which led to it slipping, allowing the engine oil to leak.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the engine's front bearing seal due to maintenance personnel's installation of an 
+improperly sized crankshaft seal, which resulted in oil starvation and a forced landing.

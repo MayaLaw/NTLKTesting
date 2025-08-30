@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Bakersfield, California
+Incident Number:
+WPR19IA030
+Date & Time:
+November 23, 2018, 17:33 Local 
+Registration:
+N781FE
+Aircraft:
+Cessna 208
+Aircraft Damage:
+None
+Defining Event:
+Medical event
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The pilot loaded the cargo onboard the airplane, closed the door, and started the engine with the cabin 
+air vents closed, as it was cold outside. While taxiing the airplane to the run-up area, the pilot became 
+sleepy, had difficulty breathing, and subsequently became unconscious and unresponsive to tower 
+controllers. About 37 minutes after the pilot closed the door of the unvented cockpit, a firefighter 
+responded to the airplane, which was still parked in the run-up area, opened the airplane door, and the 
+pilot regained consciousness. The airplane was not damaged. 
+The shipper of the boxes had grossly underreported the amount of dry ice contained in the boxes due to 
+an improperly trained employee who had deposited nearly twice the amount of dry ice in each box. Dry 
+ice sublimates into carbon dioxide (CO2), which can lead to loss of consciousness and death at certain 
+exposure levels. Within 5 minutes, the airplane's unvented configuration led to a CO2 concentration that 
+was twice the Federal Aviation Administration and Occupational Safety and Health Administration 
+standards and, within 30 minutes, the concentration reached a level consistent with loss of 
+consciousness. 
+Based on the CO2 concentrations at the time of the incident, the cause of the pilot's loss of 
+consciousness was CO2 poisoning from the sublimation of dry ice in an unventilated space. 
+The pilot may still have suffered symptoms from CO2 poisoning and possibly incapacitation had the 
+unventilated cabin been loaded with the dry ice weight that was reported on the label; however, proper 
+ventilation would have decreased the CO2 concentration in the cabin and may have prevented the pilot's 
+loss of consciousness altogether. At the time of the incident, publicly available literature included an 
+advisory circular to pilots flying cargo loads of dry ice to maintain an adequate circulation of fresh air. 
+Despite the availability of this information, the pilot chose to fly the airplane in an unventilated 
+configuration, and the operator did not have any guidance to encourage ventilation, as its policy 
+permitted operation with both the overhead and side vents closed. 

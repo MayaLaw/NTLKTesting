@@ -1,0 +1,44 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Julian, California
+Accident Number:
+WPR18FA139
+Date & Time:
+May 10, 2018, 20:31 Local 
+Registration:
+N803FC
+Aircraft:
+Beech 76
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+During the 2-hour nighttime visual flight rules instructional cross-country flight, radar data identified the 
+airplane on an easterly flight track when the first of two maneuvers over mountainous terrain was 
+initiated. The first maneuver was a left turn from about a 48° course heading to about a 176° course 
+heading. Throughout the turn, the airplane's altitude remained about 5,600 ft mean sea level (msl), and 
+the groundspeed decreased to 55 knots. At the completion of the turn, the groundspeed increased to 
+about 67 knots, and the airplane began to climb to 6,600 ft msl while continuing to the southwest on a 
+course heading of about 195°. The airplane then made a right turn course reversal and resumed the 
+easterly heading for about 10 miles.  
+The radar data then depicted the airplane initiated a second left 180° turn maneuver at an altitude of 
+6,200 ft msl and a groundspeed of about 121 knots. At the apparent apex of the turn, the airplane was at 
+6,100 ft msl and a groundspeed of 50 knots. The airplane then began to descend, and the groundspeed 
+increased to 74 knots and then decreased to 50 knots. The last radar return showed the airplane at an 
+altitude of 5,700 ft msl and a groundspeed of 67 knots near the accident site. Radar data revealed that 
+both maneuvers were similar except that the second maneuver began over higher elevation terrain. The 
+airplane's separation from the terrain during the second maneuver was as low as 1,200 ft above ground 
+level (when the airplane was at an altitude of 6,100 ft and was over terrain that was 4,900 ft) before 
+radar contact was lost.  
+Weather reporting in the aera of the accident site indicated extreme turbulence and severe up and 
+downdrafts during high wind conditions. Although there is evidence of strong wind in the area at the 
+time of the second maneuver, there is no consensus among the available wind data. However, the upset 
+occurred immediately downwind of relatively high terrain and inside of a temperature inversion, which 
+can promote wave action and turbulence. Thus, the airplane likely encountered a downdraft and the pilot 
+was unable to recover, resulting in the airplane's subsequent impact with terrain. 

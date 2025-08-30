@@ -1,0 +1,29 @@
+{
+    "Filename": "94721.txt",
+    "Location": "Winder, Georgia",
+    "Accident Number": "ERA17FA106",
+    "Date & Time": "February 16, 2017, 14:00 Local",
+    "Aircraft": "Beech C23",
+    "Registration": "N24695",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aircraft loading event",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "student pilot recently purchased airplane flight instructor conducting local instructional flight another pilot reported approaching airport landing heard airplane likely accident airplane announce common traffic advisory frequency would departing runway 31 however see airplane depart witness driving highway near airport observed accident airplane fly front heading southsoutheast stated airplane seemed flying low fast went highway began nose level tilt right witness lost sight airplane behind tree airplane impacted tree terrain southeasterly heading 500 ft west departure end runway 31 runway 13 threshold given location orientation wreckage possible flight instructor student departed runway 31 attempting return airport land opposite runway 13 experienced loss control airplane turned back toward runway 13 pilot would encountered 8knot gusting 14knot tailwind would increased airplane ground speed closure rate terrain obstacle surrounding airport runway weight balance calculation revealed although airplane operating maximum gross weight time accident center gravity cg forward limit established manufacturer since airplane stability control affected improper balance exceedance forward limit would likely resulted noseheavy condition difficulty controlling raising nose especially takeoff landing although reason decision land opposite runway could determined likely airplane forward cg affected control characteristic trim required help relieve control force imposed forward cg may resulted reduced pitch control travel lower airspeed required approach landing examination airplane engine reveal evidence preimpact malfunction failure would precluded normal operation evidence fuel onboard lack airframe flight control engine anomaly",
+        "Top Words": [
+            [
+                "airplane",
+                14
+            ],
+            [
+                "runway",
+                8
+            ],
+            [
+                "control",
+                6
+            ]
+        ]
+    }
+}

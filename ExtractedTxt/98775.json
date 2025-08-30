@@ -1,0 +1,29 @@
+{
+    "Filename": "98775.txt",
+    "Location": "Aberdeen, Idaho",
+    "Accident Number": "WPR19FA042",
+    "Date & Time": "December 17, 2018, 07:55 Local",
+    "Aircraft": "Piper PA-24-250",
+    "Registration": "N6283P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "security camera video captured airplane initial climb takeoff video showed airplane entered view camera appeared shallow climb however 14 second later airplane descended near vertical manner view camera airplane impacted open terrain 1850 ft west departure end runway examination airframe revealed mechanical anomaly would precluded normal operation however left fuel selector valve left wingtip tank position right selector valve position right main fuel tank right wingtip tank position airplane flight manual supplement wingtip fuel tank installation stated wingtip tank fuel used level flight likely placement fuel port wingtip fuel tank airplane climb attitude fuel may reached fuel port tank result pilot improper positioning fuel valve could led fuel starvation takeoff climb resulted loss engine power additionally examination engine revealed magneto found poor condition showed evidence little maintenance performed left magneto drive shaft would rotate disassembly left magneto revealed excessive wear bearing race attached drive shaft excessive wear allowed magnet contact magneto housing resulted magneto grounded thus inoperative inoperative magneto would partially reduced engine power likely pilot experienced loss engine power degree takeoff initial climb attention could diverted part troubleshooting loss engine power pilot diverted attention likely allowed airplane exceed critical angle attack resulting stall subsequent spin altitude low recovery",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "tank",
+                7
+            ]
+        ]
+    }
+}

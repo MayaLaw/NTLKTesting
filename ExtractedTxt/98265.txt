@@ -1,0 +1,46 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Lake Worth, Florida
+Accident Number:
+ERA18FA244
+Date & Time:
+September 9, 2018, 10:37 Local 
+Registration:
+N2707J
+Aircraft:
+Cessna 335
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot, who was the owner of the airplane, was conducting a personal cross-country flight with one 
+passenger. Recorded engine data indicated that, about 9 miles from the destination airport, the left 
+engine lost all power for about 2 minutes. Power was restored for about 2 minutes before it was lost 
+again as the airplane was on a left downwind leg abeam the approach end of the runway. The right 
+engine's power output remained relatively constant for the remainder of the flight. The airplane 
+continued the downwind leg for about 20 seconds, then began a left descending 180° turn. Data 
+recovered from the primary flight display indicated that, at the end of this turn, the airspeed decreased to 
+73 knots (kts), below the airplane's published minimum control speed of 83 kts, and the airplane rolled 
+inverted and descended into the ground.
+The pilot did not hold a valid pilot certificate at the time of the accident, as his certificate had been 
+revoked about 21 years earlier. Although the pilot had owned the airplane for about 7 years, he had 
+logged only 1.8 hours in the preceding eight months, and 6.4 hours during the prior calendar year. The 
+most recent documented practice of one engine inoperative (OEI) procedures was over 6 years before 
+the accident, and there was no record of any flight reviews in his logbook; therefore, it is unlikely that 
+the pilot was proficient in the procedures associated with OEI at the time of the accident, which included 
+the criticality of maintaining minimum control speed (Vmc) and not turning into the nonoperational 
+engine.
+Examination of both engines revealed no anomalies that would have precluded normal operation and the 
+right engine's recorded data parameters and propeller exhibited signatures consistent with the engine 
+operating until impact. Although the engine monitor's recorded parameters indicated the left engine lost 
+power immediately before the accident, it lacked sufficient parameters to determine why the loss of 
+engine power occurred. Given the available fuel onboard, the airplane had adequate fuel to complete the 
+accident flight; however, the pilot's management of the fuel during the flight and whether it contributed 
+to the loss of left engine power could not be determined.
+Although autopsy of the pilot revealed evidence of severe coronary artery disease, the recorded flight 

@@ -1,0 +1,29 @@
+{
+    "Filename": "95414.txt",
+    "Location": "Skwentna, Alaska",
+    "Accident Number": "ANC17LA033",
+    "Date & Time": "June 17, 2017, 14:34 Local",
+    "Aircraft": "Piper PA 12",
+    "Registration": "N4018H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot transporting 120 lb plywood secured airplane float strut via cargo strap remote cabin pilot reported 200 ft ground landing approach airplane experienced uncommanded left turn pilot realized rudder control rudder locked left airplane subsequently impacted tree terrain pilot reported mechanical anomaly engine anomaly airplane loss control airplane water rudder cable descend fuselage along support strut plywood secured water rudder directly linked rudder likely flight plywood shifted interfered water rudder cable resulted pilot loss rudder control landing approach probable cause finding national transportation safety board determines probable cause accident pilot failure properly secure external load resulted load shifting flight interference water rudder cable subsequent loss control",
+        "Top Words": [
+            [
+                "rudder",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

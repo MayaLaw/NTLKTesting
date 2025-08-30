@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+West Columbia, South Carolina
+Accident Number:
+ERA18LA213
+Date & Time:
+July 25, 2018, 13:41 Local 
+Registration:
+C-GRFF
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Course deviation
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was taxiing the airplane and receiving progressive taxi instructions from an air traffic 
+controller. The pilot indicated that he asked if he should turn onto the taxiway and was instructed to do 
+so. However, instead of proceeding on the taxiway, which had a continuous painted yellow centerline, 
+the pilot turned left onto a vehicle service road, which had a painted white "stop" marking and an 
+adjacent stop sign. The underside of the airplane's left wing subsequently struck the stop sign, which 
+resulted in substantial damage.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadvertent navigation onto a service road instead of a taxiway, which resulted in a collision 
+with a stop sign. 
+Findings
+Personnel issues
+Incorrect action performance - Pilot
+Environmental issues
+Sign/marker - Contributed to outcome

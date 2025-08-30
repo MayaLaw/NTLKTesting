@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Santa Teresa, New Mexico
+Accident Number:
+CEN18LA222
+Date & Time:
+June 10, 2018, 12:00 Local 
+Registration:
+N43443
+Aircraft:
+Taylorcraft BC12 D
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during a touch-and-go landing in the tailwheel-equipped airplane, he 
+felt an "unusual mechanical sensation," but was able to maintain directional control and 
+continued the takeoff. During his second landing approach, the airplane “aggressively 
+weathercocked” into the wind on short final approach and the airplane touched down tailwheel 
+first. During the landing roll, the airplane started to veer left, and the pilot was unable to 
+correct with rudder input. The airplane continued off the left side of the runway and nosed 
+over, resulting in substantial damage. 
+After the accident, the pilot noted that the left rudder spring had disconnected from the arm of 
+the steerable tailwheel and the safety wire was missing. The pilot reconnected the spring before 
+the airplane could be examined; whether the tailwheel spring contributed to the loss of control 
+could not be determined.
+The recorded weather conditions about the time of the accident included a left quartering 
+tailwind at 6 knots with gusts to 13 knots for the landing runway.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of directional control during landing in gusting crosswind conditions for 
+reasons that could not be determined based on the available information.

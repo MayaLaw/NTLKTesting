@@ -1,0 +1,45 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Sheboygan, Wisconsin
+Accident Number:
+WPR18FA200
+Date & Time:
+July 20, 2018, 16:04 Local 
+Registration:
+N747J
+Aircraft:
+De Havilland DH112 VENOM
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Fatal, 2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a formation training flight consisting of two airplanes; the accident airplane 
+was in the No. 2 position. The airplane took off about 8 seconds behind the lead (No. 1 position) 
+airplane. Witnesses described the airplane's takeoff as sluggish and indicated that the airplane's wings 
+rocked back and forth shortly after lifting off. The witnesses' testimony was consistent with one witness' 
+video recording, which showed the airplane climbing away from the runway and making a shallow left 
+turn. As the airplane passed the witness' position, the engine sound decreased and rapidly increased. The 
+airplane reached an altitude of about 200 ft above the ground before descending and impacting a farm 
+structure. Another video captured the airplane descending in a slightly nose-up and wings-level attitude 
+before impact. The flaps and landing gear both appeared retracted in that video.
+No preimpact anomalies with the airframe and engine were found that would have precluded normal 
+operation of the airplane. Signatures consistent with circumferential rub marks within the turbine were 
+identified. Although the rate of rotation at the time of impact could not be determined, the retraction of 
+the landing gear at a normal rate showed that the engine was likely producing some power at that time.
+One of the witnesses to the accident was a pilot with experience in the accident make and model. He 
+described the engine powering the airplane as "high airflow and thrust" and indicated that the engine 
+could experience a compressor stall when operating at a high angle of attack and a high-power setting. 
+He also stated that the airplane could get into a low energy state if an engine failure occurred and that 
+the airplane would normally accelerate "very quickly" if it leveled off at 200 ft. 
+The witness accounts of the accident airplane's wings rocking back and forth were consistent with the 
+airplane encountering the wake turbulence of the lead airplane. Wake turbulence can disrupt airflow to 
+the engine of a trailing airplane. The final seconds of the witness' video showed the pilot controlling the 
+airplane during the climb to 200 ft, after which the airplane began descending. Thus, the wake 
+turbulence from the lead airplane likely disrupted airflow to the engine and caused a compressor stall 
+and a partial loss of engine power, which resulted in the airplane's inability to continue to climb.

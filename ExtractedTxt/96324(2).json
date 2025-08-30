@@ -1,0 +1,29 @@
+{
+    "Filename": "96324(2).txt",
+    "Location": "Marathon, Florida",
+    "Accident Number": "ERA17LA347",
+    "Date & Time": "September 16, 2017, 08:55 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N3187V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot fueled airplane capacity departing local photography flight 1 hour departing pilot climbing airplane cruise altitude return departure airport 800 1000 ft mean sea level airplane experienced sudden total loss engine power open water beyond gliding distance shore pilot prepared ditch attempted five engine restarts without success propeller continued windmill airplane landed upright subsequently sank 12 ft saltwater airplane recovered 12 day later fuel sheen observed area wreckage examined following recovery engine crankshaft could rotated due saltwater corrosion examination enginedriven fuel pump revealed drive shaft remained intact could actuated hand anomaly noted engine ignition induction system could thoroughly examined tested due extensive saltwater corrosion therefore reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined saltwater corrosion precluded complete examination",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "could",
+                5
+            ]
+        ]
+    }
+}

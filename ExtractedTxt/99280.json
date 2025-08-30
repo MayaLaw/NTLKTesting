@@ -1,0 +1,29 @@
+{
+    "Filename": "99280.txt",
+    "Location": "Denver, Colorado",
+    "Accident Number": "GAA19CA211",
+    "Date & Time": "April 16, 2019, 11:15 Local",
+    "Aircraft": "Tubbs S/Performance Air Inc PA-",
+    "Registration": "N755K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported made threepoint landing landing roll airplane veered left corrected right rudder right brake subsequently airplane ground looped right left main landing gear collapsed left wing struck ground airplane sustained substantial damage left wing spar pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll resulted ground loop",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

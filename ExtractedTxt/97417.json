@@ -1,0 +1,29 @@
+{
+    "Filename": "97417.txt",
+    "Location": "Arlington, Washington",
+    "Accident Number": "GAA18CA328",
+    "Date & Time": "June 7, 2018, 11:30 Local",
+    "Aircraft": "Bellanca 7GCBC",
+    "Registration": "N3202H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing roll applied brake hard tailwheel equipped airplane nosed airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot overapplication brake landing roll resulted noseover finding aircraft brake incorrect useoperation personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "brake",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

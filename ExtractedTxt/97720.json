@@ -1,0 +1,29 @@
+{
+    "Filename": "97720.txt",
+    "Location": "Cut Bank, Montana",
+    "Accident Number": "GAA18CA404",
+    "Date & Time": "July 9, 2018, 12:00 Local",
+    "Aircraft": "Cessna 180",
+    "Registration": "N180GB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane circled airport check wind direction speed initiated final approach 70 knot 3 notch flap reported airplane encountered wind gust initiated landing flare upon touchdown airplane bounced applied forward yoke pressure airplane began drift right runway centerline landing roll applied left rudder left aileron counter drift tailwheel touched airplane veered left applied right rudder right brake right main landing gear collapsed left wing lifted right wing struck ground airplane exited left side runway came rest grass safety area airplane sustained substantial damage right wing spar pilot reported time accident wind 7 knot west southwest pilot landed airplane runway 32 metar airport reported time accident wind calm sky clear pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "right",
+                6
+            ],
+            [
+                "left",
+                5
+            ]
+        ]
+    }
+}

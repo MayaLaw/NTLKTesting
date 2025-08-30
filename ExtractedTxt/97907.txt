@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+LAWRENCEVILLE, Virginia
+Accident Number:
+GAA18CA448
+Date & Time:
+July 26, 2018, 15:30 Local 
+Registration:
+N1489B
+Aircraft:
+Luscombe 8
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during landing, as soon as the main landing 
+gear touched down, the airplane veered left. He tried to correct with right rudder, but the airplane exited 
+the runway to the left into the grass and came to rest inverted.
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation station located on the airport reported that, about 5 minutes after the 
+accident, the wind was from 230° at 5 knots. The airplane landed on runway 36.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll with a tailwind.

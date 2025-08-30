@@ -1,0 +1,29 @@
+{
+    "Filename": "98607.txt",
+    "Location": "Merced, California",
+    "Accident Number": "GAA19CA052",
+    "Date & Time": "November 3, 2018, 19:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N2956B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported night currency flight flew airport familiar recalled approach normal flare airplane collided three runway mediumintensity approach lighting system runway alignment indicator light landed airplane runway taxi parking nosewheel tire deflated pilot reported 90 day since last flight night airplane sustained substantial damage wing lower right aft fuselage pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper glidepath landing night resulted collision approach light",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

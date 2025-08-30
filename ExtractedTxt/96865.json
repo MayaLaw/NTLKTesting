@@ -1,0 +1,29 @@
+{
+    "Filename": "96865.txt",
+    "Location": "Chesapeake, Virginia",
+    "Accident Number": "ERA18LA101",
+    "Date & Time": "March 13, 2018, 11:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N5646V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot conducting touchandgo landing airplane 200 ft ground level takeoff engine lost total power pilot cycled throttle straight ahead descent restored power momentarily forced landing ground roll nose landing gear separated airplane sustained substantial damage wing fuselage postaccident test run engine using fuel available airplane tank intact fuel system revealed engine operated normally anomaly noted weather condition time accident conducive formation serious carburetor icing descent engine power setting pilot stated activated carburetor heat point flight engine operated normally accident weather condition conducive formation carburetor icing pilot failed use carburetor heat approach likely engine lost power due accumulation carburetor ice takeoff probable cause finding national transportation safety board determines probable cause accident pilot failure apply carburetor heat approach touchandgo landing resulted total loss engine power subsequent takeoff",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "carburetor",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

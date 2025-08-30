@@ -1,0 +1,29 @@
+{
+    "Filename": "94781.txt",
+    "Location": "Marysville, California",
+    "Accident Number": "WPR17LA067",
+    "Date & Time": "February 23, 2017, 17:30 Local",
+    "Aircraft": "GUARINO Vans",
+    "Registration": "N470LM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot stated en route personal crosscountry flight engine experienced loss thrust airspeed slowed propeller windmilling throttle effect engine pilot noted propeller circuit breaker popped note indication anomaly cockpit addition engine operating partial power pilot unable maintain level flight configured airplane best glide speed attempted regain engine power twice switched fuel tank avail pilot made forced landing soft field resulted substantial damage airframe postaccident examination noted evidence engine mechanical anomaly thermal distress several wire wiring harness disconnected cockpit firewall unknown happened impact attempted engine test fuel source rigged left fuel tank starter solenoid heard activating engine would start external power source used attempt start engine engine cranked would start fuel continuity pressure system confirmed fragmentation wreckage specifically electrical system precluded definitive determination cause engine failure probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined due fragmentation electrical system",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

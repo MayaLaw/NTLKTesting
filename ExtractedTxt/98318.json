@@ -1,0 +1,29 @@
+{
+    "Filename": "98318.txt",
+    "Location": "Upland, California",
+    "Accident Number": "WPR18LA268",
+    "Date & Time": "September 17, 2018, 13:35 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N7472P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel contamination",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot final approach destination airport conclusion crosscountry flight engine lost total power unable restore engine power pilot performed forced landing field short runway airplane impacted large rock resulting substantial damage examination airplane revealed 25 total gallon fuel onboard examination engine revealed mechanical anomaly would precluded normal operation except aft boost pump contained mixture fuel water given lack anomaly presence fuel onboard likely engine ingested fuelwater mixture resulted loss engine power probable cause finding national transportation safety board determines probable cause accident loss engine power due fuel contamination",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "power",
+                4
+            ],
+            [
+                "fuel",
+                4
+            ]
+        ]
+    }
+}

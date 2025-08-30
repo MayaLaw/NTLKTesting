@@ -1,0 +1,29 @@
+{
+    "Filename": "98277.txt",
+    "Location": "Mason City, Iowa",
+    "Accident Number": "GAA18CA545",
+    "Date & Time": "September 8, 2018, 11:45 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N669HT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported battery low start engine asked fixedbase operator personnel could assist jumper pack told anyone duty authorized assist would wait couple day decided start engine hand propping began hand propping set parking brake following engine start airplane began move forward pilot attempted reenter airplane apply brake airplane struck hangar airplane sustained substantial damage left wing federal aviation administration inspector examined airplane accident reported parking brake functioned normally added pilot stated sure set brake may gotten enough pressure hold airplane federal aviation administration airplane flying handbook faah80833a contained section titled hand propping state following engine hand propped unless two people familiar airplane hand propping technique available perform procedure person pulling propeller blade directs activity charge procedure person thoroughly familiar control must seated airplane brake set additional precaution chock may placed front main wheel feasible airplane tail may securely tied never allow person unfamiliar control occupy pilot seat hand propping procedure never attempted alone probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "hand",
+                6
+            ],
+            [
+                "propping",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Batavia, Ohio
+Accident Number:
+GAA18CA276
+Date & Time:
+May 8, 2018, 16:25 Local 
+Registration:
+N377ES
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, before the flight, he performed weight and balance and performance calculations 
+with the initial fuel level in the airplane. The fuel tanks were then filled full of fuel, but he did not 
+amend the weight and balance or performance calculations.
+The pilot reported that, during takeoff, after the airplane became airborne, he did not feel comfortable 
+with the way the airplane was performing, so he reduced power and landed the airplane on the remaining 
+runway. He added that he did not have enough runway to stop and attempted to exit on a taxiway but 
+"understeered," and the airplane exited the runway into a ditch.
+The airplane sustained substantial damage to the fuselage.
+The airplane's maximum gross weight was 2,460 lbs, and the weight at the time of the accident was 
+2,600 lbs, which was about 140 lbs over the maximum gross weight and likely affected the airplane's 
+takeoff performance.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's decision to take off with the airplane over its maximum gross weight due to his failure to 
+perform preflight weight and balance calculations, which affected the airplane's takeoff performance, 

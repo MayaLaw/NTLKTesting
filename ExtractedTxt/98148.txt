@@ -1,0 +1,42 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Minneapolis, Minnesota
+Accident Number:
+CEN18LA349
+Date & Time:
+August 23, 2018, 11:06 Local 
+Registration:
+N215SF
+Aircraft:
+North American T-28B
+Aircraft Damage:
+Destroyed
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that he received a generator failure annunciation while en route and decided to return to 
+the departure airport. During the approach, the pilot opened the canopy after severe smoke entered in the 
+cockpit. The pilot stated there was a heavy spray of fuel during the downwind leg of the approach that 
+ignited during the base leg of the approach. During the final leg, when the airplane was about 150-200 ft 
+above ground level, he determined that he could not reach the runway due to the severe fire. He pushed 
+the airplane nose down about 20-25°, and the airplane impacted the ground short of the runway. The 
+airplane was destroyed by impact forces and a postcrash fire. Postaccident examination of a fabric 
+sample from the pilot's flight suit revealed stains that were consistent with hydraulic fluid. Postaccident 
+examination of the airplane revealed the engine was separated from the airframe, and the propeller was 
+separated from the engine. The propeller blades displayed features consistent with engine power. Fire 
+consumed most of the cockpit area and underlying systems between the firewall and aft cockpit. Due to 
+the fire damage, the ignition source and the flammable source could not be determined. The pilot did not 
+perform an emergency shut down of the electrical system and/or engine after the generator failure 
+annunciation as indicated in the airplane flight manual. However, the effect of the pilot not performing 
+the airplane emergency procedures for smoke and fire is unknown because the timing in which the 
+procedures would have to be performed, the flammable source location, and the kind of ignition source 
+are unknown.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The fire during approach for reasons that could not be determined based on the available evidence, 
+which resulted in impact with terrain during approach for a precautionary landing.

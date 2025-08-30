@@ -1,0 +1,29 @@
+{
+    "Filename": "98111.txt",
+    "Location": "Addison, Texas",
+    "Accident Number": "CEN18LA344",
+    "Date & Time": "August 18, 2018, 15:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N893JA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "3 Serious",
+    "Analysis": {
+        "Text": "pilot reported shortly departing discovery flight airplane began veering left applied right rudder aileron however airplane continued veer left recalled hearing stall warning horn stated lowered nose adjusted trim airplane continued nosedown position impacted ground video accident flight showed airplane high pitch attitude shortly takeoff followed left wing dropping rapid descent consistent aerodynamic stall given pilot taken insufficient altitude recover stall airplane sustained substantial damage fuselage wing empennage postaccident examination reveal evidence preimpact failure malfunction would precluded normal operation examination revealed flap setting 30 weight balance calculation determined airplane loaded 138 lb maximum gross weight combination flap setting takeoff would adversely affected airplane climb rate attempt maintain positive rate climb pilot inadvertently exceeded airplane critical angle attack aerodynamically stalled airplane probable cause finding national transportation safety board determines probable cause accident pilot improper flap setting takeoff subsequent exceedance airplane",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "left",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97907.txt",
+    "Location": "LAWRENCEVILLE, Virginia",
+    "Accident Number": "GAA18CA448",
+    "Date & Time": "July 26, 2018, 15:30 Local",
+    "Aircraft": "Luscombe 8",
+    "Registration": "N1489B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing soon main landing gear touched airplane veered left tried correct right rudder airplane exited runway left grass came rest inverted airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 5 minute accident wind 230 5 knot airplane landed runway 36 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll tailwind",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98450.txt",
+    "Location": "Cape Girardeau, Missouri",
+    "Accident Number": "WPR19LA006",
+    "Date & Time": "October 9, 2018, 10:50 Local",
+    "Aircraft": "Vans RV6",
+    "Registration": "N451JP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "pilot passenger landing gusting crosswind condition following local flight passenger stated airplane touched right side runway bounced several time departed right side runway subsequently nosed witness ground also watched airplane bounce depart runway surface nose grass weather observation indicated left crosswind component 9 15 knot time accident postaccident examination airframe engine revealed anomaly would precluded normal operation accident consistent pilot failure attain proper landing flare gusting crosswind condition resulted bounced landing failed conduct goaround subsequently maintain directional control resulted runway departure noseover probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare gusting crosswind condition failure conduct goaround failure maintain directional control resulted runway departure noseover",
+        "Top Words": [
+            [
+                "runway",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "crosswind",
+                4
+            ]
+        ]
+    }
+}

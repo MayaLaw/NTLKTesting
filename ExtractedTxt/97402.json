@@ -1,0 +1,29 @@
+{
+    "Filename": "97402.txt",
+    "Location": "Parkin, Arkansas",
+    "Accident Number": "CEN18LA211",
+    "Date & Time": "May 31, 2018, 11:15 Local",
+    "Aircraft": "THRUSH AIRCRAFT INC S2R-H80",
+    "Registration": "N6215P",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot reported takeoff roll agricultural application flight right rudder pedal went full forward material hopper subsequently could maintain directional control airplane airplane subsequently exited left side runway struck ditch examination airplane revealed right rudder pedal become detached rudder pedal adjustment mechanism due wear adjustment track starting engine checklist included step adjust lock rudder pedal starting engine however condition rudder system indicated airplane operated rudder pedal forward final detent position safety stop rather locked detent position undetermined amount time improper adjustment locking rudder pedal adjustment mechanism time likely led excessive wear rudder pedal adjustment track detachment rudder pedal pilot subsequent inability maintain directional control accident airplane manufacturer released service letter detailing proper use rigging maintenance rudder system including rudder pedal adjustment mechanism probable cause finding national transportation safety board determines probable cause accident improper operation rudder pedal adjustment mechanism undetermined period time led failure rudder pedal adjustment track detachment rudder pedal pilot subsequent inability maintain directional control",
+        "Top Words": [
+            [
+                "rudder",
+                14
+            ],
+            [
+                "pedal",
+                12
+            ],
+            [
+                "adjustment",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97331.txt",
+    "Location": "Omaha, Nebraska",
+    "Accident Number": "CEN18FA193",
+    "Date & Time": "May 27, 2018, 08:40 Local",
+    "Aircraft": "Beech P35",
+    "Registration": "N263CE",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot pilotrated passenger conducting personal flight singleengine airplane witness stated 1300 ft departure end runway takeoff roll airplane exited left side runway traveled across grass median runway taxiway onto taxiway surface impacted several runway taxiway light structure airplane returned runway crossed end runway became airborne appeared stall airplane left wing impacted terrain airplane cartwheeled postimpact fire ensued witness stated airplane looked like control takeoff sequence engine remained full power surveillance video captured portion takeoff runway excursion footage consistent witness account toxicological testing found potentially impairing drug pilot however unlikely negative effect drug directly contributed outcome accident examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation member pilot family stated think pilot flew regularly enough stay proficient operation airplane however pilot logbook available review recency experience could determined likely pilot seated left seat flying airplane since right seat rudder pedal equipped brake configuration pilotrated passenger would unable apply brake pressure attempt stop airplane takeoff although engine throttle accessible occupant circumstance accident consistent pilot loss directional control takeoff roll subsequent failure abort takeoff following runway excursion probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "runway",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

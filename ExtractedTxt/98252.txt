@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Wrangell, Alaska
+Accident Number:
+ANC18LA069
+Date & Time:
+September 3, 2018, 13:53 Local 
+Registration:
+N3957X
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while in level cruise flight, the engine rpm began to increase. Shortly after 
+reducing the manifold pressure in an effort to correct for the high RPM, he noticed the engine oil 
+pressure drop with oil visible on the airplane’s windscreen, followed by a total loss of engine power. He 
+performed an emergency landing near the high tide line in an area of seagrass. During the emergency 
+landing the airplane sustained substantial damage to the fuselage and left wing.
+Examination of the engine revealed a large fracture hole at the Nos. 4- and 5-cylinder pads. The Nos. 4 
+and 5 connecting rods were fragmented, and pieces of the connecting rods and a large amount of metal 
+debris was located within the engine. A large amount of metal contamination was present in the oil 
+suction screen. The Nos.  4 and 5 connecting rods and rod bearing journals exhibited extensive 
+mechanical damage and signatures consistent with exposure to extreme high heat.  
+The damage to the internal engine components, the large amount of metal contamination in the oil 
+screen, and the significant metal debris inside the engine were all consistent with a catastrophic engine 
+failure due to a lack of lubrication. The source of the interruption of oil circulation to the engine could 
+not be determined after engine disassembly.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power due to oil starvation after an interruption of oil circulation for reasons that 
+could not be determined based on the available evidence.

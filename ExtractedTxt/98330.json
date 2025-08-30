@@ -1,0 +1,29 @@
+{
+    "Filename": "98330.txt",
+    "Location": "Frederick, Maryland",
+    "Accident Number": "GAA18CA578",
+    "Date & Time": "September 19, 2018, 16:30 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N56PE",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported completing instructional flight dropped flight instructor flew back home airport landing airplane porpoised nose landing gear collapsed airplane sustained substantial damage lower fuselage pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted airplane porpoising finding personnel issue aircraft control pilot aircraft landing flare attainedmaintained",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

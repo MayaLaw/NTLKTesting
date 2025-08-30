@@ -1,0 +1,29 @@
+{
+    "Filename": "98549.txt",
+    "Location": "Parker, Colorado",
+    "Accident Number": "ERA19LA027",
+    "Date & Time": "October 26, 2018, 07:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N5575U",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "completing preflight inspection pilot reported normal engine runup recalled checking carburetor heat magneto twice takeoff started takeoff roll noticed roll little longer normal airplane climb performance poor applied carburetor heat noted loss rpm turned carburetor heat shortly thereafter airplane started descend pilot performed forced landing field examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation atmospheric condition time accident conducive formation serious carburetor icing cruise power setting since postaccident examination engine revealed anomaly likely loss power result carburetor ice accumulation possible carburetor ice formed departure engine operating low power setting resulted partial loss engine power initial climb probable cause finding national transportation safety board determines probable cause accident partial loss engine power initial climb due carburetor icing pilot failure effectively use carburetor heat condition conducive formation carburetor ice",
+        "Top Words": [
+            [
+                "carburetor",
+                9
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "power",
+                5
+            ]
+        ]
+    }
+}

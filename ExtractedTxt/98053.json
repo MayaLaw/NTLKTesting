@@ -1,0 +1,29 @@
+{
+    "Filename": "98053.txt",
+    "Location": "Florence, South Carolina",
+    "Accident Number": "ERA18LA215",
+    "Date & Time": "August 9, 2018, 13:12 Local",
+    "Aircraft": "Cessna R182",
+    "Registration": "N1693R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Electrical system malf/failure",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "departure personal flight private pilot reported engine started using auxiliary power supply battery dead however determine reason dead battery engine started reported normal electrical system indication 10 minute 20minute flight pilot noticed electric fuel gauge reading zero ammeter showing discharge consult comply emergency procedure pilot operating handbook poh discharging ammeter continued destination attempted extend landing gear using normal system however downand locked indication confirmed visually nose landing gear locked performed flyby air traffic control tower informed landing gear appeared returned landing touchdown main landing gear collapsed airplane began veer left left wing horizontal stabilizer contacted runway airplane came rest grass left side runway postaccident examination operational testing normal emergency landing gear extension indicating system revealed evidence preimpact failure malfunction would precluded normal operation pilot shed unnecessary electrical load per poh first noticed discharging state pumped landing gear using emergency gear extension mechanism likely landing gear would extended locked position reason electrical system failure investigated probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "landing",
+                8
+            ],
+            [
+                "gear",
+                8
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "95356.txt",
+    "Location": "Geneva, Ohio",
+    "Accident Number": "GAA17CA334",
+    "Date & Time": "June 9, 2017, 10:00 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N32088",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot airplane reported landing added full flap wind shifted applied full power airplane settled left main landing gear touched left edge runway subsequently airplane impacted tree left side runway airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind light variable landed runway 19 automated weather observation system 9 nautical mile accident site reported time accident wind 220 7 knot additional weather observation site showed 1 hour accident 1 hour accident wind direction varied southsouthwest westnorthwest speed varied 6 8 knot probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper landing flare variable wind condition resulted airplane landing left edge runway impacting tree",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "wind",
+                5
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

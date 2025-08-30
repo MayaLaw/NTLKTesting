@@ -1,0 +1,29 @@
+{
+    "Filename": "97654.txt",
+    "Location": "Miami, Florida",
+    "Accident Number": "GAA18CA388",
+    "Date & Time": "July 1, 2018, 11:30 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N14ED",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "according pilot inadvertently failed retract wheel amphibious airplane takeoff hard surface runway upon arrival destination use landing checklist airplane touched water wheel extended nosed amphibious airplane sustained substantial damage right wing lift strut empennage right wing aileron rudder elevator pilot asserted accident pilot error accident could prevented used checklist pilot reported mechanical malfunction failure amphibious airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure retract wheel amphibious airplane takeoff resulted nose airplane landed water wheel extended contributing accident pilot failure use appropriate checklist",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "wheel",
+                4
+            ]
+        ]
+    }
+}

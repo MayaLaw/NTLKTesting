@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Marysville, Ohio
+Accident Number:
+GAA19CA204
+Date & Time:
+April 11, 2019, 15:30 Local 
+Registration:
+N2238T
+Aircraft:
+Cessna R182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the landing roll, the wind caused the airplane's left wing to rise and that 
+the airplane then veered right. He attempted to correct with aileron and rudder pedals, but the airplane 
+exited the runway to the right. He added that the nose landing gear tire "went into the grass," and the 
+airplane came to rest inverted.
+The airplane sustained substantial damage to both wings and the vertical stabilizer.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport's automated weather observation station reported that, about 5 minutes after the accident, the 
+wind was from 220° at 15 knots, gusting to 22 knots. The pilot landed the airplane on runway 27.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll in gusting crosswind conditions, 
+which resulted in a runway excursion and nose-over.

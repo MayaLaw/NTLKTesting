@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Clever, Missouri
+Accident Number:
+CEN17LA110
+Date & Time:
+February 18, 2017, 16:57 Local 
+Registration:
+N6807V
+Aircraft:
+AEROSTAR ACFT CORP OF TEXAS 
+M20E
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, after takeoff on the instructional flight, the engine was running 
+smoothly before it "missed" or "hesitated." The flight instructor initiated a return to the airport; shortly 
+thereafter, the engine began to make loud noises and vibrate, ultimately experiencing a total loss of 
+power. The flight instructor performed a forced landing to a field, resulting in substantial damage. 
+Examination of the engine revealed that the No. 2 connecting rod had failed. Remnants of the 
+connecting rod bearing found within the oil pan exhibited evidence of bearing failure and extrusion. Due 
+to the extensive secondary engine damage, the reason for the failure of the No. 2 bearing could not be 
+determined. The engine was overhauled 11 years 6 months before the accident, and had accumulated 
+about 16 hours of flight time in the preceding 3 years. Guidance published by the engine manufacturer 
+stated that abnormal wear could occur during engine start due to a loss of protective oil film after an 
+extended period of inactivity and recommended that all engines not in continuous service be overhauled 
+every 12 years. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the engine No. 2 connecting rod bearing for reasons that could not be determined due to 
+the extensive secondary engine damage.

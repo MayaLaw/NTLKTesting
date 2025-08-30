@@ -1,0 +1,29 @@
+{
+    "Filename": "99020.txt",
+    "Location": "Bellingham, Washington",
+    "Accident Number": "GAA19CA148",
+    "Date & Time": "February 25, 2019, 10:50 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "CFHGQ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported taxiing runway takeoff yoke left pushed wind gust right lifted right wing pilot unable maintain control wind continued push airplane left runway airplane subsequently nosed airplane sustained substantial damage fuselage empennage pilot reported preimpact mechanical failure malfunction airplane would precluded normal operation airport automated surface observation system reported time accident wind 030 20 knot gusting 29 knot pilot turning airplane right onto runway 34 based information calculated crosswind component taxiing takeoff position 19 knot airplane manufacturer reported maximum demonstrated crosswind component 15 knot federal aviation administration airplane flying handbook faah80833b taxiing stated part following taxiing quartering headwind wing upwind side side wind coming tends lifted wind unless aileron control held direction upwind aileron moving aileron position reduces effect wind striking wing thus reducing lifting action control movement also cause downwind aileron placed position thus small amount lift drag downwind wing reducing tendency upwind wing rise",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "wind",
+                6
+            ],
+            [
+                "wing",
+                5
+            ]
+        ]
+    }
+}

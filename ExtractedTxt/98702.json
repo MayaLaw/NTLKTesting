@@ -1,0 +1,29 @@
+{
+    "Filename": "98702.txt",
+    "Location": "Burlington, Washington",
+    "Accident Number": "GAA19CA080",
+    "Date & Time": "November 29, 2018, 12:00 Local",
+    "Aircraft": "Piper PA 12",
+    "Registration": "N3619M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported touching crosswind condition tailwheelequipped airplane drifted left applied opposite rudder brake airplane continued left exited runway struck runway sign airplane sustained substantial damage fuselage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation system reported time accident wind 320 8 knot pilot landed airplane runway 29 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

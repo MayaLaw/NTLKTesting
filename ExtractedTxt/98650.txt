@@ -1,0 +1,46 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Gainesville, Georgia
+Accident Number:
+ERA19FA049
+Date & Time:
+November 17, 2018, 18:35 Local 
+Registration:
+N8448J
+Aircraft:
+Lancair LEGACY RG
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot/owner and flight instructor were returning from a cross-country flight and arrived in the 
+vicinity of the airport after dark in visual meteorological conditions. The flight instructor requested (to 
+the air traffic controller) and was cleared for a practice GPS approach to the runway, which was 
+equipped with precision approach path indicator (PAPI) lighting. Flight data indicated the approach was 
+flown using the autopilot. Just after the airplane passed the final approach fix, the flaps were partially 
+extended, the pitch attitude decreased, and the airplane descended below the glidepath. The autopilot 
+commanded nose up elevator and the airplane returned to slightly above the glidepath where it remained 
+stable for about 16 seconds, before drifting to nearly a full-scale course deviation above the glidepath. 
+The autopilot commanded the elevator to nose down, and the electric pitch trim to near the full nose-
+down position. The autopilot was then disconnected. Although the autopilot can automatically disengage 
+in the event of a system failure, no failures were observed in the recorded data. Therefore, it was likely 
+that the autopilot was manually disengaged. About 15 seconds later, the flaps were extended to full and 
+then fully retracted. The descent rate increased, and the airplane descended below the glidepath, until the 
+recorded data ended when the airplane was about 0.3 mile from the runway. The airplane then struck 
+trees, crossed over a road, and impacted the left side of a localizer antenna platform before coming to 
+rest in the grass short of the runway.
+Examination of the wreckage and the recorded flight data did not reveal any preimpact electrical or 
+mechanical anomalies that would have precluded normal operation. The pilot's guide for the autopilot 
+system warned that with the autopilot engaged, a small amount of force on the pitch controls can result 
+in the autopilot automatic trim entering an out-of-trim condition. As the airplane drifted above the 
+glidepath, the autopilot attempted to command nose-down elevator, and the elevator servo met with 
+some resistance, as evidenced by the increase in elevator servo torque, which was sufficient to activate 
+the electric pitch trim. Given that there were no indications of a flight control malfunction, it is likely 
+that one of the pilots was applying pressure to the elevator control in the cockpit, and the autopilot 
+applied elevator trim to counteract that pressure, in its attempt to return to the glidepath.

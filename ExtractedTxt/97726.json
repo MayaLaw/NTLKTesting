@@ -1,0 +1,29 @@
+{
+    "Filename": "97726.txt",
+    "Location": "Chugiak, Alaska",
+    "Accident Number": "ANC18CA052",
+    "Date & Time": "June 30, 2018, 18:15 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N5020D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported performing highspeed taxi evaluate erratic airspeed indicator airplane began porpoise performed takeoff maneuvered airplane around traffic pattern land pilot distracted airplane traffic pattern perform landing checklist felt behind airplane final approach pushed throttle control correct rapid descent rate however engine respond airplane landed hard gravel short intended runway pilot added impact noted mixture control fully may pulled wrong engine control approach witness ground reported airplane descended rapidly flat attitude propeller rotating slowly witness responded accident scene noted mixture throttle propeller control pulled pilot could explain happened state distracted flying pattern pilot stated flown 8 month intent fly day airplane sustained substantial damage fuselage probable cause finding national transportation safety board determines probable cause accident pilot mismanagement engine control due distraction traffic pattern resulted hard landing short runway",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "control",
+                5
+            ]
+        ]
+    }
+}

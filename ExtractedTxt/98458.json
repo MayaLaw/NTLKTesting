@@ -1,0 +1,29 @@
+{
+    "Filename": "98458.txt",
+    "Location": "Floresville, Texas",
+    "Accident Number": "ERA18LA270",
+    "Date & Time": "September 11, 2018, 16:37 Local",
+    "Aircraft": "Maule M7",
+    "Registration": "N969AW",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor private pilotrated student left seat also airplane owner practicing approach upon landing pilot heard loud popping noise instructor initiated goaround subsequently pilot felt vibration floorboard pilot thought tire might blown instructor flew approach conducted threepoint landing airplane came stop left main landing gear mlg collapsed resulted substantial damage left wing examination left mlg revealed inboard attachment bolt nut missing accident bolt found along path landing rollout examination attachment bolt revealed bolt thread undamaged attachment nut found right mlgs inboard attachment bolt nut found still attached however loose two three thread visible past nut inboard attachment bolt upgraded highstrength bolt airframe manufacturer issued service letter sl stated using highstrength bolt outboard attachment bolt required amount torque indicated airplane maintenance manual inboard attachment bolt required higher torque amount standard bolt however review maintenance manual revealed include new higher torque requirement specified sl therefore mechanic follow maintenance manual may aware higher torque value required review airplane maintenance record revealed last annual inspection completed 6 month accident mechanic performed inspection reported",
+        "Top Words": [
+            [
+                "bolt",
+                11
+            ],
+            [
+                "attachment",
+                7
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

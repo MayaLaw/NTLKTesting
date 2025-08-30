@@ -1,0 +1,44 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Philadelphia, Pennsylvania
+Accident Number:
+GAA19CA234
+Date & Time:
+March 24, 2019, 15:30 Local 
+Registration:
+N358MN
+Aircraft:
+Cessna T310
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The flight instructor in the retractable-landing gear, multiengine airplane reported that, while performing 
+aerial survey training for a newly hired pilot, the airplane was slowed to the mission airspeed of 117 
+knots, which meant reduced power and the use of more than 15° of flaps. He added that he then pulled 
+the landing gear warning circuit breaker to silence the landing gear warning horn to ensure clear 
+communication but that he did not pull the landing gear motor circuit breaker. The pilot receiving 
+instruction reported that he did not know that the instructor had pulled the landing gear warning circuit 
+breaker.
+The instructor further reported that, while returning to the departure airport, the landing checklist was 
+"accomplished" 15 to 20 miles from the airport. He saw that the pilot was "falling behind on power and 
+descent management" and that the airplane was high and fast for the approach. The instructor advised 
+the pilot to correct but then began to assist the pilot when it "was taking longer [than anticipated.]" The 
+airplane decelerated into the white airspeed arc, and the instructor moved the landing gear selector 
+switch into the down position and added full flaps. He added that, because the flaps were added shortly 
+after the landing gear selector switch was put into the down position, he could not tell by the flight 
+characteristics that the landing gear had not extended. Neither he nor the pilot noticed that there was no 
+green down-and-locked position light indicator. The airplane landed with the landing gear retracted.
+The airplane sustained substantial damage to the fuselage and both engines.
+The instructor added that, while configuring the airplane on the runway, he observed that the landing 
+gear warning horn and landing gear motor circuit breakers were tripped. The director of maintenance 
+reported that, during a postaccident examination, the airplane was lifted onto jacks and an emergency 
+gear extension and three electrical landing gear retractions were conducted, and no defects were found.
+In a photograph provided by the flight instructor, the landing gear warning horn and landing gear motor 
+circuit breakers are right next to each other. Despite the instructor's statement that he did not pull the 

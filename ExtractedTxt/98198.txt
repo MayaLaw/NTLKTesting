@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+TEHACHAPI, California
+Accident Number:
+WPR18LA246
+Date & Time:
+August 30, 2018, 19:02 Local 
+Registration:
+N2167V
+Aircraft:
+Cessna 140
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the preflight inspection, the pilot determined that the left fuel tank was empty and the right tank 
+contained 4 gallons of fuel (capacity 12 1/2 gallons). After discovering that the airport fuel pumps were 
+inoperative, the pilot decided to proceed with the flight and remain in the airport traffic pattern.
+The pilot performed a series of touch-and-go takeoff and landings and during the initial climb phase of 
+the fifth takeoff, the engine lost total power. The pilot attempted a 180° turn back to the runway, during 
+which the airplane impacted the taxiway, resulting in substantial damage.
+Due to the airplane's vintage, operational and performance details such as fuel consumption and 
+unusable fuel quantity were unavailable; however, a placard on the fuel gauges indicated that takeoff 
+should not be attempted if the tank was filled to just under 1/4 of its capacity. It is likely that the airplane 
+consumed the remainder of the usable fuel during the flight, which resulted in fuel exhaustion and the 
+total loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate fuel planning, which resulted in fuel exhaustion and a total loss of 
+engine power during the initial climb.

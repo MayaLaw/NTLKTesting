@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Beloit, Kansas
+Accident Number:
+CEN18LA230
+Date & Time:
+June 18, 2018, 12:30 Local 
+Registration:
+N756SW
+Aircraft:
+Cessna TR182
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was practicing takeoffs and landings in the airport traffic pattern when the left main 
+landing gear (MLG) failed to extend. He cycled the gear, but the left MLG still would not extend. He 
+then attempted to manually extend the gear without success. The pilot subsequently executed an 
+emergency landing on the turf runway.
+During recovery of the airplane, one of the left brake caliper's back plate bolts was found backed out. 
+Scrape marks were present on the fuselage skin, consistent with contact from the extended back plate 
+bolt. The MLG extension/retraction system and the emergency extension system both performed 
+normally during postaccident examination.
+An annual inspection had been completed 6 days before the accident, and the airplane had accumulated 
+a total of 3.2 hours since then. The mechanic that performed the inspection reported that the brake 
+calipers were removed at that time and that the bolts had not been secured with safety wire after they 
+were re-installed.
+Given the evidence, it is likely that the mechanic did not properly torque the left brake caliper back plate 
+bolt after he re-installed it during the annual inspection, which allowed it to back out and led to the 
+subsequent failure of the left MLG to extend. Although safety wire would have prevented the bolt from 
+backing out, the airframe manufacturer's service manual was not consistent about whether to use safety 
+wire. Regardless, the bolt would not have backed out if it had been tightened within the specified torque.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

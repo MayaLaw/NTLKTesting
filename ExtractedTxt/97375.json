@@ -1,0 +1,29 @@
+{
+    "Filename": "97375.txt",
+    "Location": "Union, Illinois",
+    "Accident Number": "CEN18LA205",
+    "Date & Time": "May 27, 2018, 18:15 Local",
+    "Aircraft": "Cessna 150L",
+    "Registration": "N19366",
+    "Flight Conducted Under": "Part 91: General aviation - Glider tow",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "airline transport pilot reported returning routine glider tow flight thought something wrong noted seemed get dark although plenty daylight airplane high approach pilot continued flight inbound unsure airplane exact altitude airspeed crossed runway threshold recall verifying engine power idle airplane bounced field flew toward opening tree end runway pilot see power line airplane struck came rest field pilot recalled aviation related thought landing postaccident examination airframe engine reveal evidence preimpact mechanical malfunction failure would precluded normal operation pilot completed federal aviation administration basicmed medical certification valid time accident pilot described symptom consistent fainting nearly fainting commonly occur blood pressure low would led inability safely fly airplane pilot thought dehydration heat exhaustion might caused symptom however given longstanding paroxysmal atrial fibrillation difficulty effectively controlling accident documented low blood pressure episode lack symptom episode atrial fibrillation feeling bad likely symptom flight related episode atrial fibrillation associated rapid heart rate low blood pressure therefore symptomatic near fainting result uncontrolled paroxysmal atrial fibrillation likely caused accident probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

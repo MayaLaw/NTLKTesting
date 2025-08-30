@@ -1,0 +1,29 @@
+{
+    "Filename": "98882.txt",
+    "Location": "Horseshoe Bay, Texas",
+    "Accident Number": "CEN19LA064",
+    "Date & Time": "December 28, 2018, 20:15 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N6202M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "commercial pilot conducting personal crosscountry flight one passenger onboard pilot reported 2 12 2 34 hour flight engine started lose power pilot contacted air traffic control vector nearest airport pilot checked gauge applied carburetor heat engine initially responded however minute later engine lost power pilot additional attempt restore power unsuccessful pilot think airplane could reach nearest airport established glide offairport forced landing airplane impacted tree terrain sustained substantial damage recovery airplane wreckage fuel tank found intact empty additionally evidence fuel leakage ground pilot reported airplane ran fuel accident could prevented better calculation review distance fuel time flight probable cause finding national transportation safety board determines probable cause accident pilot inadequate preflight inflight fuel planning resulted total loss engine power due fuel exhaustion",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "fuel",
+                6
+            ],
+            [
+                "engine",
+                4
+            ]
+        ]
+    }
+}

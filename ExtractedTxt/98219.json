@@ -1,0 +1,29 @@
+{
+    "Filename": "98219.txt",
+    "Location": "Mount Pleasant, Tennessee",
+    "Accident Number": "ERA18LA241",
+    "Date & Time": "September 1, 2018, 17:15 Local",
+    "Aircraft": "Diamond DA40",
+    "Registration": "N388MA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "private pilot reported downwind leg airport traffic pattern reduced engine power prepare landing however engine lost total power pilot advanced throttle unsuccessful attempt regain power subsequently attempted engine restart avail time realized airplane would able glide runway pilot performed forced landing field 1 mile short runway threshold resulted substantial damage landing gear empennage postaccident examination airplane revealed sufficient fuel remained left fuel tank fuel selector found positioned left fuel tank sufficient fuel also remained right fuel tank examination engine fuel system ignition system reveal evidence preimpact mechanical malfunction failure would precluded normal operation although fuel unporting possible amount fuel available left tank unlikely based airplane attitude around time loss engine power thus reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined postaccident examination airplane reveal evidence preimpact mechanical malfunction failure would precluded normal operation",
+        "Top Words": [
+            [
+                "fuel",
+                9
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "power",
+                6
+            ]
+        ]
+    }
+}

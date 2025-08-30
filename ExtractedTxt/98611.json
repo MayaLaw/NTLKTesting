@@ -1,0 +1,29 @@
+{
+    "Filename": "98611.txt",
+    "Location": "Llano, Texas",
+    "Accident Number": "GAA18CA583",
+    "Date & Time": "June 21, 2018, 10:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N9496D",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot receiving instruction tailwheelequipped airplane reported landing airplane touched abruptly added taxied edge runway saw airplane leaning left flight instructor reported pilot leveled 3 ft ground allowed airspeed decrease added instructed pilot add power cushion landing pilot attempted airplane continued decelerate aerodynamically stalled landed hard left main landing gear airplane sustained substantial damage fuselage instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction improper landing flare failure maintain adequate airspeed exceedance airplane critical angle attack landing resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                5
+            ]
+        ]
+    }
+}

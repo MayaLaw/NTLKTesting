@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Cedar Key, Florida
+Accident Number:
+ERA17FA108
+Date & Time:
+February 12, 2017, 11:06 Local 
+Registration:
+N4504X
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The non-instrument rated private pilot departed in the airplane in visual meteorological conditions, 
+which prevailed along most of the route of the over-water cross-country flight. However, about 20 miles 
+from the destination airport, the airplane encountered an area of instrument meteorological conditions 
+(IMC) that consisted of overcast clouds with bases about 400 ft above the water. According to GPS data, 
+when the airplane reached this area, it began to descend from a cruising altitude of 2,400 ft. About 7 
+minutes later, at an altitude of about 1,000 ft, the airplane began a left, descending, 180° turn during 
+which the altitude fluctuated until the data ended about 600 ft above the water near the accident site. The 
+airplane continued to descend until it impacted the water. Examination of the wreckage did not reveal 
+any evidence of preimpact mechanical malfunctions that would have precluded normal operation. The 
+pilot had logged only 4.6 hours of simulated instrument experience and had no documented actual 
+instrument experience. No evidence was found indicating that the pilot obtained an official weather 
+briefing before the flight. If he had obtained such a briefing, he would have been told that visual flight 
+rules (VFR) flight was not recommended due to IMC near the destination airport. Given the instrument 
+conditions in the destination area and the pilot's limited instrument flying experience, it is likely that the 
+pilot attempted to continue VFR flight into IMC, experienced spatial disorientation, and lost control of 
+the airplane.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The non-instrument-rated pilot's improper decision to continue visual flight rules flight into 
+instrument meteorological conditions, which resulted in spatial disorientation and a loss of 
+airplane control.

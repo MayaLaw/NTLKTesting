@@ -1,0 +1,29 @@
+{
+    "Filename": "99125.txt",
+    "Location": "Madras, Oregon",
+    "Accident Number": "GAA19CA169",
+    "Date & Time": "March 15, 2019, 13:00 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N64895",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported following first solo flight traffic pattern airplane nose pointed left runway centerline touchdown airplane bounced student reported flight school bounce go policy applied full throttle aborted landing airplane continued left nose landing gear collided snow berm left side runway airplane nosed airplane sustained substantial damage left wing student reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control aborted landing resulted collision snow berm subsequent noseover",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

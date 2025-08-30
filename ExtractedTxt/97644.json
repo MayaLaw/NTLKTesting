@@ -1,0 +1,29 @@
+{
+    "Filename": "97644.txt",
+    "Location": "Arthur, Nebraska",
+    "Accident Number": "CEN18FA242",
+    "Date & Time": "June 29, 2018, 12:45 Local",
+    "Aircraft": "Champion 7GCAA",
+    "Registration": "N9026L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot experienced aerobatics coordinated friend perform flyover cattle branding event departing flight pilot informed father feeling ill nauseated previous flight day due inflight turbulence informed friend branding event may able perform flyover pilot subsequently flew cattle branding event commenced aerobatic maneuver included loop rolling maneuver followed climb vertical pitch attitude airplane subsequently rolled left entered leftturning spin continued ground contact examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation autopsy toxicology testing pilot identified evidence physiological impairment incapacitation although pilot reported symptom departing flight nature illness diagnosed evidence illness identified autopsy possible pilot undefined symptom illness may contributed accident however without evidence could determined whether extent symptom may affected ability recover spin maneuver probable cause finding national transportation safety board determines probable cause accident pilot failure recover spin reason could determined based available information",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "evidence",
+                4
+            ],
+            [
+                "branding",
+                3
+            ]
+        ]
+    }
+}

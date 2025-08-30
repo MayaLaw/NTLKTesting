@@ -1,0 +1,29 @@
+{
+    "Filename": "98522.txt",
+    "Location": "Hastings, Michigan",
+    "Accident Number": "GAA19CA028",
+    "Date & Time": "October 18, 2018, 09:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N41390",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "flight instructor reported observing solo student pilot flight ground approach looked good airplane might fast airplane flared noticed right wing kind pop touchdown subsequently airplane landed sideways exited left side runway instructor added student unsure happened reported lost control airplane sustained substantial damage left wing fuselage instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted airplane landing sideways subsequent runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "instructor",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

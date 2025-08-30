@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Camas, Washington
+Accident Number:
+GAA18CA184
+Date & Time:
+March 4, 2018, 13:30 Local 
+Registration:
+N3756W
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, before departure, he estimated that the right tip fuel tank was three-quarters full 
+(about 14 gallons), and each main fuel tank had about 20 gallons of fuel.
+The pilot reported that, during cruise, he decided to use the right tip fuel tank, even though he was aware 
+that the right tip fuel tank gauge was inoperative. He added that, after about 25-30 minutes, he 
+performed various stall maneuvers before returning to the departure airport to land. The pilot noticed a 
+reduction in engine power and a drop in the manifold pressure and concluded that the airplane would not 
+be able to return to the airport, so he continued a left turn toward a farm field. The pilot began to 
+troubleshoot for carburetor ice to no avail. The airplane landed in the farm field and impacted a ditch.
+The airplane sustained substantial damage to the engine mounts.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot added that, during a postaccident examination, it was revealed that the right tip fuel tank was 
+dry and "that the engine lost power due to fuel starvation."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate inflight fuel management and his failure to switch to a fuel tank with adequate 
+fuel, which resulted in fuel starvation.

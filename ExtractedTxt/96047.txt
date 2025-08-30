@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+St George, Utah
+Accident Number:
+GAA17CA543
+Date & Time:
+September 20, 2017, 09:00 Local 
+Registration:
+N22650
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the retractable-landing-gear airplane reported that he "neglected to lower the landing gear" 
+before landing, and the airplane landed with the landing gear retracted. He added that he had "no 
+recollection of hearing the gear horn."
+The airplane sustained substantial damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to extend the landing gear before landing.
+Findings
+Aircraft
+Gear extension and retract sys - Not used/operated
+Personnel issues
+Forgotten action/omission - Pilot

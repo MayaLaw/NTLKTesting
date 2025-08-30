@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Hillsboro, Oregon
+Accident Number:
+WPR18LA148
+Date & Time:
+May 26, 2018, 09:35 Local 
+Registration:
+N152GB
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+While conducting takeoffs and landings during an instructional flight, the student pilot initiated a go-
+around. Shortly thereafter, the engine began to run rough and lost partial power. The instructor 
+attempted to troubleshoot the engine, but was unable to restore engine power, and initiated a forced 
+landing to a grass area beyond the end of the runway, during which the airplane nosed 
+over. Examination of the engine revealed that the left magneto was producing spark randomly across its 
+four posts. Internal examination of that magneto revealed that the distributor gear was intact; however, 
+the copper electrode finger was found displaced from the plastic gear assembly.
+A service bulletin issued by the magneto manufacturer about three years before the accident stated that 
+some units contained distributor gears that exhibited loose electrode fingers, the symptoms of which 
+included "unusual RPM drop during magneto check, difficulty starting, and/or rough running 
+engines." A separate service bulletin issued 38 years before the accident specified that the magnetos 
+should be inspected internally every 500 hours. The operator reported that, at the time of the accident, 
+the magneto had accumulated 402.7 hours since its most recent internal inspection. The operator further 
+reported they conducted internal inspections of the magnetos every 750 hours. It is likely that the loose 
+copper electrode finger resulted in the partial loss of engine power during the go-around. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power during a go-around due to the loose copper electrode finger 
+inside the left magneto.

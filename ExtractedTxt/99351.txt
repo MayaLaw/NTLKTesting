@@ -1,0 +1,36 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Melbourne, Florida
+Accident Number:
+ERA19LA162
+Date & Time:
+April 29, 2019, 13:05 Local 
+Registration:
+N3031W
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and student pilot were practicing a simulated engine failure. After 
+completing the emergency checklist, the student added engine power to recover from the 
+maneuver about 500 ft above the ground, but the engine did not respond. The flight instructor 
+took control of the airplane, verified the fuel selector position, and landed. The atmospheric 
+conditions at the time of the accident were conducive to the development of carburetor icing at 
+glide (idle) power settings, and the instructor reported that he did not apply carburetor heat 
+during the simulated engine-out or attempted recovery. Based on the available information, it 
+is likely that the loss of engine power was the result of the accumulation of carburetor ice 
+during the idle-power descent and that the use of carburetor heat would likely have prevented 
+the loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power due to carburetor icing, and the flight instructor’s failure to 
+effectively use carburetor heat while operating at an idle engine power setting in conditions 
+conducive to carburetor icing.

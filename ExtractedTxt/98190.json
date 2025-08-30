@@ -1,0 +1,29 @@
+{
+    "Filename": "98190.txt",
+    "Location": "Prescott, Arizona",
+    "Accident Number": "WPR18FA245",
+    "Date & Time": "August 29, 2018, 20:35 Local",
+    "Aircraft": "Cessna P210",
+    "Registration": "N6500W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "purpose flight pilot acquire night currency performing practice takeoff landing initially requested takeoff fly traffic pattern longer 150ft wide runway 21l ground controller replied traffic pattern full offered pilot could use parallel shorter 60ft wide runway 21r airborne pilot fly traffic pattern paralleled runway 21r downwind overshot final approach course basetofinal turn pilot subsequently corrected track became aligned runway 21r airplane collided desert terrain 1900 ft short destination runway impacting near levelpitch attitude landing gear airplane impacted berm shortly thereafter destroyed postcrash fire although visual meteorological condition prevailed natural horizon external visual reference available visual approach dark night condition judge height terrain pilot task approach included maintaining visual separation traffic runway 21l aligning much narrower runway 21r pilot collision terrain short runway suggests experiencing runway width illusion sight picture narrow runway nighttime approach lead pilot believe approach path high descend attempt correct runway precision approach path indicator papi system help pilot maintain safe glidepath night pilot competing visual task demand including traffic runway alignment recency nighttime experience may contributed failure heed information examination recovered wreckage reveal evidence preexisting mechanical anomaly would precluded normal operation airplane examination airplane exhaust revealed crack would likely present recent maintenance however although heat exchanger contained void likely entry exhaust gas higher pressure ram air directed exchanger",
+        "Top Words": [
+            [
+                "runway",
+                12
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "approach",
+                6
+            ]
+        ]
+    }
+}

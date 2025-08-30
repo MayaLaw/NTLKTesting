@@ -1,0 +1,29 @@
+{
+    "Filename": "99178.txt",
+    "Location": "McAlpin, Florida",
+    "Accident Number": "ERA19LA138",
+    "Date & Time": "March 26, 2019, 17:10 Local",
+    "Aircraft": "FISHER FLYING PRODUCTS Dakota",
+    "Registration": "N30271",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot allowed engine idle 8 10 minute waited warm completed engine runup taxied airplane takeoff reported takeoff run longer usual preoccupied watching airspeed passed previously established takeoff abort point upon reaching rotation speed determined longer safe abort takeoff continued although engine seem producing normal power shortly clearing tree end runway left wing dropped lowered nose prevent airplane stalling determined insufficient altitude recover landed straight ahead young pine tree plantation managed safely egress postimpact fire destroyed airplane postaccident examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation atmospheric condition time accident conducive formation serious carburetor icing low engine power setting likely carburetor ice developed time engine operating idle power takeoff resulted partial loss engine power takeoff initial climb probable cause finding national transportation safety board determines probable cause accident pilot failure use carburetor heat operating idle power atmospheric condition conducive formation carburetor ice resulted partial loss engine power takeoff",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "takeoff",
+                7
+            ],
+            [
+                "power",
+                6
+            ]
+        ]
+    }
+}

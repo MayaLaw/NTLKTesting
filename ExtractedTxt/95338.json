@@ -1,0 +1,29 @@
+{
+    "Filename": "95338.txt",
+    "Location": "Watkins, Colorado",
+    "Accident Number": "CEN17LA220",
+    "Date & Time": "June 8, 2017, 13:40 Local",
+    "Aircraft": "Bellanca 17 30",
+    "Registration": "N7328V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "commercial pilot passenger planned complete touchandgo takeoff landing order pilot build time airplane pilot reported main fuel tank full takeoff began flight left main fuel tank selected final touchand go upwind leg traffic pattern 700 ft ground level engine experienced total loss power pilot unable troubleshoot loss power made forced landing field airplane impacted ditch came rest upright airplane owner reported flew airplane day accident 1 hour engine performed normally anomaly noted added fuel added tank previous 25 flight hour evidence additional fuel added airplane owner flight accident flight postaccident examination airplane revealed left main fuel tank empty right main tank two auxiliary tank contained combined 45 gallon fuel fuel selector found positioned left main fuel tank although amount fuel onboard airplane beginning flight could determined likely pilot kept fuel selector selected left main fuel tank throughout entire flight loss engine power occurred tank exhausted usable fuel engine test run reveal preimpact anomaly would precluded normal engine operation electric fuel boost pump inoperative undetermined reason replacement fuel boost pump installed purpose starting engine since electric boost pump required engine operation flight inoperative state would contributed loss engine power fuel selector valve free obstruction",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "tank",
+                9
+            ],
+            [
+                "engine",
+                8
+            ]
+        ]
+    }
+}

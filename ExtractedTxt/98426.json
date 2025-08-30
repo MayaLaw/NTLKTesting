@@ -1,0 +1,29 @@
+{
+    "Filename": "98426.txt",
+    "Location": "Delta Junction, Alaska",
+    "Accident Number": "ANC18LA080",
+    "Date & Time": "September 30, 2018, 13:30 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N5907Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot maneuvering airplane mountainous terrain reduced engine power initiated descent engine began cough run roughly applied full throttle engine subsequently lost total power attempt restore power applied carburetor heat switched fuel tank initiating emergency descent engine restarted however continued run roughly would develop full power continued emergency descent landed airplane mountain ridge upon touchdown left main landing gear separated fuselage left wing struck ground resulted substantial damage left wing postaccident examination engine included engine test run revealed evidence preimpact mechanical malfunction failure would precluded normal operation according carburetor icing probability chart airplane operating ambient condition accident site could expect carburetor icing cruise power glide power likely pilot reduced engine power descent carburetor ice formed resulted loss engine power probable cause finding national transportation safety board determines probable cause accident total loss engine power due carburetor icing resulted pilot failure use carburetor heat operating low power setting condition conducive formation carburetor ice",
+        "Top Words": [
+            [
+                "power",
+                10
+            ],
+            [
+                "engine",
+                9
+            ],
+            [
+                "carburetor",
+                7
+            ]
+        ]
+    }
+}

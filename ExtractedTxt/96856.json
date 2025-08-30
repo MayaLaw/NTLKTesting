@@ -1,0 +1,29 @@
+{
+    "Filename": "96856.txt",
+    "Location": "Rockford, Illinois",
+    "Accident Number": "GAA18CA157",
+    "Date & Time": "March 12, 2018, 09:30 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N96772",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing 20 ft ground level 80 kt reached ipad took eye runway grab device located seat next airplane collided ground nosedown attitude pilot reported taken eye runway landing airplane sustained substantial damage lower fuselage stringer longerons former pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot unnecessary action approach resulted hard landing",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Spanish Fork, Utah
+Accident Number:
+GAA18CA358
+Date & Time:
+June 16, 2018, 10:22 Local 
+Registration:
+N992CT
+Aircraft:
+DIAMOND AIRCRAFT IND INC DA 
+20
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and pilot receiving instruction reported that the pilot performed a soft-field takeoff, 
+and once in ground effect, he reduced back pressure, and the instructor heard the stall warning horn and 
+observed a low airspeed. The instructor told the pilot to reduce the pitch, the pilot lowered the nose a 
+little, but the airplane continued to climb. The instructor told the pilot to reduce pitch again, but the pilot 
+stated he was concerned about a possible propeller strike. The flight instructor took the flight controls, 
+but the airplane had turned to the right, and he experienced a "loss of control." The airplane landed off 
+the right side of the runway, the instructor reduced power, the left main landing gear separated, and the 
+airplane came to rest.
+The flight instructor and pilot reported that the airplane had aerodynamically stalled.
+The airplane sustained substantial damage to the fuselage.
+The flight instructor and pilot both reported that there were no preaccident mechanical failures or 
+malfunctions with the airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot receiving instruction's failure to maintain adequate airspeed and his exceedance of the 
+airplane's critical angle of attack during takeoff, which resulted in an aerodynamic stall.

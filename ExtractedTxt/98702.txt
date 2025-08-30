@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Burlington, Washington
+Accident Number:
+GAA19CA080
+Date & Time:
+November 29, 2018, 12:00 Local 
+Registration:
+N3619M
+Aircraft:
+Piper PA 12
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, after touching down in crosswind conditions, the tailwheel-equipped airplane 
+drifted left. He then applied opposite rudder and brake, but the airplane continued left, exited the 
+runway, and struck a runway sign. 
+The airplane sustained substantial damage to the fuselage and empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport's automated weather observation system reported that, about the time of the accident, the 
+wind was from 320° at 8 knots. The pilot landed the airplane on runway 29.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control while landing in crosswind conditions.

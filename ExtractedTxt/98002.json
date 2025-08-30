@@ -1,0 +1,29 @@
+{
+    "Filename": "98002.txt",
+    "Location": "Mansfield, Ohio",
+    "Accident Number": "GAA18CA470",
+    "Date & Time": "August 6, 2018, 11:00 Local",
+    "Aircraft": "WALTER C SMYTHE  TANGO XR",
+    "Registration": "N454WS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported landing airplane bounced multiple time added power go around left wing dropped airplane veered left dropped ground airplane touched grass left runway nose landing gear collapsed airplane nosed airplane sustained substantial damage fuselage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack goaround resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "left",
+                3
+            ]
+        ]
+    }
+}

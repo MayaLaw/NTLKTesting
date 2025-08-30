@@ -1,0 +1,29 @@
+{
+    "Filename": "98675.txt",
+    "Location": "Bakersfield, California",
+    "Accident Number": "WPR19IA030",
+    "Date & Time": "November 23, 2018, 17:33 Local",
+    "Aircraft": "Cessna 208",
+    "Registration": "N781FE",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Medical event",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot loaded cargo onboard airplane closed door started engine cabin air vent closed cold outside taxiing airplane runup area pilot became sleepy difficulty breathing subsequently became unconscious unresponsive tower controller 37 minute pilot closed door unvented cockpit firefighter responded airplane still parked runup area opened airplane door pilot regained consciousness airplane damaged shipper box grossly underreported amount dry ice contained box due improperly trained employee deposited nearly twice amount dry ice box dry ice sublimate carbon dioxide co2 lead loss consciousness death certain exposure level within 5 minute airplane unvented configuration led co2 concentration twice federal aviation administration occupational safety health administration standard within 30 minute concentration reached level consistent loss consciousness based co2 concentration time incident cause pilot loss consciousness co2 poisoning sublimation dry ice unventilated space pilot may still suffered symptom co2 poisoning possibly incapacitation unventilated cabin loaded dry ice weight reported label however proper ventilation would decreased co2 concentration cabin may prevented pilot loss consciousness altogether time incident publicly available literature included advisory circular pilot flying cargo load dry ice maintain adequate circulation fresh air despite availability information pilot chose fly airplane unventilated configuration operator guidance encourage ventilation policy permitted operation overhead side vent closed",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "dry",
+                6
+            ]
+        ]
+    }
+}

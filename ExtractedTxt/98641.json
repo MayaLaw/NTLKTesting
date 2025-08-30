@@ -1,0 +1,29 @@
+{
+    "Filename": "98641.txt",
+    "Location": "Corvallis, Oregon",
+    "Accident Number": "GAA19CA061",
+    "Date & Time": "November 2, 2018, 10:00 Local",
+    "Aircraft": "Socata TBM 700",
+    "Registration": "N850TJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported landing flare airplane suddenly rolled left quickly corrected landed taxied ramp without incident conducted postflight inspection found left wing tip struck runway airplane sustained substantial damage left aileron pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateral control airplane landing resulted wing strike finding aircraft lateralbank control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "left",
+                3
+            ]
+        ]
+    }
+}

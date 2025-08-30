@@ -1,0 +1,29 @@
+{
+    "Filename": "98793.txt",
+    "Location": "Atlanta, Georgia",
+    "Accident Number": "ERA19FA071",
+    "Date & Time": "December 20, 2018, 12:10 Local",
+    "Aircraft": "Cessna 560",
+    "Registration": "N188CW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "4 Fatal",
+    "Analysis": {
+        "Text": "pilot departed instrument flight rule flight instrument meteorological condition imc radar data indicated airplane entered left turn takeoff consistent pilot instrument clearance airplane climbed altitude 2410 ft ground level rate climb increased 3500 ft per minute 9600 ft per minute stick shaker activated airplane decelerated 75 knot airplane entered descending right turn rolled inverted impacting terrain 1 mile airport major component airplane located accident site examination wreckage revealed anomaly airplane would precluded normal operation weather condition time accident included overcast cloud ceiling 600 ft ground level likely pilot became spatially disoriented entering cloud layer resulted airplane high rate climb rapid loss airspeed likely aerodynamic stall steep descending right turn airplane roll inverted attitude highenergy impact also consistent loss control due spatial disorientation probable cause finding national transportation safety board determines probable cause accident pilot loss airplane control due spatial disorientation initial climb instrument meteorological condition",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "instrument",
+                4
+            ]
+        ]
+    }
+}

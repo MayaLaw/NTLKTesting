@@ -1,0 +1,29 @@
+{
+    "Filename": "98083.txt",
+    "Location": "Silver City, New Mexico",
+    "Accident Number": "GAA18CA493",
+    "Date & Time": "August 15, 2018, 11:50 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N1543Y",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "student pilot reported solo crosscountry flight landing gusting crosswind airplane drifted runway left spun 180 nose landing gear collapsed right wing struck ground airplane sustained substantial damage right wing automated weather observation station located airport reported 5 minute accident wind 140 10 knot airplane landed runway 26 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing quartering tailwind",
+        "Top Words": [
+            [
+                "landing",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

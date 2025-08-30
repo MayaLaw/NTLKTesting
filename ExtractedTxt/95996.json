@@ -1,0 +1,29 @@
+{
+    "Filename": "95996.txt",
+    "Location": "Harrisonville, Missouri",
+    "Accident Number": "GAA17CA532",
+    "Date & Time": "September 11, 2017, 20:03 Local",
+    "Aircraft": "Cessna 177",
+    "Registration": "N34413",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Wildlife encounter (non-bird)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff heard bang felt though airplane hit brick wall added climb examined engine instrument appeared normal 800 ft ground level looked left pilot window observed fixed left main landing gear oddly positioned next seatdoor pilot reported contacted air traffic control declared emergency performed gear landing destination airport airplane sustained substantial damage left stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation accident following added airport facility directory deer wildlife vicinity airport likely airplane hit deer runway probable cause finding national transportation safety board determines probable cause accident collision deer runway takeoff roll",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

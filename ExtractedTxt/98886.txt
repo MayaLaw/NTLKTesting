@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Petersburg, West Virginia
+Accident Number:
+ERA19LA086
+Date & Time:
+November 18, 2018, 12:47 Local 
+Registration:
+N88VZ
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was landing the airplane with the yaw damper off, the rudder trim near 
+neutral, and both rudder pedals centered. The pilot reported feeling the airplane slide after 
+touchdown, similar to being on an ice patch, but did not recall if the nose landing gear was on 
+the runway before or at the time of the slide. He immediately applied right rudder and brake to 
+maintain directional control. As the airplane started to veer to the left, he moved the power 
+lever into beta to slow the airplane but was unable to keep the airplane on the runway surface. 
+The airplane departed the left side of the runway and impacted a small berm, resulting in a 
+nose landing gear collapse. The pilot subsequently walked the runway and did not see any ice 
+but observed rubber transfer marks from the right main and nose landing gear tires.
+The nose and main landing gear tire pressures at the time of the accident could not be 
+confirmed although there was no evidence of sidewall scuffing or slippage of the nose landing 
+tire or tube. The nose landing gear rake angle could not be determined due to damage, but the 
+nose landing gear steering bungee appeared intact.
+Although the collar of the nose landing gear trunnion was damaged, and the nose landing gear 
+rake angle was set to 0.1° less than the minimum specified at the last annual inspection, 
+neither of those conditions likely contributed to the on-ground loss of control. The reason for 
+the runway excursion could not be determined based on the available evidence.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

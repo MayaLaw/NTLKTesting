@@ -1,0 +1,45 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Fargo, North Dakota
+Accident Number:
+CEN19LA039
+Date & Time:
+November 30, 2018, 13:53 Local 
+Registration:
+N941JM
+Aircraft:
+Cessna 550
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+9 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The commercial pilot was conducting a cross-country, business flight with 10 passengers onboard the 8-
+passenger airplane. He reported that air traffic control cleared the flight for an instrument landing system 
+(ILS) approach to the runway. While descending, the airplane entered instrument meteorological 
+conditions (IMC) at 3,100 ft mean sea level (msl), and ice started to accumulate on the wing's leading 
+edges, empennage, and windshield. The pilot activated the pneumatic deice boots multiple times during 
+the approach and slowed the airplane to 120 knots. The airplane then exited the clouds about 400 ft 
+above ground level (agl), and the pilot maintained 120 knots as the airplane flew over the airport fence; 
+all indications for landing were normal. About 100 ft agl, the airplane started to pull right. He applied 
+left correction inputs, but the airplane continued to pull right. He applied engine power to conduct a go-
+around, but the airplane landed in grass right of the runway, sustaining damage to the wings and landing 
+gear. Witnesses and passengers reported that the airplane stalled. 
+During examination of the airplane immediately after the accident, about 1/2 to 1 inch of mixed ice was 
+found on the right wing's leading edge, the vertical and horizontal stabilizers, and the angle of attack 
+probe. Ice was also observed on the windshield. The flaps were found in the "up" position. Flight control 
+continuity was established. 
+Although the airplane was originally certificated for two-pilot operation, the pilot was flying the airplane 
+under a single-pilot exemption. The pilot received a logbook endorsement indicating that he had 
+received single-pilot training and was properly qualified under the single-pilot exemption. However, he 
+had not met the turbine flight time qualifications (1,000 hours) to be properly authorized to conduct the 
+flight under the single-pilot exemption because he only had 500 hours. 
+A review of cockpit voice recorder information indicated that, although the pilot verbalized that the 
+landing gear was "all green," followed by stating "check, check, check," he did not verbalize all the 
+approach or landing checklist items nor did he make any audible comments about activating the 
+pneumatic deice boots or windshield anti-ice.

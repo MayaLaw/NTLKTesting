@@ -1,0 +1,29 @@
+{
+    "Filename": "95361.txt",
+    "Location": "Juneau, Wisconsin",
+    "Accident Number": "CEN17LA224",
+    "Date & Time": "June 7, 2017, 09:30 Local",
+    "Aircraft": "MCKENNA SD-1A",
+    "Registration": "N31313",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot stated immediately takeoff left wing felt extremely heavy required exceptional amount right aileron maintain level flight precautionary landing airplane bounced turned left left main landing gear collapsed pilot recently reinstalled wing however made measurement reinstallation mechanic signed condition inspection confirm wing angle incidence postaccident examination airplane revealed angle incidence incorrect given first flight since reinstallation wing likely incorrect angle incidence led pilot difficulty controlling airplane probable cause finding national transportation safety board determines probable cause accident pilot difficulty controlling airplane due incorrect reinstallation wing led bounced precautionary landing contributing accident failure pilot mechanic verify wing angle incidence",
+        "Top Words": [
+            [
+                "wing",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

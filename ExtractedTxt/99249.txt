@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Fort Meyers, Florida
+Accident Number:
+DCA19CA137
+Date & Time:
+April 11, 2019, 23:16 Local 
+Registration:
+N31412
+Aircraft:
+Boeing 737
+Aircraft Damage:
+None
+Defining Event:
+Cabin safety event
+Injuries:
+1 Serious, 107 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+On April 11, 2019, about 2316 eastern daylight time, United Airlines flight 2260, a Boeing 737-
+924, N31412, the aft galley oven dislodged during landing at Southwest Florida International 
+Airport(KRSW), Fort Myers, Florida. Of the 107 passengers and crew onboard, one flight 
+attendant sustained serious injuries. The airplane was not damaged. The flight was operating 
+under the provisions of 14 Code of Federal Regulations (CFR) Part 121 as a regularly scheduled 
+passenger flight from the George Bush Intercontinental Airport (KIAH), Houston, Texas, to 
+KRSW.  
+After touchdown on runway 24, the aft galley oven became dislodged, and the aft galley flight 
+attendant attempted to restrain it causing her injury. After taxiing to the gate and deplaning, 
+the flight attendant was treated by emergency medical personnel and transported to the 
+hospital where she was diagnosed with a fractured left forearm. 
+Post flight examination found multiple attach screws on the bottom of the oven were missing, 
+which allowed the oven to slide out of its compartment during the landing. Subsequent to the 
+accident, the operator conducted a fleet inspection of the oven housing attach screws.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+missing attach screws on the aft galley oven, which allowed it to become dislodged landing, 
+injuring a flight attendant.

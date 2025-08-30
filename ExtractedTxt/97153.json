@@ -1,0 +1,29 @@
+{
+    "Filename": "97153.txt",
+    "Location": "Page, Arizona",
+    "Accident Number": "GAA18CA246",
+    "Date & Time": "April 29, 2018, 14:10 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N7553N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff airplane experienced loss lift added rejected takeoff landing back runway airplane bounced veered left airplane exited runway came rest shallow ditch pilot reported maximum gross weight airplane 3100 pound weight time accident 3055 pound airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 17 minute accident wind 250 10 knot gusting 19 knot visibility 10 statute mile cloud condition clear temperature 26c 79f dew point 16c 3f altimeter setting 2971 inch mercury airplane departing runway 15 estimated density altitude 6816 ft probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control rejected takeoff gusting quarting tailwind condition",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

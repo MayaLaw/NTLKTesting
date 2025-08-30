@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Greenwood, Illinois
+Accident Number:
+CEN18LA228
+Date & Time:
+June 16, 2018, 10:40 Local 
+Registration:
+N81047
+Aircraft:
+RGJ AVIATION LLC JOHNSON AIR 
+CAM
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After a fly-in event, the airline transport pilot was attempting a short-field takeoff from a 2,802-ft 
+runway. The pilot added flaps to increase aircraft performance; he checked the flight controls and 
+confirmed the flap setting before takeoff. He stated that he rarely used flaps, that the airplane does not 
+require the use of flaps for a short takeoff roll, and that the airplane make and model had a takeoff roll of 
+300 ft. The pilot stated that he had about 1,400 ft of runway available and that he rotated the airplane at 
+50 knots. However, a witness stated the airplane back taxied only about 100 ft past the runway threshold 
+and then turned around for what appeared to be getting ready for takeoff. A second witness stated he 
+heard the pilot make a radio transmission that he was going to back taxi. The witness watched the 
+airplane back taxi and very shortly after it crossed the numbers of the runway, it stopped and turned 
+around. A few seconds later, the pilot applied full throttle, and the airplane began to roll forward. A third 
+witness stated that the pilot attempted the takeoff with about 600 ft remaining to the end of the runway 
+and that the airplane lifted off surprisingly quickly, perhaps 350 ft from the west edge of the runway, 
+maybe further back. Shortly after takeoff, the right wing dropped, and the pilot experienced a loss of 
+aileron control, which were consistent with the exceedance of the airplane's critical angle of attack and 
+an aerodynamic stall. The airplane impacted the ground to the right of the runway and cartwheeled 
+before coming to a stop. Postaccident examination of the airplane revealed no mechanical malfunctions 
+or failures that would have precluded normal operation. It is likely that the pilot took off with 
+insufficient runway available and exceeded the airplane's critical angle of attack. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

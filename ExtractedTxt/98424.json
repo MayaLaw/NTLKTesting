@@ -1,0 +1,29 @@
+{
+    "Filename": "98424.txt",
+    "Location": "Newark, New Jersey",
+    "Accident Number": "DCA18CA299",
+    "Date & Time": "September 23, 2018, 21:45 Local",
+    "Aircraft": "Boeing 757",
+    "Registration": "N13113",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 176 None",
+    "Analysis": {
+        "Text": "september 23 2018 2145 edt united flight 138 boeing b757224 n13113 process boarding newark international airport ewr newark new jersey flight attendant struck catering cart 177 passenger crew scheduled onboard one flight attendant seriously injured flight scheduled 14 code federal regulation part 121 international passenger flight ewr reykjavikkeflavak international airport kef keflavak iceland initial boarding process resupplying catering still ongoing caterer personnel quickly pushing catering cart throught aisle flight attendant foot struck cart passed flight attendant injured thought foot bruised remained onboard work flight flight flight attendant foot became painful required elevate foot short period time arrival kef injured flight attendant went local hospital diagnosed fractured heel probable cause finding national transportation safety board determines probable cause accident catering cart striking flight attendant foot",
+        "Top Words": [
+            [
+                "flight",
+                12
+            ],
+            [
+                "attendant",
+                7
+            ],
+            [
+                "foot",
+                5
+            ]
+        ]
+    }
+}

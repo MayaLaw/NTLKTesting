@@ -1,0 +1,29 @@
+{
+    "Filename": "98186.txt",
+    "Location": "Redding, California",
+    "Accident Number": "WPR18FA244",
+    "Date & Time": "August 29, 2018, 11:00 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N7990F",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot departing personal flight singleengine airplane multiple witness described airplane initial climb slow steep recounted airplane entering left turn descending ground contact consistent aerodynamic stall although several witness reported engine sound initial climb abnormal examination engine airframe revealed evidence mechanical malfunction failure would precluded normal operation wing flap found extended 20 airplane owner manual suggested 10 flap extension takeoff soft rough runway however manual also indicates flap reduce climb 50 ft federal aviation administration guidance state flap deflection 15 primarily produce lift minimal drag flap extension greater 15 produce large increase drag significant noseup pitching moment high wing equipped airplane likely takeoff 20 flap extended airplane became airborne lower normal airspeed entered climb higher normal noseup pitch attitude placing airplane close critical angle attack climb pilot exceeded critical angle attack likely allowing airspeed decay due airplane nose pitch attitude airplane entered aerodynamic stall altitude low recovery toxicology testing pilot indicated presence thc tetrahydrocannabinol active compound marijuana known relationship tissue level impairment therefore whether pilot use potentially impairing substance contributed accident could determined probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "flap",
+                6
+            ],
+            [
+                "climb",
+                5
+            ]
+        ]
+    }
+}

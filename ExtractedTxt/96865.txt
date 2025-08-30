@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Chesapeake, Virginia
+Accident Number:
+ERA18LA101
+Date & Time:
+March 13, 2018, 11:30 Local 
+Registration:
+N5646V
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting touch-and-go landings; the airplane was about 200 ft above ground 
+level after a takeoff when the engine lost total power. The pilot cycled the throttle during the straight-
+ahead descent, which restored power momentarily before the forced landing. During the ground roll, the 
+nose landing gear separated, and the airplane sustained substantial damage to the wings and fuselage. A 
+postaccident test run of the engine using the fuel available in the airplane’s tanks and the intact fuel 
+system revealed that the engine operated normally with no anomalies noted. The weather conditions at 
+the time of the accident were conducive to the formation of serious carburetor icing at descent engine 
+power settings. The pilot stated that he had not activated the carburetor heat at any point during the 
+flight. Because the engine operated normally after the accident, the weather conditions were conducive 
+to the formation of carburetor icing, and the pilot failed to use carburetor heat during the approach, it is 
+likely that the engine lost power due to the accumulation of carburetor ice before and during the takeoff.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to apply carburetor heat during the approach for a touch-and-go landing, which 
+resulted in a total loss of engine power during the subsequent takeoff.

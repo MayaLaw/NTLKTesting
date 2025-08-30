@@ -1,0 +1,29 @@
+{
+    "Filename": "97543.txt",
+    "Location": "Monroe, North Carolina",
+    "Accident Number": "ERA18LA172",
+    "Date & Time": "June 19, 2018, 13:50 Local",
+    "Aircraft": "Mooney M20J",
+    "Registration": "N201FD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot purpose flight conduct instrument approach pilotrated passenger board pilot completed instrument landing system instrument approach procedure near decision altitude visual condition initiated missed approach climbing right turn indicated airplane 600 ft ground level engine suddenly started falter pilot initiated course reversal conduct forced landing opposite runway airplane stalled runway landed hard 45 runway heading landing gear separated fuselage substantially damaged airplane slid grass infield came rest examination engine gps track data revealed airplane entered fullpower climb near approach end 7001ft runway fuel flow engine rpm rapidly decreased climb arrested instead continuing straight ahead airplane entered descending right turn 30 second descent last gps position recorded 3200 ft runway 1100 ft right centerline altitude 1023 ft engine start attempted airport shortly accident unsuccessful however airplane recovered recovery facility engine successfully started run airframe using airplane fuel system reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "runway",
+                5
+            ]
+        ]
+    }
+}

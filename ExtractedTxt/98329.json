@@ -1,0 +1,29 @@
+{
+    "Filename": "98329.txt",
+    "Location": "Festus, Missouri",
+    "Accident Number": "CEN18FA384",
+    "Date & Time": "September 20, 2018, 22:30 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N7152S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot son conducting crosscountry flight new york missouri final fuel stop communicated pilot fianc\u00e9e via text message airplane experiencing small electrical problem pilot refueled airplane 275 mile destination airport continued final leg flight dark night condition passenger subsequently messaged pilot fianc\u00e9e asked stand end runway flashlight help direct airplane toward runway landing stated would attempt use handheld radio onboard activate runway light unsure radio would sufficient battery passenger also indicated picked head wind flight pilot fianc\u00e9e reported airplane attempted land unsure touched runway due night condition fact airplane blacked exterior light last text message passenger stated keep light airplane impacted terrain 14 mile departure end runway nosedown attitude consistent aerodynamic stall two intact fuel tank contained usable fuel propeller blade lacked chordwise scratch torsional deformation consistent loss engine power preimpact mechanical malfunction failure airframe engine noted examination exception voltage regulator found inoperable manufacturer guidance stated following electrical system failure pilot land airplane soon practical however pilot chose initiate continue flight dark night condition known electrical problem airport required activate runway light though extent pilot preflight inflight fuel planning could determined possible airplane consumed fuel planned passenger indicated airplane encountered headwind inflight likely absence fuel quantity indication contributed fuel exhaustion",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "fuel",
+                7
+            ]
+        ]
+    }
+}

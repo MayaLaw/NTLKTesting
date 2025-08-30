@@ -1,0 +1,29 @@
+{
+    "Filename": "98483.txt",
+    "Location": "Westhampton Beach, New York",
+    "Accident Number": "ERA19LA012",
+    "Date & Time": "October 13, 2018, 10:58 Local",
+    "Aircraft": "Piper PA34",
+    "Registration": "N593MS",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "flight instructor picked private pilot passenger crosscountry flight instructor requested visual flight rule vfr flight following service air traffic control atc indicated planned climb 8500 ft mean sea level msl however airplane continued climb past altitude climb instructor indicated atc controller separate transmission climbing reach vfr ontop experiencing problem unreliable attitude indicator airplane imc instrument meteorological condition based weather sounding satellite imagery likely airplane operating imc 4100 ft 20 minute airplane departed controller declared emergency behalf pilot provided multiple radar vector airplane return visual meteorological condition vmc however airplane radar track showed airplane continued climbing 19400 ft msl entered series figureeight turn followed steep turning descent witness stated airplane sounded stunt plane spin pitch changing heard pop saw large piece airplane descending overcast sky examination recovered portion airplane revealed evidence preimpact mechanical anomaly wreckage distribution consistent inflight breakup instructor private pilot low level ethanol cavity blood none vitreous instructor urine private pilot absence ethanol second specimen indicates likely ethanol ingestion therefore contribute accident circumstance private pilot also evidence use morphine impairing opioid however decisionmaking flight including route response weather condition likely performed instructor therefore unlikely effect low level morphine private pilot contributed accident circumstance instructor demonstrated several lapse judgment associated conducting flight",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "instructor",
+                7
+            ],
+            [
+                "flight",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98584.txt",
+    "Location": "Gainesville, Florida",
+    "Accident Number": "GAA19CA046",
+    "Date & Time": "October 31, 2018, 18:00 Local",
+    "Aircraft": "Beech 55",
+    "Registration": "N5YB",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot retractable landing gearequipped airplane reported landing roll inadvertently moved landing gear position handle position immediately recognized error moved handle back position subsequently saw left wing settle slightly added power performed goaround airborne asked tower controller observe landing gear confirmed left main landing gear canted inward appear locked pilot stated second landing placed gear handle position saw gear indicator light showing locked however landing roll left wing settled onto runway airplane sustained substantial damage left aileron pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "gear",
+                5
+            ],
+            [
+                "position",
+                4
+            ]
+        ]
+    }
+}

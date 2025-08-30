@@ -1,0 +1,29 @@
+{
+    "Filename": "97222.txt",
+    "Location": "VALPARAISO, Indiana",
+    "Accident Number": "CEN18LA165",
+    "Date & Time": "May 8, 2018, 14:15 Local",
+    "Aircraft": "Piper PA 34-200",
+    "Registration": "N99GN",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "pilot receiving instruction flight instructor conducting multiple approach airport simulated engineout goaround pilot advanced throttle operating engine full power allowed airspeed drop singleengine minimum controllable airspeed subsequently pilot lost airplane control airplane descended impacted terrain examination airplane revealed evidence preaccident mechanical malfunction failure would precluded normal operation instructor monitoring pilot airspeed control failure contributed accident probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction failure maintain safe operating airspeed resulted loss airplane control contributing accident flight instructor failure monitor pilot airspeed control",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airspeed",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

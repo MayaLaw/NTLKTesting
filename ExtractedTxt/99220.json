@@ -1,0 +1,29 @@
+{
+    "Filename": "99220.txt",
+    "Location": "Lakeland, Florida",
+    "Accident Number": "GAA19CA196",
+    "Date & Time": "April 3, 2019, 11:30 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N4821S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported taxi parking following ground guide arm hand signal pilot turned airplane right maneuver fence line left parked airplane right right turn airplane left wing struck fence post airplane sustained substantial damage left wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance fence post taxi parking finding personnel issue monitoring environment pilot environmental issue fencefence post effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "right",
+                3
+            ]
+        ]
+    }
+}

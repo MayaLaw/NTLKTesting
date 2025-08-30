@@ -1,0 +1,29 @@
+{
+    "Filename": "98475.txt",
+    "Location": "Refugio, Texas",
+    "Accident Number": "CEN19LA007",
+    "Date & Time": "October 12, 2018, 13:04 Local",
+    "Aircraft": "Grumman AA5",
+    "Registration": "N81383",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting personal crosscountry flight became lost pilot reported understand navigate using gps installed airplane flight instead continuing southeast toward intended destination pilot turned south remainder flight flying 15 hour pilot became concerned much fuel remained decided land refuel pilot stated airplane total loss engine power airport traffic pattern maintain adequate airspeed resulted aerodynamic stall turn base leg final airplane sustained substantial damage fuselage empennage impact examination airplane revealed fuel left fuel tank 7 gallon fuel right fuel tank less 2 fluid ounce combined fuel electric boost pump fuel line carburetor carburetor fuel bowl pilot reported fuel selector valve positioned left fuel tank loss engine power occurred loss engine power likely due fuel starvation probable cause finding national transportation safety board determines probable cause accident pilot improper inflight fuel management resulted total loss engine power due fuel starvation pilot failure maintain adequate airspeed resulted airplane exceeding critical angle attack aerodynamic stall low altitude",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

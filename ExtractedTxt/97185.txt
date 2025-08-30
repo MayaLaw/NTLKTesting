@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Chandler, Arizona
+Accident Number:
+GAA18CA256
+Date & Time:
+May 5, 2018, 11:05 Local 
+Registration:
+N76SC
+Aircraft:
+Cessna A185
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during final approach, the airplane required 
+about 10° of crab to the right to maintain alignment with the runway. During the landing flare, he 
+reduced power to idle, slowly applied rudder to align the fuselage with the runway centerline, and added 
+right aileron to counter the crosswind. He added that, during the three-point landing, the airplane 
+bounced. During the landing roll, he had full right aileron countering the wind when a "perceived" gust 
+lifted the right wing. He held full right aileron, full aft yoke, and used the rudder to maintain alignment. 
+Subsequently, about 40 knots groundspeed, the left main landing gear collapsed, and the left wing 
+impacted the runway.
+The airplane sustained substantial damage to the left wing and aileron.
+The pilot reported that the left main landing gear detached from the airplane.
+The automated weather observation system located at the accident airport reported that, about 20 
+minutes before the accident, the wind was from 110° at 8 knots, gusting to 19 knots. The same 
+observation system reported that, about 10 minutes after the accident, the wind was from 150° at 13 
+knots, gusting to 21 knots. The pilot landed on runway 4R.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing in gusting tailwind conditions. 

@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Renton, Washington
+Accident Number:
+GAA18CA336
+Date & Time:
+June 10, 2018, 14:30 Local 
+Registration:
+N352AM
+Aircraft:
+AVIAT AIRCRAFT INC A 1
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the float-equipped airplane reported that, during takeoff from a tower-controlled waterway 
+in gusting crosswind conditions, he felt the wind direction shift as the airplane started to lift off. He 
+added that a strong wind gust then lifted the left wing, and the right wing dipped and impacted the water. 
+He reduced power and shut the engine off. The impact had damaged the float connecting rod. The 
+airplane came to rest upright on both floats, but the left float then separated from the fuselage, and the 
+airplane sank.
+The airplane sustained substantial damage to the left wing lift strut.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system about 1 nautical mile from the accident site reported that, 
+about the time of the accident, the wind was from 170° at 7 knots with thunderstorms in the vicinity. 
+According to the pilot, the tower had reported the possibility of gusts up to 20 knots. The pilot was 
+departing the waterway to the east/southeast.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate crosswind correction, which resulted in the right wing impacting the water's 
+surface.

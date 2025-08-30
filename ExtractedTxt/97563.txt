@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Alexander City, Alabama
+Accident Number:
+ERA18LA177
+Date & Time:
+June 24, 2018, 09:20 Local 
+Registration:
+N19MM
+Aircraft:
+CRAWFORD RV-7
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot reported that the accident flight was the first flight in the airplane since he thought 
+the condition inspection was completed. He found out after the accident that the mechanic had not completed 
+the condition inspection nor signed off the maintenance logbook. The mechanic reported that he still had 
+several questions that needed to be answered.
+The pilot stated that he took off for the personal, cross-country flight and then flew the airplane for 45 minutes. 
+He added that, when the airplane reached 2,000 ft above ground level and he reduced the throttle, the engine 
+“popped” twice and then lost all power. He looked at the fuel gauges, verified that sufficient fuel was onboard, 
+and switched the selector valve to the other tank. The pilot did not believe that the airplane could glide to the 
+runway at the destination airport, so he chose to land the airplane in a field. During the approach, the airplane 
+impacted tree tops and power lines and then terrain. A postcrash fire ensued, which consumed most of the 
+cockpit and forward portion of the airframe. 
+Examination of the engine, which exhibited fire damage but was intact, revealed no evidence of any preimpact 
+mechanical malfunctions or failures that would have precluded normal operation. The reason for the loss of 
+engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined because examination of the engine 
+revealed no evidence of any preimpact mechanical malfunctions or failures that would have precluded normal 
+operation.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98498.txt",
+    "Location": "Denver, Colorado",
+    "Accident Number": "GAA19CA026",
+    "Date & Time": "October 15, 2018, 13:45 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N76154",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported preflight demonstration flight another pilot discussed noseover tendency airplane need stay brake added fourth touchandgo landing second pilot flying performed wheel landing landing roll airplane drifted right pilot came rudder help suddenly airplane nosed pilot reported believed responsible accident either pilot must inadvertently applied brake also believed misjudged second pilot tailwheel experience second pilot reported time accident tailwheel endorsement met recency experience requirement added landing roll airplane tracking centerline suddenly unexpectedly nosed airplane sustained substantial damage right wing lift strut empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

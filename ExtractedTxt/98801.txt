@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Watkins, Colorado
+Accident Number:
+CEN19LA048
+Date & Time:
+December 25, 2018, 09:48 Local 
+Registration:
+N711KJ
+Aircraft:
+Vans RV 6
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fire/smoke (non-impact)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he’d been conducting touch-and-go landings in the traffic pattern. 
+During initial climb for the second touch-and-go landing and once the airplane reached 
+between about 200 and 300 ft above ground level, he smelled an unusual odor and noticed 
+flames coming from the floor forward of his rudder pedals. The pilot added that he 
+“immediately rejected the takeoff” and declared an emergency. He then landed the airplane on 
+the departure runway, exited the runway onto a taxiway, and then stopped the airplane. The 
+pilot subsequently turned off the fuel valve, shut down the engine by pulling the mixture to full 
+lean, turned off the fuel valve and electrical power switches, and then exited the airplane. A 
+postcrash fire ensued, which consumed the airplane.
+The pilot stated that he had installed all new fuel lines about 1 month or 1.5 flight hours before 
+the accident flight. Postaccident engine examination revealed that all four fuel lines exhibited 
+thermal damage and soot on their exteriors, consistent with exposure to fire. An end of one of 
+the fuel lines had soot deposits in the first three threads of the line’s attachment fitting. If the 
+fuel line had been secured at the time of the fire, no soot deposits would have been inside the 
+threaded fitting. Therefore, it is likely that the fuel line loosened during flight due to the pilot’s 
+failure to apply adequate torque to the line during installation, which allowed fuel to enter the 
+hot engine compartment and led to an in-flight fire that consumed the airplane.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

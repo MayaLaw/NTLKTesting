@@ -1,0 +1,29 @@
+{
+    "Filename": "97492.txt",
+    "Location": "Desdemona, Texas",
+    "Accident Number": "CEN18LA229",
+    "Date & Time": "June 17, 2018, 08:30 Local",
+    "Aircraft": "Cessna T210F",
+    "Registration": "N6107R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious, 2 Minor",
+    "Analysis": {
+        "Text": "private pilot conducting personal crosscountry flight stated engine began running roughly cruise flight leaned mixture engine roughness subsided however minute later engine began running roughly switched fuel tank engine continued running roughly shortly thereafter engine lost power pilot subsequently conducted forced landing soft sandy field airplane nosed postaccident engine testrun revealed engine would maintain power fuel flow excessive subsequent bench test fuel pump revealed pump set high fuel flow setting beyond engine normal limit fuel pump adjusted reinstalled engine another test run second testrun engine operated smoothly stabilized fuel flow within operating limit engine given evidence likely engine lost power due fuel pump flow setting set high resulted excessive fuel flow engine probable cause finding national transportation safety board determines probable cause accident total loss engine power due fuel pump fuel flow setting set high resulted excessive fuel flow engine",
+        "Top Words": [
+            [
+                "engine",
+                15
+            ],
+            [
+                "fuel",
+                11
+            ],
+            [
+                "flow",
+                7
+            ]
+        ]
+    }
+}

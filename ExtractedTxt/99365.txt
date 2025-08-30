@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Woodland, Washington
+Accident Number:
+WPR19LA132
+Date & Time:
+May 1, 2019, 10:30 Local 
+Registration:
+N106AL
+Aircraft:
+OTTERBACK Lightning
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that after an uneventful flight in an experimental airplane he set up for landing.  At 
+about 1,200 feet he reduced the throttle to idle, turned on the carburetor heat, and entered the traffic 
+pattern.  After turning final, when the pilot began to reach for the throttle, the propeller stopped 
+spinning.  The engine had lost complete power, with no engine roughness or abnormal noises. Since the 
+airplane was about 50 ft above the ground, the pilot continued to land onto the runway. The airplane 
+bounced and when it touched back down, the airplane departed the left side of the runway. The pilot 
+redirected the airplane back toward the runway surface, but the nose gear collapsed on the rough grass.  
+The nearest weather reporting station indicated temperature 13°C, dewpoint 4°C. Review of the 
+Carburetor Icing Probability Chart revealed that, given the temperature and dewpoint, the conditions 
+were on the line between serious icing at glide power and serious icing at cruise power. During a 
+telephone conversation the pilot reported that the carburetor heat system takes hot air from near the 
+muffler to keep the carburetor from icing up. It is likely that the carburetor accumulated ice while in 
+cruise flight and the carburetor heat, when applied when the pilot reduced the throttle to idle, was not 
+sufficient to remove the carburetor ice which resulted in a loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A complete loss of engine power due to carburetor icing.  

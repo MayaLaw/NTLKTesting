@@ -1,0 +1,29 @@
+{
+    "Filename": "99045.txt",
+    "Location": "Louisburg, North Carolina",
+    "Accident Number": "ERA19FA113",
+    "Date & Time": "March 1, 2019, 19:21 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N26617",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "private pilot planned conduct personal instrument flight rule ifr flight night instrument meteorological condition imc clearance pilot received air traffic control stipulated departure airplane turn 50 left runway heading radar data showed airplane instead climbed along departure runway heading 1 minute witness described airplane entered imc around 200 300 foot ground airplane reached altitude 860 ft ground level agl entered right turn airplane reached top climb 930 ft agl continued tightening right turn descending estimated rate 6000 foot per minute pilot contact air traffic control radar contact lost vicinity accident site postaccident examination airplane revealed preimpact mechanical anomaly would precluded normal operation 1 hour airplane departed pilot obtained online weather briefing commercial vendor information briefing indicated airplane would operating ifr condition severe turbulence reported along anticipated route flight restricted visibility lowlevel instrument meteorological condition night conducive development spatial disorientation addition airplane flight track included altitude directional change inconsistent flight clearance instruction rapidly descending right turn consistent known effect spatial disorientation likely pilot developed spatial disorientation flight led loss control sedating overthecounter antihistamine cetirizine found postaccident toxicology specimen taken pilot however level drug measured three time therapeutic level additionally ethanol also detected pilot blood specimen detected pilot brain muscle specimen result ethanol detected likely source ingestion thus pilot use cetirizine identified ethanol contribute accident",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "flight",
+                6
+            ]
+        ]
+    }
+}

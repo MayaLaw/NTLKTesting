@@ -1,0 +1,29 @@
+{
+    "Filename": "98129.txt",
+    "Location": "Mayport, Florida",
+    "Accident Number": "ERA18LA227",
+    "Date & Time": "August 17, 2018, 13:20 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N1330Z",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported cruise flight engine lost total power pilot attempt restart engine unsuccessful contacted air traffic control reported unable make closest airport ditched airplane atlantic ocean postaccident examination airplane revealed elevator separated horizontal stabilizer ditching examination engine revealed fuel line attached fuel flow sensor broken detailed examination fracture surface broken fuel line fitting revealed feature consistent highstress lowcycle fatigue crack propagation crack initiated outside progressing thickness aluminum fuel line partially along circumference final overstress fracture review installation drawing instruction revealed fuel flow sensor installed without mounting bracket per installation instruction given information likely fuel line fractured fatigue due improper installation lack support would provided required bracket failure fuel line subsequently resulted fuel starvation total loss engine power available maintenance record detailed installation engine monitoring device accompanying cylinder head temperature probe record indicated fuel flow sensor installed probable cause finding national transportation safety board determines probable cause accident failure fuel line due improper installation fuel flow sensor resulted",
+        "Top Words": [
+            [
+                "fuel",
+                11
+            ],
+            [
+                "line",
+                6
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

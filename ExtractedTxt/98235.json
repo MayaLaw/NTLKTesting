@@ -1,0 +1,29 @@
+{
+    "Filename": "98235.txt",
+    "Location": "Palo Alto, California",
+    "Accident Number": "WPR18FA251",
+    "Date & Time": "September 4, 2018, 11:00 Local",
+    "Aircraft": "Mooney M20J",
+    "Registration": "N701JM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal, 1 Serious, 1",
+    "Analysis": {
+        "Text": "pilot flying two passenger angel flight airplane 10 mile north destination pilot contacted air traffic control tower atct given instruction fly charted vfr checkpoint reported familiar asked direction controller pilot navigated checkpoint several communication instructed overfly second checkpoint 25 mile north runway left base leg arrival pilot unable locate airport requested atct assistance advise turn final controller pilot saw airport continued approach witness observed airplane touch midfield began porpoise alternately bouncing main nose landing gear 3 4 oscillation pilot initiated goaround reported controller goaround response controller instructed pilot make left closed traffic asked needed assistance pilot replied negative came fast airplane climbed hundred foot observed enter steep left bank nose pitched sharply airplane descended rapidly ground examination airplane engine reveal evidence preimpact mechanical deficiency failure physical examination engine propeller combined review recorded engine operating parameter data indicated engine operated normally producing power impact pilot logbook indicated flown airport least 32 time therefore familiar physical location airport name location local navigation fix even never airport proper preflight planning dictate become familiar aspect data downloaded onboard gps device revealed airplane 10 15 knot manufacturer approach speed 75 knot calculated landing weight final approach",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "airport",
+                5
+            ]
+        ]
+    }
+}

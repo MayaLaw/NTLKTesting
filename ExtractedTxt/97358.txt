@@ -1,0 +1,40 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Melville, New York
+Accident Number:
+WPR18FA155
+Date & Time:
+May 30, 2018, 13:48 Local 
+Registration:
+N62382
+Aircraft:
+North American SNJ 2
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot departed the airport with the intention of joining five other airplanes to proceed on a cross-
+country formation flight. The rear seat passenger onboard one of the other airplanes and a witness on the 
+ground watched as the accident airplane entered a steep, climbing right 180° turn to about 1,300 ft above 
+ground level, then subsequently entered a spin that continued to ground contact. A video captured the 
+airplane in a steep, nose-down angle rotating around its vertical axis before impacting the ground. 
+Postaccident examination revealed no anomalies with the airframe or engine that would have precluded 
+normal operation, with the exception of some preexisting cracks in the cockpit heater assembly. 
+However, these cracks would not have negatively impacted the pilot's ability to control the airplane. 
+Toxicology of the pilot revealed the presence of carbon monoxide in his blood that was not the result of 
+the postcrash fire, and further examination of the heater assembly revealed no cracks or holes in the 
+exhaust pipe that would have allowed gases to mix with the cockpit air supply. Given the level of carbon 
+monoxide detected, it is unlikely that the pilot experienced any symptoms, regardless of the source, and 
+there was no evidence to suggest that any carbon monoxide in the pilot's system contributed to the 
+circumstances of the accident. Therefore, it is likely that, during the climbing turn, the pilot exceeded the 
+airplane's critical angle of attack and the airplane experienced an aerodynamic stall and inadvertent spin. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack, which resulted in an 
+aerodynamic stall, spin, and subsequent impact with terrain.

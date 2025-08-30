@@ -1,0 +1,47 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+North Branford, Connecticut
+Accident Number:
+ERA17FA327
+Date & Time:
+September 16, 2017, 13:00 Local 
+Registration:
+N53CP
+Aircraft:
+Mooney M20C
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot, who was the owner of the airplane, and one passenger departed on a day 
+visual flight rules cross-country flight. The airplane came to rest in a wooded area near an open field 
+about 24 miles from the departure airport. The pilot was not in contact with air traffic control during the 
+flight. Review of radar information revealed radar targets that were coincident with the accident flight 
+on a south-southeast track at altitudes between 900 and 1,300 ft above ground level until radar contact 
+was lost about 1 mile northwest of the accident site. Several individuals near the accident site reported 
+that they heard the sound of the impact, but there were no witnesses to the accident. The propeller 
+exhibited signatures consistent with a lack of engine power at the time of impact. The fuel selector was 
+found in the left tank position and the landing gear was extended. There was evidence of fuel in both 
+tanks at the accident site.
+Examination of the fuel system revealed that air would not pass through the fuel selector valve with the 
+valve selected to the left fuel tank position. The handle was operated by hand and could be moved 
+normally between the settings. Air passed freely through the valve when selected to the right tank 
+position. Disassembly of the fuel selector revealed a piece of red, fibrous material consistent with a shop 
+towel that likely inhibited fuel flow to the engine and resulted in fuel starvation and a total loss of engine 
+power. The airplane's maintenance logs were not found and when the shop towel debris may have been 
+introduced to the fuel system could not be determined. Additionally, a homemade tool constructed of 
+PVC pipe and connection fittings was found in the wreckage that appeared to be designed to manipulate 
+the fuel selector; however, the reason for its fabrication and use during the accident flight could not be 
+determined. The device was broken at its handle.
+Following the loss of engine power, the pilot may have attempted to switch the fuel selector from the 
+left tank to the right tank and was unable to do so, either due to a failure of his homemade tool or to the 
+inadequate time afforded to troubleshoot the loss of engine power due to his selection of a low cruising 
+altitude, or a combination of the two factors. The airplane's low cruising altitude also reduced the pilot's 
+available forced landing site options after the engine lost power. It is likely that the pilot was attempting 
+to reach an open field that was about 1,500 ft beyond the accident site and had lowered the landing gear 

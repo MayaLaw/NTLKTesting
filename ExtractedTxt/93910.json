@@ -1,0 +1,29 @@
+{
+    "Filename": "93910.txt",
+    "Location": "New Orleans, Louisiana",
+    "Accident Number": "CEN16LA338",
+    "Date & Time": "August 27, 2016, 20:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N984RA",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "2 Fatal, 1 Minor",
+    "Analysis": {
+        "Text": "shortly sunset pilot two passenger departed local sightseeing flight city flight flew around city proceeded back airport civil twilight final portion flight landing approach conducted lake review radar last return revealed airplane 06 mile airport altitude 100 ft agl surviving passenger reported everything appeared normal flight neared airport started rain visibility poor pilot pointed 4 four red light ahead airplane stated passenger airport passenger added could see side window airplane 46 ft surface lake shortly thereafter airplane impacted lake postaccident examination airplane reveal anomaly would precluded normal operation review weather information noted presence thunderstorm activity isolated rain shower area time accident pilot toxicology report positive ethanol clomipramine due delay recovery likely ethanol postmortem production clomipramine tricyclic antidepressant used treat symptom obsessivecompulsive disorder clomipramine considered impairing additionally pilot action communication passenger also indicate pilot experience seizure incapacitation reaction medication likely reduced visibility due rain night condition unlikely pilot could see water four red light consistent runway precision approach path indicator papi pilot pointed passenger reflected airplane low approach path accident consistent pilot continuing descent already normal approach path airport resulted controlled flight terrain",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "passenger",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

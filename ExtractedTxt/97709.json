@@ -1,0 +1,29 @@
+{
+    "Filename": "97709.txt",
+    "Location": "San Carlos, California",
+    "Accident Number": "GAA18CA395",
+    "Date & Time": "July 5, 2018, 15:30 Local",
+    "Aircraft": "COSTRUZIONI AERONAUTICHE",
+    "Registration": "N75SY",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing crosswind approach low added power airplane rolled veered left added mark terrain indicated left wing struck ground track showed airplane touched pavement runway threshold airplane exited runway nose landing gear collapsed airplane came rest nose airplane sustained substantial damage engine mount left wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located airport reported time accident wind 330 8 knot pilot landed airplane runway 30 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper glidepath crosswind correction landing resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

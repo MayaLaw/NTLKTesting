@@ -1,0 +1,29 @@
+{
+    "Filename": "98166.txt",
+    "Location": "Rushville, Indiana",
+    "Accident Number": "CEN18LA352",
+    "Date & Time": "August 27, 2018, 13:50 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N4379L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot indicated crosscountry flight engine sputtered several time regained power descent sputtered lost power pilot reported believe experiencing carburetor icing condition cruise portion flight remember temperature carburetor temperature gauge displaying time descent pilot attempted troubleshoot engine power loss without applying carburetor heat successful regaining engine power forced landing attempted maneuver airplane power line pole several tree airplane struck power line impacted field slightly nosedown attitude resulted substantial damage wing fuselage postaccident examination airplane engine revealed mechanical malfunction failure would precluded normal operation airplane adequate fuel board complete flight weather condition time accident conducive serious carburetor icing glide power setting loss engine power likely occurred due carburetor icing pilot failure apply carburetor heat condition conducive carburetor icing probable cause finding national transportation safety board determines probable cause accident loss engine power due carburetor icing pilot failure use carburetor heat weather condition conducive carburetor icing",
+        "Top Words": [
+            [
+                "carburetor",
+                10
+            ],
+            [
+                "power",
+                9
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99321.txt",
+    "Location": "Scottsdale, Arizona",
+    "Accident Number": "GAA19CA225",
+    "Date & Time": "April 20, 2019, 09:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N6023V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landed airplane right runway centerline continued drift right added right rudder airplane continued right said overcorrected back airplane subsequently exited runway right impacted runway sign pilot taxied parking without incident airplane sustained substantial damage right elevator pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 7 minute accident wind 150 6 knot pilot landed airplane runway 03 probable cause finding national transportation safety board determines probable cause accident pilot improper rudder input failure maintain directional control landing crosswind resulted runway excursion impact runway sign",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                6
+            ],
+            [
+                "runway",
+                6
+            ]
+        ]
+    }
+}

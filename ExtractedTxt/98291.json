@@ -1,0 +1,29 @@
+{
+    "Filename": "98291.txt",
+    "Location": "Culpeper, Virginia",
+    "Accident Number": "GAA18CA550",
+    "Date & Time": "September 1, 2018, 12:00 Local",
+    "Aircraft": "Boeing B75N1",
+    "Registration": "N27WE",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot rear seat tailwheelequipped biplane reported another pilot practicing landing asphalt runway landing roll airplane entered left ground loop bottom right wing aileron collided ground airplane sustained substantial bottom right wing aileron pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll resulted ground loop finding personnel issue aircraft control instructorcheck pilot aircraft directional control attainedmaintained",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

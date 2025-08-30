@@ -1,0 +1,29 @@
+{
+    "Filename": "98771.txt",
+    "Location": "Hartford, Wisconsin",
+    "Accident Number": "GAA19CA096",
+    "Date & Time": "December 11, 2018, 18:00 Local",
+    "Aircraft": "Beech 36",
+    "Registration": "N6650M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot retractablelanding gearequipped airplane reported instrument flight rule night flight initiated approach instrument meteorological condition approach saw rime ice accumulated left wing continued approach extended landing gear configured flap landing pilot attempted level 1620 ft although minimum descent altitude 1600 ft airplane stalled applied forward pressure yoke lower nose applied full throttle recalled airplane extremely slow respond flying ragged edge stall airplane exited cloud could see airport airplane impacted field 24 nautical mile short runway airplane sustained substantial damage wing fuselage pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack resulted aerodynamic stall impact terrain landing icing condition",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "approach",
+                3
+            ]
+        ]
+    }
+}

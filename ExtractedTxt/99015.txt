@@ -1,0 +1,41 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Ridgeland, South Carolina
+Accident Number:
+GAA19CA144
+Date & Time:
+February 22, 2019, 15:30 Local 
+Registration:
+N201AZ
+Aircraft:
+Mooney M20J
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor in the retractable-landing gear airplane reported that, during final with student at the 
+controls, there were no abnormal weather conditions, but as the airplane passed over the runway 
+threshold, the airplane encountered "severe wind shear" that he believed to be a "microburst." The 
+airplane then pitched up, rolled left, and the instructor and student added full power to go around. 
+During the attempted go-around, the instructor took control of the airplane with the landing gear down, 
+full flaps, and the propeller full forward. He added that the airplane "simply" did not have enough 
+performance to climb. Subsequently, the airplane drifted left of the runway and impacted a gravel hill.
+The airplane sustained substantial damage to the fuselage and right wing. 
+The flight instructor reported that there were no preaccident mechanical failures or malfunctions with 
+the airplane that would have precluded normal operation.
+An automated weather observation system about 14 nautical miles from the airport reported that, about 
+the time of the accident, the wind was variable at 3 knots, temperature 73°F, dew point 68°F, altimeter 
+30.14 inches of mercury, and few clouds at 500 ft. The airplane landed on runway 3. The pilot reported 
+that the weather at the airport was wind light and variable, visibility 10 miles, and few clouds at 2,000 ft. 
+The instructor reported the wind as calm to light and variable, visibility 10 miles, and few clouds at 
+5,000 ft.
+The instructor further reported that, during the go-around, the airplane's configuration with full flaps for 
+landing was not changed. The airplane's Pilot's Operating Handbook, "Go Around (balked landing)," 
+stated that, following establishing a climb, the flaps should be reduced to the takeoff setting. 
+Probable Cause and Findings

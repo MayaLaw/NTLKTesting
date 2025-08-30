@@ -1,0 +1,29 @@
+{
+    "Filename": "98737.txt",
+    "Location": "Burbank, California",
+    "Accident Number": "DCA19IA036",
+    "Date & Time": "December 6, 2018, 09:02 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N752SW",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Runway excursion",
+    "Injuries": "117 None",
+    "Analysis": {
+        "Text": "southwest airline swa flight 278 en route bob hope airport bur burbank california overran end runway 8 airplane came rest 144 ft past departure end runway 71 ft engineered material arresting system shortly airplane touched runway tower controller informed flight crew heavy precipitation occurring directly airport wind 270 11 knot bur runway 8 5802 ft length one shortest runway airport swa operated incident sequence airplane reached top descent 0839 flight crew requested received landing data report generated swa performance weight balance pwb system report indicated maximum autobrakes used landing runway 8 stopping marginthat difference calculated landing distance including 15 safety factor runway length availablewould 245 ft pwb system calculation assumed touchdown would occur 1500 ft runway threshold wind would 280 5 knot wind direction speed time airport 0753 weather observation converted true north magnetic north flight crewmembers expressed concern stopping distance given wet runway tailwind would present runway length discussed braking action upon touchdown would need pretty abrupt also even though first officer stated postincident interview bur always low number stopping margin captain stated previously seen stopping margin low one incident flight airplane descending terminal area controller advised flight crew pilot king air airplane reported 15knot loss airspeed final approach",
+        "Top Words": [
+            [
+                "runway",
+                10
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

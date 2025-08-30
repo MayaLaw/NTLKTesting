@@ -1,0 +1,40 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Rhine, Georgia
+Accident Number:
+ERA17FA330
+Date & Time:
+September 20, 2017, 06:01 Local 
+Registration:
+N3875J
+Aircraft:
+Cessna 150G
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot departed in dark night, marginal visual flight rules (MVFR) conditions from his private 
+grass runway that was partially lit with solar lights. A witness heard the airplane depart followed by the 
+sound of a crash, and when he arrived at the airstrip, he observed a light layer of fog over the runway. 
+The airplane came to rest in heavily-wooded terrain adjacent to the runway. Examination of the airplane 
+and engine revealed no anomalies that would have precluded normal operation before impact.
+Data downloaded from an onboard GPS unit revealed that, after departure, the airplane made a climbing 
+right turn to an altitude of 407 ft. It then descended to 256 ft and reached a maximum airspeed of 95 
+knots (kts) while continuing the right turn. The airplane then climbed in a right, 30° bank to a maximum 
+altitude of 666 ft while slowing to an airspeed of 32 kts, which was well below the minimum stall speed. 
+The airplane then rolled to the right and entered a rapid descent before the data ended.
+Conditions conducive to the development of spatial disorientation were present, including the dark 
+night, MVFR conditions and a noninstrument-rated student pilot. Additionally, the airplane's track data, 
+which reflects spiral-like maneuvering, and a wreckage distribution consistent with a loss-of-control, 
+stall-type vertical descent, are consistent with the known effects of spatial disorientation. Based on this 
+evidence, the student pilot most likely experienced spatial disorientation after takeoff, which led to the 
+airplane exceeding its critical angle of attack and an aerodynamic stall. 
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

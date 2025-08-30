@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Riggins, Idaho
+Accident Number:
+GAA19CA098
+Date & Time:
+December 16, 2018, 12:00 Local 
+Registration:
+N4385B
+Aircraft:
+Cessna 170
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot of the ski-equipped airplane reported that he aborted his first attempt to take off, and during his 
+second takeoff attempt with a tailwind, shortly after rotation, the airplane settled back onto the snow-
+packed runway. He added that the airplane lifted off again, but when it was about 5 ft above the ground 
+and near the end of the runway, a wind gust pushed the airplane down onto the runway. Subsequently, 
+the airplane overran the runway, and the right wing impacted a tree. The pilot did not know the wind 
+direction and speed because the airport did not have a windsock or weather reporting station. 
+The airplane sustained substantial damage to the wings.
+The pilot reported that there were no preimpact mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation. 
+The pilot chose to depart to the north due to rising terrain and tall trees on the south end of runway. The 
+pilot further reported he had landed and taken off from this airport previously without incident.
+The airport elevation was about 7,600 ft, and the runway was 1,800 ft long. The airplane owner's manual 
+recommended a takeoff distance of 3,420 ft at 7,000 ft elevation and 40°F with zero wind velocity and 
+from a hard level surface. The manual also stated that, under the most favorable condition of smooth, 
+packed snow at 30°F, the takeoff distance for a ski-equipped airplane was about 10% greater than that 
+for a wheel-equipped airplane. Per a supplemental type certificate (STC), the airplane underwent an 
+engine conversion to a 180-horsepower, constant-speed propeller engine. No takeoff performance data 
+were provided on the STC. 
+Probable Cause and Findings

@@ -1,0 +1,29 @@
+{
+    "Filename": "96089.txt",
+    "Location": "El Cajon, California",
+    "Accident Number": "WPR17LA214",
+    "Date & Time": "September 23, 2017, 14:15 Local",
+    "Aircraft": "SC AEROSTAR SA YAK 52W",
+    "Registration": "N52KF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "completing uneventful preflight inspection pilot unable start engine due low pressure pneumatic system individual arrived tank air pressurize system pilot remained airplane pilot shut compressed air supply valve required pneumatic system recharge however recharge could accomplished due incorrect adapter individual left find correct adapter another individual offered help start engine manually turning propeller engine started pilot forgot reopen compressed air supply valve taxi airplane experienced loss braking performance affected steering capability steering accomplished differential braking brake system requires pneumatic pressure operate pilot unable maintain directional control airplane subsequently collided fence sustained substantial damage left wing checklist makemodel airplane require pilot check air pressure valve position preflight engine start takeoff phase probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control taxi reduction braking performance steering capability due failure reopen air supply valve nonstandard engine start",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "air",
+                5
+            ]
+        ]
+    }
+}

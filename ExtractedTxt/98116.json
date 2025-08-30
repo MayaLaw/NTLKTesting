@@ -1,0 +1,29 @@
+{
+    "Filename": "98116.txt",
+    "Location": "Tulsa, Oklahoma",
+    "Accident Number": "CEN18LA345",
+    "Date & Time": "August 18, 2018, 09:46 Local",
+    "Aircraft": "Cessna T210",
+    "Registration": "N6958N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Electrical system malf/failure",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "airplane sitting ramp 34 month accident flight pilot initially could start engine due discharged battery departed crosscountry flight ground unit used start airplane takeoff pilot noticed radio became silent started troubleshoot loss radio communication success set return airport land runway pilot tried deploy flap landing gear indication either extended stated checked see landing gear extended using wingmounted mirror pilot continued approach landing rollout pilot applied right rudder brake airplane rolled runway grass postaccident examination airplane revealed collapsed left main landing gear mechanical anomaly noted landing gear battery discharged likely discharged battery affected landing gear extension system however could determined landing gear collapsed accident sequence completely extended landing probable cause finding national transportation safety board determines probable cause accident pilot decision take known electrical problem resulted loss electrical power problem landing gear extension system subsequent runway excursion",
+        "Top Words": [
+            [
+                "landing",
+                9
+            ],
+            [
+                "gear",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

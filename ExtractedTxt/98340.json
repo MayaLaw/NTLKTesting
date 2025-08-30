@@ -1,0 +1,29 @@
+{
+    "Filename": "98340.txt",
+    "Location": "Georgetown, South Carolina",
+    "Accident Number": "ERA18LA258",
+    "Date & Time": "September 22, 2018, 15:15 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N435RB",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "approaching airport landing instructional flight airplane entered uncommanded yaw roll right began pitch flight instructor able maintain control airplane applying left rudder left aileron forward elevator pressure trimming airplane nosedown instructor noticed airplane right yaw increased airplane speed decreased became impossible maintain alignment runway centerline upon touching runway airplane immediately veered right 90 collided tree resulting substantial damage firewall fuselage wing examination flight control system revealed left seat left rudder pedal arm clevis fractured multiple section metallurgical examination identified crack void created casting manufacturing process presence void crack oxide layer reduced crosssectional area could withstand force applied pedal arm clevis high enough load input applied pedal arm remaining material fractured overstress separation pedal arm pushrod subsequently resulted failure rudder control system review airframe logbook revealed rudder pedal arm original airplane accrued total 620362 flight hour probable cause finding national transportation safety board determines probable cause accident loss directional control landing due overstress failure left seat left rudder pedal arm clevis occurred result manufacturing defect",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                6
+            ],
+            [
+                "pedal",
+                6
+            ]
+        ]
+    }
+}

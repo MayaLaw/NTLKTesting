@@ -1,0 +1,29 @@
+{
+    "Filename": "96818.txt",
+    "Location": "Enumclaw, Washington",
+    "Accident Number": "WPR18LA098",
+    "Date & Time": "March 4, 2018, 15:58 Local",
+    "Aircraft": "RAYTHEON AIRCRAFT COMPANY",
+    "Registration": "N207PC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot cruise altitude en route crosscountry flight arizona washington noted engine oil pressure indicated zero manifold pressure near zero heard loud bang though engine thrown rod cabin filled smoke oil covered windscreen pilot conducted forced landing stand tree airplane sustained substantial damage examination airframe revealed anomaly would precluded normal operation examination engine revealed three hole crankcase consistent internal engine failure six cylinder remained attached respective cylinder bay indication impact damage no 2 4 5 connecting rod separated crankshaft rod bearing displayed lubrication distress consistent oil starvation oil line bnut attached turbocharger scavenge check valve loose based available information likely loose oil line bnut resulted gradual loss oil long crosscountry flight subsequently resulted separation connecting rod due oil starvation total loss engine power probable cause finding national transportation safety board determines probable cause accident total loss engine power due oil starvation result loose oil line bnut",
+        "Top Words": [
+            [
+                "oil",
+                9
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "rod",
+                4
+            ]
+        ]
+    }
+}

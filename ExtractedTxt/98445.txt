@@ -1,0 +1,34 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Marina, California
+Accident Number:
+GAA19CA013
+Date & Time:
+October 10, 2018, 10:30 Local 
+Registration:
+N89266
+Aircraft:
+Cessna 140
+Aircraft Damage:
+Substantial
+Defining Event:
+Nose over/nose down
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, after landing, as he pressed the right rudder to 
+turn off the runway, his foot slipped, he inadvertently applied the brake, and the airplane nosed over. 
+The airplane sustained substantial damage to the right wing lift strut, left wing, and empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadvertent application of the brakes, which resulted in a nose-over.
+Findings
+Aircraft
+Brake - Unnecessary use/operation
+Personnel issues
+Aircraft control - Pilot

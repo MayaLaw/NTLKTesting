@@ -1,0 +1,29 @@
+{
+    "Filename": "98255.txt",
+    "Location": "Harrisville, Michigan",
+    "Accident Number": "CEN18TA374",
+    "Date & Time": "September 1, 2018, 14:00 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N5321E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 Minor, 3 None",
+    "Analysis": {
+        "Text": "private pilot reported completed preflight inspection engine runup anomaly noted 20 gallon fuel left tank taxied airplane runway extended flap 10 started takeoff roll noted first 200 ft runway soft consisted long grass rest runway consisted sand weed patch pilot stated takeoff roll nosewheel lifted runway around 300 ft main landing gear lifted near midfield kept airplane ground effect airplane 34 way runway still ground effect would gain altitude left wing contacted tree pilot aborted takeoff attempted stop airplane grass collided tree end runway pilot reported mechanical malfunction anomaly engine airplane would precluded normal operation pilot stated could get airplane speed tall grass runway 32second video takeoff attempt revealed beginning takeoff roll grass runway 14 second airplane veered toward left side runway 22 second loud noise heard likely airplane colliding tree airplane made sharp right turn slid runway came rest tree end runway clear video airplane became airborne pilot stated calculated takeoff weight 12 lb maximum takeoff weight 2950 lb calculated center gravity 007 inch beyond aft limit 847 inch aft datum addition pilot stated accident data airport showed additional 600 ft available runway based available video evidence pilot delayed decision abort takeoff leave enough runway length airplane stop colliding tree end runway likely airplane loaded near maximum gross weight airplane center gravity aft allowable limit contributed difficulty gaining adequate speed takeoff factor",
+        "Top Words": [
+            [
+                "runway",
+                14
+            ],
+            [
+                "airplane",
+                13
+            ],
+            [
+                "takeoff",
+                9
+            ]
+        ]
+    }
+}

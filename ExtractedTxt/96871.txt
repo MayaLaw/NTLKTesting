@@ -1,0 +1,33 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Montague, California
+Accident Number:
+WPR18LA105
+Date & Time:
+March 10, 2018, 16:55 Local 
+Registration:
+N6611J
+Aircraft:
+Piper PA 28-180
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during takeoff following a touch-and-go landing, the airplane would not climb. 
+The pilot subsequently performed a forced landing, during which the airplane contacted power lines and 
+terrain, resulting in substantial damage to the wings and fuselage. 
+Following the accident, the engine was successfully run on the airframe at various power settings with 
+no anomalies noted. Flight control continuity was established throughout the airframe, and there was no 
+evidence of any preimpact malfunctions or anomalies that would have precluded normal operation of the 
+airplane. Given the available information, the reason for the impact with powerlines and terrain after 
+takeoff could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Impact with powerlines and terrain after takeoff for reasons that could not be determined based on the 
+available information. 

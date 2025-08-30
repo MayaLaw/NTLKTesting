@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Burns, Oregon
+Accident Number:
+WPR19LA020
+Date & Time:
+October 27, 2018, 07:50 Local 
+Registration:
+N3267S
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Upon approaching the intended landing area, the pilot performed a high reconnaissance to assess the 
+wind conditions. The airplane touched down and, during the landing roll, the left wing dipped 
+downward. The left wing made contact with the ground before coming to rest with the left main landing 
+gear sheared off. 
+The attachment bolt that connected the left main landing gear leg bracket exhibited a fatigue crack that 
+had progressed through about one third of the bolt cross-section. This fatigue crack initiated at multiple 
+fatigue crack initiation sites along the thread root. This thread root exhibited corrosion pitting that had 
+penetrated the outer cadmium plating, which had led to fatigue cracking. When the remainder of the bolt 
+could no longer support the stress at landing, the remaining cross section fractured in overstress. As this 
+crack had propagated through about one third of the cross section without a discernible transition or 
+mixed fracture zone between the fatigue crack and subsequent stress, the final fracture occurred at a high 
+load event, such as the accident landing.
+The bolts had been plated with cadmium, a corrosion inhibitor. However, corrosion pitting was observed 
+along the threads, which led to fatigue cracking in both bolts. Although the cadmium plating can provide 
+protection to the underlying alloy steel, corrosion such as in the form of pitting can still occur. This may 
+be due to the operational environment, including locations near saltwater, as well as from a crevice 
+corrosion mechanism.
+With the fatigued bolt having fractured, the bracket would be able to flex or slide out the side. With 
+these components able to flex, the bottom of the support housing could not support the downward forces 
+from the gear spring, which led to its fracture. This would allow a cantilever force on the inboard 
+support, which would have been enough force to fracture the attachment bolt on that support and the 
+upper support frame. Although a hard landing would have caused this bolt to fracture, the fatigue crack 
+diminished the amount of stress it could withstand.

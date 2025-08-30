@@ -1,0 +1,29 @@
+{
+    "Filename": "98765.txt",
+    "Location": "Honolulu, Hawaii",
+    "Accident Number": "WPR19LA041",
+    "Date & Time": "December 12, 2018, 14:30 Local",
+    "Aircraft": "Hawker HAWKER HNTR FMK 58",
+    "Registration": "N323AX",
+    "Flight Conducted Under": "Public aircraft",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported experienced loss engine power 500 ft ground level departure turnout runway pilot attempted restart engine airspeed continued decay ejected airplane impacted water became submerged ocean 286 nautical mile southeast departure end runway area water depth 250 ft postaccident examination recovered wreckage revealed recovered component fully functional time accident rest wreckage recovered could examined reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident total loss engine power undetermined reason finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "engine",
+                4
+            ],
+            [
+                "loss",
+                3
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

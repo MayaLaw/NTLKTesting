@@ -1,0 +1,29 @@
+{
+    "Filename": "98007.txt",
+    "Location": "Mount Holly, New Jersey",
+    "Accident Number": "GAA18CA472",
+    "Date & Time": "August 4, 2018, 16:00 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N1160D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing airplane ballooned touched left side runway centerline exited left side runway pilot braked hard grass safety area avoid colliding airplane nearby taxiway airplane subsequently nosed airplane sustained substantial damage vertical stabilizer rudder pilot reported accident result pilot error pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted airplane ballooning upon landing subsequent loss directional control excessive brake application",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

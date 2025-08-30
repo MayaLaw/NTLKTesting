@@ -1,0 +1,29 @@
+{
+    "Filename": "97514.txt",
+    "Location": "Beloit, Kansas",
+    "Accident Number": "CEN18LA230",
+    "Date & Time": "June 18, 2018, 12:30 Local",
+    "Aircraft": "Cessna TR182",
+    "Registration": "N756SW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot practicing takeoff landing airport traffic pattern left main landing gear mlg failed extend cycled gear left mlg still would extend attempted manually extend gear without success pilot subsequently executed emergency landing turf runway recovery airplane one left brake caliper back plate bolt found backed scrape mark present fuselage skin consistent contact extended back plate bolt mlg extensionretraction system emergency extension system performed normally postaccident examination annual inspection completed 6 day accident airplane accumulated total 32 hour since mechanic performed inspection reported brake caliper removed time bolt secured safety wire reinstalled given evidence likely mechanic properly torque left brake caliper back plate bolt reinstalled annual inspection allowed back led subsequent failure left mlg extend although safety wire would prevented bolt backing airframe manufacturer service manual consistent whether use safety wire regardless bolt would backed tightened within specified torque probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "bolt",
+                6
+            ],
+            [
+                "left",
+                5
+            ],
+            [
+                "mlg",
+                4
+            ]
+        ]
+    }
+}

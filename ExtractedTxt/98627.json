@@ -1,0 +1,29 @@
+{
+    "Filename": "98627.txt",
+    "Location": "Wildwood, New Jersey",
+    "Accident Number": "ERA19TA042",
+    "Date & Time": "November 10, 2018, 15:30 Local",
+    "Aircraft": "Mooney M20C",
+    "Registration": "N78870",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported airplane contained 21 gallon fuel left fuel tank 3 gallon fuel right fuel tank flight pilot performed engine start taxi runup takeoff fuel selector right fuel tank initial climb altitude 100 200 ft ground level engine sputtered lost power 1700 ft runway remaining pilot entered right turn airplane impacted ground left runway resulting substantial damage right wing left horizontal stabilizer left elevator postaccident examination airplane found right fuel tank contained fuel left fuel tank contained 20 gallon fuel selector found left tank position likely accident sequence pilot moved fuel selector left tank position airplane low altitude time loss power provided insufficient time restore fuel flow impact circumstance accident consistent total loss engine power due fuel starvation result pilot mismanagement available fuel contributing accident pilot decision initiate 180 turn following loss power despite runway remaining probable cause finding national transportation safety board determines probable cause accident pilot improper fuel management resulted total loss engine power due fuel starvation initial climb contributing accident pilot decision initiate 180 turn following loss power",
+        "Top Words": [
+            [
+                "fuel",
+                16
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "left",
+                7
+            ]
+        ]
+    }
+}

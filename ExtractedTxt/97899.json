@@ -1,0 +1,29 @@
+{
+    "Filename": "97899.txt",
+    "Location": "Warren, Arkansas",
+    "Accident Number": "GAA18CA442",
+    "Date & Time": "July 14, 2018, 11:30 Local",
+    "Aircraft": "Champion 7GC",
+    "Registration": "N2127C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported threepoint landing tailwheelequipped airplane soon airplane touched tailwheel shimmied raised tail attempting keep airplane straight veered right applied left brake airplane continued toward ditch applied right rudder right brake attempting spin airplane airplane sustained substantial damage left wing left elevator pilot reported wind 230 4 knot accident airport automated weather observation system 17 nautical mile accident site reported time accident wind 230 7 knot pilot landed airplane runway 21 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

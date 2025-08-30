@@ -1,0 +1,29 @@
+{
+    "Filename": "97961.txt",
+    "Location": "White Mountain, Alaska",
+    "Accident Number": "ANC18LA059",
+    "Date & Time": "July 31, 2018, 23:00 Local",
+    "Aircraft": "Cessna A185F",
+    "Registration": "N185KB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "private pilot conducting crosscountry flight demonstrated momentary zerog maneuver shortly engine lost partial power pilot unable restore engine power subsequently conducted forced landing tundra covered terrain airplane nosed resulting substantial damage postaccident examination airframe engine revealed anomaly would precluded normal operation however one engine exhaust valve exhibited signature consistent uneven excessive heat exposure mechanical failure valve therefore would resulted loss power unlikely momentary zero g maneuver would result partial power loss could restored probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined postaccident examination engine revealed mechanical malfunction failure would precluded normal operation",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "would",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Anchorage, Alaska
+Accident Number:
+ANC19LA006
+Date & Time:
+November 3, 2018, 09:40 Local 
+Registration:
+N2809L
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the private pilot, shortly after departing for the local, personal flight and about 300 ft 
+above ground level, the engine began losing power and running extremely roughly. He declared an 
+emergency and was able to return to the departure airport for landing. During landing, the left wing 
+impacted the runway, which resulted in substantial damage to the outboard portion of the left wing.
+Postaccident examination of the airplane revealed large amounts of ice around the fuel caps and on the 
+fuel cap vent, and a large amount of debris and water was drained from the carburetor bowl. Due to the 
+amount of water found in the carburetor, it is likely that water entered the fuel system through the fuel 
+caps and led to the partial loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airplane control during the landing flare, which resulted in the 
+wing striking the runway. Contributing to the accident was a partial loss of engine power, 
+which resulted from fuel contamination.

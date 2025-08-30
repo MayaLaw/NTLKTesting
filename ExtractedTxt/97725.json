@@ -1,0 +1,29 @@
+{
+    "Filename": "97725.txt",
+    "Location": "Chicago, Illinois",
+    "Accident Number": "GAA18CA409",
+    "Date & Time": "July 4, 2018, 07:23 Local",
+    "Aircraft": "Cessna 208",
+    "Registration": "N208EE",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "manager regulatory compliance operator reported service truck impacted airplane resulted substantial damage left wing added first officer ground captain terminal time impact federal aviation administrator faa inspector reported flight crew reported captain onboard airplane first officer ground time impact airplane scheduled depart 1 hour preparing fuel airplane faa inspector added service truck driver reported crossing taxiway zipper road approached main terminal road bag cart tug pulled front causing swerve parked airplane airplane sustained substantial damage left wing manager reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident service truck driver evasive maneuver avoid bag cart tug resulted truck impacting parked airplane",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "reported",
+                5
+            ],
+            [
+                "truck",
+                4
+            ]
+        ]
+    }
+}

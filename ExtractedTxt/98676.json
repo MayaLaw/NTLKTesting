@@ -1,0 +1,29 @@
+{
+    "Filename": "98676.txt",
+    "Location": "Chandler, Arizona",
+    "Accident Number": "WPR19TA031",
+    "Date & Time": "November 5, 2018, 10:19 Local",
+    "Aircraft": "Piper PA28 (A1); Piper PA28 (A2)",
+    "Registration": "N9299B (A1); N419PA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional (A1); Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial (A1);",
+    "Defining Event": "Ground collision",
+    "Injuries": "2 None (A1); 1 None",
+    "Analysis": {
+        "Text": "november 5 2018 1019 mountain standard time piper pa28181 n419pa piper pa28181 n9299b collided ground chandler municipal airport chd chandler arizona student pilot n419pa student pilot airline transport pilot onboard n9299b injured airplane operated aeroguard flight training center provision title 14 code federal regulation part 91 according operator student pilot landed taxiing back runway takeoff pilot second airplane undergoing practical test airplane stationary completed pretakeoff check runup area student arrived runup area completed pretakeoff check subsequently attempted taxi around left side second airplane right wing impacted trailing edge second airplane left wing examination airplane federal aviation administration inspector revealed n9299b sustained substantial damage left aileron n419pa sustained minor damage right wing probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "student",
+                4
+            ]
+        ]
+    }
+}

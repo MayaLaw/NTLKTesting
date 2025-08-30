@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+St. Petersburg, Florida
+Accident Number:
+ERA19TA129
+Date & Time:
+March 13, 2019, 16:17 Local 
+Registration:
+N15VK
+Aircraft:
+Beech E55
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that he became distracted and did not extend the landing gear before landing at the 
+airport. The airplane slid on the runway, which resulted in substantial damage to the left wing's rear 
+spar. Although the airplane was equipped with a gear warning horn, both the pilot and the passenger said 
+the horn did not sound. The gear warning horn had been functionally checked during the last annual 
+inspection and was also tested after the accident with no anomalies noted; thus, the investigation could 
+not determine why the pilot and passenger were unable to hear the horn. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to extend the landing gear, which resulted in a gear-up landing.
+Findings
+Aircraft
+Main landing gear - Not used/operated
+Personnel issues
+Forgotten action/omission - Pilot
+Aircraft
+Gear position and warning - Inoperative

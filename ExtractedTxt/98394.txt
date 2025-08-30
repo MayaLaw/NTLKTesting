@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Kapolei, Hawaii
+Accident Number:
+WPR18LA280
+Date & Time:
+September 20, 2018, 16:30 Local 
+Registration:
+N66201
+Aircraft:
+Mooney M20J
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The certified flight instructor (CFI) reported that, during the pre-flight, a small amount of water was 
+drained from the left fuel tank; no water was noted in the sample from the right tank. Following the 
+departure on the instructional flight, the CFI and the pilot receiving instruction conducted several 
+maneuvers before practicing touch-and-go landings; fuel tanks were regularly switched throughout the 
+flight.  During the sixth takeoff, with the landing gear and flaps retracted, at about 300 ft above ground 
+level, the engine lost power.  The CFI took control of the airplane, switched fuel tanks, and attempted to 
+troubleshoot the engine, but he was unsuccessful. He initiated a forced landing to the runway with the 
+landing gear in the UP position to avoid rolling into unknown grassy terrain. 
+During the postaccident examination, some water was drained from the left fuel tank. The right fuel tank 
+was free of water. The fuel collected from the fuel line going into the fuel injectors also contained some 
+water. The propeller was rotated manually, and the continuity was established throughout the engine. No 
+mechanical issues with the engine were noted at the time. It is likely the engine lost power due to water 
+in the fuel.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Loss of engine power due to water in the fuel lines. 

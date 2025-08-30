@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Marysville, California
+Accident Number:
+WPR17LA067
+Date & Time:
+February 23, 2017, 17:30 Local 
+Registration:
+N470LM
+Aircraft:
+GUARINO Vans
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that while en route on the personal cross-country flight, the engine experienced a loss of 
+thrust, and the airspeed slowed. The propeller was windmilling, but the throttle had no effect on the 
+engine. The pilot noted that the propeller circuit breaker had popped out but did not note any other 
+indications of an anomaly in the cockpit. In addition, with the engine operating at partial power, the pilot 
+was unable to maintain level flight so he configured the airplane for the best glide speed. He attempted 
+to regain engine power twice and switched fuel tanks, to no avail. The pilot made a forced landing in a 
+soft field, which resulted in substantial damage to the airframe. 
+A postaccident examination noted no evidence of engine mechanical anomalies or thermal distress. 
+There were several wires and a wiring harness disconnected in between the cockpit and the firewall; it is 
+unknown if this happened after impact. During an attempted engine test, a fuel source was rigged to the 
+left fuel tank; the starter solenoid was heard activating, but the engine would not start. An external 
+power source was used in an attempt to start the engine; the engine cranked but would not start. Fuel 
+continuity and pressure in the system was confirmed. The fragmentation of the wreckage, specifically 
+the electrical system, precluded a definitive determination of the cause of the engine failure. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power for reasons that could not be determined due to the 
+fragmentation of the electrical system.

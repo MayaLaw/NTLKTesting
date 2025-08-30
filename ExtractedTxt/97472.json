@@ -1,0 +1,29 @@
+{
+    "Filename": "97472.txt",
+    "Location": "Danbury, Connecticut",
+    "Accident Number": "GAA18CA345",
+    "Date & Time": "June 9, 2018, 13:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N383ME",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according flight instructor bird struck airplane initial climb student returned airport landed without incident airplane sustained substantial damage left wing rib pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident collision bird initial climb finding environmental issue animalsbirds effect operation",
+        "Top Words": [
+            [
+                "airplane",
+                3
+            ],
+            [
+                "bird",
+                2
+            ],
+            [
+                "initial",
+                2
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96103.txt",
+    "Location": "Southfields, New York",
+    "Accident Number": "ERA17LA338",
+    "Date & Time": "September 15, 2017, 13:11 Local",
+    "Aircraft": "PARKS RICHARD A STARDUSTER",
+    "Registration": "N1356W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot conducting crosscountry personal flight reported approaching destination airport cruise altitude 2500 ft mean sea level noticed smoke coming engine cowling concerned fire decided immediately land airplane open field touchdown airplane impacted 5fttall grass immediately cartwheeled postaccident examination wreckage revealed loose oil line fitting oil cooler oil dripping exhaust system likely resulted smoke pilot saw initiating precautionary landing probable cause finding national transportation safety board determines probable cause accident loose oil line allowed oil drip exhaust system resulted smoke cruise flight subsequent precautionary landing",
+        "Top Words": [
+            [
+                "oil",
+                5
+            ],
+            [
+                "smoke",
+                3
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98180.txt",
+    "Location": "Hunter, New York",
+    "Accident Number": "GAA18CA515",
+    "Date & Time": "August 9, 2018, 19:10 Local",
+    "Aircraft": "DELL LAWRENCE Kitfox",
+    "Registration": "N26LD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "federal aviation administration inspector reported pilot tailwheelequipped airplane made precautionary landing field low fuel landing roll airplane nosed airplane sustained substantial damage rudder vertical stabilizer probable cause finding national transportation safety board determines probable cause accident pilot inadequate inflight fuel management necessitated offairport precautionary landing failure maintain airplane control landing roll rough terrain",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

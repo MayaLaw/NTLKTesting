@@ -1,0 +1,29 @@
+{
+    "Filename": "98711.txt",
+    "Location": "Waynesburg, Pennsylvania",
+    "Accident Number": "GAA19CA082",
+    "Date & Time": "October 19, 2018, 13:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N8222N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing taxiing toward fuel farm decided maneuver partially sectionedoff area surrounded orange construction cone focused cone airplane right wing struck concrete pole barrier surrounding fuel farm airplane sustained substantial damage right wing baggage door floorboard student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper decision maneuver airplane area construction subsequent failure maintain clearance concrete pole barrier taxiing",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

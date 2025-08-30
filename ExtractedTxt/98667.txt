@@ -1,0 +1,33 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Casper, Wyoming
+Accident Number:
+WPR19LA029
+Date & Time:
+November 19, 2018, 14:50 Local 
+Registration:
+N59BK
+Aircraft:
+BKF Backcountry Supercub
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+The commercial pilot was flight testing the airplane to evaluate an experimental diesel engine reduction 
+gearbox. During the takeoff, as the airplane climbed above 500 ft above ground level, the pilot increased 
+engine power, but a total loss of engine power occurred shortly afterward. The pilot initiated a left 
+descending turn to return to the runway. During the landing sequence, the airplane had a high descent 
+rate. The airplane touched down hard, resulting in the separation of the left main landing gear axle and 
+substantial damage to the left wing lift strut.  
+Postaccident examination of the engine reduction gearbox found that two propeller shaft bearings inside 
+the reduction gearbox seized, causing the total loss of engine power.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The seizure of two bearings in the reduction gearbox, resulting in the total loss of engine power. 
+Contributing to the accident was a high descent rate which resulted in a hard landing. 

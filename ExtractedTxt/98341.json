@@ -1,0 +1,29 @@
+{
+    "Filename": "98341.txt",
+    "Location": "Roseburg, Oregon",
+    "Accident Number": "GAA18CA564",
+    "Date & Time": "September 21, 2018, 16:30 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N8382G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported airplane bounced drifted left threepoint landing applied right rudder correct left drift aft pressure yoke keep tailwheel ground however left wing lifted right main landing gear sideloaded collapsed right wing struck ground airplane came rest runway airplane sustained substantial damage right wing spar pilot reported mechanical malfunction failure airplane would precluded normal operation metar airport reported time accident wind 300 7 knot pilot landed airplane runway 34 probable cause finding national transportation safety board determines probable cause accident pilot loss directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

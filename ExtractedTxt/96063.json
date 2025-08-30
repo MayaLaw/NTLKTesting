@@ -1,0 +1,29 @@
+{
+    "Filename": "96063.txt",
+    "Location": "Ainsworth, Nebraska",
+    "Accident Number": "CEN17FA362",
+    "Date & Time": "September 23, 2017, 10:28 Local",
+    "Aircraft": "Mitsubishi MU 2B-40",
+    "Registration": "N73MA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "instrumentrated private pilot departed crosscountry flight instrument meteorological condition imc overcast cloud layer 500 ft ground level agl visibility restricted 1 \u00be mile mist without receiving instrument clearance opening filed instrument flight rule flight plan outage ground communication system airport evidence pilot attempted open flight plan via cellular telephone addition lowlevel outage radar service vicinity accident site investigator unable determine airplane route flight impact airport manager observed accident airplane depart runway 35 enter cloud witness located north accident site see airplane reported hearing airplane depart time accident one witness reported hearing lowflying airplane commented engine sounded operating full power witness heard thud walking home attributed thunderstorm area airplane impacted field 35 mile northeast departure end runway track intended route flight airplane massively fragmented impact debris scattered 300 ft damage airplane ground scar accident site consistent airplane impacting left wing low nose low attitude relatively high energy postaccident examination engine propeller assembly reveal preimpact anomaly would precluded normal operation signature consistent engine producing power propeller developing thrust time impact massive fragmentation precluded functional testing equipment damage failure suggested preimpact anomaly airframe flight control several day accident flight pilot encountered transient flag air data attitude heading reference system pilot reported flag coowner airplane",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "flight",
+                8
+            ],
+            [
+                "accident",
+                6
+            ]
+        ]
+    }
+}

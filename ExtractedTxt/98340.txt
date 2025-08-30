@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Georgetown, South Carolina
+Accident Number:
+ERA18LA258
+Date & Time:
+September 22, 2018, 15:15 Local 
+Registration:
+N435RB
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+While approaching the airport for landing during an instructional flight, the airplane entered an 
+uncommanded yaw and roll to the right and began to pitch up. The flight instructor was able to maintain 
+some control of the airplane by applying left rudder, left aileron, and forward elevator pressure, and 
+trimming the airplane nose-down. The instructor noticed that the airplane’s right yaw increased as the 
+airplane's speed decreased, and it became "impossible" to maintain alignment with the runway 
+centerline. Upon touching down on the runway, the airplane immediately veered to the right about 90° 
+and collided with trees, resulting in substantial damage to the firewall, fuselage, and both wings. 
+Examination of the flight control system revealed that the left seat’s left rudder pedal arm clevis was 
+fractured in multiple sections. Metallurgical examination identified cracks and voids created during the 
+casting (manufacturing) process. The presence of these voids, cracks, and oxide layers reduced the 
+cross-sectional area that could withstand the force applied over the pedal arm clevises. Once a high 
+enough load input was applied to the pedal arm, the remaining material fractured in overstress. The 
+separation of the pedal arm from the pushrod subsequently resulted in a failure of the rudder control 
+system. Review of the airframe logbooks revealed that the rudder pedal arm was original to the airplane 
+and had accrued a total of 6,203.62 flight hours.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of directional control during landing due to overstress failure of the left seat’s left rudder pedal 
+arm clevis, which occurred as a result of manufacturing defects.  

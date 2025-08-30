@@ -1,0 +1,29 @@
+{
+    "Filename": "99197.txt",
+    "Location": "Farmington, New Mexico",
+    "Accident Number": "WPR19FA103",
+    "Date & Time": "March 31, 2019, 14:39 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N173CT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "VFR encounter with IMC",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated pilot departed visual flight rule vfr crosscountry flight 25 minute takeoff airplane reached highest altitude 17300 ft mean sea level msl approaching line precipitation thunderstorm 20 minute later airplane entered descent rate 1000 ft per minute airplane leveled altitude 8575 ft msl 3000 ft ground level 1000 ft predicted cloud base short time later airplane transitioned right descending turn continued ground contact reaching descent rate 5175 ft per minute debris field fragmentation airplane consistent high speed rightwinglow impact examination wreckage reveal anomaly airframe engine would precluded normal operation evidence inflight breakup airplane airframe parachute system deployed analysis weather information indicated airplane likely encountered line developing expanding rain shower updraft downdraft condition precipitation reduced visibility pilot likely descended fly cloud base due developing expanding rain shower line outflow boundary lowlevel wind shear condition likely present area accident time convective sigmet well airmets instrument flight rule condition mountain obscuration moderate icing valid route flight area accident site accident time activating flight plan pilot indicated weather briefer aware airmets however whether aware sigmet determined based available information although pilot receive official weather briefing record suggest downloaded weather imagery three day flight active subscription commercial satellite weather service airplane also equipped multiple",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "ft",
+                6
+            ]
+        ]
+    }
+}

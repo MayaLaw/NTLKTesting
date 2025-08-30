@@ -1,0 +1,29 @@
+{
+    "Filename": "96093.txt",
+    "Location": "Gallatin, Tennessee",
+    "Accident Number": "GAA17CA556",
+    "Date & Time": "September 16, 2017, 13:20 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N5146R",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported attempting touchandgo landing airplane bounced added worked yoke stabilize airplane airplane bounced second time veered runway left airplane sustained substantial damage firewall student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted bounced landing finding aircraft landing flare attainedmaintained personnel issue aircraft control studentinstructed pilot",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

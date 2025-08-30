@@ -1,0 +1,29 @@
+{
+    "Filename": "98278.txt",
+    "Location": "De Pere, Wisconsin",
+    "Accident Number": "GAA18CA546",
+    "Date & Time": "September 7, 2018, 08:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N7595R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported initiated takeoff roll 2200ftlong wet turf runway 1650 ft runway airplane encountered standing water speed decreased reported still felt plenty room regain airspeed take safely airplane encountered standing water another section runway speed decreased pilot retracted two notch flap attempted climb airplane exited departure end runway entered cornfield airplane sustained substantial damage engine mount pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper decision abort takeoff airplane encountered standing water runway decreased speed led subsequent inability climb resulted runway overrun",
+        "Top Words": [
+            [
+                "runway",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

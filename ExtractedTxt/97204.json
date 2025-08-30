@@ -1,0 +1,29 @@
+{
+    "Filename": "97204.txt",
+    "Location": "Naples, Florida",
+    "Accident Number": "GAA18CA261",
+    "Date & Time": "May 7, 2018, 15:30 Local",
+    "Aircraft": "ZENAIR LTD CH 2000",
+    "Registration": "N699ZA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "solo student pilot reported landing airplane bounced added surprised attempted correct getting back ground effect airplane bounced third bounce propeller struck runway nose landing gear collapsed airplane sustained substantial damage fuselage engine mount automated weather observation station located airport reported time accident wind 280 13 knot airplane landed runway 23 probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted bounced landing finding aircraft landing flare attainedmaintained personnel issue aircraft control studentinstructed pilot environmental issue crosswind effect operation",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

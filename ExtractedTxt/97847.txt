@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Baton Rouge, Louisiana
+Accident Number:
+CEN18LA285
+Date & Time:
+July 20, 2018, 14:30 Local 
+Registration:
+N327BK
+Aircraft:
+Smith Aerostar601
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The mechanic who maintained the airplane reported that, on the morning of the accident, the right 
+engine would not start due to water contamination in the fuel system. The commercial pilot and 
+mechanic purged the fuel tanks, flushed the fuel system, and cleaned the left engine fuel injector 
+nozzles. After the maintenance work, they completed engine ground runs for each engine with no 
+anomalies noted. Subsequently, the pilot ordered new fuel from the local fixed-based operator to 
+complete a maintenance test flight. The pilot stated that he completed a preflight inspection, followed by 
+engine run-ups for each engine with no anomalies noted and then departed with one passenger onboard. 
+Immediately after takeoff, the right engine stopped producing full power, and the airplane would not 
+maintain altitude. No remaining runway was left to land, so the pilot conducted a forced landing to a 
+field about 1 mile from the runway; the airplane landed hard and came to rest upright. 
+Postaccident examination revealed no water contamination in the engines. Examination of the airplane 
+revealed numerous instances of improper and inadequate maintenance of the engines and fuel system. 
+The fuel system contained corrosion debris, and minimal fuel was found in the lines to the fuel servo. 
+Although maintenance was conducted on the airplane on the morning of the accident, the right engine 
+fuel injectors nozzles were not removed during the maintenance procedures; therefore, it is likely that 
+the fuel flow volume was not measured. 
+It is likely that the corrosion debris in the fuel system resulted when the water was recently purged from 
+the fuel system. The contaminants were likely knocked loose during the subsequent engine runs and 
+attempted takeoff, which subsequently blocked the fuel lines and starved the right engine of available 
+fuel. 
+Probable Cause and Findings

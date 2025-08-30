@@ -1,0 +1,29 @@
+{
+    "Filename": "97564.txt",
+    "Location": "Umatilla, Florida",
+    "Accident Number": "ERA18LA178",
+    "Date & Time": "June 14, 2018, 09:50 Local",
+    "Aircraft": "Piper PA 34-200",
+    "Registration": "N56213",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot receiving instruction flight instructor conducting instructional flight approach destination airport pilot receiving instruction lowered landing gear instructor confirmed downandlocked indication green touchdown landing roll airplane suddenly entered uncommanded violent right swerve pilot receiving instruction could correct full left brake rudder aileron input subsequently airplane departed runway impacted drainage ditch postaccident examination airplane revealed upper lower torque link right main landing gear mlg undamaged attached attachment hardware place recovered examination left mlg revealed upper lower torque link remained connected cotter pin found installed castellated nut drilled bolt review airplane maintenance logbook revealed 1 month accident attachment hardware left right torque link replaced included installation cotter pin mechanic signed inspection stated subsequent maintenance torque link cotter pin removed although attachment hardware torque link subsequently tightened neither torque link cotter pin installed airplane approved return service therefore likely right mlg torque link attachment hardware loosened time due lack cotter pin eventually separated airplane resulted torque link becoming disconnected led pilot subsequent inability maintain directional control landing probable cause finding",
+        "Top Words": [
+            [
+                "torque",
+                8
+            ],
+            [
+                "link",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

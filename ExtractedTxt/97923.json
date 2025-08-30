@@ -1,0 +1,29 @@
+{
+    "Filename": "97923.txt",
+    "Location": "Mount Vernon, Ohio",
+    "Accident Number": "WPR18LA207",
+    "Date & Time": "July 28, 2018, 10:45 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N785SP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "student pilot reported several minute takeoff personal flight maneuvered airplane enter traffic pattern practice touchandgo landing shortly noticed fire near rudder pedal expedited approach fire continued grow landed airplane landing safely egressed airplane second later cockpit area engulfed flame airplane destroyed postaccident examination airplane revealed evidence fuelfed fire emanated rear lower center portion engine extensive thermal damage area mechanical fuel pump mounted oil cooler oil cooler bottom hose connection separated oil cooler fuel pump bottom portion missing due fire damage exact initiation point source fire could determined maintenance writeups indicating fuel leak odor previous 20 flight hour probable cause finding national transportation safety board determines probable cause accident inflight fuelfed fire unknown source reason could determined due extensive fire damage airplane",
+        "Top Words": [
+            [
+                "fire",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "damage",
+                3
+            ]
+        ]
+    }
+}

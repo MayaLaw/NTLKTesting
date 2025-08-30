@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Denver, Colorado
+Accident Number:
+GAA19CA045
+Date & Time:
+October 27, 2018, 12:00 Local 
+Registration:
+N4500W
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot under instruction in the tailwheel-equipped airplane with 26-inch bush wheels reported that, 
+during the approach, he saw indications of a headwind. He added that, when the airplane touched down 
+on the main wheels, he noticed that the windsock had shifted and was indicating a direct left crosswind. 
+Just before the tailwheel touched down, the left wing lifted, and he slowly added power to abort the 
+landing. However, the airplane veered left, the right main landing gear collapsed, and the right wing 
+struck the ground. The airplane exited the left side of the runway.
+The airplane sustained substantial damage to the right wing and the elevator.
+The airport's automated surface observing system reported that, about the time of the accident, the wind 
+was from 280° at 25 knots, gusting to 30 knots.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control of the airplane during landing in gusting wind 
+conditions.

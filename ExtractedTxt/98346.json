@@ -1,0 +1,29 @@
+{
+    "Filename": "98346.txt",
+    "Location": "Rainy Pass, Alaska",
+    "Accident Number": "CEN18FA386",
+    "Date & Time": "September 24, 2018, 10:32 Local",
+    "Aircraft": "Cessna U206",
+    "Registration": "N1738R",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot flying airplane remote lodge deliver cargo return passenger pilot chief pilot also following route 16 minute later monitored weather flight recognized cloud present believed could make flight flight track data showed pilot flew low altitude flew winding valley leading toward mountain pas chief pilot stated based radio call pilot maneuvering around low cloud flight track showed accident airplane continued toward mountain pas proceeded south past two mountain pass box canyon airplane impacted steep mountainous terrain facing north consistent pilot attempting steep right turn reverse course exit box canyon aviation weather camera near accident location showed low cloud precipitation around time accident chief pilot continued toward destination elected turn around low cloud hindered navigating valley likely accident pilot encountered deteriorating weather flew valley toward mountainous terrain attempted exit box canyon unable maintain clearance terrain performed steep right turn postaccident examination engine airframe recorded engine data reveal anomaly would precluded normal operation based review autopsy report previous medical condition evidence suggest pilot impaired therefore medical condition likely factor accident diphenhydramine detected pilot toxicology quantified therefore investigation unable determine pilot impaired diphenhydramine probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                12
+            ],
+            [
+                "accident",
+                6
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

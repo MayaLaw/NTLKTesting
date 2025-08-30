@@ -1,0 +1,29 @@
+{
+    "Filename": "98621.txt",
+    "Location": "Guthrie Center, Iowa",
+    "Accident Number": "WPR19FA022",
+    "Date & Time": "November 9, 2018, 17:15 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N91770",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "4 Fatal",
+    "Analysis": {
+        "Text": "45 minute crosscountry flight student pilot passenger reported air traffic control pilot heart attack going take control airplane divert airport 20 mile away however another airport much closer controller received communication pilot student reported nearby airport common traffic advisory frequency would attempt divert gps flight track data indicated short time later airplane began fly erratic manner climbing descending area diversion airport airplane subsequently collided terrain wingslevel attitude four occupant sustained fatal injury toxicology testing indicated high level carboxyhemoglobin caused inhalation carbon monoxide co odorless tasteless colorless nonirritating gas formed hydrocarbon combustion level pilot one passenger high enough caused confusion seizure loss consciousness evidence pilot heart attack symptom likely due co poisoning engine equipped three identical exhaust muffler examination aft muffler revealed crack allowed engine exhaust gas enter cabin cabin heating system muffler crack developed result corrosion thinning muffler wall crack small perforation muffler wall likely present time last inspection occurred shortly accident however due damage impact could determined extent cracking readily visible time inspection also crack could opened accident flight due engine backfire occurred startup use pressure check inspection could help identify crack small perforation obscured oxide deposit visual inspection however manufacturer service manual recommended pressure check visual inspection could accomplished",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "muffler",
+                5
+            ],
+            [
+                "crack",
+                5
+            ]
+        ]
+    }
+}

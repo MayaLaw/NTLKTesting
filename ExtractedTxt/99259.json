@@ -1,0 +1,29 @@
+{
+    "Filename": "99259.txt",
+    "Location": "Fulton, New York",
+    "Accident Number": "ERA19LA151",
+    "Date & Time": "April 11, 2019, 14:30 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N3795J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "descending engine power 2000 rpm pilot entered traffic pattern destination airport turning onto base leg pattern pilot applied carburetor heat engine faltered lost partial power pilot deactivated carburetor heat engine regained power reapplied carburetor heat engine stopped attempted restart engine unsuccessful performing forced landing road right wing impacted utility pole airplane rolled sustained substantial damage wing fuselage weather condition time accident favorable carburetor icing altitude surface likely carburetor ice developed descent pilot applied carburetor heat traffic pattern ice began melt introduced water engine intake resulted engine losing partial power pilot subsequent cycling carburetor heat relatively low power setting likely resulted total loss engine power probable cause finding national transportation safety board determines probable cause accident total loss engine power due carburetor icing contributing pilot failure leave carburetor heat fully initial application carburetor heat",
+        "Top Words": [
+            [
+                "carburetor",
+                10
+            ],
+            [
+                "engine",
+                9
+            ],
+            [
+                "power",
+                7
+            ]
+        ]
+    }
+}

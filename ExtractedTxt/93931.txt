@@ -1,0 +1,46 @@
+Page 1 of 30
+Aviation Investigation Final Report
+Location:
+Russian Mission, Alaska
+Accident Number:
+ANC16FA061
+Date & Time:
+August 31, 2016, 10:01 Local 
+Registration:
+N752RV
+Aircraft:
+Cessna 208
+Aircraft Damage:
+Destroyed
+Defining Event:
+Midair collision
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Scheduled
+Analysis 
+The Cessna had departed about 3 minutes prior on a scheduled passenger flight and the Piper was en 
+route to a remote hunting camp when the two airplanes collided at an altitude about 1,760 ft mean sea 
+level over a remote area in day, visual meteorological conditions. The airline transport pilot and two 
+passengers onboard the Cessna and the commercial pilot and the passenger onboard the Piper were 
+fatally injured; both airplanes were destroyed. Postaccident examination revealed signatures consistent 
+with the Cessna's outboard left wing initially impacting the Piper's right wing forward strut while in 
+level cruise flight. Examination revealed no mechanical malfunctions or anomalies that would have 
+precluded normal operation of either airplane. Neither pilot was in communication with an air traffic 
+control facility and they were not required to be. 
+A performance and visibility study indicated that each airplane would have remained a relatively small, 
+slow-moving object in the other pilot's window (their fuselages spanning less than 0.5° of the field of 
+view, equivalent to the diameter of a penny viewed from about 7 ft away) until about 10 seconds before 
+the collision, at which time it would have appeared to grow in size suddenly (the "blossom" effect). 
+From about 2 minutes before the collision, neither airplane would have been obscured from the other 
+airplane pilot's (nominal) field of view by cockpit structure, although the Cessna would have appeared 
+close to the bottom of the Piper's right wing and near the forward edge of its forward wing strut. 
+The Cessna was Automatic Dependent Surveillance-Broadcast (ADS-B) Out equipped; the Piper was 
+not ADS-B equipped, and neither airplane was equipped with any cockpit display of traffic information 
+(CDTI). CDTI data would have presented visual information regarding the potential conflict to both 
+pilots beginning about 2 minutes 39 seconds and auditory information beginning about 39 seconds 
+before the collision, providing adequate time for the pilots to react. 
+The see-and-avoid concept requires a pilot to look through the cockpit windows, identify other aircraft, 
+decide if any aircraft are collision threats, and, if necessary, take the appropriate action to avert a 
+collision. There are inherent limitations of this concept, including limitations of the human visual and 
+information processing systems, pilot tasks that compete with the requirement to scan for traffic, the 

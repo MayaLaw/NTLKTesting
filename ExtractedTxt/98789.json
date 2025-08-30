@@ -1,0 +1,29 @@
+{
+    "Filename": "98789.txt",
+    "Location": "Blairsville, Georgia",
+    "Accident Number": "ERA19FA070",
+    "Date & Time": "December 19, 2018, 19:36 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N6143J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "3 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "private pilot approaching airport landing following local personal flight night visual meteorological condition airplane impacted 60 70fttall tree 12 mile end runway although runway light illuminated time accident runway equipped precision approach path indicator papi visual approach slope indicator vasi light system examination airplane engine reveal preaccident mechanical discrepancy would precluded normal operation review pilot logbook revealed pilot flown night four month preceding accident likely absence papi vasi system judge airplane approach path sparselylit terrain approach end runway may created illusion resulted pilot descent terrain short runway probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance tree visual approach landing night visual meteorological condition contributing accident pilot lack recent experience flying night",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "runway",
+                5
+            ],
+            [
+                "approach",
+                5
+            ]
+        ]
+    }
+}

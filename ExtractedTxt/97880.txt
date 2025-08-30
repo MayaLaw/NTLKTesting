@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bozeman, Montana
+Accident Number:
+GAA18CA437
+Date & Time:
+July 19, 2018, 11:15 Local 
+Registration:
+N3224D
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, after a wheel landing, the tailwheel touched 
+down, and it then started shaking violently. In an attempt to stop the shaking, he pushed forward on the 
+control yoke to no avail. He then tried adding power, raised the tail, and let the tailwheel touch down 
+again; however, the tailwheel continued to shake, and the airplane began to veer left, and he corrected by 
+applying right rudder. Shortly after the airplane regained the runway heading, it suddenly veered right, 
+exited the runway to the right, and ground looped. 
+The airplane sustained substantial damage to the left wing. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot added that, during landing, the wind was from 010º at 4 knots. The airport's automated weather 
+observation station reported that, about the 15 minutes before the accident, the wind was from 160° at 4 
+knots. The pilot landed the airplane on runway 03.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing.

@@ -1,0 +1,29 @@
+{
+    "Filename": "93971.txt",
+    "Location": "Chariton, Iowa",
+    "Accident Number": "CEN16FA361",
+    "Date & Time": "September 7, 2016, 12:19 Local",
+    "Aircraft": "Piper PA 46-310P",
+    "Registration": "N465JM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated private pilot conducting visual flight rule vfr crosscountry flight receiving vfr flight following service air traffic control radar data voice communication information indicated airplane cruise flight pilot deviated around convective weather near destination controller issued weather advisory pilot concerning area moderate extreme precipitation along route pilot responded saw weather airplane nexrad weather display system planned deviate around resuming course 3 minute later pilot stated around weather requested start descent direct toward destination controller advised pilot descend discretion radar showed airplane descending right turn radar contact lost 2900 ft mean sea level eyewitness search personnel reported rain thunderstorm area time accident distribution wreckage consistent inflight breakup examination airframe revealed overload failure empennage wing preimpact airframe structural anomaly found propeller showed evidence rotation time impact evidence pilot impairment incapacitation review weather information indicated pilot likely encountered instrument meteorological condition airplane descended last several minute flight time likely pilot became disoriented attempting maneuver convective restricted visibility condition lost control airplane transition visual instrument flight condition would conducive development spatial disorientation turning descent loss radar contact inflight breakup also consistent loss control due spatial disorientation",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "weather",
+                6
+            ]
+        ]
+    }
+}

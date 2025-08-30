@@ -1,0 +1,29 @@
+{
+    "Filename": "98152.txt",
+    "Location": "Hanson, Massachusetts",
+    "Accident Number": "ERA18FA230",
+    "Date & Time": "August 24, 2018, 15:35 Local",
+    "Aircraft": "Aeronca 7AC",
+    "Registration": "N65HM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "commercial pilot passenger departing local personal flight singleengine airplane review airport security video showed airplane level 100 ft ground level passed departure end runway airplane entered left turn descended ground contact damage propeller blade consistent lack engine power time impact however examination wreckage revealed evidence preimpact mechanical anomaly would prevented normal engine operation based temperature dew point time accident condition favorable serious carburetor icing glide power setting video showed airplane operated ground idle engine power setting 7 minute takeoff probable carburetor ice formed time subsequently resulting loss engine power initial climb following loss power pilot attempted turn back runway insufficient altitude turn failed maintain airspeed resulting exceedance airplane critical angle attack aerodynamic stallspin impact terrain probable cause finding national transportation safety board determines probable cause accident loss engine power due carburetor icing pilot decision turn back runway shortly takeoff failure maintain airspeed turn resulted exceedance airplane critical angle attack subsequent aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "power",
+                6
+            ],
+            [
+                "turn",
+                5
+            ]
+        ]
+    }
+}

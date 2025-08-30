@@ -1,0 +1,29 @@
+{
+    "Filename": "98782.txt",
+    "Location": "Tacoma, Washington",
+    "Accident Number": "GAA19CA100",
+    "Date & Time": "December 14, 2018, 09:00 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N19EC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing roll airplane veered right applied left rudder airplane straightened began veer right stated overcorrected excessive left rudder control right wingtip impacted runway rightwing trailing edge spar substantially damaged pilot reported preimpact mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot loss directional control landing roll subsequent overapplication left rudder resulted right wing impacting runway",
+        "Top Words": [
+            [
+                "right",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

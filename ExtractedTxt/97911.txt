@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+HAVERHILL, New Hampshire
+Accident Number:
+ERA18LA204
+Date & Time:
+July 29, 2018, 12:05 Local 
+Registration:
+N221EZ
+Aircraft:
+Progressive Aerodyne Searey
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot took off in the experimental, amateur-built amphibious airplane from a river, which 
+was about 100 ft wide and lined with trees on both sides, and initiated a right 180° turn. He then made a 
+left teardrop turn about 50 ft above ground level over a flat cornfield to make a 45° re-entry to land back 
+on the river. When the airplane crossed over the river's shoreline, the pilot attempted to turn left and line 
+up with the river; however, according to the pilot, the control stick would not move past the vertical 
+position. He added power, but the airplane was unable to climb above trees on the opposite side of the 
+river. The airplane collided with the trees and descended into the water. Postaccident examination of the 
+airplane revealed both wings had been removed during recovery, but the flight controls moved freely 
+when manually manipulated. The pilot said the airplane's automatic dependent surveillance-broadcast 
+(ADS-B) component, which was attached to the control panel via a suction cup, may have come loose 
+during the flight and become caught under the flight control assembly, thus jamming the flight controls. 
+He demonstrated how an object could get caught under the controls; however, neither he nor the 
+passenger could confirm that this happened on the accident flight, and examination of the ADS-B 
+component did not reveal any physical damage. The pilot said that he would normally climb above the 
+surrounding terrain before coming back to land; however, during this flight, he did not give himself an 
+"out" in case of an emergency. His decision to maneuver the airplane below surrounding terrain in a 
+confined area left insufficient altitude to troubleshoot a perceived flight control issue, and he was unable 
+to remain clear of trees.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Louisville, Kentucky
+Accident Number:
+ERA19LA109
+Date & Time:
+February 26, 2019, 18:35 Local 
+Registration:
+N2184X
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, the airplane accelerated normally during the takeoff roll, became airborne, and 
+the engine started to run "rough." He elected to land straight ahead on the remaining runway. The 
+airplane subsequently overran the runway and collided with the perimeter fence. Examination of the 
+airplane revealed it sustained substantial damage to the airframe.
+During an examination of the left magneto, two ignition wires in the distributor cap revealed evidence of 
+arcing, and one ignition lead was found detached from the insulator and spring. The right magneto was 
+removed, rotated, and produced spark at each spark lead. The metal copper electrode on the right 
+magneto distributor gear was found loose.
+To address a potential decreased service life of Slick 4-cylinder magneto distributor gear assemblies, 
+Slick/Champion Aerospace Service Bulletin SB1-15A calls for replacing distributor gear assemblies that 
+have a copper electrode with assemblies that have a Monel electrode. A rough running engine was a 
+symptom of the condition that the SB was intended to address. A review of the accident airplane’s 
+maintenance logbooks revealed no entries for the repair of the magnetos or compliance with the 
+applicable SB and that the airplane received three annual inspections since the release and the revision 
+of the SB.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the magnetos due to a known deficiency, which resulted in a partial loss of engine 

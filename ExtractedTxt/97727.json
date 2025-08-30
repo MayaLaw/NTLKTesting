@@ -1,0 +1,29 @@
+{
+    "Filename": "97727.txt",
+    "Location": "Pantego, North Carolina",
+    "Accident Number": "GAA18CA410",
+    "Date & Time": "July 1, 2018, 09:30 Local",
+    "Aircraft": "Ayres S2R",
+    "Registration": "N3098L",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according owner agricultural application airplane commercial pilot performing simulated agricultural application flight 70 gallon water hopper spraying water field next private runway landing airplane touched short runway main landing gear mlg struck ditch right mlg separated airplane sustained substantial damage lower fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation owner added flight pilot accumulated 03 hour total flight experience airplane probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper approach path landing resulted landing short runway",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

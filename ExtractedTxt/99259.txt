@@ -1,0 +1,37 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Fulton, New York
+Accident Number:
+ERA19LA151
+Date & Time:
+April 11, 2019, 14:30 Local 
+Registration:
+N3795J
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After descending with the engine power above 2,000 rpm, the pilot entered the traffic pattern for the 
+destination airport. Just after turning onto the base leg of the pattern, the pilot applied the carburetor heat 
+and the engine “faltered” and lost partial power. The pilot then deactivated the carburetor heat, and the 
+engine regained some power. He reapplied the carburetor heat, and the engine stopped. He attempted to 
+restart the engine but was unsuccessful. While performing a forced landing to a road, the right wing 
+impacted a utility pole and the airplane rolled over and sustained substantial damage to both wings and 
+the fuselage.
+The weather conditions at the time of the accident were favorable for carburetor icing at altitude and at 
+the surface. It is likely that carburetor ice developed during the descent; when the pilot applied the 
+carburetor heat while in the traffic pattern, the ice began to melt, which introduced water into the engine 
+intake and resulted in the engine losing partial power. The pilot’s subsequent cycling of the carburetor 
+heat at a relatively low power setting likely resulted in the total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to carburetor icing. Contributing was the pilot’s failure to leave the 
+carburetor heat on fully after his initial application of carburetor heat. 

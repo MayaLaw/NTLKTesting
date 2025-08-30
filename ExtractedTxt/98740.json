@@ -1,0 +1,29 @@
+{
+    "Filename": "98740.txt",
+    "Location": "Cornelia, Georgia",
+    "Accident Number": "GAA19CA088",
+    "Date & Time": "December 5, 2018, 15:35 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N839AL",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported touchandgo landing crosswind condition student pilot control airplane touched runway centerline without perfect longitudinal heading alignment airplane veered left instructor took control airplane added power take retract partial flap maintained slightly offset direction runway takeoff roll airplane became airborne exited left side runway left wing impacted tree brush subsequently airplane came rest bottom ravine airplane sustained substantial damage right wing instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported time accident wind 330 7 knot gusting 14 knot pilot landed airplane runway 6 probable cause finding national transportation safety board determines probable cause accident flight instructor failure maintain runway heading attempted takeoff gusting crosswind condition resulted collision tree",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "runway",
+                5
+            ],
+            [
+                "instructor",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97856.txt",
+    "Location": "Oshkosh, Wisconsin",
+    "Accident Number": "CEN18CA291",
+    "Date & Time": "July 23, 2018, 09:50 Local",
+    "Aircraft": "Quad City Challenger",
+    "Registration": "N1666R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "airplane landing ultralight field accident occurred pilot stated made wide base final turn unsure placement runway although pilot added power airplane entered left descending turn left wing contacted ground near beginning runway displaced threshold airplane spun left slid rearward ground contacted chainlink fence pilot reported mechanical anomaly airplane would precluded normal operation pilot statement along groundbased video accident revealed pilot failed maintain adequate airspeed exceeded airplane critical angle attack base final turn resulted aerodynamic stall probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed base final turn exceedance airplane critical angle attack resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "turn",
+                4
+            ]
+        ]
+    }
+}

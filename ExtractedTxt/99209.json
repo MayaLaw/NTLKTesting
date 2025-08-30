@@ -1,0 +1,29 @@
+{
+    "Filename": "99209.txt",
+    "Location": "Swainsboro, Georgia",
+    "Accident Number": "GAA19CA191",
+    "Date & Time": "March 31, 2019, 11:25 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N75242",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported cruise flight onboard weather radar showed unfavorable weather ahead diverted nearby airport precautionary landing upon touchdown airplane veered left slid runway onto adjacent field nose landing gear collapsed airplane sustained substantial damage upper engine mount pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported time accident wind 230 9 knot gusting 18 knot pilot landed airplane runway 32 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting crosswind condition resulted runway excursion landing gear collapsing",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

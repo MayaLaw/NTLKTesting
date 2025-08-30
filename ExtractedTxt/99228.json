@@ -1,0 +1,29 @@
+{
+    "Filename": "99228.txt",
+    "Location": "Edgefield, South Carolina",
+    "Accident Number": "ERA19LA143",
+    "Date & Time": "April 4, 2019, 12:15 Local",
+    "Aircraft": "Cessna 175",
+    "Registration": "N7622M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airplane flown 6 year purchased week accident stuck exhaust valve noted part inspection purchase pilot also airframe engine mechanic performed annual inspection airplane day accident pilot use checklist relied memory inspection pilot noted stuck exhaust valve 2 cylinder instead removing cylinder conducting inspection suggested engine manufacturer pilot staked valve correct condition valve stuck predeparture check day accident pilot staked valve performed several additional runup without noting anymore problem valve additional predeparture engine runup performed prior accident flight pilot departed reported engine began running rough 20 minute level flight turned toward nearby airport engine subsequently lost power attempt restart engine unsuccessful pilot performed forced landing field left wing struck pole landing pilot maneuvered avoid livestock postaccident engine run conducted engine installed airplane engine run limited 1500 rpm due safety concern noticeable skip noted engine run engine subsequently ran rough lost power left magneto selected continued run right magneto selected timing left magneto could performed due lack available tool reason engine lost power left magneto selected determined additional examination engine found exhaust valve guide one cylinder pulled cylinder seized valve stem additionally pushrod socket second cylinder separated also likely occurred stuck valve accident would likely mitigated pilotmechanic properly addressed recurring sticking exhaust valve issue although",
+        "Top Words": [
+            [
+                "engine",
+                13
+            ],
+            [
+                "valve",
+                10
+            ],
+            [
+                "pilot",
+                8
+            ]
+        ]
+    }
+}

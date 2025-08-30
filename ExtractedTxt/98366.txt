@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Raquette Lake, New York
+Accident Number:
+GAA18CA570
+Date & Time:
+September 24, 2018, 14:00 Local 
+Registration:
+N52DA
+Aircraft:
+Aviat A1
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the float-equipped airplane reported that, during approach to land on a lake, he aligned the 
+airplane based on wind indications on the water as well as observing other seaplanes. After the water 
+landing, while slowing and coming off the step, a wind gust lifted the airplane's right wing, the left float 
+hit the water, and the airplane nosed over. The pilot and pilot-rated owner egressed and were rescued by 
+boaters.
+The airplane sustained substantial damage to the left wing lift strut.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot reported that the wind was from 090° at 10 knots, gusting to 15 knots. A weather station about 
+8 miles southwest of the accident site reported that, about the time of the accident, the wind was from 
+185° at 7.8 mph, gusting to 10.3 mph.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain lateral control after landing on water in gusting wind conditions.

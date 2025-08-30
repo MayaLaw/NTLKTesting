@@ -1,0 +1,29 @@
+{
+    "Filename": "97270.txt",
+    "Location": "Albuquerque, New Mexico",
+    "Accident Number": "CEN18CA176",
+    "Date & Time": "May 17, 2018, 18:47 Local",
+    "Aircraft": "Piper PA 18",
+    "Registration": "N7265K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "uneventful 40minute crosscountry flight pilot set land tailwheel airplane pilot checked tower controller reported wind 240 17 knot gusting 25 knot pilot set land runway 22 pilot stated upon landing airplane encountered strong gusty crosswind lost directional control airplane veered left across runway surface flipped inverted resulting substantial damage wing wing strut fuselage probable cause finding national transportation safety board determines probable cause accident pilot loss directional control following encounter gusty crosswind landing finding personnel issue aircraft control pilot environmental issue gust effect operation aircraft directional control attainedmaintained",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "control",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

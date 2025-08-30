@@ -1,0 +1,43 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+New York, New York
+Accident Number:
+ERA19LA150
+Date & Time:
+April 13, 2019, 22:15 Local 
+Registration:
+N5296H
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+3 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot filed an instrument flight rules flight plan with an estimated en route time of 3.5 hours; 
+however, air traffic control revised his route during the flight, which added an additional 40 to 50 
+minutes to the total flight time. Upon arrival at the destination airport in night instrument meteorological 
+conditions, the pilot attempted three precision instrument approaches before diverting to a larger airport, 
+where he performed two additional approaches, both of which he terminated and conducted missed 
+approaches due to the weather conditions. During the third approach to the larger airport, the airplane's 
+fuel supply was exhausted, and the engine lost all power. The pilot pitched the airplane for its best glide 
+speed; about 100 ft above the ground, he saw streetlights and attempted to land on the road below. The 
+airplane impacted a building and power lines and came to rest suspended in the power lines a few feet 
+above the ground.
+Postaccident examination revealed that the fuel tanks were void of fuel. Examination of the airframe, 
+engine, and the vacuum system found no evidence of any preimpact mechanical malfunctions or failures 
+that would have precluded normal operation. The pilot had accrued about 80 flight hours of simulated 
+instrument flight experience, and 1 hour of flight experience in actual instrument meteorological 
+conditions with a flight instructor. The accident flight was his first acting as a pilot-in-command while in 
+instrument meteorological conditions.
+Weather forecasts for the destination airport and surrounding airports issued before the flight departed 
+projected low instrument flight rules (IFR) conditions at the estimated time of arrival. However, the pilot 
+did not obtain a formal weather briefing before the accident flight. The pilot reported that he was aware 
+of the bad weather before takeoff but decided to complete the flight because one of the passengers had to 
+make an international trip the following day. It is likely that this external pressure contributed to the 
+pilot's decision to attempt the accident flight regardless of the weather conditions. 

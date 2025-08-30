@@ -1,0 +1,29 @@
+{
+    "Filename": "98610.txt",
+    "Location": "Texico, New Mexico",
+    "Accident Number": "GAA19CA053",
+    "Date & Time": "November 5, 2018, 16:55 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N3214P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 Minor, 2 None",
+    "Analysis": {
+        "Text": "pilot reported day accident flight fully refueled airplane fuel tank 60 gallon fuel conducted runup engine conducted local flight around pattern troubleshoot electrical issue later resolved pilot reported day accident preflight inspection crosscountry flight airplane two gallon shy full 25 hour flight switching fuel tank multiple time en route switched left main fuel tank prepare landing added 4 mile south destination airport engine lost power airplane low set land nearby road airplane landed gear retracted struck multiple sign coming rest airplane sustained substantial damage right wing fuselage empennage postaccident examination federal aviation administration inspector fuel tank found empty evidence fuel leakage found accident site telephone conversation pilot reported total flight time day accident 31 hour aware preaccident mechanical failure estimated fuel burn 14 gallon per hour accident flight 17knot headwind pilot operating handbook airplane stated 75 power airplane 37 hour fuel endurance given evidence likely pilot ensure adequate fuel onboard accident flight led fuel exhaustion total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

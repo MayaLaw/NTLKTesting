@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Swainsboro, Georgia
+Accident Number:
+GAA19CA191
+Date & Time:
+March 31, 2019, 11:25 Local 
+Registration:
+N75242
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during cruise flight, the onboard weather radar showed unfavorable weather 
+ahead, and he diverted to a nearby airport for a precautionary landing. Upon touchdown, the airplane 
+veered left and slid off the runway onto an adjacent field, and the nose landing gear collapsed. 
+The airplane sustained substantial damage to the upper engine mount. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport's automated weather observation station reported that, about the time of the accident, the 
+wind was from 230° at 9 knots, gusting to 18 knots. The pilot landed the airplane on runway 32.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing in gusting crosswind conditions, which 
+resulted in a runway excursion and the landing gear collapsing. 

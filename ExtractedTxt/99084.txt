@@ -1,0 +1,43 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Charlotte, North Carolina
+Accident Number:
+DCA19CA102
+Date & Time:
+March 10, 2019, 09:45 Local 
+Registration:
+N530EA (A1); 
+N569NN (A2)
+Aircraft:
+Bombardier CL 600 2C10 (A1); 
+Bombardier CL600 2D24 (A2)
+Aircraft Damage:
+Substantial (A1); 
+Substantial (A2)
+Defining Event:
+Ground collision
+Injuries:
+1 Minor, 60 None 
+(A1); 70 None (A2)
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled (A1); Part 121: Air carrier - Scheduled (A2)
+Analysis 
+On March 10, 2019, at 0944 eastern daylight time, PSA Airlines flight 5366, a Bombardier CRJ-
+900, N569NN, collided with PSA Airlines flight 5141, a Bombardier CRJ-700, N530EA while 
+pushing back from gate E31 at the Charlotte Douglas International Airport (KCLT), Charlotte, 
+North Carolina. There were no injuries the passengers and crew onboard either airplane, and both 
+airplanes received substantial damage. Both airplanes were regularly scheduled passenger flights 
+operating under 14 Code of Federal Regulations Part 121. 
+The CRJ-700 had pushed back from gate E14B and was waiting for taxi by spot 29W. The CRJ-
+900 requested push back from gate E31, and the north ramp controller initially instructed them to 
+“10 and hold.” The push back was approved about 2 minutes later and the flight crew coordinated 
+with ground crew. After pushing back about 30 feet, the tail of the CRJ-900 impacted the tail of the 
+CRJ-700. After feeling the impact, the CRJ-900 crew aborted their engine start procedure and set 
+the parking brake, while the CRJ-700 crew started their auxiliary power unit and shut down both 
+engines after receiving damage reports from ATC and neighboring airplanes. An emergency 
+evacuation was not performed on either aircraft. Post-accident examination revealed substantially 
+damaged to the horizonal and vertical stabilizers and left elevator of the CRJ-900, and the 
+horizontal stabilizer and left elevator of the CRJ-700.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

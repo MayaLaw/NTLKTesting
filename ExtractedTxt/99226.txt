@@ -1,0 +1,40 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Copalis, Washington
+Accident Number:
+WPR19LA105
+Date & Time:
+March 30, 2019, 12:56 Local 
+Registration:
+N215T
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Destroyed
+Defining Event:
+Collision during takeoff/land
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot, who was the owner of the airplane, was conducting a personal cross-country flight to an 
+airport that was a designated section of a sandy ocean beach. Most of the flight was conducted at an 
+altitude of about 2,300 ft, and most of the underlying enroute terrain was inhospitable for landing. The 
+pilot reported that, about 90 minutes into the flight, and 5 minutes after conducting a series of low 
+altitude maneuvers and climbing to about 1,000 ft above the ground, the engine began running roughly 
+and losing power. He said that he activated the carburetor heat, but that did not improve the situation, 
+and he landed the airplane on a logging road in a forest clearing, during which the airplane impacted 
+stumps and debris, resulting in substantial damage. 
+Examination revealed that the airplane was destroyed by fire. There was no evidence of any pre-impact 
+failures or malfunctions. Fire and impact damage prevented determination of the pre-accident condition 
+or functionality of any of the engine components, or of the engine itself. Temperature and dew point 
+values from an airport located about 9.5 miles from the accident site on a graph of carburetor icing 
+potential indicated the potential for serious icing at cruise power. 
+The altitude, speed, and ground track traces of the approach to the logging road, which included level-
+offs and speed increases, were consistent with a normal traffic pattern flown with an engine developing 
+sufficient power for the entirety of the approach. The fact that both propeller blades were damaged, as 
+well as their damage patterns, also indicated that the engine was developing power.
+Based on the available information, the circumstances under which the pilot conducted the off-airport 
+landing could not be determined. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "96023.txt",
+    "Location": "Glenwood Springs, Colorado",
+    "Accident Number": "CEN17FA354",
+    "Date & Time": "September 15, 2017, 20:10 Local",
+    "Aircraft": "CIRRUS DESIGN CORP SR22",
+    "Registration": "N462SR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "4 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated private pilot three passenger departed night crosscounty flight mountainous terrain radar track data showed airplane traveled mainly southwesterly heading directly towards destination series altitude change 5 minute accident airplane turned northwest deviation destination course continued northwest 12 mile turn passenger sent text message family member stating taking long way around lot weather keep posted shortly thereafter airplane entered gradual left turn southwest descending 11500 ft 11300 ft climbing back 11400 ft last recorded radar return 14 mile south accident site located elevation 10800 ft postaccident examination airframe engine showed severe fragmentation airplane consistent highenergy impact reveal preimpact anomaly would precluded normal operation flight likely operating instrument meteorological condition imc time accident including light moderate icing condition airplane likely encountered intermittent imc beginning 30 minute takeoff continued area solid imc 3 minute accident occurred record pilot retrieving preflight weather information official access controlled source weather information obtained flight could determined based weather forecast information valid airplane departed en route equipment available onboard airplane sufficient weather information available pilot flight make informed decision regarding weather would likely encounter night instrument condition present time accident conducive development spatial disorientation circumstance accident noninstrumentrated pilot continued flight imc airplane descending turn depicted radar fragmentation",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "accident",
+                6
+            ],
+            [
+                "weather",
+                6
+            ]
+        ]
+    }
+}

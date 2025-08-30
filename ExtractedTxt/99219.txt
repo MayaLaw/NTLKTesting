@@ -1,0 +1,31 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Lafe, Arkansas
+Accident Number:
+CEN19LA116
+Date & Time:
+April 2, 2019, 17:32 Local 
+Registration:
+N265GB
+Aircraft:
+BERKEY S-6ES
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The noncertificated pilot reported that, while on approach for landing at the private turf runway, he was 
+"blinded by the sun" and allowed the airplane to descend too low. The tailwheel hit vines growing near 
+the runway, and the left wing subsequently impacted the ground, resulting in substantial damage. The 
+pilot reported that there were no mechanical failures or malfunctions of the airplane and added that the 
+accident may have been prevented by landing at a different time or by clearing the vegetation around the 
+runway. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The non-certificated pilot's failure to maintain an appropriate glidepath while landing toward 
+the sun, which resulted in impact with vegetation and a subsequent loss of control.

@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Tat Momoli, Arizona
+Accident Number:
+WPR18LA248
+Date & Time:
+August 28, 2018, 18:40 Local 
+Registration:
+N4139A
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that during the cross-country flight, the engine experienced a total loss of power. The 
+pilot initiated a forced landing to a nearby road where, during the landing roll, the airplane impacted a 
+barbed wire fence, resulting in substantial damage to the right wing. 
+Postaccident examination revealed a large hole in the engine case at the No. 4 cylinder that exposed the 
+crankshaft and connecting rod. The No. 4 cylinder was seized, and the connecting rod was fractured at 
+the piston end. Further examination revealed that the connecting rod fractured from a fatigue crack in 
+the bore on the piston end, which likely initiated at an internal corner of the bore. The fatigue crack 
+progressed through most of the pin bore cross-section. Following the fracture of the connecting rod, the 
+continued movement of the broken part led to subsequent overstress fractures and damage to nearby 
+components, which resulted in catastrophic engine failure and a complete seizure of the engine. 
+The cause of the fatigue crack initiation could not be determined, as both the initiation site (or sites) and 
+the termination of the fatigue crack were destroyed by postfracture impact damage. The general location 
+of the initiation, the internal corner of the pin bore, suggested the presence of concentrated stress in that 
+location, which could have been the result of a material defect, such as a pore, inclusion, or corrosion pit 
+that may have occurred when the connecting rod was rebushed. A crack initiation could also have been 
+the result of improper sizing of the internal bushing, improper installation of the connecting rod, or use 
+of the wrong parts. The engine was overhauled 42 flight hours before the accident. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

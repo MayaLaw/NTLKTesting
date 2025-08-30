@@ -1,0 +1,29 @@
+{
+    "Filename": "93957.txt",
+    "Location": "Post Oak, Missouri",
+    "Accident Number": "CEN16LA355",
+    "Date & Time": "August 30, 2016, 08:55 Local",
+    "Aircraft": "Republic RC3",
+    "Registration": "N6490K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot conducting local flight airplane engine started lose power pilot attempted forced landing field however airplane collided tree examination airplane engine noted compression low cylinder rust present inside cylinder airplane operated 4 year flown 2 hour since returned service partial loss engine power consistent degradation cylinder compression likely rust formed engine time airplane used probable cause finding national transportation safety board determines probable cause accident partial loss engine power due low cylinder compression contributing loss engine power rust formation cylinder due inactivity finding aircraft general fatiguewearcorrosion personnel issue scheduledroutine maintenance specified",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "cylinder",
+                5
+            ]
+        ]
+    }
+}

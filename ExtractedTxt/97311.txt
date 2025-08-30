@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Anchorage, Alaska
+Accident Number:
+ANC18LA038
+Date & Time:
+May 23, 2018, 16:30 Local 
+Registration:
+N3748
+Aircraft:
+JAMES WIEBE BELITE PIPPER
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that he was conducting a postmaintenance flight in the experimental amateur-built 
+airplane in the traffic pattern. While landing, he applied full throttle to go around, but when the airplane 
+was about 150 ft above ground level, the engine lost total power. During the forced landing, the airplane 
+landed long, bounced, descended into a fence, and came to rest inverted, which resulted in substantial 
+damage to the fuselage and both wings. 
+The engine had been altered from its original state by the addition of an after-market, high-displacement 
+cylinder/piston kit to increase performance and horsepower of the engine. The kit, as installed, replaced 
+the crankshaft, camshaft, engine gaskets, cylinders, and pistons. The pilot stated that he had been 
+discussing with the kit manufacturer a problem with fuel flow to the engine and, thus, altered the fuel 
+supply system with larger fuel lines. No modifications were made to the carburetors. 
+Because the carburetors were not altered, it is likely that the engine was not receiving enough fuel for 
+full power operation, which resulted in a total loss of engine power during the go-around attempt.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An inadequate fuel supply to the engine, which resulted in a total loss of engine power and subsequent 
+impact with terrain.

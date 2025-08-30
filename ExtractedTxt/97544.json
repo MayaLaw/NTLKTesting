@@ -1,0 +1,29 @@
+{
+    "Filename": "97544.txt",
+    "Location": "Wasilla, Alaska",
+    "Accident Number": "GAA18CA367",
+    "Date & Time": "June 14, 2018, 17:55 Local",
+    "Aircraft": "Piper PA 18",
+    "Registration": "N3764Z",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported short final airplane encountered moderate turbulence able maintain runway alignment glideslope constant power flight control adjustment landing roll 20 mph tailwheelequipped airplane veered right applied full left aileron rudder correction airplane continued right exited runway impacted post came rest upright row tree airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation weather observation station located 7 nautical mile accident site reported 1 minute accident wind variable 6 knot gusting 15 knot pilot reported wind 130\u00ba 21 knot gusting 30 knot airplane landed runway 26 pilot added landing wind sock found damaged indicating wind direction properly replaced accident probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting tailwind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

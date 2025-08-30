@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Summerland Key, Florida
+Accident Number:
+ERA19TA067
+Date & Time:
+November 23, 2018, 08:20 Local 
+Registration:
+N41VK
+Aircraft:
+Beech A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that during taxi after landing on a 2,550-ft-long asphalt runway, he intended to retract 
+the flaps, but accidently retracted the landing gear, resulting in the nose gear and right main landing gear 
+collapsing on the runway. The pilot added that that there were no preimpact mechanical malfunctions 
+with the airplane.
+Examination of the accident site revealed runway scrape marks and propeller strikes originating about 
+1,000 ft beyond the approach end of the runway. The marks extended about 500 ft and terminated at the 
+wreckage, off the left side of the runway. The left main landing gear remained extended and the right 
+wing and lower fuselage sustained damage. The length of scrape marks and extent of damage were 
+consistent with a landing gear collapse during a high-speed landing rollout, rather than a low-speed taxi 
+after landing. The airplane was equipped with a squat switch on both main landing gear to prevent 
+inadvertent landing gear retraction on the ground; however, the switch required weight-on-wheels to 
+work effectively. It's likely that the pilot bounced the landing and attempted to retract the flaps in an 
+effort to settle the airplane on the runway for better wheel braking; however, without weight on the right 
+main landing gear, the gear retracted when the pilot inadvertently moved the landing gear lever instead 
+of the flap lever.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s inadvertent retraction of the landing gear during landing rollout, resulting in a 
+landing gear collapse.

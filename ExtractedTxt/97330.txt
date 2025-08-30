@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Bainbridge Island, Washington
+Accident Number:
+WPR18LA151
+Date & Time:
+May 27, 2018, 17:05 Local 
+Registration:
+N6AF
+Aircraft:
+Cessna 150M
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and passenger departed on a pleasure flight over the water; radar data showed that the 
+airplane was at an altitude about 700 ft mean sea level. The passenger stated that she was concerned 
+about how low the airplane was flying, but the pilot reassured her that they were fine and able to fly 
+safely 200 ft above the water. The pilot then looked down at his tablet, which he was using for 
+navigation, and the passenger saw him push the flight control yoke forward. The airplane descended and 
+subsequently impacted the water and nosed over. The passenger was able to egress on her own as the 
+airplane began to sink; however, the pilot appeared unconscious and did not exit the airplane.
+Neither the wreckage nor the pilot's remains were recovered. Although the wreckage could not be 
+examined, the passenger reported no mechanical problems with the airplane before the impact. It is 
+likely that, as the pilot was looking down at his tablet, he inadvertently pushed the control yoke forward, 
+causing the airplane to descend into the water. Because of his distraction in using his tablet to navigate, 
+he failed to detect the descent.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain clearance from the water and his distraction by using the tablet for 
+navigation, which resulted in his failure to detect that the airplane had entered a descent.

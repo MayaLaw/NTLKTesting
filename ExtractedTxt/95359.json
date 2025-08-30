@@ -1,0 +1,29 @@
+{
+    "Filename": "95359.txt",
+    "Location": "West Creek, New Jersey",
+    "Accident Number": "ERA17LA205",
+    "Date & Time": "June 12, 2017, 22:55 Local",
+    "Aircraft": "Cessna P206",
+    "Registration": "N206TF",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "commercial pilot second leg postmaintenance flight first flight leg 1hour long uneventful pilot reported fuel selector positioned right tank flight leg landed airplane purchase fuel departing return leg pilot reported return leg fuel selector positioned left tank final approach airport pilot added power go around turned onto crosswind downwind leg airport traffic pattern downwind leg engine lost power pilot switched fuel selector right tank engine power restored realizing airplane would unable reach runway pilot conducted forced landing tree airplane came rest inverted postaccident examination unusable amount fuel drained left fuel tank breached two location 6 ounce fuel drained unbreached right fuel tank fuel found enginedriven fuel pump flow divider indicative fuel starvation examination fuel supply system revealed evidence preimpact mechanical failure malfunction would precluded normal operation engine started operated briefly using fuel drained airplane discrepancy noted although pilot stated conducted entire second flight leg fuel selector positioned left tank switched right tank engine lost power fuel selector found positioned left tank unusable amount fuel therefore likely pilot approaching airport fuel selector positioned right tank ran fuel switched left tank late restore engine power given lack fuel enginedriven fuel pump flow divider likely pilot mismanaged fuel resulted loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                21
+            ],
+            [
+                "tank",
+                10
+            ],
+            [
+                "pilot",
+                9
+            ]
+        ]
+    }
+}

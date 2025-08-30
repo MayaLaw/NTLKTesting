@@ -1,0 +1,29 @@
+{
+    "Filename": "99311.txt",
+    "Location": "Chicago, Illinois",
+    "Accident Number": "GAA18CA588",
+    "Date & Time": "July 17, 2018, 09:20 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N969RR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported taxi runway saw fuel truck parked grass left side asphalt taxilane added assumed truck driver left room airplane get however airplane passed truck left wing struck rear truck airplane sustained substantial damage left wing lift strut student reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain clearance truck taxiing finding personnel issue monitoring environment studentinstructed pilot environmental issue ground vehicle effect operation",
+        "Top Words": [
+            [
+                "truck",
+                5
+            ],
+            [
+                "left",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

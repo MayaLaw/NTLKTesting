@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Beggs, Oklahoma
+Accident Number:
+CEN18LA125
+Date & Time:
+March 21, 2018, 17:45 Local 
+Registration:
+N226JK
+Aircraft:
+Cub Crafters PA18 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that the takeoff was uneventful until the airplane reached about 50 ft 
+above ground level and the engine experienced a total loss of power. The engine regained 
+power momentarily, then lost power again. The pilot performed a forced landing during which 
+the airplane impacted a ditch. The pilot reported that fuel selector may not have been secured 
+in the "both" position detent at the time of the takeoff, and as a result, the engine may have lost 
+power due to fuel starvation. A postrecovery examination did not reveal any anomalies that 
+would have precluded normal operation of the airplane.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to verify that the fuel selector was properly set before takeoff, which resulted 
+in a total loss of engine power due to fuel starvation.
+Findings
+Aircraft
+Fuel - Fluid management
+Personnel issues
+Use of equip/system - Pilot

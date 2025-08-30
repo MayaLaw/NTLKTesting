@@ -1,0 +1,29 @@
+{
+    "Filename": "99380.txt",
+    "Location": "FARIBAULT, Minnesota",
+    "Accident Number": "GAA19CA243",
+    "Date & Time": "May 4, 2019, 14:28 Local",
+    "Aircraft": "HANSON PARAKEET A4 REPLICA",
+    "Registration": "N27Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot biplane reported short final immediately crossing end runway 10 ft ground level increased throttle setting maintain 60 mph added 5 8 ft ground airplane sank rapidly landed hard right landing gear collapsed subsequently airplane veered right exited runway nosed biplane sustained substantial damage left wing empennage pilot reported preaccident mechanical failure malfunction biplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare left crosswind resulted hard landing collapsed landing gear runway excursion noseover",
+        "Top Words": [
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "biplane",
+                3
+            ]
+        ]
+    }
+}

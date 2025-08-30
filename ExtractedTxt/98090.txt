@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Stuart, Florida
+Accident Number:
+ERA18LA220
+Date & Time:
+August 15, 2018, 12:00 Local 
+Registration:
+N425AZ
+Aircraft:
+CZECH SPORT AIRCRAFT AS PIPER 
+SPORT
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The sport pilot was conducting a personal flight in the special light sport airplane. During landing, the 
+airplane touched down normally on the main landing gear. After 50 ft of ground roll, the nose landing 
+gear touched down and collapsed; one propeller blade subsequently separated, and the airplane came to 
+rest upright on the runway. Examination of the airplane revealed that the nose landing gear had 
+separated at a location that the airplane maintenance manual (AMM) and a service bulletin (SB) indicate 
+should be inspected for cracks. The separated fracture surfaces exhibited cracking and corrosion. 
+Review of the SB revealed that due to the development of cracks, an inspection for cracks per the AMM 
+should occur every 25 flight hours or 50 cycles, whatever occurs first. The AMM stated to use a 
+flashlight and 10x magnifier to visually inspect the nose landing gear leg lower section and verify that 
+there is no evidence of cracking in paint on or around the place of the weld between the tube and the 
+bracket. The most recent documented nose landing gear inspection was about 2 years 5 months before 
+the accident. Thus, it is likely that the nose landing gear was not adequately inspected and cracks and 
+corrosion were therefore undetected, which led to the nose landing gear collapse during landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Inadequate maintenance inspection of the airplane's nose landing gear, which resulted in a nose landing 
+gear collapse during landing due to cracking and corrosion.

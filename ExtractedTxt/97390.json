@@ -1,0 +1,29 @@
+{
+    "Filename": "97390.txt",
+    "Location": "Nulato, Alaska",
+    "Accident Number": "GAA18CA320",
+    "Date & Time": "June 1, 2018, 23:30 Local",
+    "Aircraft": "Piper PA 12",
+    "Registration": "N3937M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing airport upsloping ridge tailwheelequipped airplane touched harder preferred applied full throttle initiated goaround attempted turn toward downsloping side hill airplane briefly became airborne aerodynamically stalled nosed tundra airplane sustained substantial damage engine mount pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing upsloping terrain subsequent failure maintain adequate airspeed exceedance airplane critical angle attack attempted goaround resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

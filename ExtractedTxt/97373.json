@@ -1,0 +1,29 @@
+{
+    "Filename": "97373.txt",
+    "Location": "Couer D'Alene, Idaho",
+    "Accident Number": "GAA18CA315",
+    "Date & Time": "May 28, 2018, 13:20 Local",
+    "Aircraft": "JIM GREEN CCX",
+    "Registration": "N18JG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported lost directional control upon touchdown runway airplane ground looped left leading edge right wing dipped contacted runway airplane came rest upright airplane sustained substantial damage rightwing rear spar right aileron pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located airport reported 26 minute accident wind 250 11 knot gusting 17 knot pilot landed airplane runway 24 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting wind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

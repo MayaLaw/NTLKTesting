@@ -1,0 +1,29 @@
+{
+    "Filename": "98418.txt",
+    "Location": "Fancy Gap, Virginia",
+    "Accident Number": "ERA19FA003",
+    "Date & Time": "October 6, 2018, 12:15 Local",
+    "Aircraft": "Piper J3C",
+    "Registration": "N38811",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated private pilot conducting visual flight rule vfr crosscountry flight instrument meteorological condition imc forecast along route airplane equipped flight imc pilot entered flight plan foreflight application noted cruise altitude 2100 ft mean sea level msl route flight foreflight application displayed terrain crosssection overview noted highest point along route 3800 ft msl indicated planned route altitude flight conflicted rising terrain 1 hour 15 minute departure airplane impacted mountain 2766 ft 150 ft summit accident site 36 mile destination airport along direct route departure destination airport accident site evidence impact damage airplane indicative highspeed impact wreckage path oriented roughly opposite intended route flight examination wreckage revealed anomaly airplane would precluded normal operation accident weather observation near departure destination airport airmets visible satellite weather image indicated pilot likely encountered imc en route based direction wreckage path relative intended route flight likely maneuvering return visual meteorological condition airplane collided terrain forecast warning imc issued prior pilot departure could determined whether pilot accessed forecast material flight planning application personal electronic device would allowed view information internet connection available toxicology test result showed pilot taking two antidepressant indicating significant depression associated significant cognitive degradation testing also detected presence four impairing sedating medication pilot made critical error judgment decided undertake flight along route instrument meteorological condition forecast elected continue flight encountering condition likely combination depression use multiple impairingsedating medication contributed pilot poor decisionmaking therefore contributed accident",
+        "Top Words": [
+            [
+                "flight",
+                11
+            ],
+            [
+                "route",
+                9
+            ],
+            [
+                "pilot",
+                8
+            ]
+        ]
+    }
+}

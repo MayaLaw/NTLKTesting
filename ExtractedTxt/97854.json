@@ -1,0 +1,29 @@
+{
+    "Filename": "97854.txt",
+    "Location": "North Myrtle Beach, South Carolina",
+    "Accident Number": "GAA18CA434",
+    "Date & Time": "July 9, 2018, 11:00 Local",
+    "Aircraft": "CLASSIC AIRCRAFT CORP WACO",
+    "Registration": "N96T",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported threepoint landing airplane began shudder veered left corrected applying forward pressure control stick right rudder airplane tailwheel raised runway airplane regained runway heading airspeed decreased tailwheel touched runway airplane shuddered veered left corrected right rudder left brake aileron airplane ground looped left main landing gear collapsed airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added 1 hour accident wind 340\u00ba 12 knot gusting 17 knot airport automated weather observation system reported time accident wind 340 8 knot pilot landed airplane runway 5 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing left quartering headwind",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "left",
+                5
+            ]
+        ]
+    }
+}

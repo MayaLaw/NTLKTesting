@@ -1,0 +1,29 @@
+{
+    "Filename": "94050.txt",
+    "Location": "Delta, Utah",
+    "Accident Number": "GAA16CA496",
+    "Date & Time": "August 30, 2016, 11:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N734AV",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according student pilot following first leg solo crosscountry flight entered traffic pattern land runway 17 traffic using runway 17 even though wind 050 3 knot reported airplane approached runway airspeed high airplane landed hard nosewheel porpoised conceded knew hard landing hear prop strike occur student pilot departed airport accomplished two approach landing third airport returning home airport accomplished two approach landing taxied parking student pilot reported could prevented accident performing goaround realized approach speed high airplane sustained substantial damage firewall student pilot reported mechanical malfunction anomaly engine airframe would prevented normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted hard porpoised landing",
+        "Top Words": [
+            [
+                "student",
+                5
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                5
+            ]
+        ]
+    }
+}

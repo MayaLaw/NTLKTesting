@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Niceville, Florida
+Accident Number:
+ERA19FA048
+Date & Time:
+November 17, 2018, 12:37 Local 
+Registration:
+N232VA
+Aircraft:
+Vans RV-12
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The owner of the airplane, who was a flight instructor, completed a 100-hour inspection on the light 
+sport airplane before another flight instructor departed in the airplane on an instructional flight. That 
+instructor reported that, during takeoff, the engine was not producing full power and experienced a 
+momentary loss of power. He returned to the airport and landed uneventfully. The owner examined the 
+airplane and concluded that the loss of power was likely due to vapor lock. They left the engine cowl 
+open to cool the engine, and about 2 hours later, the owner/flight instructor departed with a student on 
+the accident flight. The student stated that, after takeoff, the engine sputtered and the flight instructor 
+took control. He had no recollection of the accident other than that the altimeter indicated 240 ft.
+Recorded data revealed that the airplane experienced a significant reduction in engine rpm for unknown 
+reasons about 35 seconds after the takeoff. The throttle was reduced, and the airplane reached a 
+maximum altitude of about 250 ft at an airspeed of 44 knots. Vertical acceleration began to oscillate, the 
+airplane was banking to the left and reached a 68° left wing down bank angle. It then began to descend 
+rapidly; the throttle was advanced and engine speed increased; however, shortly thereafter, the airplane 
+impacted the ground. Examination of the airframe and engine did not reveal any preimpact anomalies. 
+The airplane's flight track and recorded data were consistent with it entering a stall during a left turn 
+back toward the airport.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power during initial climb for undetermined reasons, and pilot's failure to 
+maintain airspeed during a turn back to the runway, which resulted in an exceedance of the airplane's 
+critical angle of attack, and subsequent aerodynamic stall. 

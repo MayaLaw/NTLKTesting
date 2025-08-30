@@ -1,0 +1,29 @@
+{
+    "Filename": "97502.txt",
+    "Location": "Sacramento, California",
+    "Accident Number": "WPR18CA172",
+    "Date & Time": "June 14, 2018, 11:38 Local",
+    "Aircraft": "DORNIER GMBH ALPHA JET",
+    "Registration": "N2165",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilotunderinstruction planned visual simulated noflap approach landing instructional flight twinengine advanced jet trainer audio data provided federal aviation administration indicated pilot requested left closed traffic simulated noflap pattern stated needed go 4 mile upwind time air traffic tower controller responded pilot already started crosswind turn therefore controller cleared overhead pattern left closed traffic subsequently controller initially instructed pilot make base turn able instructed turn immediately sequenced front slower traffic 5mile final approach controller stated would give pilot 4 mile requested next pattern pilot accepted turn clearance reported controller turning review radar data indicated final turn airplane overshot final approach 1800 ft northwest subsequently airplane landed belly sustained substantial damage bottom fuselage postlanding fire ensued filed company report stated flying noflap approach landing required maintaining higher airspeed final turn established final approach airspeed quickly bled higher approach speed difficulty maintaining airspeed early turn final increased pilot workload simulated noflap pattern final approach pilot extended air brake typically extended lowering landing gear failed extend landing gear flight instructor failed notice omission resulted gearup landing pilot reported preimpact mechanical malfunction failure airplane would precluded normal operation",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "approach",
+                7
+            ],
+            [
+                "turn",
+                7
+            ]
+        ]
+    }
+}

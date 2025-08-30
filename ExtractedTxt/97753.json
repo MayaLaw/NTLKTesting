@@ -1,0 +1,29 @@
+{
+    "Filename": "97753.txt",
+    "Location": "Panama City, Florida",
+    "Accident Number": "GAA18CA419",
+    "Date & Time": "June 30, 2018, 16:45 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N89887",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported 15 minute crosscountry flight airplane engine lost rpm added power engine regained rpm briefly losing power pilot selected dirt road emergency landing nose landing gear touched soft surface airplane nosed airplane sustained substantial damage left right wing front windshield pilot reported airplane 45 gallon fuel board last takeoff federal aviation administration inspector reported postaccident examination airplane fuel tank found empty gascolator residual fuel 1 gallon fuel removed fuselage fuel drain added according manufacturer specification airplane 15 gallon unusable fuel turned airplane master power switch view fuel quantity gauge indication leftwing tank gauge indicated empty quarter full fuel tank rightwing fuel tank gauge indicated empty probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                11
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

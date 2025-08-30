@@ -1,0 +1,43 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Eagle Mountain, Utah
+Accident Number:
+WPR18FA186
+Date & Time:
+June 28, 2018, 10:54 Local 
+Registration:
+N320MF
+Aircraft:
+Cessna 320
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The pilot was conducting an aerial photography flight at a planned altitude of 7,255 ft over a level area 
+just west of rising mountainous terrain. The planned flight was to accomplish 3 photo runs over the area. 
+At the conclusion of the 3 runs, the pilot was to return to the airport located to the east for fuel. Onboard 
+data indicated that at the conclusion of the second run traveling from west to east, the airplane made a 
+shallow right turn to the southeast and continued toward mountainous terrain and in the general direction 
+of the airport. After traveling over mountainous terrain, the airplane initiated a left turn at an altitude 
+about 800 ft above the terrain. This turn was possibly performed to maneuver the airplane back to the 
+northwest to the photo area and accomplish the final photo run. During the turn, the airplane's bank 
+angle increased as the airplane climbed slightly and accelerated; the last recorded data showed the 
+airplane at 177 knots groundspeed in an approximate 70° left bank. On site wreckage documentation 
+revealed that the airplane collided with the terrain in a near vertical nose-down attitude suggesting that 
+the airplane exceeded its critical angle of attack and aerodynamically stalled at an altitude too low for 
+the pilot to recover from.
+Examination revealed no anomalies with the airframe and engines that would have precluded normal 
+operation, and damage signatures indicated that the engines were producing power at the time of the 
+accident.
+The pilot had several airspace violations in the year before the accident. A psychological evaluation 
+conducted over 15 years before the accident, when the pilot first sought Federal Aviation Administration 
+medical certification, indicated that the pilot had an "impulsive personality" and that he "sought 
+excitement;" however, outside of these instances, there was no other information available that provided 
+insight into the pilot's behavior or decision-making. It could not be determined whether the pilot's 
+mental health contributed to this accident.

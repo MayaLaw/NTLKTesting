@@ -1,0 +1,29 @@
+{
+    "Filename": "98200.txt",
+    "Location": "Kaplan, Louisiana",
+    "Accident Number": "CEN18FA359",
+    "Date & Time": "August 31, 2018, 07:56 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N7430J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot daughter departed day visual meteorological condition morning sun located behind airplane 10 minute takeoff airplane impacted charted 1793fttall televisionradio tower 200 ft apex tower examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation pilot wife process divorce pilot wife concerned pilot daughter departed without notice several week accident pilot become unresponsive phone call work supervisor making unauthorized purchase work credit card accident day accident pilot attorney informed pilot warrant issued arrest direct course departure airport pilot home airport 5 mile south tower although surveillance video witness statement indicated tower lighting erratic tower adequately lit visibility tower factor accident probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance charted illuminated televisionradio tower",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "tower",
+                7
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

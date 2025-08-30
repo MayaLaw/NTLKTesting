@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Stonewall, Mississippi
+Accident Number:
+ERA19LA008
+Date & Time:
+October 5, 2018, 14:45 Local 
+Registration:
+N969TR
+Aircraft:
+North American NAVION A
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that, while en route to his destination, the airplane's engine sputtered and then 
+lost total power. During the subsequent forced landing to a highway, the airplane landed hard, 
+and the landing gear collapsed; the airplane sustained substantial damage to the fuselage. A 
+postaccident examination of the engine revealed the No. 3 cylinder exhaust valve fractured 
+where the stem transitioned to the valve head seat. The valve head impacted the No. 3 piston 
+and became lodged between the crankcase and the camshaft, which resulted in the fracture of 
+the camshaft. Fatigue cracking, which initiated at multiple sites, propagated through the valve 
+stem. The presence of a tapered stem near the fracture surface, high temperature oxide 
+deposits, and fatigue striations on the fracture surface suggested that the stem underwent 
+spallation or erosion of the oxides formed during high temperature exposure, which would 
+reduce the stem cross-section over time, increasing the likelihood of initiating fatigue cracking. 
+Additionally, a localized area of wear on the top face of the valve stem was most likely due to 
+the valve not rotating during operation, which could create hot spots or improper thermal 
+dissipation in the hottest parts of the valve and lead to valve damage or failure.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The fatigue failure of the No. 3 cylinder exhaust valve, which resulted in a fractured camshaft 
+and a total loss of engine power.

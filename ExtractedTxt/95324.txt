@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Albuquerque, New Mexico
+Accident Number:
+CEN17LA216
+Date & Time:
+June 4, 2017, 08:24 Local 
+Registration:
+N78DZ
+Aircraft:
+WILLIAM D TELFAIR/ZIA Z TELFAI 
+EXCALIBUR
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was conducting a personal flight in the experimental amateur-built airplane. After 
+about 1 hour of flight, the airplane was straight and level, at an airspeed of about 75 mph, when the pitch 
+control became erratic. The pilot stated that the control stick started "slamming" fore and aft to the 
+limits, the airplane nose began pitching up and down, and the airplane began buffeting "like it was going 
+to come apart." The pilot declared an emergency and reduced airspeed to 50 to 60 mph, which slightly 
+lessened the fore-and-aft stick movement and pitch but did not control it. The pilot turned to clear steep 
+terrain and chose a field for an emergency landing. He was able to make final directional corrections and 
+flew the airplane to landing about 40 to 45 mph and 200 to 300 ft per minute rate of descent. The left 
+wing and horizontal stabilizer struck the ground. Examination of the airplane revealed a broken right 
+elevator control rod; the left elevator control rod was not broken and moved normally. The broken 
+control rod was a factory-supplied, 1/2-inch aluminum tube with bearings at each end. The attach points 
+of the control rods appeared to be intact, the bearings were still connected and safety wired, and all other 
+control rod linkages were connected. Further examination revealed no indication of any preexisting 
+failure on the fracture surface of the right elevator control rod. The deformation of the rod was indicative 
+of a bending failure. The pilot reported after the accident that he may have encountered flutter, but it 
+could not be determined when or if that occurred. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of pitch control due to the overload failure of the control rod.

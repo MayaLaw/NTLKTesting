@@ -1,0 +1,29 @@
+{
+    "Filename": "95360.txt",
+    "Location": "Auburn, Indiana",
+    "Accident Number": "GAA17CA336",
+    "Date & Time": "June 8, 2017, 13:00 Local",
+    "Aircraft": "Piper PA 28",
+    "Registration": "N4543R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported attempted take airplane turf airstrip attempted force airplane air brief ascent airplane descended ground touched hard pilot continued sequence lifting touching determined would able clear tree end runway made left turn airplane traveled two field hit ditch collided barn airplane sustained substantial damage wing per national transportation safety board pilot aircraft accident report pilot reported accident could prevented aborted takeoff first bounce pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot decision continue attempt take despite airplane inability attain positive climb rate resulted little runway remaining subsequent decision turn runway resulted collision barn",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

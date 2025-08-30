@@ -1,0 +1,40 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Reno, Nevada
+Accident Number:
+WPR17LA209
+Date & Time:
+September 17, 2017, 08:20 Local 
+Registration:
+C-GTPX
+Aircraft:
+Trudel GP 4
+Aircraft Damage:
+Minor
+Defining Event:
+Midair collision
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Air race/show
+Analysis 
+During the initial start of an air race, nine airplanes were positioned in a line-abreast formation. The RV-
+8 was positioned in the No. 7 slot, and the GP 4 was right of the RV-8 in the No. 8 slot. The RV-8 pilot 
+reported that, during the race start, he felt an air current push down his airplane. He then moved forward 
+of the No. 6 slot airplane and initiated corrections to reestablish his position within the formation. The 
+GP 4 pilot reported that he saw the RV-8 descend below his airplane's left wing and that he reduced 
+power while initiating a slight right bank in an attempt to "back out" of the formation. The pilot who was 
+in the No. 9 slot reported that he observed the GP-4 move forward back into the formation very quickly. 
+At that time, he noticed the pilot of the GP-4 trying to slow or correct his position to the right using 
+ailerons. Shortly after, the propeller of the GP-4 struck the right aileron of the RV-8. Following the 
+collision, the RV-8 entered an uncommanded left roll; however, the pilot was able to level the airplane 
+and land uneventfully. The GP-4 pilot pitched his airplane upward and rolled right to avoid the 
+surrounding airplanes and was also able to land the airplane uneventfully.
+It is likely that, if the pilot of the GP-4 had maintained adequate lateral distance from the RV-8 while 
+advancing forward to maintain a line-abreast formation, he would have been able to maintain clearance 
+from the RV-8 as it descended and would not have needed to bank right, which further reduced the GP-4 
+pilot's visual contact with the RV-8 and led to the midair collision.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain clearance from another airplane during the line-abreast formation.

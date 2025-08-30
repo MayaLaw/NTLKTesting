@@ -1,0 +1,29 @@
+{
+    "Filename": "98164.txt",
+    "Location": "Afton, Wyoming",
+    "Accident Number": "WPR18LA241",
+    "Date & Time": "August 13, 2018, 09:08 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N5660J",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "3 Serious",
+    "Analysis": {
+        "Text": "airline transport pilot two passenger departed aerial observation flight mountainous terrain flying valley pilot reported experienced downdraft made unlikely airplane would clear ridge line front airplane pilot performed steep 180 left turn exit high terrain however completing turn airplane unable climb terrain struck several tree impacting ground resulted substantial damage wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airplane weight balance calculated 256 pound maximum gross weight limit density altitude accident calculated 8765 ft mean sea level msl weather study accident area identified significant wind turbulence lowlevel wind shear present forecast study identify surfacebased inversion existed 500 ft ground level agl additionally another pilot different airplane stated moderate turbulence present near accident area 18 minute accident due combination airplane high gross weight highdensity altitude temperature inversion maneuvering steep bank order avoid high terrain potential downdraft pilot dissipated airplane airspeed altitude approached stall altitude available increase airspeed left turn already full power airplane continued descend struck tree impacted terrain probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "terrain",
+                5
+            ]
+        ]
+    }
+}

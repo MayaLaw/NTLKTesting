@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Hanover Park, Illinois
+Accident Number:
+CEN18LA181
+Date & Time:
+May 18, 2018, 20:32 Local 
+Registration:
+N667AZ
+Aircraft:
+Vans RV7A
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal cross-country flight when the airplane had a partial loss 
+of engine power shortly after takeoff. Engine operation did not improve after the pilot's 
+corrective actions and a forced landing was completed to a soft field where the airplane 
+nosed over upon touchdown. The fuselage, both wings, and the empennage were 
+substantially damaged during the accident. 
+Postaccident fuel samples taken from each wing tank sump did not exhibit any 
+contamination. A fuel sample collected from the fuel supply line connected to the fuel 
+injector servo inlet contained a small amount water contamination. The electric fuel pump 
+was used to obtain an additional fuel sample, which also contained water contamination. 
+The fuel filter, which was not equipped with a drain sump, had evidence of water 
+contamination. Besides the water contamination found in the fuel system, the postaccident 
+examination did not reveal any anomalies that would have precluded normal engine 
+operation during the flight.
+The pilot reported that the fuel samples he obtained from each wing tank sump during his 
+preflight inspection were not contaminated. The pilot would have been unable to identify 
+water contamination downstream of the fuel tanks, because the experimental airplane was 
+not equipped with a drainable fuel filter. A review of maintenance documentation revealed 
+at least one instance of water and particulate contamination being found in the fuel filter 
+and the fuel injection servo finger screen. Based on the available evidence, it is likely that 
+the partial loss of engine power shortly after takeoff was due to water contamination of the 
+fuel system.

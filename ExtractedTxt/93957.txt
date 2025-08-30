@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Post Oak, Missouri
+Accident Number:
+CEN16LA355
+Date & Time:
+August 30, 2016, 08:55 Local 
+Registration:
+N6490K
+Aircraft:
+Republic RC3
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a local flight when the airplane's engine started to lose power. The 
+pilot attempted a forced landing to a field; however, the airplane collided with trees. Examination of the 
+airplane's engine noted that compression was low in all cylinders, and rust was present inside the 
+cylinders. The airplane was not operated for about 4 years and had flown about 2 hours since being 
+returned to service. The partial loss of engine power is consistent with a degradation in cylinder 
+compression, and it is likely that rust formed in the engine during the time the airplane was not being 
+used. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power due to low cylinder compression. Contributing to the loss of engine 
+power was rust formation in the cylinders due to inactivity.
+Findings
+Aircraft
+(general) - Fatigue/wear/corrosion
+Personnel issues
+Scheduled/routine maintenance - Not specified

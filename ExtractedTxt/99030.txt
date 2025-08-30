@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Devine, Texas
+Accident Number:
+CEN19LA087
+Date & Time:
+February 27, 2019, 16:38 Local 
+Registration:
+N1778
+Aircraft:
+Warner Aerocraft Space Walker II
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal fight over his private airstrip when the airplane collided with trees 
+while in a descent to make a low pass over the runway. The forward fuselage and left wing sustained 
+substantial damage during the accident. 
+The pilot does not recall the final portion of the flight besides a brief memory of the airplane descending 
+toward trees in a 90° nose-down pitch attitude. The pilot does not recall if the airplane had any 
+mechanical malfunctions during the flight. A witness reported hearing a reduction in engine power 
+shortly before the accident; however, based on the pilot’s statement, it is likely that he had reduced 
+engine power to descend toward the runway for a low pass.
+Additionally, an examination of the airplane and its engine did not reveal any evidence of mechanical 
+malfunction that would have precluded normal operation. Based upon the pilot’s recollection that the 
+airplane was in a vertical nose-down descent, it is likely the airplane exceeded its critical angle of attack 
+while maneuvering near the runway, which resulted in an aerodynamic stall and collision with trees and 
+terrain.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to maintain control of the airplane while maneuvering at a low altitude, which 
+resulted in the airplane exceeding its critical angle of attack and an aerodynamic stall.

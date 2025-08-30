@@ -1,0 +1,29 @@
+{
+    "Filename": "98583.txt",
+    "Location": "Denver, Colorado",
+    "Accident Number": "GAA19CA045",
+    "Date & Time": "October 27, 2018, 12:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N4500W",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot instruction tailwheelequipped airplane 26inch bush wheel reported approach saw indication headwind added airplane touched main wheel noticed windsock shifted indicating direct left crosswind tailwheel touched left wing lifted slowly added power abort landing however airplane veered left right main landing gear collapsed right wing struck ground airplane exited left side runway airplane sustained substantial damage right wing elevator airport automated surface observing system reported time accident wind 280 25 knot gusting 30 knot pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control airplane landing gusting wind condition",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97538.txt",
+    "Location": "Sebring, Florida",
+    "Accident Number": "GAA18CA364",
+    "Date & Time": "June 17, 2018, 19:00 Local",
+    "Aircraft": "Cessna 182T",
+    "Registration": "N6284X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing crosswind condition airplane veered right exited runway nosed airplane came rest upside sandy grass adjacent runway airplane sustained substantial damage left wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system airport reported 6 minute accident wind 080\u00ba 6 knot pilot landed airplane runway 1 reported wind speed 21 knot probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing crosswind",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

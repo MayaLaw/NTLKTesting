@@ -1,0 +1,29 @@
+{
+    "Filename": "99269.txt",
+    "Location": "Chino, California",
+    "Accident Number": "GAA19CA207",
+    "Date & Time": "April 13, 2019, 13:55 Local",
+    "Aircraft": "North American SNJ",
+    "Registration": "N3375G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported sturns taxiing see airplane runup area positioning airplane runup area airplane left wing collided propeller stopped airplane pilot stopped airplane reported completing runup waiting clearance depart saw warbird entering runup area airplane continued straight left wing collided airplane propeller tailwheelequipped airplane sustained substantial damage left wing pilot reported preimpact mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance stopped airplane taxiing",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "runup",
+                4
+            ]
+        ]
+    }
+}

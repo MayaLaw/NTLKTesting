@@ -1,0 +1,37 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Fairfield, Utah
+Accident Number:
+WPR18TA212
+Date & Time:
+August 5, 2018, 08:00 Local 
+Registration:
+N951RA
+Aircraft:
+ICP Savannah
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was on a personal cross-country flight and had maneuvered the airplane onto the base 
+leg of the traffic pattern for his destination airport. He stated that the airplane likely encountered a 
+downdraft and experienced a loss of lift. Despite his attempts to arrest the descent by adding full throttle, 
+the airplane impacted terrain short of the runway. The pilot thought that the accident may have been 
+prevented if he had configured the airplane to land in a steeper and higher approach, combined with 
+more airspeed. He reported that there were no mechanical malfunctions or failures with the airplane that 
+would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airplane control after encountering a downdraft on approach to the 
+runway.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Environmental issues
+Downdraft - Effect on operation

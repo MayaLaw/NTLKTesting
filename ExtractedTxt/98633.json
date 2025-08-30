@@ -1,0 +1,29 @@
+{
+    "Filename": "98633.txt",
+    "Location": "Red Creek, Arizona",
+    "Accident Number": "GAA19CA057",
+    "Date & Time": "November 3, 2018, 16:45 Local",
+    "Aircraft": "Aviat A1",
+    "Registration": "N93WY",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing dirt airstrip calm wind airplane decelerated tail would lower thought might due slightly hard braking released brake airplane nosed airplane sustained substantial damage left wing 2 year accident arizona pilot association recreational aviation foundation issued pamphlet accident airport stated airport multiple hazard including varying surface condition hard soft area also stated use risk injury loss aircraft possible probable cause finding national transportation safety board determines probable cause accident pilot improper brake application landing soft dirt airstrip resulted nose",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "accident",
+                3
+            ]
+        ]
+    }
+}

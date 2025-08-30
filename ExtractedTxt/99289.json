@@ -1,0 +1,29 @@
+{
+    "Filename": "99289.txt",
+    "Location": "Kingsland, Texas",
+    "Accident Number": "CEN19FA122",
+    "Date & Time": "April 21, 2019, 14:43 Local",
+    "Aircraft": "Rans S7",
+    "Registration": "N25TX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot passenger recently completed maintenance work engine address engine sputtering occurred steep climb witness familiar troubleshooting stated day accident pilot plan complete steep climb determine engine sputtered maneuver wind south 15 knot gusting 25 knot airplane departed south wind witness reported observing considered normal takeoff followed steep 15 20 second climb top climb nose left wing suddenly dropped airplane entered leftturning spiral completing 3 4 slow rotation impacting ground witness stated engine sounded normal whole time notice anything wrong airplane impacted ground nose leftwinglow attitude came rest upright postimpact fire consumed majority airplane postaccident examination airplane reveal anomaly would precluded normal operation however examination limited due extent fire damage accident circumstance consistent pilot executing steep climb troubleshoot engine issue steep climb gusting wind condition airplane critical angle attack exceeded resulted aerodynamic stall spin terrain probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "climb",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

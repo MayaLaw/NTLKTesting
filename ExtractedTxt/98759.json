@@ -1,0 +1,29 @@
+{
+    "Filename": "98759.txt",
+    "Location": "Moscow, Pennsylvania",
+    "Accident Number": "ERA19LA063",
+    "Date & Time": "December 4, 2018, 10:45 Local",
+    "Aircraft": "Lancair LC41",
+    "Registration": "N618G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported 20 minute departure airplane began shudder adjusted engine power airplane continued shake engine lost total power pilot performed forced landing road airplane sustained substantial damage visual examination revealed multiple hole top engine crankcase disassembly engine revealed no 2 3 4 5 connecting rod fractured separated connecting rod journal connecting rod connecting rod bearing crankshaft connecting rod journal displayed thermal discoloration consistent oil starvation examination engine component enginerelated system revealed evidence preimpact oil leak however left turbocharger missing turbine wheel shaft fractured outboard turbine piston ring test run exemplar engine without left turbine wheel revealed significant oil loss operation left turbocharger overhauled 158 flight hour accident wheel assembly reused rather replaced specified manufacturer likely separation left turbine wheel resulted oil escaping engine resulted oil starvation catastrophic engine failure probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "connecting",
+                5
+            ],
+            [
+                "rod",
+                5
+            ]
+        ]
+    }
+}

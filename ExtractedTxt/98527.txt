@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Carson City, Nevada
+Accident Number:
+GAA19CA031
+Date & Time:
+October 21, 2018, 13:00 Local 
+Registration:
+N401WY
+Aircraft:
+LEROUX JOHN F CCX-1865
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that he was in the second airplane of a formation 
+flight. During the landing roll, the airplane veered left, ground looped, and impacted terrain. 
+The airplane sustained substantial damage to the right wing and aileron.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing, which resulted in a runway excursion 
+and ground loop. 
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

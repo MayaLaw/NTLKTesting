@@ -1,0 +1,29 @@
+{
+    "Filename": "98520.txt",
+    "Location": "Brownstown, Indiana",
+    "Accident Number": "ERA19LA022",
+    "Date & Time": "October 20, 2018, 00:30 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N5581Z",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot conducting night solo crosscountry flight en route landing taxi light cockpit panel light bright cell phone tablet charging electrical system airplane lost electrical power followed loss engine power subsequently student cycled electrical system master switch engine magneto switch twice electrical engine power restored student navigated dark area airplane flightpath hoping open field airplane subsequently impacted heavily wooded area came rest upright student injured airplane destroyed airplane electrical system equipped master switch turned routed power either main spare fuse postaccident examination airplane revealed master switch positioned spare fuse position electrical system would turn spare fuse blown main fuse intact electrical system activated toggling master switch main fuse position electrical component powered normally based student account flight blown spare fuse possible flight electrical load drew excessive current selected spare fuse resulted blowing interrupting electrical power student reported inability restore electrical power selecting main fuse master switch could duplicated postaccident testing postaccident examination engine reveal evidence preimpact mechanical malfunction failure would precluded normal operation reason loss engine power could determined investigation determined student received flight endorsement solo flight thus conducting flight however endorsement would better prepared student deal reported engine issue",
+        "Top Words": [
+            [
+                "electrical",
+                11
+            ],
+            [
+                "student",
+                8
+            ],
+            [
+                "fuse",
+                8
+            ]
+        ]
+    }
+}

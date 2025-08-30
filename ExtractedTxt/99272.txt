@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Morganza, Louisiana
+Accident Number:
+WPR19LA112
+Date & Time:
+April 16, 2019, 07:50 Local 
+Registration:
+N599LA
+Aircraft:
+Air Tractor AT502
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+While performing an aerial application flight, the pilot heard a loud noise, followed by the nose 
+of the airplane pitching up. The pilot applied full forward pressure on the flight control stick 
+with no response. He then reduced the power to arrest the climb. A company employee who 
+witnessed the accident reported that the airplane pitched up dramatically, hesitated, and then 
+pitched almost straight nose-down before it impacted the ground.
+A postaccident examination of the airplane revealed the aluminum elevator pushrod was 
+disconnected from the forward idler and that the attachment bolt was missing. The missing 
+attachment bolt was later found undamaged in the wreckage and no additional anomalies were 
+noted with the airplane or engine. It is likely the noise the pilot heard was the attachment bolt 
+separating from elevator pushrod. After the separation, the pilot would have had little to no 
+elevator control, which is consistent with his description of the accident sequence.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of aircraft control due to the separation of the elevator pushrod attachment bolt.

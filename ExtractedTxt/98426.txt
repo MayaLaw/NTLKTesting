@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Delta Junction, Alaska
+Accident Number:
+ANC18LA080
+Date & Time:
+September 30, 2018, 13:30 Local 
+Registration:
+N5907Y
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, while maneuvering the airplane in mountainous terrain, he reduced engine power 
+and initiated a descent; the engine then began to cough and run roughly. He applied full throttle, and the 
+engine subsequently lost total power. In an attempt to restore power, he applied carburetor heat and 
+switched fuel tanks while initiating an emergency descent. The engine restarted; however, it continued 
+to run roughly and would not develop full power. He continued the emergency descent and landed the 
+airplane on a mountain ridge. Upon touchdown, the left main landing gear separated from the fuselage 
+and the left wing struck the ground, which resulted in substantial damage to the left wing. 
+A postaccident examination of the engine, which included an engine test run, revealed no evidence of 
+any preimpact mechanical malfunctions or failures that would have precluded normal operation.
+According to a carburetor icing probability chart, an airplane operating in the ambient conditions at the 
+accident site could expect carburetor icing while at cruise power and at glide power. It is likely that, 
+when the pilot reduced engine power for the descent, carburetor ice formed and resulted in the loss of 
+engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power due to carburetor icing, which resulted from the pilot's failure to use 
+carburetor heat while operating at low power settings in conditions conducive to the formation of 
+carburetor ice.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98299.txt",
+    "Location": "Warthen, Georgia",
+    "Accident Number": "ERA18TA250",
+    "Date & Time": "September 14, 2018, 10:20 Local",
+    "Aircraft": "American Aviation AA1",
+    "Registration": "N9218L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "commercial pilot reported day accident filled tank newly purchased airplane 125 gallon fuel first flight 20 minute flying noticed running fuel pilot thought fuel burn high decided land nearest airport added 24 gallon fuel departure 30 minute flying noticed airplane running fuel planned land nearest airport however 15 mile away airport engine lost total power pilot switched fuel tank turned electric boost pump engine restarted minute later engine lost total power pilot noticed fuel tank fuel forced landing field airframe substantially damaged postaccident examination engine revealed carburetor float bowl plug missing allowed fuel leak carburetor thus airplane fuel consumption flight would increased substantially likely resulted exhaustion airplane available fuel supply greaterthannormal rate although pilot reported airplane recently inspected purchased maintenance record available review scope work done inspection carburetor could determined pilot decision depart accident flight leg noting excessive fuel consumption previous leg contributed accident probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Scottsdale, Arizona
+Accident Number:
+GAA19CA225
+Date & Time:
+April 20, 2019, 09:00 Local 
+Registration:
+N6023V
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he landed the airplane right of the runway centerline and that it then continued to 
+drift right. He added right rudder, and the airplane continued to the right. He said that he "over-corrected 
+back." The airplane subsequently exited the runway to the right and impacted a runway sign. The pilot 
+taxied to parking without further incident.
+The airplane sustained substantial damage to the right elevator.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport's automated weather observation station reported that, about 7 minutes before the accident, 
+the wind was from 150° at 6 knots. The pilot landed the airplane on runway 03.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper rudder inputs and failure to maintain directional control during landing with a 
+crosswind, which resulted in a runway excursion and impact with a runway sign.

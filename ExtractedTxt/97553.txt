@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Diamondhead, Mississippi
+Accident Number:
+ERA18FA174
+Date & Time:
+June 22, 2018, 06:59 Local 
+Registration:
+N7239Q
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot obtained his first solo endorsement 10 days before the accident after he had accrued 
+about 165 hours of flight experience. On the day of the accident, he was performing solo traffic pattern 
+work, which included full-stop landings and then taxiing back for each subsequent takeoff. However, 
+interpolation of radar data and the timing of the call to report the accident indicated that the pilot had 
+performed a touch-and-go landing before the accident takeoff and flight.
+A witness described the airplane at a low altitude and airspeed as it crossed, at treetop height, an 
+interstate highway immediately beyond the departure end of the runway. The airplane then disappeared 
+below the trees.
+Examination of the wreckage site and the airplane wreckage revealed evidence consistent with engine 
+power at impact and no preimpact mechanical anomaly. Measurement of the exposed threads of the flap 
+actuator corresponded with a full-flap, 40° extension setting.
+According to the manufacturer's owner's manual, "flap settings of 30° to 40° are not recommended at 
+any time for take-off." Thus, because the pilot took off with 40° of flaps, the airplane was unable to 
+attain the normal climb speed and entered a stall/mush from which the pilot could not recover because of 
+the low altitude.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to retract the flaps following landing and the stall/mush that resulted 
+during the subsequent full-flap takeoff and initial climb.

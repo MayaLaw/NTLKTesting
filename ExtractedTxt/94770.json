@@ -1,0 +1,29 @@
+{
+    "Filename": "94770.txt",
+    "Location": "Phoenix, Arizona",
+    "Accident Number": "DCA17CA072",
+    "Date & Time": "February 11, 2017, 19:50 Local",
+    "Aircraft": "Boeing 737 76N",
+    "Registration": "N7822A",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Ground handling event",
+    "Injuries": "1 Serious, 143 None",
+    "Analysis": {
+        "Text": "february 11 2017 1950 mountain standard time southwest airline flight 4152 boeing 737700 n7822a catering agent fall airplane alongside provisioning airplane board captain first officer three flight attendant several passenger regularly scheduled passenger flight operating provision 14 code federal regulation part 121 phoenix sky harbor international airport phx phoenix arizona sacramento international airport smf sacramento california according southwest airline passenger boarding airplane gate catering agent returned airplane provide box peanut agent stopped provisioning truck short airplane creating gap truck airplane entering airplane deliver peanut agent lost situational awareness stepped backwards falling gap suffered fractured rib probable cause finding national transportation safety board determines probable cause accident catering agent lack situational awareness exiting airplane resulted serious injury",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "agent",
+                5
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

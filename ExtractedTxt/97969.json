@@ -1,0 +1,29 @@
+{
+    "Filename": "97969.txt",
+    "Location": "Evanston, Wyoming",
+    "Accident Number": "GAA18CA462",
+    "Date & Time": "July 29, 2018, 14:45 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N7893P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot retractable landing gearequipped airplane reported crosscountry flight autopilot failed struggled use sectional chart added heat wind made flight uncomfortable smoke wildland fire decreased visibility 5 statute mile decided land completed gumps gas proper tank selected undercarriage gear mixture full mix landing propeller high rpm setting checklist decided extend landing gear better control upon arrival airport decided leave landing gear retracted searched windsock airport could find subsequently attempted contact airport unicom frequency later determined used incorrect frequency decided land runway 5 later identified incorrect runway given wind direction forgot extend landing gear landing airplane sustained substantial damage longerons bulkhead pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "landing",
+                6
+            ],
+            [
+                "decided",
+                4
+            ],
+            [
+                "gear",
+                4
+            ]
+        ]
+    }
+}

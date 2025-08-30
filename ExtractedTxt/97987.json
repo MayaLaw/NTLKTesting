@@ -1,0 +1,29 @@
+{
+    "Filename": "97987.txt",
+    "Location": "Foley, Alabama",
+    "Accident Number": "ERA18FA208",
+    "Date & Time": "August 4, 2018, 10:00 Local",
+    "Aircraft": "Champion 8GCBC",
+    "Registration": "N424A",
+    "Flight Conducted Under": "Part 91: General aviation - Banner tow",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot conducting bannertow flight pilotrated passenger witness ground crewmember stated takeoff approach pickup banner appeared normal engine sounded strong according ground crewmember pilot successfully hooked banner airplane tow cable initiated steep climbout banner tow trailing edge banner come ground airplane reached altitude 300 ft ground level point right wing dropped pilot attempted maintain directional control releasing banner applying left rudder however airplane entered right descending spin ground postaccident examination revealed malfunction would precluded normal operation airplane engine likely banner pickup initial climb airplane high power setting high pitch angle low airspeed airplane exceeded critical angle attack entered aerodynamic stall spin recovery possible due airplane altitude time even though weight balance within limit accident flight possible presence back seat passenger reduced airplane performance pilot account effect back seat passenger performance airplane pickup maneuver probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack resulted subsequent aerodynamic stall spin altitude low recovery",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "banner",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

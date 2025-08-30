@@ -1,0 +1,45 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Shreveport, Louisiana
+Accident Number:
+CEN19FA088
+Date & Time:
+February 28, 2019, 10:40 Local 
+Registration:
+N428CD
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The instrument-rated private pilot and passenger departed into instrument meteorological conditions 
+with a 600-ft cloud ceiling in an airplane that was about 550 lbs over gross weight. Air traffic control 
+data showed the airplane in a climbing left turn that continued beyond the assigned heading. After 
+reaching 1,400 ft msl, the airplane continued turning left and its altitude and speed began to vary. The 
+airplane continued in a left spiral, completing more than two full circles, then decelerated in a right turn 
+and rapidly descended until impact with terrain. 
+Examination of the flight control system revealed no evidence of mechanical malfunctions and 
+downloaded engine data indicated normal engine operation. Downloaded data from the autopilot system 
+revealed three in-flight error codes. The first error code, which likely occurred about 1 minute after 
+takeoff, would have resulted in the autopilot, if it was engaged at the time, disengaging. The subsequent 
+error codes likely occurred during the erratic flight profile, with the autopilot disengaged. 
+Before the accident flight, the pilot had informed a mechanic, who is also a pilot, of intermittent issues 
+with the autopilot system and that these issues were unresolved. The mechanic had flown with the 
+accident pilot previously and assessed his instrument flying skills as weak. The flight instructor who 
+provided initial flight training for the turbine engine transition stated the pilot's instrument flying 
+proficiency was poor when he was hand flying the airplane. 
+Toxicology testing revealed that the pilot had used marijuana, and his girlfriend stated the pilot would 
+take a marijuana gummy before bedtime to sleep more soundly. However, given that no psychoactive 
+compounds were found in blood specimens, it is unlikely that the pilot was impaired at the time of the 
+accident.
+The instrument conditions at the time of the accident, the airplane's erratic flightpath, and the pilot's 
+reported lack of instrument proficiency when flying by hand support the likelihood that the pilot 
+experienced spatial disorientation sometime after takeoff. In addition, given the reports of the 
+intermittently malfunctioning autopilot that had not been fixed, it is likely the pilot experienced an 

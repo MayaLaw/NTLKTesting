@@ -1,0 +1,29 @@
+{
+    "Filename": "97801.txt",
+    "Location": "Lakeview, Arkansas",
+    "Accident Number": "CEN18LA274",
+    "Date & Time": "July 11, 2018, 20:30 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N50183",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "student pilot reported takeoff grass airstrip left wing impacted tree branch overcorrected impact stalled airplane airplane impacted grass clearing came rest inverted near tree resulted substantial damage fuselage wing empennage although blood alcohol level tested accident student pilot stated drank alcohol afternoon flight addition admitted taking baclofen bupropion potentially impairing medication carry specific warning increased impairing effect used combination alcohol likely pilot impaired use combination alcohol baclofen bupropion effect likely increased willingness fly impaired prevented safely taking probable cause finding national transportation safety board determines probable cause accident student pilot impairment alcohol multiple medication led failure maintain obstacle clearance takeoff subsequent exceedance airplane critical angle attack resulted aerodynamic stall impact terrain",
+        "Top Words": [
+            [
+                "alcohol",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

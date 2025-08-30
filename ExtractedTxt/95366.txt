@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Homer, Louisiana
+Accident Number:
+CEN17LA228
+Date & Time:
+June 9, 2017, 08:30 Local 
+Registration:
+N335JT
+Aircraft:
+Thompson Angel Hawk II
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, during the accident flight, he planned to take off and circle the 
+experimental, amateur-built airplane above the runway to check engine operation. Just after takeoff, the 
+engine began sputtering. He made a left 180° turn to return to the runway and during the turn, the engine 
+experienced a total loss of power. He stated that the airplane stalled when he was in the turn and he did 
+not have enough time to recover before impacting the ground. The airplane had accumulated about 47 
+hours of run time and was in the initial flight test stage when the accident occurred.
+The pilot reported that he had been having trouble with increased cylinder head temperatures on the 
+converted automotive engine. The engine had experienced a total loss of power during a previous flight, 
+but the pilot was able to land the airplane without incident. Following that event, he replaced some 
+ignition system components and adjusted the valves. He was then able to start the engine and reported 
+that it "ran fine" during subsequent test runs.
+Postaccident examination of the airplane revealed that the fuel mixture was not adjustable in the cockpit. 
+Examination of the engine revealed that there was melted plastic material inside the distributor rotor and 
+the distributor drive shaft. The condition of the spark plugs was consistent with an overly lean fuel 
+mixture and/or high temperature operation. It is likely that the melted distributor rotor was the result of 
+the engine's high operating temperatures; the degradation of the distributor and its drive shaft would 
+have resulted in a shift in ignition timing and a subsequent loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "96914.txt",
+    "Location": "Arctic Ocean, Other Foreign",
+    "Accident Number": "ANC18LA027",
+    "Date & Time": "March 21, 2018,",
+    "Aircraft": "DEHAVILLAND DHC 6 TWIN OTTER",
+    "Registration": "N716JP",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Serious, 5 None",
+    "Analysis": {
+        "Text": "captain first officer conducting flight provide ongoing logistical support remote research camp located frozen water captain reported departing arriving flight used airstrip built ice lined snow berm side added takeoff roll first officer saw pedestrian standing near left side departure end airstrip takeoff roll continued airplane became airborne captain lowered nose remain within ground effect gain airspeed initiating climb captain added airspeed increased started climb airplane initiated left turn pilot reported turn heard loud thump immediately followed aileron control anomaly captain initiated left turn back toward airstrip subsequently made emergency landing landing pilot saw pedestrian lying near snow berm left side airstrip captain reported remember prearranged pedestrian stand near departure end airstrip departure pedestrian reported two pilot boarded airplane told captain would position alongside airstrip could photograph airplane departure airplane backtaxied takeoff pedestrian positioned clear airstrip behind 3 4fttall snow berm said airplane takeoff progressed climb quickly previous departure last thing remembered collision seeing left wing getting lower ground airplane began left turn flew toward continuing accelerate security video camera recorded accident sequence recording supported pedestrian account sequence event although captain reported climbed airplane initiating left turn review video revealed flight crew operated airplane low altitude along flightpath placed dangerous proximity pedestrian inconsistent federal regulation left margin avoid collision",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "captain",
+                8
+            ],
+            [
+                "left",
+                8
+            ]
+        ]
+    }
+}

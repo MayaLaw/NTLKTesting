@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Grass Valley, California
+Accident Number:
+WPR19LA003
+Date & Time:
+October 8, 2018, 11:00 Local 
+Registration:
+N2250S
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The accident flight was the student pilot’s first solo cross-country flight; the intended route of 
+flight included stops at five airports along the route. Prior to departure, the pilot confirmed the 
+left fuel tank was full, and the right fuel tank contained about 17 gallons. The airplane was not 
+refueled during the cross-country flight. The pilot stated she flew with the left fuel tank selected 
+until the final leg of the trip. She report that, after departure from the last airport, she switched 
+to the right fuel tank. When the airplane was about 5 miles from Grass Valley Airport (GOO), at 
+an altitude of about 5,000 ft above ground level (agl), the engine started to sputter. The pilot 
+attempted, unsuccessfully, to restart the engine and she contacted the air traffic control tower 
+at GOO to report an engine failure. She was cleared to land; however, the airplane was at an 
+altitude of 3,200 feet agl and continuing to lose altitude. When she realized the airplane would 
+not make it to the airport, she performed a forced landing to an open field. During the landing, 
+the nose landing gear collapsed, and the right wing was damaged. 
+After the accident, 17 gallons of fuel were removed from the right-wing fuel tank and the left-
+wing fuel tank was empty. Because the amount of fuel in the right fuel tank after the accident 
+was the same as before takeoff and the pilot stated she flew most of the flight with the left fuel 
+tank selected, it is likely that, despite her report of switching to the right fuel tank, the left tank 
+remained selected, and its fuel supply was exhausted. Other than the absence of fuel, no 
+anomalies were noted with the engine that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

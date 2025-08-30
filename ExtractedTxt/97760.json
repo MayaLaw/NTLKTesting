@@ -1,0 +1,29 @@
+{
+    "Filename": "97760.txt",
+    "Location": "Lincoln, Illinois",
+    "Accident Number": "GAA18CA421",
+    "Date & Time": "July 11, 2018, 14:37 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N2394G",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported departed 60 gallon fuel 5 hour aerial observation flight airplane responding throttle input decided head toward nearby airport land descended 2000 ft engine experienced total power loss realized going able glide destination airport turned toward field 50 ft ground airplane started gaining power climbed 100 ft engine experienced another power loss turned 180 toward interstate engine surged second time losing power forced landing interstate airplane struck car came rest grass adjacent road video provided federal aviation administration showed fuel drained left fuel tank less 12 cup fuel drained right fuel tank airplane sustained substantial damage left horizontal stabilizer probable cause finding national transportation safety board determines probable cause accident pilot improper preflight planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                6
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

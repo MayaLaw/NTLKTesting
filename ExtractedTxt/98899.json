@@ -1,0 +1,29 @@
+{
+    "Filename": "98899.txt",
+    "Location": "Caldwell, New Jersey",
+    "Accident Number": "GAA19CA106",
+    "Date & Time": "December 30, 2018, 16:20 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N2651R",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "chief pilot flight school reported student pilot performed two landing flight instructor instructor exited airplane student performed solo flight around traffic pattern fullstop landing student added full power another takeoff airplane veered left student added rudder input correct airplane exited runway struck berm nose landing gear collapsed airplane sustained substantial damage fuselage chief pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control takeoff roll",
+        "Top Words": [
+            [
+                "student",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

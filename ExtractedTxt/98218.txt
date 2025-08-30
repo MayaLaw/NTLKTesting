@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+St Ignace, Michigan
+Accident Number:
+CEN18FA368
+Date & Time:
+August 31, 2018, 21:45 Local 
+Registration:
+N500MJ
+Aircraft:
+Piper PA32RT
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The instrument-rated pilot took off in dark night conditions over a lake that bordered the departure end 
+of the runway. The airport manager witnessed the airplane depart and reported that the takeoff sounded 
+normal. Two witnesses who were facing the lake reported that they observed an aircraft take off from 
+the airport, and fly about 100 to 200 ft above the lake surface. It then banked to the right and 
+disappeared from sight. About 10 to 15 seconds later, the witnesses heard what sounded like a crash into 
+the water or an explosion. There were no distress radio calls from the pilot and there was no radar 
+information for the flight. The airport manager and first responders reported that it was a very dark night 
+and that there was no distinguishable horizon.
+Examination of the airframe and engine did not reveal any preimpact anomalies that would have 
+precluded normal operation, and evidence was consistent with a slight right wing down, nose low, high 
+speed impact with the water. A right turn would have been necessary at some point after takeoff to fly 
+towards the destination airport and evidence is consistent that a right turn had been initiated. Although 
+the reason for the impact with the water could not be determined, the overwater departure in dark night 
+conditions would not have provided adequate visual cues to assure a positive rate of climb during the 
+departure and initial turnout on course as a pilot would be vulnerable to illusions if flight instruments 
+were not used to conduct the takeoff and initial climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain sufficient&nbsp;altitude after takeoff in dark night conditions 
+which resulted in a collision with the water.

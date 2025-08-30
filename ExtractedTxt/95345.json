@@ -1,0 +1,29 @@
+{
+    "Filename": "95345.txt",
+    "Location": "Chicago, Illinois",
+    "Accident Number": "ENG17IA028",
+    "Date & Time": "June 10, 2017, 17:50 Local",
+    "Aircraft": "BOMBARDIER INC CL 600 2C10",
+    "Registration": "N715SK",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "64 None",
+    "Analysis": {
+        "Text": "1 engine failure caused combustion outer liner buckling due low cycle thermal fatigue axial crack 25 inch long outer panel connected circumferential crack 12 inch long 10 oclock 1230 position junction two crack outer liner displaced buckled 15 inch inward toward engine centerline liner deformation caused airflow disruption prevented complete combustion fuel combustion chamber decreased engine performance margin response decrease performance engine control system increased fuel flow attempt compensate combination increased fuel flow incomplete combustion fuel injected combustion chamber led delayed ignition unconsumed fuel downstream combustion chamber flame holder delayed ignition resulted thermal damage high pressure turbine hpt hardware first stage hpt blade vane receive high volume cooling airflow remained intact hpt 2nd stage nozzle thermally damaged nozzle vane segment 10 oclock position eventually separated separation hpt 2nd stage nozzle vane segment four stage lpt experienced severe impact damage separated fragment moved gaspath hpt 2nd stage nozzle separation also resulted lpt case burn 10 oclock position allowed hot gas escape contact engine fire detection loop triggered fire warning evidence high energy fragment exited lpt case combustion liner crack normal occurrence high time part engine line maintenance manual lmm includes inspection criterion limit based crack length location skywest received total four ge customer notification report cnrs incident engine related reduced hot day performance margin skywest complied cnr recommendation perform core engine water wash receipt cnr although first water wash effective third april 1 2017 fourth may 6 2017 attempt improve engine performance margin cnrs also included recommendation perform borescope inspection bsi hpc hpt recommendation 3 4 skywest performed hpc bsi june 6 2017",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "combustion",
+                7
+            ],
+            [
+                "hpt",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98380.txt",
+    "Location": "Somerset, Pennsylvania",
+    "Accident Number": "ERA18TA266",
+    "Date & Time": "September 30, 2018, 14:20 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N4001F",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "airplane first flight annual inspection commercial pilot practiced touchandgo landing flew airplane 15 hour returning airport final approach land reduced engine power pilot stated airplane touched runway traveling fast stop end runway fast enough abort landing subsequently airplane continued end runway embankment came rest inverted 150 ft departure end runway postaccident examination brake revealed anomaly pilot reported mechanical malfunction failure airplane would precluded normal operation pilot stated land farther runway fullstop landing hangar far end runway thus likely pilot landed airplane far runway traveling fast prevent runway overrun probable cause finding national transportation safety board determines probable cause accident pilot decision land insufficient runway remaining stop resulted runway overrun",
+        "Top Words": [
+            [
+                "runway",
+                10
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

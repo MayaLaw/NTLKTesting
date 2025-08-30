@@ -1,0 +1,29 @@
+{
+    "Filename": "97863.txt",
+    "Location": "Tulsa, Oklahoma",
+    "Accident Number": "GAA18CA435",
+    "Date & Time": "July 23, 2018, 15:30 Local",
+    "Aircraft": "Cessna 560",
+    "Registration": "N866VP",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported approach observed bird flying nearby heard thump felt impact head pilot landed airplane without incident postaccident examination revealed bird impacted airplane vertical stabilizer sustained substantial damage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident airplane collision bird approach finding environmental issue animalsbirds effect equipment",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "bird",
+                3
+            ]
+        ]
+    }
+}

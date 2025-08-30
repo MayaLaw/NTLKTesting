@@ -1,0 +1,29 @@
+{
+    "Filename": "97296.txt",
+    "Location": "Vashon, Washington",
+    "Accident Number": "GAA18CA290",
+    "Date & Time": "May 19, 2018, 20:00 Local",
+    "Aircraft": "Piper PA 14",
+    "Registration": "N1423P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane right foot inadvertently applied pressure rudder pedal takeoff roll airplane exited left side runway left wing struck tree airplane ground looped left right wingtip struck ground airplane sustained substantial damage right wing elevator rudder pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control airplane takeoff roll due right foot inadvertently applying pressure rudder pedal",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

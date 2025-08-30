@@ -1,0 +1,29 @@
+{
+    "Filename": "93959.txt",
+    "Location": "Atlanta, Texas",
+    "Accident Number": "GAA16CA467",
+    "Date & Time": "September 5, 2016, 13:00 Local",
+    "Aircraft": "Boeing A75N1(PT17)",
+    "Registration": "N52236",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheel equipped biplane reported landing grass airstrip landed long unable stop landing gear contacted edge intersecting asphalt runway biplane became airborne pilot stated becoming airborne aborted landing airplane impacted top tree descended touched adjacent golf course biplane sustained substantial damage left wing strut pilot reported pre impact mechanical failure malfunction airframe engine would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure attain proper touchdown point grass airstrip airplane subsequent collision tree attempted aborted landing",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "biplane",
+                3
+            ]
+        ]
+    }
+}

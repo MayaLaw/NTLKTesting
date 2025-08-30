@@ -1,0 +1,29 @@
+{
+    "Filename": "99118.txt",
+    "Location": "Riverside, California",
+    "Accident Number": "WPR19FA096",
+    "Date & Time": "March 16, 2019, 11:49 Local",
+    "Aircraft": "Beech 50",
+    "Registration": "N800DC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot multiengine airplane departed personal flight shortly takeoff pilot reported first electrical problem followed control problem reporting loss right engine power despite controller providing vector back departure airport multiple time pilot continued course airplane descended 3400 ft mean sea level msl 1200 ft msl ground speed 85 89 knot radar contact lost airplane impacted backyard residence witness saw airplane flying low entered spiraling noselow descent continued impact examination airframe engine found preimpact mechanical malfunction would precluded normal operation flight control continuity established cockpit flight control surface damage propeller blade engine consistent power development time impact engine control position propeller throttle midrange mixture rich position indicating pilot secure inoperative engine singleengine fight based wreckage examination reason pilot reported electrical control anomaly reported loss right engine power could determined airplane gradual descent flight followed noselow spiral ground impact consistent pilot following singleengine procedure adding power maintain altitude airspeed securing deadengine maintaining minimum safe single engine speed 90 mph 78 knot probable cause finding",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

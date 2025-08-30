@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Flanigan, Nevada
+Accident Number:
+WPR19TA018
+Date & Time:
+November 3, 2018, 10:00 Local 
+Registration:
+N13NZ
+Aircraft:
+Audenried Kitfox S7 SuperSport
+Aircraft Damage:
+Substantial
+Defining Event:
+Abrupt maneuver
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that he took off from a dry lake bed with a second airplane for people on 
+the ground to visually compare the two. After a normal flight, the second airplane landed. The pilot flew 
+past the landing spot, pulled into a nose-high attitude, and made a rapid left turn. He pushed on the left 
+rudder control, and the left wing stalled. The pilot attempted to recover from the stall; however, the 
+airplane was at too low of an altitude to recover, and it impacted the ground in a nose-low attitude. The 
+pilot reported no mechanical failures or malfunctions with the airplane that would have precluded 
+normal operation. It is likely that the pilot failed to maintain airspeed during the sharp turn, which 
+resulted in an aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airspeed during a sharp turn at low altitude, which resulted in an aerodynamic 
+stall.

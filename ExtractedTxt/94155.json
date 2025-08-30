@@ -1,0 +1,29 @@
+{
+    "Filename": "94155.txt",
+    "Location": "Nordman, Idaho",
+    "Accident Number": "GAA16CA524",
+    "Date & Time": "September 9, 2016, 13:00 Local",
+    "Aircraft": "VAN HOOMISSEN GERALD J",
+    "Registration": "N567AK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot amphibious floatequipped airplane reported touchdown north choppy lake water airplane nosed pilot reported passenger egressed cockpit climbed onto float noticed wind 57 mile per hour mph south airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airframe engine would precluded normal operation pilot reported safety recommendation pilot get better read wind direction prior landing probable cause finding national transportation safety board determines probable cause accident floatplane pilot improper landing flare landing choppy water tailwind resulted noseover contributing accident pilot failure determine wind direction landing",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "reported",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

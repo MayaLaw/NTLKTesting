@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bemidgi, Minnesota
+Accident Number:
+GAA18CA293
+Date & Time:
+May 21, 2018, 19:20 Local 
+Registration:
+N5999T
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot reported that, during the landing roll, the airplane encountered a right crosswind gust, 
+and the right wing lifted. He added that "the airplane sidestepped to the left and the left main landing 
+gear wheel assembly separated, and the left-wing tip struck the ground." The left main landing gear strut 
+contacted the runway surface, and the airplane skidded to a stop. 
+The airplane sustained substantial damage to the left main landing gear attachment points.
+The METAR at the accident airport reported that, about the time of the accident, the wind was from 
+180° at 6 knots. The student landed the airplane on runway 13.
+The student reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. Photographs taken by the pilot during a postaccident examination 
+revealed that an extension casting, which was part of the tailwheel conversion kit, failed where the two 
+lower landing gear strut attachment bolts connect to the extension casting.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain lateral control of the airplane during the landing roll, which 
+resulted in a side load and subsequent failure of the left main landing gear extension casting.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97264.txt",
+    "Location": "Cape Carteret, North Carolina",
+    "Accident Number": "GAA18CA281",
+    "Date & Time": "May 14, 2018, 12:30 Local",
+    "Aircraft": "Piper PA 32R",
+    "Registration": "N25WE",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot retractablelanding gearequipped airplane set extended final approach sandy turf runway waited cleared tree thendropped land main landing gear touched first followed nose landing gear main nose landing gear collapsed upon contact runway pilot reported airplane slid 300 ft came stop right side runway airplane sustained substantial damage wing lower fuselage federal aviation administration aviation safety inspector examined airplane accident site reported witness stated pilot landed airplane hard sandy turf surface however pilot stated however pilot state really bring airplane steep tree get runway photograph provided operator showed vertical deformation wing main landing gear mount location probable cause finding national transportation safety board determines probable cause accident pilot steep approach resulted hard landing collapse landing gear touchdown",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "landing",
+                6
+            ]
+        ]
+    }
+}

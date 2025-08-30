@@ -1,0 +1,29 @@
+{
+    "Filename": "98572.txt",
+    "Location": "Paola, Kansas",
+    "Accident Number": "GAA19CA041",
+    "Date & Time": "June 1, 2019, 07:30 Local",
+    "Aircraft": "Vans RV 6",
+    "Registration": "N515CW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported airspeed slow landing began flarethe airplane dropped onto runway hard bounced added full power full right rudder abort landing airplane exited left side runway airplane became airborne landing gear wheel encountered tall grass airplane sufficient airspeed stay airborne airplane descended mud left side runway collided drainage culvert nosed airplane sustained substantial damage left wing vertical stabilizer rudder pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control resulted runway excursion aborted landing subsequent impact vegetation noseover",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

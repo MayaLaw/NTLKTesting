@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+San Francisco, California
+Incident Number:
+OPS17IA014
+Date & Time:
+February 15, 2017, 20:00 Local 
+Registration:
+N214NN (A1); 
+N627VA (A2)
+Aircraft:
+EMBRAER S A ERJ 170-200 LR (A1); 
+Airbus A320 (A2)
+Aircraft Damage:
+None (A1); None (A2)
+Defining Event:
+Air traffic event
+Injuries:
+N/A (A1); N/A (A2)
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled (A1); Part 121: Air carrier - Scheduled (A2)
+Analysis 
+The Boulder sector approach controller was the first controller the pilot of CPZ6081 contacted when 
+entering NCT airspace. The controller informed the pilot that the ATIS was "tango" and to expect a 
+visual approach to runway 28L. 
+Aircraft arriving from the south of SFO were routinely assigned runway 28L on initial contact; however, 
+when noise abatement procedures were in effect, runway 28R was the preferential runway. 
+When the Boulder controller realized that CPZ6081 would arrive at SFO during noise abatement hours, 
+he informed the Woodside controller that he would change CPZ6081 to runway 28R. The Boulder 
+controller subsequently changed CPZ6081's data tag on the radar display from runway 28L to runway 
+28R and electronically handed the airplane off to the Woodside controller. 
+The Boulder controller did not inform the pilot of CPZ6081 about the runway change to 28R and did not 
+inform the Woodside controller that he had not passed that runway change information to the pilot.  
+CPZ6081's data tag indicated runway 28R when the Woodside controller accepted the airplane.  
+When the Woodside controller cleared CPZ6081 for the visual approach to runway 28R, that was the 
+first mention of runway 28R to the pilot. The pilot read back "runway 28R," however, continued to 
+prepare for the runway 28L approach. The flight crew had briefed for a visual approach to runway 28L 
+with a backup ILS to runway 28L and thought they had been cleared for the runway 28L approach. 
+The Woodside controller electronically handed off CPZ6081 to SFO ATCT, and the SFO local 
+controller accepted the handoff; the data tag on the tower radar display indicated runway 28R. 

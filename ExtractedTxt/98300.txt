@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Woburn, Massachusetts
+Accident Number:
+ERA18FA251
+Date & Time:
+September 15, 2018, 11:03 Local 
+Registration:
+N2536T
+Aircraft:
+COLUMBIA AIRCRAFT Mfg LC41
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The instrument-rated pilot and one passenger were approaching the destination airport following an 
+instrument flight rules cross-country flight in instrument meteorological conditions; the reported weather 
+at the destination included ceilings between 400 and 600 ft above ground level and visibility of 2 miles 
+in mist. The controller cleared the airplane for the instrument landing system (ILS) approach; the pilot 
+intercepted the localizer and immediately descended below the minimum altitude he was required to 
+maintain prior to crossing the final approach fix (FAF). The controller issued a low altitude alert as the 
+airplane was crossing the FAF about 700 ft below the minimum altitude. The pilot responded that he 
+was climbing; he did not report any problems or issues with his airplane to the controller. The airplane 
+then drifted right of the localizer course and the controller advised the pilot of such, but there was no 
+response. The airplane subsequently proceeded left of the localizer course, after which the controller 
+issued another low altitude alert and asked the pilot if he was still on the approach. The pilot responded 
+that he was not on the approach and that he was "pulling." During the final minute of the flight, the 
+airplane was observed in rapid, turning climbs and descents until radar contact was lost.
+The airplane impacted terrain about 4.2 miles east-southeast of the airport. Accident site evidence and 
+impact damage to the airplane were indicative of a high-velocity impact. Examination of the wreckage 
+revealed no evidence of any preimpact mechanical anomalies, and analysis of a video doorbell that 
+captured audio of the airplane in flight revealed an engine speed consistent with high power.
+The reduced visibility conditions present at the time of the accident and the high workload associated 
+with the instrument approach were conducive to the onset of pilot spatial disorientation, and the 
+airplane's erratic maneuvering and the high-energy impact are both consistent with the known effects of 
+spatial disorientation. Therefore, it is likely that the pilot became spatially disoriented during the 
+instrument approach, which resulted in a loss of airplane control.
+Probable Cause and Findings

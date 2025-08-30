@@ -1,0 +1,29 @@
+{
+    "Filename": "99351.txt",
+    "Location": "Melbourne, Florida",
+    "Accident Number": "ERA19LA162",
+    "Date & Time": "April 29, 2019, 13:05 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N3031W",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor student pilot practicing simulated engine failure completing emergency checklist student added engine power recover maneuver 500 ft ground engine respond flight instructor took control airplane verified fuel selector position landed atmospheric condition time accident conducive development carburetor icing glide idle power setting instructor reported apply carburetor heat simulated engineout attempted recovery based available information likely loss engine power result accumulation carburetor ice idlepower descent use carburetor heat would likely prevented loss engine power probable cause finding national transportation safety board determines probable cause accident partial loss engine power due carburetor icing flight instructor failure effectively use carburetor heat operating idle engine power setting condition conducive carburetor icing",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "carburetor",
+                7
+            ],
+            [
+                "power",
+                6
+            ]
+        ]
+    }
+}

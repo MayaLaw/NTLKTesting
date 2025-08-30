@@ -1,0 +1,29 @@
+{
+    "Filename": "99258.txt",
+    "Location": "New York, New York",
+    "Accident Number": "ERA19LA150",
+    "Date & Time": "April 13, 2019, 22:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N5296H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "3 Minor",
+    "Analysis": {
+        "Text": "pilot filed instrument flight rule flight plan estimated en route time 35 hour however air traffic control revised route flight added additional 40 50 minute total flight time upon arrival destination airport night instrument meteorological condition pilot attempted three precision instrument approach diverting larger airport performed two additional approach terminated conducted missed approach due weather condition third approach larger airport airplane fuel supply exhausted engine lost power pilot pitched airplane best glide speed 100 ft ground saw streetlight attempted land road airplane impacted building power line came rest suspended power line foot ground postaccident examination revealed fuel tank void fuel examination airframe engine vacuum system found evidence preimpact mechanical malfunction failure would precluded normal operation pilot accrued 80 flight hour simulated instrument flight experience 1 hour flight experience actual instrument meteorological condition flight instructor accident flight first acting pilotincommand instrument meteorological condition weather forecast destination airport surrounding airport issued flight departed projected low instrument flight rule ifr condition estimated time arrival however pilot obtain formal weather briefing accident flight pilot reported aware bad weather takeoff decided complete flight one passenger make international trip following day likely external pressure contributed pilot decision attempt accident flight regardless weather condition",
+        "Top Words": [
+            [
+                "flight",
+                14
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "instrument",
+                7
+            ]
+        ]
+    }
+}

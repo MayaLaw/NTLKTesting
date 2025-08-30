@@ -1,0 +1,29 @@
+{
+    "Filename": "94925.txt",
+    "Location": "Cahokia, Illinois",
+    "Accident Number": "CEN17CA140",
+    "Date & Time": "February 23, 2017,",
+    "Aircraft": "Cessna 172R",
+    "Registration": "N51827",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "N/A",
+    "Analysis": {
+        "Text": "airplane parked operator ramp federal aviation administration inspector routine ramp inspection found airplane substantial damage firewall structure aft firewall airplane maintenance record showed entry stating damage due suspected hard landing operator stated damage must occurred airplane 100hour inspection september 27 oil change performed october 24 2016 operator mechanic stated damage found engine cowl removed oil change review airplane flight log showed 20 different people flown airplane 48 flight time 100hour inspection oil change october 8 2016 student pilot performing touch go airplane bounced two three time flight final landing student pilot stated turned runway onto taxiway noticed airplane steering properly reported air traffic control tower mechanical difficulty required maintenance assistance student pilot flight instructor company lineman responded noticed airplane flat nosewheel tire lineman inflated tire student pilot flight instructor taxied airplane operator maintenance facility flight instructor informed operator mechanic bounced landing flat tire mechanic stated replaced nose tire performed brief exterior walkaround visual inspection airplane noting appeared airworthy returned service hard landing inspection performed bounced landing reported october 8 2016 concern flight reported operator probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "operator",
+                6
+            ]
+        ]
+    }
+}

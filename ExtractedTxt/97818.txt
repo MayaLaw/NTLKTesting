@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Shreveport, Louisiana
+Accident Number:
+CEN18LA281
+Date & Time:
+July 19, 2018, 08:02 Local 
+Registration:
+N7080F
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on a postmaintenance check flight after an annual inspection on the previous day. 
+According to the pilot, the airplane was flown in the local traffic pattern before departing the area. As 
+the airplane climbed through 2,500 ft, it was not climbing more than 300 ft per minute without losing 
+airspeed, and the pilot noticed a decrease in engine rpm. The pilot indicated that the oil pressure and oil 
+temperature were normal, the vacuum gauge indicated "zero," and gyroscopic instruments began to drift 
+and tumble. The pilot proceeded directly for the nearest airport, and when on final approach for the 
+runway, the engine rpm and airspeed decreased. The engine did not respond to throttle inputs, and the 
+pilot landed the airplane on a river levy. The airplane bounced, contacted a road, and came to rest 
+against the airport perimeter fence, which resulted in substantial damage to both wings. Examination of 
+the engine revealed that the output shaft of the vacuum pump was sheared. It could not be determined if 
+the vacuum pump output shaft failed before or during the accident sequence. Additional engine 
+information was not available. The reason for the partial loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power for reasons that could not be determined based on the available 
+evidence.

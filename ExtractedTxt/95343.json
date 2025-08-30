@@ -1,0 +1,29 @@
+{
+    "Filename": "95343.txt",
+    "Location": "Tamiami, Florida",
+    "Accident Number": "ERA17LA202",
+    "Date & Time": "June 10, 2017, 10:50 Local",
+    "Aircraft": "Cessna 172P",
+    "Registration": "N881AV",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "following uneventful preflight inspection airplane student pilot flight instructor taxied began runup check engine flight instructor stated runup noted normal drop engine rpm tested carburetor heat power engine throttle pulled back idle subsequent takeoff takeoff normal 350 ft ground flight instructor heard slight decrease engine power asked student pilot guarding throttle responded power came back 400 ft ground engine lost power flight instructor stated time significant dropped 1900 rpm fluctuating flight instructor took control airplane power dropped 1100 rpm continued fluctuate available runway remaining airplane losing altitude flight instructor landed airplane grass field airport property stated touchdown poor braking capability likely due wet grass airplane struck tree left wing struck airport fence substantially damaged airplane wing postaccident examination airplane revealed adequate supply uncontaminated fuel test run engine performed engine ran without hesitation displayed evidence preimpact failure malfunction would precluded normal operation review carburetor icing probability chart revealed atmospheric condition time accident conducive formation carburetor ice given information likely operating airplane ground prior takeoff period engine would typically operating low power carburetor ice began forming continued engine began losing engine power initial climb probable cause finding",
+        "Top Words": [
+            [
+                "engine",
+                10
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "power",
+                7
+            ]
+        ]
+    }
+}

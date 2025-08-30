@@ -1,0 +1,29 @@
+{
+    "Filename": "96845.txt",
+    "Location": "Big Spring, Texas",
+    "Accident Number": "GAA18CA152",
+    "Date & Time": "March 8, 2018, 20:15 Local",
+    "Aircraft": "Piper PA 32R",
+    "Registration": "N8191B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported although airplane fuel gauge providing intermittent information decided depart night crosscountry flight flight engine lost power pilot declared emergency selected road land landing airplane struck power line wire impacted ground came rest inverted airplane sustained substantial damage wing engine mount rudder horizontal stabilizer examination airplane federal aviation administration aviation safety inspector revealed fuel selector set rightwing tank usable fuel rightwing tank leftwing tank contained usable fuel per title 14 cfr 91205 person may operate powered civil aircraft standard category u airworthiness certificate inoperative fuel gauge probable cause finding national transportation safety board determines probable cause accident pilot failure manage airplane fuel supply resulted fuel starvation contributing accident pilot decision attempt flight inoperative fuel gauge",
+        "Top Words": [
+            [
+                "fuel",
+                8
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

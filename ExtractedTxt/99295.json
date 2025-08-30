@@ -1,0 +1,29 @@
+{
+    "Filename": "99295.txt",
+    "Location": "Cleveland, North Carolina",
+    "Accident Number": "ERA19FA154",
+    "Date & Time": "April 22, 2019, 09:15 Local",
+    "Aircraft": "Wheeler EXPRESS SERIES 2000",
+    "Registration": "N625J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot departed experimental amateurbuilt airplane visual meteorological condition flight another airport avionics upgrade shortly departure witness reported heard airplane engine saw airplane quickly rolled inverted another witness located close accident site reported saw airplane heading straight heard loud engine noise changed pitch airplane fell tree line reappear disposition wreckage consistent airplane impacting terrain significant energy steep vertical angle airplane major component accounted accident site examination airframe engine revealed evidence preaccident mechanical malfunction failure would precluded normal operation airplane manual contained statement warning performing aerobatics airplane specifically warned airplane would rapidly build speed nose attitude based witness statement describe maneuver airplane rolling inverted steep descent toward ground prior accident possible pilot maneuvering airplane losing control impacting ground rapid descent based result postmortem toxicological testing pilot taking sedating antihistamine diphenhydramine counter drug carry warning use may impair mental andor physical ability required performance potentially hazardous task compared antihistamine diphenhydramine cause marked sedation however blood available testing investigation unable determine pilot impairing level potentially impairing medication diphenhydramine body around time accident likely ethanol identified toxicological testing source ingestion",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

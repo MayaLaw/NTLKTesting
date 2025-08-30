@@ -1,0 +1,43 @@
+Page 1 of 18
+Aviation Investigation Final Report
+Location:
+Miami, Florida
+Accident Number:
+ERA18FA194
+Date & Time:
+July 17, 2018, 12:59 Local 
+Registration:
+N16281
+Aircraft:
+Piper PA34
+Aircraft Damage:
+Destroyed
+Defining Event:
+Midair collision
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+A low-wing multiengine airplane departed the airport on an evaluation flight in the local training area 
+with a commercial pilot candidate and designated pilot examiner onboard. The student pilot and a flight 
+instructor onboard a high-wing airplane were returning to the same airport on a cross-country 
+instructional flight. About 6 minutes after the low-wing airplane departed, the airplanes collided nearly 
+straight-on about 1,500 ft mean sea level and 9 miles northwest of the airport. At the time, the low-wing 
+airplane was clear of the Class D airspace and no longer communicating with air traffic control (ATC). 
+One of the pilots in the high-wing airplane had contacted ATC just before the collision. The controller 
+acknowledged the transmission and issued a traffic advisory, but no further communications were 
+received. Neither airplane was equipped with a traffic information system, nor were they required to be.
+An aircraft performance and cockpit visibility study revealed that both airplanes would have remained 
+relatively small, slow-moving objects in each other's windows until about 12 seconds before the 
+collision, and subsequently grown in size suddenly; however, it is likely that none of the pilots saw the 
+other airplane given that radar data does not indicate that either airplane performed evasive maneuvers 
+to avoid the collision No preimpact mechanical malfunctions were identified with either airplane. 
+Toxicology testing identified low levels of delta-9-tetrahydrocannabinol (THC) and metabolites in the 
+high-wing flight instructor's blood and urine. Their presence indicates that the instructor had used 
+marijuana at some time before the accident, but it is unlikely that the psychoactive effects of THC 
+remained or contributed to the accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of both pilots in both airplanes to see and avoid the other airplane as they 
+converged nearly head-on at the same altitude.

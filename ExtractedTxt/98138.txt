@@ -1,0 +1,37 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Pittsfield, Maine
+Accident Number:
+ERA18LA228
+Date & Time:
+August 22, 2018, 23:00 Local 
+Registration:
+N35442
+Aircraft:
+Cessna T206
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Public aircraft
+Analysis 
+The pilot stated that he was returning after a mission flight when he heard a "bang." The engine then lost 
+power. He declared an emergency with air traffic control and received radar vectors to a nearby airport, 
+but the airplane impacted a heavily wooded marsh about 3/4 mile from the runway, which resulted in 
+serious injury to the pilot and substantial damage to the airplane. Postaccident examination revealed that 
+the No. 4 cylinder exhaust hydraulic roller tappet was fractured and had separated. Further examination 
+of the engine revealed that the No. 4 exhaust camshaft lobe and the corresponding roller tappet were 
+severely worn and damaged. Additionally, the No. 4 exhaust roller tappet body ears, which supported 
+the roller shaft and bearing, were also damaged, and one of the ears had fractured in fatigue. 
+Metallurgical examination showed that the engine components conformed to the manufacturer's 
+specifications. It is likely that the severe wear between the roller and camshaft led to nonstandard 
+loading conditions, the fatigue failure of the roller tappet body ear, the subsequent liberation of the roller 
+and its components, and the total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Wear of the No. 4 cylinder exhaust camshaft lobe and roller tappet, which resulted in the failure of the 
+tappet and the subsequent total loss of engine power.

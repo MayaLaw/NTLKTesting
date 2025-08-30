@@ -1,0 +1,29 @@
+{
+    "Filename": "96832.txt",
+    "Location": "Kent, Ohio",
+    "Accident Number": "GAA18CA150",
+    "Date & Time": "March 6, 2018, 19:45 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N103KS",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Wildlife encounter (non-bird)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported night landing saw streak motion peripheral vision followed impact empennage regained directional control taxied clear runway postaccident examination revealed deer struck horizontal stabilizer sustained substantial damage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident deer collided aircraft landing night finding environmental issue dark effect personnel environmental issue animalsbirds ability respondcompensate",
+        "Top Words": [
+            [
+                "pilot",
+                2
+            ],
+            [
+                "reported",
+                2
+            ],
+            [
+                "night",
+                2
+            ]
+        ]
+    }
+}

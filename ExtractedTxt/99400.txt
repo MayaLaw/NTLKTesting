@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Minden, Nevada
+Accident Number:
+WPR19LA139
+Date & Time:
+May 5, 2019, 08:20 Local 
+Registration:
+N1510S
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the approach for landing was uneventful, and he selected the landing gear lever to 
+the extended position. When the airplane touched down, the landing gear collapsed. 
+The landing gear circuit breaker was found in the out position during postaccident examination. The 
+airplane was placed on jacks and a gear swing test was conducted. During the test, the electric motor that 
+drove the landing gear was noted to be "weak"; gear retraction was slow and the gear would only 
+partially extend. No other anomalies in the landing gear system were noted. The cockpit landing gear 
+lever, landing gear indications, and warning audio functioned properly during the test; thus, the pilot 
+should have been alerted to the partial extension of the landing gear.   
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial extension of the landing gear due to the poor condition of the electric landing gear motor, 
+which resulted in a gear collapse upon landing. 
+Findings
+Aircraft
+Gear extension and retract sys - Damaged/degraded

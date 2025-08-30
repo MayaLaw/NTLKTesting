@@ -1,0 +1,29 @@
+{
+    "Filename": "98648.txt",
+    "Location": "Fredericksburg, Texas",
+    "Accident Number": "CEN19FA028",
+    "Date & Time": "November 17, 2018, 15:15 Local",
+    "Aircraft": "North American P51",
+    "Registration": "N4132A",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot participating world war ii educational reenactment program passenger onboard purpose flight perform 4 5 pass front amphitheater reenactment conducted witness amphitheater stated airplane performed low pas entering climb airplane entered turn followed steep descent recover disappearing view behind tree although pilot held authorization fly accident airplane time accident history failed check ride airspace violation enforcement action instance pilot certificate issued reinstated upon reexamination airplane impacted ground nearvertical attitude propeller blade exhibited abrasion leadingedge gouge consistent engine producing power impact observed flight control separation exhibited feature consistent overload preimpact anomaly engine airframe found toxicology testing detected ethanol specimen pilot consistent postmortem production although pilot history coronary artery disease evidence condition contributed accident accident pilot ran charity provided flight warbird airplane veteran typically participated reenactment program veteran seated rear seat airplane director educational program stated preperformance briefing day accident pilot reminded pertinent federal aviation administration requirement including flyby conducted lower 1000 ft ground level given available information pilot likely performed lowlevel maneuver passenger board unable recover maneuver impacting terrain",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

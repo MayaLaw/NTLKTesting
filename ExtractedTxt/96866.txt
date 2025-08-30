@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Pompano Beach, Florida
+Accident Number:
+ERA18LA102
+Date & Time:
+March 1, 2018, 10:51 Local 
+Registration:
+N54476
+Aircraft:
+Piper PA 32-300
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, shortly after takeoff while climbing through 800 ft mean sea level 
+(msl), the engine manifold pressure began to drop, and the engine “sounded irregular.” The 
+pilot initiated a return to the airport and requested to land. The pilot and pilot-rated passenger 
+reported that the engine did not respond when the throttle was reduced during the landing 
+approach. The airplane continued toward the runway at high speed and touched down within 
+the last third of the runway surface, where it bounced several times.
+The pilot first pulled the mixture control to idle/cut off, but when the engine did not respond, 
+richened the mixture, applied full throttle, and initiated an aborted landing. The airplane 
+became airborne, entered a right bank, and began to descend before impacting the ramp near a 
+hangar, resulting in substantial damage. The wind conditions at the time of the accident were 
+consistent with a quartering tailwind of about 8 knots for the landing runway. 
+Examination of the engine revealed no anomalies, and the reasons for the initial loss of 
+manifold pressure could not be determined based on the available information. However, the 
+circumstances of the accident are consistent with the pilot’s exceedance of the airplane’s 
+critical angle of attack after the airplane became airborne, which resulted in an aerodynamic 
+stall, loss of control, and impact with the ramp. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

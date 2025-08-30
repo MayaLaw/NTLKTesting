@@ -1,0 +1,29 @@
+{
+    "Filename": "97849.txt",
+    "Location": "Blum, Texas",
+    "Accident Number": "CEN18LA287",
+    "Date & Time": "July 21, 2018, 11:55 Local",
+    "Aircraft": "Cessna 210C",
+    "Registration": "N3611Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot stated 20 minute crosscountry flight airplane cruise altitude 3500 ft mean sea level msl engine started run roughly pilot suspected vapor lock hot weather condition attempted restore engine power switched fuel selector position right left fuel tank roughness worsened switched selector back right tank selected boost pump low high retarded throttle control effect engine operation engine began lose power rapidly quit propeller windmilled pilot began approach forced landing field flap 30 landing gear retracted said would take 3 minute manually pump landing gear enough time lower landing gear due airplane altitude landing field firm airplane quickly slid stop sustained substantial damage gearup landing airplane emergency checklist forced landing complete engine failure required extension landing gear landing surface smooth hard mention need extend landing gear using manual extension windmilling engine would provide power hydraulic pump operate flap also extend landing gear normally postaccident examination field showed surface hard good condition perform landing however pilot stated could determine 2 mile field decided land density altitude near departure airport 3500 ft msl would required full rich fuel mixture takeoff postaccident examination airplane revealed left right fuel tank half full throttle propeller control full forward position mixture control",
+        "Top Words": [
+            [
+                "landing",
+                12
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "gear",
+                6
+            ]
+        ]
+    }
+}

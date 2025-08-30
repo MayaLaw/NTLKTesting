@@ -1,0 +1,29 @@
+{
+    "Filename": "94688.txt",
+    "Location": "Friendly, Maryland",
+    "Accident Number": "ERA17LA100",
+    "Date & Time": "February 6, 2017, 11:00 Local",
+    "Aircraft": "Piper PA32R",
+    "Registration": "N21HD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "completing preflight inspection airplane private pilot filled fuel tank sampled fuel exhibited anomaly shortly takeoff 1000 ft ground level engine experienced total loss power airplane substantially damaged subsequent forced landing postaccident examination engine fuel system revealed evidence mechanical malfunction failure would precluded normal operation although timing magneto found discrepancy could result impact force since engine ran smoothly loss power probable cause finding national transportation safety board determines probable cause accident total loss engine power initial climb reason could determined examination wreckage revealed mechanical malfunction failure would precluded normal operation finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "engine",
+                4
+            ],
+            [
+                "fuel",
+                3
+            ],
+            [
+                "loss",
+                3
+            ]
+        ]
+    }
+}

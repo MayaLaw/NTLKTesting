@@ -1,0 +1,45 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Festus, Missouri
+Accident Number:
+CEN18FA384
+Date & Time:
+September 20, 2018, 22:30 Local 
+Registration:
+N7152S
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and his son were conducting a cross-country flight from New York to Missouri. 
+Before the final fuel stop, they communicated to the pilot's fiancée via text message that the airplane was 
+experiencing a "small electrical problem." The pilot refueled the airplane about 275 miles from the 
+destination airport and continued on the final leg of the flight into dark night conditions. 
+The passenger subsequently messaged the pilot's fiancée and asked her to stand at the end of the runway 
+with a flashlight to help direct the airplane toward the runway for landing. He stated that they would 
+attempt to use a handheld radio onboard to activate the runway lights but were unsure if the radio would 
+have sufficient battery. The passenger also indicated that they had "picked up a head wind" during the 
+flight.
+The pilot's fiancée reported that the airplane attempted to land, but she was unsure if it touched down on 
+the runway due to the night conditions and the fact that the airplane was "blacked out" and did not have 
+any exterior lights on. The last text message from the passenger stated, "keep light on." The airplane 
+impacted terrain about 1/4 mile from the departure end of the runway in a nose-down attitude consistent 
+with an aerodynamic stall. The two intact fuel tanks contained no usable fuel, and the propeller blades 
+lacked chordwise scratches or torsional deformation, consistent with a loss of engine power. No 
+preimpact mechanical malfunctions or failures with the airframe and engine were noted during the 
+examination, with the exception of the voltage regulator, which was found to be inoperable. 
+Manufacturer guidance stated that, following an electrical system failure, the pilot should land the 
+airplane as soon as practical; however, the pilot chose to both initiate and continue the flight into dark 
+night conditions with a known electrical problem to an airport that required him to activate the runway 
+lights. Though the extent of the pilot's preflight and inflight fuel planning could not be determined, it is 
+possible that the airplane consumed more fuel than planned, as the passenger indicated that the airplane 
+had encountered a headwind inflight, and it is likely that the absence of a fuel quantity indication 
+contributed to the fuel exhaustion. 

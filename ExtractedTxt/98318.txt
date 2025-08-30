@@ -1,0 +1,33 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Upland, California
+Accident Number:
+WPR18LA268
+Date & Time:
+September 17, 2018, 13:35 Local 
+Registration:
+N7472P
+Aircraft:
+Piper PA24
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was on final approach to the destination airport at the conclusion of a cross-country 
+flight when the engine lost total power. Unable to restore engine power, the pilot performed a 
+forced landing to a field short of the runway, during which the airplane impacted large rocks, 
+resulting in substantial damage. 
+Examination of the airplane revealed about 25 total gallons of fuel onboard. Examination of the 
+engine revealed no mechanical anomalies that would have precluded normal operation, except 
+for the aft boost pump, which contained a mixture of fuel and water. Given the lack of other 
+anomalies and the presence of fuel onboard, it is likely that the engine ingested the fuel/water 
+mixture, which resulted in the loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Loss of engine power due to fuel contamination. 

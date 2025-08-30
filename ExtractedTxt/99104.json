@@ -1,0 +1,29 @@
+{
+    "Filename": "99104.txt",
+    "Location": "Land O' Lakes, Wisconsin",
+    "Accident Number": "GAA19CA166",
+    "Date & Time": "March 9, 2019, 12:30 Local",
+    "Aircraft": "Cessna 177RG",
+    "Registration": "N52047",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported previous flight airplane filled fuel flown 38 hour added attempted refuel airplane accident flight self service fuel station departure airport failed dispense fuel stated visually checked tank calculated would enough fuel make flight added departing cruise flight 1800 ft ground level engine stopped set best glide speed toward nearby airport realizing airplane would reach airport executed 180\u00ba turn landed airplane snowcovered frozen lake landing gear retracted airplane sustained substantial damage left wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper fuel planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "fuel",
+                6
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

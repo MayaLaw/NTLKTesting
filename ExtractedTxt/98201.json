@@ -1,0 +1,29 @@
+{
+    "Filename": "98201.txt",
+    "Location": "Harnett, North Carolina",
+    "Accident Number": "ERA18LA239",
+    "Date & Time": "August 30, 2018, 16:00 Local",
+    "Aircraft": "Avid MK-4",
+    "Registration": "N628X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot departed 35nauticalmile flight 9 gallon fuel onboard en route noticed fuel quantity decreasing faster normal elected stop fuel descent toward airport engine lost total power pilot subsequently performed forced landing field touchdown airplane nosed came rest inverted resulting substantial damage wing fuselage examination airplane engine revealed evidence preimpact mechanical anomaly would prevented normal engine operation 12 gallon fuel drained fuel tank accident however unquantified amount spilled onto ground recovery amount fuel onboard time accident could determined right wing fuel tank vented modified fuel cap hole drilled top cap allow air tank fuel consumed pilot recommended forwardfacing tube vent installed per service letter issue kit manufacturer similar experimental amateurbuilt airplane however reason loss engine power whether modified fuel cap contributed accident could determined based available information probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

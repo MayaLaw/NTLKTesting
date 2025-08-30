@@ -1,0 +1,29 @@
+{
+    "Filename": "97905.txt",
+    "Location": "Iowa, Louisiana",
+    "Accident Number": "GAA18CA447",
+    "Date & Time": "July 26, 2018, 11:30 Local",
+    "Aircraft": "Air Tractor AT502",
+    "Registration": "N254LA",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped restrictedcategory airplane performed agricultural flight landing take another load made threepoint landing full flap closed throttle stated landing roll airplane turned violently right got light gear airplane nose turned 45 right runway centerline applied left brake left rudder added power power increased airplane rolled left left wing struck ground pilot pulled throttle idle applied reverse thrust full brake however airplane exited runway collided drainage culvert airplane sustained substantial damage left wing spar aileron pilot reported time accident wind light variable dust devil present additionally reported accident could prevented landing higher airspeed keep airflow rudder minimizing engine thrust pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

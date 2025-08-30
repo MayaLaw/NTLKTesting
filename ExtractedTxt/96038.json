@@ -1,0 +1,29 @@
+{
+    "Filename": "96038.txt",
+    "Location": "Nantucket, Massachusetts",
+    "Accident Number": "ERA17LA329",
+    "Date & Time": "September 13, 2017, 07:23 Local",
+    "Aircraft": "Cessna 402",
+    "Registration": "N836GW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "commercial pilot stated shortly taking crosscountry personal flight accelerating noticed high airplane nosedown control force airplane became increasingly difficult control used manual trim attempt trim control force verified autopilot engaged however nosedown tendency continued pilot trouble maintaining altitude subsequent emergency landing airframe sustained substantial damage postaccident examination airplane revealed elevator trim push rod assembly separated elevator trim tab actuator end elevator trim push rod assembly found wedged elevator main spar elevator trim indicator cockpit found noseup stop position however elevator trim tab deflected 24 trailing edge upairplane nose maximum airplane nosedown setting 6 drilled bolt recovered inside right elevator however associated washer castellated nut cotter pin found examination bolt revealed thread damaged bolt hole one clevis yoke half exhibited deformation consistent bolt separating 2 week accident pilot flew airplane maintenance facility annual inspection time airworthiness directive ad 20160724 required installation new hardware end pushrod elevator trim tab overdue airplane annual inspection ad 20160724 superseded ad 20161708 also required installation new hardware ad issued prevent jamming elevator trim tab position outside normal limit travel due loss attachment hardware connecting elevator trim tab actuator elevator trim tab pushpull rod could result loss airplane control",
+        "Top Words": [
+            [
+                "trim",
+                11
+            ],
+            [
+                "elevator",
+                11
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+Page 1 of 18
+Aviation Investigation Final Report
+Location:
+Reno, Nevada
+Accident Number:
+WPR18FA131
+Date & Time:
+May 1, 2018, 19:31 Local 
+Registration:
+N352BT
+Aircraft:
+AMERICAN AIR RACING LTD 
+THUNDER MUSTANG
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot of the high-performance air racing airplane was taking part in an in-flight 
+photography mission with two other airplanes. About 1 hour into the second flight of the day, the group 
+was getting fatigued and decided to return to the departure airport. As the airplanes approached the 
+airport, the accident pilot transmitted a "mayday" call and reported that he was going to land on the 
+runway located directly ahead of his position. The airplane began to descend while performing an S-
+turn, and touched down beyond the midpoint of the 9,000-ft-long runway at a slightly higher speed than 
+normal. A 4-knot tailwind prevailed on the landing runway about the time of the accident.
+A 1,200-ft-long series of propeller strikes on the runway were consistent with the pilot applying heavy 
+braking after touchdown. The airplane veered right as it reached the end of the runway, entered a gravel 
+area, nosed over, and came to rest inverted. Given the airplane's nominal landing distance in addition to 
+the factors that increased that distance on the accident landing, namely, remaining runway at the time of 
+the touchdown, the airplane's higher landing speed, and the tailwind, the pilot would have had very little 
+margin for error before the airplane's landing distance required exceeded the available runway.
+The vertical stabilizer collapsed when the airplane nosed over, which resulted in the canopy structure 
+contacting the ground and subsequently failing. As a result, the pilot's head was impinged at an angle 
+against the ground, resulting in airway restriction. The pilot's extraction from the airplane by first 
+responders took about 45 minutes, and during that time, the pilot died of asphyxiation. However, unless 
+he had been repositioned and his breathing enabled almost immediately following the accident, survival 
+would have been unlikely, and based on the airplane's weight and inverted position, an immediate rescue 
+was not possible.
+It could not be determined if the canopy bow was designed to be structural in nature; additionally, visual 
+inspection revealed defects that would have further weakened its supporting properties.
+Examination of the engine revealed that the coolant pump drive pulley had detached due to fatigue 

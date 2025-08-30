@@ -1,0 +1,29 @@
+{
+    "Filename": "97974.txt",
+    "Location": "El Dorado, Arkansas",
+    "Accident Number": "GAA18CA465",
+    "Date & Time": "July 27, 2018, 13:15 Local",
+    "Aircraft": "Bellanca 8GCBC",
+    "Registration": "N391KM",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported return departure airport following local flight engine lost power subsequently conducted forced landing dirt road propeller struck ground airplane nosed airplane sustained substantial damage rightwing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration inspector reported 1 gallon fuel recovered wing tank probable cause finding national transportation safety board determines probable cause accident pilot improper fuel planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

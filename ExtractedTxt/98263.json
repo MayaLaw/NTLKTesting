@@ -1,0 +1,29 @@
+{
+    "Filename": "98263.txt",
+    "Location": "Kennett, Missouri",
+    "Accident Number": "WPR18LA256",
+    "Date & Time": "September 7, 2018, 15:00 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N131TX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "takeoff roll pilot realized headset active noise reduction anr function inoperative tugged headset cord access anr control module module stuck seat center console returned attention continuing takeoff airplane 200 ft ground level pilot engaged autopilot leaned focus freeing control module second later without freeing module pilot noticed significant decrease engine noise power sat upright verified engine power mixture lever correctly positioned began scanning instrument panel unable restore engine power time aural sink rate warning began sounding based airplane low altitude evaluation surrounding terrain pilot chose deploy airframe parachute system even though airplane height ground minimum recommended deployment altitude airplane impacted ground canopy resulting substantial damage fuselage likely attempt free headset control module pilot inadvertently unknowingly repositioned unguarded threeposition fuel pump control rocker switch located center console high boostprime position selection resulted loss engine power probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "module",
+                5
+            ],
+            [
+                "control",
+                4
+            ]
+        ]
+    }
+}

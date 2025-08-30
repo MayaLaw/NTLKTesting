@@ -1,0 +1,29 @@
+{
+    "Filename": "95993.txt",
+    "Location": "Kinsley, Kansas",
+    "Accident Number": "GAA17CA531",
+    "Date & Time": "September 12, 2017, 10:39 Local",
+    "Aircraft": "Cessna 210",
+    "Registration": "N9595X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "telephone interview national transportation safety board ntsb investigatorin charge pilot reported landed around 80 knot didnt get flap landing reported airplane didnt want stop ran runway runway excursion nosewheel collapsed airplane nosed fuselage wing vertical stabilizer sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation automated weather observation station located 28 nautical mile west accident site reported time accident wind 170 7 knot landing runway 36 pilot submit ntsb form 61201 pilotoperator aircraft accidentincident report witness reported airport hangar noticed accident airplane high fast downwind added observed airplane overrun runway nose grass probable cause finding national transportation safety board determines probable cause accident pilot decision continue unstabilized approach landing tailwind condition resulted runway overrun noseover",
+        "Top Words": [
+            [
+                "reported",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "runway",
+                5
+            ]
+        ]
+    }
+}

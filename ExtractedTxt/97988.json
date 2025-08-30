@@ -1,0 +1,29 @@
+{
+    "Filename": "97988.txt",
+    "Location": "Ponca City, Oklahoma",
+    "Accident Number": "CEN18FA310",
+    "Date & Time": "August 4, 2018, 10:45 Local",
+    "Aircraft": "Extra EA 400",
+    "Registration": "N13EP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "5 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting personal flight four passenger witness observed airplane take climb slowly airport pilot flying vicinity observed airplane maneuver erratically airplane impacted terrain nearvertical attitude airplane destroyed impact force postimpact fire wreckage contained confined area field remains major airplane component accounted extensive thermal damage airframe engine limited scope postaccident examination impact energy needed drive engine ground suggested engine producing power time accident postaccident examination remaining airframe engine component reveal anomaly would precluded normal operation airplane depending amount fuel baggage equipment board location adult passenger center gravity cg could within aft recommended cg since fuel load location passenger could determined may shifted flight known loading contributed accident pilot operating valid medical certification secondclass medical certificate expired several year prior accident federal aviation administration record indicate obtained basicmed medical certification pilotrated passenger seated right front seat investigator unable determine manipulating flight control airplane time accident circumstance accident consistent pilot loss control however reason loss control could determined available evidence",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "accident",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98563.txt",
+    "Location": "Hobbs, New Mexico",
+    "Accident Number": "CEN19CA017",
+    "Date & Time": "October 27, 2018, 19:40 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N6899C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Navigation error",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported entered left traffic pattern runway 30 night visual meteorological condition although pilot thought sufficient altitude initial phase final approach based altimeter indication shortly turning final approach airplane impacted terrain airplane sustained substantial damage right wing fuselage three occupant injured postaccident examination airframe engine revealed evidence preaccident mechanical failure malfunction would precluded normal operation examination reveal altimeter incorrect setting resulted altimeter indication error 800 ft mean sea level pilot stated must incorrect altimeter setting destination airport probable cause finding national transportation safety board determines probable cause accident pilot incorrect altimeter setting night visual approach resulted controlled flight terrain",
+        "Top Words": [
+            [
+                "altimeter",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "approach",
+                3
+            ]
+        ]
+    }
+}

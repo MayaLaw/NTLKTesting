@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Anchorage, Alaska
+Accident Number:
+ANC18LA072
+Date & Time:
+September 26, 2018, 19:07 Local 
+Registration:
+N2571G
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Turbulence encounter
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+While the accident airplane was inbound for landing, the pilot received traffic and wake turbulence 
+advisories from air traffic control for a crossing heavy Boeing C-17 on approach. The pilot 
+acknowledged that he had the C-17 in sight and elected to execute a 360° turn. After completing the 
+turn, he descended the airplane below the altitude of the C-17, ultimately crossing 3.66 miles behind and 
+about 500 ft below the C-17's flightpath. Shortly after passing behind the C-17, the pilot reported 
+entering an area of "severe turbulence," which he described as "one violent instantaneous motion." The 
+airplane continued for a landing. 
+The pilot reported that, during a postflight inspection of the airplane, he discovered that both wings and 
+the horizontal stabilizer exhibited signs of buckling. Further, the left wing had shifted aft, which reduced 
+the gap between the trailing edge of the flap and the fuselage by 3/8 of an inch. A crack in the left wing 
+spar was discovered during a subsequent, detailed postaccident examination. Federal Aviation 
+Administration guidance indicates that pilots should fly at or above the preceding aircraft's flightpath, 
+altering course as necessary, to avoid the area behind and below the generating aircraft.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to avoid wake turbulence from a crossing heavy airplane.

@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Gainesville, Florida
+Accident Number:
+GAA19CA046
+Date & Time:
+October 31, 2018, 18:00 Local 
+Registration:
+N5YB
+Aircraft:
+Beech 55
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot of the retractable landing gear-equipped airplane reported that, during the landing roll, he 
+inadvertently moved the landing gear position handle to the "up" position. He immediately recognized 
+his error and moved the handle back to the "down" position. Subsequently, he saw the left wing settle 
+slightly, so he added power and performed a go-around. Once airborne, he asked the tower controllers to 
+observe the landing gear, and they confirmed that the left main landing gear was "canted inward" and 
+did not appear to be down and locked. 
+The pilot stated that, during the second landing, he placed the gear handle in the “down” position and 
+saw the gear indicator lights were showing "down and locked." However, during the landing roll, the left 
+wing settled onto the runway.
+The airplane sustained substantial damage to the left aileron.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+ 
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

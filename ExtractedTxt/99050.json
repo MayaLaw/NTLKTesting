@@ -1,0 +1,29 @@
+{
+    "Filename": "99050.txt",
+    "Location": "Presque Isle, Maine",
+    "Accident Number": "DCA19FA089",
+    "Date & Time": "March 4, 2019, 11:29 Local",
+    "Aircraft": "Embraer EMB145",
+    "Registration": "N14171",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Wrong surface or wrong airport",
+    "Injuries": "3 Minor, 28 None",
+    "Analysis": {
+        "Text": "flight crew embraer emb145xr airplane attempting land runway 1 presque isle international airport pqi presque isle maine snow falling time notice air mission issued 2 hour 19 minute accident indicated runway 1 covered 14 inch dry snow pqi maintenance foreman stated airport conducting snow removal operation maintain condition runway surface accident sequence first instrument landing system il approach runway 1 appeared proceeding normally first officer pilot flying transitioned instrument reference inside flight deck outside reference postaccident interview first officer stated expected see runway time instead saw white white structure antenna part runway environment runway captain pilot monitoring stated saw tower called goaround flight crewmembers likely seeing automated weather observing system wind sensor pole located 325 ft right runway 1 centerline 870 ft beyond runway threshold damage lightning arrester top wind sensor pole likely due contact accident airplane flew pole according cockpit voice recorder cvr goaround first officer asked captain saw runway light approach captain responded saw light really white thats problem airport personnel stated snow plowing operation runway finished 10 minute first approach cvr recorded flight crew discussion turning pilotcontrolled runway light sound similar microphone click discussion however pqi maintenance foreman stated first approach",
+        "Top Words": [
+            [
+                "runway",
+                12
+            ],
+            [
+                "first",
+                6
+            ],
+            [
+                "stated",
+                5
+            ]
+        ]
+    }
+}

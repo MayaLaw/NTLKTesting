@@ -1,0 +1,29 @@
+{
+    "Filename": "97476.txt",
+    "Location": "Eureka Springs, Arkansas",
+    "Accident Number": "CEN18LA223",
+    "Date & Time": "June 14, 2018, 11:15 Local",
+    "Aircraft": "Aeronca 7BCM",
+    "Registration": "N9098C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting first flight airplane purchased earlier day pilot stated identify anomaly preflight inspection airplane fuel tank toppedoff flight reported engine started normally observed anomaly two separate engine runup completed takeoff noted verified full engine speed checked proper operation magneto cycled carburetor heat control engine runup pilot reported uneventful takeoff 200 ft ground level engine suddenly lost power pilot stated engine partially running unable produce enough thrust sustain level flight pilot decided return airport due heavily wooded terrain ahead airplane position pilot stated rolled airplane steep left turn halfway 180 turn airplane entered aerodynamic stall low altitude pilot reported airplane impacted terrain leftwingdown nosedown attitude forward fuselage outboard left wing wing strut sustained substantial damage impact postaccident wreckage examination reveal evidence mechanical malfunction would precluded normal operation airplane engine flight fuel sample collected accident free contamination cause partial loss engine power could determined available evidence likely pilot turned back airport engine lost partial power maintain adequate airspeed exceeded airplane critical angle attack resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

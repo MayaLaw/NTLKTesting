@@ -1,0 +1,29 @@
+{
+    "Filename": "99106.txt",
+    "Location": "Leesburg, Florida",
+    "Accident Number": "ERA19LA125",
+    "Date & Time": "March 8, 2019, 10:00 Local",
+    "Aircraft": "Piper PA31",
+    "Registration": "N45MJ",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported airplane undergoing annual inspection maintenance personnel suggested inner landing gear door kit installed door kit installation completed numerous test flight conducted rigging adjustment made flight taxiing back ramp following last flight right landing gear collapsed postaccident extension retraction test performed using hydraulic test unit normal emergency hand pump landing gear extension retraction test performed checking actuator rigging left right main landing gear actuator drive main gear locked position preimpact mechanical malfunction failure landing gear system observed thus likely rigging condition resulted collapse right main landing gear probable cause finding national transportation safety board determines probable cause accident maintenance personnel improper rigging main landing gear actuator resulted collapse right main landing gear",
+        "Top Words": [
+            [
+                "gear",
+                9
+            ],
+            [
+                "landing",
+                8
+            ],
+            [
+                "main",
+                5
+            ]
+        ]
+    }
+}

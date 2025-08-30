@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Bell Glade, Florida
+Accident Number:
+ERA19LA069
+Date & Time:
+December 17, 2018, 12:10 Local 
+Registration:
+N4886B
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, while conducting a personal, cross-country flight and descending from 
+cruise level, the engine began gradually losing power, so he applied carburetor heat, which initially 
+restored cruise power. Several minutes later, the engine again lost partial power and began to vibrate. 
+The engine continued to lose power, and the airplane was unable to maintain altitude. The pilot chose to 
+execute a forced landing on a field, during which the nosewheel dug into the ground, and the airplane 
+subsequently nosed over.
+ 
+Examination of the engine revealed that the No. 1 intake valve was stuck in the valve guide and that the 
+upper valve spring seat on the No. 1 cylinder was broken. Detailed examination revealed contact marks 
+on the interior and end faces of the valve keeper and pitting and radial cracks in the intake valve head. 
+The valve springs' strength was found to be within serviceable limits. The rocker arm contact wear 
+pattern on the valve tip was abnormal.
+It is likely that, during operation, the intake valve keeper was dislodged and then became wedged in the 
+valve spring seat until the valve spring seat fractured, at which time the intake valve became stuck in the 
+valve guide. This resulted in a loss of compression to that cylinder and the subsequent partial loss of 
+engine power. The contact marks on the interior and end faces of the valve keeper indicate that the 
+keeper had been dislodged for some time while the engine operated and that the valve spring seat was 
+intact. The pitting and radial cracks in the intake valve head indicate that the engine was operated while 
+the valve was not seating properly, which is also consistent with operation with a dislodged valve 
+keeper. The lack of a normal rocker arm contact wear pattern on the valve tip indicates that the valve 
+keeper likely became dislodged soon after the valve was placed into service.
+The engine manufacturer's Operator's Manual recommended periodic inspections (every 400 flight 
+hours) of the intake valve. During a review of the engine maintenance records, no records were found 

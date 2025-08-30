@@ -1,0 +1,29 @@
+{
+    "Filename": "97847.txt",
+    "Location": "Baton Rouge, Louisiana",
+    "Accident Number": "CEN18LA285",
+    "Date & Time": "July 20, 2018, 14:30 Local",
+    "Aircraft": "Smith Aerostar601",
+    "Registration": "N327BK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "mechanic maintained airplane reported morning accident right engine would start due water contamination fuel system commercial pilot mechanic purged fuel tank flushed fuel system cleaned left engine fuel injector nozzle maintenance work completed engine ground run engine anomaly noted subsequently pilot ordered new fuel local fixedbased operator complete maintenance test flight pilot stated completed preflight inspection followed engine runup engine anomaly noted departed one passenger onboard immediately takeoff right engine stopped producing full power airplane would maintain altitude remaining runway left land pilot conducted forced landing field 1 mile runway airplane landed hard came rest upright postaccident examination revealed water contamination engine examination airplane revealed numerous instance improper inadequate maintenance engine fuel system fuel system contained corrosion debris minimal fuel found line fuel servo although maintenance conducted airplane morning accident right engine fuel injector nozzle removed maintenance procedure therefore likely fuel flow volume measured likely corrosion debris fuel system resulted water recently purged fuel system contaminant likely knocked loose subsequent engine run attempted takeoff subsequently blocked fuel line starved right engine available fuel probable cause finding",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "engine",
+                12
+            ],
+            [
+                "system",
+                6
+            ]
+        ]
+    }
+}

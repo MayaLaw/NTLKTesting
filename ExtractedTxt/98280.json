@@ -1,0 +1,29 @@
+{
+    "Filename": "98280.txt",
+    "Location": "Burlington, Vermont",
+    "Accident Number": "GAA18CA547",
+    "Date & Time": "August 20, 2018, 15:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N557SP",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported approach struggling keep airspeed 60 70 knot entered side slip reduced power idle assured airplane would reach runway aligned airplane runway airplane landed left main landing gear bounced student performed goaround entered left traffic pattern landed without incident postaccident examination airplane revealed substantial damage firewall fuselage student reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 6 minute accident wind 270 6 knot airplane landed runway 33 probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted bounced landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

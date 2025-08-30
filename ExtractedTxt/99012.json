@@ -1,0 +1,29 @@
+{
+    "Filename": "99012.txt",
+    "Location": "Mansfield, Massachusetts",
+    "Accident Number": "ERA19FA107",
+    "Date & Time": "February 23, 2019, 12:25 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N224TA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "practicing maneuver instructional flight flight instructor student pilot approached airport landing witness airport surveillance video indicated airplane entered landing flare continued float runway significant distance touching 2800 ft 3503ftlong runway pilot initiated takeoff touchandgo although published airport traffic pattern runway indicated left turn airplane performed climb steep right bank slowing entering spiraling decent toward grass area near airport terminal building examination wreckage reveal preimpact mechanical malfunction would precluded normal operation airplane likely flight instructor allowed airplane exceed critical angle attack turning initial climb touchandgo landing resulted aerodynamic stall impact terrain although could determined flying airplane time accident flight instructor ultimately responsible safety flight probable cause finding national transportation safety board determines probable cause accident flight instructor failure maintain airplane control initial climb touchand go landing resulted exceedance airplane critical angle attack aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "instructor",
+                4
+            ]
+        ]
+    }
+}

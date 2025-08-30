@@ -1,0 +1,29 @@
+{
+    "Filename": "99316.txt",
+    "Location": "McCall, Idaho",
+    "Accident Number": "WPR19LA120",
+    "Date & Time": "April 22, 2019, 20:20 Local",
+    "Aircraft": "Piper PA 18 225 DD",
+    "Registration": "N727WW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot descending toward destination airport 1 hour flight engine lost total power pilot unable restore engine power airplane impacted tree 4 mile destination recovery airplane 15 gallon fuel found rightwing tank leftwing tank void fuel fuel selector found lefttank position postaccident examination engine following recovery accident site revealed anomaly would precluded normal operation pilot reported departed flight 145 gallon fuel onboard however amount fuel onboard time accident determined reason loss engine power could determined based available information probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "fuel",
+                5
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

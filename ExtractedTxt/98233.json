@@ -1,0 +1,29 @@
+{
+    "Filename": "98233.txt",
+    "Location": "Hartford, Connecticut",
+    "Accident Number": "GAA18CA529",
+    "Date & Time": "August 28, 2018, 09:30 Local",
+    "Aircraft": "Piper PA46",
+    "Registration": "N178DB",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported approach tower controller instructed stay high close turned final reduced power airplane began rapidly descending added applied power back pressure arrest descent rate began flare airplane landed hard faster normal nose landing gear touched applied reverse thrust braked aggressively subsequently nose landing gear collapsed airplane came rest runway airplane sustained substantial damage fuselage engine mount pilot reported postaccident examination revealed nose landing gear actuator bolt sheared pilot reported primary cause accident failure maintain stabilized approach resulted hard landing higherthannormal ground speed upon touchdown probable cause finding national transportation safety board determines probable cause accident pilot unstabilized approach hard landing resulted nose landing gear collapse",
+        "Top Words": [
+            [
+                "landing",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

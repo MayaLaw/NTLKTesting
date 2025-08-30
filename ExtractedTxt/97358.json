@@ -1,0 +1,29 @@
+{
+    "Filename": "97358.txt",
+    "Location": "Melville, New York",
+    "Accident Number": "WPR18FA155",
+    "Date & Time": "May 30, 2018, 13:48 Local",
+    "Aircraft": "North American SNJ 2",
+    "Registration": "N62382",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot departed airport intention joining five airplane proceed cross country formation flight rear seat passenger onboard one airplane witness ground watched accident airplane entered steep climbing right 180 turn 1300 ft ground level subsequently entered spin continued ground contact video captured airplane steep nosedown angle rotating around vertical axis impacting ground postaccident examination revealed anomaly airframe engine would precluded normal operation exception preexisting crack cockpit heater assembly however crack would negatively impacted pilot ability control airplane toxicology pilot revealed presence carbon monoxide blood result postcrash fire examination heater assembly revealed crack hole exhaust pipe would allowed gas mix cockpit air supply given level carbon monoxide detected unlikely pilot experienced symptom regardless source evidence suggest carbon monoxide pilot system contributed circumstance accident therefore likely climbing turn pilot exceeded airplane critical angle attack airplane experienced aerodynamic stall inadvertent spin probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack resulted aerodynamic stall spin subsequent impact terrain",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "ground",
+                4
+            ]
+        ]
+    }
+}

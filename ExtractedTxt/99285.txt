@@ -1,0 +1,42 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Fullerton, California
+Accident Number:
+WPR19FA115
+Date & Time:
+April 18, 2019, 19:51 Local 
+Registration:
+N65MY
+Aircraft:
+Beech 60
+Aircraft Damage:
+Destroyed
+Defining Event:
+Ground handling event
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot began the takeoff roll in visual meteorological conditions. The airplane was airborne 
+about 1,300 ft down the runway, which was about 75% of the normal ground roll distance for 
+the airplane’s weight and the takeoff environment. About 2 seconds after rotation, the airplane 
+rolled left. Three seconds later, the airplane had reached an altitude of about 80 ft above 
+ground level and was in a 90° left bank. The nose then dropped as the airplane rolled inverted 
+and struck the ground in a right-wing-low, nose-down attitude. The airplane was destroyed.
+Postaccident examination did not reveal any anomalies with the airframe or engines that would 
+have precluded normal operation. The landing gear, flap, and trim positions were appropriate 
+for takeoff and flight control continuity was confirmed. The symmetry of damage between both 
+propeller assemblies indicated that both engines were producing equal and high amounts of 
+power at impact.
+The autopsy revealed no natural disease was present that could pose a significant hazard to 
+flight safety.
+Review of surveillance video footage from before the accident revealed that the elevator was in 
+the almost full nose-up (or trailing edge up) position during the taxi and the beginning of the 
+takeoff roll. Surveillance footage also showed that the pilot did not perform a preflight 
+inspection of the airplane or control check before the accident flight.
+According to the pilot’s friend who was also in the hangar, as the accident pilot was pushing the 
+airplane back into his hangar on the night before the accident, he manipulated and locked the 
+elevator in the trailing edge up position to clear an obstacle in the hangar. However, no 
+evidence of an installed elevator control lock was found in the cabin after the accident. 

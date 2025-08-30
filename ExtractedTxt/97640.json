@@ -1,0 +1,29 @@
+{
+    "Filename": "97640.txt",
+    "Location": "Pocahontas, Arkansas",
+    "Accident Number": "CEN18LA241",
+    "Date & Time": "June 28, 2018, 11:30 Local",
+    "Aircraft": "Cessna T210",
+    "Registration": "N6386C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot landing airplane 4000ftlong asphalt runway left quartering tailwind stated airplane started veer left applied right wheel brake correct left turn unable maintain directional control airplane exited left side runway nosed resulted damage right wing examination airplane revealed left wheel tire spun freely whereas right wheel brake assembly tight examination airframe engine revealed evidence mechanical malfunction failure would precluded normal flight operation runway skid mark consistent right wheel brake locking 1100 ft runway threshold followed quickly left wheel brake locking 1132 ft runway threshold wheel brake locked airplane exited runway 1500 ft threshold probable cause finding national transportation safety board determines probable cause accident pilot excessive use wheel brake landing resulted brake locking loss directional control runway excursion nose",
+        "Top Words": [
+            [
+                "runway",
+                7
+            ],
+            [
+                "wheel",
+                7
+            ],
+            [
+                "brake",
+                7
+            ]
+        ]
+    }
+}

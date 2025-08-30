@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Woodbine, New Jersey
+Accident Number:
+ERA19FA023
+Date & Time:
+October 23, 2018, 14:00 Local 
+Registration:
+N9667M
+Aircraft:
+Mooney M20C
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was taking off for a personal flight. According to onboard data, when the airplane 
+reached about 150 ft above ground level, the pitch began to increase; over the next 4 seconds, 
+the airplane’s altitude began to increase as the groundspeed decreased. The airplane then 
+banked to the left and descended nose-down to impact east of the runway. A witness observed 
+that when the airplane reached about 100 ft above the runway, the landing gear was retracted. 
+He then he diverted his attention and shortly after, he heard an impact. The airplane was 
+recorded by airport security video just before ground contact in a near vertical descent 
+(consistent with stall) with the landing gear extended.
+The pilot previously reported having physical difficulties manually retracting the landing gear, 
+and as a result, he would use one hand to hold onto something in the cockpit to brace himself, 
+and the other hand to operate the retracting handle assembly “Johnson bar.” To assist in 
+retracting the landing gear, the pilot would also slow the airplane, which was supported by the 
+data recorded by the Stratus 2S for the accident flight and a previous uneventful flight that was 
+examined. 
+Examination of the airframe, flight controls, engine, engine systems, and landing gear system 
+revealed no evidence of preimpact failure or malfunction. It likely that the pilot intentionally 
+increased the airplane's nose-up pitch and decreased the airplane’s speed in order to assist him 
+retract the landing gear. The ultimate result was the airplane exceeding its critical angle of 
+attack and an inadvertent stall.
+Probable Cause and Findings

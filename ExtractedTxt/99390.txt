@@ -1,0 +1,36 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+New Bern, North Carolina
+Accident Number:
+ERA19TA166
+Date & Time:
+April 30, 2019, 19:25 Local 
+Registration:
+N733UF
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+During the student pilot’s first solo flight, the airplane veered left after touchdown on the 
+runway. He attempted to correct with right rudder and left aileron; however, the airplane 
+traveled into the grass off the left side of the runway and struck a ditch before coming to rest 
+upright. The airplane sustained damage to the right horizontal stabilizer, engine mount, and 
+firewall. The student reported that there were no preimpact mechanical malfunctions with the 
+airplane. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot’s failure to maintain directional control during landing, which resulted in a 
+runway excursion.
+Findings
+Personnel issues
+Aircraft control - Student/instructed pilot
+Aircraft
+Directional control - Not attained/maintained

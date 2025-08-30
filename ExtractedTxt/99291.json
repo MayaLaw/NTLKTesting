@@ -1,0 +1,29 @@
+{
+    "Filename": "99291.txt",
+    "Location": "Kerrville, Texas",
+    "Accident Number": "CEN19FA124",
+    "Date & Time": "April 22, 2019, 08:51 Local",
+    "Aircraft": "Beech 58",
+    "Registration": "N501CE",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "6 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting instrument flight rule ifr flight twinengine airplane five passenger gps approach destination airport engine lost total power within 10 second left engine regained near full power 40 second later maintained end recorded data pilot continued approach ensure flap feather propeller inoperative right engine contrary airplane manufacturer emergency procedure guidance airplane descended right engine inoperative cloud ceiling 500 ft agl flightpath leveled airspeed decreased minimum controllable airspeed vmc airplane continued flight profile vmc unfeathered propeller inoperative right engine left engine near full power airplane aft center gravity resulted right turning spin ground impact pilot filed flight plan indicated minimum fuel load required 58 gallon although account instrument approach alternate airport however pilot flight planning log indicated 50 54 gallon fuel onboard thus based solely pilot log insufficient fuel onboard airplane embark flight airplane beyond maximum gross weight 50 gallon fuel onboard likely pilot want add additional fuel thus pilot decision depart accident flight without adequate fuel onboard showed poor judgement although pilot departed without adequate fuel reserve ifr flight actual fuel load 50 54 gallon would sufficient reach destination airport airplane burned 42 gallon crash site 6 mile airport however airplane fueled pilot request 8 day five flight accident flight completely filled pilot present fueling crosscheck fuel receipt fuelplanning log recognize error meant less 50 gallon fuel onboard",
+        "Top Words": [
+            [
+                "pilot",
+                10
+            ],
+            [
+                "flight",
+                10
+            ],
+            [
+                "fuel",
+                10
+            ]
+        ]
+    }
+}

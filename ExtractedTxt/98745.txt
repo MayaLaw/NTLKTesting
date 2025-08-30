@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Myerstown, Pennsylvania
+Accident Number:
+ERA19LA061
+Date & Time:
+December 8, 2018, 13:14 Local 
+Registration:
+N731LT
+Aircraft:
+Cessna P210
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was flying the airplane to a nearby airport to obtain fuel. Before departing on the 
+flight, he checked the fuel quantity using the onboard fuel totalizer and determined that both 
+fuel gauges indicated adequate fuel for the intended flight. During the landing approach at the 
+destination, the engine lost total power and the airplane impacted terrain short of the runway. 
+The pilot reported that the loss of power was due to fuel starvation. A witness at the airport 
+reported that the airplane made a "very sharp left-banking turn" as it flew overhead, then 
+climbed steeply and made another sharp left turn to enter the traffic pattern for landing.
+Examination of the airplane revealed no anomalies with the flight control system that would 
+have prevented normal operation. No evidence of fuel was found in the engine-driven fuel 
+pump filter; the filter was clean. There was no evidence of fuel in the lines between the engine-
+driven pump and engine gas producer. Before recovery from the accident site, less than 1 gallon 
+of fuel was drained from the left wing tanks and less than 4 gallons of fuel was drained from 
+the right wing fuel tanks.
+The pilot’s operating handbook for the airplane stated that, when the fuel tanks were 1/4-full or 
+less, prolonged uncoordinated flight, such as slips or skids, could uncover the fuel tank outlets, 
+causing fuel starvation and engine stoppage. It is likely that given the airplane’s low fuel state, 
+the abrupt maneuvers caused the fuel outlets to become uncovered, resulting in fuel starvation 
+to the engine and a total loss of engine power.
+Probable Cause and Findings

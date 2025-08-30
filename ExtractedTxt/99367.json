@@ -1,0 +1,29 @@
+{
+    "Filename": "99367.txt",
+    "Location": "Jacksonville, Florida",
+    "Accident Number": "DCA19MA143",
+    "Date & Time": "May 3, 2019, 21:42 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N732MA",
+    "Flight Conducted Under": "Part 121: Air carrier - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 Minor, 142 None",
+    "Analysis": {
+        "Text": "according pilot takeoff climb cruise portion flight uneventful 1 left thrust reverser operational deferred flight accordance airplane minimum equipment list captain pilot flying accident flight first officer pilot monitoring captain also performing check airman duty first officer process completing operating experience training approach jacksonville naval air station nip flight crew two runway change discussion air traffic controller due reported weather condition moderate heavy precipitation near field pilot ultimately executed area navigation gps approach runway 10 ungrooved displaced threshold 997 ft threshold leaving available landing distance 8006 ft airplane descended 1390 ft mean sea level msl pilot configured landing flap set 30\u00ba landing gear extended however speedbrake handle placed armed position specified landing checklist altitude 1100 ft msl 28 nm runway airplane slightly glidepath airspeed target next minute indicated airspeed increased 170 knot 17 knot target approach speed groundspeed reached 180 knot including estimated 7knot tailwind altitude 680 ft msl 16 nm threshold airplane deviated 3 glidepath precision approach path indicator papi light would appeared flight crew four white light would retain appearance throughout rest approach eight second touchdown multiple enhanced ground proximity warning system alert announced sink rate airplane descent rate peaked 1580 fpm airplane crossed displaced threshold 120 ft runway",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "ft",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

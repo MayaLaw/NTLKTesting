@@ -1,0 +1,29 @@
+{
+    "Filename": "95319.txt",
+    "Location": "Chugiak, Alaska",
+    "Accident Number": "ANC17LA028",
+    "Date & Time": "June 5, 2017, 18:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N35700",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported 1 hour takeoff personal flight engine started sputtering lost power pilot unable restart engine maneuvered airplane landing nearby airport airplane subsequently touched open field impacted fence came rest inverted grass resulting substantial damage recovery airplane 1 gallon fuel drained left wing 75 gallon fuel drained right wing examination revealed preimpact mechanical malfunction failure airframe engine engine satisfactorily test run several time examination fuel injector servo successfully passed flow check showed preimpact mechanical malfunction failure various fuel sample airplane tested water detected pilot initially reported fuel selector valve positioned left tank position engine started experiencing issue later reported using right tank position engine issue given airplane fuel state following accident lack anomaly found postaccident examination likely loss engine power result fuel starvation pilot exhausted fuel supply left wing tank probable cause finding national transportation safety board determines probable cause accident pilot improper inflight fuel management resulted total loss engine power due fuel starvation",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

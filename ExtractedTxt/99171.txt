@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Loveland, Colorado
+Accident Number:
+CEN19LA107
+Date & Time:
+March 23, 2019, 10:43 Local 
+Registration:
+N7879N
+Aircraft:
+Cessna R172E
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Serious, 2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+As the pilot approached the airport, another pilot heard him on the radio and advised him of "significant 
+down drafts" on the approach to runway 15. The pilot acknowledged the transmission and continued his 
+approach. When he turned onto the base leg, he encountered the "severe down-draft/microburst" the 
+other pilot had mentioned. He applied full power in an attempt to climb out, but the airplane continued 
+to descend striking a power-line and tree, and subsequently impacted terrain.
+A review of the weather showed that a complex wind pattern existed over the area during the period 
+with a wind shift occurring immediately after the time of the accident. No support for convective 
+microburst activity was noted over the area; however, a large area of light intensity precipitation with 
+some potential for some outflow was noted, which could have been resulted in the different winds 
+occurring over the accident site during the period. In addition, the High Resolution Rapid Refresh model 
+sounding and satellite imagery and pilot reports noted support for mountain wave activity over the area, 
+which supported downslope winds and downdraft activity in the area at the time of the accident. The 
+National Weather Service had AIRMET advisories for turbulence and IFR and mountain obscuration 
+conditions over the area, but no advisory for low-level wind shear.
+It is likely the pilot encountered shifting winds due to weather system in the area. With his reduced 
+engine power on the base leg of the traffic pattern, the pilot most likely got into a downdraft that 
+produced a sink rate that he could not recover from.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An inflight&nbsp;loss of control on landing approach due to&nbsp;encountering a&nbsp;down-
+draft, and the pilot's failure to take timely action to&nbsp;abandon the approach and perform a 
+go-around.

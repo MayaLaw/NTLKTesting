@@ -1,0 +1,29 @@
+{
+    "Filename": "96060.txt",
+    "Location": "Thief River Falls, Minnesota",
+    "Accident Number": "CEN17FA361",
+    "Date & Time": "September 23, 2017, 07:42 Local",
+    "Aircraft": "Cessna TR182",
+    "Registration": "N4777T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated private pilot 2 passenger departed instrument meteorological condition imc overcast cloud layer 400 ft ground level agl data obtained onboard gps unit showed airplane depart toward destination airport climb descend several time 2 minute takeoff airplane descended 250 ft ground level agl turned quickly climbed 1400 ft agl final gps point showed airplane descending right turn witness reported hearing airplane overhead stated engine screaming impact airplane impacted field 4 minute takeoff resulting debris path 230 yard long consistent relatively high forward airspeed time impact postaccident examination airframe engine reveal preimpact anomaly would precluded normal operation primary vacuum pump found wreckage however examination standby vacuum pump revealed rotor fractured impact vane intact heading indicator turn coordinator gyro exhibited rotational scoring consistent rotation time impact damage propeller blade consistent engine producing power impact autopsy report revealed significant coronary artery disease however microscopic examination revealed focal area fine fibrosis suggestive prior ischemic episode finding significant enough suggest incapacitating event significant natural disease present could pose hazard flight safety review pilot logbook statement individual spoke accident suggested history flying around imc given weather condition time departure observation pilot checking weather condition flight pilot aware would required fly imc flight chose despite holding instrument rating based reported weather condition gps data likely",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "impact",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

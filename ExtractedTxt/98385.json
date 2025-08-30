@@ -1,0 +1,29 @@
+{
+    "Filename": "98385.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "ANC18LA072",
+    "Date & Time": "September 26, 2018, 19:07 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N2571G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "accident airplane inbound landing pilot received traffic wake turbulence advisory air traffic control crossing heavy boeing c17 approach pilot acknowledged c17 sight elected execute 360 turn completing turn descended airplane altitude c17 ultimately crossing 366 mile behind 500 ft c17s flightpath shortly passing behind c17 pilot reported entering area severe turbulence described one violent instantaneous motion airplane continued landing pilot reported postflight inspection airplane discovered wing horizontal stabilizer exhibited sign buckling left wing shifted aft reduced gap trailing edge flap fuselage 38 inch crack left wing spar discovered subsequent detailed postaccident examination federal aviation administration guidance indicates pilot fly preceding aircraft flightpath altering course necessary avoid area behind generating aircraft probable cause finding national transportation safety board determines probable cause accident pilot failure avoid wake turbulence crossing heavy airplane",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "c17",
+                4
+            ]
+        ]
+    }
+}

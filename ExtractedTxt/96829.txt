@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Ferris, Texas
+Accident Number:
+GAA18CA149
+Date & Time:
+March 1, 2018, 11:00 UTC 
+Registration:
+N77MM
+Aircraft:
+Beech B
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Ferry
+Analysis 
+The pilot in the multi-engine, retractable landing gear airplane reported that, during an instrument flight 
+rules cross-country flight, about 5,000 ft above mean sea level, the left engine surged several times and 
+he performed an emergency engine shutdown. Shortly afterward, the right engine lost power. 
+During the emergency descent, the airplane struck treetops, and landed hard in a field with the landing 
+gear retracted.
+The airplane sustained substantial damage to both wings, the engine mounts, and the lower fuselage.
+The pilot reported that he had requested 200 gallons of fuel from his home airport fixed base operator, 
+but they did not fuel the airplane. The pilot did not check the fuel quantity during his preflight 
+inspection.
+According to the Federal Aviation Administration Airplane Flying Handbook, Chapter 2, page 2-7, 
+pilots must always positively confirm the fuel quantity by visually inspecting the fuel level in each tank.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hartford, Wisconsin
+Accident Number:
+GAA19CA096
+Date & Time:
+December 11, 2018, 18:00 Local 
+Registration:
+N6650M
+Aircraft:
+Beech 36
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the retractable-landing gear-equipped airplane reported that, during an instrument flight 
+rules night flight, he initiated an approach in instrument meteorological conditions. During the approach, 
+he saw that rime ice had accumulated on the left wing. He continued the approach, extended the landing 
+gear, and then configured the flaps for landing. 
+The pilot attempted to level off at 1,620 ft, although the minimum descent altitude was 1,600 ft, but the 
+airplane stalled. He applied forward pressure on the yoke to lower the nose and applied full throttle. He 
+recalled that the airplane was extremely slow to respond and that it was "flying on the ragged edge of 
+stall." The airplane exited the clouds, and he could see the airport, but the airplane impacted a field 
+about 2.4 nautical miles short of the runway.
+The airplane sustained substantial damage to both wings and the fuselage. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack, which resulted in an aerodynamic stall 
+and impact with terrain during landing in icing conditions. 

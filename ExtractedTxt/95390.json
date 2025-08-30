@@ -1,0 +1,29 @@
+{
+    "Filename": "95390.txt",
+    "Location": "Cedar Key, Florida",
+    "Accident Number": "ERA17CA208",
+    "Date & Time": "June 16, 2017, 13:30 Local",
+    "Aircraft": "Piper PA23",
+    "Registration": "N4317Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff climb en route portion crosscountry flight uneventful checked wind sock landing flaccid indicating calm wind slowed airplane 80 mph final approach landed near approach end runway 2355 ft long estimated airplane rolled stop however continued runway despite heavy braking airplane departed end runway traveled across small road embankment came rest water edge airport boundary federal aviation administration inspector examined wreckage reported airplane sustained substantial damage forward fuselage submersion salt water tire skid mark runway leading wreckage weather buoy located 1 mile east airport recorded wind west time accident would resulted tailwind 8 knot pilot reported preimpact mechanical malfunction anomaly airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure stop airplane within available runway conducting approach landing tailwind",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "runway",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

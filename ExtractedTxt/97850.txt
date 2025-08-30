@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Milford, Iowa
+Accident Number:
+CEN18LA288
+Date & Time:
+July 22, 2018, 13:30 Local 
+Registration:
+N3169H
+Aircraft:
+Air Tractor AT 301
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The operator reported that, during takeoff for an agricultural application flight, the airplane "quickly 
+whipped" left almost immediately after becoming airborne. Subsequently, the airplane impacted a 
+cornfield and then came to rest about 70 ft west of the runway.
+Postaccident airframe examination did not reveal evidence of any preimpact anomalies with the flight 
+control system that would have precluded normal operation. The pilot reported that there were no issues 
+with the engine during the takeoff. The pilot added that he commonly used a gentle rise in the runway to 
+assist the airplane to become airborne during takeoff; however, the investigation could not determine if 
+this played a role in the loss of airplane control. Based on the available evidence, the investigation could 
+not determine the reason for the pilot's loss of airplane control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of airplane control during takeoff for reasons that could not be determined because no 
+anomalies consistent with a flight control system malfunction were observed.

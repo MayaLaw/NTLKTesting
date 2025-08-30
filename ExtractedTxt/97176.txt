@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Sault Ste Marie, Michigan
+Accident Number:
+CEN18FA160
+Date & Time:
+May 5, 2018, 10:02 Local 
+Registration:
+C-FNKZ
+Aircraft:
+BELAIR RAVEN
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and pilot-rated passenger were departing on a local flight in the experimental, amateur-
+built airplane in gusting crosswind conditions. Witnesses saw the airplane take off and enter a nose-high 
+attitude. About 100 ft above ground level, the airplane began turning right and transitioned to a nose-low 
+spin until ground impact. Examination of the airframe and engine revealed no evidence of mechanical 
+malfunctions or failures that would have precluded normal operation. The airplane was not equipped 
+with any stall warning devices. 
+The witness reports and damage to the airplane were consistent with the pilot failing to maintain 
+sufficient airspeed during a steep takeoff climb, which resulted in the airplane exceeding its critical 
+angle of attack and a subsequent aerodynamic stall. A flight instructor at the airport reported that, when 
+departing the accident runway with westerly winds present, he would often notice turbulence and 
+swirling air. He attributed this effect to the tall trees located about 100 yards west of the runway. 
+Although autopsies revealed that both pilots were at risk for a sudden cardiac event, the circumstances 
+of the accident are consistent with a loss of control rather than a sudden incapacitation, and it is unlikely 
+that either pilot's cardiac condition contributed to the accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed during takeoff in gusty crosswind conditions, which 
+resulted in the airplane exceeding its critical angle of attack and an aerodynamic stall. 

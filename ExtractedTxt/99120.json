@@ -1,0 +1,29 @@
+{
+    "Filename": "99120.txt",
+    "Location": "Plain City, Ohio",
+    "Accident Number": "CEN19FA100",
+    "Date & Time": "March 17, 2019, 17:45 Local",
+    "Aircraft": "Cessna 421",
+    "Registration": "N424TW",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot departed short crosscountry flight twinengine airplane instrument meteorological condition imc present time en route altitude 3000 ft mean sea level pilot reported airplane picking icing needed pick speed controller cleared pilot descend climb order exit icing condition shortly thereafter controller issued low altitude alert pilot indicated climbing radar radio contact airplane lost shortly thereafter airplane impacted field 7 mile short destination airport examination airplane limited due fragmentation wreckage however preimpact anomaly noted airframe engine examination extensive damage pitot static deicing system precluded functional testing two system review data recorded onboard avionics unit indicated time pilot reported controller airplane accumulating ice airplane indicated airspeed begun diverge ground speed calculated position data however several minute later indicated airspeed zero ground speed remained fairly constant likely airspeed indication result icing airplane pitot probe final 2 minute flight airplane left turn pilot received several sink rate pull pull annunciation airplane conducted series climb descent ground speed likely airspeed reached andor exceeded airplane maneuvering maximum structural cruising speed likely pilot became distracted erroneous airspeed indication due icing pitot probe subsequently lost control maneuvering",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "speed",
+                5
+            ]
+        ]
+    }
+}

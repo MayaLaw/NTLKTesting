@@ -1,0 +1,29 @@
+{
+    "Filename": "93972.txt",
+    "Location": "International Waters,",
+    "Accident Number": "DCA16CA220",
+    "Date & Time": "August 31, 2016, 02:10 UTC",
+    "Aircraft": "Boeing 767 322",
+    "Registration": "N657UA",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 11 Minor",
+    "Analysis": {
+        "Text": "august 31 2016 0210 universal coordinated time united airline flight 880 boeing 767322 n657ua encountered severe turbulence cruise resulted one flight attendant sustaining serious injury another flight attendant 10 passenger including one infant received minor injury injury passenger crew onboard airplane damaged flight operating provision 14 code federal regulation part 121 regularly scheduled passenger flight george bush intercontinental airport kiah houston texas londonheathrow airport egll united kingdom flight diverted shannon airport einn shannon ireland according flight crew statement aircraft cruise flight level fl 340 approximately 50 mile east 40w north atlantic track x encountered unexpected severe turbulence lasted approximately 45 second captain indicated forecast turbulence portion flight pilot weather report pirep air traffic control advisory preflight weather package flight crew indicated flight condition smooth devoid turbulence approximately two hour prior event seat belt sign 2 hour prior event indicated onboard weather radar operating auto mode return observed prior event event seat belt sign immediately illuminated assessing level number injury captain decided divert einn expedite landing injured passenger one flight attendant treated minor injury released one flight attendant admitted hospital fracture left wrist l3 vertebra according weather analysis conducted united airline satellite imagery indicated convective buildupenhancement form isolated cell region event atlantic high weather prognostic chart valid period depicted potential isolated cumulonimbus cloud area implied potential severe greater turbulence associated convection nighttime condition lack lightning lower convection likely",
+        "Top Words": [
+            [
+                "flight",
+                13
+            ],
+            [
+                "turbulence",
+                5
+            ],
+            [
+                "injury",
+                5
+            ]
+        ]
+    }
+}

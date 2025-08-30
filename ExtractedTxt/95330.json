@@ -1,0 +1,29 @@
+{
+    "Filename": "95330.txt",
+    "Location": "Harrisonville, Missouri",
+    "Accident Number": "CEN17LA217",
+    "Date & Time": "June 8, 2017, 09:00 Local",
+    "Aircraft": "Piper PA 28-235",
+    "Registration": "N3082T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "AC/prop/rotor contact w person",
+    "Injuries": "1 Serious, 1 None",
+    "Analysis": {
+        "Text": "private pilot taxied airplane park taxiing past friend using camera record airplane pilot felt thump could see friend turned airplane around saw friend lying ground friend sustained serious injury airplane sustained damage left wingtip weather time accident clear sky restriction visibility probable cause finding national transportation safety board determines probable cause accident pilot failure maintain safe distance airplane person ground resulted serious injury person finding personnel issue decision makingjudgment personnel issue monitoring person pilot environmental issue person awareness condition",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "friend",
+                4
+            ]
+        ]
+    }
+}

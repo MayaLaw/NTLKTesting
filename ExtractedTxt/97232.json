@@ -1,0 +1,29 @@
+{
+    "Filename": "97232.txt",
+    "Location": "Wickenburg, Arizona",
+    "Accident Number": "GAA18CA274",
+    "Date & Time": "May 10, 2018, 11:45 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N430PA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported approach stable landing roll applying brake airplane veered right released brake thought needed maintain directional control reapplied brake subsequently added full power go around becoming airborne airplane turned left right wing struck runway sign student reduced power landed airplane applied brake stop airplane sustained substantial damage stabilator flight school safety manager reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 13 minute accident wind 210 7 knot airplane landed runway 05 probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control landing roll tailwind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "brake",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

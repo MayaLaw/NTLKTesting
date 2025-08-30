@@ -1,0 +1,40 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Lakeway, Texas
+Accident Number:
+CEN19FA099
+Date & Time:
+March 14, 2019, 13:40 Local 
+Registration:
+N8620B
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and student pilot were conducting takeoffs and landings in the airport traffic 
+pattern. A flight instructor and pilot on the ground reported that the accident airplane's engine was 
+"cutting in and out" or "sputtering" following an aborted landing. Both witnesses reported that the 
+airplane appeared to be maneuvering to return to the runway when the airplane entered a left turn, then 
+descended in a steep, nose-down attitude consistent with an aerodynamic stall. The common traffic 
+advisory frequency recording captured a transmission that indicated the flight instructor might attempt to 
+return to the airport. The airplane impacted a tree and then a road sign in a mostly residential area. 
+A postaccident examination of the airframe and engine revealed no mechanical malfunctions that would 
+have precluded normal operation. The propeller exhibited signs of rotation and propeller strike marks 
+were found on the ground at the accident site. Although the witness reports indicated a possible loss of 
+power, the reason for the partial loss of engine power could not be determined based on the postaccident 
+examination. After the partial loss of engine power, the flight instructor attempted a turn at low altitude, 
+during which he failed to maintain proper airspeed and exceeded the airplane's critical angle of attack, 
+which resulted in an aerodynamic stall and a loss of control at an altitude too low for recovery. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power for reasons that could not be determined, and the flight 
+instructor's exceedance of the airplane's critical angle of attack while maneuvering for a forced 
+landing, which resulted in an aerodynamic stall and subsequent loss of control.

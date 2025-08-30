@@ -1,0 +1,29 @@
+{
+    "Filename": "98372.txt",
+    "Location": "La Verne, California",
+    "Accident Number": "WPR18FA279",
+    "Date & Time": "September 29, 2018, 18:00 Local",
+    "Aircraft": "Cessna 177RG",
+    "Registration": "N46321",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "pilot passenger departing airport witness stated heard backfiring airplane takeoff roll observed airplane become airborne landing gear start retract 1 minute 30 second pilot received take clearance pilot requested return airport due engine problem air traffic controller cleared pilot land runway 8l pilot subsequently initiated right turn witness observed airplane descend ground noselow attitude likely returning airport takeoff pilot failed maintain proper airspeed resulted exceedance airplane critical angle attack airplane experienced aerodynamic stall examination airframe engine reveal anomaly would precluded normal operation cause engine problem reported pilot could determined probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed exceedance airplane critical angle attack turn resulted aerodynamic stall subsequent loss control contributing accident undetermined engine anomaly",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                4
+            ]
+        ]
+    }
+}

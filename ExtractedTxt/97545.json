@@ -1,0 +1,29 @@
+{
+    "Filename": "97545.txt",
+    "Location": "Columbia, South Carolina",
+    "Accident Number": "GAA18CA368",
+    "Date & Time": "June 18, 2018, 17:20 Local",
+    "Aircraft": "Piper PA 32-300",
+    "Registration": "N41AL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landed airplane right runway centerline airplane veered runway left propeller struck ground nosewheel separated airplane sustained substantial damage lower firewall mating lower engine mount pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing finding personnel issue aircraft control pilot aircraft directional control attainedmaintained",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

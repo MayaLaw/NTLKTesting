@@ -1,0 +1,29 @@
+{
+    "Filename": "97752.txt",
+    "Location": "Rhome, Texas",
+    "Accident Number": "CEN18FA265",
+    "Date & Time": "July 12, 2018, 13:30 Local",
+    "Aircraft": "ROSE PARRAKEET A-1",
+    "Registration": "N14842",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot departed airport witness observed airplane climbing 100 ft ground another witness observed airplane nosehigh attitude airplane struggling gain altitude banked hard right entered sharp nosedown attitude impacted field near airport postaccident examination airplane revealed mechanical anomaly would precluded normal operation ground scarring accident site crush angle airframe observed wing drop airplane descent terrain consistent exceedance airplane critical angle attack resulting aerodynamic stall probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack takeoff resulted aerodynamic stall finding aircraft angle attack capability exceeded personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "angle",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

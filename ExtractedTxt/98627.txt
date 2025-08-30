@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Wildwood, New Jersey
+Accident Number:
+ERA19TA042
+Date & Time:
+November 10, 2018, 15:30 Local 
+Registration:
+N78870
+Aircraft:
+Mooney M20C
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the airplane contained 21 gallons of fuel in the left fuel tank and 3 gallons of fuel 
+in the right fuel tank before the flight. The pilot performed the engine start, taxi, runup, and takeoff with 
+the fuel selector on the right fuel tank. During the initial climb, at an altitude between 100 and 200 ft 
+above ground level, the engine sputtered and then lost all power. With about 1,700 ft of runway 
+remaining, the pilot entered a right turn, and the airplane impacted the ground left of the runway, 
+resulting in substantial damage to the right wing, the left horizontal stabilizer, and left elevator.
+Postaccident examination of the airplane found that the right fuel tank contained no fuel, and the left fuel 
+tank contained about 20 gallons. The fuel selector was found in the left tank position. It is likely that, 
+during the accident sequence, the pilot moved the fuel selector to the left tank position; but the airplane’s 
+low altitude at the time of the loss of power provided insufficient time to restore fuel flow before impact. 
+The circumstances of the accident are consistent with a total loss of engine power due to fuel starvation 
+as a result of the pilot’s mismanagement of the available fuel. Contributing to the accident was the 
+pilot’s decision to initiate a 180° turn following the loss of power despite the runway remaining.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s improper fuel management, which resulted in a total loss of engine power due to fuel 
+starvation during the initial climb. Contributing to the accident was the pilot’s decision to initiate a 180° 
+turn following the loss of power. 

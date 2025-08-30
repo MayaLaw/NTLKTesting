@@ -1,0 +1,29 @@
+{
+    "Filename": "97871.txt",
+    "Location": "Oshkosh, Wisconsin",
+    "Accident Number": "CEN18CA293",
+    "Date & Time": "July 24, 2018, 10:03 Local",
+    "Aircraft": "Just JA30 SUPERSTOL",
+    "Registration": "N45FT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot stated initial climb takeoff flight control got mushy airplane began sink pilot added flap verified engine throttle position however airplane continued sink flight control continued feel mushy pilot pushed airplane nose forward retracted flap airplane descended hit ditch gravel road coming rest adjacent chainlink fence examination airplane related system revealed preimpact mechanical anomaly would precluded normal operation pilot statement along video accident revealed ilot maintain adequate airspeed initial climb climbed shallowly due low airspeed exceedance airplane critical angle attack airplane aerodynamically stalled probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed initial climb exceedance airplane critical angle attack resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "initial",
+                3
+            ]
+        ]
+    }
+}

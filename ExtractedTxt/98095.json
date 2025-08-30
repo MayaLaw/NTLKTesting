@@ -1,0 +1,29 @@
+{
+    "Filename": "98095.txt",
+    "Location": "Gilliam Glacier, Alaska",
+    "Accident Number": "GAA18CA494",
+    "Date & Time": "August 12, 2018, 14:30 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N9884D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported weather condition gusty wind intermittent rain quartering headwind existed airstrip initial climb wind gust forced airplane back ground effect another gust forced airplane back onto airstrip right main landing gear collapsed right wing struck ground airplane came rest nose airplane sustained substantial damage fuselage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind variable 5 knot gusting 22 knot pilot reported accident could prevented waited calmer condition probable cause finding national transportation safety board determines probable cause accident pilot improper decision take gusting crosswind condition resulted loss control collision terrain",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

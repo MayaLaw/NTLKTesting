@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Hanson, Massachusetts
+Accident Number:
+ERA18TA236
+Date & Time:
+August 27, 2018, 12:50 Local 
+Registration:
+N3115R
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Skydiving
+Analysis 
+The commercial pilot reported that during the airplane's initial climb for the local skydiving flight, the 
+radio stopped working. He continued climbing to 7,500 ft to allow skydivers to depart the airplane, 
+noted that the engine was running roughly at that time, then circled down over the airport. The pilot 
+reported that his approach was "a little faster and higher than normal" and that he landed longer than 
+usual but chose not to execute a go-around because of the rough-running engine. Surveillance video and 
+witnesses indicated that the airplane touched down near the midpoint of the 1,760-ft-long runway with a 
+quartering tailwind. The airplane's tires left over 500 ft of skid marks before the airplane overran the 
+departure end of the runway, encountered a ditch, nosed over, and came to rest inverted 183 ft beyond 
+the departure end of the runway.
+Postaccident testing of the brakes showed that they were operational and did not reveal evidence of any 
+preimpact mechanical malfunctions or failures that would have precluded normal operation. In addition, 
+postaccident examination of the engine revealed no evidence of any preimpact mechanical malfunctions 
+or failures that would have precluded normal engine operation, except that the alternator belt was found 
+off of its pulleys. However, the airplane's battery still indicated a normal voltage, and the airplane's flaps 
+were found extended, indicating that the airplane's electrical system was still functional throughout the 
+landing attempt. Despite the condition of the alternator belt, the airplane's engine never ceased 
+producing power. The pilot should have been able to perform a normal landing but instead performed a 
+faster and higher approach than normal and failed to attain the proper touchdown point.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to attain the proper touchdown point, which resulted in a runway overrun. 
+Contributing to the accident was the pilot's decision to land with a quartering tailwind.

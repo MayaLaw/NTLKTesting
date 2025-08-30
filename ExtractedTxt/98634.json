@@ -1,0 +1,29 @@
+{
+    "Filename": "98634.txt",
+    "Location": "Piseco, New York",
+    "Accident Number": "GAA19CA058",
+    "Date & Time": "November 12, 2018, 13:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N738VK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported landing snowplowed runway touchdown airplane slipped sideways wheel struck snow pile airplane turned left applied full power go around airplane impacted tree airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot loss directional control landing resulted impact snow pile necessitated goaround airplane impacted tree",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

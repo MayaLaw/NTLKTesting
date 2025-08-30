@@ -1,0 +1,29 @@
+{
+    "Filename": "98028.txt",
+    "Location": "Lewiston, Idaho",
+    "Accident Number": "WPR18LA215",
+    "Date & Time": "August 8, 2018, 18:28 Local",
+    "Aircraft": "Cessna T337",
+    "Registration": "N255",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported returning airport uneventful aerial survey flight pilot extended landing gear system began operating gear extend multiple effort extend gear including assistance passenger coordination company maintenance personnel unsuccessful pilot burned excess fuel conducted gear landing airport airplane sustained substantial damage lower fuselage postaccident examination airplane revealed two main landing gear door actuator hyperextended allowed hydraulic fluid lost detailed examination indicated right actuator hyperextended flight left one hyperextended due landing gear door runway contact gearup landing actuator rod actuator normally travellimited contained single internal snap ring acted mechanical stop retention device rod inside actuator cylinder undetermined reason snap ring liberated groove right actuator allowed actuator rod travel beyond normal limit resulted loss hydraulic fluid operational failure landing gear postexamination reassembly testing landing gear system indicated hyperextended actuator mechanical deficiency system airplane manufacturer maintenance manual specified replacement snap ring retainer upon rebuild actuator according airplane maintenance record three main landing gear door cylinder actuator rebuilt new orings 4 year accident entry cite additional detail rebuilds including whether new internal snap ring installed discussion operator director maintenance indicated snap ring likely replaced actuator rebuild review industry document revealed occurrence snap ring liberation consequent landing gear system problem model airplane least two different hardware option prevent recurrence available one incorporated newdesign actuator eliminated accident",
+        "Top Words": [
+            [
+                "actuator",
+                12
+            ],
+            [
+                "gear",
+                10
+            ],
+            [
+                "landing",
+                9
+            ]
+        ]
+    }
+}

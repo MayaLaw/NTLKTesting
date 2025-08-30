@@ -1,0 +1,29 @@
+{
+    "Filename": "98019.txt",
+    "Location": "Moab, Utah",
+    "Accident Number": "GAA18CA477",
+    "Date & Time": "May 19, 2018, 10:00 Local",
+    "Aircraft": "Davidson, Ronald A. Avid",
+    "Registration": "N833RD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll dirt surface pinned tailwheel ground applied aft stick keep tailwheel ground however concerned condition last third runway chose stop reported applied brake little harder normal tail rose ground released brake application tail continued rise airplane nosed airplane sustained substantial damage vertical stabilizer rudder pilot reported still 1000 ft runway remaining failed recognize correct momentum rising tail timely manner pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot excessive brake application delayed remedial action resulted noseover",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

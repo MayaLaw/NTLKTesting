@@ -1,0 +1,29 @@
+{
+    "Filename": "99342.txt",
+    "Location": "St Charles, Missouri",
+    "Accident Number": "GAA19CA231",
+    "Date & Time": "April 26, 2019, 12:35 Local",
+    "Aircraft": "Beech 76",
+    "Registration": "N3733D",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported instructional flight pilot receiving instruction practicing engineout landing landing checklist called due wind effect landing gear extended airplane touched runway centerline landing gear retracted airplane slid left exited runway impacted landing light lower fuselage longerons substantially damaged probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction failure extend landing gear contributing accident pilot receiving instruction failure complete landing checklist flight instructor inadequate monitoring pilot",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

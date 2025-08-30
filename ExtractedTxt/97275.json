@@ -1,0 +1,29 @@
+{
+    "Filename": "97275.txt",
+    "Location": "Bayou La Batre, Alabama",
+    "Accident Number": "GAA18CA284",
+    "Date & Time": "May 5, 2018, 17:00 Local",
+    "Aircraft": "Yakovlev YAK 52",
+    "Registration": "N81FS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot experimental exhibition airplane departed grass airstrip 1 hour rain shower 15minute pleasure flight landed wet grass airstrip reported airplane touched 700 ft past 2000ftlong runway threshold 75 knot full flap trim set nose applied brake multiple time airplane overran departure end runway airplane groundspeed 13 knot right wing struck fence airplane sustained substantial damage rightwing aileron recommendation section national transportation safety board pilot aircraft accident report pilot asserted accident could prevented taken consideration reduced traction offered wet grass pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper planning landing wet grass airstrip resulted runway overrun",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "grass",
+                4
+            ]
+        ]
+    }
+}

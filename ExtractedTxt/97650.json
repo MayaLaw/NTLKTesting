@@ -1,0 +1,29 @@
+{
+    "Filename": "97650.txt",
+    "Location": "Baldwin City, Kansas",
+    "Accident Number": "CEN18LA246",
+    "Date & Time": "June 30, 2018, 11:55 Local",
+    "Aircraft": "Cessna 337",
+    "Registration": "N107BL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot conducting local flight practice singleengine maneuver taking climbing airplane 3500 ft shut rear engine feathered propeller performing turn climb pilot attempted unfeather propeller restart engine unsuccessful returned airport set singleengine approach approach pilot realized flap longer fullflap setting landing grass runway going close chose perform goaround however pilot began go around realized airplane could maintain altitude maneuvered airplane offairport landing nearby field airplane struck small tree fence sustained substantial damage left wing fuselage rear engine propeller remote hydraulic accumulator assisted unfeathering propeller normally serviced 120 pound per square inch psi annual inspection took place 4 flight hour accident flight noted pressure slightly low postaccident examination accumulator pressure 85 psi likely nitrogen leak occurred time accumulator last serviced time accident however reason nitrogen leak could determined flap switch holding position due loss tension flap switch pivot likely flap fullflap setting reported pilot",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "propeller",
+                4
+            ]
+        ]
+    }
+}

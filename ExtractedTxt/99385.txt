@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Auburn, California
+Accident Number:
+GAA19CA247
+Date & Time:
+May 6, 2019, 13:10 Local 
+Registration:
+N734DX
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that he simulated a power-off emergency landing with a 180º turn to the 
+runway and then trimmed the elevator "fully nose up" and added full flaps. Before touchdown, the 
+airplane drifted right of centerline, and he had "difficulty correcting and maintaining control" of the 
+airplane, so he initiated a go-around. The student added that, subsequently, he "retracted [the] flaps 
+entirely," and the airplane "fell [about 10 ft] to the ground," the nosewheel impacted terrain, and the 
+airplane then nosed over. 
+The airplane sustained substantial damage to the left wing and empennage. 
+The student reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper retraction of the flaps during a go-around and his exceedance of the airplane's 
+critical angle of attack, which resulted in an aerodynamic stall. 

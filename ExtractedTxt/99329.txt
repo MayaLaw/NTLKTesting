@@ -1,0 +1,45 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Sulphur Spring, Texas
+Accident Number:
+CEN19LA129
+Date & Time:
+April 27, 2019, 09:45 Local 
+Registration:
+N233P
+Aircraft:
+Piper PA 23
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of a twin-engine airplane was in cruise flight when the left engine lost partial power. He turned 
+on the boost pumps, checked the fuel quantity and engine gauges, verified fuel tank selection, and added 
+throttle.  However, the left engine continued to lose power. The pilot reported that, without warning, the 
+right engine lost total power and would not restart. The right propeller went to the feathered position.  
+The pilot initiated a forced landing to a field. During the descent, the left engine lost total power but the 
+propeller continued to rotate, and the left engine was unresponsive to throttle input. During the forced 
+landing, the airplane sustained substantial damage to the left and right wings and the fuselage.
+Examination of the right engine found the magneto timing at 12.5º (data plate specifies 25º). Otherwise, 
+no preimpact abnormalities were noted during the right engine examination that would have precluded 
+normal operations. The investigation was not able to determine why the right propeller was stopped in 
+the feathered position.
+Examination of the left engine found the magneto timing at 23º. The bolts that secured the upper and 
+lower halves of the carburetor were found loose. When the carburetor was opened, the inside of the bowl 
+was dry, and the gasket appeared worn, consistent with rubbing between the two carburetor halves. The 
+top set of spark plugs displayed heavy carbon coating consistent with the left engine running at a rich 
+fuel setting.  During a test run, the left engine would not produce rated power and ran rich. When the 
+mixture was leaned, the left engine ran smooth and ran normally. The carburetor was bench tested and 
+operated as expected. The carburetor was disassembled, and evidence of water staining was present. 
+A fuel sample collected from the left side fuel tank appeared divided with the top part blue, consistent 
+with 100 LL avgas, and the lower portion of the liquid was clear with brown sediment visible at the 
+intersection of the two liquids. The fuel strainer bowl revealed rust colored liquid and sediment in the 
+bowl. The fuel strainer screen contained numerous small flakes of an unidentified contaminant. A 
+sample of fuel drained from the left-wing tank tested positive for water when tested with water-finding 
+paste. The loss of power on the left engine is likely due to water contamination.  

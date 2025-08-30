@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Barnesville, Georgia
+Accident Number:
+ERA19LA052
+Date & Time:
+November 17, 2018, 11:12 Local 
+Registration:
+N111TA
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that the student pilot was taking off for an instructional flight from an 
+upsloping, 3,000-ft-long turf runway with 7- to 8-knot headwinds. The airspeed reached 65 knots and 
+was increasing at the predesignated decision point, which was about 60% of the runway length. After 
+takeoff, the airplane unexpectedly banked left. The student called out that the flight controls were not 
+responding, and the instructor simultaneously took the controls. Realizing that the airplane would not 
+clear trees at the departure end of the runway, the instructor chose to land the airplane straight ahead and 
+aim it between trees. The airplane touched down about 200 ft before the trees and traveled forward until 
+it struck several of them, which resulted in substantial damage to the airframe.
+Postaccident examination of the airframe and engine did not reveal evidence of any preaccident 
+mechanical malfunctions or failures that would have precluded normal operation. Further, flight control 
+continuity was confirmed from the flight control surfaces to the cockpit controls. Given that no 
+mechanical anomalies were found during postaccident examination of the airframe, it is likely that the 
+student failed to maintain airplane control during takeoff and that the flight instructor's delayed remedial 
+action resulted in the subsequent off-runway landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain airplane control during takeoff and the flight instructor's delayed 
+remedial action, which resulted in an off-runway landing and subsequent collision with trees.

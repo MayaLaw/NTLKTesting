@@ -1,0 +1,29 @@
+{
+    "Filename": "97335.txt",
+    "Location": "Wichita, Kansas",
+    "Accident Number": "CEN18LA197",
+    "Date & Time": "May 28, 2018, 12:10 Local",
+    "Aircraft": "FAIRCHILD(HOWARD) M 62C(PT-",
+    "Registration": "N64176",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot reported filled airplane fuel 5 day accident flight flown airplane intervening 5 day fuel indicator still showing tank full accident flight pilot calculated sufficient fuel onboard 3hour 15 minutelong flight pilot performing flyover five cemetery required flying holding orbit three cemetery two pass two cemetery flew back toward departure airport land airplane 5 minute airport switched fuel tank appeared fullest tank reported fuel level fuel tank low fuel quantity indicator showing e final approach 150 200 ft ground engine lost total power switched fuel tank started using manual pump engine regained power 1 2 second losing power subsequently conducted offairport forced landing lot 18 mile end runway airplane touched hard bounced right wing hit pole airplane impacted fence another pole coming rest pilot used flight tracker program showed flight 2 hour 41 minute long postaccident examination accident site found fuel spillage examination airplane revealed fuel tank contained 12 cup fuel teaspoon fuel recovered engine strainer bowl although pilot thought sufficient fuel onboard airplane flight given evidence likely engine lost power due fuel exhaustion pilot miscalculated fuel consumption rate preflight planning probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

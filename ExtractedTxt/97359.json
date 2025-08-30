@@ -1,0 +1,29 @@
+{
+    "Filename": "97359.txt",
+    "Location": "Tonopah, Nevada",
+    "Accident Number": "WPR18LA156",
+    "Date & Time": "May 30, 2018, 11:08 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N191HL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot reported airplane reached 8000 ft mean sea level personal crosscountry flight began smell smoke heard popping sound engine began lose power initiated return airport descent engine lost power pilot maneuvered airplane land highway due obstruction pilot subsequently landed airplane highway median airplane landed hard resulted substantial damage fuselage wing examination engine revealed signature consistent detonation led failure 4 piston crankcase becoming pressurized oil pumped overboard eventual oil starvation engine component review data engine data monitor edm revealed flight occurred earlier day fuel flow engine temperature appropriate however edm data accident flight revealed fuel flow significantly lower takeoff en route climb portion flight cylinder head turbine inlet oil temperature reached extremely high value pilot stated could specifically recall step took manage fuelair mixture flight low fuel flow recorded edm along excessive temperature suggests mixture set lean additionally following accident mixture control appeared leaned cruise flight rather full rich however aircraft flight manual specified fuel mixture set full rich operational phase engine start cruise climb given evidence likely pilot improperly leaned fuelair mixture adequately monitor critical engine parameter via cockpit gauge led high engine temperature going undetected resulted oil starvation subsequent catastrophic engine failure",
+        "Top Words": [
+            [
+                "engine",
+                10
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

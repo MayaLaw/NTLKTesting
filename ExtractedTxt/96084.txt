@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Danbury, Connecticut
+Accident Number:
+GAA17CA550
+Date & Time:
+September 22, 2017, 10:39 Local 
+Registration:
+N9624B
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the second touch-and-go landing in 
+gusting wind conditions, the "wind got under [the] left wing," and the airplane ground looped to the left. 
+He added that, during the ground loop, he applied brakes, and the airplane nosed over on the runway. 
+The right wing and fuselage sustained substantial damage. 
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation.
+An automated weather observation station at the airport reported, about the time of the accident, wind 
+from 360° at 10 knots, gusting 20 knots. The pilot reported that the landing was on runway 35.
+The pilot did not submit the National Transportation Safety Board Form 6120.1 Pilot/ Operator Aircraft 
+Accident/ Incident Report. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll in gusting wind conditions.

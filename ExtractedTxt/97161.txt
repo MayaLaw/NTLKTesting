@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Marathon, Texas
+Accident Number:
+CEN18LA157
+Date & Time:
+May 2, 2018, 11:00 Local 
+Registration:
+N73BH
+Aircraft:
+HARTLINE J BON HARTLINE 
+KITFOX III
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and the passenger were departing on a local personal flight in the experimental amateur-built 
+airplane. The pilot indicated that, during the takeoff climb, about 15 ft above the ground, the airplane 
+violently rolled to the right. He applied full aileron and rudder opposite the direction of the roll, but the 
+airplane continued to roll to the right, struck the ground with the right wing, and then impacted a tree. 
+Postaccident examination of the airplane revealed that three of the four hinges connecting the right 
+flaperon hanger rib were loose. The wooden material of the flaperon was found dry rotted where the 
+hinges connected. The airplane had been flown about 3 hours in the 11 months before the accident. The 
+airplane kit manufacturer had issued a service bulletin in 1991 that identified flaperon hanger rib failures 
+on the model of the accident airplane. The service bulletin recommended the addition of an aluminum 
+reinforcement on each flaperon hanger rib end. The accident airplane did not have the reinforcement 
+installed and thus did not have the benefit of additional reinforcement in the attachment point area of the 
+hinges.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the flaperon hinge attachment point during takeoff, which resulted in a loss of airplane 
+control. Contributing to the accident was the lack of reinforcement of the hinge attachment point in 
+accordance with the manufacturer's service bulletin.

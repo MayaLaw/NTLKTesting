@@ -1,0 +1,29 @@
+{
+    "Filename": "96843.txt",
+    "Location": "Ogden, Utah",
+    "Accident Number": "WPR18LA102",
+    "Date & Time": "March 5, 2018, 14:30 Local",
+    "Aircraft": "MACDONALD CRAIG MAC CUB",
+    "Registration": "N669WH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot pilot rated passenger conducting local flight engine began run roughly partial loss engine power followed airplane unable maintain altitude pilot made forced landing onto muddy road landing roll airplane sunk mud nosed came rest inverted causing substantial damage left wing vertical stabilizer engine examination test run performed revealed preaccident mechanical failure malfunction would precluded normal operation nearest weather reporting facility located 6 nautical mile accident site reported temperature 356of dew point 194of range atmosphere condition conducive carburetor icing glide cruise power setting pilot reported carburetor heat activated time partial loss engine power pilot also reported rear airplane seat although pilot access set flight control rear seat compartment equipped carburetor heat control handle engine power would likely restored carburetor heat engaged probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96015.txt",
+    "Location": "Machias, Maine",
+    "Accident Number": "ERA17LA325",
+    "Date & Time": "September 14, 2017, 11:30 Local",
+    "Aircraft": "Beech C23",
+    "Registration": "N2120W",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot descended airplane destination airport apply carburetor heat traffic pattern airplane turning onto left base leg runway engine began run roughly pilot applied carburetor heat engine lost total power realizing airplane going glide runway threshold pilot performed forced landing grassy area short runway landing nose gear collapsed airplane spun 180 came rest resulted substantial damage right wing examination wreckage reveal evidence preimpact mechanical malfunction failure ignition system fuel system engine would precluded normal operation weather condition time accident conducive formation serious carburetor icing glide power although descent checklist pilot operating handbook airplane make model instructed pilot use carburetor heat required pilot apply carburetor heat initiating descent rather waited engine began run roughly likely engine initially lost partial power developing carburetor ice pilot delayed application carburetor heat ineffective melting accumulated ice probable cause finding national transportation safety board determines probable cause accident pilot delay applying carburetor heat resulted total loss engine power due carburetor icing",
+        "Top Words": [
+            [
+                "carburetor",
+                9
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "heat",
+                6
+            ]
+        ]
+    }
+}

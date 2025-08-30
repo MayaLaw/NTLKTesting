@@ -1,0 +1,29 @@
+{
+    "Filename": "98150.txt",
+    "Location": "Quincy, Florida",
+    "Accident Number": "ERA18LA229",
+    "Date & Time": "August 24, 2018, 12:35 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N773CB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot performed preflight inspection airplane engine runup discrepancy takeoff 125 ft ground level landing gear extended pilot reported engine suddenly lost total power pilot adequate time troubleshoot loss power performing forced landing airplane impacted tree although pilot recalled departing fuel selector left tank position report changing flight found right tank position accident examination airframe engine fuel system component revealed minimal fuel fuel pump throttle body finding supported decreased fuel flow recorded engine monitor consistent fuel starvation however reason decreased fuel flow could determined examination fuel vent system left right fuel tank revealed free obstruction one vent respective tank fuel supply system wing fuel tank engine also clear either fuel selector position water found right fuel tank consistent fire department using water extinguish fire started recovery process test run engine revealed anomaly would precluded normal operation mixture lever metering valve impact damaged loose exhibited evidence smearing damage section brass lever however smearing along entire periphery therefore evidence mixture control lever rotating relation stem mixture control shaft probable cause finding",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "tank",
+                6
+            ]
+        ]
+    }
+}

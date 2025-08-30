@@ -1,0 +1,29 @@
+{
+    "Filename": "98598.txt",
+    "Location": "Cleburne, Texas",
+    "Accident Number": "GAA19CA048",
+    "Date & Time": "November 1, 2018, 14:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N3984L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported final approach destination airport engine lost power due home line approach end runway decided perform emergency landing field airplane slid came rest tree airplane sustained substantial damage left wing pilot reported considered engine fuel burn touchandgo landing headwind preflight planning postaccident examination federal aviation administration inspector reported fuel gauge read zero fuel found right fuel tank 10 ounce fuel found left fuel tank fuel added airplane engine started operated normally added talked pilot stated flown 36 hour performed least six touchandgo landing pilot also stated airplane usually 35hour maximum range 1000 ft ground level 8 9 gallon per hour likely properly monitor engine fuel consumption led fuel exhaustion given evidence likely pilot ensure sufficient fuel onboard airplane flight monitor properly flight resulted fuel exhaustion subsequent total loss engine power probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning inflight fuel management resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

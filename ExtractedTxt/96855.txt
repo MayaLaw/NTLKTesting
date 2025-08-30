@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Cedar Rapids, Iowa
+Accident Number:
+GAA18CA156
+Date & Time:
+March 11, 2018, 14:25 Local 
+Registration:
+N9457K
+Aircraft:
+Stinson 108
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during a three-point landing, the tailwheel touched down first, and as the main 
+landing gear touched down the airplane bounced. He applied more back pressure on the yoke, and as the 
+airplane settled on the main landing gear it veered to the left. He applied right rudder and brake to no 
+avail. Subsequently, the right wingtip struck the ground, and the airplane nosed over.
+The airplane sustained substantial damage to the left wing, the right-wing lift strut, and the empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system located at the accident airport reported that, about the time 
+of the accident, the wind was from 010° at 6 knots. The pilot landed on runway 9.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in a loss of directional control and a nose-over.

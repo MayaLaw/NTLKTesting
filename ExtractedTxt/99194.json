@@ -1,0 +1,29 @@
+{
+    "Filename": "99194.txt",
+    "Location": "Hermiston, Oregon",
+    "Accident Number": "GAA19CA185",
+    "Date & Time": "March 28, 2019, 14:53 Local",
+    "Aircraft": "Rockwell S 2R",
+    "Registration": "N4250X",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported completing agricultural application flight returned airport added final added flap became distracted spray handle became open due vibration took hand control stick close spray handle airplane improperly trimmed airplane pitched severely pitched nose level main landing gear struck ground airplane bounced impacted irrigation system right main landing gear separated airplane spun around coming rest airplane sustained substantial damage wing fuselage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot distraction due spray handle opening improper pitch trim setting final approach resulted excessive pitchdown took hand control close handle",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "handle",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

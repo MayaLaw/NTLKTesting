@@ -1,0 +1,45 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Glenwood Springs, Colorado
+Accident Number:
+CEN17FA354
+Date & Time:
+September 15, 2017, 20:10 Local 
+Registration:
+N462SR
+Aircraft:
+CIRRUS DESIGN CORP SR22
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+4 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The non-instrument-rated private pilot and three passengers departed on a night cross-county flight over 
+mountainous terrain. Radar track data showed that the airplane traveled mainly on a southwesterly 
+heading directly towards its destination with a series of altitude changes. About 5 minutes before the 
+accident, the airplane turned to the northwest, a deviation off the destination course, and continued 
+northwest for about 12 miles. After the turn, a passenger sent a text message to a family member stating 
+that they were "taking the long way around, lots of weather, keep you posted." Shortly thereafter, the 
+airplane entered a gradual left turn to the southwest, descending from 11,500 ft to 11,300 ft, then 
+climbing back to 11,400 ft. The last recorded radar return was about 1/4 mile south of the accident site, 
+which was located at an elevation of 10,800 ft. Postaccident examination of the airframe and engine 
+showed severe fragmentation of the airplane consistent with a high-energy impact and did not reveal any 
+preimpact anomalies that would have precluded normal operation. 
+The flight was likely operating in instrument meteorological conditions (IMC) at the time of the 
+accident, including light to moderate icing conditions. The airplane likely encountered intermittent IMC 
+beginning about 30 minutes after takeoff, and continued into an area of solid IMC about 3 minutes 
+before the accident occurred. 
+There was no record of the pilot retrieving preflight weather information from an official, access-
+controlled source, and what weather information, if any, he obtained before or during the flight could 
+not be determined. Based on the weather forecasts and information valid before the airplane departed 
+and while en route, and the equipment available onboard the airplane, there was sufficient weather 
+information available to the pilot before and during the flight to make informed decisions regarding the 
+weather he would likely encounter.
+The night instrument conditions present at the time of the accident were conducive to the development 
+of spatial disorientation and the circumstances of the accident. The non-instrument-rated pilot's 
+continued flight into IMC, the airplane's descending turn depicted on radar, and the fragmentation of the 

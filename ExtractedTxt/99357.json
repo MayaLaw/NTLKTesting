@@ -1,0 +1,29 @@
+{
+    "Filename": "99357.txt",
+    "Location": "Chandler, Oklahoma",
+    "Accident Number": "GAA19CA237",
+    "Date & Time": "April 26, 2019, 19:50 Local",
+    "Aircraft": "Vans RV 6",
+    "Registration": "N621L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing grass runway applied brake retracted flap airplane subsequently nosed airplane sustained substantial damage left wing vertical stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot overapplication brake landing grass runway resulted nose",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

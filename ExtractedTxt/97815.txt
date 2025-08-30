@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Vinton, Iowa
+Accident Number:
+CEN18LA278
+Date & Time:
+July 17, 2018, 13:45 Local 
+Registration:
+N5553X
+Aircraft:
+Aero Commander S2R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot stated that on final approach, he slowed the airplane for landing. When the airplane 
+crossed the end of the runway, he reduced the throttle back, but the airplane would not slow, so 
+he executed a go-around. During the go-around, the engine lost partial power and would not 
+respond to the pilot’s throttle inputs. The pilot then executed a forced landing in a cornfield, 
+and the airplane sustained substantial damage to the fuselage and empennage. 
+Examination of the throttle control system revealed that the interlocking teeth mechanisms 
+between the carburetor lever stop assembly and the throttle control lever were worn and lost 
+integrity to interconnect. The teeth on the lever stop assembly were severely worn. Thus, it is 
+likely that during the accident flight, when the pilot actuated the throttle control lever, the 
+throttle control system failed when the worn-down teeth on the lever stop would not engage 
+the teeth on the mating throttle control lever. This caused a loss of the throttle lever input, 
+which allowed the engine to enter a low rpm condition. The material examination also noted a 
+mismatch in hardness of the associated parts; although the hardness values were typical for the 
+respective part compositions and microstructures, the mismatch in hardness lent itself to 
+higher wear rates. A review of the airplane’s maintenance records revealed that the carburetor 
+had been removed for overhaul and reinstalled 135 hours before the accident. It is likely that 
+maintenance personnel reinstalled the worn parts without thoroughly inspecting them.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

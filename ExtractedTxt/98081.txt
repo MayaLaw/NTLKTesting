@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Barter Island, Alaska
+Accident Number:
+GAA18CA491
+Date & Time:
+August 15, 2018, 17:09 Local 
+Registration:
+N206JM
+Aircraft:
+Cessna U206
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The pilot reported that, while turning left from the runway onto a taxiway, a wind gust lifted the right 
+wing and that the airplane then flipped over and came to rest off the taxiway.  
+The airplane sustained substantial damage to the right wing and vertical stabilizer.  
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport’s automated weather observation station reported that, about 17 minutes before the accident, 
+the wind was from 250° at 35 knots, gusting to 44 knots. The pilot landed the airplane on runway 25.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain lateral control while taxiing in gusting wind conditions.  

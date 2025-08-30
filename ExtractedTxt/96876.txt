@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Anacortes, Washington
+Accident Number:
+GAA18CA165
+Date & Time:
+March 9, 2018, 16:00 Local 
+Registration:
+N74445
+Aircraft:
+Bellanca 1413
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during a biennial flight review, as the tailwheel touched down on landing, the 
+airplane veered to the right. He added that he was unable to correct quickly enough to prevent the 
+airplane from exiting the runway to the right. The right main landing gear exited the runway, and the 
+airplane ground looped to the right.
+The airplane sustained substantial damage to the left aileron.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

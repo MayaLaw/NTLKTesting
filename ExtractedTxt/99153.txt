@@ -1,0 +1,46 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Calhoun, Georgia
+Accident Number:
+ERA19FA134
+Date & Time:
+March 23, 2019, 15:35 Local 
+Registration:
+N257AR
+Aircraft:
+HOGAN Innovator
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+The pilot, who was also the owner/designer/builder of the experimental amateur-built airplane, had no 
+recent flight experience and a medical certificate that had expired about 20 years before the accident 
+flight. Despite assurances to his employees that he would not fly the airplane on what was its second test 
+flight, video from inside the accident airplane showed that the pilot departed on the accident flight and 
+the airplane immediately displayed rapid divergences in both the pitch and roll axis that were 
+demonstrated on the airplane's first test flight. The airplane remained at treetop height throughout the 
+upwind leg and into the crosswind turn and reached about 200 ft above ground level in level flight on 
+the downwind leg. As the airplane accelerated, rapid pitch oscillations (phugoid) were exhibited. A 
+handheld radio secured to the copilot's seat shoulder harness and the pilot himself were seen to "float" in 
+the cockpit each time the airplane pitched nose down as the amplitude of the phugoid progressively 
+increased, the duration of weightlessness displayed each time also increased. During one phugoid, an 
+audible "oil pressure" warning was heard. The video ended abruptly as the pilot became unseated for 
+about the fourth time and as the airplane appeared near treetop height. The airplane then impacted 
+terrain.
+The pilot had no experience in the accident airplane, which was the prototype for an airplane he intended 
+to mass produce. A test pilot had completed the airplane's first flight in the traffic pattern. He described 
+significant stability issues, which were captured by onboard video, and said the airplane departed 
+controlled flight uncommanded about a dozen times. After the test pilot was able to safely land the 
+airplane, it was disassembled, returned to the factory, modified according to the accident pilot's 
+specifications based on captured data and the test pilot's observations, and then brought back to the 
+departure airport for taxi testing the day before the accident.
+According to employees of the company, the pilot was pressured by investors and missed deadlines, and 
+was sleep-deprived and ill from a "severe" cold for which he was self-medicating. This pressure likely 
+influenced the pilot's decision to test the prototype airplane himself despite his lack of experience and 
+the stability issues demonstrated by the airplane on its initial test flight.

@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Union City, Tennessee
+Accident Number:
+ERA17LA326
+Date & Time:
+September 15, 2017, 09:15 Local 
+Registration:
+N4531K
+Aircraft:
+AIR TRACTOR INC AT 502
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot of the aerial application flight indicated that the airplane was in cruise flight on its way to an 
+application site when he heard a "pop," and the engine lost total power. The pilot maneuvered the 
+airplane for a forced landing on a roadway but changed his forced landing site to a corn field due to 
+vehicle traffic. After touchdown, the main landing gear separated, which resulted in substantial damage 
+to the fuselage.
+Examination of the engine revealed catastrophic internal damage; all compressor turbine blades were 
+fractured. Metallurgical examination revealed fracture features consistent with high-velocity impact and 
+high-temperature deformation such as "creep." The primary fracture could not be identified; therefore, 
+the sequence in which the fractures occurred could not be determined.
+The engine was an assembled compilation of manufacturer and aftermarket parts manufacturer approval 
+(PMA) parts. Some PMA parts installed were not authorized for the application, and the serial numbers 
+reflected in the maintenance records did not match the components installed. For example, the factory 
+original compressor turbine disk was installed, but the logbook indicated another disk was installed. The 
+compressor turbine disk was a time-limited item, and the total hours on the installed disk could not be 
+verified.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

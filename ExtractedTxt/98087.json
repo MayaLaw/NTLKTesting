@@ -1,0 +1,29 @@
+{
+    "Filename": "98087.txt",
+    "Location": "Colorado Springs, Colorado",
+    "Accident Number": "CEN18LA335",
+    "Date & Time": "August 16, 2018, 11:00 Local",
+    "Aircraft": "Cessna R172E",
+    "Registration": "N146AC",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported student pilot flying airplane first takeoff instructional flight engine sounded normal operating properly fuel flow 14 gallon per hour 2800 2900 rpm instructor stated takeoff roll student rotated airplane 60 mph initially pitch high student lowered airplane nose horizon subsequently airplane reached 100 ft ground level stopped climbing airspeed began decreasing instructor reported fuel flow rpm still normal instructor stated took flight control lowered flap 10 lowered airplane nose hold 55 60 mph hoping ground effect would enable speed increase turned airplane right avoid tree line conducted forced landing field airplane landed main wheel nose landing gear impacted rough terrain airplane nosed resulted substantial damage wing fuselage postaccident examination airframe engine propeller governor revealed evidence preaccident mechanical malfunction failure would precluded normal operation therefore reason airplane failure maintain climb could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "instructor",
+                4
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98265.txt",
+    "Location": "Lake Worth, Florida",
+    "Accident Number": "ERA18FA244",
+    "Date & Time": "September 9, 2018, 10:37 Local",
+    "Aircraft": "Cessna 335",
+    "Registration": "N2707J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot owner airplane conducting personal crosscountry flight one passenger recorded engine data indicated 9 mile destination airport left engine lost power 2 minute power restored 2 minute lost airplane left downwind leg abeam approach end runway right engine power output remained relatively constant remainder flight airplane continued downwind leg 20 second began left descending 180 turn data recovered primary flight display indicated end turn airspeed decreased 73 knot kt airplane published minimum control speed 83 kt airplane rolled inverted descended ground pilot hold valid pilot certificate time accident certificate revoked 21 year earlier although pilot owned airplane 7 year logged 18 hour preceding eight month 64 hour prior calendar year recent documented practice one engine inoperative oei procedure 6 year accident record flight review logbook therefore unlikely pilot proficient procedure associated oei time accident included criticality maintaining minimum control speed vmc turning nonoperational engine examination engine revealed anomaly would precluded normal operation right engine recorded data parameter propeller exhibited signature consistent engine operating impact although engine monitor recorded parameter indicated left engine lost power immediately accident lacked sufficient parameter determine loss engine power occurred given available fuel onboard airplane adequate fuel complete accident flight however pilot management fuel flight whether contributed loss left engine power could determined although autopsy pilot revealed evidence severe coronary artery disease recorded flight",
+        "Top Words": [
+            [
+                "engine",
+                12
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99091.txt",
+    "Location": "Rushville, Nebraska",
+    "Accident Number": "GAA19CA160",
+    "Date & Time": "March 8, 2019, 11:45 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N8566D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported flight engine lost partial power applied carburetor heat adjusted mixture engine respond engine continued lose power pilot conducted forced landing rough terrain right wing struck ground airplane sustained substantial damage right wing spar pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation pilot reported temperature time accident 30f dew point 34f atmospheric condition time accident conducive accumulation serious carburetor icing cruise climb power setting pilot stated accident could prevented checked carb ice sooner probable cause finding national transportation safety board determines probable cause accident partial loss engine power due accumulation carburetor ice resulted forced landing rough terrain",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

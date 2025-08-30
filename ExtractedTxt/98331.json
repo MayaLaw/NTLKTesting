@@ -1,0 +1,29 @@
+{
+    "Filename": "98331.txt",
+    "Location": "Brenham, Texas",
+    "Accident Number": "WPR18LA271",
+    "Date & Time": "September 20, 2018, 15:22 Local",
+    "Aircraft": "Cessna TU206",
+    "Registration": "N756NN",
+    "Flight Conducted Under": "Public aircraft",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "completing photographic mission pilot determined adequate fuel remaining reach intended destination 45minute reserve landing approach engine began lose power pilot switched left right fuel tank fuel gauge indicated fuel remaining however engine respond shortly thereafter engine lost total power airplane impacted tree fence subsequent forced landing short runway enough fuel one hour flight drained right main fuel tank accident tip tank left main tank empty examination reveal preimpact anomaly airframe engine would precluded normal operation pilot reported switched fuel tank every hour flight failed select fuller tank landing approach required manufacturer pilot operating handbook poh allowing tank run dry allowable per poh required engagement auxiliary fuel pump tank selected likewise emergency procedure engine failure flight required use auxiliary fuel pump pilot correctly planned airplane fuel consumption failed select fullest tank critical landing phase resulted loss engine power due fuel starvation pilot stated due airplane low altitude time loss power time perform item emergency checklist turn fuel pump however checklist short sufficient significance automatic pilot engagement fuel pump would likely restarted engine",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "tank",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

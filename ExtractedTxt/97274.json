@@ -1,0 +1,29 @@
+{
+    "Filename": "97274.txt",
+    "Location": "Broomfield, Colorado",
+    "Accident Number": "CEN18LA180",
+    "Date & Time": "May 16, 2018, 15:20 Local",
+    "Aircraft": "Roger G White Glasair",
+    "Registration": "N4EJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "airline transport pilot reported landing roll experimental amateurbuilt airplane started drifting left applied right rudder correct subsequently attempted apply right brake pressure correct drift airplane traveling 50 knot time right brake pedal went floor zero right brake available airplane departed left side runway crossed grass came rest parallel taxiway postrecovery examination revealed plastic right brake line broken near upper end landing gear strut airplane equipped freecastering nosewheel nosewheel steering capability directional control ground operation maintained differential braking result maintaining directional control brake failure possible probable cause finding national transportation safety board determines probable cause accident failure right brake line resulted loss directional control runway excursion",
+        "Top Words": [
+            [
+                "right",
+                6
+            ],
+            [
+                "brake",
+                6
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

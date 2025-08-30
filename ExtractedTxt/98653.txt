@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Clermont, Florida
+Accident Number:
+ERA19LA050
+Date & Time:
+November 17, 2018, 11:20 Local 
+Registration:
+N494N
+Aircraft:
+ULTRALITE SRO Stingsport
+Aircraft Damage:
+Substantial
+Defining Event:
+Aircraft structural failure
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that he was in cruise flight when he received an automatic dependent 
+surveillance-broadcast traffic alert of traffic approaching from his one o'clock position and 
+closing at "a high rate of speed." The pilot went on to describe control inputs and airplane 
+attitudes during his response to the perceived threat, which ultimately resulted in a loss of 
+control and aerodynamic spin. During the pilot’s attempted recovery from the spin, the nose of 
+the airplane pitched forward uncontrolled and the airplane entered a high-speed, nose-down 
+descent. It is likely that during these remedial actions to regain control, the structure 
+surrounding the horizontal stabilizer failed, and the stabilizer separated from the airplane. The 
+pilot then successfully deployed the airplane’s ballistic parachute system, and it landed in a 
+pasture.
+Examination of the failed structure surrounding the horizontal stabilizer revealed areas of 
+delamination with dry glass fibers indicative of improper material layup with inadequate resin 
+application. It could not be determined to what extent the inflight separation of the horizontal 
+stabilizer was due to this defect, or whether the pilot’s control inputs during the response to the 
+traffic warning, departure from controlled flight, and subsequent attempted recovery attempt 
+imparted forces onto the horizontal stabilizer that were beyond its nominal structural 
+capability.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

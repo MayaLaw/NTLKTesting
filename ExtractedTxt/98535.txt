@@ -1,0 +1,43 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Monroe, Washington
+Accident Number:
+GAA19CA034
+Date & Time:
+October 12, 2018, 09:30 Local 
+Registration:
+N488VG
+Aircraft:
+Just JUST AIRCRAFT (HIGHL
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped, experimental, amateur-built airplane, who was also an airframe and 
+powerplant mechanic, reported that, during approach to a sandbar, he side-slipped the airplane and that 
+the engine then lost power because he was "too aggressive with the throttle and pulled it enough to bend 
+the [carburetor] idle stop screw bracket." The engine was normally quiet, the airplane was sound 
+proofed, and the pilot also used a noise-cancelling headset, which prevented him from being aware of 
+the power loss until he attempted to add power to no avail. He did not have enough time to restart the 
+engine, so the airplane settled onto the water about 15 to 20 ft short of the sandbar. Subsequently, the 
+airplane hydroplaned and then came to rest on the sandbar inverted. The pilot reported that the reason he 
+was aggressive with the throttle was because of a lean mixture that tended to overheat the engine during 
+takeoff or cruise on hot days. 
+The airplane sustained substantial damage to the left wing lift strut, left wing, and rudder.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The Federal Aviation Administration inspector reported that the pilot had modified the number and 
+position of the last hole in the fuel spray bar. By doing so, the pilot was able to get the engine to "barely 
+run" to perform short-field landings. During the accident landing, it "must have cut off the flow of fuel 
+enough to make the engine quit."
+That pilot reported that he had previously attempted to mechanically enrich the mixture by drilling holes 
+in the fuel spray bar but had drilled a hole "at the location where the engine wanted to idle," meaning 
+that, if the hole was open, the engine would idle high, and if the hole was closed, the engine would 
+"die." He added that it was not a problem unless he was trying to land short. 
+ 

@@ -1,0 +1,29 @@
+{
+    "Filename": "99293.txt",
+    "Location": "Grass Valley, California",
+    "Accident Number": "WPR19LA117",
+    "Date & Time": "April 19, 2019, 13:40 Local",
+    "Aircraft": "Nanchang CJ 6",
+    "Registration": "N621JM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "landing roll pilot applied left rudder lightly depressed brake handle exit runway 30 left turn brake failed airplane exited asphalt taxiway surface due obstruction ahead downsloping terrain pilot applied right rudder engine power realign airplane runway shortly thereafter airplane overran departure end runway traveled downslope airborne airplane touched impacted dirt berm collided fence nosed came rest inverted sustaining substantial damage fuselage wing examination airplane revealed brake control cable fractured near cable thimble separated brake control handle fracture surface separated cable consistent fatigue fracture six seven strand wire exhibited relatively flat fracture surface normally oriented wire axis consistent progressive fracture mechanism fatigue fracture one strand remaining individual wire showed evidence minor elongation fracture location likely cable completely failed landing roll pilot depressed brake handle probable cause finding national transportation safety board determines probable cause accident loss brake control due fatigue fracture brake control cable resulted separation cable brake handle",
+        "Top Words": [
+            [
+                "brake",
+                8
+            ],
+            [
+                "fracture",
+                7
+            ],
+            [
+                "cable",
+                6
+            ]
+        ]
+    }
+}

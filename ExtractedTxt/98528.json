@@ -1,0 +1,29 @@
+{
+    "Filename": "98528.txt",
+    "Location": "MADRAS, Oregon",
+    "Accident Number": "GAA19CA032",
+    "Date & Time": "October 18, 2018, 15:00 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N6263P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot retractablegear airplane reported landing last second noticed landing gear extended applied full power go around airplane pitched impacted runway airplane came rest 1000 ft runway airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure extend landing gear resulted attempted goaround subsequent pitchdown impact runway finding aircraft gear extension retract sys usedoperated personnel issue forgotten actionomission pilot",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

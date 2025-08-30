@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Frederick, Maryland
+Accident Number:
+GAA18CA578
+Date & Time:
+September 19, 2018, 16:30 Local 
+Registration:
+N56PE
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, after completing an instructional flight, he dropped off the flight instructor and 
+flew back to his home airport. During landing, the airplane porpoised, and the nose landing gear 
+collapsed. 
+The airplane sustained substantial damage to the lower fuselage.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in the airplane porpoising.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Landing flare - Not attained/maintained

@@ -1,0 +1,29 @@
+{
+    "Filename": "98039.txt",
+    "Location": "Raton, New Mexico",
+    "Accident Number": "GAA18CA480",
+    "Date & Time": "August 9, 2018, 11:25 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N104CC",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported wheel landing gusting wind condition right main landing gear mlg touched runway followed left mlg landing roll airplane encountered wind gust left airplane ground looped left pilot applied full right rudder brake however airplane exited left side runway right wing struck ground airplane sustained substantial damage right wing right aileron right elevator pilot reported airport windsock indicated 5 10knot right quartering headwind metar located airport reported time accident wind 210 5 knot airplane landed runway 25 pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot loss directional control landing roll",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "right",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

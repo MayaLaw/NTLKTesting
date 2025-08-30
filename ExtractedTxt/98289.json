@@ -1,0 +1,29 @@
+{
+    "Filename": "98289.txt",
+    "Location": "Atlanta, Georgia",
+    "Accident Number": "ENG18IA036",
+    "Date & Time": "September 5, 2018, 23:32 Local",
+    "Aircraft": "Boeing 757",
+    "Registration": "N668DN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Uncontained engine failure",
+    "Injuries": "N/A",
+    "Analysis": {
+        "Text": "highpressure turbine hpt uncontainment caused failure rotating seal located hpt 1ststage s1 disk 2ndstage s2 hub lenticular seal lenticular seal outer structure separated inner brace piece unwound destroying turbine seal fragment breached turbine case fragment traveled forward destroying hpt s1 blade penetrating s1 turbine nozzle assembly combustor damaging fuel nozzle stem releasing fuel crack initiation site destroyed secondary damage although failure mode determined pw2000 engine lenticular seal crack known failure associated knife edge tip fatigue crack originate first second knife edge tip propagate knife edge pedestal barrel past root cause investigation determined normal knife edge rub cause local increase knife edge tip temperature knife edge coating worn begun spall continued rub degraded knife edge coating creates heat affected zone knife edge tip lead thermomechanical fatigue tmf tip crack initiation tmf likely develop second run seal matched new honeycomb material review engine service record found failed lenticular seal installed new 2008 overhaul engine accumulated 61385 time since new tsn 25462 cycle since new csn seal visually inspected reinstalled 2013 overhaul 74042 tsn 31701 csn 2013 shop visit 40",
+        "Top Words": [
+            [
+                "seal",
+                8
+            ],
+            [
+                "knife",
+                8
+            ],
+            [
+                "edge",
+                8
+            ]
+        ]
+    }
+}

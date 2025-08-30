@@ -1,0 +1,29 @@
+{
+    "Filename": "93967.txt",
+    "Location": "Diller, Nebraska",
+    "Accident Number": "GAA16CA470",
+    "Date & Time": "September 7, 2016, 10:00 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N1928X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landed 2000foot private grass airstrip slight tailwind shortly rained airplane touched midpoint airstrip normal go around point pilot reported applied brake airplane slowing due wet grass added full power abort landing airplane became airborne cleared plastic barrel north airstrip right wing collided farm equipment airplane impacted terrain sustained substantial damage wing fuselage empennage pilot reported pre impact mechanical failure malfunction airframe engine would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure go around overshooting intended touchdown point resulted impact farm equipment terrain aborted landing attempt",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

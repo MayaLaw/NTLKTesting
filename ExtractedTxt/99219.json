@@ -1,0 +1,29 @@
+{
+    "Filename": "99219.txt",
+    "Location": "Lafe, Arkansas",
+    "Accident Number": "CEN19LA116",
+    "Date & Time": "April 2, 2019, 17:32 Local",
+    "Aircraft": "BERKEY S-6ES",
+    "Registration": "N265GB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "noncertificated pilot reported approach landing private turf runway blinded sun allowed airplane descend low tailwheel hit vine growing near runway left wing subsequently impacted ground resulting substantial damage pilot reported mechanical failure malfunction airplane added accident may prevented landing different time clearing vegetation around runway probable cause finding national transportation safety board determines probable cause accident noncertificated pilot failure maintain appropriate glidepath landing toward sun resulted impact vegetation subsequent loss control",
+        "Top Words": [
+            [
+                "pilot",
+                3
+            ],
+            [
+                "landing",
+                3
+            ],
+            [
+                "runway",
+                3
+            ]
+        ]
+    }
+}

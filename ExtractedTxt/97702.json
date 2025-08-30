@@ -1,0 +1,29 @@
+{
+    "Filename": "97702.txt",
+    "Location": "Springhill, Louisiana",
+    "Accident Number": "CEN18LA257",
+    "Date & Time": "July 3, 2018, 12:57 Local",
+    "Aircraft": "Piper PA46",
+    "Registration": "N689KC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "landing airplane bounced pilot applied power go around pilot reported engine produce full power airplane began slow onboard data indicated pilot accelerated airplane maximum speed 70 kt retracted flap airplane rolled right impacted runway resulting substantial damage examination airplane revealed evidence mechanical malfunction failure would preclude normal operation airplane published stall speed landing configuration 60 knot 69 kt landing gear flap retracted procedure goaround included retracting wing flap incrementally attaining airspeed 80 kt circumstance accident consistent pilot failure attain proper airspeed goaround improper decision fully retract wing flap attaining adequate airspeed resulted exceedance airplane critical angle attack aerodynamic stall impact runway probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack improper goaround procedure resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "flap",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+Page 1 of 14
+Aviation Investigation Final Report
+Location:
+Hydaburg, Alaska
+Accident Number:
+ANC18FA053
+Date & Time:
+July 10, 2018, 08:35 Local 
+Registration:
+N3952B
+Aircraft:
+De Havilland DHC 3
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of visual reference
+Injuries:
+6 Serious, 4 Minor, 1 
+None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The airline transport pilot was conducting a commercial visual flight rules (VFR) flight transporting 10 
+passengers from a remote fishing lodge. According to the pilot, while in level cruise flight about 1,100 ft 
+mean sea level (msl) and as the flight progressed into a mountain pass, visibility decreased rapidly. In an 
+attempt to turn around and return to VFR conditions, the pilot initiated a climbing right turn. Before 
+completing the 180° right turn, he saw what he believed to be a body of water and became momentarily 
+disoriented, so he leveled the wings. Shortly thereafter, he realized that the airplane was approaching an 
+area of snow-covered mountainous terrain, so he applied full power and initiated a steep climb; the 
+airspeed decayed, and the airplane collided with an area of rocky, rising terrain, which resulted in 
+substantial damage to the wings and fuselage. 
+The pilot reported no mechanical malfunctions or anomalies that would have precluded normal 
+operation, and the examination of the airframe and engine revealed no evidence of mechanical 
+malfunctions or failures that would have precluded normal operation.
+The weather forecast at the accident time included scattered clouds at 2,500 ft msl, overcast clouds at 
+5,000 ft msl with cloud tops to 14,000 ft and clouds layered above that to flight level 250, and isolated 
+broken clouds at 2,500 ft with light rain. AIRMET advisory SIERRA for "mountains obscured in 
+clouds/precipitation" was valid at the time of the accident. Conditions were expected to deteriorate. 
+Passenger interviews revealed that through the course of the flight, the airplane was operating in 
+marginal visual meteorological conditions and occasional instrument meteorological conditions (IMC) 
+with areas of precipitation, reduced visibility, obscuration, and, at times, little to no forward visibility. 
+Thus, based on weather reports and forecasts, and the pilot's and passengers' statements, it is likely that 
+the flight encountered IMC as it approached mountainous terrain and that the pilot then lost situational 
+awareness.

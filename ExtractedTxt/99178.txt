@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+McAlpin, Florida
+Accident Number:
+ERA19LA138
+Date & Time:
+March 26, 2019, 17:10 Local 
+Registration:
+N30271
+Aircraft:
+FISHER FLYING PRODUCTS Dakota 
+Hawk
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fuel related
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot allowed the engine to idle for 8 to 10 minutes while he waited for it to warm up, then 
+completed the engine runup and taxied the airplane for takeoff. He reported that the takeoff run was 
+longer than usual, and because he was preoccupied watching the airspeed, he passed his previously 
+established takeoff abort point. Upon reaching rotation speed, he determined that it was no longer safe to 
+abort the takeoff and continued, although the engine did not seem to be producing normal power. 
+Shortly after clearing trees at the end of the runway, "the left wing dropped," and he lowered the nose to 
+prevent the airplane from stalling. When he determined that he had insufficient altitude to recover, he 
+landed straight ahead in a young pine tree plantation. He managed to safely egress before a postimpact 
+fire destroyed the airplane.
+Postaccident examination of the engine revealed no evidence of any preimpact mechanical malfunctions 
+or failures that would have precluded normal operation. The atmospheric conditions at the time of the 
+accident were conducive to the formation of serious carburetor icing at low engine power settings. It is 
+likely that carburetor ice developed during the time the engine was operating at idle power before 
+takeoff, which resulted in a partial loss of engine power during the takeoff and initial climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to use carburetor heat while operating at idle power in atmospheric 
+conditions conducive to the formation of carburetor ice, which resulted in a partial loss of 
+engine power during takeoff.

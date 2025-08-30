@@ -1,0 +1,29 @@
+{
+    "Filename": "98892.txt",
+    "Location": "Abilene, Texas",
+    "Accident Number": "CEN19LA070",
+    "Date & Time": "December 21, 2018, 11:45 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N254RA",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot conducting pipeline patrol flight reported looking cockpit writing observation pipeline felt airplane pull left airplane struck cell tower wire pilot stated see wire looking pilot able control airplane immediately declared emergency landed airport 10 mile north wire strike occurred examination airplane revealed 4ftlong section left wing torn airplane outboard left aileron pilot stated many pipeline patrol operation observer onboard addition pilot one look outside airplane observe pipeline person writes observation also stated could waited write information passing tower area probable cause finding national transportation safety board determines probable cause accident pilot failure see avoid cell tower wire pipeline patrol flight contributing accident pilot distraction due writing observation pipeline flying",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "pipeline",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

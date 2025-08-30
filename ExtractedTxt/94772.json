@@ -1,0 +1,29 @@
+{
+    "Filename": "94772.txt",
+    "Location": "Stevensville, Montana",
+    "Accident Number": "WPR17LA064",
+    "Date & Time": "February 23, 2017, 13:00 Local",
+    "Aircraft": "Beech A36TC",
+    "Registration": "N3803J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported takeoff home airport personal flight noted midfield windsock airport believed would straight crosswind gust coming direction pilot reported airplane lifted 80 knot however airplane would climb accelerate pilot felt rapid decrease power ensured engine control appropriate position full takeoff power airplane still would climb airplane struck level terrain adjoining right side runway came rest upright 300 ft runway centerline witness reported airplane engine sounded strong loud airplane lifted 2400 ft runway threshold attained altitude 50 ft ground level airplane began steep right descending turn although pilot reported referenced windsock believed would taking direct crosswind airport automated weather observation system indicated tailwind component 85 112 knot takeoff runway time accident runway 3800 ft long review airplane manufacturer performance data indicated takeoff maximum allowable gross weight flap level runway 10knot tailwind would required ground roll 2109 ft required 3385 ft clear 50ft obstacle airplane manufacturer published performance data account tailwind component 10 knot runway 194 uphill slope takeoff direction performance data account runway slope calculation indicated airplane 220 lb maximum allowable takeoff weight three factor would increase takeoff distance decrease airplane climb performance mean pilot investigator quantify individual collective effect",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "runway",
+                8
+            ],
+            [
+                "takeoff",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Pomona, Missouri
+Accident Number:
+CEN18LA317
+Date & Time:
+August 6, 2018, 12:51 Local 
+Registration:
+N76524
+Aircraft:
+Cessna 120
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that he departed the airport for the local flight with both wing fuel tanks full of 
+fuel and the fuel selector on the left tank. After flying for about 1 hour, he landed at the airport and 
+departed again. When the airplane was about 500 ft above ground level, the pilot intended to change the 
+fuel selector to the right fuel tank. However, he inadvertently switched the fuel selector to the off 
+position, and the engine lost power. The pilot immediately switched the fuel selector back to the left fuel 
+tank and attempted to restart the engine without success. He executed a forced landing to a field, and, 
+during the landing rollout, the airplane collided with a fence and hay bale, which resulted in substantial 
+damage. The pilot mismanaged the fuel during flight, which resulted in fuel starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate fuel management, which resulted in fuel starvation and a forced landing.

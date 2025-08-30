@@ -1,0 +1,29 @@
+{
+    "Filename": "97238.txt",
+    "Location": "Chandler, Arizona",
+    "Accident Number": "GAA18CA275",
+    "Date & Time": "May 11, 2018, 08:00 Local",
+    "Aircraft": "AEROPRO CZ S R O A240",
+    "Registration": "N481B",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot lowwing airplane cleared ground control taxi runway 22r via alpha november taxiway alpha run parallel runway 22r pilot approached taxiway alpha via taxiway mike entering intersection taxiway alpha mike looked direction aircraft proceeded turn left onto taxiway alpha without stopping airplane right wing collided left side another airplane already taxiing via alpha 22r asserted airplane moving fast collision occurred airplane sustained substantial damage right aileron according student pilot highwing airplane received clearance ground control taxi runway 22r via alpha november recalled established alpha heading toward 22r landing light saw lowwing airplane approaching intersection taxiway alpha mike nonmovement area reported lowwing airplane turned left onto taxiway alpha without stopping lowwing airplane right wing collided left side airplane airplane sustained damage leftwing lift strut leftwing support strut windscreen pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "alpha",
+                10
+            ],
+            [
+                "taxiway",
+                7
+            ]
+        ]
+    }
+}

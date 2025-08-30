@@ -1,0 +1,43 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Climax, Georgia
+Accident Number:
+ERA17FA107
+Date & Time:
+February 16, 2017, 18:52 Local 
+Registration:
+N3434G
+Aircraft:
+Beech A45
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was flying a local, personal flight from his personal airstrip after sundown. A witness who 
+heard the airplane before the crash reported that the engine made a "sputtering" sound. The airplane 
+collided with two tall trees and came to rest inverted on the approach end of the runway. The propeller 
+did not exhibit indications of rotational damage. Although the right fuel tank was breached from impact 
+and no fuel was found inside, the left tank contained 11 gallons of fuel.
+An annual inspection was completed on the airframe and engine about 2.2 hours before the accident. An 
+examination of the engine fuel lines found the throttle and metering unit outlet AN "B" nut was less than 
+finger-tight. When the fuel manifold valve cap was opened, fuel leaked from the loose throttle and 
+metering unit outlet AN "B" nut. Compressed air was passed through the throttle and metering unit inlet 
+fuel line; bubbles and fuel could be seen coming out of the fuel outlet AN fitting. The condition of the 
+fuel lines was an inspection item specifically noted as completed during the annual inspection. The 
+throttle and metering unit outlet "B" nut most likely was not adequately secured during the inspection 
+and backed off during the 2.2-hour previous flight and the 12-minute accident flight, which subsequently 
+resulted in a total loss of engine power. The pilot was likely attempting to return to the runway, as the 
+landing gear were extended and the flaps were up at the time of the accident. However, since the 
+accident occurred concurrently with the end of civil twilight, it is possible that he did not see the trees on 
+final approach due to the darkening conditions.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of maintenance personnel to ensure that the throttle and fuel metering unit AN "B" 
+nut was secured, which resulted in a total loss of engine power in flight and a subsequent 
+collision with trees while attempting to land after sunset.

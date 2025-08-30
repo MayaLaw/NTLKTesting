@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Harnett, North Carolina
+Accident Number:
+ERA18LA239
+Date & Time:
+August 30, 2018, 16:00 Local 
+Registration:
+N628X
+Aircraft:
+Avid MK-4
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on a 35-nautical-mile flight with 9 gallons of fuel onboard. While en route, he noticed 
+that the fuel quantity was decreasing faster than normal, and he elected to stop for fuel. During the 
+descent toward the airport, the engine lost total power and the pilot subsequently performed a forced 
+landing in a field. After touchdown, the airplane nosed over and came to rest inverted, resulting in 
+substantial damage to the wings and fuselage. 
+Examination of the airplane and engine revealed no evidence of preimpact mechanical anomalies that 
+would have prevented normal engine operation. About 1/2 gallon of fuel was drained from the fuel tank 
+after the accident; however, an unquantified amount spilled onto the ground during recovery, and the 
+amount of fuel onboard at the time of the accident could not be determined.
+The right wing fuel tank was vented by a modified fuel cap. Holes were drilled in the top of the cap to 
+allow air in the tank as fuel is consumed. The pilot recommended that a forward-facing tube vent be 
+installed per a service letter issue by the kit manufacturer of a similar experimental, amateur-built 
+airplane; however, the reason for loss of engine power and whether the modified fuel cap contributed to 
+the accident could not be determined based on the available information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined based on the available 
+information. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "98348.txt",
+    "Location": "Oscoda, Michigan",
+    "Accident Number": "CEN18FA387",
+    "Date & Time": "September 25, 2018, 06:13 Local",
+    "Aircraft": "Beech 200",
+    "Registration": "N241CK",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Altitude deviation",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot multiengine airplane cleared vor approach weather airport reported 400 ft overcast 4 mile visibility drizzle airplane failed arrive airport scheduled search initiated wreckage located soon thereafter radar data indicated pilot provided vector intercept final approach course last radar return indicated airplane 2200 ft 81 mile runway threshold impacted terrain 35 mile runway threshold left final approach course according published approach procedure minimum descent altitude 1100 foot 466 ft airport elevation examination wreckage revealed airplane impacted top tree descended 45 angle ground contact airplane destroyed postcrash fire thus limiting examination however anomaly observed would precluded normal operation landing gear extended approach flap set impact fire damage precluded examination flight navigation instrument autopsy toxicology pilot performed therefore whether physiological issue may contributed accident could determined location wreckage indicates pilot descended minimum descent altitude mda approach however reason pilot descent mda could determined based available information probable cause finding national transportation safety board determines probable cause accident pilotsnbspdescent minimum descent altitudenbspduring nonprecision instrument approachnbspfor reason could determined based available",
+        "Top Words": [
+            [
+                "approach",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

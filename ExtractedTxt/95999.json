@@ -1,0 +1,29 @@
+{
+    "Filename": "95999.txt",
+    "Location": "Ogden, Utah",
+    "Accident Number": "WPR17LA202",
+    "Date & Time": "September 12, 2017, 13:37 Local",
+    "Aircraft": "Beech A24R",
+    "Registration": "N9798L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Windshear or thunderstorm",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "airline transport pilot reported general maintenance recently completed airplane pilot first flight airplane first flight since maintenance pilot completed two engine runup taking practice touchandgo landing takeoff sequence instrument indicated normal airplane climbed 200 ft stopped climbing pilot reported engine sound obviously rough however altitude increasing airspeed decreasing enriched mixture improvement turned fuel boost pump received little extra power half second tested magneto indicated normal attempted maintain altitude however airspeed steadily decreasing chose land nearby road airplane impacted car ground consumed fire weather observation accident indicated wind variable 3 knot visibility greater 10 mile clear sky weather observation accident indicated wind 14 knot gusting 19 knot visibility greater 10 mile clear sky gust front moving northeastward toward accident site time accident leading edge outflow gust front moved past accident site right around time accident witness reported shortly takeoff engine sounded weird sputtering puttering postaccident airframe engine examination revealed evidence mechanical malfunction failure would precluded normal operation thus likely erratic strong wind condition reduced airplane ability maintain initial takeoff climb probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "accident",
+                7
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

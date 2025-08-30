@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Greeley, Colorado
+Accident Number:
+GAA18CA473
+Date & Time:
+August 4, 2018, 11:30 Local 
+Registration:
+N56LK
+Aircraft:
+Vans RV6
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during approach, the airplane encountered the usual amount of sink, so he added 
+power but applied too much back stick. The airplane aerodynamically stalled, landed hard, and then 
+came to rest 1,500 ft down the runway.
+The airplane sustained substantial damage to the right wing and fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during approach, which resulted in an 
+aerodynamic stall.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Angle of attack - Capability exceeded

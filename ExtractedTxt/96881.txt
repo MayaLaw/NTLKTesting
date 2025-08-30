@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Key West, Florida
+Accident Number:
+ERA18LA107
+Date & Time:
+March 15, 2018, 13:35 Local 
+Registration:
+N713CX
+Aircraft:
+Cessna 177
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot reported that the preflight inspection, engine start, taxi, and engine run-up 
+were uneventful. During initial climb for the local flight, about 400 ft above ground level, the engine 
+power suddenly reduced to idle. The pilot lowered the nose of the airplane and made a shallow left turn 
+to avoid trees; however, the airplane contacted power lines and came to rest upright in a parking lot. The 
+airplane sustained substantial damage to both wings and the fuselage. Examination of the wreckage 
+revealed that adequate fuel remained on board and that fuel had leaked from the airplane after impact. 
+During the examination, the fuel screen was removed from the fuel servo. Although some rust was 
+observed on the screen and in the servo, consistent with the airplane sitting unused over a period of time, 
+it is not likely that this had any impact on the operation of the engine. Further examination of the 
+airframe and engine did not reveal any evidence of preimpact mechanical malfunctions or failures that 
+would have precluded normal operation. Thus, the reason for the partial loss of engine power could not 
+be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power during initial climb for reasons that could not be determined because 
+examination of the wreckage did not reveal any evidence of preimpact malfunctions or failures that 
+would have precluded normal operation.

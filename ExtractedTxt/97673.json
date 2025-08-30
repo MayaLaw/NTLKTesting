@@ -1,0 +1,29 @@
+{
+    "Filename": "97673.txt",
+    "Location": "Lago Vista, Texas",
+    "Accident Number": "CEN18LA250",
+    "Date & Time": "July 1, 2018, 20:10 Local",
+    "Aircraft": "Cessna 180",
+    "Registration": "N2469C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airline transport pilot conducting personal flight airplane rolled left landing flare landed hard left main landing gear mlg airplane bounced landed hard bounced left mlg left mlg spring separated fuselage third contact runway airplane subsequently ground looped left came rest heading 180 original runway direction left main wing spar substantially damaged left wingtip impacted runway postaccident material examination fractured left mlg spring revealed multipleorigin fatigue crack landing gear fixation hardware contacted landing gear spring maintenance logbook complete therefore could determined left mlg spring replaced overhauled since new separation left mlg gear spring landing likely due fatigue crack reduced overall strength landing gear spring probable cause finding national transportation safety board determines probable cause accident separation left main landing gear spring landing due preexisting fatigue crack",
+        "Top Words": [
+            [
+                "left",
+                11
+            ],
+            [
+                "landing",
+                8
+            ],
+            [
+                "spring",
+                7
+            ]
+        ]
+    }
+}

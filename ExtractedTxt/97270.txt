@@ -1,0 +1,37 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Albuquerque, New Mexico
+Accident Number:
+CEN18CA176
+Date & Time:
+May 17, 2018, 18:47 Local 
+Registration:
+N7265K
+Aircraft:
+Piper PA 18
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After an uneventful 40-minute cross-country flight, the pilot set up to land his tailwheel airplane. The 
+pilot checked with the tower and the controller reported the wind from 240° at 17 knots, gusting to 25 
+knots. The pilot set up to land on runway 22. The pilot stated that upon landing, the airplane encountered 
+a strong gusty crosswind and he lost directional control. The airplane veered to the left across the 
+runway surface and flipped inverted, resulting in substantial damage to the wings, wing struts, and 
+fuselage. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of directional control following an encounter with gusty crosswind during landing.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Environmental issues
+Gusts - Effect on operation
+Aircraft
+Directional control - Not attained/maintained

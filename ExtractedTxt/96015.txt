@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Machias, Maine
+Accident Number:
+ERA17LA325
+Date & Time:
+September 14, 2017, 11:30 Local 
+Registration:
+N2120W
+Aircraft:
+Beech C23
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The private pilot descended the airplane to the destination airport but did not apply carburetor heat. 
+While in the traffic pattern, as the airplane was turning onto a left base leg for the runway, the engine 
+began to run roughly. The pilot then applied carburetor heat, but the engine lost total power. After 
+realizing that the airplane was not going to glide to the runway threshold, the pilot performed a forced 
+landing in a grassy area just short of the runway. During the landing, the nose gear collapsed and the 
+airplane spun 180° before it came to rest, which resulted in substantial damage to the right wing.
+Examination of the wreckage did not reveal any evidence of preimpact mechanical malfunctions or 
+failures of the ignition system, fuel system, or engine that would have precluded normal operation. The 
+weather conditions at the time of the accident were conducive to the formation of serious carburetor 
+icing at glide power. Although the Descent checklist in the pilot operating handbook for the airplane 
+make and model instructed the pilot to use carburetor heat as required, the pilot did not apply carburetor 
+heat before initiating the descent; rather, he waited until the engine began to run roughly. It is likely that 
+the engine initially lost partial power after developing carburetor ice and that the pilot's delayed 
+application of carburetor heat was ineffective at melting any accumulated ice.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's delay in applying carburetor heat, which resulted in a total loss of engine power due to 
+carburetor icing.

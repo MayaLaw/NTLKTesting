@@ -1,0 +1,29 @@
+{
+    "Filename": "97550.txt",
+    "Location": "Yellow Pine, Idaho",
+    "Accident Number": "WPR18LA176",
+    "Date & Time": "June 21, 2018, 12:00 Local",
+    "Aircraft": "Piper PA 18-150",
+    "Registration": "N1979P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot conducting personal crosscountry flight part flight three one pilot reported flight three approached onewayin 700ftlong remote mountain airstrip lead pilot surveyed area reported airplane area subsequently lead pilot landed airstrip uneventfully landing parked airplane top airstrip facing directly runway allowed easily see approach path airstrip waiting accident airplane come view asked accident pilot youve right accident pilot replied pilot reminded accident pilot fly low creek added accident airplane came view higher lead airplane approach accident airplane almost reached extended runway centerline accident pilot added power airplane pitched steeply airplane continued upstream nearby creek 12 mile nose climbing well airplane entered left turn followed leftwing dipping airplane entering left spin pilot stated saw airplane make 1 14 rotation descended sight impacted terrain engine sounded like developing full power time initial goaround impact pilot brother one pilot witnessed accident reported preaccident mechanical malfunction failure airplane engine would precluded normal operation pilot recall event leading accident therefore based available information likely pilot failed maintain adequate airspeed exceeded airplane critical angle attack goaround resulted aerodynamic stallspin low altitude recover accident flight accident pilot first attempt land airstrip confined mountainous terrain requires pilot land one way depart virtually goaround option approach plan view airstrip recommended used mountain proficient pilot checkout specific airstrip aircraft owner pilot",
+        "Top Words": [
+            [
+                "pilot",
+                18
+            ],
+            [
+                "airplane",
+                13
+            ],
+            [
+                "accident",
+                11
+            ]
+        ]
+    }
+}

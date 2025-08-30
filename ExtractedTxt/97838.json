@@ -1,0 +1,29 @@
+{
+    "Filename": "97838.txt",
+    "Location": "Ider, Alabama",
+    "Accident Number": "ERA18LA195",
+    "Date & Time": "July 18, 2018, 14:00 Local",
+    "Aircraft": "Eagle DW1",
+    "Registration": "N8805X",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot conducting aerial application flight stated maneuvering 1500 ft heard deep knock engine entire windshield became covered oil engine lost power pilot made forced landing service road airplane struck barbedwire fence right wing coming rest field postaccident examination engine revealed 2 cylinder separated cylinder mounting deck two fractured section left crankcase included part 2 cylinder bore found engine cowling one 2 cylinder base stud bolt remained cylinder bore fractured fractured surface exhibited signature consistent fatigue fatigue failure 2 cylinder stud bolt fracture crankcase led loss engine power probable cause finding national transportation safety board determines probable cause accident fatigue failure 2 cylinder studsthrough bolt fracture crankcase resulted total loss engine power",
+        "Top Words": [
+            [
+                "cylinder",
+                7
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "2",
+                5
+            ]
+        ]
+    }
+}

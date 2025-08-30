@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Geneva, Ohio
+Accident Number:
+GAA17CA334
+Date & Time:
+June 9, 2017, 10:00 Local 
+Registration:
+N32088
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the airplane reported that, during landing, she added full flaps, and the wind shifted. She 
+applied full power, but the airplane settled, and the left main landing gear touched down on the left edge 
+of the runway. Subsequently, the airplane impacted trees on the left side of the runway. 
+The airplane sustained substantial damage to both wings.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot reported that the wind was light and variable and that she landed on runway 19. The automated 
+weather observation system about 9 nautical miles from the accident site reported that, about the time of 
+the accident, the wind was from 220° at 7 knots. Additional weather observations from the same site 
+showed that, from 1 hour before the accident until 1 hour after the accident, the wind direction varied 
+from south-southwest to west-northwest, and the speed varied from 6 to 8 knots.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain a proper landing flare in variable wind conditions, which resulted in the 
+airplane landing on the left edge of the runway and impacting trees.

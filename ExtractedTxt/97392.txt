@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Clovis, New Mexico
+Accident Number:
+CEN18LA207
+Date & Time:
+June 3, 2018, 11:30 Local 
+Registration:
+N66ML
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that he departed for the local flight in the airplane with 17 gallons of fuel in 
+the right fuel tank and 22 gallons of fuel in the left fuel tank. While he was descending the airplane 
+through 6,500 ft mean sea level and drawing fuel from the right tank, the engine lost total power. The 
+pilot switched to the left fuel tank, turned on the fuel pump, and engaged the engine starter in an attempt 
+to restart the engine to no avail. The pilot subsequently conducted a forced landing, during which the 
+airplane collided with a power line, and the left aileron and fuselage sustained substantial damage. 
+Examinations of the airframe, fuel system, and engine revealed no evidence of any preimpact 
+mechanical malfunctions or failures that would have precluded normal operation, and the engine was 
+test-run successfully. At recovery, 2 gallons of fuel were found in the left fuel tank (although a small 
+amount had leaked from the damaged fuel drain), and 9 gallons of fuel were found in the right fuel tank. 
+The investigation could not determine the reason for the engine power loss. 
+The Pilot’s Operating Handbook engine restart procedures stated, in part, to select the fuller fuel tank. 
+Given that there was adequate fuel onboard when the engine lost power, if the pilot had properly 
+conducted the engine restart procedures by selecting the fuller fuel tank, it is possible that engine power 
+could have been restored.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

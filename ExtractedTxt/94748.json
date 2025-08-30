@@ -1,0 +1,29 @@
+{
+    "Filename": "94748.txt",
+    "Location": "East Haven, Connecticut",
+    "Accident Number": "ERA17FA112",
+    "Date & Time": "February 22, 2017, 09:56 Local",
+    "Aircraft": "Piper PA38",
+    "Registration": "N2452C",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "flight instructor student pilot practicing touchandgo landing airplane initial climb fourth landing flight instructor reported emergency air traffic control indicated going return land runway airport transmission stall warning horn sounding airplane spun left descended impact marsh damage airplane consistent airplane left spin impact propeller displayed little damage consistent engine producing power impact fuel selector handle found positioned right main fuel tank however examination fuel selector polymeric insert revealed fractured position provided opening 20 right main fuel tank inlet engine outlet instead 100 opening would present intact polymeric insert 20 normal fuel flow available airplane likely experienced total loss engine power due fuel starvation one pilot likely switched fuel tank position previous touchandgo landing polymeric insert failed time examination wreckage reveal preimpact mechanical malfunction metallurgical examination fuel selector valve revealed lower portion polymeric insert exhibited fracture feature consistent rotational ductile overstress abrasive wear present outer portion insert due contact bur valve housing wear likely took place period fuel selector handle would difficult move excessive force would required move handle one position another review maintenance record reveal prior anomaly fuel selector airplane maintenance manual contained instruction applicable 100hour inspection fuel selector inspected condition security operation instruction stated valve bind stick otherwise difficult operate fuel selector valve lubricated however 5 month passed since recent 100hour inspection completed airplane time airplane operated 78 hour investigation could determine condition",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "selector",
+                7
+            ]
+        ]
+    }
+}

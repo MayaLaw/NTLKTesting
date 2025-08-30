@@ -1,0 +1,29 @@
+{
+    "Filename": "97474.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "ANC18FA045",
+    "Date & Time": "June 13, 2018, 12:05 Local",
+    "Aircraft": "Cessna 175",
+    "Registration": "N9423B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Midair collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "two wheelequipped highwing airplane cessna 207 cessna 175 collided midair cruise flight day visual meteorological condition airplane operating visual flight rule neither airplane communication air traffic control facility cessna 175 pilot stated making position report cruise flight 1000ft mean sea level established contact pilot another airplane passing opposite direction watched airplane pas well noticed shadow second airplane converging shadow airplane opposite direction looked forward saw spinner converging airplane windscreen immediately pulled aft control yoke airplane subsequently collided cessna 207 descended uncontrolled river although damaged cessna 175 continued fly pilot proceeded airport landed safely examination airplane revealed impact signature consistent two airplane colliding nearly headon 4 year accident following series midair collision matanuska susitna mat su valley area accident occurred faa made significant change common traffic advisory frequency ctaf assigned north west anchorage alaska faa established geographic ctaf area based part flight pattern traffic flow private public airport offairport landing site ctaf area accident occurred frequency changeover point westbound cook inlet traffic communicating 12270 eastbound traffic 12290 mhz pilot cessna 175 traveling eastbound heading time accident reported primary active radio frequency 12290 mhz non active secondary frequency 13525 mhz transceiver time collision transceivers airplane recovered could determined whether pilot cessna 207 monitoring ctaf making position report",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "cessna",
+                7
+            ],
+            [
+                "traffic",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Brenham, Texas
+Accident Number:
+WPR18LA271
+Date & Time:
+September 20, 2018, 15:22 Local 
+Registration:
+N756NN
+Aircraft:
+Cessna TU206
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+2 None
+Flight Conducted Under:
+Public aircraft
+Analysis 
+After completing a photographic mission, the pilot determined that there was adequate fuel remaining to 
+reach his intended destination with a 45-minute reserve. During the landing approach, the engine began 
+to lose power and the pilot switched from the left to right fuel tank, which the fuel gauges indicated had 
+more fuel remaining; however, the engine did not respond, and shortly thereafter, the engine lost total 
+power. The airplane impacted trees and a fence during the subsequent forced landing short of the 
+runway. 
+Enough fuel for about one hour of flight was drained from the right main fuel tank after the accident, but 
+both the tip tanks and the left main tank were empty. Examination did not reveal any pre-impact 
+anomalies with the airframe or engine that would have precluded normal operation.
+The pilot reported that he switched fuel tanks every hour during the flight but had failed to select the 
+fuller tank during the landing approach as required by the manufacturer's Pilot's Operating Handbook 
+(POH). Allowing a tank to run dry was allowable per the POH, but it required the engagement of the 
+auxiliary fuel pump after the other tank was selected. Likewise, the emergency procedures for an engine 
+failure in flight required the use of the auxiliary fuel pump. 
+The pilot had correctly planned for the airplane’s fuel consumption but failed to select the fullest tank 
+during the critical landing phase, which resulted in the loss of engine power due to fuel starvation. The 
+pilot stated that due to the airplane’s low altitude at the time of the loss of power, he did not have time to 
+perform any items on the emergency checklist, and as such, did not turn on the fuel pump; however, the 
+checklist was short and of sufficient significance that it should have been automatic to the pilot. 
+Engagement of the fuel pump would likely have restarted the engine.

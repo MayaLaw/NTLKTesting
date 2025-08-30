@@ -1,0 +1,29 @@
+{
+    "Filename": "97172.txt",
+    "Location": "Middletown, New York",
+    "Accident Number": "ERA18FA141",
+    "Date & Time": "May 5, 2018, 09:05 Local",
+    "Aircraft": "Aeronca 7AC",
+    "Registration": "N84396",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "pilot flight instructor conducting flight review airplane owned flying club shortly takeoff airplane \u00bd mile departure end runway witness reported airplane suddenly went nose airplane impacted row tree edge field nearvertical nosedown attitude ground scar found tree damage found directly wreckage consistent little forward speed thus airplane likely exceeded critical angle attack resulting aerodynamic stall pilot unable recover witness mark engine crankcase nose seal area consistent directly aft impact propeller mounting bolt nut showed indication scraping rotation addition chordwise scratching relatively little leading edge damage propeller blade lack chordwise scratching relatively little leading edge damage propeller blade conclusive suggestive slow rotation propeller descended tree examination airframe engine otherwise revealed evidence preimpact failure would precluded normal operation rear seat shoulder harness anchor separated attachment point fuselage tubing accident sequence although bolt securing anchor installed accordance manufacturer instruction bolt head facing instead nut installation error likely cause failure instead failure due anchor sliding forward fuselage tube investigation could determine rear seat shoulder harness anchor failed due design issue load beyond design criterion probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack climbout resulted",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "propeller",
+                4
+            ],
+            [
+                "anchor",
+                4
+            ]
+        ]
+    }
+}

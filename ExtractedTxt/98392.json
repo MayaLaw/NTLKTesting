@@ -1,0 +1,29 @@
+{
+    "Filename": "98392.txt",
+    "Location": "Fairbanks, Alaska",
+    "Accident Number": "ANC18LA073",
+    "Date & Time": "September 27, 2018, 15:00 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N70391",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported departure 24minute roundtrip flight airplane refueled 25 gallon useable fuel board airplane fuel quantity confirmed custommade fuel dipstick departure landing lake pilot departed return flight level cruise flight altitude 1000 ft ground level agl engine lost total power effort restore power pilot switched fuel tank activated fuel boost pump avail performed emergency descent landing small lake airplane impacted tree float separated fuselage airplane came rest partially submerged substantial damage wing fuselage postaccident examination revealed left right fuel tank intact however fuel bladder loose tank cavity wrinkle present 2 gallon fuel recovered fuel tank fuel line fuel pump fuel control unit removed 2 tablespoon fluid light blue color consistent 100ll avgas recovered fuel line fuel control unit fuel manifold removed fluid present examination engine revealed evidence malfunction anomaly airplane equipped optional longrange fuel tank according owner manual total unusable fuel aircraft equipped longrange fuel tank 6 gallon investigation unable determine loose fuel bladder result accident recovery impact would fuel quantity unusable fuel however given lack malfunction anomaly noted engine examination lack fluid present fuel line likely engine lost power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                23
+            ],
+            [
+                "tank",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

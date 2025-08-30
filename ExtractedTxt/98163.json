@@ -1,0 +1,29 @@
+{
+    "Filename": "98163.txt",
+    "Location": "Rochester, New Hampshire",
+    "Accident Number": "GAA18CA511",
+    "Date & Time": "August 26, 2018, 14:15 Local",
+    "Aircraft": "Mooney M20J",
+    "Registration": "N201BS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilotrated owner reported allowing another pilot build time airplane qualify airplane insurance accident flight pilot occupied left seat owner occupied right seat takeoff touchandgo landing pilot rotated bit early airplane settled back onto runway aborted takeoff applied heavy braking airplane fishtailed veered left owner took flight control airplane exited left runway impacted ditch pilot reported familiarization flight practice touchandgo landing second takeoff aborted takeoff realized enough runway available applied heavy braking airplane veered left swamp owner added sitting right seat right seat position brake believed inexperience controlling airplane right seat also contributed accident airplane sustained substantial damage right wing owner reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "owner",
+                5
+            ],
+            [
+                "seat",
+                5
+            ]
+        ]
+    }
+}

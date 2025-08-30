@@ -1,0 +1,29 @@
+{
+    "Filename": "96000.txt",
+    "Location": "Los Angeles, California",
+    "Accident Number": "DCA17CA195",
+    "Date & Time": "September 12, 2017, 13:10 Local",
+    "Aircraft": "Boeing 737-924ER",
+    "Registration": "N69813",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Ground collision",
+    "Injuries": "140 None",
+    "Analysis": {
+        "Text": "september 12 2017 1310 pacific daylight time united airline flight 447 boeing 737 n69813 collided air canada flight 785 boeing 767 cghoz taxiing taxiway c near gate 69b los angeles international airport lax los angeles california aircraft regularly scheduled passenger flight injury aboard either airplane right winglet b737 minor damage right horizontal stabilizer b767 substantially damaged b767 marshaled onto gate 69b instructed stop approximately 15 foot short stop line normally towin gate flight crew shut engine awaited ground crew hook tow bar white line painted around gate area aid ground vehicle driving ramp b767 tail protruded beyond white line perpendicular adjacent taxiway c b737 taxiing departure via taxiway c accordance atc instruction captain reported saw b767 maneuvered left centerline clearance asked first officer fo head making fm entry look verify enough clearance fo reported saw b767 hooked tug wasnt sure towed judged 5 foot clearance said saw action marshallers indicating thought airplane close airplane continued taxiing right winglet b737 contacted horizontal stabilizer b767 flight crew reported feel impact told atc collision occurred b737 returned gate deplaned passenger normally b767 towed gate deplaned passenger normally surveillance video gate 69b obtained captured event b737 nosewheel tracking along yellow centerline taxiway c",
+        "Top Words": [
+            [
+                "gate",
+                7
+            ],
+            [
+                "b767",
+                7
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

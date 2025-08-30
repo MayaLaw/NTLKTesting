@@ -1,0 +1,29 @@
+{
+    "Filename": "97320.txt",
+    "Location": "St. Johns, Arizona",
+    "Accident Number": "GAA18CA298",
+    "Date & Time": "May 23, 2018, 13:30 Local",
+    "Aircraft": "GARCIA BENIGNO BABY ACE D",
+    "Registration": "N4207D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported immediately landing tailwheelequipped airplane veered left right subsequently applied heavy brake airplane exited right side runway nosed airplane sustained substantial damage rightwing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located accident airport reported time accident wind 280 10 knot gusting 19 knot pilot landed airplane runway 3 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting quartering tailwind condition",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

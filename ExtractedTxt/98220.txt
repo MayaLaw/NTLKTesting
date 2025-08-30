@@ -1,0 +1,43 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Yuma, Arizona
+Accident Number:
+WPR18LA250
+Date & Time:
+August 27, 2018, 10:36 Local 
+Registration:
+N8162H
+Aircraft:
+Stoddard Hamilton GLASAIR 
+SUPER IIS
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, about 35 minutes into the personal cross-country flight, the experimental, 
+amateur-built airplane's alternator field toggle switch/circuit breaker tripped. He reset the switch, and all 
+systems appeared normal. About 5 minutes later, the switch tripped again, and the pilot cycled the 
+switch. About 2 minutes later, the pilot noticed that the engine manifold pressure was dropping, along 
+with the airplane's airspeed, consistent with a partial loss of engine power. The engine then experienced 
+a total loss of power when he was maneuvering for an emergency landing to a nearby airport. The 
+airplane subsequently landed short of the runway and sustained substantial damage to the aft fuselage. 
+The engine had been installed about 91 flight hours and 5 months before the accident flight, and a 
+condition inspection was completed the same month of installation. Maintenance records indicated that 
+during the period between the engine installation and the accident, maintenance was limited to routine 
+oil changes, magneto timing adjustments, the replacement of exhaust gas temperature and cylinder head 
+temperature probes, and the installation of a replacement alternator. 
+Postaccident examination of the engine revealed that the throttle linkage had detached from the throttle 
+arm of the fuel injection servo. The rod end bearing for the linkage and the throttle arm were intact and 
+undamaged, but the connecting bolt and its associated washers, castellated nut, and cotter pin were 
+missing. The butterfly valve within the throttle body was in the closed position, and the throttle lever in 
+the cabin was in the full forward (open) position. It is likely that the bolt securing the linkage had not 
+been sufficiently tightened and secured with a cotter pin during the installation and that the error was not 
+detected during the subsequent condition inspection.
+The investigation determined that the electrical system malfunction was unrelated to the loss of engine 
+power.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98490.txt",
+    "Location": "Monte Vista, Colorado",
+    "Accident Number": "GAA19CA023",
+    "Date & Time": "October 13, 2018, 17:00 Local",
+    "Aircraft": "Skystar KITFOX SER 5 SAFARI",
+    "Registration": "N14GX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilotrated witness airport reported airplane approach appeared low fast airplane landed hard bounced 4 5 ft touched back runway witness added appeared pilot tried increase power recover airplane 2 ft ground turned left wing leveled shortly airplane aerodynamically stalled nosed brush pilot reported taxiing sped airplane left main landing gear impacted berm subsequently airplane veered left bounced right wing impacted ground airplane ground looped came rest nose airplane sustained substantial damage fuselage windscreen pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station 10 mile accident site reported 5 minute accident wind 250 14 knot gusting 25 knot pilot landed airplane runway 16 probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "reported",
+                4
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

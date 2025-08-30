@@ -1,0 +1,43 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Cottonwood, Arizona
+Accident Number:
+WPR18FA266
+Date & Time:
+September 17, 2018, 09:45 Local 
+Registration:
+N2031D
+Aircraft:
+Beech 33
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The owner of the airplane and the pilot completed a cross-country flight; upon landing, the owner 
+disembarked and the pilot departed alone on the return flight. Radar data showed that the airplane 
+entered the traffic pattern at the origination airport at the conclusion of the return flight and, after turning 
+onto the final leg of the traffic pattern for landing, the airplane continued to descend and impacted the 
+roof of a home about 1/4 mile from the approach end of the runway. A witness who responded to the site 
+immediately after the accident stated that the pilot said "something about an engine problem." The left 
+wing and fuel tank were mostly intact; the tank contained trace amounts of fuel. The inboard right wing, 
+including the fuel tank, was mostly consumed by a postcrash fire. The fuel selector was found in the 
+right tank position. Postaccident examination of the airplane and test run of the engine revealed no 
+evidence of mechanical malfunctions or anomalies that would have precluded normal operation.
+The owner of the airplane stated that they departed on the first leg of the flight with the airplane fueled 
+to capacity. About 30 minutes into the flight, they switched the fuel selector from the right tank to the 
+left tank. Fuel consumption information from the airplane's Pilots Operating Handbook indicated that, if 
+the airplane flew the remainder of the first leg of the flight and the entire return flight with the left fuel 
+tank selected, the fuel consumed would have been about equal to the usable fuel available in that tank. 
+Given the lack of fuel found in the intact left main tank, the lack of mechanical anomalies found during 
+examination, and the pilot's report of engine problems, it is likely that the pilot failed to switch the fuel 
+selector during the return flight, which resulted in fuel starvation and a total loss of engine power. It is 
+possible that the pilot switched fuel tanks following the loss of power but that the airplane's low altitude 
+at the time of the power loss provided inadequate time to restore fuel flow and engine power before the 
+airplane impacted the ground.
+Probable Cause and Findings

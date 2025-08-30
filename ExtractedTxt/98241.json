@@ -1,0 +1,29 @@
+{
+    "Filename": "98241.txt",
+    "Location": "Edgewood, New Mexico",
+    "Accident Number": "GAA18CA530",
+    "Date & Time": "July 28, 2018, 20:00 Local",
+    "Aircraft": "Piper PA 12",
+    "Registration": "N4159M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll airplane ground looped left airplane sustained substantial damage right wing right elevator pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll finding aircraft directional control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

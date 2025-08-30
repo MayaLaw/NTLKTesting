@@ -1,0 +1,29 @@
+{
+    "Filename": "94773.txt",
+    "Location": "Statesville, North Carolina",
+    "Accident Number": "ERA17CA114",
+    "Date & Time": "February 18, 2017, 13:15 Local",
+    "Aircraft": "Cessna 172N",
+    "Registration": "N738DS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot second leg solo crosscounty training flight landing flare destination airport landed airplane hard bounced twice able regain control taxied back beginning runway conducted runup noting anomaly taxied onto runway started takeoff roll takeoff pulled back yoke far airplane climbed 30 40 ft entering aerodynamic stall colliding ground nose landing gear collapsed propeller struck ground resulted substantial damage fuselage pilot reported preimpact mechanical anomaly airplane would precluded normal operation could determined whether airplane incurred damage hard landing would impacted pilot ability maintain pitch control subsequent takeoff therefore reason loss control could determined probable cause finding national transportation safety board determines probable cause accident loss airplane control takeoff reason could determined based available information",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "control",
+                4
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

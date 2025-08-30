@@ -1,0 +1,29 @@
+{
+    "Filename": "97885.txt",
+    "Location": "Princeton, Minnesota",
+    "Accident Number": "CEN18LA295",
+    "Date & Time": "July 24, 2018, 14:56 Local",
+    "Aircraft": "Vans RV7A",
+    "Registration": "N20342",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "private pilot conducting personal crosscountry flight decided stop intermediate airport refuel airplane airplane touched swerved left exited side runway struck runway edge light nosed soft terrain examination runway revealed long black line extended centerline runway edge light struck imprinted pavement likely imprint created chine pronounced side tire ground signature indicate nosewheel tire likely flat upon touchdown led pilot inability maintain directional control upon landing probable cause finding national transportation safety board determines probable cause accident flat nosewheel tire resulted pilot inability maintain directional control landing",
+        "Top Words": [
+            [
+                "runway",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "tire",
+                3
+            ]
+        ]
+    }
+}

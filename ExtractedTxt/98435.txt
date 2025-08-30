@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+San Antonio, Texas
+Accident Number:
+GAA19CA011
+Date & Time:
+October 5, 2018, 11:30 Local 
+Registration:
+N6674Y
+Aircraft:
+Beech 55
+Aircraft Damage:
+Substantial
+Defining Event:
+Abrupt maneuver
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, the day before the accident flight, he had flown the airplane and wanted to 
+become more comfortable with new instruments that had been installed. So, after the flight, while in a 
+hangar, he and a friend turned the airplane's electrical power on to familiarize the pilot with the autopilot 
+system and specifically with how it would follow heading bug settings. During the familiarization, they 
+"ran the [pitch] trim all the way up." 
+The pilot added that, before takeoff for the accident flight, he did not check the pitch trim setting 
+because he believed it would be the same as his previous flight, instead of the pitch trim setting after his 
+autopilot ground familiarization. He added that, during takeoff, the nose pitched up severely. He lowered 
+the nose, and the airplane entered a negative G condition. He realized that he "did not latch the seat belt 
+very good" and saw that his seatbelt had disconnected and that he was no longer in his seat and could 
+not regain airplane control. The airplane struck the runway, porpoised, and the nose landing gear 
+collapsed. The airplane skidded and struck a taxiway light.
+Postaccident examination of the airplane revealed that the vertical trim tab was in the full-down position, 
+indicating that full nose-up trim was applied.
+The airplane sustained substantial damage to both engines and the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The Pilot's Operating Handbook checklist titled, "Before Takeoff," stated:
+Seat Belts and Shoulder Harnesses – CHECK… 15. Trim – AS REQUIRED FOR TAKE-OFF

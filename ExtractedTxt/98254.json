@@ -1,0 +1,29 @@
+{
+    "Filename": "98254.txt",
+    "Location": "Laramie, Wyoming",
+    "Accident Number": "CEN18LA373",
+    "Date & Time": "September 6, 2018, 07:25 Local",
+    "Aircraft": "Cessna T310",
+    "Registration": "N376J",
+    "Flight Conducted Under": "Part 91: General aviation - Business",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot departed multiengine airplane climbed cruise altitude began lean fuel mixture cruise power felt vibration fluttering slowed airplane began troubleshoot problem turned back toward airport advanced throttle takeoff power response engine pilot stated airplane losing altitude fast attempted glide airplane interstate emergency landing unable reach interstate pilot subsequently performed gearup forced landing field airplane sustained substantial damage pilot reported distracted vibration noise failed enrichen fuel mixture beginning leaning procedure stated mechanical anomaly would precluded engine producing full power vibration result engine running rough due lack fuel probable cause finding national transportation safety board determines probable cause accident pilot failure properly adjust fuelair mixture resulted partial loss engine power engine due fuel starvation subsequent forced landing field",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

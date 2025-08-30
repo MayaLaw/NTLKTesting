@@ -1,0 +1,44 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Warsaw, Kentucky
+Accident Number:
+ERA18LA158
+Date & Time:
+June 3, 2018, 09:45 Local 
+Registration:
+N8698
+Aircraft:
+Bellanca 7ECA
+Aircraft Damage:
+Substantial
+Defining Event:
+Preflight or dispatch event
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After a preflight inspection and engine run up revealed no anomalies, the pilot attempted to takeoff from 
+an upsloping turf runway. The initial takeoff roll was normal; however, as the airplane reached 60 knots, 
+the pilot determined that the airplane’s acceleration was not "normal" and that the airplane would not 
+clear the trees at the end of the runway, nor be able to stop within the remaining runway. The pilot then 
+rejected the takeoff, applied full rudder, and the airplane ground looped, resulting in substantial damage 
+to the fuselage.
+A cursory examination of the engine did not reveal any preimpact mechanical anomalies that would 
+have precluded normal operation; however, the examination did not determine whether the engine was 
+capable of developing its full rated power during the accident takeoff. 
+The runway measured 1,100 ft by 125 ft and had an approximate 3% slope. The calculated density 
+altitude at the time of the accident was about 2,389 ft, and the wind reported at the nearest weather 
+observation facility would have provided a headwind component of about 3 knots for the takeoff 
+runway. According to the pilot’s operating handbook, at maximum gross weight, the airplane would 
+have required about 938 ft to clear a 50-ft obstacle, given the wind conditions and a dry, level grass 
+runway; however, the actual distance required would have been greater than the calculated 938 ft due to 
+the upsloping runway. 
+It is likely that the reduced acceleration noticed by the pilot was the result of decreased engine 
+performance due to the density altitude combined with the upsloping runway, both of which would have 
+increased the runway distance required to reach takeoff speed. It is also likely that even with full engine 
+power, given the conditions on the day of the accident, the runway distance required would have been 
+close to or exceeded the runway length available. Although the pilot acted appropriately by aborting the 
+takeoff upon realizing that the airplane would not clear the trees at the end of the runway, his delayed 
+decision to abort resulted in insufficient runway remaining on which to slow and stop the airplane. 

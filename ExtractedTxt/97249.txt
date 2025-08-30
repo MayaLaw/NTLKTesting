@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+ORRVILLE, Ohio
+Accident Number:
+CEN18LA171
+Date & Time:
+May 11, 2018, 09:40 Local 
+Registration:
+N738XT
+Aircraft:
+Cessna 172N
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During initial climb after a soft field takeoff, the private pilot noted that the airspeed was low, 
+which he thought was due to a pitot system error. He pulled back on the yoke and the 
+airplane's stall warning horn immediately sounded. The airplane was descending, and the pilot 
+maneuvered to avoid obstructions. He pulled the yoke all the way back to fully stall the airplane 
+before the airplane impacted the ground and nosed over. The pilot reported that there were no 
+mechanical failures or malfunctions with the airplane that would have precluded normal 
+operation. Based on the available information, it is likely that the pilot failed to attain adequate 
+airspeed control during the takeoff and initial climb, which resulted in an exceedance of the 
+airplane's critical angle of attack and a subsequent aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to attain adequate airspeed during the soft field takeoff, which resulted in an 
+exceedance of the airplane's critical angle of attack and an aerodynamic stall.
+Findings
+Aircraft
+Airspeed - Not attained/maintained
+Aircraft
+Angle of attack - Capability exceeded
+Personnel issues
+Aircraft control - Pilot

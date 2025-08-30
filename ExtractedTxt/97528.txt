@@ -1,0 +1,37 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Ferdinand, Indiana
+Accident Number:
+CEN18TA233
+Date & Time:
+June 18, 2018, 22:45 Local 
+Registration:
+N3002X
+Aircraft:
+Cessna 150F
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and passenger were on a cross-country personal flight at 2,500 ft mean sea level and 
+were about 15 miles north of their destination airport. They began the descent, and during the descent, 
+the engine sputtered, followed by a total loss of power. The pilot attempted to troubleshoot the loss of 
+power but was unsuccessful; however, he did not apply carburetor heat during the troubleshooting. 
+Subsequently, the pilot made a forced landing to a parking lot. During the landing roll, the airplane 
+impacted an embankment and nosed over. 
+Postaccident examination of the airplane revealed that fuel was present in the fuel tanks and the fuel 
+lines to the carburetor. Examination revealed no evidence of any preimpact mechanical failures or 
+malfunctions that would have precluded normal operation. Weather conditions at the time of the 
+accident were conducive to the accumulation of serious carburetor icing at glide power settings. It is 
+likely that, during the descent, carburetor ice accumulated due to the pilot's failure to apply carburetor 
+heat, which resulted in the loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to apply carburetor heat in conditions conducive to the accumulation of carburetor 
+icing, which resulted in a total loss of engine power.

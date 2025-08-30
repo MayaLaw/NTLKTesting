@@ -1,0 +1,34 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Columbia, South Carolina
+Accident Number:
+GAA18CA368
+Date & Time:
+June 18, 2018, 17:20 Local 
+Registration:
+N41AL
+Aircraft:
+Piper PA 32-300
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he landed the airplane right of the runway centerline. The airplane then veered off 
+the runway to the left, the propeller struck the ground, and the nosewheel separated. 
+The airplane sustained substantial damage to the lower firewall mating the lower engine mount.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing.  
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Directional control - Not attained/maintained

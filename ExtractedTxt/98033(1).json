@@ -1,0 +1,29 @@
+{
+    "Filename": "98033(1).txt",
+    "Location": "Merritt Island, Florida",
+    "Accident Number": "GAA18CA479",
+    "Date & Time": "August 9, 2018, 10:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N487JK",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing initiating landing flare saw white bird heading toward airplane applied left rudder avoid bird airplane drifted left runway centerline pulled yoke back left main landing gear impacted taxiway sign airplane settled grass adjacent runway airplane sustained substantial damage leftwing spar pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack maneuvering avoid bird landing flare resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

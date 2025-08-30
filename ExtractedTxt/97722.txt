@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Fort Lauderdale, Florida
+Accident Number:
+GAA18CA406
+Date & Time:
+July 9, 2018, 15:20 Local 
+Registration:
+N66340
+Aircraft:
+Beech 76
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing area undershoot
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that he asked the pilot receiving instruction to simulate a power-off 
+emergency landing with a 180º turn to the runway and directed her to "lower the gear when landing was 
+assured." After initiating the power-off approach, the pilot receiving instruction turned the airplane from 
+the downwind leg onto the base leg of the traffic pattern and extended the landing gear. The sink rate 
+increased, and she attempted to correct with full engine power, but the airplane continued to 
+descend. The airplane landed short of the runway and struck a ground lighting system. The pilot 
+receiving instruction then initiated a go-around and landed without further incident.  
+The airplane sustained substantial damage to the right wing.  
+The instructor reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+The airport’s automated weather observation station reported that, about the time of the accident, the 
+wind was from 080° at 8 knots. The airplane landed on runway 09.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot receiving instruction's failure to maintain a proper approach path and her delayed go-around 
+during a simulated emergency landing, which resulted in landing short of the runway. Contributing to 
+the accident was the flight instructor's failure to properly monitor the student's approach.     

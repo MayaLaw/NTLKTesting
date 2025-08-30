@@ -1,0 +1,29 @@
+{
+    "Filename": "98256.txt",
+    "Location": "Carrabassett Valley, Maine",
+    "Accident Number": "GAA18CA538",
+    "Date & Time": "September 6, 2018, 10:50 Local",
+    "Aircraft": "Avid AVID MAGNUM",
+    "Registration": "N2137G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported sky cleared departed airport following another airplane flight two flight approached ridge significant turbulence issue added suddenly instrument meteorological condition imc lead airplane disappeared immediately changed course 10 left transitioned instrument flying airplane encountered downdraft shortly thereafter windscreen filled tree estimated less 100 ft away pitched nose dissipate energy airplane subsequently impacted tree terrain airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation nearest official weather reporting station 16 mile southwest accident site reported time accident 10 mile visibility temperature 70f dew point 66f broken layer 2700 ft second broken layer 3200 ft overcast layer 4100 ft although marginal visual flight rule condition given mountainous terrain pilot expected mountain peak may become obscured 4 temperaturedew point spread visibility condition could change rapidly pilot recommended flown original flight plan lower altitude could avoided unexpected unpredicted wind entering imc probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

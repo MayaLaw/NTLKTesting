@@ -1,0 +1,46 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+San Juan, Puerto Rico
+Accident Number:
+ERA17FA195
+Date & Time:
+June 3, 2017, 14:17 Local 
+Registration:
+N21WW
+Aircraft:
+Piper PA23
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal, 2 Serious, 1 
+Minor
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The commercial pilot was conducting an on-demand air taxi flight with three passengers on board the 
+multiengine airplane. The majority of the pilot's multiengine experience was in a larger airplane with 
+more powerful engines. He had about 20 hours of experience in the accident airplane make and model 
+and had completed training in it about 9 days before the accident. The pilot stated that, after receiving 
+clearance for takeoff from air traffic control, he performed the takeoff roll and rotated the airplane at 85 
+knots. The airplane climbed to about 100 ft above ground level (agl), but then did not continue to climb 
+or accelerate. The airplane then yawed left, and the left engine rpm needle indicated less than the right 
+engine rpm, but it remained in the green arc. Subsequently, the pilot turned the airplane left with the yaw 
+to return to the airport, but the airplane was unable to maintain altitude and subsequently impacted 
+water. The pilot further stated that, other than the rpm difference, there were no other preimpact 
+mechanical malfunctions with the airplane.
+The front seat passenger reported that he was not a pilot but that he was familiar with airplanes. He 
+stated that the airplane initially gained some altitude, but that it then yawed left. He then noticed that the 
+pilot did not correct the yaw and let the airplane turn perpendicular to the wind, at which point he 
+mentally questioned the pilot's competency and felt compelled to take the controls, but he did not touch 
+anything. The airplane lost altitude and then flew under a tree line while remaining in a left banking 
+turn. The pilot then moved the yoke abruptly right, and the airplane collided with the water. The front 
+seat passenger added that the sound of the engines did not change during the flight and that he noted no 
+smoke or fuel odor.
+Airport surveillance video confirmed that the airplane climbed to about 100 to 150 ft agl, which is out of 
+ground effect, as it passed over the departure end of the runway. The airplane remained in a nose-up 
+attitude as it then began to descend and, begin a shallow left turn; it then impacted the water.
+Examination of the airplane did not reveal any preimpact mechanical malfunctions that would have 
+precluded normal operation, and the airplane was about 350 lbs below its maximum gross weight. 

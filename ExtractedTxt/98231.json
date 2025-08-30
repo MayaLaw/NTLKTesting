@@ -1,0 +1,29 @@
+{
+    "Filename": "98231.txt",
+    "Location": "Tulsa, Oklahoma",
+    "Accident Number": "GAA18CA527",
+    "Date & Time": "September 1, 2018, 14:45 Local",
+    "Aircraft": "Cessna 170",
+    "Registration": "N2303D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing crosswind lifted left wing airplane drifted right right main landing gear encountered grass right side runway airplane subsequently nosed came rest inverted airplane sustained substantial damage left wing lift strut right aileron empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 8 minute accident wind 150 10 knot gusting 16 knot airplane landed runway 19 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

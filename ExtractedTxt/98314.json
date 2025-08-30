@@ -1,0 +1,29 @@
+{
+    "Filename": "98314.txt",
+    "Location": "Miami, Florida",
+    "Accident Number": "GAA18CA559",
+    "Date & Time": "September 11, 2018, 10:30 Local",
+    "Aircraft": "Piper PA34",
+    "Registration": "N88AG",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor multiengine airplane reported pilot instruction conducting simulated instrument approach visual flight rule condition instructor placed left engine fuel selector position simulate engine pilot instruction initiated left engine failure procedure placing engine propeller lever simulated feathered zero thrust configuration instructor became distracted traffic failed place left engine fuel selector back position full flap landing gear extended 250 ft ground level instructor terminated simulated instrument approach instructed pilot land visually however airspeed decreased safe limit instructed pilot increase airspeed pilot increased power engine however left engine power increase airplane rolled left 45 instructor took control applied right aileron rudder airplane settled level attitude shallow lagoon left side runway airplane sustained substantial damage forward fuselage bulkhead instructor reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "instructor",
+                6
+            ],
+            [
+                "left",
+                6
+            ]
+        ]
+    }
+}

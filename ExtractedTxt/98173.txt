@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bowman, North Dakota
+Accident Number:
+CEN18LA354
+Date & Time:
+August 26, 2018, 11:55 Local 
+Registration:
+N666WW
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and the passenger departed on a cross-country personal flight; the pilot 
+indicated that, shortly after takeoff, the engine started "sputtering" and then lost power. The 
+pilot attempted to restore engine power to no avail and performed a forced landing to a field, 
+during which the airplane sustained substantial damage to the wing spars. A postaccident 
+examination of the airframe, fuel system, and engine revealed no evidence of mechanical 
+failures or malfunctions that would have precluded normal operation. Although both main fuel 
+tanks were full, further examination revealed that there was no fuel in the fuel lines, fuel, pump, 
+or engine forward of the airplane firewall and fuel selector. Thus, it is likely that the fuel 
+selector valve was not secured in the detent properly, which resulted in a loss of engine power 
+due to fuel starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power due to fuel starvation.
+Findings
+Aircraft
+Fuel - Fluid management
+Personnel issues
+Use of equip/system - Pilot

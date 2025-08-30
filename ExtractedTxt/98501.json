@@ -1,0 +1,29 @@
+{
+    "Filename": "98501.txt",
+    "Location": "Denver, Colorado",
+    "Accident Number": "DCA19CA010",
+    "Date & Time": "October 12, 2018, 09:16 Local",
+    "Aircraft": "Airbus A319",
+    "Registration": "N926FR",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 1 Minor, 22",
+    "Analysis": {
+        "Text": "october 12 2018 0916 mdt frontier airline flight 190 airbus a319 n926fr encountered turbulence climbing 24000 foot departure denver international airport den denver colorado 24 passenger crew onboard one flight attendant received serious injury airplane damaged regularly scheduled passenger flight operating 14 code federal regulation part 121 den austin bergstrom international airport au austin texas according flight crew flight encountered intermittent light turbulence initial climb however airplane climbing flight level 240 encountered continuous moderate turbulence airplane began accelerate rapidly captain disconnected autopilot increased climb convective activity area report turbulence airplane time turbulence encounter two flight attendance aft gally preparing cabin service initially turbulence light however flight attendant felt intensity increasing moved get jump seat could get seat thrown air onto floor one flight attendant injured ankle injured knee captain called back cabin told one flight attendant seriously injured declared medical emergency requested paramedic meet flight arrival landing one flight attendant transported local hospital diagnosed broken ankle probable cause finding",
+        "Top Words": [
+            [
+                "flight",
+                12
+            ],
+            [
+                "turbulence",
+                6
+            ],
+            [
+                "attendant",
+                5
+            ]
+        ]
+    }
+}

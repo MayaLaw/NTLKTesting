@@ -1,0 +1,29 @@
+{
+    "Filename": "93979.txt",
+    "Location": "Wickenburg, Arizona",
+    "Accident Number": "WPR16FA176",
+    "Date & Time": "September 9, 2016, 07:00 Local",
+    "Aircraft": "Cessna 310N",
+    "Registration": "N126P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "4 Serious",
+    "Analysis": {
+        "Text": "airline transport pilot three passenger departing multiengine airplane early phase takeoff likely shortly rotation right engine experienced total loss power power loss occurred critical phase flight time airplane close manufacturer recommended safe singleengine speed hilly terrain surrounding airport particularly takeoff direction left pilot option safe climb hindering takeoff airplane anemic singleengine climb performance due high density altitude condition airplane weight result shortly loss power airplane rolled right consistent flying slower minimum controllable singleengine airspeed collided ground sustained substantial damage pilot passenger sustained serious injury could remember circumstance accident examination right engine revealed clear gelatinous substance blocked inlet port fuel flow transducer leading fuel starvation substance determined silicone likely roomtemperaturevulcanization silicone sealant indication material used anywhere within fuel system sign recent maintenance could resulted introduction contaminant get fuel flow transducer silicone would pas multiple fine mesh filter unlikely based material size dry however silicone becomes semisoluble contact aviation gasoline possible extruded filter state eventually coalesced flow divider inlet port smaller fragment silicone found fuel manifold valve beyond flow divider fuel injector valve port partially occluded possibly material specific source contamination could determined pilot last purchased fuel airplane one month accident later day purchase fuel system shut airport management due metering inaccuracy however problem electrical",
+        "Top Words": [
+            [
+                "fuel",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "silicone",
+                5
+            ]
+        ]
+    }
+}

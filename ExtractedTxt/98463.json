@@ -1,0 +1,29 @@
+{
+    "Filename": "98463.txt",
+    "Location": "Albermarle, North Carolina",
+    "Accident Number": "GAA19CA017",
+    "Date & Time": "October 4, 2018, 13:00 Local",
+    "Aircraft": "Cessna 177RG",
+    "Registration": "N52881",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot retractablelanding gearequipped airplane reported decided attempt gear glide runway recalled became fixated reaching runway forgot extend landing gear airplane touched skidded stop runway airplane sustained substantial damage lower fuselage bulkhead pilot reported mechanical malfunction failure airplane would precluded normal operation pilot recommended adhering checklist probable cause finding national transportation safety board determines probable cause accident pilot improper decision attempt gearup glide runway subsequent failure extend landing gear landing contributing accident pilot failure use checklist landing",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

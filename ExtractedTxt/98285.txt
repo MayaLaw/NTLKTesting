@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Roche Harbor, Washington
+Accident Number:
+WPR18LA259
+Date & Time:
+September 12, 2018, 08:10 Local 
+Registration:
+N24ME
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Preflight or dispatch event
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot reported that he adjusted his seat and “wiggled it” prior to takeoff to ensure it was 
+locked in place. However, during the takeoff roll, the seat moved all the way aft, and the pilot 
+was not able to reach the throttle or the rudder pedals. The airplane veered to the left and lifted 
+off the ground. Shortly after, the tail struck the ground, followed by the left wing, and the 
+airplane came to rest on its nose.
+A postaccident examination of the seat rail and latching mechanism revealed no anomalies. 
+There was proper hole engagement with the seat pin and holes in the seat rail; the seat did not 
+move once the stop was engaged with the hole. Therefore, it is likely that although the pilot 
+attempted to secure his seat before takeoff, the seat pin was likely not engaged in the 
+corresponding hole in the seat rail, which resulted in its aft movement when the airplane 
+gained speed during the takeoff roll.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to secure his seat position prior to takeoff, which resulted in a loss of 
+airplane control and subsequent hard landing.

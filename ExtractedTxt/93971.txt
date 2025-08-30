@@ -1,0 +1,43 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Chariton, Iowa
+Accident Number:
+CEN16FA361
+Date & Time:
+September 7, 2016, 12:19 Local 
+Registration:
+N465JM
+Aircraft:
+Piper PA 46-310P
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The noninstrument-rated private pilot was conducting a visual flight rules (VFR) cross-country flight 
+while receiving VFR flight following services from air traffic control.  Radar data and voice 
+communication information indicated that the airplane was in cruise flight as the pilot deviated around 
+convective weather near his destination. The controller issued a weather advisory to the pilot concerning 
+areas of moderate to extreme precipitation along his route; the pilot responded that he saw the weather 
+on the airplane's NEXRAD weather display system and planned to deviate around it before resuming 
+course. About 3 minutes later, the pilot stated that he was around the weather and requested to start his 
+descent direct toward his destination. The controller advised the pilot to descend at his discretion. Radar 
+showed the airplane in a descending right turn before radar contact was lost at 2,900 ft mean sea level. 
+There were no eyewitnesses, and search personnel reported rain and thunderstorms in the area about the 
+time of the accident.
+The distribution of the wreckage was consistent with an in-flight breakup. Examination of the airframe 
+revealed overload failures of the empennage and wings. No pre-impact airframe structural anomalies 
+were found, and the propeller showed evidence of rotation at the time of impact. Further, there was no 
+evidence of pilot impairment or incapacitation.
+Review of weather information indicated that the pilot most likely encountered instrument 
+meteorological conditions as the airplane descended during the last several minutes of flight. During this 
+time, it is likely that the pilot became disoriented while attempting to maneuver in convective, restricted 
+visibility conditions, and lost control of the airplane. The transition from visual to instrument flight 
+conditions would have been conducive to the development of spatial disorientation; the turning descent 
+before the loss of radar contact and the in-flight breakup are also consistent with a loss of control due to 
+spatial disorientation.

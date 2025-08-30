@@ -1,0 +1,29 @@
+{
+    "Filename": "98202.txt",
+    "Location": "Tyonek, Alaska",
+    "Accident Number": "GAA18CA520",
+    "Date & Time": "August 15, 2018, 14:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N4165Z",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing narrow gravel airstrip airplane encountered wind gust right pushed left foot airplane left wing contacted brush left side airstrip airplane exited left side airstrip airplane descended 2ftdeep ditch stopped airplane sustained substantial damage left wing spar pilot reported wind condition variable gusting 8 knot sky clear visibility exceeded 10 mile pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting wind condition",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

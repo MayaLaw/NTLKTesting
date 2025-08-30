@@ -1,0 +1,29 @@
+{
+    "Filename": "97158.txt",
+    "Location": "Queens, New York",
+    "Accident Number": "DCA18CA165",
+    "Date & Time": "May 1, 2018, 14:53 Local",
+    "Aircraft": "BOMBARDIER INC CL600 2D24",
+    "Registration": "N606LR",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "60 None",
+    "Analysis": {
+        "Text": "may 1 2018 253 pm edt endeavor 3413 crj900 n606lr struck delta 212 b767300er n172dn awaiting marshalled gate john f kennedy international airport kjfk queen new york flight operating 14 code federal regulation part 121 regularly scheduled passenger flight day visual meteorological condition prevailed time accident according flight crew statement airplane conducted normal landing cleared taxi respective gate delta 212 taxing gate b30 following behind endeavor 3413 turned gate b30 captain endeavor 3413 stated stopped short gate await ground crew captain delta 212 indicated approached airplane noticed wing walker stopped endeavor airplane prior gate stopped prior entering ramp area endeavor airplane started move forward gate began slowly taxi behind however captain indicated lost sight airplane right window indicated turned slight left away endeavor 3413 first officer advised provide additional clearance ensure adequate separation thought would safety clear airplane turned back onto taxiway centerline airplane continued taxiing gate delta flight crew heard ramp control struck endeavor 3413 parking airplane inspected found delta 212s right winglet sustained minor damage endeavor 3413 sustained substantial damage horizontal vertical stabilizer probable cause finding national transportation safety board determines probable cause accident failure captain delta 212 ensure adequate clearance taxiing behind endeavor 3413",
+        "Top Words": [
+            [
+                "endeavor",
+                9
+            ],
+            [
+                "gate",
+                8
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

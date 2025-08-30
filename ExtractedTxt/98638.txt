@@ -1,0 +1,43 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Williams, Arizona
+Accident Number:
+GAA19CA060
+Date & Time:
+November 14, 2018, 12:06 Local 
+Registration:
+N264PC
+Aircraft:
+Beech 36
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during an uphill takeoff into ascending terrain, about 4,000 ft down the 6,000-ft-
+long runway and at 80 knots, he rotated the airplane and stayed in ground effect to gain airspeed. He 
+began pulling back to establish a climb, but the stall warning horn sounded, so he reduced the pitch 
+attitude. He added that he "constantly attempted" to pitch up until he heard the stall horn. At the end of 
+the runway, he retracted the landing gear, but it did not affect the airplane’s performance. He reported 
+that he knew the airplane had attained a positive climb rate but did not know the specific value. He then 
+saw that the airplane was going to strike a tree, so he pulled back hard, but the airplane struck the tree 
+and then impacted terrain.
+ The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport’s automated weather observation station reported that, about 9 minutes after the accident, the 
+wind was calm, temperature 50°F, dew point 3°F, and an altimeter setting of 30.41 inches of mercury. 
+The airplane departed from runway 18.
+The airport elevation was about 6,691 ft mean sea level (msl). Runway 18 was 6,000 ft by 100 ft with a 
+1.0% up gradient. The calculated density altitude was 7,128 ft. The calculated takeoff distance with flaps 
+up was 2,442 ft, and the takeoff distance over a 50-ft obstacle was 4,440 ft. The calculated climb rate 
+was 670 ft per minute.
+The airplane was equipped with additional tip tanks per a supplemental type certificate, which increased 
+the allowable maximum gross weight to 3,833 lbs. The pilot reported that the airplane’s weight at the 
+time of the accident was 3,797 lbs with a center of gravity of 80.7 inches, which was near the forward 
+center of gravity limit.

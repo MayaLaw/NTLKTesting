@@ -1,0 +1,29 @@
+{
+    "Filename": "94747.txt",
+    "Location": "Beckwourth, California",
+    "Accident Number": "GAA17CA148",
+    "Date & Time": "February 14, 2017, 11:00 Local",
+    "Aircraft": "Beech A23",
+    "Registration": "N425RS",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "solo student pilot reported flown 45 day accident due inclement weather added touchandgo takeoff roll airplane drifted left added attempted correct drift using control yoke instead rudder subsequently airplane impacted snow bank south side runway airplane sustained substantial damage fuselage empennage student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot inadvertent use control yoke correct drift subsequent failure maintain directional control takeoff",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

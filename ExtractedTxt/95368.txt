@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Estherville, Iowa
+Accident Number:
+GAA17CA338
+Date & Time:
+June 14, 2017, 09:15 Local 
+Registration:
+N33764
+Aircraft:
+Piper PA 28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that, as the airplane entered ground effect, while landing in crosswind 
+conditions, a wind gust lifted the airplane and pushed it to the left. He added that he initiated a go-
+around and "[pushed] the nose down slightly to gain lift." He further added that, during the go-around, 
+he "must have relaxed the aileron countering the wind," and a wind gust pushed the airplane to the left. 
+Subsequently, the airplane impacted the ground and spun around. 
+The airplane sustained substantial damage to the engine mount. 
+The student pilot reported that there were no preaccident mechanical malfunctions or failures with the 
+airplane that would have precluded normal operation.
+The automated weather observation system located on the airport reported that, about 23 minutes before 
+the accident, the wind was from 180° at 15 knots, gusting to 21 knots. The student pilot landed on 
+runway 16.
+ 
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain crosswind correction during a go-around in gusting wind 
+conditions.

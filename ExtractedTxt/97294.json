@@ -1,0 +1,29 @@
+{
+    "Filename": "97294.txt",
+    "Location": "Chesapeake, Virginia",
+    "Accident Number": "ERA18FA150",
+    "Date & Time": "May 22, 2018, 07:28 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N6177W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot completed normal preflight inspection engine runup received instrument flight rule clearance air traffic control depart uncontrolled airport fog low visibility cloud present shortly takeoff airplane entered cloud fog climbed departure runway heading turned right consistent clearance provided however airplane continued right turn flying 360 circle circle airplane rapidly descended 60 ft ground level agl climbed 600 ft agl last radar data point showed airplane 356 ft agl flying 42 knot groundspeed communication received pilot flight wreckage located open field 14 mile last radar data point postaccident examination airplane airplane primary vacuum system reveal anomaly consistent preimpact failure malfunction airplane equipped standby vacuum system electricallypowered attitude indicator investigation found anomaly component due impact fire damage investigation could determine whether standby vacuum system activated pilot restricted visibility maneuvering workload associated initial posttakeoff phase flight provided condition conducive development spatial disorientation change airplane altitude heading speed depicted radar consistent known effect spatial disorientation likely pilot experienced spatial disorientation climbing departure turn resulted exceedance airplane critical angle attack aerodynamic stall subsequent impact terrain probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

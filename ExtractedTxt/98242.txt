@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Centralia, Illinois
+Accident Number:
+GAA18CA531
+Date & Time:
+September 2, 2018, 14:20 Local 
+Registration:
+N2204X
+Aircraft:
+Piper PA44
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor in the twin-engine airplane reported that, during the second simulated single-engine 
+failure approach, the pilot under instruction reduced the left engine power setting to 12 inches of 
+manifold pressure, which activated the landing gear auditory warning horn. On downwind, the student 
+performed the prelanding checks and asked the instructor if he should deploy the landing gear. The 
+instructor told the student to delay the action and deploy the landing gear during the final landing checks 
+because the student was struggling to maintain altitude. Shortly after turning to final, the student 
+performed the final landing checks and provided verbal cues of completion but did not include the 
+landing gear check. 
+The instructor stated that he was distracted and focused on corrections because the student was 
+struggling to maintain altitude and the runway centerline during the final approach. The instructor did 
+not verify that the gear was extended. During the landing flare, the instructor realized that the landing 
+gear was not extended, and he immediately took the controls. He leveled the airplane and landed on the 
+runway with the gear retracted. 
+The airplane sustained substantial damage to the engines.
+The instructor reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

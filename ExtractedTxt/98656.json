@@ -1,0 +1,29 @@
+{
+    "Filename": "98656.txt",
+    "Location": "Charlotte, North Carolina",
+    "Accident Number": "GAA19CA064",
+    "Date & Time": "November 16, 2018, 15:40 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N8903X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported preflight inspection observe issue nosewheel tire however touchdown destination airport felt something wrong pulled back control added airplane left ground second landed hard second time taxied ramp without incident airplane sustained substantial damage fuselage airport automated weather observation station reported 12 minute accident wind 220 5 knot pilot landed airplane runway 36r probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing",
+        "Top Words": [
+            [
+                "pilot",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

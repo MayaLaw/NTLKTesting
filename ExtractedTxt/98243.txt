@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+London, Kentucky
+Accident Number:
+GAA18CA532
+Date & Time:
+September 3, 2018, 20:00 Local 
+Registration:
+N230DE
+Aircraft:
+Cessna 206
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during a touch-and-go landing, just after the airplane touched down, he reduced 
+the flaps to 10° and applied full throttle for takeoff. While increasing airspeed, the airplane drifted left. 
+He added right rudder, but the airplane continued to drift left, so he reduced engine power. The airplane 
+then exited the left side of the runway, and the pilot briefly applied full throttle to cross a drainage ditch, 
+and the airplane became airborne. Subsequently, when the airplane touched back down, the front landing 
+gear separated from the airframe, and the airplane came to rest nose down.
+The airplane sustained substantial damage to the right wing and fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system at the airport reported that, about the time of the accident, 
+the wind was from 100° at 3 knots. The pilot was performing a touch-and-go landing on runway 24.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during takeoff with a tailwind.

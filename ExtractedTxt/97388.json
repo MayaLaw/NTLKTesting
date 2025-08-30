@@ -1,0 +1,29 @@
+{
+    "Filename": "97388.txt",
+    "Location": "San Diego, California",
+    "Accident Number": "GAA18CA319",
+    "Date & Time": "June 3, 2018, 14:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N786SA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 Minor, 2 None",
+    "Analysis": {
+        "Text": "flight instructor control reported student taxied departure upon arrival departure end runway four airplane ahead runup area added first airplane moved holdshort line completed engine runup moved forward holdshort line behind first airplane three airplane biplane remained runup area departure first airplane instructor told control tower ready departure tower controller replied stand tower controller cleared three biplane waiting runup area takeoff flight three second biplane flight struck instructor airplane right aileron taxied past pilot tailwheelequipped biplane reported second flight three added flight holding runup area 45 angle complete runup check tower controller cleared flight takeoff began follow lead airplane airplane struck airplane stopped holdshort line reported never saw stopped airplane impact instructor airplane sustained substantial damage right aileron interview federal aviation administration inspector flight instructor reported aware three biplane part single flight awaiting takeoff clearance also reported never flown tailwheel airplane aware limited forward visibility flight instructor biplane pilot reported preaccident mechanical failure malfunction respective airplane would precluded normal operation",
+        "Top Words": [
+            [
+                "airplane",
+                13
+            ],
+            [
+                "flight",
+                9
+            ],
+            [
+                "instructor",
+                6
+            ]
+        ]
+    }
+}

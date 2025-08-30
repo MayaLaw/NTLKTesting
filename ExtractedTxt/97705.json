@@ -1,0 +1,29 @@
+{
+    "Filename": "97705.txt",
+    "Location": "Gulf Shores, Alabama",
+    "Accident Number": "ERA18LA186",
+    "Date & Time": "July 7, 2018, 09:20 Local",
+    "Aircraft": "Piper PA34",
+    "Registration": "N294AB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "5 Minor",
+    "Analysis": {
+        "Text": "private pilot departed twinengine airplane estimated quantity fuel landing destination airport airplane bounced pilot aborted landing subsequent climb left engine surged several time lost power pilot attempted restore left engine power placing auxiliary fuel pump switch high selecting crossfeed left fuel selector restoration continuous engine power unsuccessful left engine stopped producing power stall horn sounded control started buffet pilot said time consult emergency checklist considered multiple forced landing area chose land straight ahead tree airplane came rest upright substantial damage wing fuselage odor fuel scene evidence fuel fuel spillage examination testing engine revealed preimpact mechanical anomaly would precluded normal operation airplane best singleengine rate climb given condition present time accident 280 ft per minute probable cause finding national transportation safety board determines probable cause accident pilot improper preflight inflight fuel planning resulted fuel exhaustion left engine total loss engine power attempted goaround maneuver",
+        "Top Words": [
+            [
+                "fuel",
+                8
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

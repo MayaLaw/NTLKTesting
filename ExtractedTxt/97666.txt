@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Tappen, North Dakota
+Accident Number:
+CEN18LA249
+Date & Time:
+June 27, 2018, 20:00 Local 
+Registration:
+N502S
+Aircraft:
+Air Tractor AT502
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot reported that he noticed degraded engine performance when the airplane was about halfway 
+down the runway during takeoff for the aerial application flight. Specifically, the engine torque 
+decreased from 1,700 ft-lbs at the start of the takeoff to 1,500 ft-lbs. He determined that there was not 
+enough runway to abort the takeoff and stop the airplane, so he applied full power and dumped the 
+product load. The engine continued to lose power, and the airplane subsequently continued off the end 
+of the runway and nosed over in high vegetation. Postaccident examination of the airplane and engine, 
+including individual testing of several engine components, confirmed that the engine was producing 
+power during the impact sequence, but no determination could be made as to how much power the 
+engine produced. The examination did not reveal any mechanical malfunctions or failures that would 
+have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power for reasons that could not be determined based on the available 
+evidence.

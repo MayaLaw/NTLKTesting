@@ -1,0 +1,29 @@
+{
+    "Filename": "97772.txt",
+    "Location": "Tolani Lake, Arizona",
+    "Accident Number": "WPR18LA197",
+    "Date & Time": "July 12, 2018, 03:05 Local",
+    "Aircraft": "Beech 90",
+    "Registration": "N617MM",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Inflight upset",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported airplane climbing instrument meteorological condition light rain autopilot engaged condition smooth turbulence known icing although engaged antiicing system airplane climbing 600 ft per minute airspeed 130 kt 17000 ft 19000 ft pilot reported working ipad stopped functioning said resetting ipad hard control input left airplane passing 17500 ft airplane rolled left pitched attempted regain control pilot reported autopilot fighting control input event disengaged affect recovery onboard data equipment showed steady increase airplane pitch attitude steady decrease airspeed upset airplane spiraled losing 4000 ft altitude pilot regained control pilot manually flew airplane destination landed safely wing substantially damaged postaccident examination autopilot revealed mechanical anomaly would precluded normal operation autopilot computer removed examined anomaly noted thus reason autopilot deviation could determined likely pilot distracted resetting ipad thus adequately monitor autopilot led delayed awareness autopilot deviation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "autopilot",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

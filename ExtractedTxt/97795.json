@@ -1,0 +1,29 @@
+{
+    "Filename": "97795.txt",
+    "Location": "Lexington, Texas",
+    "Accident Number": "CEN18LA271",
+    "Date & Time": "July 14, 2018, 14:00 Local",
+    "Aircraft": "Steen Skybolt",
+    "Registration": "N22GL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "landing taxiing hangar bottom airplane fuselage began drag ground realizing something wrong pilot stopped airplane turned engine magneto switch postaccident examination revealed fatigue failure main landing gear mlg truss occurred allowed mlg spread apart probable cause finding national transportation safety board determines probable cause accident fatigue failure main landing gear mlg truss resulted mlg spreading apart",
+        "Top Words": [
+            [
+                "mlg",
+                4
+            ],
+            [
+                "landing",
+                3
+            ],
+            [
+                "airplane",
+                2
+            ]
+        ]
+    }
+}

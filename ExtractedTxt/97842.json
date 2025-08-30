@@ -1,0 +1,29 @@
+{
+    "Filename": "97842.txt",
+    "Location": "Sheboygan, Wisconsin",
+    "Accident Number": "WPR18FA200",
+    "Date & Time": "July 20, 2018, 16:04 Local",
+    "Aircraft": "De Havilland DH112 VENOM",
+    "Registration": "N747J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Fatal, 2 Serious",
+    "Analysis": {
+        "Text": "pilot conducting formation training flight consisting two airplane accident airplane 2 position airplane took 8 second behind lead 1 position airplane witness described airplane takeoff sluggish indicated airplane wing rocked back forth shortly lifting witness testimony consistent one witness video recording showed airplane climbing away runway making shallow left turn airplane passed witness position engine sound decreased rapidly increased airplane reached altitude 200 ft ground descending impacting farm structure another video captured airplane descending slightly noseup wingslevel attitude impact flap landing gear appeared retracted video preimpact anomaly airframe engine found would precluded normal operation airplane signature consistent circumferential rub mark within turbine identified although rate rotation time impact could determined retraction landing gear normal rate showed engine likely producing power time one witness accident pilot experience accident make model described engine powering airplane high airflow thrust indicated engine could experience compressor stall operating high angle attack highpower setting also stated airplane could get low energy state engine failure occurred airplane would normally accelerate quickly leveled 200 ft witness account accident airplane wing rocking back forth consistent airplane encountering wake turbulence lead airplane wake turbulence disrupt airflow engine trailing airplane final second witness video showed pilot controlling airplane climb 200 ft airplane began descending thus wake turbulence lead airplane likely disrupted airflow engine caused compressor stall partial loss engine power resulted airplane inability continue climb",
+        "Top Words": [
+            [
+                "airplane",
+                22
+            ],
+            [
+                "engine",
+                9
+            ],
+            [
+                "witness",
+                7
+            ]
+        ]
+    }
+}

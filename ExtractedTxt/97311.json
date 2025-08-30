@@ -1,0 +1,29 @@
+{
+    "Filename": "97311.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "ANC18LA038",
+    "Date & Time": "May 23, 2018, 16:30 Local",
+    "Aircraft": "JAMES WIEBE BELITE PIPPER",
+    "Registration": "N3748",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot stated conducting postmaintenance flight experimental amateurbuilt airplane traffic pattern landing applied full throttle go around airplane 150 ft ground level engine lost total power forced landing airplane landed long bounced descended fence came rest inverted resulted substantial damage fuselage wing engine altered original state addition aftermarket highdisplacement cylinderpiston kit increase performance horsepower engine kit installed replaced crankshaft camshaft engine gasket cylinder piston pilot stated discussing kit manufacturer problem fuel flow engine thus altered fuel supply system larger fuel line modification made carburetor carburetor altered likely engine receiving enough fuel full power operation resulted total loss engine power goaround attempt probable cause finding national transportation safety board determines probable cause accident inadequate fuel supply engine resulted total loss engine power subsequent impact terrain",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "fuel",
+                5
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

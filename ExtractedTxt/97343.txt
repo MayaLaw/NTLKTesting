@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Tekamah, Nebraska
+Accident Number:
+CEN18LA199
+Date & Time:
+May 28, 2018, 09:30 Local 
+Registration:
+N47252
+Aircraft:
+Aeronca 58B
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, about 30 minutes after departing for a personal, local flight, he was 
+conducting a tribute over a cemetery and noticed that the engine was not running properly, so he 
+proceeded to fly toward an airport located about 8 nautical miles (nm) to the east. While en route to the 
+airport, the engine stopped developing full power and had a maximum rpm of about 1,500. The airplane 
+descended, and during the forced landing, it impacted a ditch about 3 nm from the airport, which 
+resulted in substantial damage to the airplane. The pilot stated that he should have landed the airplane in 
+a flat field when the opportunity was possible, instead he "kept flying into a situation where there were 
+no options." 
+Postaccident examination of the airframe and engine revealed no evidence of any preaccident 
+mechanical malfunctions or failures that would have precluded normal operation. At the time of the loss 
+of engine power, the airplane was operating in conditions conducive to carburetor icing at glide power. 
+The pilot reported that he was not using carburetor heat. It is likely that, during the tribute, the pilot 
+reduced engine power, resulting in a buildup in carburetor ice, which restricted the air and fuel flow and 
+caused the reduced engine power. When the reduced engine power condition occurred, the pilot should 
+have identified an appropriate forced landing site; however, he chose to continue to fly the airplane to an 
+airport located about 8 nm away. When the engine lost total power, he had to make a forced landing on 
+unsuitable terrain.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power due to the formation of carburetor ice. Contributing to the 
+accident was the pilot's failure to use carburetor heat and his decision to continue flight with 

@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Malad, Idaho
+Accident Number:
+WPR18LA275
+Date & Time:
+September 26, 2018, 16:50 Local 
+Registration:
+N24BA
+Aircraft:
+Piper PA-32RT
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Ferry
+Analysis 
+The pilot reported that he did not realize that he entered the runway at the taxiway intersection about 
+halfway down the 5,000-ft-long runway. During the takeoff ground roll, the airplane’s speed was about 
+60 knots (below rotation speed) when he realized that the end of the runway was approaching, and he 
+needed to either lift off or abort the takeoff. The pilot attempted to continue the takeoff, but the airplane 
+would not lift off. The pilot subsequently applied the brakes to try and stop, however there was not 
+enough runway remaining and the airplane continued off the end of the runway, over a road, and struck 
+a drainage ditch. The pilot reported that there were no preaccident mechanical failures or malfunctions 
+with the airplane that would have precluded normal operation. It is likely that if the pilot had utilized the 
+full available runway for the takeoff, or had aborted the takeoff sooner, the runway excursion would not 
+have occurred. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to identify that he was not utilizing the full runway for takeoff, and his delayed 
+decision to abort the takeoff, which resulted in a runway overrun.

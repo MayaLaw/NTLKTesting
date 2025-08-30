@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Lecanto, Florida
+Accident Number:
+ERA18TA203
+Date & Time:
+July 26, 2018, 17:55 Local 
+Registration:
+N717X
+Aircraft:
+Beech C90
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that, before a short, cross-country, personal flight, he purchased 40 
+gallons of fuel; 20 gallons of fuel were added to each wing tank. The pilot estimated that, at the time of 
+departure, the airplane had a total fuel load of about 130 gallons with 65 gallons in each wing tank. 
+About 10 minutes after departure, the left engine's power surged. The pilot attempted to divert to a 
+nearby airport, but the left engine lost all power during the approach, followed by the right engine losing 
+all power. The pilot was not sure if the airplane could glide to the runway, so he chose to perform a 
+forced landing to a field. During the landing roll, the right wing impacted a tree and was substantially 
+damaged.
+The airplane was equipped with six fuel tanks; two interconnected tanks in each wing and one tank in 
+each engine's nacelle. On each side of the airplane, fuel flowed from the respective wing tanks to the 
+nacelle tank and then to the engine. Fuel would gravity feed from the wing tanks to the nacelle tanks; 
+however, gravity feed did not work once each wing tank was depleted to about 28 gallons or below. At 
+that point, the fuel transfer pumps (one for each wing/nacelle) must be on to keep the fuel moving to the 
+nacelle tanks and ultimately the engines. 
+Examination of the wreckage revealed that the fuel transfer pumps were in the "off" position. No fuel 
+was found in the nacelle tanks, and about 30 gallons of fuel were found in each wing tank. When the 
+battery and fuel transfer pumps were turned on, fuel began to flow from each wing tank to its respective 
+nacelle tank. Turning on the fuel transfer pumps is an After Starting and Taxi checklist item; therefore, it 
+is unlikely that the pilot followed the checklist and that he forgot to turn the fuel transfer pumps on, 
+which resulted in fuel starvation to both engines and their subsequent loss of power.

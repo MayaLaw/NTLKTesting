@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Kodiak, Alaska
+Accident Number:
+ANC16LA062
+Date & Time:
+September 9, 2016, 11:30 Local 
+Registration:
+N91AK
+Aircraft:
+DEHAVILLAND DHC-2
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Serious
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Scheduled
+Analysis 
+The airline transport pilot was conducting a scheduled commuter flight between remote villages in a 
+float-equipped airplane. After making an intermediate stop to drop off a company maintenance 
+technician at a remote lake, the pilot back-taxied the airplane to the east in preparation for a westerly 
+departure. He estimated the wind at 15 knots with increasing gusts to 25 knots from the west. Ground 
+witnesses and passengers on board the airplane reported that the pilot initiated a takeoff to the west, 
+toward an area of rising, tree-covered terrain. After becoming airborne, the airplane entered a left turn to 
+avoid the terrain. The left turn steepened, and the airplane then entered a steep nose-down descent into 
+the terrain. The pilot reported that he did not recall any preaccident mechanical problems with the 
+airplane. Due to his injuries, he was unable to recall the events of the accident. 
+Postaccident examination revealed no mechanical malfunctions or anomalies of the airplane. Given the 
+witness accounts of the accident, it is likely that the pilot exceeded the airplane's critical angle of attack 
+during the initial climb toward and subsequent turn away from rising terrain, which resulted in an 
+aerodynamic stall and loss of control at an altitude too low for recovery.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed during the initial climb and turn after takeoff, which 
+resulted in an exceedance of the airplane's critical angle of attack and an aerodynamic stall.

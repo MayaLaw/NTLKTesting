@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Sioux Falls, South Dakota
+Accident Number:
+CEN16CA364
+Date & Time:
+August 30, 2016, 08:45 Local 
+Registration:
+N23583
+Aircraft:
+Beech V35B
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+While on final during a practice instrument approach, the engine lost total power. An attempted engine 
+restart and switching of the fuel tanks was unsuccessful. The flight instructor took control of the 
+airplane from the pilot receiving instruction, and executed a forced landing to a corn field. The airplane 
+sustained substantial damage to both wings. The airplane was recovered from the field and about 1 cup 
+of fuel was found in the right fuel tank, and the left wing fuel tank was about 3/4's full. The engine was 
+functionally tested for about 10 minutes on the airframe with no anomalies noted. The pilot reported he 
+did not check the wing fuel tanks during pre-flight and relied on the cockpit fuel gauges for fuel 
+quantity. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to adequately manage the available fuel supply, resulting in fuel starvation and a total 
+loss of engine power. Contributing to the accident was the inadequate preflight by the pilot and flight 
+instructor, and the flight instructor's failure to monitor the fuel levels.

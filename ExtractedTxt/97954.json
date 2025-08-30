@@ -1,0 +1,29 @@
+{
+    "Filename": "97954.txt",
+    "Location": "Healdsburg, California",
+    "Accident Number": "GAA18CA455",
+    "Date & Time": "July 26, 2018, 11:00 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N1902V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane performed two previous touchandgo takeoff landing third landing roll tailwheel settled runway airplane nosed reported certain whether accidentally stepped brake brake seized airplane sustained substantial damage vertical stabilizer rudder federal aviation administration inspector postaccident examination brake system revealed preimpact mechanical malfunction failure would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper brake application landing roll resulted noseover",
+        "Top Words": [
+            [
+                "brake",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

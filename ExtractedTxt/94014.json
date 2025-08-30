@@ -1,0 +1,29 @@
+{
+    "Filename": "94014.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "GAA16CA487",
+    "Date & Time": "September 1, 2016, 13:12 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N52950",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported taxi airplane started lean right looked window see right tire flat reported ramp opening 2 foot wide dark black hole underneath right main landing gear flight instructor student pilot egressed airplane without incident postaccident examination revealed substantial damage empennage flight instructor reported preaccident mechanical malfunction failure airplane would precluded normal operation photograph provided federal aviation administration showed right main landing gear broken pavement sink hole underneath probable cause finding national transportation safety board determines probable cause accident airplane encounter developing sink hole taxi ramp area",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

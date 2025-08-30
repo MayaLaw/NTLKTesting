@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+San Carlos, California
+Accident Number:
+GAA18CA395
+Date & Time:
+July 5, 2018, 15:30 Local 
+Registration:
+N75SY
+Aircraft:
+COSTRUZIONI AERONAUTICHE 
+TECNA P2002 SIERRA
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while landing in a crosswind, the approach was "too low," and he added power. 
+The airplane then "rolled and veered" left. He added that marks on the terrain indicated that the left wing 
+struck the ground, and tracks showed that the airplane touched down on the pavement before the runway 
+threshold. The airplane then exited the runway, the nose landing gear collapsed, and the airplane came to 
+rest nose down.
+The airplane sustained substantial damage to the engine mount, left wing, and fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system located at the airport reported that, about the time of the 
+accident, the wind was from 330° at 8 knots. The pilot landed the airplane on runway 30.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain a proper glidepath and crosswind correction during landing, which 
+resulted in an aerodynamic stall.

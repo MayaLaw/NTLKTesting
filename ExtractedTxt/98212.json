@@ -1,0 +1,29 @@
+{
+    "Filename": "98212.txt",
+    "Location": "Crete, Nebraska",
+    "Accident Number": "CEN18LA363",
+    "Date & Time": "September 1, 2018, 09:00 Local",
+    "Aircraft": "Cessna P210N",
+    "Registration": "N210PF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "2 Serious, 2 Minor",
+    "Analysis": {
+        "Text": "pilot started turbonormalized 310horsepower engine stopped stated used lowpressure boost pump restart engine turned boost pump started indicated completed engine runup takeoff engine operating normally airplane traveled halfway runway became airborne airplane positive rate climb pilot raised landing gear flap stated airplane 500 ft ground level heard engine miss engine seem producing total power turned lowpressure boost pump turned back toward airport engine eventually lost total power performed gearup forced landing cornfield airplane impacted ground hard slid cornfield belly witness watched airplane take reported airplane sounded like full throttle overweight sounding takeoff reported airplane finally got air end runway stated running rich could see dark exhaust trailing airplane takeoff airplane veered right lost sight behind tree line engine monitor installed airplane indicated manifold pressure reached 37 inch mercury inhg fuel flow reached 48 gallon fuel per hour gph takeoff pilot operating handbook supplemental type certificated engine stated full rated horsepower achieved 31 inhg manifold pressure full throttle fuel flow takeoff 3537 gph engine run engine manufacturer test cell operated within normal operating specification mechanical malfunction failure turbocharger controller wastegate actuator pressure relief valve manifold pressure transducer fuel flow transmitter would precluded normal operation however static demonstration run airplane modelengine conversion oil line wastegate wastegate controller disconnected simulate wastegate stuck closed",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "airplane",
+                11
+            ],
+            [
+                "takeoff",
+                5
+            ]
+        ]
+    }
+}

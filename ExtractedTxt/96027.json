@@ -1,0 +1,29 @@
+{
+    "Filename": "96027.txt",
+    "Location": "Talkeetna, Alaska",
+    "Accident Number": "GAA17CA539",
+    "Date & Time": "September 16, 2017, 16:30 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N123LR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing stabilized approach airplane touched main landing gear mlg first wheel landing airplane bounced twice shortly tail settled ground crosswind increased causing aircraft weathervane left added increased left aileron right rudder keep airplane gravel airstrip however wind gust stopped tailwheel settled ground causing aircraft turn rapidly right added increased left rudder brake mlg started depart gravel airstrip enter softer shoulder tail swung left aircraft direction travel unable correct continued tightening right turn subsequently airplane rolled onto left wing left horizontal stabilizer came rest mlg airplane sustained substantial damage left wing left horizontal stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind accident site time accident variable gusting 10 knot pilot landed northeast probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting wind condition",
+        "Top Words": [
+            [
+                "left",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

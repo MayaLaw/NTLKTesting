@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Daytona Beach Shores, Florida
+Accident Number:
+ERA19LA018
+Date & Time:
+October 16, 2018, 14:30 Local 
+Registration:
+N207Y
+Aircraft:
+Jabiru 250
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on the 300-nautical mile, 3-hour cross-country flight with 5 ½ hours of fuel 
+onboard. About 7 miles from the destination airport at an altitude of 1,000 ft mean sea level, 
+the engine sputtered, then lost total power. The propeller continued to windmill as the pilot 
+attempted to troubleshoot and restart the engine utilizing the fuel boost pump, but he was 
+unsuccessful. The pilot performed a forced landing into the ocean about 100 yards from shore, 
+and then extricated himself and was rescued.
+The airplane remained submerged in the ocean for 18 hours before it was recovered. During 
+recovery, 5 gallons of aviation fuel was removed from the fuel tanks. The engine and 
+components were corroded due to the saltwater immersion, which precluded testing of the 
+engine. The reported weather conditions were not conducive to the development of carburetor 
+icing. The reason for the loss of engine power could not be determined based on the available 
+information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined based on the available 
+information.

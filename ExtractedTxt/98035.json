@@ -1,0 +1,29 @@
+{
+    "Filename": "98035.txt",
+    "Location": "West Columbia, South Carolina",
+    "Accident Number": "ERA18LA213",
+    "Date & Time": "July 25, 2018, 13:41 Local",
+    "Aircraft": "Piper PA46",
+    "Registration": "C-GRFF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Course deviation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot taxiing airplane receiving progressive taxi instruction air traffic controller pilot indicated asked turn onto taxiway instructed however instead proceeding taxiway continuous painted yellow centerline pilot turned left onto vehicle service road painted white stop marking adjacent stop sign underside airplane left wing subsequently struck stop sign resulted substantial damage probable cause finding national transportation safety board determines probable cause accident pilot inadvertent navigation onto service road instead taxiway resulted collision stop sign finding personnel issue incorrect action performance pilot environmental issue signmarker contributed outcome",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "stop",
+                4
+            ],
+            [
+                "onto",
+                3
+            ]
+        ]
+    }
+}

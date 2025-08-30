@@ -1,0 +1,37 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Brookings, Oregon
+Accident Number:
+WPR19FA116
+Date & Time:
+April 18, 2019, 16:15 Local 
+Registration:
+N791PF
+Aircraft:
+Vans RV8
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+A witness saw the airplane complete a touch-and-go landing and depart toward the north. Another 
+witness saw the airplane flying north after takeoff, then shortly thereafter saw it flying south as if the 
+pilot was returning to the airport for landing; the airplane then made an "abrupt or severe" 180° left turn 
+back toward the north before it rolled onto its right side for several seconds, then "went straight down" 
+and subsequently impacted terrain. 
+Postaccident examination of the engine revealed no anomalies that would have precluded normal 
+operation. Examination of the airframe revealed that flight control continuity was confirmed throughout 
+the airplane from the pilot controls to the control surfaces, with the exception of the elevator torque tube, 
+which was fractured and observed to have separated near the elevator pitch servo. Metallurgical 
+examination indicated that the fracture was consistent with bending overstress. It could not be 
+determined if the fracture occurred prior to or during the impact sequence. It is most likely that the pilot 
+experienced a loss of control during an aggressive maneuver at too low an altitude to recover from. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to maintain aircraft control during an aggressive maneuver that resulted in a 
+nose down collision with terrain.

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Key West, Florida
+Accident Number:
+ERA19LA073
+Date & Time:
+December 15, 2018, 09:33 Local 
+Registration:
+N55FN
+Aircraft:
+Learjet 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Windshear or thunderstorm
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The flight crew conducted an instrument approach to their destination airport that terminated in a missed 
+approach. Air traffic control provided radar vectors for a second approach, and during that time, the 
+wind shifted due to the passage of a cold front and favored the opposite direction runway. The 
+subsequent approach was uneventful; however, during the landing flare, the airplane touched down hard 
+and was substantially damaged. Review of a weather sounding taken shortly before the accident 
+revealed the potential for low-level windshear activity between the surface and 1,000 feet. Given this 
+information, it is most likely that the flight crew encountered windshear during the landing flare, which 
+resulted in a hard landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight crew’s encounter with windshear during the landing flare, which resulted in a hard landing.
+Findings
+Environmental issues
+Windshear - Contributed to outcome
+Aircraft
+Landing flare - Not attained/maintained

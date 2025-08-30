@@ -1,0 +1,29 @@
+{
+    "Filename": "97712.txt",
+    "Location": "Palmer, Alaska",
+    "Accident Number": "GAA18CA398",
+    "Date & Time": "July 7, 2018, 09:30 Local",
+    "Aircraft": "Aeronca 7CCM",
+    "Registration": "N81768",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "landing airport unimproved landing site tailwheelequipped airplane landed hard bounced pilot applied full power go around airplane bounced impacting tree terrain subsequently airplane came rest inverted river bank airplane sustained substantial damage right wing vertical stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing attempted goaround subsequent noseover",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+Page 1 of 14
+Aviation Investigation Final Report
+Location:
+Guthrie Center, Iowa
+Accident Number:
+WPR19FA022
+Date & Time:
+November 9, 2018, 17:15 Local 
+Registration:
+N91770
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+4 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+About 45 minutes into the cross-country flight, the student pilot passenger reported to air traffic control 
+that the pilot was having a heart attack and that he was going to take control of the airplane and divert to 
+an airport about 20 miles away; however, another airport was much closer, and controllers received no 
+further communications from the pilot. The student then reported over the nearby airport’s common 
+traffic advisory frequency that he would attempt to divert there. GPS flight track data indicated that, a 
+short time later, the airplane began to fly in an erratic manner, climbing and descending over the area of 
+the diversion airport. The airplane subsequently collided with terrain in a wings-level attitude.
+All four occupants sustained fatal injuries, and toxicology testing indicated that all had high levels of 
+carboxyhemoglobin, which is caused by the inhalation of carbon monoxide (CO), an odorless, tasteless, 
+colorless, nonirritating gas formed by hydrocarbon combustion. Levels in both pilots and one passenger 
+where high enough to have caused confusion, seizures, or loss of consciousness. There was no evidence 
+the pilot had a heart attack, so his symptoms were likely due to the CO poisoning.
+The engine was equipped with three identical exhaust mufflers. Examination of the aft muffler revealed 
+a crack that allowed engine exhaust gases to enter the cabin through the cabin heating system.
+The muffler’s crack developed as a result of corrosion and thinning of the muffler wall. The crack and 
+small perforations in the muffler wall were likely present at the time of the last inspection, which 
+occurred shortly before the accident; however, due to damage from impact, it could not be determined if 
+the extent of cracking was readily visible at the time of inspection. Also, the crack could have opened 
+just before the accident flight due to an engine backfire that occurred during startup.
+Use of a pressure check during an inspection could help identify cracks and small perforations that can 
+be obscured by oxides and deposits during a visual inspection; however, the manufacturer's service 
+manual only recommended a pressure check when a visual inspection could not be accomplished.

@@ -1,0 +1,29 @@
+{
+    "Filename": "99254.txt",
+    "Location": "Lake, Mississippi",
+    "Accident Number": "CEN19FA120",
+    "Date & Time": "April 13, 2019, 00:15 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N4890L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated pilot operating airplane crosscountry flight dark night instrument meteorological condition record pilot obtaining weather briefing filing flight plan making radio transmission primary radar data weather data showed airplane entering area thunderstorm convective activity radar track ended airplane 8400 ft mean sea level resident near accident area heard sound airplane loud bang noted strong wind rain thunderstorm time examination main wreckage revealed airplane impacted ground highspeed near vertical condition accident site encompassed linear area 1500 ft long main wreckage destroyed impact force engine propeller assembly buried 4ft deep crater left aileron outboard section left right wing left right horizontal stabilizer located 1500 1000 900 ft main wreckage respectively fractured area left right wing horizontal stabilizer consistent overload separation ground impact debris path separated section wing empennage consistent inflight breakup examination engine airframe reveal evidence preexisting anomaly would precluded normal operation flight control continuity established propeller blade showed evidence rotation impact pilot instrument rating instrument proficiency could verified based toxicological operational evidence likely impairing effect pilot use methamphetamine contributed accident whether effect use buprenorphine also contributed accident cannot determined probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "area",
+                4
+            ]
+        ]
+    }
+}

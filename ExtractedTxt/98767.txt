@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Chino, California
+Accident Number:
+GAA19CA095
+Date & Time:
+December 12, 2018, 11:15 Local 
+Registration:
+N5800U
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, during landing, he was on the flight controls while the student pilot 
+flew the airplane. During the touchdown, the airplane was right of the centerline, and the student either 
+added left brake or left rudder, and the airplane entered a skid. The instructor then added full right 
+rudder, but the airplane exited the runway to the left and struck a runway sign. Subsequently, the 
+airplane came to rest inverted.
+The airplane sustained substantial damage to the fuselage and empennage. 
+The instructor reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight instructor's failure to maintain directional control during landing.

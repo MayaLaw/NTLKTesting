@@ -1,0 +1,29 @@
+{
+    "Filename": "97268.txt",
+    "Location": "LaGrange, Georgia",
+    "Accident Number": "GAA18CA282",
+    "Date & Time": "May 13, 2018, 17:20 Local",
+    "Aircraft": "DIAMOND AIRCRAFT IND INC DA",
+    "Registration": "N143MA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported softfield takeoff student kept stick back allowed airplane nose rise airplane drifted left reminded student apply right rudder right aileron added seemed like student applied much right aileron right wing close dragging runway flight instructor prepared take flight control student overcorrected left left wing impacted ground flight instructor took control airplane reduced power taxied park without incident student pilot reported softfield takeoff 30 35 knot airplane lifted ground encountered crosswind rolled airplane right right wing dragged ground rolled airplane left left wing impacted ground airplane sustained substantial damage left aileron school chief flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain lateral control softfield takeoff",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "student",
+                6
+            ],
+            [
+                "left",
+                6
+            ]
+        ]
+    }
+}

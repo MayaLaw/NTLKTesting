@@ -1,0 +1,29 @@
+{
+    "Filename": "95324.txt",
+    "Location": "Albuquerque, New Mexico",
+    "Accident Number": "CEN17LA216",
+    "Date & Time": "June 4, 2017, 08:24 Local",
+    "Aircraft": "WILLIAM D TELFAIR/ZIA Z TELFAI",
+    "Registration": "N78DZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot conducting personal flight experimental amateurbuilt airplane 1 hour flight airplane straight level airspeed 75 mph pitch control became erratic pilot stated control stick started slamming fore aft limit airplane nose began pitching airplane began buffeting like going come apart pilot declared emergency reduced airspeed 50 60 mph slightly lessened foreandaft stick movement pitch control pilot turned clear steep terrain chose field emergency landing able make final directional correction flew airplane landing 40 45 mph 200 300 ft per minute rate descent left wing horizontal stabilizer struck ground examination airplane revealed broken right elevator control rod left elevator control rod broken moved normally broken control rod factorysupplied 12inch aluminum tube bearing end attach point control rod appeared intact bearing still connected safety wired control rod linkage connected examination revealed indication preexisting failure fracture surface right elevator control rod deformation rod indicative bending failure pilot reported accident may encountered flutter could determined occurred probable cause finding national transportation safety board determines probable cause accident loss pitch control due overload failure control rod",
+        "Top Words": [
+            [
+                "control",
+                11
+            ],
+            [
+                "rod",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+Page 1 of 18
+Aviation Investigation Final Report
+Location:
+Palatka, Florida
+Accident Number:
+ERA18LA109
+Date & Time:
+March 16, 2018, 10:38 Local 
+Registration:
+N486DA
+Aircraft:
+CIRRUS DESIGN CORP SR20
+Aircraft Damage:
+Substantial
+Defining Event:
+Midair collision
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+A Cirrus SR22 flown by a private pilot and a Cirrus SR20 flown by a pilot undergoing instruction and a 
+flight instructor were performing touch-and-go landings at the airport. The pilot of the SR22 and the 
+flight instructor of the SR20 reportedly announced their positions on the airport’s common traffic 
+advisory frequency (CTAF) as they flew around the airport traffic pattern. The SR22 pilot and the SR20 
+flight instructor both reported that they heard another pilot announce they were on a 6-mile final for the 
+runway. The SR22 pilot turned onto the base leg and then onto final. The SR20 flight instructor stated 
+that, because an airplane they had in sight was on short final approach, he chose to have the pilot 
+undergoing instruction extend the downwind leg. When they were abeam the airplane that was on final, 
+they turned onto base leg and then onto final. When the SR20 pilot undergoing instruction was just 
+about to flare, the flight instructor heard “an explosion.” When the SR22 was over the runway about 
+ready to begin to flare, the pilot heard a "bang" and the nose came up; the two airplanes had collided. 
+None of the pilots in either airplane reported seeing the other airplane before the collision. Both 
+airplanes sustained substantial damage. 
+ 
+The pilot of the SR22 indicated that he could not understand some calls from the SR20, and the flight 
+instructor of the SR20 indicated that he did not hear some radio calls from the SR22. Postaccident 
+examinations of the radios and audio panels installed in the SR22 revealed no evidence of preimpact 
+failures or malfunctions that would have precluded normal operation. At least one of the radios was 
+tuned to the airport CTAF, and the audio select panel was configured to use that radio to transmit and 
+receive audio. Functional testing revealed that both of the SR22’s radios and the audio panel performed 
+with no anomalies noted. Postaccident testing of the radios and audio select panel in the SR20 revealed 
+no evidence of preimpact failures or malfunctions that would have precluded normal operation, although 
+damage sustained during the accident prevented a successful functional test of the comm 1 radio 

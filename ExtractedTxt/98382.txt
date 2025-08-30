@@ -1,0 +1,40 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Sebring, Florida
+Accident Number:
+ERA18LA268
+Date & Time:
+September 29, 2018, 12:40 Local 
+Registration:
+N397JA
+Aircraft:
+Diamond DA20
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The private pilot of the Piper airplane with a passenger on board was landing while the student pilot of 
+the Diamond airplane with a flight instructor on board was performing touch-and-go landings on an 
+intersecting runway in day visual meteorological conditions. Both airplanes were flying in left traffic 
+patterns for their respective runways at the uncontrolled airport. The pilot of the Piper and the student 
+pilot of the Diamond stated that they announced every leg of the traffic pattern on the airport's published 
+common traffic advisory frequency (CTAF). The Diamond landed, and just when the student was adding 
+power to initiate a takeoff, the left wing of the Piper, which was landing and flaring just a few feet above 
+the runway, impacted the tail of the Diamond. The flight instructor in the Diamond said he was looking 
+for the Piper after he saw it flying in the vicinity of the airport but that he never saw it in the airport 
+traffic pattern, while the pilot of the Piper did not report seeing the Diamond until just before the 
+collision. Recordings of the airport's CTAF showed that radio calls from the Diamond were heard for 
+every leg of the airport traffic pattern on the published CTAF frequency before the collision, but only 
+two garbled radio calls from the Piper were heard on the published CTAF frequency. Postaccident 
+examination of the Piper's transceiver revealed that it was set to a different frequency. The Piper's 
+transceiver was then set to the correct CTAF frequency, and the communication was clear. Therefore, it 
+is likely that the pilot of the Piper failed to use the correct CTAF frequency when he announced his 
+airplane's position in the airport traffic pattern.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

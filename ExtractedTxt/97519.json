@@ -1,0 +1,29 @@
+{
+    "Filename": "97519.txt",
+    "Location": "Hillsboro, Ohio",
+    "Accident Number": "GAA18CA359",
+    "Date & Time": "June 15, 2018, 08:00 Local",
+    "Aircraft": "Piper PA 22",
+    "Registration": "N8273C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported landing roll tailwheelequipped airplane exited runway left struck runway light impacted ditch left main landing gear separated airplane airplane came rest nose airplane sustained substantial damage left lower fuselage left wing pilot added departure airport flight due jet blast blown ladder preflight inspection airplane tail section picked slammed several time onto ground examined airplane find anomaly pilot reported control issue anomaly takeoff flight accident airport felt airplane trim federal aviation administration inspector reported postaccident examination could determine damage tailwheel sustained accident airplane impacted ditch probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

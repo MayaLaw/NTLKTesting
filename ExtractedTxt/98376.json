@@ -1,0 +1,29 @@
+{
+    "Filename": "98376.txt",
+    "Location": "Addison, Texas",
+    "Accident Number": "CEN18LA392",
+    "Date & Time": "September 30, 2018, 11:21 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N818GM",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot flight instructor conducting crosscountry instructional flight departure climbing 2800 ft mean sea level pilot instructor noticed multiple avionics malfunction initiated turn back toward airport airplane turning engine lost power pilot noted indication fire unable find suitable area forced landing pilot activated airplane parachute system airplane descended parachute parking lot main wing spar sustained substantial damage examination engine revealed engine exhaust muffler attachment hardware secured correctly allowed exhaust collector freely rotate hole near lower right engine cowling consistent escaping hot exhaust gas several component right forward side firewall thermally damaged magneto pleads shorted engine metal mount frame thermal damage interrupted magneto function resulted loss engine power prebuy inspection airplane 1 cylinder base oring replaced work order dated 3 day accident required removal muffler muffler reinstallation maintenance personnel likely correctly install attachment hardware resulted muffler separating flight thermal damage interrupted magneto function subsequent loss engine power probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

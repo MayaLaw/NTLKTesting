@@ -1,0 +1,29 @@
+{
+    "Filename": "95316.txt",
+    "Location": "Newburyport, Massachusetts",
+    "Accident Number": "GAA17CA326",
+    "Date & Time": "June 4, 2017, 09:00 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N6511S",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported takeoff roll pilot side window blew open full power applied added reached right hand close window airplane veered runway left wooded area impacted terrain student pilot reported noticed previous flight window latch loose planned get fixed done wing sustained substantial damage student pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot decision attempt close cockpit window takeoff subsequent failure maintain directional control",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "window",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99208.txt",
+    "Location": "Hollywood, Florida",
+    "Accident Number": "GAA19CA190",
+    "Date & Time": "March 21, 2019, 11:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N20521",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported landing flight instructor requested taxi back runway traffic pattern practice instructed taxi runway taxiway intersection complied lined behind another aircraft holding short runway added stopped waiting takeoff clearance felt airplane shake turned around saw another airplane struck airplane vertical stabilizer rudder solo student pilot airplane reported landing taxi runway parking saw airplane holding short runway taxiway intersection thought enough clearance taxi around airplane airplane left wing struck stopped airplane stopped airplane sustained substantial damage vertical stabilizer rudder student pilot stopped airplane flight school manager taxiing airplane reported preaccident mechanical failure malfunction either airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain adequate clearance stopped airplane attempting taxi around",
+        "Top Words": [
+            [
+                "airplane",
+                13
+            ],
+            [
+                "taxi",
+                5
+            ],
+            [
+                "runway",
+                5
+            ]
+        ]
+    }
+}

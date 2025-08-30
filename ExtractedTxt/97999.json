@@ -1,0 +1,29 @@
+{
+    "Filename": "97999.txt",
+    "Location": "Talkeetna, Alaska",
+    "Accident Number": "ANC18FA063",
+    "Date & Time": "August 4, 2018, 17:53 Local",
+    "Aircraft": "De Havilland DHC-2",
+    "Registration": "N323KT",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled - Sightseeing",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "5 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot conducting 1hour commercial air tour flight denali national park preserve four passenger board 48 minute departure alaska rescue coordination center received alert airplane emergency locator transmitter 7 minute later company personnel received call pilot reported airplane run side mountain although search initiated almost immediately due poor weather condition area wreckage located almost 36 hour later crevasse glacier 10920 ft mean sea level due unique challenge posed steepness terrain crevasse avalanche hazard condition airplane neither occupant wreckage recovered accident site weather model sounding area accident site estimated broken cloud base 700 ft ground level agl overcast cloud 1000 ft agl cloud top 21000 ft agl higher cloud freezing level 9866 ft supported lighttomoderate rime type icing cloud precipitation onscene assessment indicated right wing impacted snow airplane flying wingslevel attitude right wing separated remainder wreckage based upon available weather data forecast model impact evidence likely pilot entered area reduced visibility unable see terrain airplane right wing impacted snow company organizational structure one group management personnel oversaw operation anchorage talkeetna interview company management revealed always aware exact routing pilot would take tour route pilot discretion based upon weather time flight provide best tour experience regarding risk mitigation company utilize formal risk assessment process rather relied conversation pilot flight follower could lead oversight actual risk associated particular flight route weather condition",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "weather",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99132.txt",
+    "Location": "Moberly, Missouri",
+    "Accident Number": "GAA19CA170",
+    "Date & Time": "March 15, 2019, 15:00 Local",
+    "Aircraft": "Piper PA 11",
+    "Registration": "N4926M",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll right wing lifted abruptly rapidly attempted correct right aileron airplane veered left began yaw left pilot added right rudder power correct avail subsequently reduced power airplane exited runway impacted ditch came rest inverted airplane sustained substantial damage right wing rudder pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot estimated wind 300 24 knot gusting 28 knot airport automated weather observation station reported 5 minute accident wind 320 15 knot gusting 21 knot pilot landed airplane runway 31 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll gusting wind condition",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

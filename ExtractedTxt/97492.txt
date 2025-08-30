@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Desdemona, Texas
+Accident Number:
+CEN18LA229
+Date & Time:
+June 17, 2018, 08:30 Local 
+Registration:
+N6107R
+Aircraft:
+Cessna T210F
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious, 2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a personal cross-country flight. He stated that the engine began running 
+roughly during cruise flight. He leaned the mixture, and the engine roughness subsided; however, a few minutes 
+later, the engine began running roughly again. He switched fuel tanks, but the engine continued running 
+roughly. Shortly thereafter, the engine lost all power. The pilot subsequently conducted a forced landing in a 
+soft, sandy field, and the airplane nosed over.
+A postaccident engine test-run revealed that the engine would not maintain power and that the fuel flow was 
+excessive. A subsequent bench test of the fuel pump revealed that the pump was set to a high fuel flow setting, 
+beyond the engine’s normal limits. The fuel pump was adjusted and reinstalled on the engine for another test-
+run. During the second test-run, the engine operated smoothly at a stabilized fuel flow within the operating 
+limits for the engine. Given this evidence, it is likely that the engine lost power due the fuel pump’s flow setting 
+being set to high, which resulted in an excessive fuel flow to the engine.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power due to the fuel pump’s fuel flow setting being set too high, which resulted in an 
+excessive fuel flow to the engine.

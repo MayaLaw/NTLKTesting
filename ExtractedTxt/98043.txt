@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Sylmar, California
+Accident Number:
+WPR18FA219
+Date & Time:
+August 12, 2018, 13:45 Local 
+Registration:
+N136RM
+Aircraft:
+Beech A36TC
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+While descending toward the destination airport for landing, the private pilot made a "mayday" call and 
+reported to air traffic control that he had "no throttle, no engine at all." Witnesses saw the airplane flying 
+about 30 to 40 ft above ground level when it turned and descended into a flat, open field adjacent to a 
+highway. Wreckage examination revealed that the airplane likely stalled and impacted the terrain in a 
+nose and left-wing low attitude. Postaccident examination did not reveal any anomalies with the flight 
+controls that would have precluded normal operation. Thus, the pilot failed to maintain control of the 
+airplane on approach to a relatively benign emergency landing area.
+Postaccident examination did not reveal any pre-impact anomalies that would have precluded the 
+production of rated engine power and fuel was onboard. Although impact damage precluded a test run of 
+the engine, teardown examination revealed no anomalies with the engine or its internal components. The 
+reason for the loss of engine power could not be determined based on the available information. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airplane control following a&nbsp;total loss of engine power for 
+reasons that could not be determined based on the available information.

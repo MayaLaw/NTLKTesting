@@ -1,0 +1,29 @@
+{
+    "Filename": "97327.txt",
+    "Location": "Santa Fe, New Mexico",
+    "Accident Number": "CEN18FA192",
+    "Date & Time": "May 25, 2018, 13:42 Local",
+    "Aircraft": "Beech D17S",
+    "Registration": "N79091",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot conducting crosscountry flight day visual meteorological condition automatic dependent surveillancebroadcast adsb track data revealed flight flown cruise altitude 10500 ft mean sea level msl direct course planned destination 23 minute accident airplane began shallow turn right left direct course destination consistent pilot making manual course correction airplane continued toward airport similarly airplane altitude began fluctuate 100 foot target cruise altitude 10500 ft msl 25 minute accident airplane entered descent 10500 ft msl final 2 minute flight airplane average descent rate 1375 ft per minute ground speed 99 knot 121 knot final adsb return 385 ft eastnortheast accident site 7025 ft msl near ground level ground speed 106 knot point flight pilot declare emergency air traffic control report problem witness accident examination airframe engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation airplane landing gear flap retracted fuel tank ruptured impact however fuel observed fuel line engine driven fuel pump carburetor propeller exhibited damage consistent engine operating time impact autopsy toxicology pilot revealed evidence physiological impairment incapacitation reason airplane descent impact terrain could determined based available information probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance terrain reason could determined based available information",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "ft",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

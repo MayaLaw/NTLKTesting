@@ -1,0 +1,29 @@
+{
+    "Filename": "94866.txt",
+    "Location": "Ruby, Alaska",
+    "Accident Number": "GAA17CA187",
+    "Date & Time": "February 15, 2017, 16:00 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N72999",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheel skiequipped airplane reported landing airport flat light condition unable maintain good visual reference hardpacked snowcovered landing area touchdown airplane drifted hardpacked snow left ski sunk softer snow increased power attempted recover hard right control avail airplane left ski struck snowcovered tank airplane sustained substantial damage leftwing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing flat light condition hardpacked snowcovered landing area",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

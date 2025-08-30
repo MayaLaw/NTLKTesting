@@ -1,0 +1,29 @@
+{
+    "Filename": "98136.txt",
+    "Location": "Elberta, Alabama",
+    "Accident Number": "GAA18CA503",
+    "Date & Time": "August 22, 2018, 10:00 Local",
+    "Aircraft": "Champion 8GCBC",
+    "Registration": "N88287",
+    "Flight Conducted Under": "Part 91: General aviation - Banner tow",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported banner towing operation ground crew attempted connect banner hook banner connect became caught tailwheel pilot made several approach field dislodge banner reported last attempt dislodge banner moved throttle idle made normal descent drop banner banner remained caught tailwheel stopped descent moved throttle idle full power however engine sputtered power increase visually physically confirmed mixture fullrich position primer closedandlocked position attempted moving throttle idle full power two time subsequent change engine power pilot subsequently made forced landing southwest corner field airplane collided uneven terrain tree airplane sustained substantial damage wing fuselage pilot reported mechanical malfunction failure airplane would precluded normal operation postaccident interview pilot reported lowpower setting approach release banner use carburetor heat pilot reported temperature time accident 80f metar nearest airport reported dew point time accident 72f relative humidity 77 atmospheric condition time accident conducive accumulation serious carburetor icing federal aviation administration special airworthiness information bulletin ce0935 recommends use carburetor heat operating condition visible moisture high humidity approach low power setting pilot failure use carburetor heat likely resulted accumulation carburetor icing lowpower setting approach led partial loss engine power",
+        "Top Words": [
+            [
+                "banner",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "reported",
+                6
+            ]
+        ]
+    }
+}

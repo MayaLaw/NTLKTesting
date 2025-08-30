@@ -1,0 +1,29 @@
+{
+    "Filename": "97487.txt",
+    "Location": "Denison, Texas",
+    "Accident Number": "GAA18CA350",
+    "Date & Time": "June 14, 2018, 09:15 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N67404",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "chief flight instructor reported according student pilot landing right crosswind increased added airplane turned left touched hard bounced following bounce student tried hold attitude airplane descended bounced second time nose landing gear collapsed third touchdown propeller struck runway airplane skidded stop runway airplane sustained substantial damage engine mount chief flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported time accident wind 210 10 knot airplane landed runway 17l probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare crosswind condition resulted hard bounced landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

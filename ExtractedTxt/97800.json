@@ -1,0 +1,29 @@
+{
+    "Filename": "97800.txt",
+    "Location": "Rockford, Ohio",
+    "Accident Number": "CEN18IA273",
+    "Date & Time": "July 12, 2018, 16:47 Local",
+    "Aircraft": "Cessna A188B",
+    "Registration": "N2483J",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot aerial application flight reported airplane 350 ft ground level engine started running roughly lost total power executed forced landing field resulted minor damage right wing review engine maintenance logbook indicated accident occurred 1076 hour six cylinder replaced engine teardown examination revealed large hole crankcase near 2 cylinder crankcase bearing support exhibited sign consistent bearing shift 2 3 lock tab exhibited elongation bearing support mating surface exhibited varying amount fretting 2 3 surface displaying fretting 3 bearing shifted significant amount part bearing separated 2 connecting rod bearing exhibited significant amount thermal damage consistent heat distress 2 connecting rod separated journal exhibited damage consistent lubrication distress 2 piston separated connecting rod remained cylinder likely six cylinder replaced engine throughbolts sufficient clamping force resulted movement crankcase half evidenced fretting crankcase bearing support led crankcase main bearing shifting resulted oil starvation 2 connecting rod journal failure 2 connecting rod subsequent total loss engine power probable cause finding national transportation safety board determines probable cause incident",
+        "Top Words": [
+            [
+                "2",
+                8
+            ],
+            [
+                "bearing",
+                8
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

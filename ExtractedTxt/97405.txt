@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Ramona, California
+Accident Number:
+ANC18LA043
+Date & Time:
+June 1, 2018, 11:18 Local 
+Registration:
+N9410M
+Aircraft:
+Cessna 210
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a personal, cross-country flight. He reported that he attempted to lower 
+the retractable landing gear during a visual approach; however, the right main landing gear (MLG) did 
+not fully extend. He attempted to manually pump the landing gear down with the emergency hand pump, 
+but it was very difficult to move, and after several pumps, it would not move at all. Upon landing, the 
+right MLG collapsed and the airplane impacted the ground, which resulted in substantial damage to the 
+right horizontal stabilizer and elevator. Postaccident examination and tests revealed that, when the MLG 
+system was tested using the airplane’s engine-driven hydraulic pump, fluid started leaking from a gap in 
+the pump’s diaphragm seal between the front plate assembly and the rear housing assembly, and the 
+MLG would not extend. Subsequently, the MLG system was tested with an external hydraulic pump, 
+and it functioned properly. The two front plate cap screws on the side of the leaking pump gap were 
+loose, had only three or four threads engaged with the rear assembly, and had insufficient shank length. 
+The corresponding rear housing internal threads were sheared.
+Due to the installation of cap screws with insufficient shank length, fewer threads were engaged when 
+the screws were tightened. The insufficient length of the shanks likely led to excessive force being 
+applied on the engaged threads when the cap screws were installed, the threads being damaged, and a 
+gap in the pump housing to develop, which allowed fluid to leak from the pump when it was 
+pressurized. The hydraulic leak prevented the right MLG from fully extending and resulted in it 
+collapsing upon landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

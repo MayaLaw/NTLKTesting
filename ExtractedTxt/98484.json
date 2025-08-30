@@ -1,0 +1,29 @@
+{
+    "Filename": "98484.txt",
+    "Location": "Pocono Summit, Pennsylvania",
+    "Accident Number": "GAA19CA051",
+    "Date & Time": "October 12, 2018, 10:30 Local",
+    "Aircraft": "RIchard Silva Seawind",
+    "Registration": "N46SW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported attempted take lake 20 30knot crosswind video takeoff showed right wing lifted left wingtip contacted water subsequently seaplane bounced impacted water hard nose oriented left pilot able correct course heading continued water taxi without incident pilot added departed high crosswind condition admitted pilot error seaplane sustained substantial damage right aileron federal aviation administration inspector conducted postaccident examination seaplane reported established flight control continuity preaccident mechanical failure malfunction seaplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper decision attempt take lake high crosswind condition resulted right wing lifting left wing impacting water airplane bouncing impacting water hard",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "water",
+                5
+            ],
+            [
+                "seaplane",
+                4
+            ]
+        ]
+    }
+}

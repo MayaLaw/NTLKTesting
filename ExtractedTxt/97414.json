@@ -1,0 +1,29 @@
+{
+    "Filename": "97414.txt",
+    "Location": "Westminster, Maryland",
+    "Accident Number": "GAA18CA326",
+    "Date & Time": "May 25, 2018, 23:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N789EP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported short final night reduced power idle airplane descended rapidly landed hard flat attitude added touchdown airplane bounced applied full power go around entered traffic pattern landed without incident postaccident examination 3 day accident revealed airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing finding aircraft landing flare attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

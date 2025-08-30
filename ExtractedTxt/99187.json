@@ -1,0 +1,29 @@
+{
+    "Filename": "99187.txt",
+    "Location": "Newton, Kansas",
+    "Accident Number": "CEN19LA111",
+    "Date & Time": "March 26, 2019, 17:30 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N76268",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported engine issue detected run stated takeoff climbout engine power good turn downwind pilot noticed slight loss engine power checked throttle position continued downwind leg pilot considered landing crosswind runway felt engine power make short 180 approach departure runway turn final engine additional power drop clattered 3 4 second subsequently stopped pilot landed straight ahead field airplane nosed sustained substantial damage disassembly engine revealed camshaft fractured area abeam no1 cylinder 1 connecting rod end separated crankshaft journal rod end exhibited discoloration consistent lubrication distress liberated section connecting rod bearing material found oil sump exhibited discoloration consistent lubrication distress oil transfer tube orifice 1 connecting rod bearing smeared migrated connecting rod journal material migrated smeared metal drilled see debris present metallic particle present attracted magnet blockage found within oil system scoring consistent hard particle passage observed within oil pump housing oil filter cut open one spot darkcolored debris debris found within filter pleat oil suction pickup tube disassembled contain debris 1 connecting rod end separation consistent oil starvation rod end probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "rod",
+                7
+            ],
+            [
+                "oil",
+                7
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

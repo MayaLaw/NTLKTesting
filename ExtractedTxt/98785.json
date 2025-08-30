@@ -1,0 +1,29 @@
+{
+    "Filename": "98785.txt",
+    "Location": "Adel, Georgia",
+    "Accident Number": "ERA19FA068",
+    "Date & Time": "December 18, 2018, 15:00 Local",
+    "Aircraft": "Saberwing Saberwing",
+    "Registration": "N203SW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airplane broke inflight wreckage located 6 mile southwest airport scattered large swamp area witness accident examination airplane revealed wing forward spar two significant failure area left right wing one located side fuselage one located outboard wing attach point indicative shear failure rear spar upper attach bolt tensile overload rear spar upper spar cap primary wing failure due negative overload causing failure upper attach point left right wing high positive load horizontal stabilizer would generate downward bending load fuselage would greatest rear spar location given finding likely pilot performed pullup maneuver aggressively high speed possibly performing aerobatics pull would generated significant force tail resulting left right fuselage longerons failing tensile overload due downward bending load fuselage excess structural capability airplane sudden failure would cause airplane pitch violently resulting negative overload wing failure probable cause finding national transportation safety board determines probable cause accident inflight failure fuselage result pilot conducting maneuver exceeded structural capability airplane",
+        "Top Words": [
+            [
+                "failure",
+                7
+            ],
+            [
+                "wing",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

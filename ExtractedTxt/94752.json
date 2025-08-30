@@ -1,0 +1,29 @@
+{
+    "Filename": "94752.txt",
+    "Location": "Poplar Bluff, Missouri",
+    "Accident Number": "GAA17CA150",
+    "Date & Time": "February 6, 2017, 16:00 Local",
+    "Aircraft": "Beech F90",
+    "Registration": "N246CA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported instrument meteorological condition flight chose accomplish area navigation approach reported descended minimum descent altitude 800 ft decreased airspeed began looking outside cockpit runway recalled visibility 34 mile 20 second later airplane struck tree top pilot immediately executed missed approach procedure made approach alternate airport right wing sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot descent minimum descent altitude nonprecision approach resulted tree strike",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "approach",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

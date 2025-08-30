@@ -1,0 +1,29 @@
+{
+    "Filename": "99013.txt",
+    "Location": "Trinity Bay, Texas",
+    "Accident Number": "DCA19MA086",
+    "Date & Time": "February 23, 2019, 12:39 Local",
+    "Aircraft": "Boeing 767",
+    "Registration": "N1217A",
+    "Flight Conducted Under": "Part 121: Air carrier - Non-scheduled",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "safety board full report available httpwwwntsbgovinvestigationsaccidentreportspagesaviationaspx aircraft accident report number ntsbaar2002 february 23 2019 1239 central standard time atlas air inc flight 3591 boeing 767375bcf n1217a destroyed rapidly descended altitude 6000 ft mean sea level crashed shallow muddy marsh area trinity bay texas 41 mile eastsoutheast george bush intercontinentalhouston airport iah houston texas captain first officer nonrevenue pilot riding jumpseat died atlas operated airplane title 14 code federal regulation part 121 domestic cargo flight amazoncom service llc instrument flight rule flight plan filed flight departed miami international airport miami florida 1033 1133 eastern standard time destined iah probable cause finding national transportation safety board determines probable cause accident inappropriate response first officer pilot flying inadvertent activation go around mode led spatial disorientation nosedown control input placed airplane steep descent crew recover contributing accident captain failure adequately monitor airplane flightpath assume positive control airplane effectively intervene also contributing systemic deficiency aviation industry selection performance measurement practice failed address first officer aptitude related deficiency maladaptive stress response also contributing accident federal aviation administration failure implement pilot record database sufficiently robust timely manner",
+        "Top Words": [
+            [
+                "flight",
+                5
+            ],
+            [
+                "accident",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

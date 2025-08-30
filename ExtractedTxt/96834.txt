@@ -1,0 +1,35 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Paso Robles, California
+Accident Number:
+WPR18LA101
+Date & Time:
+March 6, 2018, 22:26 Local 
+Registration:
+N33807
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and private pilot receiving instruction completed a touch-and-go landing in night 
+visual meteorological conditions. During the initial climb, they heard a "loud tick" noise, then the low 
+vacuum annunciator light illuminated. About 350 to 400 ft above ground level, the engine lost all power, 
+and the propeller came to a complete stop. The flight instructor took control of the airplane and 
+performed a forced landing to a nearby field, during which the airplane sustained substantial damage to 
+the wings and aft fuselage. 
+Examination revealed that the oil filler cap was not secured, and that the engine contained about 1 quart 
+of oil. In addition, oil was splattered on the inside of the engine compartment. It is likely that the pilots 
+failed to secure the oil filler cap during the preflight inspection, which resulted in the loss of engine oil 
+inflight, eventual oil starvation, and the total loss of engine power.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilots' inadequate preflight inspection, which failed to ensure that the oil filler cap was secured and 
+resulted in oil starvation and a total loss of engine power.

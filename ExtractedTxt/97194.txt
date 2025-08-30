@@ -1,0 +1,32 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Boulder, Utah
+Accident Number:
+WPR18LA136
+Date & Time:
+April 28, 2018, 17:15 Local 
+Registration:
+N3377U
+Aircraft:
+Cessna 182F
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Following a cross-country flight, the pilot was circling in the area of the destination airport when he 
+noticed an excessively high exhaust gas temperature (EGT) indication. He enrichened the fuel/air 
+mixture to full rich and leveled the airplane in an attempt to "cool down" the engine, then noted that the 
+airplane would not maintain altitude and that engine power was decreasing. The pilot performed a forced 
+landing to a field, during which the airplane impacted two ditches, resulting in substantial damage. 
+Examination of the airframe and the engine failed to reveal any mechanical anomalies that would have 
+precluded normal operation and the reason for the decreased engine power could not be determined. The 
+calculated density altitude at the time of the accident was 8,814 ft. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power for reasons that could not be determined due to the available evidence.

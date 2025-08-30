@@ -1,0 +1,29 @@
+{
+    "Filename": "97881.txt",
+    "Location": "Great Falls, Montana",
+    "Accident Number": "GAA18CA438",
+    "Date & Time": "July 22, 2018, 09:15 Local",
+    "Aircraft": "Mooney M20E",
+    "Registration": "N7845V",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported conducting familiarizationinstructional flight retractable gear airplane first flight instructor practicing commercial maneuver entered traffic pattern instructor wanted acquaint johnson barstyle landing gear system johnson bar manually operated retractionextension handle pulled extend landing gear pushed retract landing gear instructor pushed johnson bar thought landing gear extended position pilot added although twice verified landing gear extended airplane landed landing gear retracted airplane sustained substantial damage fuselage flight instructor reported flight briefed familiarization flight unfamiliar airplane added pilot time airplane intent become familiar performance limitation airplane began conducting commercial training pilot added became distracted operation flap verify landing gear position indicator light located left side cockpit also added hear gear warning horn pilot flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "gear",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "landing",
+                7
+            ]
+        ]
+    }
+}

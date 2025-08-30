@@ -1,0 +1,29 @@
+{
+    "Filename": "96904.txt",
+    "Location": "Rapid City, South Dakota",
+    "Accident Number": "GAA18CA173",
+    "Date & Time": "March 20, 2018, 10:20 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N3024Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported departing short snowcovered airstrip airplane nose wheel lifted upon arriving gono go decision point added 30 ft airplane encountered deeper snow nose landing gear lowered ground subsequently reduced throttle aborted takeoff airplane exited airstrip left right wing encountered terrain airplane spun 180 came rest ditch airplane sustained substantial damage elevator wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot selection unsuitable terrain takeoff resulted loss control runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98137.txt",
+    "Location": "Little Rock, Arkansas",
+    "Accident Number": "CEN18LA347",
+    "Date & Time": "August 22, 2018, 13:00 Local",
+    "Aircraft": "Piper PA-28-235",
+    "Registration": "N7954W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "private pilot passenger multileg crosscountry flight pilot reported departed total 84 gallon fuel auxiliary main tank flew two flight leg lasted total 40 50 minute fuel selector positioned right fuel tank first two leg flight departing third flight leg switched fuel selector left main fuel tank 10 minute takeoff climbing 4500 ft mean sea level pilot turned fuel boost pump engaged autopilot reported engine rolled back idle immediately turned fuel boost pump back noted difference pilot switched fuel selector back right main tank since flown previous leg right main tank without problem engine lost total power attempted engine restart without success performed forced landing grassy field airplane impacted rough terrain resulted substantial damage airplane recovery airplane 22 gallon fuel removed left fuel tank none removed right fuel tank however right fuel tank compromised impact damage postaccident examination airframe engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation thus investigator unable determine reason loss engine power based available evidence probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "tank",
+                8
+            ],
+            [
+                "right",
+                5
+            ]
+        ]
+    }
+}

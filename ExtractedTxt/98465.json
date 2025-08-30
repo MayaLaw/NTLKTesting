@@ -1,0 +1,29 @@
+{
+    "Filename": "98465.txt",
+    "Location": "Culpeper, Virginia",
+    "Accident Number": "ERA19FA010",
+    "Date & Time": "October 11, 2018, 20:00 Local",
+    "Aircraft": "Vans RV8",
+    "Registration": "N804RL",
+    "Flight Conducted Under": "Part 91: General aviation - Air race/show",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of visual reference",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "accident pilot performing part twoairplane demonstration team conducting night aerobatic display 55 minute end civil twilight airplane equipped streamer flaretype firework discharged throughout 5minute routine pilot lead airplane stated night accident little bit darker side chosen perform display around 700 ft ground level agl rather typical 500 ft agl altitude middle routine accident occurred accident airplane trail behind lead airplane performed two aileron roll video footage showed completing second aileron roll lead airplane began climb accident airplane completed second aileron roll inverted attitude rather continuing roll upright position entered inverted descent continued ground contact time accident moon 14 horizon dark night condition combined lack cultural lighting ground vicinity airport would increased difficulty associated task maintaining awareness airplane attitude relation horizon height ground addition multiple pointsource glare pyrotechnic lead airplane final moment flight may impeded pilot vision affected ability maintain orientation maneuver particularly without discernable contrast earth sky dark night condition loss attitude orientation likely pilot recognize come roll airplane continued ground impact probable cause finding national transportation safety board determines probable cause accident pilot loss attitude orientation maneuvering low altitude dark night visual meteorological condition resulted impact terrain",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "accident",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

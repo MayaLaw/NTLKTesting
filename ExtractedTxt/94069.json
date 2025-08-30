@@ -1,0 +1,29 @@
+{
+    "Filename": "94069.txt",
+    "Location": "Reserve, New Mexico",
+    "Accident Number": "GAA16CA505",
+    "Date & Time": "September 8, 2016, 20:12 Local",
+    "Aircraft": "PIPER AIRCRAFT INC PA46R",
+    "Registration": "N563WT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing dusk attempted activate pilot controlled lighting system successful reported significant left crosswind perhaps crab enough airplane touched grass right runway applied left rudder airplane veered left crossed runway continued runway left rough terrain nose landing gear collapsed airplane came rest nose position airplane sustained substantial damage left wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation according pilot weather time accident wind 170 degree true 11 knot airplane landed runway 24 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing crosswind",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "left",
+                5
+            ]
+        ]
+    }
+}

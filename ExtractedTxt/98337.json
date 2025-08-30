@@ -1,0 +1,29 @@
+{
+    "Filename": "98337.txt",
+    "Location": "Napoleon, North Dakota",
+    "Accident Number": "GAA18CA563",
+    "Date & Time": "September 21, 2018, 13:30 Local",
+    "Aircraft": "Air Tractor AT802",
+    "Registration": "N968JB",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported agricultural application flight airplane right wing struck power line pole impacted terrain airplane sustained substantial damage wing fuselage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance power line pole agricultural application flight finding personnel issue monitoring environment pilot environmental issue pole effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "pole",
+                3
+            ]
+        ]
+    }
+}

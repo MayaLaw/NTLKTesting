@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Englewood, Florida
+Accident Number:
+ERA18LA162
+Date & Time:
+June 7, 2018, 11:50 Local 
+Registration:
+N907CB
+Aircraft:
+BRYAN C L/LABRASH R D SEAREY
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot of the experimental, amateur-built airplane reported that he performed an engine run-up at 
+3,500 rpm along the entire length of the runway and then turned around for takeoff in the opposite direction. 
+After rotation, the engine lost partial power. The airplane descended and struck a tree at the end of the runway 
+before coming to rest in grass near the runway end. The fuselage and left wing sustained substantial damage.
+Postaccident examination of the engine revealed no evidence of any preimpact mechanical malfunctions or 
+failures that would have precluded normal operation. The atmospheric conditions at the time of the accident 
+were conducive to the accumulation of serious carburetor icing at glide power and icing at glide and cruise 
+power. The engine was not equipped with a carburetor heat system. Therefore, it is likely that the carburetor 
+accumulated ice during ground operations, which resulted in the partial loss of engine power during the 
+subsequent climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power due to carburetor icing.

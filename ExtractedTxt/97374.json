@@ -1,0 +1,29 @@
+{
+    "Filename": "97374.txt",
+    "Location": "Midland, Texas",
+    "Accident Number": "CEN18FA204",
+    "Date & Time": "May 31, 2018, 19:20 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N670SR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "student pilot passenger departing personal flight student pilot airplane witness saw airplane climb 200 ft runway slow airspeed stall descend right turn impact terrain according pilot wife regularly flew airplane often passenger pilot logbook record found student flight experience could determined examination airplane revealed mechanical malfunction anomaly would precluded normal operation given atmospheric condition density altitude time accident 6660 ft mean sea level msl probable cause finding national transportation safety board determines probable cause accident inadvertent stall resulting uncontrollable descent impact terrain contributing accident high density altitude",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97675.txt",
+    "Location": "Troy, Michigan",
+    "Accident Number": "GAA18CA391",
+    "Date & Time": "July 2, 2018, 07:20 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N6508K",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing airplane slowed stall warning sounded main landing gear contacted runway added appeared airplane landed observed nose drop horizon added power go around nosewheel impacted runway airplane pitched rearward subsequently airplane porpoised nose landing gear strut collapsed aborted goaround student taxied airplane park without incident flight instructor reported witnessed airplane approach little flat appear unstable student pitched airplane number airplane floated runway touched flat attitude subsequently airplane bounced 2 3 ft porpoised student able taxi runway flight instructor added student late flare energy came nosewheel airplane sustained substantial damage fuselage student reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system airport reported time accident wind 250 7 knot student pilot landed airplane runway 27 probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "student",
+                7
+            ],
+            [
+                "runway",
+                5
+            ]
+        ]
+    }
+}

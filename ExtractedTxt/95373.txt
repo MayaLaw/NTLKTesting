@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Delaplaine, Arkansas
+Accident Number:
+CEN17LA230
+Date & Time:
+June 14, 2017, 18:20 Local 
+Registration:
+N7501Z
+Aircraft:
+Grumman G164
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The commercial pilot was conducting an aerial application flight. He was approaching a rice field after 
+loading product at the company base when the engine lost partial power. The pilot executed a forced 
+landing into the rice field; the right main landing gear struck a levee, and the airplane flipped inverted, 
+which resulted in substantial damage to the wings and fuselage. Examination of the wreckage did not 
+reveal any mechanical malfunctions or failures with the airplane or engine and did not show any 
+evidence of fuel. Although the top fuel tank was breached in the accident, the green grass around and 
+underneath the wreckage did not show any evidence of fuel contamination or blight. It is likely that the 
+engine lost power due to fuel exhaustion.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power due to fuel exhaustion, which resulted in a forced landing on unsuitable 
+terrain.
+Findings
+Aircraft
+Fuel - Fluid level
+Environmental issues
+Sloped/uneven terrain - Contributed to outcome

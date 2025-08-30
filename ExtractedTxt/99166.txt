@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Fayetteville, Arkansas
+Accident Number:
+GAA19CA177
+Date & Time:
+March 24, 2019, 10:30 Local 
+Registration:
+N815PB
+Aircraft:
+Champion 7EC
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the float-equipped airplane reported that, during takeoff from a private lake, the float plane 
+did not "climb as the day before." Upon reaching the end of the lake, he "pulled up hard" on the yoke to 
+avoid power lines, but the "left wing [stalled]," and the float plane impacted the ground. 
+The float plane sustained substantial damage to both wings and the fuselage. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation. 
+The pilot added that, about the time of the accident, the wind was from 190° at 12 knots, gusting to 21 
+knots. An automated weather observation station about 5 nautical miles from the accident site reported 
+that, about the time of the accident, the wind was from 190° at 11 knots. The airplane departed the lake 
+with a 180° heading. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during takeoff as he attempted to avoid 
+power lines, which resulted in an aerodynamic stall. 

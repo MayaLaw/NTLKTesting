@@ -1,0 +1,29 @@
+{
+    "Filename": "93995.txt",
+    "Location": "Warrenton, Virginia",
+    "Accident Number": "GAA16CA477",
+    "Date & Time": "September 9, 2016, 12:15 Local",
+    "Aircraft": "PACIFIC AEROSPACE CORP LTD",
+    "Registration": "N750SS",
+    "Flight Conducted Under": "Part 91: General aviation - Skydiving",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "14 None",
+    "Analysis": {
+        "Text": "pilot reported third skydiving flight day performed back taxi runway takeoff reported rotated airplane takeoff heard steady stall warning horn flight control felt mushy airplane would climb pilot reported aborted takeoff applied max braking reverse thrust airplane overran runway remaining subsequently landing gear collapsed airplane collided fence left right wing sustained substantial damage accident pilot reported observed wing flap fully retracted position reported flap set 20 degree takeoff pilot reported forgot set flap back taxi takeoff communicating airplane near airport pilot reported use physical checklist run checklist mentally pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure set wing flap takeoff resulted aerodynamic stall aborted takeoff runway overrun",
+        "Top Words": [
+            [
+                "reported",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "takeoff",
+                7
+            ]
+        ]
+    }
+}

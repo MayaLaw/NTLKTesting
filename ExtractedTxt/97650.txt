@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Baldwin City, Kansas
+Accident Number:
+CEN18LA246
+Date & Time:
+June 30, 2018, 11:55 Local 
+Registration:
+N107BL
+Aircraft:
+Cessna 337
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was conducting a local flight to practice single-engine maneuvers. After taking off 
+and climbing the airplane to 3,500 ft, he shut down the rear engine and feathered the propeller. After 
+performing some turns and climbs, the pilot attempted to unfeather the propeller and restart the engine 
+but was unsuccessful. He returned to the airport to set up for a single-engine approach. During the 
+approach, the pilot realized that the flaps were no longer in the full-flap setting and that a landing on the 
+grass runway was going to be close, so he chose to perform a go-around. However, as the pilot began to 
+go around, he realized that the airplane could not maintain altitude. He maneuvered the airplane for an 
+off-airport landing to a nearby field, during which the airplane struck small trees and a fence and 
+sustained substantial damage to the left wing and fuselage.
+ 
+The rear engine propeller had a remote hydraulic accumulator that assisted in unfeathering the propeller 
+and was normally serviced to 120 pounds per square inch (psi). During an annual inspection that took 
+place 4 flight hours before the accident flight, it was noted that the pressure was slightly low. During 
+postaccident examination, the accumulator pressure was 85 psi. It is likely that a nitrogen leak occurred 
+between the time the accumulator was last serviced and the time of the accident; however, the reason for 
+the nitrogen leak could not be determined. Further, the flap switch was not holding position due to a loss 
+of tension at the flap switch pivot, which is likely why the flaps were not in the full-flap setting as 
+reported by the pilot. 

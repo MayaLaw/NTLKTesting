@@ -1,0 +1,29 @@
+{
+    "Filename": "98778.txt",
+    "Location": "Riggins, Idaho",
+    "Accident Number": "GAA19CA098",
+    "Date & Time": "December 16, 2018, 12:00 Local",
+    "Aircraft": "Cessna 170",
+    "Registration": "N4385B",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot skiequipped airplane reported aborted first attempt take second takeoff attempt tailwind shortly rotation airplane settled back onto snow packed runway added airplane lifted 5 ft ground near end runway wind gust pushed airplane onto runway subsequently airplane overran runway right wing impacted tree pilot know wind direction speed airport windsock weather reporting station airplane sustained substantial damage wing pilot reported preimpact mechanical failure malfunction airplane would precluded normal operation pilot chose depart north due rising terrain tall tree south end runway pilot reported landed taken airport previously without incident airport elevation 7600 ft runway 1800 ft long airplane owner manual recommended takeoff distance 3420 ft 7000 ft elevation 40f zero wind velocity hard level surface manual also stated favorable condition smooth packed snow 30f takeoff distance skiequipped airplane 10 greater wheelequipped airplane per supplemental type certificate stc airplane underwent engine conversion 180horsepower constantspeed propeller engine takeoff performance data provided stc probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "runway",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

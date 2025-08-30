@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Burnet, Texas
+Accident Number:
+GAA18CA287
+Date & Time:
+May 19, 2018, 11:30 Local 
+Registration:
+N427LS
+Aircraft:
+Maule M 7
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot in the tailwheel-equipped airplane, he attempted a three-point landing with 48° of 
+flaps applied in a strong, left crosswind. He reported that, after landing, the airplane lifted off again, and 
+the left wing lifted. The pilot applied aileron and rudder inputs to counter the left crosswind, but the 
+inputs were ineffective due to the airplane's low airspeed. He applied power to fly out of the gusting left 
+crosswind condition, but the airplane veered right, the right wing struck the ground, and the airplane 
+cartwheeled.
+The airplane sustained substantial damage to the engine mounts, both wings, and the aft fuselage. 
+The METAR at the accident airport reported, about the time of the accident, wind from 160° at 12 knots, 
+gusting to 25 knots. The highest wind reported during the observation period was from 190° at 31 knots. 
+The pilot landed the airplane on runway 19.
+According to the manufacturer's airplane flight manual, the maximum demonstrated crosswind 
+component was 12 knots, and the flap extension should be limited to 0°. The pilot reported that the 
+accident could have been prevented if he had attempted a wheel landing with less than full flaps.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

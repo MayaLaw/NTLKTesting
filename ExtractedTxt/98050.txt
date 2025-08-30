@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Philadelphia, Pennsylvania
+Incident Number:
+DCA18IA265
+Date & Time:
+August 10, 2018, 20:50 Local 
+Registration:
+N619A
+Aircraft:
+Gulfstream G IV
+Aircraft Damage:
+None
+Defining Event:
+Course deviation
+Injuries:
+10 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+Pegasus Elite Aviation flight 19 was on final approach to runway 35 at Philadelphia 
+International Airport, Philadelphia, Pennsylvania. The airplane deviated from the runway 35 
+centerline about 2.4 miles from the runway 35 threshold and aligned with taxiway E shortly 
+thereafter.  The flight crew initiated a low-altitude go-around, arrested the airplane’s descent, 
+and started to climb the airplane about 0.1 mile from the south end of taxiway E. The airplane 
+flew past four airplanes that were on taxiway E.
+The captain stated that he was flying a visual approach to runway 35 with the area navigation 
+(RNAV) approach for backup. Both flight crewmembers stated that the RNAV needle showed 
+that the airplane was centered during the approach. The captain stated that, as the flight 
+proceeded inbound, the airport lights blended together, and he lost visual contact with the 
+runway at a distance of about 1 to 2 miles out and at an altitude of 500 ft above ground level 
+(agl). The first officer stated that he did not see the approach lights or the runway, and that 
+the captain initiated the go-around 1 mile from the airport while the airplane was at 500 ft agl.  
+Flight data recorder (FDR) and Federal Aviation Administration (FAA) radar data showed 
+that, during go-around procedure, the airplane moved to the right from aligned with the 
+taxiway to between the taxiway and runway, and reached a minimum altitude of 125 ft agl 
+when it was 0.1 mile from the runway 35 threshold, at which point the airplane stopped 
+descending and began climbing.  FAA radar data showed that the closest the incident airplane 
+came to the first airplane it passed was about 200 ft vertically.  The airplane then flew past the 
+three other airplanes that were on taxiway E while continuing to climb.  
+The flight crewmembers initiated a low-altitude go-around because they did not recognize 
+that the airplane was misaligned with the runway until late in the final approach. As a result, 
+safety margins were severely reduced given the incident airplane’s proximity to the ground 

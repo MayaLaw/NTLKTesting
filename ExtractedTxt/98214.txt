@@ -1,0 +1,45 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Pacoima, California
+Accident Number:
+WPR18FA249
+Date & Time:
+September 3, 2018, 17:10 Local 
+Registration:
+N10789
+Aircraft:
+Cessna 150L
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The flight instructor and passenger were conducting a local area discovery flight. About 50 seconds after 
+the airplane was cleared for takeoff, the instructor transmitted to the tower controller, that he needed to 
+turn back. The tower controller then cleared the airplane to land; no further communication was received 
+from the instructor.
+A video recording from a GoPro camera mounted in the cockpit provided an over-the-shoulder view of 
+the airplane occupants and instrument panel during the flight; there was no audio. The video revealed 
+that, after an uneventful taxi and run-up, the instructor taxied the airplane onto the runway and, with his 
+hands still on the yoke, the passenger advanced the throttle to start the takeoff roll. The airplane became 
+airborne, and about 20 ft above ground level (agl), the instructor removed his hands from the yoke to 
+allow the passenger to fly. Two seconds later, the airplane's nose dropped, and the instructor put his 
+right hand on the yoke and left hand on the throttle; the rpm gauge indicated between 2,200 and 2,300 
+rpm. The instructor then appeared to verify that the throttle was at full power and that the mixture was 
+full rich. When the airplane was about 50 ft agl, the instructor quickly pulled back the throttle, and the 
+rpm dropped to 1,300. He then increased the throttle to full power, and the rpm increased to 2,200 rpm. 
+The instructor then initiated a left bank turn, and the airplane subsequently pitched up and banked left 
+about 15° to 20°. The airspeed began to slow, and the ball in the turn-and-slip indicator showed an 
+almost full-right deflection. The instructor continued to pull the yoke aft as the airspeed continued to 
+decrease throughout the turn. The airplane subsequently entered a left spin from about 50 ft agl, turned 
+about 270°, and then impacted the overhang of a building about 500 ft adjacent to the departure end of 
+the runway. 
+Witnesses reported seeing the airplane shortly after takeoff. One witness reported that the engine 
+sounded abnormal, "like it was sputtering." Another witness reported seeing the airplane "at a very low 
+altitude" and descending rapidly and the wings "dipping side to side." Subsequently, the airplane rolled 
+180° and descended nose down. Another witness reported seeing the airplane enter a left spiraling turn. 

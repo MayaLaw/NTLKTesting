@@ -1,0 +1,29 @@
+{
+    "Filename": "97639.txt",
+    "Location": "Page, Arizona",
+    "Accident Number": "WPR18LA184",
+    "Date & Time": "June 16, 2018, 13:00 Local",
+    "Aircraft": "Piper PA31",
+    "Registration": "N621PG",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot stated landing roll unable maintain directional control airplane veered right exited runway nose landing gear collapsed examination airplane revealed nose gear steeringcentering mechanism fractured resulted improper alignment nose landing gear extended subsequent loss directional control three skid mark visible runway centerline airplane came rest center skid mark consistent nose landing gear darker 23 time width mark main tire consistent nose landing gear misalignment landing roll probable cause finding national transportation safety board determines probable cause accident failure airplane nose wheel steeringcentering mechanism resulted loss directional control subsequent runway excursion finding aircraft nosetail gear strutaxle failure",
+        "Top Words": [
+            [
+                "landing",
+                6
+            ],
+            [
+                "nose",
+                6
+            ],
+            [
+                "gear",
+                6
+            ]
+        ]
+    }
+}

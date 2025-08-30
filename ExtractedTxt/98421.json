@@ -1,0 +1,29 @@
+{
+    "Filename": "98421.txt",
+    "Location": "Grass Valley, California",
+    "Accident Number": "WPR19LA003",
+    "Date & Time": "October 8, 2018, 11:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N2250S",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "accident flight student pilot first solo crosscountry flight intended route flight included stop five airport along route prior departure pilot confirmed left fuel tank full right fuel tank contained 17 gallon airplane refueled crosscountry flight pilot stated flew left fuel tank selected final leg trip report departure last airport switched right fuel tank airplane 5 mile grass valley airport goo altitude 5000 ft ground level agl engine started sputter pilot attempted unsuccessfully restart engine contacted air traffic control tower goo report engine failure cleared land however airplane altitude 3200 foot agl continuing lose altitude realized airplane would make airport performed forced landing open field landing nose landing gear collapsed right wing damaged accident 17 gallon fuel removed rightwing fuel tank left wing fuel tank empty amount fuel right fuel tank accident takeoff pilot stated flew flight left fuel tank selected likely despite report switching right fuel tank left tank remained selected fuel supply exhausted absence fuel anomaly noted engine would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "tank",
+                10
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

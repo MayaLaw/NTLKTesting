@@ -1,0 +1,29 @@
+{
+    "Filename": "97198.txt",
+    "Location": "Fort Apache, Arizona",
+    "Accident Number": "ANC18LA034",
+    "Date & Time": "May 6, 2018, 13:38 Local",
+    "Aircraft": "Grumman TBM-3",
+    "Registration": "N337VT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "pilot passenger conducting crosscountry flight pilot newlypurchased refurbished world war iiera airplane engine experienced vibration smoke oil leak partial loss power airplane remote rugged treecovered terrain emergency landing area occupant wearing emergency parachute egressed 1500 ft ground level pilot passenger sustained serious injury landing parachute radar data indicated airplane continued steady descent terrain wreckage never located despite numerous search therefore engine could examined reason loss engine power smoke vibration could determined probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "engine",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

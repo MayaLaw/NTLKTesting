@@ -1,0 +1,29 @@
+{
+    "Filename": "99301.txt",
+    "Location": "Dwight, Illinois",
+    "Accident Number": "CEN19LA126",
+    "Date & Time": "April 19, 2019, 16:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N838JH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot cruise flight singleengine airplane engine started run rough applied carburetor heat engine continued run rough noticed fuel pressure gauge indicated 0 turned electric fuel boost pump restore power switched fuel tank momentarily restored engine power pilot decided divert nearby airport continued switch fuel tank obtain short burst engine power landing airplane departed runway surface nose landing gear collapsed examination fuel system found available fuel tank small amount debris gascolator enginedriven electric fuel boost pump removed airplane hand testing enginedriven pump found suction pressure inlet outlet port testing electric boost pump revealed liquid would flow activated despite failure electric boost pump indicated use cruise flight failure resulted loss fuel flow possible unidentified fuel restriction prevented fuel getting enginedriven fuel pump however reason source fuel restriction could determined postaccident examination probable cause finding national transportation safety board determines probable cause accident partial loss engine power due restriction fuel flow undetermined reason",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "pump",
+                6
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Denison, Texas
+Accident Number:
+GAA18CA350
+Date & Time:
+June 14, 2018, 09:15 Local 
+Registration:
+N67404
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The chief flight instructor reported that, according to the student pilot, during landing, the right 
+crosswind increased. He added that the airplane turned left, touched down hard, and bounced. Following 
+the bounce, the student tried to hold attitude, but the airplane descended, bounced a second time, and the 
+nose landing gear collapsed. During the third touchdown, the propeller struck the runway, and the 
+airplane skidded to a stop on the runway.
+The airplane sustained substantial damage to the engine mounts.
+The chief flight instructor reported that there were no preaccident mechanical failures or malfunctions 
+with the airplane that would have precluded normal operation.
+The automated weather observation station located on the airport reported that, about the time of the 
+accident, the wind was from 210° at 10 knots. The airplane landed on runway 17L.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's improper landing flare in crosswind conditions, which resulted in a hard, bounced 
+landing.

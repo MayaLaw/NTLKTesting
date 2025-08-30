@@ -1,0 +1,29 @@
+{
+    "Filename": "97141.txt",
+    "Location": "Eunice, Louisiana",
+    "Accident Number": "GAA18CA244",
+    "Date & Time": "April 27, 2018, 19:20 Local",
+    "Aircraft": "Luscombe 8",
+    "Registration": "N71261",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported approach land airplane struck tree subsequently airplane landed hard landing gear collapsed airplane sustained substantial damage fuselage front windshield pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance tree approach land finding aircraft altitude attainedmaintained personnel issue monitoring environment pilot environmental issue tree effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "tree",
+                3
+            ]
+        ]
+    }
+}

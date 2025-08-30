@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Rushville, Nebraska
+Accident Number:
+GAA19CA160
+Date & Time:
+March 8, 2019, 11:45 Local 
+Registration:
+N8566D
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during flight, the engine lost partial power. He applied carburetor heat and 
+adjusted the mixture, but the engine did not respond. The engine continued to lose power, and the pilot 
+conducted a forced landing on rough terrain, during which the right wing struck the ground. 
+The airplane sustained substantial damage to the right wing spar.
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+The pilot reported that the temperature about the time of the accident was 30°F and that the dew point 
+was 34°F. The atmospheric conditions at the time of the accident were conducive to the accumulation of 
+serious carburetor icing at cruise or climb power settings. The pilot stated that the accident could have 
+been prevented if he had "checked for carb ice sooner."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power due to the accumulation of carburetor ice, which resulted in a forced 
+landing on rough terrain. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "97190.txt",
+    "Location": "Tamiami, Florida",
+    "Accident Number": "WPR18LA135",
+    "Date & Time": "May 3, 2018, 22:41 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N6198Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "noninstrumentedrated pilot pilotrated passenger also hold instrument rating departed local flight expected return dark however flew another airport refueled departed return flight night condition en route airplane encountered instrument meteorological condition pilot lost control airplane subsequently impacted terrain examination airframe engine revealed anomaly would precluded normal operation operator reported company policy stated pilot prohibited flying night without explicit permission chief assistant chief pilot accident pilot obtain approval whether pilot obtained weather information departing flight determined although restricted visibility condition conducive development spatial disorientation insufficient evidence determine whether played role sequence event circumstance accident consistent loss control instrument meteorological condition probable cause finding national transportation safety board determines probable cause accident noninstrumentrated pilot loss control encounter instrument meteorological condition night contributing accident pilot decision depart flight without obtaining approval fly night accordance company policy",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "condition",
+                5
+            ],
+            [
+                "instrument",
+                4
+            ]
+        ]
+    }
+}

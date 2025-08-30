@@ -1,0 +1,29 @@
+{
+    "Filename": "98464.txt",
+    "Location": "Manchester, West Virginia",
+    "Accident Number": "GAA19CA018",
+    "Date & Time": "October 7, 2018, 14:11 Local",
+    "Aircraft": "Piper PA 16",
+    "Registration": "N49WV",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway incursion veh/AC/person",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported final approach noticed vehicle stopped short runway road intersected runway touchdown taxiing 40 ft intersection vehicle slowly drove runway pilot veered airplane left avoid vehicle airplane exited runway left airplane sustained substantial damage left wing firewall pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added assumed driver could see landing airplane probable cause finding national transportation safety board determines probable cause accident vehicle incursion onto active runway resulted evasive action pilot landing airplane runway subsequent runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "runway",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

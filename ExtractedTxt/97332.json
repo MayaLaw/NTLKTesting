@@ -1,0 +1,29 @@
+{
+    "Filename": "97332.txt",
+    "Location": "Qulin, Missouri",
+    "Accident Number": "CEN18LA194",
+    "Date & Time": "May 27, 2018, 12:00 Local",
+    "Aircraft": "AIR TRACTOR INC AT 502B",
+    "Registration": "N6180J",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported agricultural airplane loaded 2700 lb product 130 140 gallon fuel stated engine gauge normal indication takeoff airplane tailwheel still ground airplane 34 runway airplane become airborne end runway airplane reached end runway applied full flap jump drainage ditch end airplane impacted ground opposite side ditch incurred substantial damage wing landing gear aft fuselage tail surface postaccident examination airplane revealed preimpact mechanical malfunction failure would precluded normal operation based reported fuel product load board airplane calculated gross weight 523574 lb airplane maximum gross weight addition density altitude time accident 2200 ft probable cause finding national transportation safety board determines probable cause accident pilot improper weightandbalance calculation decision take airplane high gross weight high density altitude condition resulted attempted takeoff exceeded airplane performance capability also causal pilot failure abort takeoff sufficient runway remained",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "runway",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97313.txt",
+    "Location": "Palo Alto, California",
+    "Accident Number": "GAA18CA294",
+    "Date & Time": "April 29, 2018, 19:40 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N254EK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported short final noticed sudden lack wind airplane began descend added airplane landed hard bounced multiple time taxied back parking ramp without incident pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airplane rental company owner reported pilot notify personnel hard bounded landing added later flight airplane owner noticed vibration landed examine airplane postflight examination revealed propeller damage substantial damage fuselage probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

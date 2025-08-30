@@ -1,0 +1,29 @@
+{
+    "Filename": "99410.txt",
+    "Location": "Eagle Lake, Texas",
+    "Accident Number": "CEN19FA140",
+    "Date & Time": "May 11, 2019, 08:10 Local",
+    "Aircraft": "Air Tractor AT502",
+    "Registration": "N713LA",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "VFR encounter with IMC",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated commercial pilot departed operator airstrip planning conduct visual flight rule vfr aerial application flight airplane equipped instrument flight rule ifr flight shortly departure visual meteorological condition pilot contacted operator reported observed fog rolling pilot reported flying fog layer pilot stated going divert local airport instead returning operator airstrip terminate flight communication received pilot data obtained two onboard unit contained airplane track data showed last several minute flight airplane entered two spiraling turn second spiraling turn included rapid descent airplane altitude direction accident site airplane wreckage discovered grass field 75 mile southwest diversion airport two witness near accident site heard accident airplane flying overhead reported hear sound associated airplane problem sound airplane impact examination airframe engine revealed mechanical anomaly investigation unable determine available evidence whether pilot received official weather briefing accessed weather information flight multiple weather source indicated low ceiling presence fog conducive low ifr condition time accident area near accident site witness heard accident airplane reported low level fog time accident area clear visibility ground fog fog differs cloud base fog earth surface cloud earth surface given weather data airplane track data witness statement airplane likely flew area fog accident underdetermined reason imc present time conducive",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "fog",
+                8
+            ],
+            [
+                "accident",
+                8
+            ]
+        ]
+    }
+}

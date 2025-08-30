@@ -1,0 +1,29 @@
+{
+    "Filename": "98262.txt",
+    "Location": "East Stroudsburg, Pennsylvania",
+    "Accident Number": "GAA18CA540",
+    "Date & Time": "August 25, 2018, 15:00 Local",
+    "Aircraft": "Yakovlev YAK 52",
+    "Registration": "N3042W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing short final decided go around added goaround airplane developed severe vibration made precautionary landing gear retracted airplane slid exited runway impacted terrain airplane sustained substantial damage external longerons lower fuselage engine mount federal aviation administration inspector reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure extend landing gear landing resulted runway excursion subsequent impact terrain",
+        "Top Words": [
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

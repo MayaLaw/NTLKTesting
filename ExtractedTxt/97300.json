@@ -1,0 +1,29 @@
+{
+    "Filename": "97300.txt",
+    "Location": "Bolivar, Missouri",
+    "Accident Number": "CEN18FA186",
+    "Date & Time": "May 22, 2018, 09:30 Local",
+    "Aircraft": "James Donald Baker Zenith",
+    "Registration": "N622DP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot departed local personal flight experimental airplane built flown 500 hour witness saw airplane flying 50 foot tree nose oscillating according witness engine making strange noise steady tone airplane struck tree impacted ground 075 mile south airport postaccident examination airframe engine propeller revealed discrepancy anomaly would prevented normal operationthe damage propeller blade consistent rotation impact autopsy pilot performed according toxicology report ethanol drug detected given oscillation described witness likely pilot maintain airplane control following takeoff probable cause finding national transportation safety board determines probable cause accident pilot failure maintain airplane control takeoff",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "witness",
+                3
+            ]
+        ]
+    }
+}

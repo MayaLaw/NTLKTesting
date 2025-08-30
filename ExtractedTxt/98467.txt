@@ -1,0 +1,46 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Poolville, Texas
+Accident Number:
+CEN19FA004
+Date & Time:
+October 12, 2018, 16:08 Local 
+Registration:
+N221MC
+Aircraft:
+Piper PA32RT
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and passenger departed on the cross-county flight in visual meteorological conditions. 
+Automatic dependent surveillance-broadcast (ADS-B) and GPS data indicated that, after takeoff, the 
+airplane proceeded east and that, for most of the flight, flew at altitudes that were between 8,500 and 
+9,500 ft mean sea level (msl). However, as the flight progressed, the weather conditions deteriorated. 
+Toward the end of the flight, the airplane began descending from 9,000 ft msl at a descent rate of about 
+700 ft per minute. The airplane then entered a descending right turn with a decreasing radius before the 
+ADS-B and GPS data ended. The radius of the turn was initially about 4,000 ft and decreased during the 
+next minute to about 1,000 ft by the final 1 second of the data. As the airplane continued to turn, the 
+descent rate increased; the average rate of descent of the airplane for the final 10 seconds of the recorded 
+ADS-B data was about 12,900 ft per minute. 
+The airplane wreckage was distributed over a large area with airframe parts located 3,600 ft from the 
+main wreckage location and lighter-weight items from within the airplane located more than 1 mile 
+away. The wreckage distribution indicated that the airplane broke apart during flight and before 
+contacting the ground. Examination of the airframe and engine revealed no anomalies consistent with a 
+prebreakup failure or malfunction. 
+Weather data indicated that marginal visual flight rules conditions prevailed across the area with ceilings 
+overcast from 2,500 to 3,000 ft agl. Several weather stations immediately north and north-northeast of 
+the accident site reported instrument flight rules (IFR) conditions to low IFR conditions, indicating 
+ceilings of less than 1,000 ft agl and/or visibilities of less than 3 miles. No breaks in the overcast layer of 
+clouds were reported surrounding the time of the accident, so the pilot's visual flight into IMC would 
+have been conducive to the development of spatial disorientation. 
+The pilot held an instrument rating, but a review of his flight logbook revealed that he had logged a total 
+of only 2.3 hours of actual instrument flight experience, including 0.2 hour during the 3 months 
+preceding the accident. As a result, the pilot did not likely possess the experience or recency to 
+adequately control the airplane through the use of the instruments in IFR conditions. Thus, it is likely 

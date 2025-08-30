@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+New Carlisle, Ohio
+Accident Number:
+CEN18LA362
+Date & Time:
+August 31, 2018, 14:00 Local 
+Registration:
+N2305K
+Aircraft:
+Luscombe 8
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the airplane exhibited reduced climb performance during takeoff and that the 
+engine began running rough when the airplane had climbed to about 150 ft above the ground. The pilot 
+turned on the carburetor heat, but then removed carburetor heat when he perceived an increase in engine 
+roughness. The engine subsequently lost total power and the pilot performed a forced landing, resulting 
+in substantial damage to the forward fuselage and right wing.
+Examination of the airplane and engine did not reveal any evidence of mechanical malfunctions that 
+would have precluded normal operation. Both fuel tanks contained fuel, the vented fuel caps were not 
+obstructed, and there was uncontaminated fuel found in the carburetor fuel bowl.
+The weather conditions at the time of the accident were conducive to the formation of carburetor icing at 
+a descent engine power setting. Although the pilot did not observe any evidence of carburetor ice when 
+he verified function of the carburetor heat control before takeoff, given the lack of engine anomalies, the 
+pilot's description of reduced climb performance and the rough-running engine was consistent with the 
+accumulation of carburetor ice. The reported increase in engine roughness after carburetor heat was 
+applied is further evidence of carburetor ice, but the pilot’s momentary application of carburetor heat 
+would have been ineffective in removing the ice and restoring engine power. Additionally, the low 
+altitude at which the loss of engine power occurred significantly reduced the amount of time available to 
+the pilot to troubleshoot and restore engine power before the forced landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

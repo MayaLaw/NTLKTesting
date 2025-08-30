@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Iliamna, Alaska
+Accident Number:
+ANC18LA064
+Date & Time:
+August 7, 2018, 12:15 Local 
+Registration:
+N7379U
+Aircraft:
+Cessna 207
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The pilot reported that shortly after takeoff, as he began to configure the airplane for cruise flight, the 
+engine began to run rough and lose power, and he elected to immediately return to the airport. The 
+engine subsequently lost total power and the pilot performed a forced landing on tundra-covered terrain, 
+during which the airplane sustained substantial damage. 
+Examination revealed that the No. 2 piston was eroded on the bottom side, and a hole was burned 
+through. The No. 2 piston and cylinder head were mechanically damaged by loose piston ring debris. 
+Closer examination of the No. 2 cylinder head revealed re-solidified molten metal around the bottom 
+Heli-Coil tang notch. All damage discovered was consistent with a pre-ignition/detonation event; 
+however, the cause of the pre-ignition and/or detonation could not be determined based on the available 
+information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to detonation/preignition damage of the No. 2 cylinder and piston for 
+reasons that could not be determined.

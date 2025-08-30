@@ -1,0 +1,29 @@
+{
+    "Filename": "97383.txt",
+    "Location": "Amagansett, New York",
+    "Accident Number": "ERA18LA157",
+    "Date & Time": "June 2, 2018, 14:33 Local",
+    "Aircraft": "Piper PA 31",
+    "Registration": "N41173",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "4 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot multiengine airplane first flight two airplane depart crosscountry flight atlantic ocean pilot second airplane stated accident pilot reviewed weather route destination departing however record accident pilot receiving official weather briefing information pilot accessed flight could determined second pilot departed contacted air traffic control advised thunderstorm near destination subsequently altered route flight landed uneventfully destination second pilot stated hear accident pilot en route air traffic control frequency two inflight weather advisory issued route area destination 42 15 minute accident flight departed respectively warned heavy extreme precipitation associated thunderstorm could determined whether accident pilot received advisory review air traffic control communication radar data revealed 5 mile destination airport pilot accident airplane reported tower controller flying 700 ft coming thunderstorm communication pilot airplane last radar target indicated 532 ft 2 mile south shoreline airplane found 50 ft water fragmented several piece postaccident examination revealed preimpact anomaly airplane engine would precluded normal operation local resident 12 mile accident site took several photo approaching thunderstorm documented shelf cloud cumulus mammatus cloud along leading edge storm indicative potential severe turbulence review weather imagery airplane flight path showed airplane entered leading edge extreme intensity echo top near 48000 ft imagery also depicted heavy extreme intensity radar echo accident site extending destination airport",
+        "Top Words": [
+            [
+                "pilot",
+                11
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "accident",
+                8
+            ]
+        ]
+    }
+}

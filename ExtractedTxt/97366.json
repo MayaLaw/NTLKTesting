@@ -1,0 +1,29 @@
+{
+    "Filename": "97366.txt",
+    "Location": "Prescott, Arizona",
+    "Accident Number": "GAA18CA312",
+    "Date & Time": "May 29, 2018, 21:15 Local",
+    "Aircraft": "Piper PA 46",
+    "Registration": "N148ME",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "according pilot 15 minute reaching destination airport descent engine lost power pilot switched fuel tank engine power momentarily restored engine stopped producing power even though thought still running way impact pilot conducted forced landed highway night right wing struck object separated airplane airplane came rest inverted according federal aviation administration faa aviation safety inspector asi performed postaccident airplane examination fuel line fuel manifold dry fuel manifold valve dry reported fuel strainer diaphragm fuel filter duel manifold unremarkable fuel found gascolator faa asi reported interview pilot pilot changed story fuel exhaustion fuel contamination inspector reported sign fuel contamination examination fuel system according fixedbase operator fbo departure airport pilot requested 20 gallon fuel canceled fuel request walked fbo probable cause finding national transportation safety board determines probable cause accident pilot improper fuel planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "engine",
+                4
+            ]
+        ]
+    }
+}

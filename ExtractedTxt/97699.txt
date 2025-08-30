@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Daytona Beach, Florida
+Accident Number:
+ERA18LA184
+Date & Time:
+July 5, 2018, 13:45 Local 
+Registration:
+N42SX
+Aircraft:
+Swearingen SX300
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and pilot-rated passenger were landing at the conclusion of a personal flight. The 
+passenger stated that, during the landing approach, he noted that the wing flaps were down, and three 
+green landing gear lights were illuminated; the airspeed was about 90 knots on final approach. Just 
+before landing, he heard the angle of attack indicator alarm and knew that the airplane had stalled. The 
+airplane landed hard and the left main landing gear collapsed. The pilot initially applied full power to 
+take off again; however, he then reduced the throttle to idle and applied full braking. The airplane slid 
+off the left side of the runway and collided with the precision approach path indicator lights. The 
+airplane continued across the grass until the right wing dug into the ground; it then cartwheeled, came to 
+rest upright, and caught fire. Bystanders assisted the pilot and passenger in opening the canopy and 
+egressing the airplane; the pilot succumbed to burn injuries about one week after the accident. The 
+passenger stated that there were no preimpact mechanical malfunctions with the airplane, and 
+examination of the wreckage revealed no anomalies.
+The circumstances of the accident are consistent with the pilot's failure to maintain adequate airspeed 
+during the landing flare, which resulted in exceedance of the airplane's critical angle of attack and an 
+aerodynamic stall. The subsequent hard landing resulted in a landing gear collapse and loss of 
+directional control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed during landing, which led to the airplane exceeding its 
+critical angle-of-attack, experiencing an aerodynamic stall and hard landing, which resulted in a landing 
+gear collapse, loss of directional control, and runway excursion.

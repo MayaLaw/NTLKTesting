@@ -1,0 +1,29 @@
+{
+    "Filename": "95997.txt",
+    "Location": "Silver Springs, Nevada",
+    "Accident Number": "GAA17CA533",
+    "Date & Time": "September 12, 2017, 10:15 Local",
+    "Aircraft": "Cessna T182T",
+    "Registration": "N946CA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported purpose flight provide proficiency checkout pilot organizational requirement pilot authorized fly airplane completing area work returned airport pilot landed airplane taxied back departure end runway flight instructor assumed control airplane demonstrate rejected takeoff simulated engine failure 50 100 ft ground retarded throttle lowered flap 40 lowered nose excessive sink rate developed airplane touched slightly nose bounced rolled stop postaccident examination revealed substantial damage fuselage flight instructor reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "flight",
+                4
+            ],
+            [
+                "instructor",
+                3
+            ]
+        ]
+    }
+}

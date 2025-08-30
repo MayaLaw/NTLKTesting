@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Roanoke, Texas
+Accident Number:
+CEN18LA377
+Date & Time:
+September 7, 2018, 21:03 Local 
+Registration:
+N33354
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious, 3 Minor, 2 
+None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and five passengers departed on a personal night cross-country flight. According 
+to the pilot, the engine start and run-up were uneventful. Shortly after takeoff, the engine lost total 
+power, and the pilot was unable to maintain altitude. He conducted a forced landing, which resulted in 
+substantial damage to the fuselage and wings. 
+An engine examination revealed that the upper right spark plugs were in a worn-out normal condition 
+and the lower spark plugs were in a worn-out severe condition. The lower spark plugs were replaced, 
+and a test engine run was conducted; the engine started and ran without hesitation at various power 
+settings. However, it was noted during the test that the engine would not run on the right magneto. 
+Further examination of the right magneto found a failed magneto coil. Despite the failed coil on the right 
+magneto and the spark plug condition, the engine ran at full power settings. No other anomalies were 
+noted with the engine or fuel system that would have precluded normal operation. A failed magneto or 
+the noted spark plug conditions would have resulted in a rough-running engine but not a complete loss 
+of engine power as the pilot described. Thus, the reason for the total loss of power could not be 
+determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power for reasons that could not be determined based on the available evidence.

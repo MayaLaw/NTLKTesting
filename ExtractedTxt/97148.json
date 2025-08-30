@@ -1,0 +1,29 @@
+{
+    "Filename": "97148.txt",
+    "Location": "Reno, Nevada",
+    "Accident Number": "WPR18FA131",
+    "Date & Time": "May 1, 2018, 19:31 Local",
+    "Aircraft": "AMERICAN AIR RACING LTD",
+    "Registration": "N352BT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot highperformance air racing airplane taking part inflight photography mission two airplane 1 hour second flight day group getting fatigued decided return departure airport airplane approached airport accident pilot transmitted mayday call reported going land runway located directly ahead position airplane began descend performing turn touched beyond midpoint 9000ftlong runway slightly higher speed normal 4knot tailwind prevailed landing runway time accident 1200ftlong series propeller strike runway consistent pilot applying heavy braking touchdown airplane veered right reached end runway entered gravel area nosed came rest inverted given airplane nominal landing distance addition factor increased distance accident landing namely remaining runway time touchdown airplane higher landing speed tailwind pilot would little margin error airplane landing distance required exceeded available runway vertical stabilizer collapsed airplane nosed resulted canopy structure contacting ground subsequently failing result pilot head impinged angle ground resulting airway restriction pilot extraction airplane first responder took 45 minute time pilot died asphyxiation however unless repositioned breathing enabled almost immediately following accident survival would unlikely based airplane weight inverted position immediate rescue possible could determined canopy bow designed structural nature additionally visual inspection revealed defect would weakened supporting property examination engine revealed coolant pump drive pulley detached due fatigue",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "runway",
+                7
+            ]
+        ]
+    }
+}

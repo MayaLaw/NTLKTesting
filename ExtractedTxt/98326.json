@@ -1,0 +1,29 @@
+{
+    "Filename": "98326.txt",
+    "Location": "Santa Teresa, New Mexico",
+    "Accident Number": "CEN18LA383",
+    "Date & Time": "August 31, 2018, 17:00 Local",
+    "Aircraft": "Piper PA46",
+    "Registration": "N747DA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "6 None",
+    "Analysis": {
+        "Text": "pilot five passenger departing airport international crosscountry flight pilot attempted intersection takeoff high density altitude condition airplane maximum gross weight airplane would become airborne pilot back taxied attempted take full length another runway airplane lifted climbing pilot lowered nose airplane hit runway hard airplane veered right exited runway surface resulted substantial damage wing pilot reported mechanical malfunction failure airplane engine would precluded normal operation attempted takeoff overweight airplane high density altitude calculation showed airplane maximum gross takeoff weight exceeded least 300 lb density altitude 6900 ft probable cause finding national transportation safety board determines probable cause accident pilot decision attempt take overweight airplane high density altitude condition resulted airplane inability climb aborted takeoff subsequent runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

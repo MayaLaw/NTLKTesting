@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Fort Walton Beach, Florida
+Accident Number:
+CEN18FA358
+Date & Time:
+August 30, 2018, 10:30 Local 
+Registration:
+N1876L
+Aircraft:
+Beech B60
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+4 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and three passengers departed on a cross-country flight in a twin-engine airplane. 
+As the flight neared the destination airport, the pilot canceled his instrument flight rules (IFR) clearance. 
+The approach controller transferred the flight to the tower controller, and the pilot reported to the tower 
+controller that the airplane was about 2 miles from the airport. However, the approach controller 
+contacted the tower controller to report that the airplane was 200 ft over a nearby joint military airport at 
+the time. GPS data revealed that, when pilot reported that the airplane was 2 miles from the destination 
+airport, the airplane's actual location was about 10 miles from the destination airport and 2 miles from 
+the joint military airport. The airplane impacted a remote wooded area about 8 miles northwest of the 
+destination airport.
+At the time of the accident, thunderstorm cells were in the area. A review of the weather information 
+revealed that the pilot's view of the airport was likely obscured because the airplane was in an area of 
+light precipitation, restricting the pilot's visibility.
+A review of airport information noted that the IFR approach course for the destination airport passes 
+over the joint military airport. The Federal Aviation Administration chart supplement for the destination 
+airport noted the airport's proximity to the other airport. However, it is likely that the pilot mistook the 
+other airport for the destination airport due to reduced visibility because of weather. The accident 
+circumstances were consistent with controlled flight into terrain.
+The ethanol detected in the pilot's blood specimens but not in his urine specimens was consistent with 
+postmortem bacteria production. The carbon monoxide and cyanide detected in the pilot's blood 
+specimens were consistent with inhalation after the postimpact fire.
+Probable Cause and Findings

@@ -1,0 +1,29 @@
+{
+    "Filename": "98612.txt",
+    "Location": "Burns, Oregon",
+    "Accident Number": "WPR19LA020",
+    "Date & Time": "October 27, 2018, 07:50 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N3267S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "upon approaching intended landing area pilot performed high reconnaissance assess wind condition airplane touched landing roll left wing dipped downward left wing made contact ground coming rest left main landing gear sheared attachment bolt connected left main landing gear leg bracket exhibited fatigue crack progressed one third bolt crosssection fatigue crack initiated multiple fatigue crack initiation site along thread root thread root exhibited corrosion pitting penetrated outer cadmium plating led fatigue cracking remainder bolt could longer support stress landing remaining cross section fractured overstress crack propagated one third cross section without discernible transition mixed fracture zone fatigue crack subsequent stress final fracture occurred high load event accident landing bolt plated cadmium corrosion inhibitor however corrosion pitting observed along thread led fatigue cracking bolt although cadmium plating provide protection underlying alloy steel corrosion form pitting still occur may due operational environment including location near saltwater well crevice corrosion mechanism fatigued bolt fractured bracket would able flex slide side component able flex bottom support housing could support downward force gear spring led fracture would allow cantilever force inboard support would enough force fracture attachment bolt support upper support frame although hard landing would caused bolt fracture fatigue crack diminished amount stress could withstand",
+        "Top Words": [
+            [
+                "bolt",
+                8
+            ],
+            [
+                "landing",
+                7
+            ],
+            [
+                "fatigue",
+                7
+            ]
+        ]
+    }
+}

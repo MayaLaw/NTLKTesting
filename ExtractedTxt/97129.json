@@ -1,0 +1,29 @@
+{
+    "Filename": "97129.txt",
+    "Location": "Maxwell, California",
+    "Accident Number": "WPR18LA128",
+    "Date & Time": "April 29, 2018, 15:30 Local",
+    "Aircraft": "GRUMMAN ACFT ENG COR-",
+    "Registration": "N6674K",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot departed private agricultural airstrip south orbited area west airstrip proceeded east east airstrip pilot turned left heading north made 180 left turn back toward south onto right downwind preparation land north pilot stated midway parallel runway engine surged two three time completely lost power pilot elected perform forced landing plowed field short landing roll airplane nosed back resulted substantial damage upper wing panel horizontal stabilizer rudder elevator postaccident examination engine revealed damage consistent engine producing power time impact functional test fuel control unit identified fuel schedule specification limit operation engine low power condition outofspecification fuel control setting likely resulted unstable engine operation 100 engine speed fuel shutoff valve fsov terminates fuel flow engine found electrically commanded closed position removal airplane testing valve indicated required higher voltage open specified higher leakage output port specified passed test neither condition would cause uncommanded closing valve result engine teardown examination coupled functional testing various engine component failed reveal precipitated reported engine surge condition subsequent loss engine power",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "fuel",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

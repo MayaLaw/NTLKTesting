@@ -1,0 +1,29 @@
+{
+    "Filename": "98101.txt",
+    "Location": "Wellington, Florida",
+    "Accident Number": "ERA18TA222",
+    "Date & Time": "August 17, 2018, 16:00 Local",
+    "Aircraft": "Globe GC1B",
+    "Registration": "N80932",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "airplane initial climb crosswind condition personal flight engine experienced partial loss power airline transport pilot reported airplane entered aerodynamic stall attempted lower nose airplane insufficient altitude airplane impacted ditch parallel runway resulted substantial damage fuselage wing examination airplane revealed engine 3 cylinder low compression 3 intake valve hardened carbon deposit buildup stem valve cleaned reinstalled engine compression returned normal range likely initial climb intake valve stuck intermittently due carbon deposit buildup resulted partial loss engine power airplane inability climb probable cause finding national transportation safety board determines probable cause accident partial loss engine power initial climb due sticking intake valve 3 cylinder",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "climb",
+                4
+            ]
+        ]
+    }
+}

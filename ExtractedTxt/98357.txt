@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+DeLeon Springs, Florida
+Accident Number:
+ERA18TA263
+Date & Time:
+September 23, 2018, 15:45 Local 
+Registration:
+N752VK
+Aircraft:
+Zenith CH 750
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot/owner of the experimental, amateur-built airplane reported that, about 15 minutes into 
+the local flight, the engine started "skipping" before completely losing power. He then set up for a forced 
+landing to an open area. During the descent, he maneuvered to clear power lines. The airplane touched 
+down at a steep descent angle, nosed over, and came to rest inverted, which resulted in substantial 
+damage to the airframe.
+The airplane's engine used an electronic control unit instead of magnetos and required at least one of the 
+airplane's two onboard batteries to provide electrical energy to the ignition system for the engine to 
+operate. Postaccident examination of the airplane revealed that both of its batteries were discharged. 
+After the batteries were charged, the engine was started and ran normally. The alternator also charged 
+the batteries normally. The cockpit instrument panel switch that enabled the alternator to supply energy 
+to the airplane's electrical system, and thus charge the airplane's batteries, was unlabeled. When the 
+switch was placed in the unlabeled on position, the alternator field wire received power and the 
+alternator charged normally. The pilot reported that he may have inadvertently left it in the off position 
+during the flight. With the switch in this position, the engine would have continued to run until the 
+selected battery lost its charge. The pilot also reported that he did not use a checklist when operating the 
+airplane. It is likely that the pilot failed to activate the airplane's alternator, which resulted in a discharge 
+of the selected battery during the 15-minute flight. The subsequent loss of electrical power eventually 
+resulted in the total loss of engine power.
+Additionally, the airplane was not equipped with an alternator warning light as recommended by the 
+engine manufacturer. Had the airplane been equipped with such a light, the pilot might have realized that 
+he had failed to turn the alternator on and that it was not providing energy to the electrical system to 
+sustain the charge of the selected battery.

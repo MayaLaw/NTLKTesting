@@ -1,0 +1,29 @@
+{
+    "Filename": "95408.txt",
+    "Location": "Homer, Alaska",
+    "Accident Number": "GAA17CA353",
+    "Date & Time": "June 6, 2017, 16:15 Local",
+    "Aircraft": "Cessna 207",
+    "Registration": "N207RB",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "5 None",
+    "Analysis": {
+        "Text": "pilot reported landing beach felt significant push right toward water concerned going water added initiated goaround nosewheel caught apparently broke propeller struck sand airplane slid tail kicked airplane came rest back airplane sustained substantial damage left wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot decision land unsuitable terrain resulted nosewheel breaking subsequent noseover",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

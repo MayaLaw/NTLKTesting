@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Louisa, Virginia
+Accident Number:
+ERA19FA036
+Date & Time:
+November 4, 2018, 14:15 Local 
+Registration:
+N38FD
+Aircraft:
+Titan TORNADO 1
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the experimental amateur-built airplane took off and made a left turn to travel north of the 
+airport. A witness at the airport reported that the airplane sounded louder than normal during departure. 
+About 1 minute 18 seconds after takeoff, the airplane climbed to an altitude of about 400 feet above 
+ground level at a groundspeed of 60 knots. During the next 22 seconds, the airplane descended about 
+300 ft and slowed to a groundspeed of 34 knots before impacting a field. The lack of a discernable 
+debris path, asymmetric damage to both wings, and the airplane's relatively low ground speed 
+immediately before the accident all suggest that the airplane likely departed controlled flight after 
+entering an aerodynamic stall and spin.
+Examination of the engine revealed no preimpact mechanical malfunctions that would have precluded 
+the engine from operating normally. The muffler had a hole measuring about 2 inches in diameter where 
+the muffler rear mount attached to the engine. Although the pilot had a headset, if the separation of the 
+muffler had occurred during the accident flight, the increased engine noise due to the hole in the muffler 
+could have distracted the him, and resulted in his subsequent loss of control and an aerodynamic 
+stall/spin.
+The pilot had longstanding hypertensive cardiomyopathy, which could have increased his risk of an 
+arrhythmia that could have caused palpitations, shortness of breath, anxiety, and/or fainting. However, 
+the pilot's medications may have mitigated that risk. Therefore, the investigation could not determine 
+from the available information whether the pilot's heart disease contributed to the circumstances of the 
+accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airspeed and the airplane's exceedance of its critical angle of 
+attack, which resulted in an aerodynamic stall and spin at a low altitude.

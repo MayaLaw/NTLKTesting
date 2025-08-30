@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Oregon, Wisconsin
+Accident Number:
+GAA18CA432
+Date & Time:
+July 19, 2018, 14:00 Local 
+Registration:
+N9267H
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot receiving instruction, during instrument training, she and the flight instructor 
+noted that the left brake was less effective than the right brake during landing. Following the training, 
+the pilot receiving instruction returned to her home airport, and during landing on the wet, grass runway, 
+she executed a go-around because there was insufficient runway to safely stop the airplane. During the 
+second landing, the airplane touched down with about two-thirds of the 2,600-ft-long runway remaining. 
+During the landing roll, the pilot receiving instruction ensured that the throttle was in the idle position, 
+and she retracted the flaps and applied aft pressure to the yoke. She applied the foot brakes and then the 
+hand brake and again noted that the left brake was less effective than the right brake, and the airplane 
+continued to slide on the wet grass. The airplane overran the runway and impacted a drainage culvert. 
+Subsequently, the right wing struck a barn, and the left wing struck a trailer.
+The airplane sustained substantial damage to both wing's spars and ribs.
+According to the Federal Aviation Administration aviation safety inspector who examined the airplane, 
+there was a pool of hydraulic fluid on the ground that appeared to be consistent with an O-ring failure or 
+displacement. He affirmed that, although degraded, the brake would still have been functional but would 
+have required more input by the pilot to build pressure within the brake line. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper decision to take off with a known brake malfunction, which resulted in a collision 
+with a barn during landing on a wet runway. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "98327.txt",
+    "Location": "Kingsport, Tennessee",
+    "Accident Number": "ERA18TA255",
+    "Date & Time": "September 19, 2018, 20:10 Local",
+    "Aircraft": "CALVIN NATE H VELOCITY STD RG",
+    "Registration": "N67WR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "private pilot reported low power visual approach land experimental amateur built airplane became low slow final approach increased power arrest descent engine respond airplane continued descend stalled impacted approach lighting system terrain coming rest 400 ft short runway threshold fuselage canard wing sustained substantial damage postaccident examination airplane reveal evidence preimpact mechanical malfunction failure would precluded normal operation weather condition time conducive formation serious carburetor icing glide power carburetor heat lever found position pilot reported use carburetor heat approach landing thus carburetor ice likely formed reduced power available stop descent approach light terrain probable cause finding national transportation safety board determines probable cause accident pilot failure use carburetor heat condition conducive serious carburetor icing glide power resulted partial loss power aerodynamic stall",
+        "Top Words": [
+            [
+                "power",
+                6
+            ],
+            [
+                "carburetor",
+                6
+            ],
+            [
+                "approach",
+                5
+            ]
+        ]
+    }
+}

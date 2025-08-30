@@ -1,0 +1,29 @@
+{
+    "Filename": "97711.txt",
+    "Location": "Lewiston, Illinois",
+    "Accident Number": "GAA18CA397",
+    "Date & Time": "July 4, 2018, 08:35 Local",
+    "Aircraft": "ROBERT MILES Smith Trike",
+    "Registration": "N11VW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported cruise flight wispy cloud biplane engine started run rough lost power 800 ft ground level restarted engine quit attempted restart engine multiple time unsuccessful selected gravel road landing landing airplane ground looped ditch biplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction biplane would precluded normal operation automated weather observation station located 25 nautical mile away accident site reported time accident wind 170 5 knot visibility 7 statute mile cloud broken 4800 ft ground level temperature 77f dew point 75f pilot stated apply carburetor heat accident flight atmospheric condition conducive serious icing glide power setting likely engine lost power due carburetor icing pilot failure apply carburetor heat probable cause finding national transportation safety board determines probable cause accident total loss engine power due pilot failure apply carburetor heat condition conducive carburetor icing subsequent failure maintain directional control forced landing",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "carburetor",
+                5
+            ]
+        ]
+    }
+}

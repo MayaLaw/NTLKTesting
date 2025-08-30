@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Mount Vernon, Ohio
+Accident Number:
+WPR18LA207
+Date & Time:
+July 28, 2018, 10:45 Local 
+Registration:
+N785SP
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fire/smoke (non-impact)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot reported that, several minutes after takeoff for the personal flight, he maneuvered the 
+airplane to enter the traffic pattern to practice touch-and-go landings. Shortly after, he noticed a fire near 
+the rudder pedals. He expedited his approach, and the fire continued to grow while he landed the 
+airplane. After landing, he safely egressed from the airplane; a few seconds later, the cockpit area was 
+engulfed in flames. The airplane was destroyed.
+Postaccident examination of the airplane revealed evidence of a fuel-fed fire that had emanated from the 
+rear, lower center portion of the engine. Extensive thermal damage was in the area where the mechanical 
+fuel pump is mounted to the oil cooler. The oil cooler's bottom hose connection was separated from the 
+oil cooler, and the fuel pump's bottom portion was missing. Due to the fire damage, the exact initiation 
+point and source of the fire could not be determined.
+There were no maintenance write-ups indicating a fuel leak or odors in the previous 20 flight hours.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An in-flight fuel-fed fire from an unknown source for reasons that could not be determined due to the 
+extensive fire damage to the airplane.

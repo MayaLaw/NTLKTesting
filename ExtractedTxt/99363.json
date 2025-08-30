@@ -1,0 +1,29 @@
+{
+    "Filename": "99363.txt",
+    "Location": "Prineville, Oregon",
+    "Accident Number": "WPR19LA130",
+    "Date & Time": "April 21, 2019, 18:45 Local",
+    "Aircraft": "Cessna 170",
+    "Registration": "N4567C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported normal preflight proceeded runway started takeoff roll airplane tail lifted ground airplane pulled toward left continued despite pilot adding right rudder reduced power idle attempted stop airplane however exited runway surface impacted tree substantially damaging wing pilot 82 hour make model 5 10 hour accident airplane powerful engine previous airplane postaccident examination revealed anomaly airplane would precluded normal operation wind report shortly accident indicate crosswind relation takeoff runway addition accident airplane powerful engine may responded differently takeoff pilot accustomed despite potential factor pilot ultimately maintain directional control takeoff probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff crosswind",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "takeoff",
+                5
+            ]
+        ]
+    }
+}

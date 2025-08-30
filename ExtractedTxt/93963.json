@@ -1,0 +1,29 @@
+{
+    "Filename": "93963.txt",
+    "Location": "Talkeetna, Alaska",
+    "Accident Number": "GAA16CA468",
+    "Date & Time": "September 3, 2016, 14:00 Local",
+    "Aircraft": "Maule M4",
+    "Registration": "N40661",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheel equipped airplane reported landing backcountry airstrip reported touchdown twothirds way runway landing roll wind shifted tailwind reported airplane ran runway impacted hill nosed airplane sustained substantial damage empennage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation according pilot wind variable 78 knot prior accident federal aviation administration published advisory circular ac 9179a ac discusses hazard associated runway overrun effect tailwind landing distance state part pilot must aware airspeed approach targeted reference landing airspeed vrefairspeed plus wind gust adjustment runway threshold excessive approach speed may result excessive speed runway threshold may result landing beyond intended touchdown point well higher speed pilot must bring airplane stop effect tailwind landing distance significant factor determining landing distance required given airplane land particular airspeed independent wind principal effect tailwind operational landing distance change ground speed airplane touch",
+        "Top Words": [
+            [
+                "landing",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99360.txt",
+    "Location": "Upland, California",
+    "Accident Number": "WPR19LA129",
+    "Date & Time": "May 1, 2019, 10:01 Local",
+    "Aircraft": "STORCH FL-156C",
+    "Registration": "N156LZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "shortly takeoff engine lost oil pressure subsequently lost total power pilot maneuvered airplane return airport airplane touched field came rest upright postaccident examination engine revealed evidence oil leak leak likely came 3 cylinder valve cover loose gap cylinder valve cover likely result improperly torqued allen screw improper torquing likely occurred pilot recent inspection crankcase throughbolts installation engine four valve cover eventually 3 allen screw became loose engine runup continued loosen taxi takeoff climb phase flight resulted loss engine oil subsequent total loss engine power due oil starvation probable cause finding national transportation safety board determines probable cause accident pilot improper installation 3 cylinder valve cover resulted oil leak oil starvation subsequent total loss engine power",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "oil",
+                6
+            ],
+            [
+                "valve",
+                4
+            ]
+        ]
+    }
+}

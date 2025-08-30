@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hayes Center, Nebraska
+Accident Number:
+GAA18CA495
+Date & Time:
+August 17, 2018, 09:40 Local 
+Registration:
+N4102N
+Aircraft:
+Cessna 140
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the tailwheel-equipped airplane reported that the airplane bounced during the wheel landing 
+on the narrow, private grass airstrip. He allowed a "slight drift" to continue without applying adequate 
+corrective rudder input, and the right wing collided with cornstalks that outlined the perimeter of the 
+airstrip. The right main landing gear failed, and the airplane came to rest on its right wing.
+The airplane sustained substantial damage to the right wing. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing.

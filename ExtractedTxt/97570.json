@@ -1,0 +1,29 @@
+{
+    "Filename": "97570.txt",
+    "Location": "Goose Bay, Alaska",
+    "Accident Number": "GAA18CA375",
+    "Date & Time": "June 25, 2018, 00:30 Local",
+    "Aircraft": "Taylorcraft F19",
+    "Registration": "N3570T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot floatequipped airplane reported flight dusk high gray overcast cloud circled lake began approach land added depth perception misjudged approach airplane struck tree airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located 6 mile northwest accident site reported 23 minute accident wind calm scattered cloud 4100 ft overcast cloud 6000 ft probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper approach path landing dusky flat light condition resulted tree strike",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Jean, Nevada
+Accident Number:
+WPR18FA253
+Date & Time:
+September 5, 2018, 21:45 Local 
+Registration:
+N6064C
+Aircraft:
+Commander 114
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on a personal cross-country flight in night visual meteorological conditions. While 
+approaching and maneuvering to land at the destination airport, the airplane made a right turn consistent 
+with a right base turn to the destination runway. As the airplane began the base-to-final turn, just before 
+entering a small cloud, it entered a steep, nosedown spin. Subsequently, the airplane impacted terrain 
+and a postimpact fire ensued. 
+The airplane damage and ground scars at the accident site were consistent with a near wings-level 
+attitude at the time of impact.
+Postaccident examination of the airplane and engine revealed no preimpact anomalies or malfunctions 
+that would have precluded normal operation. It is likely that, while maneuvering to avoid the cloud, the 
+pilot failed to maintain the proper airspeed, which resulted in the airplane entering an accelerated stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot failed to maintain adequate speed while maneuvering at a low attitude during night and entered 
+an aerodynamic stall and subsequent spin. 

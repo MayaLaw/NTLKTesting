@@ -1,0 +1,29 @@
+{
+    "Filename": "97432.txt",
+    "Location": "Daytona Beach, Florida",
+    "Accident Number": "ERA18LA164",
+    "Date & Time": "June 9, 2018, 15:00 Local",
+    "Aircraft": "Piper PA 44",
+    "Registration": "N21161",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "flight instructor stated private pilotreceiving instruction control informally checked weather departing crosscountry instructional flight obtain official weather briefing flight operating instrument approach instrument meteorological condition included thunderstorm frequent lightning lowlevel wind shear advisory effect destination airport tower controller destination airport issued flight local instrument clearance provided wind supplemental weather information included wind 310 14 knot gusting 20 knot lowlevel windshear advisory included wind 320 15 knot 15knot gain 1 mile end runway controller also advised pilot visibility probably 1 mile precipitation frequent lightning cloud ground approach airplane began encountering rain increased intensity airplane neared final approach fix faf shortly passing faf airplane 800 ft mean sea level controller issued lowaltitude alert flight instructor took control added full power attempted climb airplane however continued descending 90 knot throughout descent upon impact airplane impacted house came rest inverted retention pond flight instructor noted thunderstorm east destination airport flight began however anticipate potential impact flight inflight pilot failed identify frequent lightning lowlevel windshear advisory severe weather hazard continued approach area thunderstorm activity instead diverting alternate airport probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "flight",
+                8
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "weather",
+                4
+            ]
+        ]
+    }
+}

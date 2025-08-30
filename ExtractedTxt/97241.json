@@ -1,0 +1,29 @@
+{
+    "Filename": "97241.txt",
+    "Location": "Whittier, Alaska",
+    "Accident Number": "ANC18FA036",
+    "Date & Time": "May 12, 2018, 09:40 Local",
+    "Aircraft": "Piper PA-28-180",
+    "Registration": "N7061W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "student pilot departed solo crosscountry flight mountainous terrain airplane subsequently found side steep snowcovered mountain near wellknown charted mountain pas detailed radar data available airplane gps data include end flight therefore exact flight track could determined damage airplane debris field consistent highspeed impact deep snow relatively wingslevel attitude heading toward destination examination airframe engine associated system revealed evidence mechanical malfunction failure would precluded normal operation aviation weather camera image near time location accident indicated overcast layer cloud obscuring mountain top two pilot reported low ceiling obscured mountain area forecast weather product would available pilot flight indicated visual flight rule vfr condition departure airport marginal vfr condition mountain pas destination record pilot obtained weather briefing intended route flight pilot flight logbook current flight instructor located identified therefore whether pilot adequate training endorsed instructor complete solo flight could determined given reported documented weather condition area time accident likely pilot encountered chose continue restricted visibility condition navigated mountain pas resulted controlled flight terrain",
+        "Top Words": [
+            [
+                "flight",
+                10
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "mountain",
+                6
+            ]
+        ]
+    }
+}

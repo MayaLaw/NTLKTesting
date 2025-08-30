@@ -1,0 +1,37 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Smithville, Tennessee
+Accident Number:
+ERA19LA004
+Date & Time:
+October 3, 2018, 17:30 Local 
+Registration:
+N8371P
+Aircraft:
+Piper PA 24-180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that before departing on a local flight, he was delayed for about 10 minutes on 
+the ground waiting for other traffic before he could back-taxi to the run-up area before takeoff. He 
+completed the engine run-up and takeoff roll with no anomalies noted. After takeoff, when the airplane 
+was about 300 ft above the runway, the engine experienced a total loss of power and the propeller 
+windmilled. The pilot lowered the landing gear and touched down on the remaining runway. The 
+airplane overran the departure end, traveled down an embankment, and came to rest upright in low 
+brush. Postaccident examination of the engine revealed no evidence of preimpact mechanical 
+malfunctions or failures that would have precluded normal operation. The weather conditions at the time 
+of the accident were conducive to the formation of serious carburetor icing at glide (idle) power settings. 
+Thus, it is likely that during the ground delay, a period during which the engine would typically be 
+operating at low power, carburetor ice formed, which resulted in a total loss of engine power during the 
+initial climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power during initial climb due to carburetor ice that formed during an extended 
+ground delay.

@@ -1,0 +1,29 @@
+{
+    "Filename": "94077.txt",
+    "Location": "Dalton, Ohio",
+    "Accident Number": "GAA16CA507",
+    "Date & Time": "September 3, 2016, 14:15 Local",
+    "Aircraft": "STROPKI PAUL OUTBACK",
+    "Registration": "N56P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheel equipped airplane stated landing airplane want settle runway due gusting wind stated upon touchdown airplane ground looped left airplane sustained substantial damage fuselage right wing right wing lift strut pilot reported pre impact mechanical failure malfunction airframe engine would precluded normal operation review local weather automated weather observation station located 10 mile northwest showed 15 minute accident wind variable 6 knot visibility 10 statute mile cloud 4700 foot ground level however pilot reported wind accident site 170 degree true 8 knot gust 20 knot landing runway 18 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control airplane landing gusting wind condition resulted ground loop",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "wind",
+                4
+            ]
+        ]
+    }
+}

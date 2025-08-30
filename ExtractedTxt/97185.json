@@ -1,0 +1,29 @@
+{
+    "Filename": "97185.txt",
+    "Location": "Chandler, Arizona",
+    "Accident Number": "GAA18CA256",
+    "Date & Time": "May 5, 2018, 11:05 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N76SC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported final approach airplane required 10 crab right maintain alignment runway landing flare reduced power idle slowly applied rudder align fuselage runway centerline added right aileron counter crosswind added threepoint landing airplane bounced landing roll full right aileron countering wind perceived gust lifted right wing held full right aileron full aft yoke used rudder maintain alignment subsequently 40 knot groundspeed left main landing gear collapsed left wing impacted runway airplane sustained substantial damage left wing aileron pilot reported left main landing gear detached airplane automated weather observation system located accident airport reported 20 minute accident wind 110 8 knot gusting 19 knot observation system reported 10 minute accident wind 150 13 knot gusting 21 knot pilot landed runway 4r probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting tailwind condition",
+        "Top Words": [
+            [
+                "landing",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "right",
+                5
+            ]
+        ]
+    }
+}

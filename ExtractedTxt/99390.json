@@ -1,0 +1,29 @@
+{
+    "Filename": "99390.txt",
+    "Location": "New Bern, North Carolina",
+    "Accident Number": "ERA19TA166",
+    "Date & Time": "April 30, 2019, 19:25 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N733UF",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "student pilot first solo flight airplane veered left touchdown runway attempted correct right rudder left aileron however airplane traveled grass left side runway struck ditch coming rest upright airplane sustained damage right horizontal stabilizer engine mount firewall student reported preimpact mechanical malfunction airplane probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control landing resulted runway excursion finding personnel issue aircraft control studentinstructed pilot aircraft directional control attainedmaintained",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

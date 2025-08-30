@@ -1,0 +1,29 @@
+{
+    "Filename": "98336.txt",
+    "Location": "Phoenix, Arizona",
+    "Accident Number": "DCA18CA289",
+    "Date & Time": "September 10, 2018, 21:00 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N950NN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Aircraft wake turb encounter",
+    "Injuries": "1 Serious, 2 None",
+    "Analysis": {
+        "Text": "september 10 2018 900 pm mountain standard time mst american airline flight 2197 boeing 737800 n950nn encountered wake turbulence descending 3100 foot approach phoenix sky harbor international airport kphx phoenix arizona flight attendant securing item galley seriously injured result turbulence injury passenger crew airplane damaged flight operating 14 cfr part 121 regularly scheduled passenger flight seattletacoma international airport ksea seattle washington kphx according flight crew seat belt sign prepare landing announcement made flight attendant airplane approximately three mile behind narrow body airbus landing configuration turbulence occurred landing flight crew notified one flight attendant injured paramedic met flight gate flight attendant transported hospital diagnosed broken left rib probable cause finding national transportation safety board determines probable cause accident inadvertent encounter wake turbulence",
+        "Top Words": [
+            [
+                "flight",
+                10
+            ],
+            [
+                "turbulence",
+                4
+            ],
+            [
+                "attendant",
+                4
+            ]
+        ]
+    }
+}

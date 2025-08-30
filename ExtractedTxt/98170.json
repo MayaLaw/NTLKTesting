@@ -1,0 +1,29 @@
+{
+    "Filename": "98170.txt",
+    "Location": "Eldorado, Texas",
+    "Accident Number": "GAA18CA514",
+    "Date & Time": "August 26, 2018, 19:00 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N1701Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported departed 26 gallon fuel added 35 hour flight asked flight following closest airport become concerned near fuel limit exchange engine lost power declared emergency rocked wing applied fullrich mixture restarted engine worked 15 second less conducted emergency landing near end road airplane bounced veered left impacted pipe nose landing gear collapsed airplane sustained substantial damage engine mount pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning resulted total loss engine power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                4
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

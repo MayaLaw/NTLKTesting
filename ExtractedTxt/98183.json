@@ -1,0 +1,29 @@
+{
+    "Filename": "98183.txt",
+    "Location": "Ocklawaha, Florida",
+    "Accident Number": "GAA18CA517",
+    "Date & Time": "August 25, 2018, 15:00 Local",
+    "Aircraft": "Champion 7GCBC",
+    "Registration": "N7618S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing wind gust right caused airplane weathervane airplane veered right runway ground looped right left wing elevator impacted ground airplane sustained substantial damage left wing left elevator pilot added experienced pilot inexperienced tailwheel operation pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "right",
+                3
+            ]
+        ]
+    }
+}

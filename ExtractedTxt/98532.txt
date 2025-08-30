@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Agoura Hills, California
+Accident Number:
+WPR19LA014
+Date & Time:
+October 23, 2018, 13:44 Local 
+Registration:
+N7969C
+Aircraft:
+North American SNJ
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, shortly after departure, he heard two loud bangs followed by total loss of engine 
+power. The pilot performed a forced landing to a highway, during which the airplane swerved to the left, 
+the left wing impacted a concrete center divider, and a postimpact fire ensued. 
+Initial examination of the engine found that the No. 2 cylinder was cracked, and the No. 1 cylinder and 
+the base between the Nos. 4 and 5 cylinders displayed damage.  Disassembly of the engine revealed the 
+piston-end master rod piece from the No. 5 cylinder fractured through the I-beam shaft.  Microscopic 
+examination of the fracture surface showed evidence of fatigue. The initiation point of the fatigue 
+fracture was damaged due to mechanical contact during the failure sequence.
+The accident is consistent with a total loss of engine power following the failure of the No. 5 master rod 
+end. The initiating point and cause of the fatigue failure could not be identified based on the available 
+evidence.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the No. 5 piston rod end due to fatigue, which resulted in a total loss of engine power.

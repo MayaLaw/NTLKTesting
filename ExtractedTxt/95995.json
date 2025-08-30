@@ -1,0 +1,29 @@
+{
+    "Filename": "95995.txt",
+    "Location": "South Bend, Indiana",
+    "Accident Number": "CEN17LA348",
+    "Date & Time": "September 12, 2017, 13:35 Local",
+    "Aircraft": "Beech N35",
+    "Registration": "N9368Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "commercial pilot reported airplane nearing destination conclusion long crosscountry flight engine experienced total loss power pilot declared emergency conducted forced landing highway forced landing airplane struck elevated island car substantially damaged postaccident examination airplane revealed bluecolored fuel stain streaking right wing fuel filler aft trailing edge right wing flap right fuel tank contained 1 cup fuel left fuel tank 10 gallon fuel fuel cap seat unremarkable examination engine remaining system revealed anomaly likely right fuel cap seated properly takeoff resulted siphoning fuel flight subsequent total loss engine power due fuel starvation probable cause finding national transportation safety board determines probable cause accident improperly seated fuel cap resulted inflight fuel leak subsequent total loss engine power due fuel starvation",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

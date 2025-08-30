@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Prairieville, Louisiana
+Accident Number:
+CEN19LA132
+Date & Time:
+April 3, 2019, 10:00 Local 
+Registration:
+N41AT
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Minor
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting the airplane's first flight following an annual inspection. About 5 minutes after 
+takeoff, the engine started to run rough and seized. The pilot performed a forced landing, during which 
+he sustained serious injuries. Postaccident examination revealed that the engine oil drain valve was 
+damaged when the nose landing gear contacted the valve during gear retraction after takeoff. This 
+resulted in a loss of engine oil and subsequent engine failure due to oil starvation. Further examination 
+revealed that the installed drain valve did not meet manufacturer specifications; the installed valve 
+protruded about 1-1/8 inches from the engine, while the manufacturer-specified valve protruded about 
+1/2 inch. A review of the airplane maintenance records revealed that the valve was replaced during the 
+annual inspection because it had been leaking.
+The airframe manufacturer had previously issued a service bulletin regarding installation of an incorrect 
+engine oil drain valve. The Federal Aviation Administration subsequently issued an Airworthiness 
+Directive requiring the replacement of any incorrectly installed valves and placement of a warning 
+placard on the engine mount. The airplane maintenance manual also included a cautionary note 
+regarding the engine oil drain valve and noted the requirement for a warning placard. A warning placard 
+was not present on the accident airplane.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Installation of an incorrect engine oil drain valve, which resulted in damage to the valve during 

@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Delaware, Ohio
+Accident Number:
+GAA16CA529
+Date & Time:
+September 2, 2016, 09:30 Local 
+Registration:
+N904LA
+Aircraft:
+EVEKTOR-AEROTECHNIK AS 
+SPORTSTAR
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot reported that during his first supervised solo landing that was conducted in light and 
+variable crosswind conditions, he initiated a go around because, the wind had pushed him off course, 
+and he was no longer in a good position to land. He further reported that during his second approach 
+"everything looked good", but that immediately after the wheels touched down, the airplane veered to 
+the left. He tried to compensate but "very quickly lost control". Subsequently, the airplane exited the 
+runway to the left, the nose gear collapsed, and the right wing struck the ground.
+A post-accident examination revealed substantial damage to the right wing rear spar.
+The student pilot reported that there were no preimpact mechanical failures or malfunctions with the 
+airframe or engine that would have precluded normal operation.
+A review of local weather at the time of the accident showed the wind 070 degrees true at 6 nautical 
+miles per hour, and not gusting. The student pilot landed on runway 28.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's inadequate compensation for the quartering tailwind on landing, which resulted in a 
+loss of directional control.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98369.txt",
+    "Location": "Silver City, Idaho",
+    "Accident Number": "WPR18FA276",
+    "Date & Time": "September 30, 2018, 08:37 Local",
+    "Aircraft": "Cessna T210",
+    "Registration": "N732MV",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "pilot two passenger departed local area flight mountainous terrain nearby airport review primary target consistent airplane flight track initially 3 minute period airplane flying 3200 3400 ft mean sea level msl average speed 131 knot calibrated airspeed kcas radar data lost next 4 minute due mountainous terrain radar return picked next 4 minute flight track showed airplane continuing southerly track climbing 4700 6500 ft msl last three radar return showed last 36 second flight airplane altitude ground decreased terrain rose airplane 150 ft ground level last radar return airspeed decreased less 70 kcas end data wreckage located near bottom valley 1950 ft west 155 nm east wreckage postaccident examination airplane engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation using approximate condition existed time accident including estimated airplane gross weight 3900 lb 100 lb airplane maximum allowable gross weight flap 10 airplane stall speed estimated 68 kcas ground scar accident site indicated left wing impacted terrain first wreckage lay along heading 345 indicating pilot likely turning airplane accident sequence given evidence airplane losing speed climbed rising terrain near accident site approaching stall speed end radar data likely pilot maintain adequate airspeed making left turn mountainous terrain gusting wind lowlevel wind shear condition could also contribute airplane exceeding critical angle attack resulted aerodynamic stall left wing low although pilot type 2 diabetes accident circumstance consistent incapacitation therefore unlikely pilot diabetes contributed accident toxicology testing indicated pilot taken buprenorphine cause somnolence impaired decisionmaking",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "terrain",
+                6
+            ]
+        ]
+    }
+}

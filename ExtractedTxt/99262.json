@@ -1,0 +1,29 @@
+{
+    "Filename": "99262.txt",
+    "Location": "Marysville, Ohio",
+    "Accident Number": "GAA19CA204",
+    "Date & Time": "April 11, 2019, 15:30 Local",
+    "Aircraft": "Cessna R182",
+    "Registration": "N2238T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing roll wind caused airplane left wing rise airplane veered right attempted correct aileron rudder pedal airplane exited runway right added nose landing gear tire went grass airplane came rest inverted airplane sustained substantial damage wing vertical stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 5 minute accident wind 220 15 knot gusting 22 knot pilot landed airplane runway 27 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll gusting crosswind condition resulted runway excursion noseover",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

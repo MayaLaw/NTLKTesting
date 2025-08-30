@@ -1,0 +1,45 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Cascade, Idaho
+Accident Number:
+WPR18FA141
+Date & Time:
+May 13, 2018, 12:30 Local 
+Registration:
+N2377R
+Aircraft:
+Cessna 182G
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot had planned to fly his airplane to his newly purchased hangar at the destination airport. 
+On the morning of the accident, the pilot monitored weather conditions along his proposed route of 
+flight through internet applications and highway traffic cameras. The pilot told a friend that the ceilings 
+at the destination airport were about 700 ft and rising and that the traffic cameras showed marginal 
+weather conditions. The pilot also told his friend that he would wait to depart until early to mid-
+afternoon as long as the weather conditions improved. The investigation could not determine, with the 
+available evidence, whether the pilot was aware of the published AIRMETs for mountain obscuration 
+and icing along his route of flight during the time surrounding the accident. 
+When the pilot departed, the weather at the destination airport was consistent with visual meteorological 
+conditions. However, another pilot flying a similar route as the accident pilot (but in the opposite 
+direction) experienced low ceilings near the accident site shortly before the accident, so that pilot 
+reversed course and landed safely. Radar data associated with the accident airplane and the debris path 
+signatures indicated that the accident pilot likely encountered similar weather conditions and started to 
+reverse course when the airplane impacted tree tops and then the ground. The orientation and length of 
+the wreckage path were consistent with controlled flight into terrain. Postaccident examination of the 
+airframe and engine revealed no evidence of any preimpact mechanical malfunctions or failures. 
+The pilot did not hold an instrument rating. He may have been aware of the AIRMETs for mountain 
+obscuration and icing along his route of flight as he had been monitoring highway traffic cameras for 
+any improvement in the weather conditions. Nevertheless, his poor decision to attempt the flight was 
+likely influenced by his long-anticipated desire to finish moving into his new hangar at his destination 
+airport. The pilot's route of flight was along a highway about 4,800 ft mean sea level located in a valley 
+bordered by 5,500 foot tall mountains to his left and 6,500 foot tall mountains on his right and an 
+overcast cloud layer at 1,100 ft above ground level. Radar data showed an airplane in a turn from a 
+northern heading to a southern heading was likely from the accident airplane as it terminated near the 

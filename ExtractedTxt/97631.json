@@ -1,0 +1,29 @@
+{
+    "Filename": "97631.txt",
+    "Location": "Jacksonville, Florida",
+    "Accident Number": "WPR18LA183",
+    "Date & Time": "June 23, 2018, 14:40 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N5682B",
+    "Flight Conducted Under": "Part 91: General aviation - Skydiving",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot reported conducting skydiving support flight day accident first flight airplane 23 gallon fuel onboard flew airplane 40 hour added 18 gallon fuel airplane flew three local flight made second fuel stop added 14 gallon fuel airplane pilot conduct fuel consumption check estimate engine fuel consumption rate check total fuel quantity tank first second refueling making two local flight final approach airport engine lost total power pilot conducted forced landing residential area right elevator right wing sustained substantial damage accident fuel found wing tank however airplane come rest right side rightwing tank breached leftwing tank position allow drainage likely allowed remaining fuel leak ground original carburetor engine replaced fuelinjected engine wing extension added airplane performance chart airplane account change therefore amount fuel onboard airplane engine lost power could determined engine testrun started ran successfully reason loss engine power could determined based available evidence probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined due insufficient evidence",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "engine",
+                8
+            ]
+        ]
+    }
+}

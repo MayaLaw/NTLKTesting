@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Simsbury, Connecticut
+Accident Number:
+ERA19LA030
+Date & Time:
+October 28, 2018, 16:45 Local 
+Registration:
+N8132X
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Part(s) separation from AC
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was practicing approaches and touch-and-go landings. The pilot 
+reported that, during taxi for takeoff, the wheel brakes were "sluggish"; when he was 
+attempting a full-stop landing at the destination airport, the brakes "failed." The pilot steered 
+the airplane off the runway to avoid a fence and collided with a ditch, which resulted in 
+substantial damage to the left wing. A postaccident examination of the airplane revealed that 
+the left main landing gear separated from the airplane during the ground collision, and there 
+was evidence of pre-existing hydraulic fluid leakage where the fluid line fitting connected to the 
+wheel brake assembly. Additionally, the right main landing gear wheel brake assembly was not 
+attached to the trunnion by the required AN bolts, and the hydraulic fluid line fitting was not 
+attached to the brake assembly. According to the maintenance logbooks, a 100-hour 
+inspection was completed 18 days before the accident. The logbook entry noted servicing of 
+all tires, wheels, brakes, and brake fluid. Given that the right main landing gear hydraulic fluid 
+line was detached from its respective brake assembly, it is likely that maintenance personnel 
+did not adequately inspect the wheel brake system, and the right brake failed due to a loss of 
+hydraulic fluid.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Maintenance personnel's inadequate inspection of the wheel brake system during the 
+airplane's most recent 100-hour inspection, which resulted in a loss of hydraulic fluid and the 
+pilot's inability to control the airplane during the landing.

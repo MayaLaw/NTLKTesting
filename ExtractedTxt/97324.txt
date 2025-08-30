@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Killeen, Texas
+Accident Number:
+GAA18CA300
+Date & Time:
+May 17, 2018, 11:00 Local 
+Registration:
+N7750F
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot reported that, during a max performance takeoff, he set the flaps to 10° and accelerated to 60 
+mph. He pulled back and pitched the airplane for Vx (best angle climb), 52 mph, to simulate an obstacle, 
+and then pitched for Vy (best rate climb), 72 mph, where he observed that the airplane was descending. 
+He pitched back to gain altitude but immediately heard the stall warning horn and felt a lack of 
+responsiveness in the flight controls. He leveled the airplane to touch down on the remaining runway, 
+but the right wing and right horizontal stabilizer impacted the runway.
+The airplane sustained substantial damage to the right wing and right horizontal stabilizer.
+The pilot reported that the cause of the accident was that the published Vx airspeed was below the stall 
+speed.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation but that it was possible that the engine was not performing 
+at optimal performance.
+The airplane owner's manual checklist titled "Maximum Performance Take-Off" stated: 
+1. Wing Flaps – Up.
+2. Carburetor Heat – Cold.
+3. Brakes – Hold.
+4. Throttle – Full "OPEN."
+5. Brakes – Release.

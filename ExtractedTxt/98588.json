@@ -1,0 +1,29 @@
+{
+    "Filename": "98588.txt",
+    "Location": "Broomfield, Colorado",
+    "Accident Number": "CEN19FA022",
+    "Date & Time": "November 2, 2018, 11:51 Local",
+    "Aircraft": "MUSTANG II",
+    "Registration": "N287BM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot passenger returning local flight according gps data airplane overflew airport entered midfield left downwind leg landing runway turning base leg multiple witness observed airplane fly high speed low altitude banked sharply descended toward ground impacted terrain damage airplane consistent airplane impacting ground noselow wing level attitude postaccident examination airframe engine revealed mechanical anomaly would precluded normal operation two airmets valid accident location time warned moderate turbulence lowlevel wind shear condition various weather product including computer model simulation satellite image depicted condition consistent moderatetosevere turbulence conducive mountain wave activity near airport addition multiple pilot report area indicated moderatetosevere turbulence observed wind speed airport directly accident time weaker encountered accident flight due inversion likely staying place longer airport weather simulation indicated accident airplane area downdraft magnitude 200 1000 fpm updraft magnitude 300 1500 fpm airplane area horizontal wind magnitude 20 30 knot evidence indicated pilot obtained weather briefing intended route flight however even pilot obtained weather briefing weather product time accident would specifically mentioned potential mountain wave activity accident flight likely encountered mountain wave rotor condition final approach airport wind gusting 30 50 knot updraft downdraft magnitude 500 1500 ft per minute pilot likely able maintain airplane control due",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "accident",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

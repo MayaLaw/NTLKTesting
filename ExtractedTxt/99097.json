@@ -1,0 +1,29 @@
+{
+    "Filename": "99097.txt",
+    "Location": "Chamblee, Georgia",
+    "Accident Number": "ERA19TA122",
+    "Date & Time": "March 9, 2019, 15:47 Local",
+    "Aircraft": "Gulfstream GIV",
+    "Registration": "N505GF",
+    "Flight Conducted Under": "Part 91: General aviation - Executive/Corporate",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "14 None",
+    "Analysis": {
+        "Text": "flight crew preparing land crosscountry corporate flight 12 passenger pilot reported approach normal landing flare felt unusually hard impact landing roll taxi runway uneventful examination airplane revealed substantial damage fuselage photograph revealed two tire track grass 18 ft runway threshold loose dirt grass around threshold consistent airplane main landing gear touching grass subsequently impacting threshold pilot flying reported first landing runway destination airport flight crew report preimpact mechanical malfunction failure airplane likely flight crew failed maintain proper glidepath approach probable cause finding national transportation safety board determines probable cause accident flight crew incorrect glidepath flare landing resulted landing area undershoot main landing gear collision runway threshold",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "flight",
+                5
+            ],
+            [
+                "crew",
+                4
+            ]
+        ]
+    }
+}

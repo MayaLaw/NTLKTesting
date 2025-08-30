@@ -1,0 +1,29 @@
+{
+    "Filename": "97759.txt",
+    "Location": "Hudson, New York",
+    "Accident Number": "GAA18CA420",
+    "Date & Time": "June 29, 2018, 21:45 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N615EM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Wildlife encounter (non-bird)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot following night visual flight rule crosscountry flight overflew destination airport 1500 ft ground level set normal approach touchdown saw deer walk onto runway right collide left main landing gear separated airplane airplane settled left wing struck runway airplane veered left airplane exited left side runway collided drainage culvert airplane sustained substantial damage left wing spar left main landing gear attachment point airport facility directory contain note caution deer vicinity airport pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident collision deer landing",
+        "Top Words": [
+            [
+                "left",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "airport",
+                3
+            ]
+        ]
+    }
+}

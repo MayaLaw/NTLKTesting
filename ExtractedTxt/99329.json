@@ -1,0 +1,29 @@
+{
+    "Filename": "99329.txt",
+    "Location": "Sulphur Spring, Texas",
+    "Accident Number": "CEN19LA129",
+    "Date & Time": "April 27, 2019, 09:45 Local",
+    "Aircraft": "Piper PA 23",
+    "Registration": "N233P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel contamination",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot twinengine airplane cruise flight left engine lost partial power turned boost pump checked fuel quantity engine gauge verified fuel tank selection added throttle however left engine continued lose power pilot reported without warning right engine lost total power would restart right propeller went feathered position pilot initiated forced landing field descent left engine lost total power propeller continued rotate left engine unresponsive throttle input forced landing airplane sustained substantial damage left right wing fuselage examination right engine found magneto timing 125\u00ba data plate specifies 25\u00ba otherwise preimpact abnormality noted right engine examination would precluded normal operation investigation able determine right propeller stopped feathered position examination left engine found magneto timing 23\u00ba bolt secured upper lower half carburetor found loose carburetor opened inside bowl dry gasket appeared worn consistent rubbing two carburetor half top set spark plug displayed heavy carbon coating consistent left engine running rich fuel setting test run left engine would produce rated power ran rich mixture leaned left engine ran smooth ran normally carburetor bench tested operated expected carburetor disassembled evidence water staining present fuel sample collected left side fuel tank appeared divided top part blue consistent 100 avgas lower portion liquid clear brown sediment visible intersection two liquid fuel strainer bowl revealed rust colored liquid sediment bowl fuel strainer screen contained numerous small flake unidentified contaminant sample fuel drained leftwing tank tested positive water tested waterfinding paste loss power left engine likely due water contamination",
+        "Top Words": [
+            [
+                "engine",
+                13
+            ],
+            [
+                "left",
+                11
+            ],
+            [
+                "fuel",
+                8
+            ]
+        ]
+    }
+}

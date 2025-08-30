@@ -1,0 +1,29 @@
+{
+    "Filename": "98649.txt",
+    "Location": "Niceville, Florida",
+    "Accident Number": "ERA19FA048",
+    "Date & Time": "November 17, 2018, 12:37 Local",
+    "Aircraft": "Vans RV-12",
+    "Registration": "N232VA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "owner airplane flight instructor completed 100hour inspection light sport airplane another flight instructor departed airplane instructional flight instructor reported takeoff engine producing full power experienced momentary loss power returned airport landed uneventfully owner examined airplane concluded loss power likely due vapor lock left engine cowl open cool engine 2 hour later ownerflight instructor departed student accident flight student stated takeoff engine sputtered flight instructor took control recollection accident altimeter indicated 240 ft recorded data revealed airplane experienced significant reduction engine rpm unknown reason 35 second takeoff throttle reduced airplane reached maximum altitude 250 ft airspeed 44 knot vertical acceleration began oscillate airplane banking left reached 68 left wing bank angle began descend rapidly throttle advanced engine speed increased however shortly thereafter airplane impacted ground examination airframe engine reveal preimpact anomaly airplane flight track recorded data consistent entering stall left turn back toward airport probable cause finding national transportation safety board determines probable cause accident partial loss engine power initial climb undetermined reason pilot failure maintain airspeed turn back runway resulted exceedance airplane critical angle attack subsequent aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "flight",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Kaktovik, Alaska
+Accident Number:
+ANC18LA066
+Date & Time:
+August 21, 2018, 18:30 Local 
+Registration:
+N8041R
+Aircraft:
+Cessna A185F
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was maneuvering to land at a riverside gravel beach when the engine experienced a 
+loss of power at low altitude. The pilot stated that the engine surged and he was not sure if it 
+was a partial loss of power. He attempted to restore power by advancing the throttle, mixture 
+and propeller controls; however, power was not restored. The pilot continued straight ahead 
+and turned on the auxiliary fuel boost pump, and engine power was restored as the airplane 
+impacted brush-covered terrain, resulting in substantial damage. 
+The wreckage recovery crew observed almost no fuel in one tank and very little in the other. 
+The pilot stated that fuel leaked out of the low wing fuel vent after the accident and he provided 
+photographic evidence. The precise quantity of usable fuel at the time of the accident could not 
+be determined. Given full fuel tanks at the time of departure and an average fuel flow of 13 
+gallons per hour, the fuel remaining about the time of the accident should have been about 17 
+gallons distributed between the two wing tanks, of which 6 gallons was considered unusable. A 
+review of GPS data revealed that the engine experienced the power loss after the pilot 
+performed a steep turn to survey the landing site.
+Postaccident examination of the airplane revealed no mechanical malfunctions or failures that 
+would have precluded normal operation. Fuel was present in the fuel system components 
+leading to the engine and the engine operated normally during a test run. 
+It is likely that, during the steep turn with the airplane's low fuel state, a wing fuel tank pickup 
+was unported, which resulted in an interruption of fuel supply to the engine and a loss of 
+engine power. Due to the airplane's low altitude, the pilot was unable to restore power before 
+impact with terrain.  

@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Warthen, Georgia
+Accident Number:
+ERA18TA250
+Date & Time:
+September 14, 2018, 10:20 Local 
+Registration:
+N9218L
+Aircraft:
+American Aviation AA1
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that, on the day of the accident, he filled each tank of the newly 
+purchased airplane with 12.5 gallons of fuel. On his first flight, after about 20 minutes of flying, he 
+noticed he was running out of fuel. The pilot thought the fuel burn was very high and decided to land at 
+the nearest airport; he added about 24 gallons of fuel. After departure and about 30 minutes of flying, he 
+again noticed that the airplane was running out of fuel. He planned to land at the nearest airport; 
+however, about 15 miles away from the airport, the engine lost total power. The pilot switched fuel tanks 
+and turned on the electric boost pump, and the engine restarted. A few minutes later, the engine lost total 
+power again. The pilot noticed both fuel tanks were out of fuel. During a forced landing in a field, the 
+airframe was substantially damaged. 
+Postaccident examination of the engine revealed that the carburetor float bowl plug was missing, which 
+allowed fuel to leak out of the carburetor. Thus, the airplane's fuel consumption during the flight would 
+have increased substantially and likely resulted in exhaustion of the airplane's available fuel supply at a 
+greater-than-normal rate. Although the pilot reported that the airplane was recently inspected before he 
+purchased it, no maintenance records were available for review, so the scope of work done to, or 
+inspections of, the carburetor could not be determined. Further, the pilot's decision to depart on the 
+accident flight leg after noting excessive fuel consumption on the previous leg contributed to the 
+accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

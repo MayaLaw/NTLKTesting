@@ -1,0 +1,29 @@
+{
+    "Filename": "98009.txt",
+    "Location": "Greeley, Colorado",
+    "Accident Number": "GAA18CA473",
+    "Date & Time": "August 4, 2018, 11:30 Local",
+    "Aircraft": "Vans RV6",
+    "Registration": "N56LK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "pilot reported approach airplane encountered usual amount sink added power applied much back stick airplane aerodynamically stalled landed hard came rest 1500 ft runway airplane sustained substantial damage right wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack approach resulted aerodynamic stall finding personnel issue aircraft control pilot aircraft angle attack capability exceeded",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

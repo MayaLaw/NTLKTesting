@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Pine Spring, Texas
+Accident Number:
+GAA18CA347
+Date & Time:
+May 1, 2018, 21:48 Local 
+Registration:
+N9494J
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while en route in mountainous terrain at night at 6,500 ft, he encountered 
+turbulence and downdrafts, during which time, he "felt a couple of impacts on the left side." He 
+continued to the destination airport, where he noticed the ELT was transmitting over the radio. During 
+the landing, the left main landing gear collapsed. The pilot reported that he initially thought the airplane 
+had struck a bird, but postaccident examination revealed that the left wing had impacted a tree. 
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate altitude while flying over mountainous terrain in turbulent wind 
+conditions at night, which resulted in a tree strike.

@@ -1,0 +1,40 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Hurricane, Utah
+Accident Number:
+WPR19LA010
+Date & Time:
+October 21, 2018, 12:00 Local 
+Registration:
+N413LL
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+2 Serious, 3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Shortly after takeoff, the pilot smelled smoke. As he began to turn the airplane back to the airport, the 
+engine lost total power. He conducted a forced landing in a field just short of the airport, during which 
+the airplane struck a metal fence and pipe. All occupants egressed, and the pilot then noticed that a fire 
+had erupted under the airplane's engine cowling. 
+Postaccident examination revealed that the airplane sustained fire damage to the roof and forward end of 
+the baggage compartment along with the engine accessory area between the firewall and aft air baffles. 
+Further examination revealed that one of the engine exhaust crossover pipe assemblies was misaligned 
+at the slip joint.
+An engine manufacturer service bulletin (SB) called for inspections of the exhaust system slip and 
+flange joints to identify misaligned exhaust components. The last maintenance event occurred about 7 
+1/2 flight hours before the accident, during which the SB was performed and resulted in the replacement 
+of crossover pipes. The mechanic who had performed the most recent maintenance did not follow the 
+correct procedures for reinstallation of the crossover pipe, and the inspector who reviewed his work did 
+not examine the installation as it progressed but instead inspected the pipes after they were installed and 
+essentially hidden from view by their protective heat shield. As a result of the misaligned engine exhaust 
+crossover pipe, hot exhaust gases escaped into the engine compartment and started a fire, which 
+compromised critical engine fuel and oil lines, and resulted in the loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "99330.txt",
+    "Location": "Elberton, Georgia",
+    "Accident Number": "ERA19LA158",
+    "Date & Time": "April 25, 2019, 13:58 Local",
+    "Aircraft": "Acro SUPER ACRO SPORT I",
+    "Registration": "N20FB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot purchased airplane accident flight first flight previous owner explained pilot main fuel tank full fuel auxiliary tank contained fuel pilot acknowledged fuel state airplane told seller would need auxiliary fuel following aborted takeoff attempt pilot departed home airport pilot advised first responder flight fuel quit working tried prime backup fuel work remedy problem prepared airplane forced landing subsequently impacted tree airplane substantially damaged forced landing pilot seriously injured federal aviation administration inspector examined airplane accident site found small amount fuel remained main fuel tank accident estimated fuel endurance airplane based fuel reported onboard time pilot departed estimated fuel consumption reported previous owner 21 hour time elapsed airplane departed accident 23 hour given information likely pilot exhausted airplane available fuel supply resulting total loss engine power subsequent forced landing probable cause finding national transportation safety board determines probable cause accident pilot inadequate fuel planning resulted total loss engine power due fuel",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

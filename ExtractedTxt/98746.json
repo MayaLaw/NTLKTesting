@@ -1,0 +1,29 @@
+{
+    "Filename": "98746.txt",
+    "Location": "Paramus, New Jersey",
+    "Accident Number": "ERA19LA062",
+    "Date & Time": "December 9, 2018, 12:15 Local",
+    "Aircraft": "Mooney M20K",
+    "Registration": "N5756W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor, 2 None",
+    "Analysis": {
+        "Text": "cruise flight pilot noticed increase cylinder head temperature two cylinder unsuccessfully attempted reduce temperature reported soon heard explosion noted hole engine cowling performed forced landing golf course landing gear collapsed resulted substantial damage right wing postaccident examination engine revealed no 1 2 connecting rod exhibited thermal discoloration consistent loss lubrication additionally breakaway torque measured 8 12 throughbolts showed manufacturer specification 2 main bearing saddle exhibited impingement damage 2 bearing partially rotated clockwise blocked oil passage leading connecting rod bearing mating surface main bearing saddle remnant silk thread around throughbolt hole contrary manufacturer guidance prohibited placing silk thread area given information likely maintenance personnel applied silk thread prohibited area engine overhaul occurred 2558 flight hour accident resulted loss torque crankcase throughbolts allowed 2 main bearing shift resulting restriction lubrication area subsequent engine failure probable cause finding national transportation safety board determines probable cause accident maintenance personnel improper assembly engine overhaul resulted lubrication restriction due bearing shift subsequent engine failure",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "bearing",
+                6
+            ],
+            [
+                "2",
+                4
+            ]
+        ]
+    }
+}

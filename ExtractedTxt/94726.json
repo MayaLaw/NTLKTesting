@@ -1,0 +1,29 @@
+{
+    "Filename": "94726.txt",
+    "Location": "Burlington, North Carolina",
+    "Accident Number": "GAA17CA140",
+    "Date & Time": "February 16, 2017, 09:55 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N381MG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing gusting crosswind following main wheel touching nosewheel touch airplane abruptly lifted air immediately added full power goaround airplane drifted left runway surface impacted embankment left wing sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation automated weather observing station accident airport time accident recorded wind 270 16 knot gusting 31 knot peak wind 260 31 knot recorded 5 minute accident airplane landed runway 24 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain runway heading attempted goaround gusting crosswind condition resulted runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "runway",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

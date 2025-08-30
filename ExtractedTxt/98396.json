@@ -1,0 +1,29 @@
+{
+    "Filename": "98396.txt",
+    "Location": "Keokuk, Iowa",
+    "Accident Number": "GAA19CA001",
+    "Date & Time": "October 1, 2018, 03:30 Local",
+    "Aircraft": "Cessna 340",
+    "Registration": "N89AM",
+    "Flight Conducted Under": "Part 91: General aviation - Executive/Corporate",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported conducting instrument approach night instrument meteorological condition 50 ft decision altitude 921 ft mistook building light runway light inadvertently touched airplane soybean field 34 mile short runway increased engine power full airplane climbed couple hundred foot established visual contact runway light landed airplane runway without incident pilot added lateral guidance localizer dead center could recall position vertical guidance needle airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 5 minute accident wind 030 3 knot visibility 12 statute mile mist overcast 200 ft ground level agl temperature 57f dew point 57f pilot reported airport ceiling overcast 300 ft agl fog rain visibility 1 mile probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98181.txt",
+    "Location": "Point Lookout, Missouri",
+    "Accident Number": "GAA18CA516",
+    "Date & Time": "August 25, 2018, 09:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N7635F",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported landing roll inadvertently applied left toe brake attempting apply left rudder airplane veered left attempted regain directional control airplane exited left side runway collided runway lighting coming stop airplane sustained substantial damage right wing student reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot inadvertent left brake application landing roll resulted runway excursion collision runway light",
+        "Top Words": [
+            [
+                "left",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

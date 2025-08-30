@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Kenai, Alaska
+Accident Number:
+GAA18CA303
+Date & Time:
+May 27, 2018, 13:00 Local 
+Registration:
+N4018E
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing roll, the airplane ground 
+looped to the left.
+The airplane sustained substantial damage to both wings and lift struts.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation station located about 5 miles north of the accident airport reported 
+that, about 7 minutes before the accident, the wind was from 220° at 7 knots. The airplane landed on 
+runway 36.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll with a tailwind.

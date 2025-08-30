@@ -1,0 +1,65 @@
+Page 1 of 2
+CEN18RA187
+This information is preliminary and subject to change.
+Aviation Investigation Preliminary Report
+Location:
+Tegucigalpa, 
+Accident Number:
+CEN18RA187
+Date & Time:
+May 22, 2018, 11:17 Local
+Registration:
+N813WM
+Aircraft:
+ISRAEL AIRCRAFT INDUSTRIES 
+GULFSTREAM 200
+Injuries:
+6 Minor
+Flight Conducted Under:
+Part 91: General aviation - Executive/Corporate
+import
+Aircraft and Owner/Operator Information 
+Aircraft Make:
+ISRAEL AIRCRAFT 
+INDUSTRIES
+Registration:
+N813WM
+Model/Series:
+GULFSTREAM 200 NO 
+SERIES
+Aircraft Category:
+Airplane
+Amateur Built:
+Operator:
+Operating Certificate(s) 
+Held:
+None
+Operator Designator Code:
+Meteorological Information and Flight Plan
+Conditions at Accident Site:
+VMC
+Condition of Light:
+Day
+Observation Facility, Elevation:
+MHTG
+Observation Time:
+11:00 Local
+Distance from Accident Site:
+Temperature/Dew Point:
+27°C /17°C
+Lowest Cloud Condition:
+Scattered / 2600 ft AGL
+Wind Speed/Gusts, Direction: 
+ / , 
+Lowest Ceiling:
+Broken / 25000 ft AGL
+Visibility:
+6.2 miles
+Altimeter Setting:
+30 inches Hg
+Type of Flight Plan Filed:
+IFR
+Departure Point: 
+Austin, TX (KAUS)
+Destination: 
+Tegucigalpa (MHTG)

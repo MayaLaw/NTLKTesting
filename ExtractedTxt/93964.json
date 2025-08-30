@@ -1,0 +1,29 @@
+{
+    "Filename": "93964.txt",
+    "Location": "Carrollton, Georgia",
+    "Accident Number": "ERA16FA312",
+    "Date & Time": "September 7, 2016, 10:48 Local",
+    "Aircraft": "Beech F33",
+    "Registration": "N6027K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Midair collision",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "diamond flight instructor student pilot traffic pattern nontowered airport practicing landing beech pilot entered traffic pattern extended left downwind leg intention landing pilot airplane pattern reported diamond instructor making standard traffic pattern callouts common traffic advisory frequency ctaf however beech pilot transmitting ctaf witness observation radar data gps data examination wreckage two airplane revealed airplane final approach landing beech overtook diamond behind landing gear beech struck horizontal stabilizer elevator diamond airplane abruptly descended terrain short runway beech came rest inverted top diamond examination wreckage airplane reveal evidence preaccident anomaly malfunction testing beech vhf communication radio revealed set old ctaf frequency airport changed 5 year accident local airport frequency card dated 7 year accident found beech cockpit listed old ctaf frequency set beech radio another pilot different airport heard beech pilot making pattern call incorrect frequency time accident probable cause finding national transportation safety board determines probable cause accident failure beech pilot see avoid diamond front airplane final approach use incorrect radio communication frequency airport",
+        "Top Words": [
+            [
+                "beech",
+                10
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "diamond",
+                6
+            ]
+        ]
+    }
+}

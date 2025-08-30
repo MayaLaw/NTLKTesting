@@ -1,0 +1,29 @@
+{
+    "Filename": "97744.txt",
+    "Location": "Moneta, Virginia",
+    "Accident Number": "GAA18CA414",
+    "Date & Time": "July 5, 2018, 16:55 Local",
+    "Aircraft": "North American AT",
+    "Registration": "N29963",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing made threepoint touchdown airplane bounced following bounce upon touchdown airplane veered sharply right ground looped left landing gear collapsed airplane impacted tree pilot added descent rate higher normal airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper descent rate resulted bounced landing subsequent failure maintain directional",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

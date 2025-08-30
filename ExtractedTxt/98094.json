@@ -1,0 +1,29 @@
+{
+    "Filename": "98094.txt",
+    "Location": "Westminster, Maryland",
+    "Accident Number": "ERA18FA221",
+    "Date & Time": "August 18, 2018, 10:40 Local",
+    "Aircraft": "Quicksilver MXL II Sport",
+    "Registration": "N105SE",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot passenger departed local flight returned landing 15 minute later airplane final approach altitude 100 200 ft several witness heard loud sound one witness saw right wing fold airplane enter steep descent airplane subsequently impacted terrain field near airport witness reported observing airframe parachute system deploy inspection component airframe ballistic parachute system indicated system likely deployed time impact deployment parachute system low altitude would insufficient adequately arrest airplane descent prior impact stainless steel bolt secured upper lower wing cable outer leading edge spar right wing examination bolt showed fractured flight due stress corrosion cracking extended across 95 crosssection area bolt shank bolt failure allowed leading edge spar rotate upward relative trailing edge spar fracture inboard cable attach point precluding controlled flight stainlesssteel material used wing cable attachment bolt susceptible stress corrosion cracking exposed chloridecontaining environment ocean airplane previously equipped float likely operated amphibious airplane point pilot purchased addition installed bolt different material an530a bolt specified quicksilver assembly maintenance part manual securing outer upper lower wing cable leading edge spar right wing material bolt recommended manual would generally resistant stress corrosion cracking result chloridecontaining environment maintenance record indicate stainless steel bolt installed evidence stress corrosion cracking might apparent visual inspection bolted joint also location stress corrosion cracking bolt would likely detected condition inspection bolted joint place assembly maintenance part",
+        "Top Words": [
+            [
+                "bolt",
+                10
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "wing",
+                6
+            ]
+        ]
+    }
+}

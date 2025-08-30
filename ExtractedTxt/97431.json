@@ -1,0 +1,29 @@
+{
+    "Filename": "97431.txt",
+    "Location": "Butler, Pennsylvania",
+    "Accident Number": "ERA18LA163",
+    "Date & Time": "June 7, 2018, 11:00 Local",
+    "Aircraft": "Vans RV4",
+    "Registration": "N7765X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "shortly takeoff extended crosswind leg 800 ft mean sea level engine lost total power private pilot continued ahead landed airplane field landing airplane impacted wire fence brush resulted substantial damage fuselage wing postaccident interview pilot reported first flight made maintenance repair automobileconverted engine due engine failure 1 month accident stated installed aftermarket engine control unit modified fuel delivery software resulted engine running lean flight likely caused detonation piston damage occur runup accident flight pilot aware engine producing power however decided depart known engine problem decision led accident probable cause finding national transportation safety board determines probable cause accident pilot improper decision fly airplane known engine problem improper modification engine control unit fuel delivery software led engine running lean resulted total loss engine power climb",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

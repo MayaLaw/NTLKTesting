@@ -1,0 +1,29 @@
+{
+    "Filename": "98734.txt",
+    "Location": "New York, New York",
+    "Accident Number": "DCA19CA035",
+    "Date & Time": "December 1, 2018, 00:18 UTC",
+    "Aircraft": "Bombardier CL 600 2B19",
+    "Registration": "N202PS",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground handling event",
+    "Injuries": "2 Minor, 27 None",
+    "Analysis": {
+        "Text": "december 1 2018 approximately 0018 coordinated universal time psa airline flight 5541 bombardier crj200 n202ps struck tug engine start laguardia airport lga queen new york injury 27 passenger crew onboard airplane substantially damaged operating 49 code federal regulation part 121 regularly scheduled passenger flight lga akroncanton airport cak north canton ohio according operator accident airplane six deferred item dispatch release including auxiliary power unit apu crossflow power crossflow shutoff valve sov apu deferred item rendered fuel tank transfer ground inoperative required right engine started via air cart flight crew indicated tug driver use hand signal communicate back transmit function headset inoperative captain indicated requested start engine gate limit fuel imbalance ground ground crew denied request towing operation initiated right engine running crossbleed start crj200 requires significant increase thrust operative engine allow appropriate amount bleed pressure power air turbine starter imparts lateral thrust imbalance airplane checklist item crj200 engine start crossbleed procedure set parking brake prior initiating crossbleed engine start however captain initiated crossbleed start still tow receiving clearance ground crew according operator flight data indicated initiated right engine n2 first increasing approximately 825 maximum n2 12 second start initiated ten second later lateral acceleration 020 g recorded tug impacted right side airplane underneath right front galley door jack knifing remaining attached nose gear airplane sustained whole 145 inch 75 inch fractured stringer",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "start",
+                7
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99095.txt",
+    "Location": "PARMA, Idaho",
+    "Accident Number": "GAA19CA163",
+    "Date & Time": "March 11, 2019, 14:30 Local",
+    "Aircraft": "Air Tractor AT 400A",
+    "Registration": "N400DQ",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll tail lifted back due wind gust airplane veered left spun exited runway right wing impacted muddy terrain airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind light variable 5 knot automated weather observation station located 15 nautical mile accident site reported 30 minute accident wind 150 4 knot 30 minute accident wind 120 5 knot pilot landed airplane runway 30 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing variable wind condition resulted right wing impacting muddy terrain",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "wind",
+                5
+            ]
+        ]
+    }
+}

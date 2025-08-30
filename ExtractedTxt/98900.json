@@ -1,0 +1,29 @@
+{
+    "Filename": "98900.txt",
+    "Location": "Naples, Florida",
+    "Accident Number": "ERA19LA091",
+    "Date & Time": "December 22, 2018, 13:30 Local",
+    "Aircraft": "Czech Sport Sportcruiser",
+    "Registration": "N564SC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "according passenger pilot fueled airplane takeoff en route 2500 ft ground level airplane struck large bird engine continued operate 2 minute low fuel warning indicator illuminated engine lost total power pilot declared emergency performed forced landing road landing roll airplane struck road sign several large tree resulted substantial damage fuselage wing postaccident examination airplane revealed nosewheel fairing underside engine cowling displayed evidence bird strike examination engine revealed carburetor leaking fuel damage carburetor could definitively attributed bird strike alone however given airplane fueled immediately flight low fuel warning annunciated shortly bird strike bird impacted area vicinity fuel leaking likely bird strike damaged fuel system resulted fuel draining airplane subsequent fuel exhaustion total loss engine power probable cause finding national transportation safety board determines probable cause accident collision bird flight resulted damage engine fuel leak subsequent total loss engine power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                9
+            ],
+            [
+                "bird",
+                7
+            ],
+            [
+                "engine",
+                7
+            ]
+        ]
+    }
+}

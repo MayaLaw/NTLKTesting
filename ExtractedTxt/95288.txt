@@ -1,0 +1,43 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+New Berlin, Texas
+Accident Number:
+CEN17FA208
+Date & Time:
+June 3, 2017, 16:30 Local 
+Registration:
+N956ML
+Aircraft:
+Michael S. Logan Kitfox
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot departed on the local flight to practice touch-and-go takeoffs and landings in the 
+experimental, amateur-built airplane. The airplane impacted flat, open terrain just after takeoff and was 
+consumed by a post-impact fire. There were no witnesses to the accident. The wreckage was confined to 
+a small area, and the orientation of the wreckage was consistent with an aerodynamic stall and spin. 
+Examination of the airframe revealed no evidence of mechanical malfunctions or failures. Engine drive 
+train continuity was established. The propeller blades and spinner did not exhibit evidence of rotation at 
+the time of impact. The damage precluded a thorough examination of the engine ignition system.
+The pilot's wife said that the pilot had been having ignition issues with the airplane, and described them 
+as the engine missing or quitting entirely during high-powered run-ups. An acquaintance of the pilot 
+reported that the pilot had resolved the ignition problem; however, the pilot did not specify how he had 
+done so. There was no record that the airframe or engine had received a condition inspection in the 
+previous 12 years, and the pilot did not hold a current flight review. 
+Given the orientation of the wreckage and the lack of rotational signatures on the propeller blades, it is 
+likely that the engine experienced a total loss of power just after takeoff. The reason for the loss of 
+power could not be determined based on the available evidence. Following the loss of power, the pilot 
+failed to maintain adequate airspeed, which resulted in exceeding the airplane's critical angle of attack 
+and a subsequent aerodynamic stall and subsequent spin.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined based on the available 
+information, and the pilot's subsequent failure to maintain adequate airspeed, which resulted in 
+the airplane exceeding its critical angle of attack and experiencing an aerodynamic stall/spin.

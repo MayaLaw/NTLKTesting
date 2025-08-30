@@ -1,0 +1,29 @@
+{
+    "Filename": "96918.txt",
+    "Location": "Pierce, Nebraska",
+    "Accident Number": "CEN18FA126",
+    "Date & Time": "March 21, 2018, 18:45 Local",
+    "Aircraft": "RANS INC S-16 SHEKARI",
+    "Registration": "N741WT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot approaching private airstrip experimental amateurbuilt airplane witness heard sound engine stop airplane impacted field \u00bc mile approach end runway runway usable length limited due standing water mud thus approach landing would necessitated lowspeed lowaltitude approach low engine power minimize airplane energy wreckage path airplane damage consistent lowspeed noselow impact accident occurred 1 hour pilot fueled airplane 165 gallon 100 lowlead fuel postaccident examination fuel tank found contained useable fuel indication water found fuel recorded data airplane electronic flight instrument system showed airplane speed decreased stall speed engine operation continued airplane impacted terrain airplane equipped stall warning system marking airspeed instrument indicating stall speed postaccident examination airplane revealed mechanical anomaly would precluded normal operation national transportation safety board unable determine available evidence number hour pilot flew accident airplane make model purchased 6 month accident although pilot severe heart disease placed increased risk acute cardiac event whether symptom event contributed accident could determined thus reason pilot failure maintain airspeed could determined",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

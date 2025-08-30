@@ -1,0 +1,29 @@
+{
+    "Filename": "97903.txt",
+    "Location": "Crestview, Florida",
+    "Accident Number": "ERA18LA201",
+    "Date & Time": "July 26, 2018, 09:50 Local",
+    "Aircraft": "Aero Commander 560",
+    "Registration": "N2705B",
+    "Flight Conducted Under": "Part 91: General aviation - Ferry",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "airplane operated 7 year pilot relocating texas florida repair special flight permit ferry permit issued federal aviation administration faa departing flight main landing gear bungies replaced replacement documented faa preferry flight inspection third stop trip airplane right main landing gear collapsed airplane veered side runway resulting substantial damage postaccident examination revealed right landing gear bungies missing however airplane removed accident site examination could take place whether bungies separated accident could determined testing examination landing gear performed reason gear collapse determined based available information probable cause finding national transportation safety board determines probable cause accident collapse right main landing gear reason could determined based available information",
+        "Top Words": [
+            [
+                "gear",
+                6
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

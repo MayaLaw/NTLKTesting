@@ -1,0 +1,29 @@
+{
+    "Filename": "98394.txt",
+    "Location": "Kapolei, Hawaii",
+    "Accident Number": "WPR18LA280",
+    "Date & Time": "September 20, 2018, 16:30 Local",
+    "Aircraft": "Mooney M20J",
+    "Registration": "N66201",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel contamination",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "certified flight instructor cfi reported preflight small amount water drained left fuel tank water noted sample right tank following departure instructional flight cfi pilot receiving instruction conducted several maneuver practicing touchandgo landing fuel tank regularly switched throughout flight sixth takeoff landing gear flap retracted 300 ft ground level engine lost power cfi took control airplane switched fuel tank attempted troubleshoot engine unsuccessful initiated forced landing runway landing gear position avoid rolling unknown grassy terrain postaccident examination water drained left fuel tank right fuel tank free water fuel collected fuel line going fuel injector also contained water propeller rotated manually continuity established throughout engine mechanical issue engine noted time likely engine lost power due water fuel probable cause finding national transportation safety board determines probable cause accident loss engine power due water fuel line",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "water",
+                7
+            ],
+            [
+                "tank",
+                6
+            ]
+        ]
+    }
+}

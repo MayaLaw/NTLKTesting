@@ -1,0 +1,37 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Blairsville, Georgia
+Accident Number:
+ERA19FA070
+Date & Time:
+December 19, 2018, 19:36 Local 
+Registration:
+N6143J
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+3 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was approaching the airport for landing following a local personal flight in night visual 
+meteorological conditions when the airplane impacted 60 to 70-ft-tall trees about 1/2 mile from the end 
+of the runway. Although the runway lights were illuminated at the time of the accident, the runway was 
+not equipped with a precision approach path indicator (PAPI) or visual approach slope indicator (VASI) 
+light system.
+Examination of the airplane and the engine did not reveal any preaccident mechanical discrepancies that 
+would have precluded normal operation. A review of the pilot's logbook revealed that the pilot had not 
+flown at night in just over four months preceding the accident.
+It is likely that, in the absence of a PAPI or VASI system by which to judge the airplane's approach path, 
+the sparsely-lit terrain off the approach end of the runway may have created an illusion that resulted in 
+the pilot's descent into terrain short of the runway.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain clearance from trees during a visual approach for landing in night 
+visual meteorological conditions. Contributing to the accident was the pilot's lack of recent 
+experience flying at night.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97955.txt",
+    "Location": "Loma, Colorado",
+    "Accident Number": "CEN18LA303",
+    "Date & Time": "July 31, 2018, 11:30 Local",
+    "Aircraft": "Buchanan Kitfox IV",
+    "Registration": "N125TY",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "private pilot departed crosscountry personal flight flight chose fly low altitude river pilot reported passing group river rafter 500 ft ground level dropped airplane low river shortly descending airplane vertical stabilizer struck cableway crossed river pilot lost airplane control airplane subsequently impacted side river canyon came rest partially submerged river cableway supported two fixed aframe structure located side riverbank cable height center water surface 32 ft pilot likely properly monitoring environment lowaltitude operation resulted failure see avoid cableway probable cause finding national transportation safety board determines probable cause accident pilot improper decision conduct lowaltitude flight river inadequate monitoring environment resulted collision cableway",
+        "Top Words": [
+            [
+                "river",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98689.txt",
+    "Location": "North Myrtle Beach, South Carolina",
+    "Accident Number": "ERA19LA055",
+    "Date & Time": "November 23, 2018, 11:05 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N7081Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot taxiing landing felt wind gust push tail right could correct full right rudder applied right brake right brake failed applied brake stop left turn became exaggerated pulled mixture control stop engine airplane subsequently impacted another airplane parked ramp postaccident examination right brake operator revealed damage oring packing allowed brake fluid leak past piston rendering right brake inoperative brake lining brake replaced 389 flight hour accident probable cause finding national transportation safety board determines probable cause accident failure right brake taxiing landing resulted loss directional control collision parked airplane finding aircraft brake malfunction personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "brake",
+                10
+            ],
+            [
+                "right",
+                7
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

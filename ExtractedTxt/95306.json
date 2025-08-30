@@ -1,0 +1,29 @@
+{
+    "Filename": "95306.txt",
+    "Location": "Prosser, Washington",
+    "Accident Number": "GAA17CA323",
+    "Date & Time": "June 5, 2017, 07:00 Local",
+    "Aircraft": "AIR TRACTOR INC AT 802",
+    "Registration": "N802NB",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported agricultural application flight 800 ft takeoff roll gravel airstrip veered airplane right avoid hay bale stacked left side runway added airplane veered right rightwing spray boom encountered tall wheat airplane exited right side runway subsequently airplane came rest nose airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot abrupt maneuver avoid hay bale takeoff roll resulted loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "right",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Franklin, Pennsylvania
+Accident Number:
+GAA17CA552
+Date & Time:
+September 21, 2017, 14:10 Local 
+Registration:
+N40WH
+Aircraft:
+HENCKEN WILLIAM PIETENPOL 
+AIR CAMPER
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the takeoff roll, the experimental tailwheel-equipped airplane's left wing 
+dropped. The pilot corrected with right aileron input and back pressure on the control yoke. However, 
+the airplane veered off the runway, bounced, and then impacted the runway in a right-wing-low attitude. 
+Subsequently, the airplane nosed over. 
+Postaccident examination of the airplane revealed that the weld that connects the left main landing gear 
+and the axle had failed. 
+The airplane sustained substantial damage to the right wing and empennage.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the weld that connects the left main landing gear and the axle during the takeoff roll.

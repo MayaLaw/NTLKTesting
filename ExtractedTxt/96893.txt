@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Mammoth Lakes, California
+Accident Number:
+GAA18CA169
+Date & Time:
+March 16, 2018, 01:10 Local 
+Registration:
+N473CC
+Aircraft:
+CUBCRAFTERS INC CC11-160
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tundra-tire- and tailwheel-equipped airplane was making a night landing at a high-
+altitude airport. He reported that, to mitigate the crosswind component, he decided to land from right to 
+left on the 100-ft-wide runway. He added that the wheel landing was normal, but the airplane would not 
+return to centerline from the left side of the runway. He added power to go around, but the left main 
+wheel sheared off, and the airplane ground looped to the right.
+The airplane sustained substantial damage to the fuselage and empennage.
+The automated weather observation station located on the airport reported that, about the time of the 
+accident, the wind was from 220° at 19 knots, gusting 31 knots. The airplane landed on runway 27.
+The airplane's operating handbook stated that the maximum demonstrated crosswind component was 13 
+mph/11 knots. The calculated crosswind component using steady winds was 15 knots, using gusting 
+winds, it was 24 knots.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll in a gusting crosswind 
+conditions, which exceeded the airplane's maximum demonstrated crosswind and resulted in the collapse 
+of the left main landing gear.

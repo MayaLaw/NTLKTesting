@@ -1,0 +1,29 @@
+{
+    "Filename": "99042.txt",
+    "Location": "Honolulu, Hawaii",
+    "Accident Number": "DCA19CA088",
+    "Date & Time": "February 27, 2019, 13:30 Local",
+    "Aircraft": "Boeing 777",
+    "Registration": "N771AN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 1 Minor,",
+    "Analysis": {
+        "Text": "february 27 2019 1338 hawaii standard time american airline flight 123 n771an boeing b777200 encountered clear air turbulence initial descent honolulu international airport phnl honolulu hawaii 219 passenger crew onboard one flight attendant received serious injury one received minor injury airplane damaged regularly scheduled domestic passenger flight operating provision title 14 code federal regulation part 121 dallasfort worth international airport kdfw dallas texas phnl captain pilot flying first officer monitoring flight unremarkable smooth ride cruising fl380 good visual meteorological condition vmc flight crew stated 15 min decent checked weather honolulu control facility hcf informed turbulence light moderate alt captain called purser informed expected turbulence prepare arrival early stowing cart securing cabin seat belt sign 15 minute later began initial descent encountered moderate severe clear air turbulence fl310 lasted 10 to15 second ride smoothed fl290 flight crew received call cabin indicating two flight attendant aft galley injured landing injured flight attendant transported hospital one diagnosed fractured vertebra probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "flight",
+                8
+            ],
+            [
+                "turbulence",
+                4
+            ],
+            [
+                "honolulu",
+                3
+            ]
+        ]
+    }
+}

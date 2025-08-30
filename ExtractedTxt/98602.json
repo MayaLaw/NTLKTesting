@@ -1,0 +1,29 @@
+{
+    "Filename": "98602.txt",
+    "Location": "ELYRIA, Ohio",
+    "Accident Number": "GAA19CA049",
+    "Date & Time": "November 4, 2018, 13:30 Local",
+    "Aircraft": "Flight Design CTLS",
+    "Registration": "N21ZA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing airplane encountered gusting crosswind right airplane configured 0 flap airspeed 55 knot airplane 5 ft ground level airplane airspeed slow gusting right crosswind condition airplane landed hard runway right main landing gear wheel separated airplane landing airplane exited runway right airplane sustained substantial damage right main landing gear attachment point cabin monocoque structure pilot reported mechanical malfunction failure airplane would precluded normal operation metar airport reported time accident wind 140 11 knot gusting 19 knot probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed landing variable gusting crosswind condition resulted hard landing runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "landing",
+                6
+            ],
+            [
+                "right",
+                5
+            ]
+        ]
+    }
+}

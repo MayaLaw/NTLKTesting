@@ -1,0 +1,29 @@
+{
+    "Filename": "97239.txt",
+    "Location": "Lone Tree, Colorado",
+    "Accident Number": "CEN18FA168",
+    "Date & Time": "May 11, 2018, 20:19 Local",
+    "Aircraft": "CIRRUS DESIGN CORP SR22",
+    "Registration": "N507TX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "VFR encounter with IMC",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "instrumentrated private pilot departed visual flight rule crosscountry flight end civil twilight departing north pilot turned onto left downwind depart area toward south controller advised pilot stay west extended runway centerline pilot acknowledged however 2 minute takeoff airplane turned east crossed extended centerline crossing centerline controller asked pilot state intention pilot replied going return airport airplane turned back toward airport began tracking west toward extended centerline radar contact lost several minute later airplane impacted field 25 mile south approach end runway airplane massively fragmented impact debris scattered 1200 ft damage airplane ground scar accident site consistent airplane impacting right wing low nose low attitude relatively high energy postaccident examination engine propeller assembly reveal preimpact anomaly would precluded normal operation signature consistent engine producing power propeller developing thrust time impact massive fragmentation precluded functional testing flight control damage failure suggested preimpact anomaly airframe flight control visual meteorological condition prevailed airport statement two pilot flying instrument approach runway 35r suggest pilot likely encountered flying cloud south airport accident review radar data voice communication revealed instruction issued controller pilot reasonable accordance air traffic control procedure investigator able establish pilot comply air traffic control instruction",
+        "Top Words": [
+            [
+                "pilot",
+                10
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

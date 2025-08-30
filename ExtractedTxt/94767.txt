@@ -1,0 +1,33 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Bally, Pennsylvania
+Accident Number:
+GAA17CA154
+Date & Time:
+February 19, 2017, 14:45 Local 
+Registration:
+N123GT
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during takeoff, the airplane encountered a 
+wind gust and veered to the left. He corrected with right rudder and left aileron, and the airplane veered 
+to the right. Subsequently, the airplane exited the runway to the right, the left main landing gear sheared 
+off, and the airplane impacted two trees.
+The airplane sustained substantial damage to the fuselage, empennage, and left wing.
+The pilot reported there were no preaccident mechanical failures or malfunctions with the airframe or 
+engine that would have precluded normal operation.
+A review of local weather at the airfield about the time of the accident showed the wind was 300° at 10 
+knots. The pilot was departing on runway 34.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during takeoff in crosswind conditions.

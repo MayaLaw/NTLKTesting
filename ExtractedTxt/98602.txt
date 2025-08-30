@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+ELYRIA, Ohio
+Accident Number:
+GAA19CA049
+Date & Time:
+November 4, 2018, 13:30 Local 
+Registration:
+N21ZA
+Aircraft:
+Flight Design CTLS
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, the airplane encountered a gusting crosswind from the right. The 
+airplane was configured with 0° flaps, and the airspeed was about 55 knots, and the airplane was about 5 
+ft above ground level. The airplane's airspeed was too slow for the gusting right crosswind conditions, 
+and the airplane landed hard on the runway. The right main landing gear wheel separated from the 
+airplane during the landing, and the airplane exited the runway to the right.
+The airplane sustained substantial damage to the right main landing gear attachment points and the 
+cabin's monocoque structure.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+The METAR at the airport reported that, about the time of the accident, the wind was from 140° at 11 
+knots, gusting to 19 knots. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed during landing in variable gusting crosswind 
+conditions, which resulted in a hard landing and runway excursion.

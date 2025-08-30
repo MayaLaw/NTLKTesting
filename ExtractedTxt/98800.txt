@@ -1,0 +1,43 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+McCormick, South Carolina
+Accident Number:
+ERA19LA074
+Date & Time:
+December 19, 2018, 14:20 Local 
+Registration:
+N346MA
+Aircraft:
+Diamond DA20
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+After the accident airplane experienced a partial loss of engine power the previous day, the accident 
+pilot/mechanic was dispatched to perform maintenance on the airplane. The previous pilot reported that 
+after landing, the engine would not run with the electric fuel pump turned off. The engine would run 
+slightly better if the primer was on.
+The accident pilot/mechanic replaced the throttle and metering unit, the engine-driven fuel pump, and 
+the manifold valve with overhauled units. He set the metered and unmetered fuel pressures to within 
+specifications and the engine ran satisfactorily. A preflight inspection revealed no anomalies, and the 
+pilot departed. After takeoff, the pilot initially remained in the traffic pattern until he was satisfied that 
+the engine was performing normally. He then began to climb and proceeded toward his destination when 
+the engine lost partial power and would not respond to throttle inputs. The pilot performed a forced 
+landing to a nearby clearing, during which the airplane impacted trees, resulting in substantial damage to 
+the fuselage and left wing.  
+A test run of the engine at the manufacturer’s facility found that it ran very rough and would not idle. 
+Similar to the conditions reported by the previous pilot, the engine would remain running only when the 
+test stand fuel boost pressure was increased beyond the normal values. 
+Examination of the throttle and metering unit revealed debris lodged in the metering plug orifice, 
+obstructing about 90% of the opening. When the debris was removed, the engine ran normally and 
+within manufacturer specifications. Examination of the debris found that it was similar in composition to 
+a sample of torque putty, commonly used to mark threaded fittings after assembly; however, there was 
+no indication that torque putty was used on any of the as-installed fuel system components or on the 
+components that were removed before the accident. Similar debris was found in the previously installed 
+manifold valve (the one removed prior to the accident flight) downstream of the internal filter screen. 

@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Manteo, North Carolina
+Accident Number:
+ERA18FA180
+Date & Time:
+June 27, 2018, 10:26 Local 
+Registration:
+N60111
+Aircraft:
+Cessna 150J
+Aircraft Damage:
+Destroyed
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Banner tow
+Analysis 
+The commercial pilot was performing a banner-tow flight. A ground crewmember who witnessed the 
+accident stated that the airplane was operating too low during the banner pickup. That witness and 
+another indicated that, when the airplane picked up the banner-tow rope, it became entangled in the area 
+of the left horizontal stabilizer and elevator. The pilot radioed that he was unable to release the banner 
+rope and could not turn the airplane. The airplane yawed left and only climbed to about 250 ft before 
+descending into the trees by the airport.
+A postaccident examination of the flight controls and the engine revealed no anomalies that would have 
+precluded normal operation with the exception that the banner tow rope was wrapped around the leading 
+edge of the left horizontal stabilizer.
+During the approach to pick up the banner, the wind was a direct left crosswind at 10 knots gusting to 14 
+knots. It is likely that the pilot flew an approach that was hampered by the crosswind. During pickup of 
+the tow line, the banner tow-rope became entangled with the horizontal stabilizer and elevator, reducing 
+the pilot's ability to control the airplane, and resulted in a loss of control in flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of control due to the banner tow rope becoming entangled with the left horizontal 
+stabilizer in&nbsp;crosswind conditions.

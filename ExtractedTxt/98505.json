@@ -1,0 +1,29 @@
+{
+    "Filename": "98505.txt",
+    "Location": "Daytona Beach Shores, Florida",
+    "Accident Number": "ERA19LA018",
+    "Date & Time": "October 16, 2018, 14:30 Local",
+    "Aircraft": "Jabiru 250",
+    "Registration": "N207Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot departed 300nautical mile 3hour crosscountry flight 5 \u00bd hour fuel onboard 7 mile destination airport altitude 1000 ft mean sea level engine sputtered lost total power propeller continued windmill pilot attempted troubleshoot restart engine utilizing fuel boost pump unsuccessful pilot performed forced landing ocean 100 yard shore extricated rescued airplane remained submerged ocean 18 hour recovered recovery 5 gallon aviation fuel removed fuel tank engine component corroded due saltwater immersion precluded testing engine reported weather condition conducive development carburetor icing reason loss engine power could determined based available information probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "fuel",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

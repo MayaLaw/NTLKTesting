@@ -1,0 +1,29 @@
+{
+    "Filename": "94751.txt",
+    "Location": "Springfield, Ohio",
+    "Accident Number": "CEN17FA108",
+    "Date & Time": "February 19, 2017, 16:03 Local",
+    "Aircraft": "MACLEOD HOMEBUILT",
+    "Registration": "N62888",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot departed grass airstrip personal local flight singleseat experimental amateurbuilt airplane two witness saw airplane flying low treetop height saw nose pitch followed airplane descending ground impact another witness heard loud engine looked saw airplane nose dive heard engine airplane impacted ground witness observation consistent pilot failing maintain control airplane resulted airplane exceeding critical angle attack aerodynamic stall airplane flying low enough altitude pilot recover airplane stall examination airframe engine reveal evidence preimpact mechanical malfunction would precluded normal operation propeller blade showed rotational damage consistent engine producing power impact however witness reported hearing engine descent prior impact investigation could determine engine lost power descent pilot reduced power prior impact shoulder harness assembly found behind forward bulkhead unable accessed pilot additionally shoulder harness found wrapped around rudder cable however wear shoulder harness consistent wrapped around rudder cable indicating likely affect operation rudder probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

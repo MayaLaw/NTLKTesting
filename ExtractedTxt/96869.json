@@ -1,0 +1,29 @@
+{
+    "Filename": "96869.txt",
+    "Location": "Orlando, Florida",
+    "Accident Number": "ERA18LA103",
+    "Date & Time": "March 13, 2018, 13:30 Local",
+    "Aircraft": "Cessna T210",
+    "Registration": "N5382A",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "morning accident pilot performed 2hour test flight newlyinstalled camera equipment airplane performed normally taking second flight day pilot felt something wrong engine abnormal indication engine continued produce power pilot leveled airplane cruise altitude engine lost total power pilot subsequently conducted forced landing onto road resulting substantial damage wing test run engine revealed fuel pump adjusted excessively rich fuel flow setting resulted loss power throttle increased past 2100 rpm fuel pump readjusted engine performed nominally fuel pump reset asreceived setting engine exhibited loss power first run bench testing throttle body fuel pump revealed unit failed meet production standard review airplane maintenance record indicated fuel system adjustment performed almost 2 year accident likely improper fuel pump setting resulted overly rich fuelair mixture subsequent loss engine power however reason loss engine power accident flight previous flight since fuel pump adjusted could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "fuel",
+                8
+            ],
+            [
+                "power",
+                6
+            ]
+        ]
+    }
+}

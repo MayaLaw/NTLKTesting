@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Rochelle, Illinois
+Accident Number:
+GAA18CA401
+Date & Time:
+July 5, 2018, 15:00 Local 
+Registration:
+N6795Q
+Aircraft:
+Grumman G164
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot of the turbine-powered airplane reported that, during takeoff for an agricultural application 
+flight, he failed to move the power lever from the ground idle position to the flight position. During 
+takeoff, the airplane did not attain sufficient airspeed, aerodynamically stalled about 50 ft above the 
+ground, impacted terrain, and came to rest inverted.
+The airplane sustained substantial damage to the fuselage, both wings, and the empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to move the power lever to the proper position before takeoff, which resulted in 
+insufficient airspeed and a subsequent aerodynamic stall.

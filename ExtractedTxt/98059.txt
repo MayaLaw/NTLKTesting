@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Akron, Colorado
+Accident Number:
+GAA18CA486
+Date & Time:
+August 11, 2018, 13:30 Local 
+Registration:
+N527JT
+Aircraft:
+Bushby Mustang II
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while flying over the grass runway, it appeared "rough but serviceable." During 
+landing, he found the surface was extremely rough with tall weeds. During the subsequent departure, 
+acceleration was "less than normal" due to the vegetation. When the airplane reached the pilot's planned 
+abort point for the runway, he realized that he had misjudged the abort point. He initially thought his 
+selected abort point was about 800 to 1,000 ft before the end of the runway, but it was about 100 to 200 
+ft before the end of the runway. The airplane overran the runway, crossed a road, and struck a barbed 
+wire fence.
+The airplane sustained substantial damage to the fuselage and left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The Federal Aviation Administration Airport Facility Directory for the accident airport, in part, stated: 
+"[Runways] not recommended for [takeoff or landing]."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper preflight planning that did not identify the unserviceable runway; his subsequent 
+decision to attempt to takeoff from the rough, grassy runway; and his selection of an abort point with 
+insufficient runway remaining, which resulted in a runway overrun.

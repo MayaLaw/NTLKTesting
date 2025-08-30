@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Punta Gorda, Florida
+Accident Number:
+ERA18LA110
+Date & Time:
+March 17, 2018, 14:24 Local 
+Registration:
+N27265
+Aircraft:
+BESARICK SKYBOLT
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was flying the airplane on the first flight of a 10-hour break-in period after an 
+engine overhaul. The preflight inspection and ground operations were normal, with no signs of oil leaks. 
+About 35 minutes into the flight, oil appeared on both windscreens, blocking the pilot’s forward 
+visibility; the windscreens eventually became completely covered with oil. The pilot contacted tower 
+personnel, who cleared him to land. The engine then lost partial power. Tower personnel reported smoke 
+coming from the engine. Unable to make the runway, the pilot chose to land the airplane in a field. After 
+landing, the airplane collided with a ditch and came to rest. The engine caught fire, and the pilot 
+egressed the airplane. A postcrash fire consumed most of the wreckage.
+Examination of the engine revealed a large hole in the top of the engine case adjacent to the No. 2 
+cylinder. The No. 2 connecting rod was fractured at the crankshaft. The connecting rod failure was 
+likely the result of oil starvation to the crankshaft. Extensive postcrash fire damage to the engine, hoses, 
+and accessories prevented investigators from determining the source of the oil leak.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A substantial oil leak, which resulted in a partial loss of engine power and failure of the No. 2 
+connecting rod.

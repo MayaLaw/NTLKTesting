@@ -1,0 +1,44 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Fort Lauderdale, Florida
+Accident Number:
+ERA19FA060
+Date & Time:
+December 1, 2018, 13:27 Local 
+Registration:
+N79HP
+Aircraft:
+Cessna 335
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 Fatal, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and pilot-rated passenger were planning to conduct a repositioning flight. Shortly after takeoff, 
+a video depicted white smoke trailing the airplane from the left engine. Subsequently the flight advised 
+the tower controller that there was a fire in the left engine and the airplane was observed turning to the 
+left to return to the airport. While maintaining controlled flight with the landing gear retracted and the 
+left propeller in an unfeathered position, the airplane clipped the roof of a building adjacent to the 
+airport, impacted the ground about 67 knots ground speed, and came to rest after impacting another 
+building. A postimpact fire ensued. At ground impact, the left and right propellers were rotating about 
+900 rpm and 2,700 rpm, respectively. Postaccident examination of the left engine revealed detonation 
+damage to several pistons, and the rod-oil gauge and cap assembly was not attached to the engine. 
+Examination of the oil filler breather assembly revealed contact marks consistent with the rod-oil gauge 
+and cap assembly coming out. There was no evidence of preimpact failure or malfunction of the right 
+engine, propeller, or propeller governor.
+Although the flight reported a fire in the left engine compartment to air traffic control, and the video 
+showed trailing smoke, it is likely the left engine’s damaged pistons allowed the crankcase to become 
+pressurized and the missing rod-oil gauge and cap assembly allowed oil to exit the engine and contact 
+either the exhaust or turbocharger exhaust duct, resulting in the smoke.
+Although the left propeller and propeller governor were heat damaged, there was no evidence of 
+preimpact failure or malfunction of either that would have precluded feathering of the propeller blades. 
+The pilot's failure to feather the left propeller following the partial loss of left engine power resulted in a 
+negative climb performance. Had the pilot feathered the left propeller following the partial loss of 
+engine power, it is likely that a positive rate of climb could have been attained.
+ The airplane had been flown once in the last several years before the accident pilot purchased it several 
+months before the accident. Maintenance records located within the wreckage at the accident site 

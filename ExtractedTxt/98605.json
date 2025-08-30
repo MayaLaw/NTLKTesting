@@ -1,0 +1,29 @@
+{
+    "Filename": "98605.txt",
+    "Location": "East Moriches, New York",
+    "Accident Number": "GAA19CA050",
+    "Date & Time": "October 20, 2018, 12:15 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N8275V",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot stated preflight inspection observe anything abnormal added initial taxi airplane pulled power usual observed issue brake flight control pilot reported approach 2300ftlong grass airstrip 60 knot full flap reduced power idle flare airplane still floating midfield saw rpm increased power idle 1000 1200 rpm retracted flap 15 execute goaround increased power airplane touched runway going continue goaround realized airplane would unable clear power line tree end runway braked hard unable stop airplane grass shut fuel pump closed mixture added engine stop airplane continued moving forward due momentum applied full brake turn 180 turn airplane slid grass left wing struck wooden pole airplane came abrupt stop pilot stated saw engine propeller stopped airplane sustained substantial damage left wing federal aviation administration inspector reported attempted examine engine airplane unavailable examination airplane manufacturer prescribed go around checklist stated throttlefull carb heatoff flapsretract 20 deg",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

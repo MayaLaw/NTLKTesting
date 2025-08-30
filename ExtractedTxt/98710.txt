@@ -1,0 +1,45 @@
+Page 1 of 18
+Aviation Investigation Final Report
+Location:
+Memphis, Indiana
+Accident Number:
+CEN19FA036
+Date & Time:
+November 30, 2018, 10:28 Local 
+Registration:
+N525EG
+Aircraft:
+Cessna 525
+Aircraft Damage:
+Destroyed
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Business
+Analysis 
+The pilot and two passengers departed in instrument meteorological conditions on a cross-
+country flight. According to the airplane’s automatic dependent surveillance–broadcast (ADS-
+B) data, the airplane climbed to about 1,400 ft mean sea level (msl) before it turned left onto a 
+track toward the assigned fix and continued to climb. The pilot contacted air traffic control and 
+was assigned 10,000 ft; he turned the autopilot on and adjusted the selected altitude to 10,000 
+ft. The airplane passed 3,000 ft, with airspeed between 230 and 240 kts, and continued to 
+climb. The airplane then began to bank to the left at a rate of about 5° per second. After the 
+onset of the roll, the airplane maintained airspeed and continued to climb for 12 seconds, 
+which indicated that engine power was not reduced in response to the roll onset. 
+When the airplane reached about 30° of left bank, about 3 seconds after the onset of the roll, 
+the autopilot disconnected accompanied by an aural alert. About 1 second later, the cockpit 
+voice recorder (CVR) recorded a statement by the pilot consistent with surprise, likely made in 
+response to the autopilot disconnect and/or the bank angle. Based on the pilot’s statement of 
+surprise, it is unlikely that the pilot commanded the left bank. The airplane continued its climb 
+and reached a maximum altitude of about 6,100 ft msl before it began to rapidly descend, with 
+its left bank angle reaching near 90°. During the descent, the airplane’s enhanced ground 
+proximity warning system announced eight “bank angle” annunciations and one “overspeed 
+warning” annunciation.
+About 23 seconds after the autopilot disconnected, the pilot made a mayday call shouting that 
+he was “…in an emergency descent unable to gain control of the aircraft.” At the final ADS-B 
+data point, the airplane was at an altitude of about 1,000 ft msl, at an airspeed of about 380 
+kts, and in a 53° left bank. The airplane impacted a wooded area about 8.5 miles northwest of 
+the departure airport. The total time from the beginning of the left bank until ground impact 
+was about 35 seconds.

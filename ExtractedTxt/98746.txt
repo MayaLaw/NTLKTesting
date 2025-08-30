@@ -1,0 +1,40 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Paramus, New Jersey
+Accident Number:
+ERA19LA062
+Date & Time:
+December 9, 2018, 12:15 Local 
+Registration:
+N5756W
+Aircraft:
+Mooney M20K
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During cruise flight, the pilot noticed an increase in cylinder head temperature on two cylinders and 
+unsuccessfully attempted to reduce the temperature. He reported that he soon heard "an explosion" and 
+noted a hole in the engine cowling. He performed a forced landing to a golf course, during which the 
+landing gear collapsed, which resulted in substantial damage to the right wing.
+Postaccident examination of the engine revealed that the Nos. 1 and 2 connecting rods exhibited thermal 
+discoloration consistent with a loss of lubrication. Additionally, the breakaway torques measured at 8 of 
+the 12 through-bolts showed that they were below the manufacturer's specifications. The No. 2 main 
+bearing saddles exhibited impingement damage, and the No. 2 bearing was partially rotated clockwise, 
+which blocked the oil passages leading to the connecting rod bearings. The mating surfaces of the main 
+bearing saddles had remnants of silk thread around the through-bolt holes, which was contrary to 
+manufacturer guidance that prohibited placing silk thread in these areas. Given this information, it is 
+likely that maintenance personnel applied silk thread to a prohibited area during an engine overhaul that 
+occurred about 255.8 flight hours before the accident. This resulted in a loss of torque on the crankcase 
+through-bolts, which allowed the No. 2 main bearings to shift, resulting in restriction of lubrication to 
+that area and subsequent engine failure.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Maintenance personnel's improper assembly of the engine during overhaul, which resulted in lubrication 
+restriction due to a bearing shift and the subsequent engine failure.

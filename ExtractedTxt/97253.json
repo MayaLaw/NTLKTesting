@@ -1,0 +1,29 @@
+{
+    "Filename": "97253.txt",
+    "Location": "Hamilton, Ohio",
+    "Accident Number": "CEN18LA173",
+    "Date & Time": "May 15, 2018, 09:45 Local",
+    "Aircraft": "GRUMMAN AMERICAN AVN. CORP.",
+    "Registration": "N6550L",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "1 month accident prior owner accident airplane performed maintenance test flight engine replacement airplane failed runup engine roughness mechanicaccident pilot performed engine replacement felt roughness caused oil getting new piston ring fouling spark plug mechanicpilot cleaned reinstalled plug maintenance test flight reattempted prior owner flew right seat mechanicpilot pilot flying prior owner indicated mechanicpilot took active runway without completing engine runup takeoff power appeared normal 100 ft ground level engine failed abruptly without warning airplane nose dropped pilot landed airplane stopping 30 ft end runway mechanicpilot subsequently sent carburetor overhaul reinstalling carburetor mechanicpilot attempted another maintenance test flight accident flight witness stated airplane took heard engine stop pilot attempted circle back airport make airplane impacted terrain landing resulted substantial damage wing fuselage mechanicpilot completed accident report contain narrative accident flight advised recall accident pilot indicate date last flight review postaccident engine examination revealed evidence preimpact mechanical malfunction failure would precluded normal operation engine monitor sustained damage engine data recorded accident flight",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "accident",
+                7
+            ],
+            [
+                "flight",
+                7
+            ]
+        ]
+    }
+}

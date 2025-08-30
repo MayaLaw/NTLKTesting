@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Jackson, California
+Accident Number:
+WPR18LA257
+Date & Time:
+September 8, 2018, 08:16 Local 
+Registration:
+N70192
+Aircraft:
+Piper J3C
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that all preflight inspections and control checks were normal; however, after liftoff, 
+the left wing dipped, and the airplane pulled hard to the left. The pilot input corrective control actions, 
+but the airplane continued to veer left. Realizing that the airplane would not be able to climb over 
+approaching trees, the pilot reduced engine power and aimed the airplane between two trees in order to 
+cushion the impact. The airplane came to rest upright about 450 ft east of the runway. 
+Examination of the airplane revealed no mechanical anomalies that would have precluded normal 
+operation of the flight control system, although full aileron travel could not be confirmed due to impact 
+damage. The cockpit/cabin floor was plywood and contained multiple cutouts for the control system, all 
+of which were properly sized to permit full travel of the respective controls; however, none of the 
+control openings were equipped with flexible boots or were otherwise shielded to prevent foreign 
+objects from either falling under the floor or becoming caught between the control and the cutout 
+perimeter and thereby restricting or preventing control travel. A screwdriver and a bungee cord were 
+found on the cockpit floor after the accident, but whether they contributed to the accident could not be 
+determined. The shape and location of the rear seat rudder pedals, in combination with the anchor attach 
+point locations of the front seat lap belts, was such that when fastened, either of the front seat lap belt 
+halves could inadvertently capture or trap a rudder pedal and thereby restrict its travel.
+The reason for the pilot’s inability to maintain directional control during the takeoff and initial climb 
+could not be determined based on the available information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

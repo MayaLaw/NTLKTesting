@@ -1,0 +1,29 @@
+{
+    "Filename": "96903.txt",
+    "Location": "Beggs, Oklahoma",
+    "Accident Number": "CEN18LA125",
+    "Date & Time": "March 21, 2018, 17:45 Local",
+    "Aircraft": "Cub Crafters PA18 150",
+    "Registration": "N226JK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "private pilot stated takeoff uneventful airplane reached 50 ft ground level engine experienced total loss power engine regained power momentarily lost power pilot performed forced landing airplane impacted ditch pilot reported fuel selector may secured position detent time takeoff result engine may lost power due fuel starvation postrecovery examination reveal anomaly would precluded normal operation airplane probable cause finding national transportation safety board determines probable cause accident pilot failure verify fuel selector properly set takeoff resulted total loss engine power due fuel starvation finding aircraft fuel fluid management personnel issue use equipsystem pilot",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "fuel",
+                5
+            ]
+        ]
+    }
+}

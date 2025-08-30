@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Vero Beach, Florida
+Accident Number:
+ERA18LA145
+Date & Time:
+May 7, 2018, 10:43 Local 
+Registration:
+N80813
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and student pilot were conducting an instructional flight. As the student turned the airplane 
+from the base leg to the final leg of the traffic pattern, the engine lost total power, so the instructor assumed 
+control of the airplane. He attempted remedial actions to no avail, so he chose to conduct a forced landing to a 
+railroad bed before the approach end of the runway. The airplane landed hard, which resulted in the right main 
+landing gear and nose landing gear separating from the airplane. 
+Fuel drained from the airplane during recovery contained large quantities of water. After recovery, a fresh 
+source of fuel was plumbed into the fuel system, and the engine started and ran smoothly. Given that the 
+engine was successfully test-run with fresh fuel after the accident, it is likely that the loss of engine power was 
+due to water contamination of the fuel supply.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Water contamination of the fuel supply, which resulted in a total loss of engine power.
+Findings
+Aircraft
+Fuel - Fluid condition

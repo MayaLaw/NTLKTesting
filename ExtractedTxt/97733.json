@@ -1,0 +1,29 @@
+{
+    "Filename": "97733.txt",
+    "Location": "Hydaburg, Alaska",
+    "Accident Number": "ANC18FA053",
+    "Date & Time": "July 10, 2018, 08:35 Local",
+    "Aircraft": "De Havilland DHC 3",
+    "Registration": "N3952B",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of visual reference",
+    "Injuries": "6 Serious, 4 Minor, 1",
+    "Analysis": {
+        "Text": "airline transport pilot conducting commercial visual flight rule vfr flight transporting 10 passenger remote fishing lodge according pilot level cruise flight 1100 ft mean sea level msl flight progressed mountain pas visibility decreased rapidly attempt turn around return vfr condition pilot initiated climbing right turn completing 180 right turn saw believed body water became momentarily disoriented leveled wing shortly thereafter realized airplane approaching area snowcovered mountainous terrain applied full power initiated steep climb airspeed decayed airplane collided area rocky rising terrain resulted substantial damage wing fuselage pilot reported mechanical malfunction anomaly would precluded normal operation examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation weather forecast accident time included scattered cloud 2500 ft msl overcast cloud 5000 ft msl cloud top 14000 ft cloud layered flight level 250 isolated broken cloud 2500 ft light rain airmet advisory sierra mountain obscured cloudsprecipitation valid time accident condition expected deteriorate passenger interview revealed course flight airplane operating marginal visual meteorological condition occasional instrument meteorological condition imc area precipitation reduced visibility obscuration time little forward visibility thus based weather report forecast pilot passenger statement likely flight encountered imc approached mountainous terrain pilot lost situational awareness",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "ft",
+                5
+            ]
+        ]
+    }
+}

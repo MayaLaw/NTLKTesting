@@ -1,0 +1,29 @@
+{
+    "Filename": "98302.txt",
+    "Location": "Mount Holly, New Jersey",
+    "Accident Number": "GAA18CA556",
+    "Date & Time": "September 15, 2018, 12:30 Local",
+    "Aircraft": "Cessna R182",
+    "Registration": "N7304T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing runway believed right wing lifted bit airplane drifted left airplane touched veered left applied right rudder subsequently airplane exited left side runway impacted tree airplane sustained substantial damage wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system accident airport reported time accident wind variable 5 knot pilot landed runway 8 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateral control airplane landing resulted loss directional control subsequent runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

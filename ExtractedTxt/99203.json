@@ -1,0 +1,29 @@
+{
+    "Filename": "99203.txt",
+    "Location": "Spring, Texas",
+    "Accident Number": "CEN19LA113",
+    "Date & Time": "March 28, 2019, 15:45 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N494JB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot taxiing airplane runway depart personal flight airplane veered right right main landing gear descended drainage ditch pilot passenger injured right horizontal stabilizer elevator substantially damaged postaccident statement pilot reported anomaly wheel brake system began taxiing airplane also reported tailwind taxi caused high groundspeed airplane uncontrollable via rudder brake airplane pilot operating handbook state groundspeed use brake held minimum taxiing directional control maintained steerable nosewheel rudder proper positioning aileron elevator wind direction required maintain directional control balance additionally according faa airplane flying handbook pilot must maintain safe taxiing speed ensure directional control must ability recognize potential hazard time avoid stop turn desired without undue reliance wheel brake postaccident examination testing revealed anomaly airplane wheel brake system steerable nosewheel wind airport time accident 140 13 knot gusting 21 knot thus pilot likely allowed airplane accelerate unsafe groundspeed taxi resulting loss directional control probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "brake",
+                5
+            ]
+        ]
+    }
+}

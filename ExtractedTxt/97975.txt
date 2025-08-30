@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Lopez Island, Washington
+Accident Number:
+WPR18FA210
+Date & Time:
+August 2, 2018, 17:05 Local 
+Registration:
+N56039
+Aircraft:
+Mooney M20J
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and flight instructor were conducting a flight review in the pilot's airplane. A witness 
+departing from a nearby airport heard the pilot of the accident airplane make a position report while in 
+the traffic pattern, then saw the accident airplane about 300 ft above ground level initiating a left turn 
+from the base to final leg of the traffic pattern for landing. The airplane started the left turn and its bank 
+angle progressively steepened until the airplane entered a spin and disappeared behind trees. 
+The electric fuel boost pump was found inoperative; however, its condition suggested that it had been 
+inoperative for an extended period of time before the accident flight. Further, the engine would run 
+normally during landing using the engine-driven fuel pump. Therefore, the inoperative electric fuel 
+boost pump did not contribute to the accident. Examination of the airframe and engine did not reveal any 
+evidence of preimpact anomalies that would have precluded normal operation. Surveillance video near 
+the accident location captured audio of the airplane as it approached the runway; the audio was 
+consistent with the engine operating during the landing approach and revealed a sudden increase in 
+engine sound shortly before the impact. 
+The witness statement and impact signatures at the accident site were consistent with a cross control stall 
+and spin and subsequent impact with trees as the pilot was likely attempting to correct his approach after 
+overshooting the runway centerline during a base-to-final turn. The private pilot's rudder and aileron 
+inputs were likely uncoordinated, which would have initiated the spin when one of the occupants added 
+power at an altitude too low for recovery. While the flight instructor may have attempted to remediate 
+the stall by adding power, his lack of oversight during the approach likely contributed to the stall entry.  
+A low concentration of ethanol was detected in the pilot's cardiac and cavity blood; however, there was 
+no ethanol found in fluid that was less susceptible to postmortem production, thus it is reasonable that 
+some or all of the identified ethanol was from sources other than ingestion and did not contribute to the 
+accident. There was postmortem evidence of moderate to severe atherosclerotic disease in the right 

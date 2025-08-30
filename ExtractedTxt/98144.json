@@ -1,0 +1,29 @@
+{
+    "Filename": "98144.txt",
+    "Location": "Falcon, Colorado",
+    "Accident Number": "CEN18LA348",
+    "Date & Time": "August 23, 2018, 12:54 Local",
+    "Aircraft": "Piper PA32R",
+    "Registration": "N2880W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot passenger planned depart crosscountry personal flight density altitude 9500 ft mean sea level pretakeoff engine runup engine began running roughly pilot mechanic attempted troubleshoot engine issue checking dual magneto according mechanic left magneto inoperative pleads wired incorrectly disconnected magneto pleads pilot second third engine runup appeared produce full engine power adjusted fuel mixture however inoperative left magneto unlikely full power achieved pilot departed unable maintain altitude chose land field adjacent airport airplane stalled ground impacted ground postaccident examination airplane left magneto removed tested left magneto produce spark terminal contact point open addition spark plug connected left magneto exhibit sign recent operation consistent inoperative magneto disconnected pleads would affected right magneto ability energize half spark plug inoperative left magneto high density altitude available engine power would reduced airplane climb performance would degraded reduction available engine power combined highdensity altitude time takeoff resulted airplane inability maintain positive rate climb lifting probable cause finding national transportation safety board determines probable cause accident pilot decision depart inoperative left magneto resulted degraded climb performance highdensity altitude condition subsequent emergency landing",
+        "Top Words": [
+            [
+                "magneto",
+                11
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "left",
+                7
+            ]
+        ]
+    }
+}

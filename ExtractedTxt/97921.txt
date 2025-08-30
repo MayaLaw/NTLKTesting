@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Columbia, Illinois
+Accident Number:
+CEN18LA299
+Date & Time:
+July 28, 2018, 12:25 Local 
+Registration:
+N624FL
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+3 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the pilot's departure for the local flight, witnesses observed the airplane climbing at a shallower 
+attitude than normal. The airplane appeared to level off and then contacted transmission lines about 1/2 
+mile from the departure end of the runway, which resulted in substantial damage to the airplane. A 
+postaccident examination of the engine found fouled sparkplugs in cylinder No. 2 and a compression 
+check of all the cylinders revealed that they were all below 60 psi. Cylinder No. 2 was at 18 psi, and the 
+other three cylinders were about 50 psi. An engine manufacturer's service letter stated if the pressure 
+reading is below 60 psi, removal and overhaul of the cylinders should be considered. 
+A weight and balance calculation revealed that the airplane was operating near its maximum gross 
+weight.
+The circumstances of the accident are consistent with the partial loss of engine power due to low 
+compression in all of the cylinders and fouled sparkplugs in the No. 2 cylinder. The loading of the 
+airplane near its maximum gross weight combined with a reduction in available engine power likely did 
+not allow for the airplane to climb normally.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The airplane's inability to climb due to reduced engine power as a  result of insufficient compression in 
+all cylinders and fouled spark plugs in the No. 2 cylinder while operating near its maximum gross 
+weight. 

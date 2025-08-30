@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Worland, Wyoming
+Accident Number:
+CEN17LA356
+Date & Time:
+September 12, 2017, 16:30 Local 
+Registration:
+N1835R
+Aircraft:
+Cessna R182
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The commercial pilot reported that, about halfway through the planned pipeline surveillance flight, the 
+engine experienced a total loss of power and he performed a forced landing to a dirt road. A 
+postaccident examination revealed that both fuel tanks appeared to be empty; the left wing fuel tank cap 
+seal appeared to be worn, and the left wing exhibited fuel staining aft of the fuel cap, consistent with 
+fuel siphoning from the tank in flight.
+The airplane was fueled the preceding night, and the pilot had assumed the fuel tanks were full upon 
+departing on the first flight of the day. The airplane was flown 2.7 hours on the morning of the accident 
+before it was refueled. The pilot did not recall visually confirming the fuel level following that refueling. 
+An additional 4.1 hours of flight time elapsed from the time the airplane was refueled until the accident. 
+According to the pilot, the airplane's fuel gauges were unreliable. To compensate, he had adopted the 
+practice of completely filling the fuel tanks during each refueling, tracking the intervening flight time, 
+and calculating fuel burn based on the airplane's average fuel consumption rate. Two days before the 
+accident, an individual refueling the airplane informed him that the left fuel cap seal was torn. A new 
+fuel cap seal had not yet been installed.
+Although the amount of fuel lost through the cap could not be quantified, the unreliable fuel gauges did 
+not allow the pilot to monitor either the normal fuel consumption nor alert him to the potentially 
+abnormal rate of consumption due to the siphoning fuel. In addition, the pilot failed to verify the amount 
+of fuel onboard before departure, which further rendered his method of tracking fuel consumption 
+inaccurate. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

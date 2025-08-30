@@ -1,0 +1,45 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Westminster, Maryland
+Accident Number:
+ERA18FA221
+Date & Time:
+August 18, 2018, 10:40 Local 
+Registration:
+N105SE
+Aircraft:
+Quicksilver MXL II Sport
+Aircraft Damage:
+Substantial
+Defining Event:
+Aircraft structural failure
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and a passenger departed on a local flight and returned for landing about 15 minutes 
+later. While the airplane was on final approach at an altitude between 100 and 200 ft, several witnesses 
+heard a loud sound, and one of the witnesses saw the right wing fold and the airplane enter a steep 
+descent. The airplane subsequently impacted terrain in a field near the airport.
+A witnesses reported observing the airframe parachute system deploy. The inspection of the components 
+of the airframe ballistic parachute system indicated that the system had likely deployed just before or at 
+the time of impact. Deployment of the parachute system at that low altitude would have been 
+insufficient to adequately arrest the airplane's descent prior to impact.
+A stainless steel bolt secured the upper and lower wing cables to the outer leading edge spar of the right 
+wing. Examination of the bolt showed that it fractured during flight due to stress corrosion cracking that 
+extended across about 95% of the cross-section area of the bolt shank. The bolt failure allowed the 
+leading edge spar to rotate upward relative to the trailing edge spar and fracture at the inboard cable 
+attach point, precluding controlled flight.
+The stainless-steel material used for the wing cable attachment bolt was susceptible to stress corrosion 
+cracking when exposed to a chloride-containing environment (such as the ocean). The airplane was 
+previously equipped with floats, and was likely operated as an amphibious airplane at some point before 
+the pilot purchased it. In addition, the installed bolt was a different material than the AN5-30A bolt 
+specified in the Quicksilver Assembly, Maintenance, and Parts Manual for securing the outer upper and 
+lower wing cables to the leading edge spar of the right wing. The material of the bolt recommended in 
+the manual would be generally resistant to stress corrosion cracking as a result of a chloride-containing 
+environment. The maintenance records did not indicate when the stainless steel bolt was installed.
+Evidence of stress corrosion cracking might not be apparent during visual inspections of the bolted joint. 
+Also, the location of the stress corrosion cracking on the bolt would likely not have been detected during 
+a condition inspection with the bolted joint in place. Further, the assembly, maintenance, and parts 

@@ -1,0 +1,32 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+FORT LAUDERDALE, Florida
+Accident Number:
+ERA19LA137
+Date & Time:
+March 24, 2019, 11:01 Local 
+Registration:
+N944BT
+Aircraft:
+Pilatus PC12
+Aircraft Damage:
+Substantial
+Defining Event:
+Aircraft structural failure
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the climb to cruise altitude on a cross-country flight, the pilot heard a loud bang and the pilot's 
+side windshield shattered and the cabin began depressurizing. The pilot returned to the departure airport 
+and landed uneventfully, where he noticed that the seal was extruded in two places around the outer 
+pane. The windshield was sent to the manufacturer for a detailed examination, which revealed that 80% 
+of the fiberglass straps were missing, and they were likely removed by maintenance personnel. A 
+combination of missing straps and heavy delamination caused the outboard ply to become detached from 
+the edge attachment. Moisture ingress at the bottom aft edge caused delamination and arcing.  There was 
+no record in the airframe logbook of the straps’ removal.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Improper maintenance of the windshield, which resulted in delamination and in-flight depressurization.

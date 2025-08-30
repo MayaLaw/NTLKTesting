@@ -1,0 +1,29 @@
+{
+    "Filename": "95376.txt",
+    "Location": "Galena, Idaho",
+    "Accident Number": "GAA17CA341",
+    "Date & Time": "June 14, 2017, 11:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N9912Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported attempting perform crosswind softfield takeoff dry turf airstrip set flap 10 airplane nosehigh attitude stall warning horn sounded relaxed pressure yoke stall warning horn stopped shortly liftoff airplane entered poweron stall pilot lost airplane control airplane began descend runway airplane subsequently departed runway impacted barbed wire fence airplane sustained substantial damage right wing strut pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack resulted poweron stall subsequent loss airplane control",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "stall",
+                4
+            ]
+        ]
+    }
+}

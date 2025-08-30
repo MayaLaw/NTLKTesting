@@ -1,0 +1,36 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Zanesville, Ohio
+Accident Number:
+CEN18LA284
+Date & Time:
+July 19, 2018, 16:00 Local 
+Registration:
+N23JH
+Aircraft:
+Toomey Quickie
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot departed in the experimental, amateur-built airplane for a local photography flight. 
+During the return flight, the engine power dropped more than 1,000 rpm, and the engine monitor 
+indicated about twice the normal fuel flow. The pilot was initially able to maintain airspeed and altitude; 
+however, the rpm subsequently began to decrease further, and the pilot determined that the airplane 
+would not be able to reach the airport. During the subsequent forced landing in a cornfield, the airplane's 
+nose struck the ground, and the airplane then nosed over.
+Examination of the wreckage revealed a separation of the right exhaust manifold, which was directly 
+beneath the intake breather for the engine. Additionally, a mixture set screw on the carburetor was found 
+loose and extended out, both of which would have resulted in a loss of rpm. Although the weather 
+conditions were conducive to carburetor icing at descent power, the failed exhaust manifold and loose 
+mixture screw likely led to the loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the exhaust manifold and a loose mixture screw, which resulted in a partial loss of engine 
+power.

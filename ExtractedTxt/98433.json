@@ -1,0 +1,29 @@
+{
+    "Filename": "98433.txt",
+    "Location": "Crowley, Louisiana",
+    "Accident Number": "GAA19CA010",
+    "Date & Time": "October 8, 2018, 10:20 Local",
+    "Aircraft": "Air Tractor AT 402",
+    "Registration": "N1500E",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported want take wet grass airstrip normally used decided take asphalt road paralleled grass left side airstrip takeoff roll left wing collided tall vegetation airplane veered left exited road airplane subsequently impacted drainage culvert airplane sustained substantial damage left wing empennage pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot selection unsuitable terrain takeoff resulted collision vegetation subsequent loss directional control",
+        "Top Words": [
+            [
+                "left",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96938.txt",
+    "Location": "Hillsboro, Oregon",
+    "Accident Number": "GAA18CA181",
+    "Date & Time": "March 10, 2018, 14:20 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N50KF",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot tailwheelequipped airplane reported landing airplane ground looped right main landing gear collapsed added belief became complacent flight airplane sustained substantial damage fuselage student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation review recorded data automated weather observation station located airport reported 27 minute accident wind 070 8 knot airplane landed runway 31l probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll tailwind condition",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

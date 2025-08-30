@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Naples, Florida
+Accident Number:
+GAA17CA180
+Date & Time:
+February 17, 2017, 11:50 Local 
+Registration:
+N737RT
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot on the controls reported that, during landing while about 70 knots, the airplane buffeted and 
+was pushed to the right of the runway centerline. The pilot recovered and realigned the airplane with the 
+nose on the centerline. He reported that, when he entered the flare, the airplane encountered another 
+wind gust, and the airplane ballooned. The airplane descended and pitched down and landed hard on the 
+nose gear. The propeller struck the ground, and the pilot landed the airplane without further incident. 
+The airplane sustained substantial damage to the firewall. 
+The METAR reported that the wind was variable at 05 knots about the time of the accident.
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain pitch control, which resulted in a hard landing. 

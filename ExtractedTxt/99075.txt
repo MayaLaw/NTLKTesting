@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Melba, Idaho
+Accident Number:
+WPR19LA092
+Date & Time:
+March 1, 2019, 13:45 Local 
+Registration:
+N6486J
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and student pilot were performing maneuvers when the engine lost total power. The 
+instructor pitched the nose of the airplane down and asked the student pilot to restart the engine. The 
+student pilot was unable to rotate the engine using the starter, and the flight instructor verified that the 
+master switch was in the “ON” position. The instructor tried to start the engine himself and was 
+unsuccessful. The flight instructor performed a forced landing in a field.
+Examination revealed that the idle mixture adjustment screw and spring assembly had separated from 
+the carburetor and were found in the lower cowling area. After the airplane was relocated to a nearby 
+road the engine rotated via the starter.
+Examination of the idle mixture adjustment screw and spring assembly revealed no anomalies. The 
+reason that the screw backed out of the carburetor could not be determined. The starter solenoid was 
+removed and disassembled. The starter solenoid was examined and revealed a frayed and separated wire 
+from the coil to a terminal end. The reasons for this fraying and separation could not be determined. 
+Although the starter solenoid was faulty, it is unlikely that the engine would have restarted due to the 
+separated idle mixture screw and spring assembly.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power due to a separated carburetor idle mixture adjustment screw and spring 
+assembly for reasons that could not be determined. 

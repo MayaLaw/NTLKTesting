@@ -1,0 +1,45 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Lewiston, Idaho
+Accident Number:
+WPR18LA215
+Date & Time:
+August 8, 2018, 18:28 Local 
+Registration:
+N255
+Aircraft:
+Cessna T337
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The pilot reported that he was returning to the airport after an uneventful aerial survey flight. When the 
+pilot extended the landing gear, the system began operating but the gear did not extend. Multiple efforts 
+to extend the gear, including assistance by the passenger and coordination with his company's 
+maintenance personnel, were unsuccessful. The pilot then burned off excess fuel and conducted a gear-
+up landing at the airport. The airplane sustained substantial damage to the lower fuselage. 
+Postaccident examination of the airplane revealed that two main landing gear door actuators had 
+hyperextended and allowed all hydraulic fluid to be lost. Detailed examination indicated that the right 
+actuator had hyperextended in flight, while the left one hyperextended due to landing gear door runway 
+contact during the gear-up landing. The actuator rod in each actuator was normally travel-limited and 
+contained by a single internal snap ring, which acted as the mechanical stop and retention device for the 
+rod inside the actuator cylinder. For undetermined reasons, the snap ring was liberated from its groove in 
+the right actuator, which allowed the actuator rod to travel beyond its normal limit, which resulted in the 
+loss of hydraulic fluid and operational failure of the landing gear. Postexamination reassembly and 
+testing of the landing gear system indicated that the hyperextended actuators were the only mechanical 
+deficiencies in the system.
+The airplane manufacturer's maintenance manual specified the replacement of the snap rings (retainers) 
+upon rebuild of the actuator. According to the airplane maintenance records, all three main landing gear 
+door cylinders (actuators) were rebuilt with new "O-rings" about 4 years before the accident. The entry 
+did not cite any additional details about the rebuilds, including whether new internal snap rings were 
+installed. Discussions with the operator's director of maintenance indicated that the snap rings likely 
+were not replaced during the actuator rebuild.
+Review of industry documents revealed other occurrences of snap ring liberation and consequent 
+landing gear system problems in this model airplane, and at least two different hardware options to 
+prevent recurrence were available. One incorporated a new-design actuator that eliminated the accident 

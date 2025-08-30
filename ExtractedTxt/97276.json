@@ -1,0 +1,29 @@
+{
+    "Filename": "97276.txt",
+    "Location": "Wickenburg, Arizona",
+    "Accident Number": "GAA18CA285",
+    "Date & Time": "May 18, 2018, 08:20 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N4964D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll touchandgo landing reconfigured flap takeoff added airplane veered sharply right attempted recover full left rudder brake airplane ground looped right exited runway left main landing gear collapsed left wing impacted ground airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported automated weather observation station located airport reported 20 minute accident wind light variable wind gust airplane landed runway 05 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

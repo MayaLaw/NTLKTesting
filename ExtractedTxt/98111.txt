@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Addison, Texas
+Accident Number:
+CEN18LA344
+Date & Time:
+August 18, 2018, 15:00 Local 
+Registration:
+N893JA
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+3 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot reported that, shortly after departing on a discovery flight, the airplane began veering 
+left. He applied right rudder and aileron; however, the airplane continued to veer left. He 
+recalled hearing the stall warning horn and stated that he lowered the nose and adjusted the 
+trim, but the airplane continued in a nose-down position and impacted the ground.
+A video of the accident flight showed the airplane in a high- pitch attitude shortly after takeoff, 
+followed by the left wing dropping and a rapid descent, consistent with an aerodynamic stall. 
+Given that the pilot had just taken off, there was insufficient altitude to recover from the stall.
+The airplane sustained substantial damage to the fuselage, wings, and empennage. A 
+postaccident examination did not reveal any evidence of a preimpact failure or malfunction 
+that would have precluded normal operation. The examination revealed a flap setting of 30°. 
+Weight and balance calculations determined that the airplane was loaded about 138 lbs over its 
+maximum gross weight, which, in combination with the flap setting during takeoff, would have 
+adversely affected the airplane’s climb rate. In an attempt to maintain a positive rate of climb, 
+the pilot inadvertently exceeded the airplane’s critical angle of attack and aerodynamically 
+stalled the airplane.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper flap setting for takeoff and subsequent exceedance of the airplane’s 

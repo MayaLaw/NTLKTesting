@@ -1,0 +1,29 @@
+{
+    "Filename": "93947.txt",
+    "Location": "Hondo, Texas",
+    "Accident Number": "GAA16CA462",
+    "Date & Time": "September 5, 2016, 11:20 Local",
+    "Aircraft": "AIR TRACTOR INC AT",
+    "Registration": "N31627",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported maneuvering low altitude field agricultural application flight airplane struck antenna atop tower adjacent field antenna wrapped around right wing landing gear pilot added attempted offairport landing airplane impacted terrain airplane sustained substantial damage fuselage empennage wing pilot reported preimpact mechanical failure malfunction airframe engine would precluded normal operation email tower owner lawyer reported tower used internet twoway communication added tower 200 ft ground level antenna attached tower mid upper 100 foot range lawyer reported tower marked lit appropriately registered due height probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance antenna atop tower maneuvering low altitude airplane subsequent impact terrain attempted offairport landing",
+        "Top Words": [
+            [
+                "tower",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Newburyport, Massachusetts
+Accident Number:
+ERA18LA175
+Date & Time:
+June 20, 2018, 12:45 Local 
+Registration:
+N239AM
+Aircraft:
+AIRCRAFT MFG & DEVELOPMENT 
+CO CH 2000
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, after a personal, cross-country flight, he entered the traffic pattern at the 
+destination airport and noted a 20° left crosswind between 9 and 11 knots. The final approach was stable, but 
+after crossing the threshold, the airplane descended and drifted left over grass adjacent to the runway. Because 
+the airplane was not over the runway, the pilot chose to conduct a go-around and added full power, but the left 
+main landing gear struck the grass next to the runway. The airplane did not climb and continued drifting left. The 
+pilot retracted the flaps in an attempt to gain altitude; however, the airplane still did not climb, and the stall 
+warning horn activated. He pushed the yoke forward to avoid a stall, and the airplane touched down on the 
+grass and then impacted trees, which resulted in substantial damage to the wings and fuselage. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that contributed to 
+the accident. A stand of trees was located left of the runway. It is possible that the trees blocked the crosswind 
+when the airplane descended below treetop level and that the pilot did not adequately compensate for the 
+existing winds during the final approach and landing flare. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to adequately compensate for existing crosswind conditions during the final approach and 
+landing flare, which led to the airplane drifting left of the runway, and his delayed decision to go around, which 
+resulted in the airplane touching down in the grass next to the runway and a subsequent collision with trees.

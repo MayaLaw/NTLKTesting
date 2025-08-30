@@ -1,0 +1,40 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Chugiak, Alaska
+Accident Number:
+ANC17LA028
+Date & Time:
+June 5, 2017, 18:00 Local 
+Registration:
+N35700
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, about 1 hour after takeoff on the personal flight, the engine started "sputtering" 
+and then lost all power. The pilot was unable to restart the engine and maneuvered the airplane for 
+landing at a nearby airport. The airplane subsequently touched down in an open field, impacted a fence, 
+and came to rest inverted in the grass, resulting in substantial damage. 
+During recovery of the airplane, about 1 gallon of fuel was drained from the left wing and about 7.5 
+gallons of fuel were drained from the right wing. Examination revealed no preimpact mechanical 
+malfunctions or failures with the airframe or engine. The engine was satisfactorily test run several times 
+during the examination. The fuel injector servo successfully passed a flow check and showed no 
+preimpact mechanical malfunctions or failures. Various fuel samples from the airplane were tested and 
+no water was detected. 
+The pilot initially reported that the fuel selector valve was positioned at the left tank position when the 
+engine started experiencing issues, but later reported that he was using the right tank position during the 
+engine issues. Given the airplane's fuel state following the accident and the lack of anomalies found 
+during postaccident examination, it is likely that the loss of engine power was the result of fuel 
+starvation when the pilot exhausted the fuel supply of the left wing tank. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper in-flight fuel management, which resulted in a total loss of engine power due to 
+fuel starvation. 

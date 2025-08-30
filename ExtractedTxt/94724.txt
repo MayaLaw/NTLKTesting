@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Dawsonville, Georgia
+Accident Number:
+ERA17LA109
+Date & Time:
+February 19, 2017, 12:15 Local 
+Registration:
+N99716
+Aircraft:
+Ercoupe 415
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot recently purchased the airplane and was returning it to his home airport. Before the 
+flight, he added 1/2 quart of oil to the engine, bringing the oil level to between 3 1/2 and 4 quarts. About 
+30 minutes after departure, the pilot noticed that the oil pressure was dropping. He reduced engine 
+power and turned the airplane toward the closest airport. The oil pressure continued to decrease, even 
+though the engine continued to produce power, and the pilot chose to perform a precautionary landing 
+on a road. Upon touchdown, the airplane skidded across the road until it impacted a tree and came to rest 
+in a ditch. Examination of the engine revealed a hole in the oil sump consistent with impact damage, and 
+oil was noted coming from the crankcase breather tube. In addition, oil was noted on the bottom of the 
+airplane from the nose to the empennage. Even after the oil leaked from the broken oil sump and from 
+the breather tube, the postaccident engine oil level was 3 1/2 quarts.
+A subsequent engine run demonstrated that the engine would experience a momentary drop in oil 
+pressure indication if the oil sump was overfilled. The engine and the oil pressure gauge otherwise 
+operated normally. Since the pilot lacked operational experience with the airplane, it is likely that he 
+unintentionally overfilled the oil sump, which resulted in an interaction between the oil in the sump and 
+the rotating crankshaft. The interaction likely resulted in air bubbles becoming entrained in the oil and a 
+subsequent oil pressure fluctuation. Additionally, since he checked the oil level following a previous 
+flight, it was likely that the oil had not fully drained back into the sump when the reading was taken. 
+Considering that the oil pressure gauge operated normally after the accident, it is unlikely that the gauge 
+was producing a faulty reading in flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

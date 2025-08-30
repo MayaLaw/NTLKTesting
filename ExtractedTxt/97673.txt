@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Lago Vista, Texas
+Accident Number:
+CEN18LA250
+Date & Time:
+July 1, 2018, 20:10 Local 
+Registration:
+N2469C
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot was conducting a personal flight when the airplane rolled left during the 
+landing flare and then landed hard on the left main landing gear (MLG). The airplane bounced and 
+landed hard and then bounced again on the left MLG. The left MLG spring separated from the fuselage 
+on the third contact with the runway. The airplane subsequently ground looped to the left and came to 
+rest heading about 180° from the original runway direction. The left main wing spar was substantially 
+damaged when the left wingtip impacted the runway.
+Postaccident materials examination of the fractured left MLG spring revealed a multiple-origin fatigue 
+crack where the landing gear fixation hardware contacted the landing gear spring. The maintenance 
+logbooks were not complete; therefore, it could not be determined if the left MLG spring had been 
+replaced or overhauled since new. The separation of the left MLG gear spring during landing was likely 
+due to the fatigue crack that reduced the overall strength of the landing gear spring.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The separation of the left main landing gear spring during landing due to a preexisting fatigue crack.

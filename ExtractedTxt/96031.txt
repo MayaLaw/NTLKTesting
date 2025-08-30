@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+McAlester, Oklahoma
+Accident Number:
+CEN17LA357
+Date & Time:
+September 15, 2017, 16:20 Local 
+Registration:
+N18403
+Aircraft:
+Beech A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that the flight originated with full fuel tanks. About 8 minutes after takeoff, he 
+noticed fuel leaking from the left fuel tank cap for a short period. The pilot continued the flight, 
+switching fuel tanks every 25 minutes. The flight continued uneventfully until the engine lost total 
+power while the airplane was entering the downwind leg to land. The pilot switched fuel tanks and 
+attempted to restart the engine to no avail. The pilot performed a forced landing in a field; the airplane 
+touched down hard and contacted a hay bale, which resulted in substantial damage to the wings and 
+compromised the fuel system. Postaccident examination of the main fuel tank caps revealed the O-rings 
+were cracked. Maintenance records showed that the O-rings were replaced about 17 months before the 
+accident. Although it is unknown how much fuel leaked from the fuel cap during the flight, the pilot 
+reported that, about 50 minutes before the accident, both fuel tanks were indicating about 3/4 full; thus, 
+it is doubtful that enough fuel would have leaked to result in fuel exhaustion. A postaccident engine test 
+run was conducted with the fuselage strapped down on a trailer; an alternate fuel system was rigged to 
+both the left and right fuel inlet lines at the fuselage. The engine started without hesitation and ran 
+smoothly up to 1,500 rpm using the left fuel tank inlet. The test was repeated using the right fuel tank 
+inlet, and the engine performed in the same manner. The rpm was not increased any higher due to the 
+security of the fuselage during the test. Postaccident examination of the engine did not reveal evidence 
+of preimpact malfunctions or failures that would have precluded normal operation; thus, the reason for 
+the loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

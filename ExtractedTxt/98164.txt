@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Afton, Wyoming
+Accident Number:
+WPR18LA241
+Date & Time:
+August 13, 2018, 09:08 Local 
+Registration:
+N5660J
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+3 Serious
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+An airline transport pilot and two passengers departed on an aerial observation flight in mountainous 
+terrain. While flying in a valley, the pilot reported that he experienced downdrafts, which made it 
+unlikely that the airplane would clear the ridge lines in front of the airplane. The pilot performed a steep 
+180° left turn to exit from the high terrain. However, after completing the turn, the airplane was unable 
+to climb over terrain and struck several trees before impacting the ground, which resulted in substantial 
+damage to the wings and fuselage.  
+The pilot reported no preaccident mechanical failures or malfunctions with the airplane that would have 
+precluded normal operation.
+The airplane's weight and balance was calculated as about 256 pounds below the maximum gross weight 
+limit, and the density altitude at the accident was calculated as about 8,765 ft mean sea level (msl). A 
+weather study of the accident area identified no significant winds, turbulence, or low-level wind shear 
+present or forecast. The study did identify a surface-based inversion that existed to about 500 ft above 
+ground level (agl). Additionally, another pilot in a different airplane stated that moderate turbulence was 
+present near the accident area about 18 minutes before the accident. 
+Due to a combination of the airplane's high gross weight, a high-density altitude, a temperature 
+inversion, maneuvering at a steep bank in order to avoid high terrain, and with potential downdrafts, the 
+pilot dissipated the airplane's airspeed and altitude, and approached a stall. With no altitude available to 
+increase the airspeed after the left turn and already at full power, the airplane continued to descend until 
+it struck trees and impacted terrain.
+Probable Cause and Findings

@@ -1,0 +1,29 @@
+{
+    "Filename": "98142.txt",
+    "Location": "Brownsville, Oregon",
+    "Accident Number": "WPR18TA238",
+    "Date & Time": "August 20, 2018, 16:40 Local",
+    "Aircraft": "Rans S14",
+    "Registration": "N140JL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "sport pilot circling 600 ft ground level taking photograph concert venue stated slowed airplane 60 mph entering steep left turn turn airplane stalled subsequently impacted ground pilot reported pre impact mechanical anomaly airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack maneuvering low altitude resulted aerodynamic stall loss control impact terrain finding aircraft angle attack attainedmaintained personnel issue aircraft control pilot personnel issue monitoring equipinstruments pilot",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "ground",
+                2
+            ]
+        ]
+    }
+}

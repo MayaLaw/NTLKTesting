@@ -1,0 +1,29 @@
+{
+    "Filename": "98042.txt",
+    "Location": "Baker City, Oregon",
+    "Accident Number": "WPR18FA218",
+    "Date & Time": "August 11, 2018, 10:17 Local",
+    "Aircraft": "Mooney M20K",
+    "Registration": "N231EC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot student pilotrated passenger highperformance airplane inbound landing multiple witness saw airplane downwind leg airport traffic pattern one witness estimated airplane lower closer runway typical traffic pattern witness saw airplane begin left turn one reported airplane rapidly transitioned nosedown descent wreckage location corresponded extended downwindtobase turn ample space available pilot initiate turn final without excessive flight control input airplane appeared landing configuration debris distribution damage indicated near vertical nosedown impact consistent airplane impacting ground spin postaccident examination reveal anomaly airframe engine would precluded normal operation engine appeared operating time impact however evidence suggested airplane enginedriven vacuum pump recently failed failure would resulted multiple visual alert caused vacuumoperated instrument become inoperative prevented operation airplane speed brake airplane equipped backup vacuum system however impact damage prevented accurate assessment operational status time accident vacuum pump exceeded manufacturer recommended replacement life subjected multiple sudden engine stoppage event required replacement pump however indication airplane logbook pump replaced following event although none system relied vacuum pump critical visual flight rule operation failure would presented operational distraction pilot would competed attention flying pattern based witness report location wreckage possible extended downwind leg attempt manage failure effort slow airplane order land without speed brake",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "pump",
+                5
+            ],
+            [
+                "witness",
+                4
+            ]
+        ]
+    }
+}

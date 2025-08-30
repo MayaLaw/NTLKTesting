@@ -1,0 +1,29 @@
+{
+    "Filename": "98470.txt",
+    "Location": "Payson, Arizona",
+    "Accident Number": "WPR19FA007",
+    "Date & Time": "October 12, 2018, 18:45 Local",
+    "Aircraft": "Cessna T240",
+    "Registration": "N433CS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot approaching airport landing around dusk visual meteorological condition conclusion crosscountry flight radar data depicted airplane 589 ft ground level downwind leg runway groundspeed 108 knot airplane entered right turn however rather aligning runway final approach leg airplane continued turn 360 continued extended downwind entering another right turn airplane altitude groundspeed fluctuating throughout maneuver radar contact lost near accident site 1 nautical mile end runway airplane impacted ground vertical nosedown attitude consistent aerodynamic stallspin damage signature indicated engine producing power time accident examination airframe engine revealed anomaly would precluded normal operation analysis radar data revealed radius airplane final turn 700 ft would required bank angle 50 based airplane approximate speed data consistent pilot failure compensate increased load factor turn subsequent exceedance airplane critical angle attack resulted stallspin pilot unable recover given airplane low altitude probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "turn",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99188.txt",
+    "Location": "Sevierville, Tennessee",
+    "Accident Number": "ERA19LA139",
+    "Date & Time": "March 27, 2019, 16:30 Local",
+    "Aircraft": "MARLOW Bearhawk",
+    "Registration": "N22GM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported experimental amateurbuilt airplane experienced total loss engine power maneuvering altitude 2500 ft mean sea level activated electronic fuel injectionignition system emergency power switch attempted restart engine unsuccessful performed forced landing field airplane sustained substantial damage left wing fuselage review engine flight data recorded electronic flight information system revealed sudden increase 240f 1 second exhaust gas temperature egt 1 cylinder consistent abnormal combustion immediately preceded loss engine power shortly thereafter engine rpm began decrease electrical system load increased 8 amp decreased 17 amp engine rpm continued decrease next 25 minute consistent windmilling propeller reached 900 rpm decreased 0 rpm prior landing electronic ignition circuit breaker found activated reason abnormal combustion activation electronic ignition circuit breaker resulted total loss engine power could determined based available information probable cause finding national transportation safety board determines probable cause accident abnormal combustion 1 cylinder reason could determined based available evidence followed activation ignition system circuit breaker resulted total loss engine power",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "loss",
+                4
+            ]
+        ]
+    }
+}

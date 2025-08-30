@@ -1,0 +1,37 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Heber, Utah
+Accident Number:
+WPR18LA272
+Date & Time:
+September 25, 2018, 11:00 Local 
+Registration:
+N90339
+Aircraft:
+Smith Aerostar601
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated he touched down normally and during the landing roll, the airplane veered left coming 
+to rest off the runway surface. The airplane sustained substantial damage to the right wing and 
+horizontal stabilizer. 
+Postaccident examination of the landing gear assembly revealed that the weld had failed on the joint 
+attached to the main landing gear cylinder and upper scissor assembly. Most of the fracture surface of 
+the failure surface had been obliterated by smearing and grinding, consistent with post-fracture damage. 
+The degree of the fracture surface damage was consistent with the fracture and separation happening 
+before the accident. Landing gear components are under cyclic loads at every landing and during landing 
+actions (such as braking or taxiing). There was no evidence of fatigue, corrosion, or other progressive 
+mechanisms would have led to the fracture of this joint from the strut cylinder. 
+It is likely that a recent hard landing fractured the joint from the cylinder, but it could not be determined 
+whether this occurred during the accident landing or beforehand due to the damage incurred after the 
+gear collapsed.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A recent hard landing resulted in a fracture of a joint from a cylinder to a main landing gear. 

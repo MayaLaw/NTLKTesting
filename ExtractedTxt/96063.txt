@@ -1,0 +1,45 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Ainsworth, Nebraska
+Accident Number:
+CEN17FA362
+Date & Time:
+September 23, 2017, 10:28 Local 
+Registration:
+N73MA
+Aircraft:
+Mitsubishi MU 2B-40
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The instrument-rated private pilot departed on a cross-country flight in instrument meteorological 
+conditions (IMC) with an overcast cloud layer at 500 ft above ground level (agl) and visibility restricted 
+to 1 ¾ miles in mist, without receiving an instrument clearance or opening his filed instrument flight 
+rules flight plan. There was an outage of the ground communications system at the airport and there was 
+no evidence that the pilot attempted to open his flight plan via his cellular telephone. In addition, there 
+was a low-level outage of the radar services in the vicinity of the accident site and investigators were 
+unable to determine the airplane's route of flight before impact. 
+The airport manager observed the accident airplane depart from runway 35 and enter the clouds. 
+Witnesses located to the north of the accident site did not see the airplane but reported hearing an 
+airplane depart about the time of the accident. One witness reported hearing a low-flying airplane and 
+commented that the engines sounded as if they were operating at full power. The witness heard a thud as 
+he was walking into his home but attributed it to a thunderstorm in the area. 
+The airplane impacted a field about 3.5 miles to the northeast of the departure end of the runway and off 
+the track for the intended route of flight. The airplane was massively fragmented during the impact and 
+debris was scattered for about 300 ft. The damage to the airplane and ground scars at the accident site 
+were consistent with the airplane impacting in a left wing low, nose low attitude with relatively high 
+energy.
+A postaccident examination of the engines and propeller assemblies did not reveal any preimpact 
+anomalies that would have precluded normal operation. Signatures were consistent with both engines 
+producing power and both propellers developing thrust at the time of impact. While the massive 
+fragmentation precluded functional testing of the equipment, there was no damage or failure that 
+suggested preimpact anomalies with the airframe or flight controls.
+Several days before the accident flight, the pilot encountered a "transient flag" on the air data attitude 
+heading reference system. The pilot reported the flag to both the co-owner of the airplane and an 

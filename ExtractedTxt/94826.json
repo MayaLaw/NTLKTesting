@@ -1,0 +1,29 @@
+{
+    "Filename": "94826.txt",
+    "Location": "Rattan, Oklahoma",
+    "Accident Number": "CEN17LA121",
+    "Date & Time": "February 14, 2017, 11:45 Local",
+    "Aircraft": "Beech C90A",
+    "Registration": "N1551C",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled - Air Medical (Unspecified)",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Electrical system malf/failure",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot stated engine start airplane powerup normal air medical flight two medical crewmembers engine ice vane lowered required ground operation subsequently raised takeoff takeoff climbout routine pilot leveled airplane assigned cruise altitude air traffic controller informed pilot heavy shower near destination airport pilot put ice vane pilot indicated shortly afterward airplane experienced two quick electrical power fluctuation everything went away came back second later entire electrical system failed due associated loss navigation capability operating instrument meteorological condition imc pilot set general course better weather condition based information preflight weather briefing pilot attempted find suitable hole cloud descend visual condition left engine lost power pilot ultimately located field cloud cover executed singleengine offairport landing resulted substantial damage right engine mount firewall postaccident examination airplane system reveal anomaly consistent inflight electrical system malfunction threeposition ignition engine startstarteronly switch position engine antiice switch position airplane battery initially checked examination voltmeter indicated 107 volt normal voltage 12 volt battery charged appeared function normally thereafter loss electrical power likely initiated pilot inadvertently selecting engine start switch instead engine antiice ice vane switch resulted startergenerators changing starter operation taking generator function offline airplane electrical power supplied solely battery caused deplete led subsequent loss electrical power airplane",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

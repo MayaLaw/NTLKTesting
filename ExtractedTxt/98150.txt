@@ -1,0 +1,41 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Quincy, Florida
+Accident Number:
+ERA18LA229
+Date & Time:
+August 24, 2018, 12:35 Local 
+Registration:
+N773CB
+Aircraft:
+Beech A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot performed a preflight inspection of the airplane and engine run-up with no discrepancies. 
+During the takeoff, about 125 ft above ground level with the landing gear extended, the pilot reported 
+that the engine suddenly lost total power. The pilot did not have adequate time to troubleshoot the loss 
+of power before performing a forced landing, during which the airplane impacted a tree. Although the 
+pilot recalled departing with the fuel selector on the left tank position and he did not report changing it 
+during the flight, it was found in the right tank position after the accident. 
+Examination of the airframe and engine fuel system components revealed minimal or no fuel in the fuel 
+pumps and throttle body. This finding was supported by decreased fuel flow recorded by the engine 
+monitor and was consistent with fuel starvation; however, the reason for the decreased fuel flow could 
+not be determined. Examination of the fuel vent system for the left and right fuel tanks revealed that 
+both were free of obstructions from one of the vents into each respective tank, and the fuel supply 
+system from each wing fuel tank to the engine were also clear for either fuel selector position. Water 
+found in the right fuel tank was consistent with the fire department using water to extinguish fires started 
+during the recovery process. A test run of the engine revealed no anomalies that would have precluded 
+normal operation.
+The mixture lever at the metering valve was impact damaged and loose and exhibited evidence of 
+smearing damage to a section of the brass lever; however, the smearing was not along the entire 
+periphery. Therefore, there was no evidence that the mixture control lever was rotating in relation to the 
+stem of the mixture control shaft.
+Probable Cause and Findings

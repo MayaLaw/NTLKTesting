@@ -1,0 +1,29 @@
+{
+    "Filename": "97721.txt",
+    "Location": "Dixie, Idaho",
+    "Accident Number": "GAA18CA405",
+    "Date & Time": "July 6, 2018, 13:30 Local",
+    "Aircraft": "Aviat Aircraft Inc A-1C",
+    "Registration": "N891DC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported approach backcountry private dirt airstrip wind swirling decided go around second landing attempt airplane descended treetop surrounding airstrip prevented pilot ability safely perform go around wind gust behind airplane pushed past end runway tree airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind variable 15 knot gusting 15 20 knot probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate approach gusting tailwind condition resulted runway overshoot",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

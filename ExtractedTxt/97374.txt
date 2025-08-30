@@ -1,0 +1,33 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Midland, Texas
+Accident Number:
+CEN18FA204
+Date & Time:
+May 31, 2018, 19:20 Local 
+Registration:
+N670SR
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot and passenger were departing on a personal flight in the student pilot's airplane. 
+Witnesses saw the airplane climb to about 200 ft above the runway at a slow airspeed, stall, and descend 
+in a right turn until impact with terrain. According to the pilot's wife, he regularly flew the airplane, 
+often with passengers. No pilot logbooks or records were found and the student's flight experience could 
+not be determined. Examination of the airplane revealed no mechanical malfunctions or anomalies that 
+would have precluded normal operation. Given the atmospheric conditions, the density altitude about the 
+time of the accident was 6,660 ft mean sea level (msl).
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An inadvertent stall, resulting in an uncontrollable descent and impact with terrain. Contributing to the 
+accident was the high density altitude.

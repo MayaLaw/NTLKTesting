@@ -1,0 +1,41 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Talkeetna, Alaska
+Accident Number:
+GAA16CA468
+Date & Time:
+September 3, 2016, 14:00 Local 
+Registration:
+N40661
+Aircraft:
+Maule M4
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of a tailwheel equipped airplane reported that he was landing on a backcountry airstrip. He 
+reported that after touchdown, about two-thirds of the way down the runway during the landing roll, the 
+wind shifted to a tailwind. He further reported that the airplane over ran the runway, impacted a hill, and 
+nosed over.
+The airplane sustained substantial damage to the empennage. 
+The pilot reported no preaccident mechanical malfunctions or failures with the airplane that would have 
+precluded normal operation.
+According to the pilot the wind was variable at 7-8 knots prior to the accident. 
+The Federal Aviation Administration has published the Advisory Circular (AC) 91-79A. This AC 
+discusses the hazards associated with runway overruns and the effect of a tailwind on landing distance 
+and states in part:
+The pilot must be aware of airspeed during the approach and of the targeted reference landing airspeed 
+(VREF)/airspeed, plus wind gust adjustments, over the runway threshold. An excessive approach speed 
+may result in an excessive speed over the runway's threshold, which may result in landing beyond the 
+intended touchdown point as well as a higher speed from which the pilot must bring the airplane to a 
+stop.
+The effect of a tailwind on landing distance is significant and is a factor in determining the landing 
+distance required. Given the airplane will land at a particular airspeed, independent of the wind, the 
+principal effect of a tailwind on operational landing distance is the change in the ground speed at which 
+the airplane touches down.

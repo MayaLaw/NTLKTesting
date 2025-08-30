@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Naples, Florida
+Accident Number:
+GAA18CA261
+Date & Time:
+May 7, 2018, 15:30 Local 
+Registration:
+N699ZA
+Aircraft:
+ZENAIR LTD CH 2000
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that, during landing, the airplane bounced. She added that she was 
+surprised and attempted to correct by getting back into ground effect, but the airplane bounced a again. 
+During the third bounce, the propeller struck the runway, and the nose landing gear collapsed.
+The airplane sustained substantial damage to the fuselage and engine mounts.
+The automated weather observation station located on the airport reported that, about the time of the 
+accident, the wind was from 280° at 13 knots. The airplane landed on runway 23.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's improper landing flare, which resulted in a bounced landing.
+Findings
+Aircraft
+Landing flare - Not attained/maintained
+Personnel issues
+Aircraft control - Student/instructed pilot
+Environmental issues
+Crosswind - Effect on operation

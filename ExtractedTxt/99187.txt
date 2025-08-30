@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Newton, Kansas
+Accident Number:
+CEN19LA111
+Date & Time:
+March 26, 2019, 17:30 Local 
+Registration:
+N76268
+Aircraft:
+Cessna 140
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that no engine issues were detected during the run up. He stated that, during the 
+takeoff, the climbout engine power was "good." On the turn to downwind, the pilot noticed a slight loss 
+of engine power. He checked the throttle position and continued the downwind leg. The pilot considered 
+landing on the crosswind runway but felt he had engine power to make a short 180° approach to the 
+departure runway. During the turn to final, the engine had an additional power drop, "clattered" about 3-
+4 seconds, and subsequently stopped. The pilot landed straight ahead in a field, where the airplane nosed 
+over and sustained substantial damage.
+A disassembly of the engine revealed that the camshaft was fractured in the area abeam the No.1 
+cylinder. The No. 1 connecting rod end was separated from its crankshaft journal, and the rod end 
+exhibited discoloration consistent with lubrication distress. The liberated sections of connecting rod 
+bearing material were found in the oil sump an exhibited discoloration consistent with lubrication 
+distress. The oil transfer tube orifice for the No. 1 connecting rod bearing was smeared over with 
+migrated connecting rod journal material. The migrated and smeared metal was drilled through to see if 
+any debris was present; only metallic particles were present that were attracted by a magnet. No other 
+blockages were found within the oil system. Scoring consistent with hard particle passage was observed 
+within the oil pump housing. The oil filter was cut open and had one spot of dark-colored debris; no 
+other debris found within the filter pleats. The oil suction pickup tube was disassembled and did not 
+contain any debris.
+The No. 1 connecting rod end separation is consistent with oil starvation at the rod end.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

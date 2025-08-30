@@ -1,0 +1,29 @@
+{
+    "Filename": "99176.txt",
+    "Location": "Tampa, Florida",
+    "Accident Number": "GAA19CA180",
+    "Date & Time": "March 24, 2019, 14:27 Local",
+    "Aircraft": "Piper PA23",
+    "Registration": "N976AZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot multiengine airplane reported descending vector visual instrument landing system approach instrument flight rule flight plan 2500 2800 ft mean sea level felt aircraft shudder along loud bang disengaged autopilot determine flight control affected looked damage wing nose area saw damage pilot continued airport landed without incident landing pilot waiting aircraft reported saw damage accident airplane vertical stabilizer looked like bird hit postaccident examination blood tissue found airplane airplane sustained substantial damage vertical stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident inflight collision bird approach resulted damage vertical stabilizer",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "damage",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

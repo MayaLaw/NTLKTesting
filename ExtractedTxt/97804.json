@@ -1,0 +1,29 @@
+{
+    "Filename": "97804.txt",
+    "Location": "Batavia, Ohio",
+    "Accident Number": "GAA18CA425",
+    "Date & Time": "July 13, 2018, 15:40 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N12064",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing flare pulled back control sharply airplane ballooned landed hard unbeknownst propeller struck runway went around traffic pattern landed taxied airplane back ramp without incident airplane sustained substantial damage firewall lower fuselage student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted hard landing finding aircraft landing flare attainedmaintained personnel issue aircraft control studentinstructed pilot",
+        "Top Words": [
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Start, Louisiana
+Accident Number:
+GAA18CA297
+Date & Time:
+May 23, 2018, 14:15 Local 
+Registration:
+N4913Z
+Aircraft:
+Piper PA22
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during landing on a grass airstrip, the airplane 
+was close to an aerodynamic stall. He added that, during the landing, the airplane bounced multiple 
+times, the propeller struck the ground, and the airplane then nosed over.
+The airplane sustained substantial damage to the right wing lift strut.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in a bounced landing.
+Findings
+Aircraft
+Landing flare - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

@@ -1,0 +1,29 @@
+{
+    "Filename": "97483.txt",
+    "Location": "Thomson, Georgia",
+    "Accident Number": "ERA18LA168",
+    "Date & Time": "June 14, 2018, 18:00 Local",
+    "Aircraft": "Stinson L 5",
+    "Registration": "N45TX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "cruise flight pilot noticed increase oil temperature loss oil pressure shortly thereafter engine lost total power propeller stopped rotating pilot performed forced landing lake resulted substantial damage examination revealed propeller could rotated hand crankshaft fractured 2 crank pin review maintenance logbook revealed recent engine overhaul performed 24 year 711 flight hour accident since time propeller removed replaced two separate occasion due propeller strike record crankshaft inspection following either propeller strike contrary manufacturer guidance additional damage found no 1 2 cylinder caused crankshaft failure piston impacted respective rod skirt addition main fracture separate crack discovered slightly aft 1 main bearing propagated nearly width crankshaft fully failed thrust nut required 375 ftlbs torque easily removed without effort special tool indicating torqued value significantly specification could cause axial play along crankshaft contribute progression crankshaft failure likely initiated previous 2 propeller strike crankshaft likely failed structural integrity compromised previous propeller strike improper torque thrust nut likely exacerbated failure crankshaft probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "crankshaft",
+                8
+            ],
+            [
+                "propeller",
+                7
+            ],
+            [
+                "strike",
+                4
+            ]
+        ]
+    }
+}

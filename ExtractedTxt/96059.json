@@ -1,0 +1,29 @@
+{
+    "Filename": "96059.txt",
+    "Location": "Glendale, California",
+    "Accident Number": "WPR17LA212",
+    "Date & Time": "September 22, 2017, 21:57 Local",
+    "Aircraft": "Mooney M20E",
+    "Registration": "N34BE",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot passenger planned round trip personal flight pilot singleengine airplane according pilot wanted service airplane fuel return leg due passenger desire arrive home certain time initial descent return leg engine lost total power pilot conducted series troubleshooting step avail conducted forced landing onto residential street struck tree postaccident wreckage examination revealed fuel tank empty although right fuel tank sustained small breach impact fuel odor accident site series brown streak observed trailing area adjacent rightwing fuel sump drain sump valve sealant badly degraded possible small fuel leak developed undetermined time however blue streaking would likely significant recent fuel loss occurred examination revealed leak fuel supply system engine engine tachometer tested accuracy anomaly noted engine test run engine started normally operated full speed range evidence mechanical anomaly pilot purchased airplane 5 month accident tracking fuel consumption since purchase determined representative fuel burn rate based fuel purchase engine tachometer hourmeter reading pilot reported fuel gauge unreliable possess calibrated dipstick measure actual fuel quantity using calculated fuel burn tachometer reading method pilot estimated enough fuel remaining complete flight land federal aviation administrationrequired 45minute fuel reserve however performed multiple flight since last fill included one go around full runwaylength taxi earlier day total time flight near airplane fuel endurance limit measured tachometer time fuel consumption likely higher due increased consumption demanded engine multiple takeoff likely pilot miscalculated amount fuel board flight resulted fuel",
+        "Top Words": [
+            [
+                "fuel",
+                20
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "engine",
+                7
+            ]
+        ]
+    }
+}

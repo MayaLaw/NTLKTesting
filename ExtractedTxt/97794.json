@@ -1,0 +1,29 @@
+{
+    "Filename": "97794.txt",
+    "Location": "Bismarck, Illinois",
+    "Accident Number": "CEN18LA270",
+    "Date & Time": "July 13, 2018, 18:15 Local",
+    "Aircraft": "Air Tractor AT 602",
+    "Registration": "N629LA",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting aerial application flight witness saw airplane maneuvering entering flat spin ground scar accident site consistent wing noselevel impact attitude examination engine airframe revealed evidence mechanical malfunction anomaly airplane equipped elevator downspring rudderaileron interconnect system according manufacturer system required improved stability handling characteristic airplane although circumstance accident consistent stallspin loss control reason loss control could determined based available information whether lack elevator downspring rudderaileron interconnect system contributed loss control determined probable cause finding national transportation safety board determines probable cause accident loss control reason could determined based available information",
+        "Top Words": [
+            [
+                "loss",
+                4
+            ],
+            [
+                "control",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98742.txt",
+    "Location": "Los Banos, California",
+    "Accident Number": "WPR19LA039",
+    "Date & Time": "December 6, 2018, 12:30 Local",
+    "Aircraft": "Beech 36",
+    "Registration": "N361TC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "almost 1 hour flight pilot turned onto left base leg traffic pattern destination airport intended practice takeoff landing turn engine began sputter pilot turned toward runway tried maintain clearance tree located outside airport perimeter fence however propeller landing gear impacted fence airplane came rest upright 5 ft runway edge resulting substantial damage postaccident examination engine fuel system revealed anomaly fuel selector handle removed rod rotated valve remained intact attached unit fuel selector disassembled ring found located detent based position may positioned left rightwing tip tank however position fuel selector time loss engine power could determined pilot reported 74 gallon fuel onboard time departure however neither distribution fuel fuel onboard time accident determined reason partial loss engine power could determined based available information probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "fuel",
+                7
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "determined",
+                4
+            ]
+        ]
+    }
+}

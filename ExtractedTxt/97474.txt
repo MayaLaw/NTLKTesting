@@ -1,0 +1,44 @@
+Page 1 of 16
+Aviation Investigation Final Report
+Location:
+Anchorage, Alaska
+Accident Number:
+ANC18FA045
+Date & Time:
+June 13, 2018, 12:05 Local 
+Registration:
+N9423B
+Aircraft:
+Cessna 175
+Aircraft Damage:
+Substantial
+Defining Event:
+Midair collision
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Two wheel-equipped, high-wing airplanes, a Cessna 207 and a Cessna 175, collided midair while in 
+cruise flight in day visual meteorological conditions. Both airplanes were operating under visual flight 
+rules, and neither airplane was in communication with an air traffic control facility. The Cessna 175 
+pilot stated that he was making position reports during cruise flight about 1,000ft above mean sea level 
+when he established contact with the pilot of another airplane, which was passing in the opposite 
+direction. As he watched that airplane pass well below him, he noticed the shadow of a second airplane 
+converging with the shadow of his airplane from the opposite direction. He looked forward and saw the 
+spinner of the converging airplane in his windscreen and immediately pulled aft on the control yoke; the 
+airplanes subsequently collided. The Cessna 207 descended uncontrolled into the river. Although 
+damaged, the Cessna 175 continued to fly, and the pilot proceeded to an airport and landed safely. An 
+examination of both airplanes revealed impact signatures consistent with the two airplanes colliding 
+nearly head-on. 
+About 4 years before the accident, following a series of midair collisions in the Matanuska Susitna (Mat-
+Su) Valley (the area where the accident occurred), the FAA made significant changes to the common 
+traffic advisory frequencies (CTAF) assigned north and west of Anchorage, Alaska. The FAA 
+established geographic CTAF areas based, in part, on flight patterns, traffic flow, private and public 
+airports, and off-airport landing sites. The CTAF for the area where the accident occurred was at a 
+frequency changeover point with westbound Cook Inlet traffic communicating on 122.70 and eastbound 
+traffic on 122.90 Mhz. The pilot of the Cessna 175, which was traveling on an eastbound heading at the 
+time of the accident, reported that he had a primary active radio frequency of 122.90 Mhz, and a non-
+active secondary frequency 135.25 Mhz in his transceiver at the time of the collision. The transceivers 
+from the other airplane were not recovered, and it could not be determined whether the pilot of the 
+Cessna 207 was monitoring the CTAF or making position reports. 

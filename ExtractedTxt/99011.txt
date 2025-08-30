@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Winter Haven, Florida
+Accident Number:
+ERA19FA106
+Date & Time:
+February 23, 2019, 12:43 Local 
+Registration:
+N65NE
+Aircraft:
+STOL Aircraft Corp UC-1
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 Fatal, 1 Serious, 1 
+Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot and flight instructor were conducting an instructional flight in the amphibious multi-engine 
+airplane. The instructor briefed the pilot before the flight that he would simulate an engine failure at 
+some point after takeoff. The pilot stated that, after takeoff, about 200 to 300 ft above ground level, the 
+instructor reduced power on the left engine, and the engine subsequently lost all power.
+The flight instructor took control of the airplane and unsuccessfully attempted to restart the engine as the 
+airplane continued to descend. The pilot stated that he was in the process of retracting the landing gear 
+and did not have enough time to retract the flaps. The instructor was unable to establish a climb and 
+upon realizing that the airplane would not reach the selected forced landing site, the instructor selected a 
+closer landing site; however, as he turned the airplane left toward the site, the airplane likely slowed 
+below its single-engine minimum control airspeed, the left wing dropped, and the airplane impacted a 
+house. Examination of the wreckage revealed that the left propeller was in the feather position. There 
+was no evidence of any preexisting mechanical malfunctions or anomalies that would have precluded 
+normal operation of the airplane, and the left engine performed with no anomalies during a test run; 
+therefore, the reason for the total loss of left engine power could not be determined.
+The instructor's decision to simulate a failure of the airplane's critical engine at low altitude allowed 
+little margin for securing the failed engine and configuring the airplane for optimum single-engine 
+performance following the actual loss of engine power. His subsequent failure to maintain airspeed 
+while maneuvering for a forced landing resulted in a loss of control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of left engine power for reasons that could not be determined, and the instructor's 
+failure to maintain airspeed while maneuvering for a forced landing, which resulted in a loss of 

@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Temple, Texas
+Accident Number:
+CEN18LA118
+Date & Time:
+March 8, 2018, 10:45 Local 
+Registration:
+N60JN
+Aircraft:
+Bereznak Lancair Legacy
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+After leveling off at 9,500 ft, the airline transport pilot switched the fuel selector from the right to the 
+left fuel tank of the experimental, amateur-built airplane. He noticed a change in the sound of the engine, 
+a decline in fuel flow, and a partial loss of engine power. He switched back to the right fuel tank and 
+turned on the auxiliary fuel pump, but this did not correct the problem. Realizing that he would not be 
+able to glide to a nearby airport, the pilot made a forced landing in a plowed field. Postaccident 
+examination of the engine revealed no discrepancies that would have precluded normal operation. The 
+fuel selector was found separated just below the selector handle, and the selector valve was found in the 
+90-percent-closed position. The fuel selector assembly showed extensive wear. It is likely that the fuel 
+selector separated with the valve in an intermediate position when the pilot changed the fuel selector 
+handle position, which resulted in a partial loss of engine power due to fuel starvation as a result of the 
+nearly closed fuel valve.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the fuel selector valve in a nearly closed position, which resulted in a partial loss 
+of engine power due to fuel starvation.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98041.txt",
+    "Location": "St. George, Utah",
+    "Accident Number": "WPR18LA217",
+    "Date & Time": "August 11, 2018, 08:55 Local",
+    "Aircraft": "Smith HORNET",
+    "Registration": "N218B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "video security camera airport showed airplane taxiing toward end runway airplane longer camera view shortly thereafter airplane came back camera view seen runway surface nearly wing vertical nose low attitude impact ground owner airplane reported pilot accumulated thousand flight hour estimated total 5 flight hour accident airplane owner also stated pilot flown airplane wind calm ensure could understand airplane handling characteristic postaccident examination airframe revealed anomaly would precluded normal operation pilot toxicology result indicated taken medically disqualifying medication however evidence indicated use medication factor accident airplane owner stated strong gust wind velocity strong enough shake building occurred accident time accident wind direction reported perpendicular runway surface wind speed 8 knot gust reported owner airplane also stated random gust wind relatively common airport due surrounding desert terrain thus likely pilot experienced unexpected strong gusting crosswind lost control airplane takeoff sequence probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "wind",
+                5
+            ],
+            [
+                "owner",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97345.txt",
+    "Location": "Mint Hill, North Carolina",
+    "Accident Number": "GAA18CA306",
+    "Date & Time": "May 27, 2018, 13:30 Local",
+    "Aircraft": "LITE FLIGHT DRAGONFLY",
+    "Registration": "N582DF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported maneuvering 1300 ft mean sea level 600 ft ground initiated 180 right turn halfway turn airplane began descend rapidly would respond flight control airplane struck tree spun right came rest residential house postaccident examination conducted pilot revealed control intact operational airplane sustained substantial damage fuselage empennage wing written statement provided local police department pilot reported lost control airplane spiraled struck tree house pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation given pilot statement likely airplane entered aerodynamic stallspin pilot exceeded airplane critical angle attack turn probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack turn resulted aerodynamic stallspin",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "turn",
+                4
+            ]
+        ]
+    }
+}

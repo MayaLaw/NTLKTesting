@@ -1,0 +1,29 @@
+{
+    "Filename": "99401.txt",
+    "Location": "Schlater, Mississippi",
+    "Accident Number": "CEN19FA138",
+    "Date & Time": "May 6, 2019, 19:45 Local",
+    "Aircraft": "Champion 7GCAA",
+    "Registration": "N7665S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot departing private airstrip light tailwind present witness airstrip saw airplane lift ground northbound 1500 ft runway airplane flew another 500 ft pitched airplane 100 ft ground climbing banked left turned right airplane nose pitched airplane entered dive subsequently impacted terrain airplane came rest nose engine embedded terrain examination airframe engine reveal preimpact anomaly would precluded control airplane given available information likely pilot failed maintain proper airspeed initial climb takeoff resulted exceedance airplane critical angle attack airplane experiencing aerodynamic stall low altitude recover investigator able determine airplane ground 1500 ft rotated took probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper airspeed initial climb takeoff resulted exceedance airplane critical angle attack stall",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "ft",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

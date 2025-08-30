@@ -1,0 +1,29 @@
+{
+    "Filename": "97443.txt",
+    "Location": "Sitka, Alaska",
+    "Accident Number": "ANC18FA044",
+    "Date & Time": "June 8, 2018, 20:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N1203A",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot flying lodge client wildlife viewing flight floatplane 2 hour planned return time airplane reported overdue search coordinated airplane wreckage located nose confined shallow river next day airplane gps adsb recording system radar coverage area accident therefore flight track unknown airplane impacted river bottom 70 nose attitude front float absorbing much energy aft fuselage displaced twisted right indicative impact stallspin flight control intact continuous engine exhibited anomaly propeller blade exhibited rearward bend torsional twist chordwise scrape propeller strike evident deadfall tree trunk initial impact site indication impact engine power right fuel tank cap located given evidence engine power impact unlikely fuel siphoningexhaustion causal likely pilot maneuvering airplane slow flight show passenger wildlife exceeded airplane critical angle attack resulting stall airplane equipped 4point shoulder harness seat however first responder reported pilot shoulder harness fitting inserted lapbelt buckle rear seat passenger ejected impact examination shoulder harness seat revealed indication deformation webbing metal end fitting indicating also likely using shoulder harness time impact lapbelt buckle however deformed although fully functional possible use shoulder harness may prevented rear seat passenger ejection andor mitigated occupant injury use time accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "impact",
+                6
+            ],
+            [
+                "shoulder",
+                5
+            ]
+        ]
+    }
+}

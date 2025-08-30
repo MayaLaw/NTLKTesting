@@ -1,0 +1,29 @@
+{
+    "Filename": "98723.txt",
+    "Location": "Casa Grande, Arizona",
+    "Accident Number": "GAA19CA084",
+    "Date & Time": "November 27, 2018, 18:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N5668W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "solo student pilot reported final approach night slowed airplane 87 knot extended 20\u00ba flap realized airplane altitude low initiated go around right main landing gear struck fence airplane impacted terrain airplane sustained substantial damage left wing student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain proper glidepath approach resulted impact fence terrain finding aircraft descentapproachglide path attainedmaintained personnel issue aircraft control studentinstructed pilot",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

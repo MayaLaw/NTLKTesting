@@ -1,0 +1,29 @@
+{
+    "Filename": "98855.txt",
+    "Location": "Lakeland, Florida",
+    "Accident Number": "ERA19LA078",
+    "Date & Time": "December 22, 2018, 10:12 Local",
+    "Aircraft": "BRM Aero Bristell S-LSA",
+    "Registration": "N587BL",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "solo student pilot completed two touchandgo landing home airport crosswind condition approach third touchandgo landing air traffic controller instructed pilot fly right closed traffic pattern rather standard left traffic pattern performed two previous touchandgo landing avoid potential conflict another airplane pilot acknowledged instruction surveillance video showed third touch andgo landing airplane began steep climb along runway heading gained altitude rapidly entered rapidly descending left turn impacted terrain nearvertical pitchdown attitude although postcrash explosion fire consumed airplane examination remaining airplane wreckage found evidence preimpact mechanical malfunction failure would precluded normal operation airplane increased angle attack high rate climb likely led exceedance critical angle attack causing aerodynamic stall low altitude student pilot unable recover investigation could determine based available evidence pilot mitigate airplane rapidly increasing angle attack climb rate shortly takeoff given airplane equipped angleofattack audio visual stall warning indicator autopsy pilot found early coronary artery disease result pilot might increased risk sudden cardiac event could caused symptom palpitation shortness breath chest pain fainting evidence event occurred therefore unlikely pilot heart disease contributed accident toxicology testing detected ethanol one tissue low level ethanol found pilot brain identified ethanol likely postmortem production therefore contribute accident circumstance although cetirizine sedating affect decisionmaking performance identified pilot liver muscle specimen amount cetirizine pilot blood thus effect pilot use drug could determined",
+        "Top Words": [
+            [
+                "pilot",
+                12
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

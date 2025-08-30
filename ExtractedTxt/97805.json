@@ -1,0 +1,29 @@
+{
+    "Filename": "97805.txt",
+    "Location": "Dayton, Ohio",
+    "Accident Number": "GAA18CA426",
+    "Date & Time": "July 14, 2018, 14:15 Local",
+    "Aircraft": "Piper PA 20",
+    "Registration": "N7492K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing flare felt wind shift push airplane left centerline applied opposite rudder airplane touched skewed right airplane exited runway right ground looped adjacent field airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind variable 6 knot accident site added short final leg approach wind 210\u00ba landing flare wind shifted 280\u00ba airport automated weather observation station reported 20 minute accident wind 310\u00ba 9 knot 30 minute accident wind 180 8 knot pilot landed airplane runway 20 probable cause finding national transportation safety board determines probable cause accident pilot inadequate compensation variable crosswind condition landing resulted runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "wind",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

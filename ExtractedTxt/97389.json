@@ -1,0 +1,29 @@
+{
+    "Filename": "97389.txt",
+    "Location": "Wasilla, Alaska",
+    "Accident Number": "ANC18LA040",
+    "Date & Time": "June 2, 2018, 10:25 Local",
+    "Aircraft": "Piper PA 18-150",
+    "Registration": "N624MW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported shortly departure crosscountry flight engine lost total power unable return runway airplane impacted tree resulted substantial damage wing rudder postaccident engine examination revealed small unidentified contaminant gascolator carburetor bowl amount size contaminant enough would expected cause total loss engine power examination engine test run conducted hesitation anomaly observed probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available information finding determined general unknownnot determined environmental issue tree contributed outcome",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "total",
+                3
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

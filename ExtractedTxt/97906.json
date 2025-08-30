@@ -1,0 +1,29 @@
+{
+    "Filename": "97906.txt",
+    "Location": "Matthews, North Carolina",
+    "Accident Number": "ERA18LA202",
+    "Date & Time": "July 26, 2018, 19:00 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N1193Y",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot conducting local solo flight reported ground operation normal water found fuel preflight inspection took full tank fuel 40 minute flight 1800 ft mean sea level noticed airplane sluggish would maintain lift engine indication normal noted sputtering hesitation pilot applied carburetor heat engine speed dropped 300 rpm airplane continued fly sluggishly pilot turned carburetor heat decided conduct forced landing grass field airplane nosed came rest inverted examination airframe engine reveal evidence preimpact mechanical malfunction failure would precluded normal operation pilot reported mechanical issue airplane flight engine could produce 2750 rpm maximumrated rpm full power added high ambient temperature 100f full fuel load may contributed airplane sluggishness review student logbook revealed received 31 hour dual instruction 15 hour solo flight experience instructor endorsement fly solo student lack training experience likely contributed perception performance problem airplane probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

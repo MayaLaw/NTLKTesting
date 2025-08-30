@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Wagoner, Oklahoma
+Accident Number:
+ERA19LA006
+Date & Time:
+October 4, 2018, 18:30 Local 
+Registration:
+N8495Z
+Aircraft:
+Cessna 205
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+During a post maintenance flight after the airplane's annual inspection, the pilot made about three 
+circuits around the airport area before departing to continue flight maneuvers and performance checks. 
+He started a left turn and then noticed a “very minor engine mis[fire]." As the pilot continued the turn, 
+the "engine mis[fire]" began to increase and the engine began to shake. The airplane was unable to 
+maintain altitude and was descending about 150-300 ft per minute. Although the pilot made multiple 
+attempts to regain engine power, the engine lost total power. The airplane impacted trees and brush; 
+during the landing sequence, the left and right wings buckled.
+Following the accident, an engine run was performed; after running for 13 minutes, the engine lost 
+power. Troubleshooting of the magnetos found that the right magneto was firing erratically. The right 
+magneto was replaced with a known-good magneto and the engine was subsequently successfully test 
+run at full power. More detailed testing of both magnetos revealed that they failed the manufacturer’s 
+acceptance test procedures due to excessive point gaps and secondary coil resistance. A review of the 
+engine logbooks revealed the magneto points and condensers were replaced about 18 years and about 
+230 flight hours before the accident flight. Given the available information, it is likely that maintenance 
+personnel did not perform proper maintenance of the magnetos.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Maintenance personnel’s improper maintenance of the magnetos, which resulted in a loss of engine 
+power.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98198.txt",
+    "Location": "TEHACHAPI, California",
+    "Accident Number": "WPR18LA246",
+    "Date & Time": "August 30, 2018, 19:02 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N2167V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "preflight inspection pilot determined left fuel tank empty right tank contained 4 gallon fuel capacity 12 12 gallon discovering airport fuel pump inoperative pilot decided proceed flight remain airport traffic pattern pilot performed series touchandgo takeoff landing initial climb phase fifth takeoff engine lost total power pilot attempted 180 turn back runway airplane impacted taxiway resulting substantial damage due airplane vintage operational performance detail fuel consumption unusable fuel quantity unavailable however placard fuel gauge indicated takeoff attempted tank filled 14 capacity likely airplane consumed remainder usable fuel flight resulted fuel exhaustion total loss engine power probable cause finding national transportation safety board determines probable cause accident pilot inadequate fuel planning resulted fuel exhaustion total loss engine power initial climb",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "tank",
+                3
+            ]
+        ]
+    }
+}

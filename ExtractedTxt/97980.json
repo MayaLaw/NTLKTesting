@@ -1,0 +1,29 @@
+{
+    "Filename": "97980.txt",
+    "Location": "Cut Bank, Montana",
+    "Accident Number": "DCA18CA255",
+    "Date & Time": "June 16, 2018, 22:00 Local",
+    "Aircraft": "Embraer ERJ175",
+    "Registration": "N637CZ",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 72 None",
+    "Analysis": {
+        "Text": "june 16 2018 2200 mdt compass airline flight 5774 n637cz embraer 175 encountered turbulence cruise flight flight level 300 enroute calgary international airport cyyz calgary alberta canada 73 passenger crew onboard one flight attendant seriously injured flight operating 14 code federal regulation part 121 regularly scheduled passenger flight salt lake city international airport kslc salt lake city utah cyyz according flight crew air traffic control atc relayed pilot report smooth ride light chop route flight airplane visual meteorological condition seatbelt sign illuminated time turbulence encounter aft flight attendant finishing beverage service thrown bulkhead jumpseat flight attendant unable complete duty due injury two passenger assisted flight attendant landing upon arrival gate cyyz flight attendant transported hospital diagnosed broken vertebra probable cause finding national transportation safety board determines probable cause accident unexpected encounter clear air turbulence finding environmental issue terrain induced turbulence effect personnel",
+        "Top Words": [
+            [
+                "flight",
+                12
+            ],
+            [
+                "attendant",
+                5
+            ],
+            [
+                "turbulence",
+                4
+            ]
+        ]
+    }
+}

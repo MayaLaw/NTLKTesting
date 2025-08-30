@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Reidsville, Georgia
+Accident Number:
+ERA19TA011
+Date & Time:
+October 13, 2018, 13:15 Local 
+Registration:
+N9469Q
+Aircraft:
+Beech F33
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, during landing, the airplane touched down on the main landing gear 
+slightly left of centerline. As soon as he lowered the nose landing gear (NLG), he felt the airplane lurch 
+left and then right. The pilot attempted to arrest the movement with rudder inputs, followed by 
+differential braking, but the airplane continued to veer right uncontrollably. He then intentionally 
+increased braking until both wheels started skidding. The airplane skidded sideways and then exited the 
+right side of the runway and collided with a taxiway sign before coming to rest upright. 
+Examination of the wreckage did not reveal evidence of any preimpact mechanical malfunctions or 
+failures that would have precluded normal operation. Continuity of the NLG steering system was 
+confirmed. Given the evidence, it is likely that the pilot did not maintain directional control after 
+landing, which resulted in the runway excursion.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing, which resulted in a runway excursion 
+and impact with a taxiway sign.

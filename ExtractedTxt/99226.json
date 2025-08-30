@@ -1,0 +1,29 @@
+{
+    "Filename": "99226.txt",
+    "Location": "Copalis, Washington",
+    "Accident Number": "WPR19LA105",
+    "Date & Time": "March 30, 2019, 12:56 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N215T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot owner airplane conducting personal crosscountry flight airport designated section sandy ocean beach flight conducted altitude 2300 ft underlying enroute terrain inhospitable landing pilot reported 90 minute flight 5 minute conducting series low altitude maneuver climbing 1000 ft ground engine began running roughly losing power said activated carburetor heat improve situation landed airplane logging road forest clearing airplane impacted stump debris resulting substantial damage examination revealed airplane destroyed fire evidence preimpact failure malfunction fire impact damage prevented determination preaccident condition functionality engine component engine temperature dew point value airport located 95 mile accident site graph carburetor icing potential indicated potential serious icing cruise power altitude speed ground track trace approach logging road included level offs speed increase consistent normal traffic pattern flown engine developing sufficient power entirety approach fact propeller blade damaged well damage pattern also indicated engine developing power based available information circumstance pilot conducted offairport landing could determined",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

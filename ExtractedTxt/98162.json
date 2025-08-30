@@ -1,0 +1,29 @@
+{
+    "Filename": "98162.txt",
+    "Location": "Post Mills, Vermont",
+    "Accident Number": "GAA18CA510",
+    "Date & Time": "August 24, 2018, 14:58 Local",
+    "Aircraft": "Maule MX7",
+    "Registration": "N524TR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelquipped airplane reported landing grass strip airplane bounced subsequently performed successful goaround second landing attempt shortly touchdown airplane bounced instead going around decided try save landing shortly airplane stopped bouncing airplane veered left exited runway left impacted tree airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing resulted runway excursion subsequent impact tree",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

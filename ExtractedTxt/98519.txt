@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Plant City, Florida
+Accident Number:
+ERA19LA021
+Date & Time:
+October 18, 2018, 14:05 Local 
+Registration:
+N3631K
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he was practicing flight maneuvers before returning to the departure 
+airport. As he approached the airport, he entered on the downwind leg of the traffic pattern for 
+a touch-and-go landing. After the touch-and-go landing, while the airplane was climbing out 
+and accelerating, the engine began to “sputtering” several times and then lost power 
+completely. The pilot performed a forced landing to trees below and the airplane’s wings and 
+fuselage were substantially damaged. Postaccident examination of the engine did not reveal 
+evidence of any mechanical malfunctions or failures that would have precluded normal 
+operation.
+Based on the pilot’s description of the fuel onboard at the time he departed, and the duration of 
+the flight, sufficient fuel should have been available when the loss of engine power occurred. 
+The pilot also reported that at the time of the loss of engine power, the carburetor heat was off. 
+He did not report activating it prior to or following the time the engine began losing power. The 
+temperature and dew point at the time of the accident was conducive to the formation of 
+carburetor icing. Given this information, it is likely that the loss of engine power was due to the 
+formation of carburetor ice during the approach to landing and subsequent takeoff. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to utilize carburetor heat in conditions conducive to the formation of 

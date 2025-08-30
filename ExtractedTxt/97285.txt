@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Bennington, Vermont
+Accident Number:
+ERA18FA148
+Date & Time:
+May 20, 2018, 14:23 Local 
+Registration:
+N1101X
+Aircraft:
+Piper PA34
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After receiving commercial and flight instructor certificates with a designated pilot examiner (DPE), the 
+instrument-rated commercial pilot planned to fly back to his home airport the following day. The DPE 
+reviewed weather with the pilot and advised him to delay the flight 2 days due to poor weather; 
+however, the following day, the pilot attempted the visual flight rules flight in instrument meteorological 
+conditions with mountain obscuration. Before departing on the flight, the pilot received three weather 
+briefings and all three contained information regarding instrument flight rules conditions with mountain 
+obscuration.
+The pilot was receiving flight following services from air traffic control, while proceeding southeast, in 
+clouds, below the minimum vectoring altitude, near mountainous terrain. The controller suggested a 
+westbound turn for lower terrain and continued radar coverage. The airplane briefly turned to a 
+westbound heading, then turned back to a southeast heading. About 4 miles later, the controller again 
+advised the pilot that, if he continued on the present heading, radar coverage would be lost. The pilot 
+asked again what heading he should fly and the controller responded westbound, to which the pilot 
+responded, "westbound heading 270." Radar and radio contact were lost during the second westbound 
+turn. The last radar target indicated an altitude of 3,500 ft msl and groundspeed of 218 knots about 1,000 
+ft from the accident site, which was located at an elevation about 2,625 ft msl.
+Examination of the accident site revealed a 60-ft debris path on a 265° course through trees, consistent 
+with a 45° nose-down attitude at impact. Examination of the wreckage did not reveal any preimpact 
+mechanical malfunctions. The pilot had entered clouds and was trying to fly clear of clouds. The 
+conditions were conducive to the development of spatial disorientation; however, the extent to which 
+spatial disorientation played a role could not be determined as the descent could have also been the 
+result of an uncoordinated turn or distraction.
+Probable Cause and Findings

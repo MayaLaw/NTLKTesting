@@ -1,0 +1,29 @@
+{
+    "Filename": "97228.txt",
+    "Location": "Grass Valley, California",
+    "Accident Number": "GAA18CA271",
+    "Date & Time": "May 9, 2018, 11:15 Local",
+    "Aircraft": "Cessna P210",
+    "Registration": "N210BG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported en route noticed loose camlock screw engine cowling decided land airplane nearest airport added landing applied brake minimal effect airplane slowed slightly determined could make taxiway turn added left steering affect direction airplane exited runway went runway embankment airplane sustained substantial damage left wing pilot reported brake failed slow airplane complete stop nosewheel failed turn local mechanic examined brake following accident found anomaly airport manager reported mark runway showed airplane touched 1000 1500 ft beyond approach end runway additionally 15 ft long skid mark showing skidding left turn airplane exited runway picture submitted federal aviation administration inspector showed skid mark turning left exiting end runway airport supplement stated runway 25 sloped downhill west probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "runway",
+                7
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

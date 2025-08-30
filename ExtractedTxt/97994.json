@@ -1,0 +1,29 @@
+{
+    "Filename": "97994.txt",
+    "Location": "Santa Ana, California",
+    "Accident Number": "WPR18FA211",
+    "Date & Time": "August 5, 2018, 12:29 Local",
+    "Aircraft": "Cessna 414",
+    "Registration": "N727RP",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "5 Fatal",
+    "Analysis": {
+        "Text": "pilot four passenger nearing completion crosscounty business flight maneuvering traffic pattern destination airport controller asked pilot could accept shorter runway pilot said could instructed enter holding pattern sequencing less minute later pilot said could accept shorter runway instructed conduct left 270 turn enter traffic pattern pilot initiated left bank turn several second later bank increased airplane subsequently entered steep nosedown descent airplane impacted shopping center parking lot 16 mile destination airport review airplane flight data revealed shortly entering left turn airplane bank increased airspeed decreased 59 knot well manufacturer published stall speed configuration postaccident examination airframe engine revealed anomaly would precluded normal operation likely pilot failed maintain airspeed turn resulted exceedance aircraft critical angle attack aerodynamic stall probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed maneuvering traffic pattern resulted aerodynamic stall subsequent spin low altitude pilot unable recover",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "pattern",
+                4
+            ],
+            [
+                "turn",
+                4
+            ]
+        ]
+    }
+}

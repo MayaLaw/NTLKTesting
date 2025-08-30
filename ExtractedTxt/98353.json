@@ -1,0 +1,29 @@
+{
+    "Filename": "98353.txt",
+    "Location": "Heber, Utah",
+    "Accident Number": "WPR18LA272",
+    "Date & Time": "September 25, 2018, 11:00 Local",
+    "Aircraft": "Smith Aerostar601",
+    "Registration": "N90339",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot stated touched normally landing roll airplane veered left coming rest runway surface airplane sustained substantial damage right wing horizontal stabilizer postaccident examination landing gear assembly revealed weld failed joint attached main landing gear cylinder upper scissor assembly fracture surface failure surface obliterated smearing grinding consistent postfracture damage degree fracture surface damage consistent fracture separation happening accident landing gear component cyclic load every landing landing action braking taxiing evidence fatigue corrosion progressive mechanism would led fracture joint strut cylinder likely recent hard landing fractured joint cylinder could determined whether occurred accident landing beforehand due damage incurred gear collapsed probable cause finding national transportation safety board determines probable cause accident recent hard landing resulted fracture joint cylinder main landing gear",
+        "Top Words": [
+            [
+                "landing",
+                10
+            ],
+            [
+                "gear",
+                5
+            ],
+            [
+                "fracture",
+                5
+            ]
+        ]
+    }
+}

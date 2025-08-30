@@ -1,0 +1,29 @@
+{
+    "Filename": "97796.txt",
+    "Location": "Manley Hot Springs, Alaska",
+    "Accident Number": "ANC18CA054",
+    "Date & Time": "July 16, 2018, 09:25 Local",
+    "Aircraft": "Curtiss Wright C46",
+    "Registration": "N1822M",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported following precautionary shutdown 2 engine diverted alternate airport closer original destination landing tailwind condition airplane touched little fast pilot added brake faded continuous use airplane unable stop overran end runway resulted substantial damage fuselage pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure attain proper touchdown speed decision land tailwind without ensuring adequate runway length touchdown",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

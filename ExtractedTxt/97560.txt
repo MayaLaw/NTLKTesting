@@ -1,0 +1,47 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Detroit, Michigan
+Accident Number:
+CEN18FA236
+Date & Time:
+June 24, 2018, 19:57 Local 
+Registration:
+N3896P
+Aircraft:
+Cessna P210N
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+As the pilot approached his destination after a cross-country flight, the airplane's landing gear did not 
+fully extend. Over the next 7 minutes, the pilot attempted to troubleshoot the landing gear in the airport 
+traffic pattern before he reported to the tower controller, "Well, I just burnt outta fuel, we're totally out 
+bud." The tower controller immediately cleared the pilot to land; however, there were no additional 
+communications from the pilot and the final radar return was recorded about 180 ft above ground level 
+and about a mile northwest of the runway. The airplane impacted trees and an electricity service line in 
+an urban residential area.
+A postcrash fire destroyed most of the forward fuselage and cockpit. The landing gear motor/pump 
+assembly and the hydraulic fluid lines were damaged during impact and the fire, which precluded 
+comprehensive testing of the landing gear extension/retraction system. The landing gear selector handle 
+and the emergency extension handle were destroyed during the fire. The nose and right main landing 
+gear were found fully extended and secured by their respective downlocks. The left main landing gear 
+was found fully retracted in the wheel well and secured by its uplock. There were small tree branches 
+and leaves observed in the wheel well between the left landing gear leg and the fuselage, indicating that 
+the left landing gear was partially extended and was pushed up into the wheel well during the accident. 
+Both main landing gear moved freely by hand between the retracted and extended positions without any 
+anomalies, and their respective up- and down lock assemblies secured both landing gear as designed. All 
+three landing gear actuators functioned normally when hydraulic pressure was applied using a hand-
+actuated pump. The extensive impact and fire damage to the landing gear extension/retraction 
+components precluded determination of why the landing gear did not fully extend during the flight. A 
+postaccident engine examination did not reveal any evidence of mechanical malfunction that would have 
+precluded normal operation during the flight.
+Although the pilot had departed on the flight with enough fuel to reach his intended destination, he did 
+not have enough fuel remaining to adequately address the landing gear malfunction before the airplane 
+had a total loss of engine power due to fuel exhaustion. Federal regulations stipulate that daytime flights 
+under visual flight rules depart with enough fuel to reach the intended destination plus at least 30 

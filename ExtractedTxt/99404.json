@@ -1,0 +1,29 @@
+{
+    "Filename": "99404.txt",
+    "Location": "Marion, Virginia",
+    "Accident Number": "WPR19TA142",
+    "Date & Time": "April 30, 2019, 18:50 Local",
+    "Aircraft": "Zenair Zenith CH 701",
+    "Registration": "N396PH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "noncertificated pilot purchased airplane 3 month accident flying airplane second time landing airplane descended rapidly 15 ft ground level agl landed hard bounced back air pilot added full power however airplane climbed 20 ft agl dropped rapidly second time landed hard right main landing gear wheel assembly separated airplane veered right came rest upright edge runway resulting substantial damage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot obtained flight training 18 year accident different airplane make model obtain certificate flown since purchasing accident airplane circumstance accident consistent pilot failure maintain control bounced landing probable cause finding national transportation safety board determines probable cause accident noncertificated pilot failure maintain control following bounced landing decision fly airplane without proper training",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

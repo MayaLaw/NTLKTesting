@@ -1,0 +1,29 @@
+{
+    "Filename": "99196.txt",
+    "Location": "Placerville, California",
+    "Accident Number": "WPR19LA102",
+    "Date & Time": "March 31, 2019, 16:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N7033Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "climb takeoff engine lost partial power pilot performed troubleshooting step initiated return airport airplane able maintain altitude landed tree 300 ft short approach end runway postaccident examination revealed sooting signature spark plug electrode inner surface exhaust pipe indicating excessively rich fueltoair mixture examination carburetor revealed multiple maintenancerelated discrepancy including incorrectly adjusted float loose carburetor bowl discrepancy likely resulted mixture irregularity loss engine power maintenance instruction series service bulletin published carburetor manufacturer address issue discrepancy appeared present likely present time last annual inspection carburetor overhauled serviced least 19 year even though manufacturer recommended overhaul 10year interval probable cause finding national transportation safety board determines probable cause accident partial loss engine power due improperly maintained carburetor",
+        "Top Words": [
+            [
+                "carburetor",
+                5
+            ],
+            [
+                "engine",
+                3
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

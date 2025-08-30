@@ -1,0 +1,37 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Overgaard, Arizona
+Accident Number:
+WPR19FA026
+Date & Time:
+November 16, 2018, 15:46 Local 
+Registration:
+N322JL
+Aircraft:
+Zenith CH601
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and pilot-rated passenger were completing the second leg of a multileg flight. Flight data 
+indicated that the final approach was below the glideslope for the runway and the airplane’s airspeed 
+was above the stall limit. During the approach, the airplane impacted a tall tree about 1,500 ft from the 
+runway threshold, the roof of a house, and a second tree before coming to rest in a taxi area between 
+houses. A postaccident examination of the airframe and engine revealed no evidence of preimpact 
+mechanical malfunctions or failures that would have precluded normal operation.
+Although the pilot should have been familiar with the runway characteristics given that he had a hangar 
+near the airpark and had flown into the airpark before, it is likely that the upsloping runway and paved 
+surfaces before the displaced threshold gave the pilot the visual illusion that the airplane was at a higher 
+altitude than it actually was and that the pilot thus flew a lower approach. Although a visual approach 
+path indicator was positioned left of the runway threshold, the pilot likely did not monitor the indicator 
+during the final approach.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to monitor the airport’s visual approach path indicator during the final approach to the 
+upsloping runway, which resulted in a low approach path and impact with terrain.

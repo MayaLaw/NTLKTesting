@@ -1,0 +1,41 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Fort Worth, Texas
+Accident Number:
+GAA19CA200
+Date & Time:
+April 4, 2019, 18:10 Local 
+Registration:
+N801R
+Aircraft:
+Zenair ZENITH CH 801
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while on short final, about 50 ft above ground level, the airplane rolled 
+about 30&ordm; to the left. He applied full right aileron and leveled the airplane about 2 ft 
+above ground level, but the airplane descended onto the runway, exited the runway to the left, 
+and impacted terrain. The airplane sustained substantial damage to both wings and the 
+fuselage. The pilot reported that there were no preaccident mechanical failures or 
+malfunctions with the airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain lateral control in flight and his subsequent loss of directional 
+control during landing with a crosswind, which resulted in a runway excursion and impact with 
+terrain.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Lateral/bank control - Not attained/maintained
+Environmental issues
+Crosswind - Effect on operation

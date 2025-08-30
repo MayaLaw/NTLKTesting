@@ -1,0 +1,29 @@
+{
+    "Filename": "99077.txt",
+    "Location": "Longview, Texas",
+    "Accident Number": "CEN19FA094",
+    "Date & Time": "March 9, 2019, 10:47 Local",
+    "Aircraft": "Cessna T337",
+    "Registration": "N922EJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Windshear or thunderstorm",
+    "Injuries": "4 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated private pilot three passenger departed crosscountry flight multiengine airplane even though pilot hold multiengine rating time departure weather reported clear however line thunderstorm high wind along flight route radar data showed airplane initially flew eastward entering area convective weather turned westward likely avoid area weather airplane flew northeast resuming eastward flight entering another area weather airplane entered series descending spiral turn impact 10 hour accident witness noted wreckage near roadway airplane located shortly thereafter preimpact anomaly found airframe engine would precluded normal operation airplane separation consistent overload part right wing located 1 3 nautical mile main wreckage indicating inflight breakup airplane occurred radar data showed airplane flying groundspeed 160 190 kt entered spiral shaped flight track according manufacturer airplane maximum maneuvering speed 135 kt thus inflight breakup occurred airplane operating maximum maneuvering speed exceeded design load factor airplane various aviation weather product indicated airplane entered area significant convective weather twice airplane entered cloud precipitation associated thunderstorm airplane also area favorable icing condition evidence indicated pilot received weather briefing day day accident received weather briefing could aware severe thunderstorm predicted flight route toxicology testing showed pilot taken beta blocker used treatment hypertension certain arrhythmia",
+        "Top Words": [
+            [
+                "airplane",
+                14
+            ],
+            [
+                "weather",
+                8
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

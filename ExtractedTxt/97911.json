@@ -1,0 +1,29 @@
+{
+    "Filename": "97911.txt",
+    "Location": "HAVERHILL, New Hampshire",
+    "Accident Number": "ERA18LA204",
+    "Date & Time": "July 29, 2018, 12:05 Local",
+    "Aircraft": "Progressive Aerodyne Searey",
+    "Registration": "N221EZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "private pilot took experimental amateurbuilt amphibious airplane river 100 ft wide lined tree side initiated right 180 turn made left teardrop turn 50 ft ground level flat cornfield make 45 reentry land back river airplane crossed river shoreline pilot attempted turn left line river however according pilot control stick would move past vertical position added power airplane unable climb tree opposite side river airplane collided tree descended water postaccident examination airplane revealed wing removed recovery flight control moved freely manually manipulated pilot said airplane automatic dependent surveillancebroadcast adsb component attached control panel via suction cup may come loose flight become caught flight control assembly thus jamming flight control demonstrated object could get caught control however neither passenger could confirm happened accident flight examination adsb component reveal physical damage pilot said would normally climb surrounding terrain coming back land however flight give case emergency decision maneuver airplane surrounding terrain confined area left insufficient altitude troubleshoot perceived flight control issue unable remain clear tree probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "control",
+                7
+            ],
+            [
+                "flight",
+                7
+            ]
+        ]
+    }
+}

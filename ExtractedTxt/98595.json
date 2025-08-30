@@ -1,0 +1,29 @@
+{
+    "Filename": "98595.txt",
+    "Location": "Culpeper, Virginia",
+    "Accident Number": "GAA19CA047",
+    "Date & Time": "November 4, 2018, 14:30 Local",
+    "Aircraft": "Poberezny ACRO SPORT II",
+    "Registration": "N44JS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported threepoint landing landing roll airplane veered left corrected right rudder airplane continued left added applied increasing right rudder airplane turned sharply right ground looped airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing resulted ground loop finding aircraft directional control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

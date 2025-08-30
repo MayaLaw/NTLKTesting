@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Spearfish, South Dakota
+Accident Number:
+GAA18CA429
+Date & Time:
+July 19, 2018, 08:30 Local 
+Registration:
+N432W
+Aircraft:
+Cessna 170
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during takeoff on a grass runway, after liftoff, he noticed the airplane was not 
+able to climb at a normal rate. He lowered the airplane's nose, but the airspeed remained "dangerously 
+low," and the stall horn sounded intermittently. He reduced power to abort the takeoff, but there was 
+insufficient runway remaining. The airplane touched down and overran the runway, the left wing 
+impacted a tree, and the airplane spun 180° before coming to rest.
+The airplane sustained substantial damage to the left wing.
+The automated weather observation station located on the airport reported that, about 5 minutes after the 
+accident, the wind was from 140° at 5 knots. The airplane was departing from runway 26.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper decision to take off in tailwind conditions, which resulted in an aborted takeoff with 
+insufficient runway remaining.

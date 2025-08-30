@@ -1,0 +1,29 @@
+{
+    "Filename": "94709.txt",
+    "Location": "Punta Gorda, Florida",
+    "Accident Number": "GAA17CA136",
+    "Date & Time": "February 11, 2017, 17:40 Local",
+    "Aircraft": "NIELSEN MARTIN M CHALLENGER",
+    "Registration": "N289MN",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported landing flare second landing attempt airplane began sink rapidly right wing dropped applied right rudder power attempt maintain directional control unsuccessful airplane settled bush left runway airplane sustained substantial damage right wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

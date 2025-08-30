@@ -1,0 +1,29 @@
+{
+    "Filename": "99334.txt",
+    "Location": "Roosevelt, Utah",
+    "Accident Number": "GAA19CA227",
+    "Date & Time": "April 27, 2019, 11:35 Local",
+    "Aircraft": "Maule M7",
+    "Registration": "N4257A",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing airplane encountered strong wind gust airplane touched left side runway centerline pilot stated tailwheel touched felt though airplane pushed left side runway recalled right wing lifted airplane veered left applied right rudder leveled wing airplane exited left side runway impacted culvert airplane sustained substantial damage right wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation metar airport reported time accident wind 260 11 knot gusting 16 knot pilot landed airplane runway 25 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting wind condition resulted runway excursion collision culvert",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "runway",
+                5
+            ]
+        ]
+    }
+}

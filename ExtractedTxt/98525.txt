@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Indianapolis, Indiana
+Accident Number:
+WPR19LA011
+Date & Time:
+October 21, 2018, 14:44 Local 
+Registration:
+N2920Q
+Aircraft:
+Piper PA32R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he was approaching his destination airport at 1,000 ft above ground level when 
+the engine lost total power. After an unsuccessful attempt to restart the engine, the pilot performed a 
+forced landing to a nearby parking lot, during which the airplane sustained substantial damage. A 
+postaccident examination of the engine revealed that the single-drive dual magneto failed to produce 
+spark due to the displacement of its camshaft. As a result, when the camshaft was positioned to neutral, 
+the contact points were opened instead of closed, and when the camshaft was rotated approximately 8°, 
+the points were closed when they should have been open. The magneto was then re-assembled to 
+manufacturer specifications, tested, and found to produce spark on all ignition leads. The displacement 
+of the camshaft resulted in the magneto not producing spark on any of its ignition leads, and a 
+subsequent loss of engine power. It could not be determined if the displacement of the magneto 
+camshaft was a result of an improper installation or if it moved in flight. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to displacement of the dual magneto’s internal camshaft, which 
+resulted in the magneto’s inability to produce spark. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "99350.txt",
+    "Location": "Tyrone, Pennsylvania",
+    "Accident Number": "ERA19FA161",
+    "Date & Time": "May 1, 2019, 12:51 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N733KZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "VFR encounter with IMC",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "report modified june 23 2021 please see public docket investigation view original report pilot conducting personal crosscountry flight one passenger onboard pilot received formal preflight weather briefing warned instrument marginal visual meteorological condition well mountain obscuration condition due cloud near departure airport along airplane expected route flight although pilot filed instrument flight rule flight plan flight advised air traffic control departure airport would departing visual flight rule vfr flight track weather data showed departure airplane proceeded toward mountainous terrain likely obscured cloud witness near accident site reported seeing airplane flying cloud fog losing sight behind tree hearing impact postaccident examination airframe engine revealed evidence preaccident mechanical failure malfunction would precluded normal operation based damage signature displayed wreckage tree surrounding accident site likely airplane impacted tree terrain relatively level slightly right wing flight attitude engine producing power time impact although pilot held instrument rating meet necessary currency requirement undertake instrument flight rule flight likely departing pilot encountered deteriorating weather condition obscured mountainous terrain resulted pilot controlled flight terrain",
+        "Top Words": [
+            [
+                "flight",
+                11
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "instrument",
+                4
+            ]
+        ]
+    }
+}

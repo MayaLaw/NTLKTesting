@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+St. Petersburg, Florida
+Accident Number:
+GAA19CA085
+Date & Time:
+November 28, 2018, 12:30 Local 
+Registration:
+N54058
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor, 3 None
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The pilot reported that, before the flight, he was rushed and did not follow the preflight checklist. During 
+the takeoff with the airplane its near maximum gross weight, he noticed that it was accelerating slowly 
+but that the airspeed was sufficient. He applied elevator back pressure to rotate, but he immediately 
+noticed that the control lock was still in place on the yoke, and he attempted to remove it to no avail. He 
+added that he did not recall trying to abort the takeoff or reduce power. The airplane overran the end of 
+the runway, impacted water, and inverted before sinking.
+The airplane sustained substantial damage to the fuselage and empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to remove the gust lock before flight, which resulted in the airplane's inability to rotate 
+and a subsequent runway overrun. Contributing to the accident was the pilot's failure to follow the 
+preflight checklist.

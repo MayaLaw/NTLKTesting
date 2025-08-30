@@ -1,0 +1,29 @@
+{
+    "Filename": "98324.txt",
+    "Location": "Sugar Land, Texas",
+    "Accident Number": "CEN18LA382",
+    "Date & Time": "September 19, 2018, 15:04 Local",
+    "Aircraft": "Cessna 206",
+    "Registration": "N247F",
+    "Flight Conducted Under": "Public aircraft",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Minor, 2 None",
+    "Analysis": {
+        "Text": "airline transport pilot flight instructor conducting instructional flight public aircraft observer board proceeded airport conduct instrument approach crossing final approach fix arriving missed approach point engine lost power instructor took control maneuvered airplane set power line attempted maneuver second set power line right wing struck one line airplane touched roadway left wing struck passing vehicle landing gear struck concrete median yawing airplane clockwise airplane tail struck second vehicle postaccident engine examination revealed 1 cylinder intake valve failed fractured piece intake valve drawn intake plenum 1 cylinder extensively damaged piston head impact mark piece valve embedded head 1 cylinder 1 piston intake exhaust valve train component spring pushrods rocker arm 12 hydraulic lifter sent engine manufacturer metallurgical examination revealed 1 cylinder intake valve failed fatigue however root cause failure could determined due extensive damage valve failure intake exhaust rocker arm nonconforming shoe height addition nine hydraulic lifter failed leakdown test including 1 intake maintenance information revealed engine overhauled 4 year earlier 12 hydraulic lifter replaced intake exhaust rocker arm reworked reused 001 inch material removed shoe pad overhaul nonconforming rocker arm shoe height lifter may contributed malfunction valve investigation could determine certainty reason fatigue failure fatigue failure 1 cylinder intake valve resulted loss engine power probable cause finding",
+        "Top Words": [
+            [
+                "intake",
+                9
+            ],
+            [
+                "valve",
+                8
+            ],
+            [
+                "1",
+                7
+            ]
+        ]
+    }
+}

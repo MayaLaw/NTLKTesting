@@ -1,0 +1,63 @@
+Page 1 of 4
+DCA19WA020
+This information is preliminary and subject to change.
+Aviation Investigation Preliminary Report
+Location:
+Paris, 
+Accident Number:
+DCA19WA020
+Date & Time:
+October 31, 2018, 09:44 UTC
+Registration:
+N817NW
+Aircraft:
+Airbus A330
+Injuries:
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Aircraft and Owner/Operator Information 
+Aircraft Make:
+Airbus
+Registration:
+N817NW
+Model/Series:
+A330 323
+Aircraft Category:
+Airplane
+Amateur Built:
+Operator:
+Operating Certificate(s) 
+Held:
+Flag carrier (121)
+Operator Designator Code:
+Meteorological Information and Flight Plan
+Conditions at Accident Site:
+Condition of Light:
+Observation Facility, Elevation:
+Observation Time:
+Distance from Accident Site:
+Temperature/Dew Point:
+Lowest Cloud Condition:
+Wind Speed/Gusts, Direction: 
+ / , 
+Lowest Ceiling:
+Visibility:
+Altimeter Setting:
+Type of Flight Plan Filed:
+Departure Point: 
+ 
+Destination: 
+ 
+Wreckage and Impact Information 
+Crew Injuries:
+Aircraft Damage:
+Minor
+Passenger Injuries:
+Aircraft Fire:
+None
+Ground Injuries:
+Aircraft Explosion:
+None
+Total Injuries:
+Latitude, Longitude:
+48.998889,2.560277 (est)

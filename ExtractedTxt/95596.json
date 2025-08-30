@@ -1,0 +1,29 @@
+{
+    "Filename": "95596.txt",
+    "Location": "Van Nuys, California",
+    "Accident Number": "GAA17CA413",
+    "Date & Time": "June 15, 2017, 11:00 Local",
+    "Aircraft": "Champion 7ECA",
+    "Registration": "N2537F",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll airplane drifted right corrected rudder airplane started pull left added rudder input failed stop plane continuing left airplane ground looped left right wingtip hit ground airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll finding aircraft directional control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "right",
+                3
+            ]
+        ]
+    }
+}

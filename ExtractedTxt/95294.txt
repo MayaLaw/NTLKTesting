@@ -1,0 +1,46 @@
+Page 1 of 14
+Aviation Investigation Final Report
+Location:
+Santa Rosa Valley, California
+Accident Number:
+WPR17FA120
+Date & Time:
+June 4, 2017, 15:29 Local 
+Registration:
+N4871L
+Aircraft:
+Piper PA 28-180
+Aircraft Damage:
+Substantial
+Defining Event:
+Abrupt maneuver
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and his son were conducting a personal flight. About 15 minutes after takeoff, the 
+airplane flew a series of passes over a horse arena where the pilot's daughter was riding. The arena was 
+situated within a geographic bowl depression, surrounded by hilly terrain and adjacent to three sets of 
+power transmission lines. A pilot witness in an airplane flying above the accident airplane described the 
+accident airplane's flight path as low and erratic, and a witness close to the arena described the initial 
+pass as "aggressive." The pilot conducted the final pass over the arena at a much lower altitude than the 
+previous passes. Multiple witnesses described the engine noise as "sputtering" and then going quiet 
+either during the descent for the final pass, or just as the airplane flew over the arena. The engine sound 
+then increased as the airplane climbed and entered a steep right bank, then descended into power lines 
+and impacted the ground about 600 ft south of the arena. Calculations based on witness reports and 
+impact geometry indicated that the radius of the turn before impact would have required a high angle of 
+bank, resulting in an increase in stall speed, which would have led to an accelerated stall at an altitude 
+too low for recovery.
+Examination revealed no anomalies with the airframe or engine that would have precluded normal 
+operation, and damage signatures and witness accounts indicated that the engine was producing power at 
+the time of the accident. Damage to the airplane's fuel tanks indicated that they contained fuel at the time 
+of impact.
+The pilot's son, who was not a pilot, was seated in the front left seat. Since the airplane was equipped 
+with dual controls, it could not be determined who was flying the airplane at the time of the accident.
+The pilot was familiar with the terrain in the area of the accident site. Witnesses stated that he had 
+performed low passes there multiple times in the past and was aware of the power lines at the edge of 
+the arena. The reduction in engine noise as reported by witnesses could have been the result of an actual 
+loss of engine power or a power reduction made by the pilot to descend more rapidly in order to perform 
+the pass at a lower altitude; however, if the pilot had been flying at an appropriate and safe altitude and 
+the airplane had experienced a loss of engine power, it would have been within gliding distance of open 

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Katy, Texas
+Accident Number:
+CEN18LA276
+Date & Time:
+July 17, 2018, 08:30 Local 
+Registration:
+N228Q
+Aircraft:
+Beech V35
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, as he approached the destination airport, he noted "a sudden and severe 
+noise and vibration" and "a…stream of gray smoke from under the right side of the [engine] cowling," 
+followed by a loss of engine power. The pilot subsequently conducted a forced landing, during which 
+the airplane sustained substantial damage to the fuselage and right wing.
+Postaccident engine examination revealed two holes in the top of the crankcase near the Nos. 3 and 4 
+cylinders. A teardown examination of the engine revealed that the No. 4 connecting rod had failed due 
+to oil starvation, which resulted in a catastrophic engine failure. Foreign debris, which was similar to a 
+paper towel, was recovered from the engine oil sump and the oil pickup screen. Most of the screen area 
+was obstructed by the debris, which had interrupted the oil flow from the sump to the engine. 
+The airplane maintenance records noted that the alternator and alternator drive gear were replaced about 
+8 weeks before the accident. The engine had been operated about 24 hours since the alternator 
+replacement. The starter and starter adapter were replaced the day before the accident flight. The engine 
+had been operated about 15 minutes since the most recent maintenance work was performed. It is likely 
+that maintenance personnel left the paper towel in the engine during the recent maintenance work, which 
+resulted in oil starvation, the failure of the connecting rod, and the catastrophic engine failure and 
+subsequent total loss of engine power.

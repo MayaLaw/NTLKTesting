@@ -1,0 +1,41 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Foley, Alabama
+Accident Number:
+ERA18FA208
+Date & Time:
+August 4, 2018, 10:00 Local 
+Registration:
+N424A
+Aircraft:
+Champion 8GCBC
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Banner tow
+Analysis 
+The commercial pilot was conducting a banner-tow flight with a pilot-rated passenger. A witness (a 
+ground crewmember) stated that, after takeoff, the approach and pickup of the banner appeared normal 
+and that the engine sounded strong. According to the ground crewmember, the pilot successfully hooked 
+the banner with the airplane tow cable and initiated a steep climbout with the banner in tow. The trailing 
+edge of the banner had just come off the ground when the airplane reached an altitude of about 300 ft 
+above ground level. At that point, the right wing dropped. The pilot attempted to maintain directional 
+control by releasing the banner and applying left rudder; however, the airplane entered a right 
+descending spin to the ground. Postaccident examination revealed no malfunctions that would have 
+precluded normal operation of the airplane or engine.
+It is likely that after the banner pickup and during initial climb, while the airplane had a high power 
+setting, high pitch angle, and low airspeed, the airplane exceeded the critical angle of attack and entered 
+an aerodynamic stall and spin from which recovery was not possible due to the airplane's altitude at the 
+time. Even though the weight and balance were within limits for the accident flight, it is possible the 
+presence of the back seat passenger reduced the airplane's performance, and that the pilot did not 
+account for the effect of the back seat passenger on the performance of the airplane during the pickup 
+maneuver.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack, which resulted in a subsequent 
+aerodynamic stall and spin at an altitude that was too low for recovery.

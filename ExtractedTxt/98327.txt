@@ -1,0 +1,37 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Kingsport, Tennessee
+Accident Number:
+ERA18TA255
+Date & Time:
+September 19, 2018, 20:10 Local 
+Registration:
+N67WR
+Aircraft:
+CALVIN NATE H VELOCITY STD RG 
+E
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, during a low power visual approach to land, the experimental, amateur-
+built airplane became low and slow on final approach. When he increased power to arrest the descent, 
+the engine did not respond, and the airplane continued to descend, stalled, and impacted the approach 
+lighting system and terrain before coming to rest about 400 ft short of the runway threshold. The 
+fuselage, canard, and both wings sustained substantial damage. Postaccident examination of the airplane 
+did not reveal any evidence of a preimpact mechanical malfunction or failure that would have precluded 
+normal operation.
+Weather conditions at the time were conducive to the formation of serious carburetor icing at glide 
+power. The carburetor heat lever was found in the off position, and the pilot reported that he did not use 
+carburetor heat for the approach to landing; thus, carburetor ice likely formed and reduced the power 
+available to stop the descent into the approach lights and terrain. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to use carburetor heat in conditions conducive to serious carburetor icing at glide 
+power, which resulted in a partial loss of power and an aerodynamic stall.

@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Wichita, Kansas
+Accident Number:
+CEN18LA197
+Date & Time:
+May 28, 2018, 12:10 Local 
+Registration:
+N64176
+Aircraft:
+FAIRCHILD(HOWARD) M 62C(PT-
+23A)
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that he filled the airplane with fuel 5 days before the accident flight. He had not flown 
+the airplane in the intervening 5 days, and the fuel indicators were still showing that the tanks were full before 
+the accident flight. The pilot calculated that there should have been sufficient fuel onboard for a 3-hour 15-
+minute-long flight. The pilot was performing flyovers at five cemeteries, which required flying holding orbits at 
+three of the cemeteries and two passes at the other two cemeteries. He then flew back toward the departure 
+airport to land. When the airplane was about 5 minutes from the airport, he switched fuel tanks to what 
+appeared to be the fullest tank. He reported that the fuel level in both fuel tanks was low but that the fuel 
+quantity indicators were showing above “E.” While on final approach, between 150 and 200 ft above the 
+ground, the engine lost total power. He switched fuel tanks and started using the manual pump, and the engine 
+regained power for 1 to 2 seconds before losing power again. He subsequently conducted an off-airport, forced 
+landing in a lot about 1/8 mile from the end of the runway. The airplane touched down hard and bounced, and 
+the right wing hit a pole. The airplane then impacted a fence and another pole before coming to rest.
+The pilot used a flight tracker program, and it showed that the flight was only 2 hours 41 minutes long. 
+Postaccident examination of the accident site found no fuel spillage. Examination of the airplane revealed that 
+each fuel tank contained about 1/2 cup of fuel. About a teaspoon of fuel was recovered from the engine strainer 
+bowl. Although the pilot thought there was sufficient fuel onboard the airplane for the flight, given the evidence, 
+it is likely that the engine lost power due to fuel exhaustion because the pilot miscalculated the fuel 
+consumption rate during preflight planning.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

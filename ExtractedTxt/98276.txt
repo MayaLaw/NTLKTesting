@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Denver, Colorado
+Accident Number:
+GAA18CA544
+Date & Time:
+September 9, 2018, 12:10 Local 
+Registration:
+N514RH
+Aircraft:
+HALLADAY ROY LOCKHEED
+Aircraft Damage:
+Substantial
+Defining Event:
+Part(s) separation from AC
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot reported that, upon landing, he activated the canopy motor to open the canopy about 2 inches, 
+but the canopy continued to open, separated from the airframe, and struck the empennage. He added that 
+it was standard procedure upon landing to open the canopy slightly to aid in slowing the airplane and 
+egress in a runway excursion event.
+The airplane sustained substantial damage to the empennage. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation. The pilot added that the emergency canopy release, which 
+anchors the canopy to the airframe when the canopy motor was turned on, was inadvertently released 
+during the flight. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to verify that the emergency canopy release was in the correct position when opening 
+the canopy during landing, which resulted in the canopy separating from the airplane and subsequently 
+impacting the empennage. 

@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Prineville, Oregon
+Accident Number:
+GAA18CA509
+Date & Time:
+August 25, 2018, 12:20 Local 
+Registration:
+N4569C
+Aircraft:
+Cessna 170
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing roll about 40 knots ground 
+speed, the airplane drifted left, and he corrected back to the runway center. However, the airplane then 
+drifted right, and he was unable to correct back to the runway center. The airplane ground looped to the 
+right, and the left wing struck the ground before the airplane came to a stop.
+The airplane sustained substantial damage to the forward lower fuselage bulkhead and the left wing. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Directional control - Not attained/maintained

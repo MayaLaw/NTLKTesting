@@ -1,0 +1,29 @@
+{
+    "Filename": "98704.txt",
+    "Location": "Kennesaw, Georgia",
+    "Accident Number": "ERA19LA057",
+    "Date & Time": "November 29, 2018, 18:55 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N597CP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "descent 17500 ft mean sea level msl airplane passing 7500 ft msl pilot felt jolt engine subsequently received low oil pressure alert pilot diverted closer airport continued descent airplane 2000 ft msl pilot felt additional jolt observed spark emanating engine cowling area shortly thereafter engine lost total power clear landing area available nighttime condition urban area activated wholeairframe parachute system airplane impacted tree terrain parachute deployed fuselage wing empennage sustained substantial damage examination engine crankcase revealed fracture hole 6 cylinder connecting rod sheared upper crankshaft bearing disassembly engine component revealed left turbocharger seized rub mark observed inside turbine housing metal contaminant found inside oil filter oil sump contained damaged connecting rod end valve lifter engine bearing damage consistent oil circulation interruption catastrophic engine failure source interruption oil circulation engine could determined engine disassembly probable cause finding national transportation safety board determines probable cause accident total loss engine power due interruption oil circulation reason could determined based available evidence",
+        "Top Words": [
+            [
+                "engine",
+                10
+            ],
+            [
+                "oil",
+                6
+            ],
+            [
+                "ft",
+                3
+            ]
+        ]
+    }
+}

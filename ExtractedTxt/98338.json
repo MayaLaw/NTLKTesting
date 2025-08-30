@@ -1,0 +1,29 @@
+{
+    "Filename": "98338.txt",
+    "Location": "Winter Haven, Florida",
+    "Accident Number": "ERA18LA257",
+    "Date & Time": "September 24, 2018, 09:57 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N6950A",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot conducting supervised solo flight airport traffic pattern previous two takeoff landing uneventful initial climb third takeoff student observed airspeed rapidly decrease declared emergency lowered nose turned airplane 180 land runway airplane overran end runway impacted fence resulting substantial damage windshield left wing student instructor witnessed takeoff stated airplane angle attack excessively high would adequate runway remaining student land straight ahead instead turning 180 postaccident examination engine reveal anomaly likely student pilot excessively nosehigh pitch attitude takeoff resulted observed loss airspeed probable cause finding national transportation safety board determines probable cause accident student pilot improper pitch attitude control initial climb resulted loss airspeed subsequent decision conduct 180 turn following perceived anomaly resulted runway overrun",
+        "Top Words": [
+            [
+                "student",
+                6
+            ],
+            [
+                "takeoff",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

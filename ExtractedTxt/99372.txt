@@ -1,0 +1,45 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Santa Rosa, New Mexico
+Accident Number:
+ANC19FA018
+Date & Time:
+May 5, 2019, 16:00 Local 
+Registration:
+N102SN
+Aircraft:
+Beech A60
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was performing a personal cross-country flight. While en route to the intended destination, the 
+pilot contacted air traffic control to report that the airplane was having a fuel pump issue and requested 
+to divert to the nearest airport. The pilot stated that the request was only precautionary and did not 
+declare an emergency during the flight; he provided no further information about the fuel pump. As the 
+airplane approached the diversion airport, witnesses observed the airplane flying low and rolling to the 
+left just before impacting terrain, after which a postcrash fire ensued.
+An examination of the airframe revealed no preimpact mechanical malfunctions or failures that would 
+have precluded normal operation. A postaccident examination and review of recorded data indicated that 
+the left engine was secured and in the feather position, and that the right engine was operating at a high 
+RPM setting. 
+The left engine-driven fuel pump was found fractured. Further examination of the fuel pump revealed 
+fatigue failure of the pressure relief valve. The fatigue failure initiated in upward bending on one side of 
+the valve disk and progressed around both sides of the valve stem. As the cracks grew, the stem 
+separated from the disk on one side and began to tilt in relation to the disk and the valve guide due to the 
+non-symmetric support, which caused the lower end of the stem to rub against the valve guide, creating 
+wear marks. The increasing stem tilt would have impinged against the valve guide, and the valve might 
+have begun to stick in the closed position. If the valve were stuck in the closed position, it would not be 
+able to open, and the outlet fuel pressure could rise above the set point pressure. Because the pump was 
+driven by the engine, there would not be a way for the pilot to shut it off, disconnect it, or bypass it. 
+Instead, the fuel pressure would continue to rise until the valve were to unstick. Thus, the pilot was 
+likely experiencing variable fuel pressure as the valve became stuck and unstuck. 
+Examination of the spring seat and the diaphragm plate, which were in contact with each other in the 
+fuel pump assembly, revealed wear marks on the surface of each component, with one mark on the 
+diaphragm plate and two wear marks on the spring seat. The two wear marks on the spring seat were 

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Jackson, Wyoming
+Accident Number:
+CEN18LA178
+Date & Time:
+May 16, 2018, 14:00 Local 
+Registration:
+N44CP
+Aircraft:
+PEET CHARLES ZENITH CH 701
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that had just finished rebuilding the airplane and was conducting a local, personal 
+flight, which was the airplane’s first flight since an accident 5 years earlier. While returning to land on a 
+grass strip and shortly after switching from the right to the left tank, the engine began to run roughly and 
+“sputter.” The pilot added that the airplane was “high and fast” on the approach but that he chose to 
+continue the landing due to the engine problem. Upon landing, the airplane bounced, the nosewheel hit 
+the ground hard and collapsed, and the airplane then nosed over and came to rest inverted. 
+Postaccident engine examination revealed no evidence off mechanical malfunctions or failures that 
+would have precluded normal operation. The pilot reported that the airplane had an adequate amount of 
+fuel onboard when the engine lost power. He added that the quick fuel disconnect on the left wing fuel 
+tank was loose before the flight, so he reconnected the fitting and speculated that air might have entered 
+the lines when he reconnected the fitting and led to the engine sputtering when he switched tanks. The 
+reason for the loss of engine power could not be determined based on the available information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for undetermined reasons, and the pilot’s failure to maintain proper control 
+of the airplane, which led to a hard, bounced landing.

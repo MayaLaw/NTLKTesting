@@ -1,0 +1,39 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Hanson, Massachusetts
+Accident Number:
+ERA18FA230
+Date & Time:
+August 24, 2018, 15:35 Local 
+Registration:
+N65HM
+Aircraft:
+Aeronca 7AC
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and passenger were departing on a local personal flight in the single-engine 
+airplane. Review of airport security video showed the airplane level off about 100 ft above ground level 
+as it passed the departure end of the runway. The airplane then entered a left turn and descended to 
+ground contact. Damage to the propeller blades was consistent with a lack of engine power at the time of 
+impact; however, examination of the wreckage revealed no evidence of preimpact mechanical anomalies 
+that would have prevented normal engine operation. Based on the temperature and dew point about the 
+time of the accident, the conditions were favorable for serious carburetor icing at a glide power setting.
+Video showed that the airplane operated on the ground at an idle engine power setting for about 7 
+minutes before takeoff, and it is probable that carburetor ice formed during this time, subsequently 
+resulting in the loss of engine power during the initial climb. Following the loss of power, the pilot 
+attempted to turn back to the runway with insufficient altitude and, during the turn, failed to maintain 
+airspeed, resulting in an exceedance of the airplane's critical angle of attack, an aerodynamic stall/spin, 
+and impact with terrain.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of engine power due to carburetor icing, the pilot's decision to turn back to the runway 
+shortly after takeoff, and his failure to maintain airspeed during the turn, which resulted in an 
+exceedance of the airplane's critical angle of attack, and subsequent aerodynamic stall.

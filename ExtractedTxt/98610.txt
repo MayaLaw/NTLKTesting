@@ -1,0 +1,42 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Texico, New Mexico
+Accident Number:
+GAA19CA053
+Date & Time:
+November 5, 2018, 16:55 Local 
+Registration:
+N3214P
+Aircraft:
+Piper PA24
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, the day before the accident flight, he had fully refueled the airplane’s fuel tanks 
+(60 gallons of fuel), conducted a run-up of the engine, and conducted a local flight around the pattern to 
+troubleshoot an electrical issue that was later resolved.
+The pilot reported that, on the day of the accident, during the preflight inspection for the cross-country 
+flight, the airplane was only "two gallons shy of full." About 2.5 hours into the flight, after switching the 
+fuel tanks multiple times en route, he switched to the left main fuel tank to prepare for landing. He 
+added that, about 4 miles south of the destination airport, the engine lost power, the airplane was "too 
+low," and he set up to land on a nearby road. The airplane landed with the gear retracted and struck 
+multiple signs before coming to rest.
+The airplane sustained substantial damage to the right wing, fuselage, and empennage.
+During a postaccident examination by a Federal Aviation Administration inspector, both fuel tanks were 
+found empty, and no evidence of fuel leakage was found at the accident site.  
+During a telephone conversation, the pilot reported that the total flight time the day of the accident was 
+about 3.1 hours and that he was not aware of any preaccident mechanical failures. He estimated that the 
+fuel burn was about 14 gallons per hour and that, during the accident flight, there was about a 17-knot 
+headwind.
+The Pilot’s Operating Handbook for the airplane stated that, while at 75% power, the airplane has about 
+3.7 hours of fuel endurance. Given the evidence, it is likely that the pilot did not ensure that there was 
+adequate fuel onboard for the accident flight, which led to fuel exhaustion and a total loss of engine 
+power.
+ 

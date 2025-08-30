@@ -1,0 +1,29 @@
+{
+    "Filename": "98138.txt",
+    "Location": "Pittsfield, Maine",
+    "Accident Number": "ERA18LA228",
+    "Date & Time": "August 22, 2018, 23:00 Local",
+    "Aircraft": "Cessna T206",
+    "Registration": "N35442",
+    "Flight Conducted Under": "Public aircraft",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "pilot stated returning mission flight heard bang engine lost power declared emergency air traffic control received radar vector nearby airport airplane impacted heavily wooded marsh 34 mile runway resulted serious injury pilot substantial damage airplane postaccident examination revealed 4 cylinder exhaust hydraulic roller tappet fractured separated examination engine revealed 4 exhaust camshaft lobe corresponding roller tappet severely worn damaged additionally 4 exhaust roller tappet body ear supported roller shaft bearing also damaged one ear fractured fatigue metallurgical examination showed engine component conformed manufacturer specification likely severe wear roller camshaft led nonstandard loading condition fatigue failure roller tappet body ear subsequent liberation roller component total loss engine power probable cause finding national transportation safety board determines probable cause accident wear 4 cylinder exhaust camshaft lobe roller tappet resulted failure tappet subsequent total loss engine power",
+        "Top Words": [
+            [
+                "roller",
+                8
+            ],
+            [
+                "tappet",
+                6
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

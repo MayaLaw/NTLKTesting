@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Kennesaw, Georgia
+Accident Number:
+ERA19LA057
+Date & Time:
+November 29, 2018, 18:55 Local 
+Registration:
+N597CP
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the descent from 17,500 ft mean sea level (msl), as the airplane was passing through about 7,500 
+ft msl, the pilot felt a jolt from the engine and subsequently received a low oil pressure alert. The pilot 
+diverted to a closer airport and continued the descent. When the airplane was about 2,000 ft msl, the 
+pilot felt additional jolts and observed sparks emanating from the engine cowling area. Shortly 
+thereafter, the engine lost total power. With no clear landing area available in nighttime conditions over 
+an urban area, he activated the whole-airframe parachute system, and the airplane impacted trees and 
+terrain with the parachute deployed. The fuselage, wings, and empennage sustained substantial damage.
+Examination of the engine crankcase revealed a fracture hole at the No. 6 cylinder, and the connecting 
+rod had sheared from the upper crankshaft bearing. Disassembly of the engine and its components 
+revealed that the left turbocharger had seized; rub marks were observed inside the turbine housing; metal 
+contaminants were found inside the oil filter; and the oil sump contained damaged connecting rod ends, 
+valve lifters, and engine bearings. The damage is consistent with an oil circulation interruption and 
+catastrophic engine failure. The source of the interruption of oil circulation to the engine could not be 
+determined after engine disassembly.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power due to the interruption of oil circulation for reasons that could not be 
+determined based on the available evidence.

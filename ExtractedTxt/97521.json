@@ -1,0 +1,29 @@
+{
+    "Filename": "97521.txt",
+    "Location": "Lakeview, Arkansas",
+    "Accident Number": "GAA18CA361",
+    "Date & Time": "June 17, 2018, 10:15 Local",
+    "Aircraft": "RAYTHEON AIRCRAFT COMPANY",
+    "Registration": "N174DM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot retractablelandinggearequipped airplane reported approach distracted people runway believed neglected lower landing gear added landing thought propeller contacted turf aborted landing airplane gained altitude turned right airspeed increase like felt rather continue flight rising terrain extended landing gear landed field airplane landed hard airplane sustained substantial damage wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure extend landing gear landing resulted propeller strike followed aborted landing subsequent hard precautionary landing",
+        "Top Words": [
+            [
+                "landing",
+                8
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

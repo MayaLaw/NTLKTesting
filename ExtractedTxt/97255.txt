@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Nooksack, Washington
+Accident Number:
+GAA18CA280
+Date & Time:
+May 14, 2018, 15:55 Local 
+Registration:
+N4144L
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Destroyed
+Defining Event:
+Landing area overshoot
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, after three attempts to land the airplane at the one-way, private grass airstrip, the 
+wind had become a tailwind. During the fourth approach, the wind was "apparently stabilized," but once 
+he committed to land, the wind increased and became a hazard. He added that the airplane was then "too 
+low to abort," and the airplane landed long. Subsequently, the airplane was unable to stop, overran the 
+runway, and impacted a power pole.
+The airplane sustained substantial damage to the fuselage, empennage, and both wings.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system about 9 nautical miles away from the accident site reported 
+that, about the time of the accident, the wind was from 220° at 5 knots. The pilot landed the airplane to 
+the east.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper approach in tailwind conditions, which resulted in long landing and subsequent 
+runway overrun.

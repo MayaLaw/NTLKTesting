@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Bolivar, Missouri
+Accident Number:
+CEN18FA186
+Date & Time:
+May 22, 2018, 09:30 Local 
+Registration:
+N622DP
+Aircraft:
+James Donald Baker Zenith
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot departed for a local personal flight in the experimental airplane that he had built and 
+flown for about 500 hours. A witness saw the airplane flying about 50 feet above trees with the nose 
+oscillating up and down. According to the witness, the engine was not "making any strange noises [and 
+had a] steady tone." The airplane struck trees and impacted the ground about 0.75 mile south of the 
+airport. 
+Postaccident examination of the airframe, engine, and propeller revealed no discrepancies or anomalies 
+that would have prevented normal operation.The damage to the propeller blades was consistent with 
+rotation at impact. An autopsy of the pilot was not performed. According to the toxicology report, no 
+ethanol or drugs were detected. Given the oscillations described by the witness, it is likely that the pilot 
+did not maintain airplane control following the takeoff.   
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airplane control after takeoff.

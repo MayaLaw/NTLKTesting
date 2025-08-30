@@ -1,0 +1,29 @@
+{
+    "Filename": "99084.txt",
+    "Location": "Charlotte, North Carolina",
+    "Accident Number": "DCA19CA102",
+    "Date & Time": "March 10, 2019, 09:45 Local",
+    "Aircraft": "Bombardier CL 600 2C10 (A1);",
+    "Registration": "N530EA (A1);",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled (A1); Part 121: Air carrier - Scheduled (A2)",
+    "Aircraft Damage": "Substantial (A1);",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 Minor, 60 None",
+    "Analysis": {
+        "Text": "march 10 2019 0944 eastern daylight time psa airline flight 5366 bombardier crj 900 n569nn collided psa airline flight 5141 bombardier crj700 n530ea pushing back gate e31 charlotte douglas international airport kclt charlotte north carolina injury passenger crew onboard either airplane airplane received substantial damage airplane regularly scheduled passenger flight operating 14 code federal regulation part 121 crj700 pushed back gate e14b waiting taxi spot 29w crj 900 requested push back gate e31 north ramp controller initially instructed 10 hold push back approved 2 minute later flight crew coordinated ground crew pushing back 30 foot tail crj900 impacted tail crj700 feeling impact crj900 crew aborted engine start procedure set parking brake crj700 crew started auxiliary power unit shut engine receiving damage report atc neighboring airplane emergency evacuation performed either aircraft postaccident examination revealed substantially damaged horizonal vertical stabilizer left elevator crj900 horizontal stabilizer left elevator crj700 probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "crj700",
+                5
+            ],
+            [
+                "back",
+                5
+            ],
+            [
+                "crew",
+                5
+            ]
+        ]
+    }
+}

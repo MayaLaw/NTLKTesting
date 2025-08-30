@@ -1,0 +1,29 @@
+{
+    "Filename": "97882.txt",
+    "Location": "Kinsey, Kansas",
+    "Accident Number": "GAA18CA439",
+    "Date & Time": "July 20, 2018, 15:30 Local",
+    "Aircraft": "WAYNE D. TEEL Waiex",
+    "Registration": "N49YX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane encountered strong crosswind gust left landing roll airplane turned left wind exited left side runway airplane collided cornstalk came rest drainage culvert airplane sustained substantial damage right wing spar pilot reported mechanical malfunction failure airplane would precluded normal operation automated weather observation station located 23 mile accident site reported 26 minute accident wind 100 16 knot gusting 20 knot airplane landed runway 18 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll gusting crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "left",
+                3
+            ]
+        ]
+    }
+}

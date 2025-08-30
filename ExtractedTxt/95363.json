@@ -1,0 +1,29 @@
+{
+    "Filename": "95363.txt",
+    "Location": "Ravenna, Ohio",
+    "Accident Number": "GAA17CA337",
+    "Date & Time": "June 11, 2017, 11:50 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N33FM",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported instructional flight short final told student pilot pitch maintain airspeed added student respond instructed student pitch simultaneously pressing forward yoke added pushed forward yoke student pulled back equal force yoke subsequently flight instructor pushed forward yoke greater force previous attempt stated plane student continued wrestle control student airplane entered aerodynamic stall airplane impacted runway threshold hard nose landing gear collapsed airplane veered runway right student pilot reported first flight flight instructor accumulated 82 hour dual instruction previously added second landing day final approach instructor pull power told nose added felt getting low told instructor wanted increase power instructor told nose student pilot reported instructor stated multiple time nose believe enough room continue nose student pilot reported flight instructor subsequently took flight control nosed airplane airplane impacted runway threshold hard veered runway fuselage firewall sustained substantial damage flight instructor student pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation postaccident correspondence national transportation safety board investigatorin charge flight instructor reported could recall preflight student pilot discussed positive transfer flight control",
+        "Top Words": [
+            [
+                "student",
+                11
+            ],
+            [
+                "flight",
+                10
+            ],
+            [
+                "instructor",
+                10
+            ]
+        ]
+    }
+}

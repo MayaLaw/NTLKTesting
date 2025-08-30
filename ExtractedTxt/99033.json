@@ -1,0 +1,29 @@
+{
+    "Filename": "99033.txt",
+    "Location": "Floodwood, Minnesota",
+    "Accident Number": "GAA19CA154",
+    "Date & Time": "February 28, 2019, 13:35 Local",
+    "Aircraft": "Denney KITFOX MDL CLASSICIV",
+    "Registration": "N111YT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing crosswind planned touch 2 ft past beginning compacted snowcovered private airstrip added order perform short field landing chose ride tire terrain touchdown reported front main landing gear touched wind gust picked right wing left tire sank snow airplane decelerated nosed airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind accident location time accident 230 9 knot gusting 15 knot pilot landing airplane southwest 210 heading probable cause finding national transportation safety board determines probable cause accident pilot loss lateral control landing gusting crosswind condition resulted noseover",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "landing",
+                5
+            ]
+        ]
+    }
+}

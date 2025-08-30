@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Mount Vernon, Washington
+Accident Number:
+GAA18CA164
+Date & Time:
+March 9, 2018, 11:00 Local 
+Registration:
+N9463C
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the tailwheel-equipped airplane reported that, during landing, the airplane bounced, he 
+added power, and the airplane settled on the runway. During the landing roll he lost directional control, 
+the airplane exited the right side of the runway, and the left wing struck the ground. The pilot taxied the 
+airplane to parking.
+The airplane sustained substantial damage to the left-wing ribs and spar.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control of the airplane during landing. 
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

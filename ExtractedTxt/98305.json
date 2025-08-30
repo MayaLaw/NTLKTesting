@@ -1,0 +1,29 @@
+{
+    "Filename": "98305.txt",
+    "Location": "Kenai, Alaska",
+    "Accident Number": "GAA18CA558",
+    "Date & Time": "September 13, 2018, 11:10 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N7184B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported approach made relatively steep descent full flap touchdown unimproved airstrip tailwheelequipped airplane landed hard bounced airplane touched angled left veered runway left roll uneven dirt surface subsequently left wing impacted tree airplane pivoted adjacent tree airplane sustained substantial damage left wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard bounced landing subsequent loss directional control unimproved airstrip",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "left",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

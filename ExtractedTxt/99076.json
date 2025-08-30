@@ -1,0 +1,29 @@
+{
+    "Filename": "99076.txt",
+    "Location": "Pahokee, Florida",
+    "Accident Number": "WPR19FA093",
+    "Date & Time": "March 8, 2019, 15:26 Local",
+    "Aircraft": "Piper PA23",
+    "Registration": "N5894Y",
+    "Flight Conducted Under": "Part 91: General aviation - Unknown",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "5 Fatal",
+    "Analysis": {
+        "Text": "descending cruise altitude toward destination airport pilot reported air traffic control needed divert closer airport left engine misfiring going shut radar data indicated airplane flew toward diversion airport continued maneuver south past airport radar contact lost around 700 ft mean sea level airplane subsequently impacted lake 12 mile west airport data airplane engine monitoring system revealed drop left engine exhaust gas temperature egt cylinder head temperature cht fuel flow value near end flight value increased minute decreasing second time left engine fuel flow value last 3 minute data 0 left propeller found feathered position consistent pilot shut secured engine flight review airframe maintenance logbook indicated several airframerelated fuel system component replaced 4 month accident entry left engine logbook 4 day accident stated left engine 5 cht fluctuating loss 300 rpm experienced testing right magneto flight however issue could duplicated ground airplane returned service fuel residue observed around left engine electric fuel pump pump removed functionally tested two leak found pressure test however effect leak engine operation could determined anomaly airframe fuel system observed however system heavily fragmented submerged water several day recovery based available information reason reported loss engine power extent left engine may able continue produce power could determined additionally reason pilot lowaltitude maneuvering vicinity runway could",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "left",
+                8
+            ],
+            [
+                "fuel",
+                6
+            ]
+        ]
+    }
+}

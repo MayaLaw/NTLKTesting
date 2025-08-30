@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Pella, Iowa
+Accident Number:
+GAA19CA193
+Date & Time:
+March 26, 2019, 14:50 Local 
+Registration:
+N7127G
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Nose over/nose down
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, during the landing with the student pilot on the flight controls, about 
+5 to 10 ft above the ground, a wind gust caused the airplane to drift right. The instructor assumed control 
+of the airplane, attempted to correct, applied full power, and initiated a go-around. The instructor stated 
+that the airplane was "low and slow," and the left main landing gear contacted the runway, and the 
+airplane drifted left. Concerned the airplane would not gain significant altitude to clear the buildings in 
+the flightpath, the instructor chose to land in the grass left of the runway. Subsequently, the airplane 
+encountered soft terrain and nosed over.
+The airplane sustained substantial damage to the aft fuselage and rudder.
+The instructor reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+About the time of the accident, the airport's automated weather observation station reported that the 
+wind was from 170° at 5 knots. The student was landing the airplane on runway 16.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain the runway heading and the flight instructor's delayed remedial 
+action during landing, which resulted in the instructor landing the airplane in grass left of the runway 
+and a subsequent nose-over.

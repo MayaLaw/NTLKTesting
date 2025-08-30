@@ -1,0 +1,29 @@
+{
+    "Filename": "98320.txt",
+    "Location": "Hillsdale, Michigan",
+    "Accident Number": "GAA18CA560",
+    "Date & Time": "September 17, 2018, 18:00 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N3544A",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot reported landing flared high airplane aerodynamically stalled added airplane landed hard nose landing gear collapsed airplane veered right runway dirt nosed airplane sustained substantial damage wing fuselage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack landing flare resulted aerodynamic stall finding aircraft angle attack capability exceeded personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

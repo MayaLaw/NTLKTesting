@@ -1,0 +1,29 @@
+{
+    "Filename": "97877.txt",
+    "Location": "Charlotte, North Carolina",
+    "Accident Number": "DCA18CA251",
+    "Date & Time": "July 23, 2018, 15:38 Local",
+    "Aircraft": "Mcdonnell Douglas MD88",
+    "Registration": "N918DE",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 1 Minor,",
+    "Analysis": {
+        "Text": "july 23 2018 1538 eastern daylight time delta air line flight 2133 mcdonnell douglas md88 n918de encountered turbulence descent charlotte douglas international airport kclt charlotte north carolina 146 passenger crew onboard one flight attendant received serious injury one received minor injury airplane damaged regularly scheduled domestic passenger flight operated provision 14 code federal regulation part 121 atlantahartsfield international airport katl atlanta georgia kclt captain pilot monitoring first officer pilot flying according flight crew thunderstorm along entire route required deviate around multiple cell seat belt sign entire flight weather radar flight approached kclt captain called lead flight attendant fa requested fa complete final walkthrough seated remainder flight since expected bumpy arrival deviating around convective weather flight entered cloud encountered severe turbulence heavy rain autopilot disconnected airplane dropped abruptly left first officer maintained positive manual control throughout event crew estimated turbulence lasted 10 second captain immediately contacted cabin informed two fa injured receiving captain call prepare landing early three fa immediately began final walkthroughs two fa aisle turbulence occurred fa thrown air onto floor one fa injured back helped passenger seat remainder flight fa injured knee able continue duty remainder flight captain declared medical emergency requested emergency personnel meet airplane gate upon arrival fa transported hospital one diagnosed fractured vertebra",
+        "Top Words": [
+            [
+                "flight",
+                11
+            ],
+            [
+                "fa",
+                9
+            ],
+            [
+                "captain",
+                5
+            ]
+        ]
+    }
+}

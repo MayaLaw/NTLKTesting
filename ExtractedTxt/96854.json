@@ -1,0 +1,29 @@
+{
+    "Filename": "96854.txt",
+    "Location": "Addison, Texas",
+    "Accident Number": "CEN18LA119",
+    "Date & Time": "March 10, 2018, 16:46 Local",
+    "Aircraft": "CZECH SPORT AIRCRAFT AS PIPER",
+    "Registration": "N422PS",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "according operator flight airplane serviced wintergrade 93octane automotive gas flight instructor one passenger conducting local introductory instructional flight outside ambient temperature 81f airplane recorded data showed engine running 18 minute engine startup taxi engine runup holding short runway engine runup fuel flow 6 gallon per hour gph fuel pressure 6 7 pound per square inch psi engine speed 4000 rpm shortly departure pilot stated air traffic controller vapor lock need come back land initial climb fuel flow increased peak 9 gph fuel pressure decreased 33 psi 5025 rpm airplane made climbing left turn southeast continued circling left engine surged descended toward end departure runway flight track data ended airport surveillance video showed airplane subsequently continued descending wingslevel attitude near end runway entered sharp left bank impacted ground examination airplane revealed evidence preexisting mechanical malfunction failure would precluded normal operation although engine manufacturer recommended use mogas however engine operating manual eom warned use fuel suitable respective climatic zone risk vapor formation using winter grade fuel summer operation eom stated fuel flow takeoff 71 gph engine experience vapor lock air enters fuel flow sensor cause unit spin higher rate fuel passing often represented spike fuel flow therefore fuel flow reaching 9 gph initial climb consistent vapor lock likely due use wintergrade fuel",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "engine",
+                9
+            ],
+            [
+                "flow",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "94759.txt",
+    "Location": "Valparaiso, Indiana",
+    "Accident Number": "GAA17CA153",
+    "Date & Time": "February 20, 2017, 09:40 Local",
+    "Aircraft": "Stinson 108",
+    "Registration": "N9277K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing tail came sizable gust weathervaned airplane left added made aggressive input correct direction unsuccessful added airplane veered runway grass could feel main begin sink soft ground subsequently airplane nosed airplane sustained substantial damage right wing lift strut empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation review recorded data automated weather observation station located airport revealed 16 minute accident wind 170 9 knot airplane landed runway 18 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing crosswind",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

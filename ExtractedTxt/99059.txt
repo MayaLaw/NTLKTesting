@@ -1,0 +1,32 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Stateboro, Georgia
+Accident Number:
+ERA19LA119
+Date & Time:
+March 5, 2019, 15:00 Local 
+Registration:
+N101WV
+Aircraft:
+OSTERTAG WALTER G Velocity RG
+Aircraft Damage:
+Destroyed
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot and instructor were on final approach for landing in gusting wind conditions when, 
+about 20 ft above the ground, the airplane's nose dropped and the airplane abruptly lost 20 
+knots of airspeed. They initiated a go-around, but the airplane's landing gear impacted the 
+runway approach lights, and the airplane subsequently impacted the runway and departed the 
+right side; a postcrash fire consumed a majority of the airplane. Given the wind conditions, the 
+abrupt loss of airspeed, and the subsequent loss of pitch control, it is likely that the airplane 
+encountered windshear while on short final approach with insufficent altitude available to 
+recover.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s loss of airplane control while on final approach in gusty wind conditions.

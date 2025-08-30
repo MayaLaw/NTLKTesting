@@ -1,0 +1,29 @@
+{
+    "Filename": "98177.txt",
+    "Location": "Kelso, Washington",
+    "Accident Number": "WPR18TA243",
+    "Date & Time": "August 18, 2018, 21:30 Local",
+    "Aircraft": "Beech 36",
+    "Registration": "N9031S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported en route destination airport personal flight engine lost power pilot initiated forced landing field resulted substantial damage airplane pilot reported mechanical malfunction failure engine airframe would precluded normal operation postaccident examination airplane revealed right fuel tank empty left fuel tank full pilot stated remember switching fuel tank flight given right fuel tank empty likely ran fuel probable cause finding national transportation safety board determines probable cause accident pilot fuel mismanagement led fuel starvation total loss engine power subsequent forced landing field finding aircraft fuel fluid management personnel issue monitoring equipinstruments pilot personnel issue use equipsystem pilot",
+        "Top Words": [
+            [
+                "fuel",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "tank",
+                4
+            ]
+        ]
+    }
+}

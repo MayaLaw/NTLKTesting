@@ -1,0 +1,29 @@
+{
+    "Filename": "99281.txt",
+    "Location": "Wickenburg, Arizona",
+    "Accident Number": "GAA19CA212",
+    "Date & Time": "April 17, 2019, 10:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N425PA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "student pilot reported second approach encountered bumpy air airplane ballooned corrected adding power leveling wing continuing landing touchdown right wing lifted airplane drifted left runway centerline applied power go around stall warning activated airplane continued drift left subsequently airplane aerodynamically stalled collided ground airport taxiway sign airplane sustained substantial damage left wing fuselage student reported preimpact mechanical failure malfunction airplane would precluded normal operation time accident airport automated weather reporting station reported wind 270 6 knot pilot landing airplane runway 23 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateral control landing exceedance airplane critical angle attack subsequent aborted landing resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

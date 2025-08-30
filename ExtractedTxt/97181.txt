@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Glendale, Arizona
+Accident Number:
+GAA18CA253
+Date & Time:
+May 4, 2018, 12:00 Local 
+Registration:
+N99141
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, during takeoff, the solo student pilot realized he had a crosswind from 
+the right and applied right aileron and right rudder. He added that, as the student rotated the airplane, it 
+drifted left. The student then lost airplane control, pulled the engine power to idle, and aborted the 
+takeoff. Subsequently, during touchdown, the airplane veered hard to the left and exited the runway, and 
+the nose landing gear collapsed.
+The airplane sustained substantial damage to the forward fuselage.
+The student pilot reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+The automated weather observation system at the accident airport reported that, about the time of the 
+accident, the wind was calm. The student pilot was departing from runway 1.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain runway alignment during takeoff, which resulted in an aborted 
+takeoff and runway excursion.

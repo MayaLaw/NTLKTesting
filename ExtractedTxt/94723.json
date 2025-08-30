@@ -1,0 +1,29 @@
+{
+    "Filename": "94723.txt",
+    "Location": "Cedar Key, Florida",
+    "Accident Number": "ERA17FA108",
+    "Date & Time": "February 12, 2017, 11:06 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N4504X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "noninstrument rated private pilot departed airplane visual meteorological condition prevailed along route overwater crosscountry flight however 20 mile destination airport airplane encountered area instrument meteorological condition imc consisted overcast cloud base 400 ft water according gps data airplane reached area began descend cruising altitude 2400 ft 7 minute later altitude 1000 ft airplane began left descending 180 turn altitude fluctuated data ended 600 ft water near accident site airplane continued descend impacted water examination wreckage reveal evidence preimpact mechanical malfunction would precluded normal operation pilot logged 46 hour simulated instrument experience documented actual instrument experience evidence found indicating pilot obtained official weather briefing flight obtained briefing would told visual flight rule vfr flight recommended due imc near destination airport given instrument condition destination area pilot limited instrument flying experience likely pilot attempted continue vfr flight imc experienced spatial disorientation lost control airplane probable cause finding national transportation safety board determines probable cause accident noninstrumentrated pilot improper decision continue visual flight rule flight instrument meteorological condition resulted spatial disorientation loss airplane control",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

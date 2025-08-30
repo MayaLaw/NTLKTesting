@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Greeley, Colorado
+Accident Number:
+CEN18CA323
+Date & Time:
+August 8, 2018, 20:00 Local 
+Registration:
+N20JA
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and a safety pilot were practicing instrument maneuvers, approaches, and landings at different 
+airports during the flight. The airplane entered the traffic pattern for a practice landing at an airport. 
+According to the safety pilot, the airplane was high and slow during the final approach. About 10 ft 
+above ground level, the airplane "floated a little longer," and the pilot initiated a go-around by applying 
+full throttle. During the attempted go-around, both occupants applied conflicting "correction" inputs to 
+the control yokes; the pilot applied back pressure, and the safety pilot applied forward pressure. The 
+airplane stalled, the left wing impacted terrain, and the airplane came to rest upright adjacent to the 
+runway. 
+The airplane sustained substantial damage to the forward fuselage and both wings.
+Both pilots reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation. 
+The pilot statements were conflicting regarding the accident details and sequence of events. Based on 
+the statements and airplane damage, it is likely that the conflicting control inputs resulted in the pilots' 
+failure to maintain a proper airspeed and that the airplane entered an aerodynamic stall during the 
+attempted go-around. Neither pilot reported that verbal communication was established during the 
+landing sequence. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "99267.txt",
+    "Location": "Nome, Alaska",
+    "Accident Number": "ANC19TA017",
+    "Date & Time": "April 15, 2019, 09:00 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N5163E",
+    "Flight Conducted Under": "Public aircraft",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting visual flight rule vfr crosscountry flight marginal vfr condition en route destination decided maneuver intended course surveil mountainous area national park maneuvering area observed deteriorating weather looking gps display confirm navigating properly airplane entered instrument meteorological condition imc pilot stated looked probably experienced spatial disorientation commenced instrument scan confirmed wing level started right 180 turn return visual condition review gps data indicated airplane established relatively steady course 600 ft ground level heading directly higher terrain turned right 50 descended rate 520 ft per minute terrain wreckage came rest slope snowcovered ridge separated section along 120ft path signature indicative highspeed impact slight leftwinglow attitude fuselage wing empennage sustained substantial damage weather forecast area indicated marginal vfr condition within agency weather minimum pilot reported maneuvering ridgeline area noted low thick cloud felt comfortable flying along ridgeline recognized review pilot training record indicated certified agency department vfronly flight recent instrument flight experience agency instrument training currency reciprocating airplane pilot assigned vfr flight pilot stated receive simulated instrument training taught turn back 180 unintentional flight imc although instrument training inadvertent imc documented annual check flight",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "instrument",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99384.txt",
+    "Location": "Marion, Indiana",
+    "Accident Number": "GAA19CA246",
+    "Date & Time": "May 5, 2019, 17:12 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N96974",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Minor, 2 None",
+    "Analysis": {
+        "Text": "pilot reported landing airplane landed hard bounced decided go around added full power nose pitched sharply added attempted lower nose airspeed decreased airplane lost lift right side pushed forward control yoke airplane drifted right right wing aerodynamically stalled airplane impacted ground next taxiway spun around passenger saw fire front firewall occupant exited airplane airplane destroyed postaccident fire pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration faa inspector reported pilot stated used noseup trim approach pilot also stated goaround attempted use electric trim trim nose airplane nosed pilot attempted lower nose hesitated due airplane near ground retracted flap faa inspector examined airplane found trim setting short full nose trim probable cause finding national transportation safety board determines probable cause accident pilot improper trim setting exceedance airplane critical angle attack go around resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "trim",
+                6
+            ]
+        ]
+    }
+}

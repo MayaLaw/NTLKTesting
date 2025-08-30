@@ -1,0 +1,29 @@
+{
+    "Filename": "96036.txt",
+    "Location": "Hanover Township, Pennsylvania",
+    "Accident Number": "ERA17LA328",
+    "Date & Time": "September 16, 2017, 16:49 Local",
+    "Aircraft": "Piper J3C",
+    "Registration": "N38365",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot conducting local personal flight reported 1000 ft ground level began turning airplane left rolled faster expected rolled inverted attitude pilot regained control airplane airplane straight level saw treetop tried pull airplane impacted tree terrain resulted substantial damage airframe pilot stated postaccident examination airplane confirmed preaccident mechanical malfunction failure flight control would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain roll control maneuvering resulted collision tree terrain",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

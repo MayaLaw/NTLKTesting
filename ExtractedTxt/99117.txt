@@ -1,0 +1,46 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Cashiers, North Carolina
+Accident Number:
+ERA19FA130
+Date & Time:
+March 14, 2019, 18:15 Local 
+Registration:
+N6075Q
+Aircraft:
+Mooney M20C
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot obtained a weather briefing and filed his instrument flight rules flight plan the night 
+before the cross-country flight. About 30 minutes after departure, an air traffic controller 
+advised the pilot that he had overcorrected a turn. Shortly after, the pilot advised the controller 
+that his attitude indicator was not functioning. The controller asked the pilot if he was in the 
+clouds, and the pilot responded that he was in instrument meteorological conditions. The 
+controller attempted to help the pilot get to clearer air, but the pilot continued to have 
+difficulty controlling the airplane and maintaining an assigned course. Radar contact and radio 
+contact were lost shortly thereafter.
+The wreckage was located in mountainous terrain, and all major components and control 
+surfaces were accounted for at the accident site. Various parts of the airplane were scattered 
+through the treetops and the wreckage debris field. While the airplane’s attitude indicator was 
+not recovered, the directional gyroscope and vacuum pump were, and they were each examined 
+in detail.
+Examination of the vacuum pump revealed that the shear coupling that connected the 
+driveshaft between the engine accessory drive gear and the vacuum pump driveshaft assembly 
+likely fractured before impact. The condition of the fractured shear coupling was consistent 
+with the drive side rotating after fracture while in contact with the separated (and hence, 
+stationary) driven side. A transverse fracture as observed through the shear coupling would 
+have disengaged the two-piece driveshaft, which would not have allowed the pump to rotate. 
+Additionally, all six of the vacuum pump’s vanes were intact but the rotor was fragmented into 
+four relatively large pieces, and a relatively small area had fragmentated into smaller pieces. 
+Given this information, the vacuum pump was likely not rotating at impact, as a greater degree 
+of fragmentation would be expected if the pump were rotating. The interior surface vacuum 
+pump housing displayed wear consistent with vane impact, dragging, and debris 
+contamination within the housing at some point during the pump’s operational lifetime. One of 

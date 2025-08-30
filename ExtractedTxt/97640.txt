@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Pocahontas, Arkansas
+Accident Number:
+CEN18LA241
+Date & Time:
+June 28, 2018, 11:30 Local 
+Registration:
+N6386C
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was landing the airplane on a 4,000-ft-long asphalt runway with a left quartering 
+tailwind. He stated that the airplane started to veer to the left and that he applied the right wheel brake to 
+correct for the left turn. He was unable to maintain directional control, and the airplane exited the left 
+side of the runway and nosed over, which resulted in damage to the right wing. Examination of the 
+airplane revealed the left wheel and tire spun freely, whereas the right wheel and brake assembly were 
+tight. Examination of the airframe and engine revealed no evidence of mechanical malfunctions or 
+failures that would have precluded normal flight operations. 
+Runway skid marks were consistent with the right wheel brake locking up 1,100 ft from the runway 
+threshold, followed quickly by the left wheel brake locking up 1,132 ft from the runway threshold. Both 
+wheel brakes were locked up until the airplane exited the runway 1,500 ft from the threshold. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's excessive use of wheel brakes while landing, which resulted in both brakes locking up, a loss 
+of directional control, a runway excursion, and a nose over.

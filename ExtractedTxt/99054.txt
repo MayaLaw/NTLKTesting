@@ -1,0 +1,46 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Fellsmere, Florida
+Accident Number:
+ERA19FA116
+Date & Time:
+March 5, 2019, 07:03 Local 
+Registration:
+N556PU
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of visual reference
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot was scheduled to complete a solo cross-country flight the day before the accident, and 
+her flight instructor had provided the required endorsements for that flight; however, the flight was 
+subsequently cancelled due to weather and was rescheduled for the following morning. When the pilot 
+arrived on the airport the morning of the accident, she was released for the flight by the operations duty 
+officer (DO), who was responsible for confirming that students had the proper endorsements for solo 
+flight, even though her endorsements for the previous day's flight would have been no longer valid. The 
+DO was also responsible for ensuring that weather conditions along a student's planned route of flight 
+met the student’s prescribed limitations, and found that although the departure airport was reporting 
+visual flight rules (VFR) conditions, the destination airports were reporting instrument flight rules (IFR) 
+conditions. He stated that airports in the area tended to be IFR in the early-morning hours due to fog, 
+then quickly improve to VFR after sunrise. He signed the pilot's flight risk assessment so that she could 
+conduct her preflight inspection, but stressed to her that she needed to check the weather again before 
+takeoff, and if conditions were still IFR, then the flight needed to be cancelled. 
+Between the time the DO released the pilot for the flight and the time she subsequently departed just 
+after sunrise, weather conditions at the departure airport deteriorated from VFR to low IFR, including a 
+cloud ceiling around 400 to 500 ft above ground level. The airplane likely entered instrument 
+meteorological conditions (IMC) immediately after takeoff. A review of radar data revealed that the 
+pilot flew west-northwest of the airport and made a series of climbing and descending turns before the 
+airplane impacted terrain around 6 minutes after takeoff about 7.3 miles northwest of the airport. 
+Postaccident examination of the airplane and the engine revealed no discrepancies that would have 
+precluded normal operation. The airplane's radar track after takeoff did not suggest an immediate loss of 
+control upon entering IMC; however, the climbing and descending turns near the end of the data are 
+consistent with the known effects of spatial disorientation. 
+On the morning of the accident, four other students departed on solo flights. Three of the pilots departed 
+just before the accident pilot. Two of these pilots stated that they checked the weather before their flights 

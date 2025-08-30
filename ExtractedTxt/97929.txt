@@ -1,0 +1,47 @@
+Page 1 of 14
+Aviation Investigation Final Report
+Location:
+Greenville, Maine
+Accident Number:
+ERA18FA206
+Date & Time:
+July 30, 2018, 10:44 Local 
+Registration:
+C-GRRS
+Aircraft:
+Piper PA60
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Non-U.S., non-commercial
+Analysis 
+The private pilot of the multiengine airplane was in cruise flight at 23,000 ft mean sea level (msl) in day 
+visual meteorological conditions when he reported to air traffic control that the airplane was losing 
+altitude due to a loss of engine power. The controller provided vectors to a nearby airport; about 7 
+minutes later, the pilot reported the airport in sight and stated that he would enter a downwind leg for 
+runway 14. By this time, the airplane had descended to about 3,200 ft above ground level. Radar data 
+indicated that the airplane proceeded toward the runway but that it was about 400 ft above ground level 
+on short final. The airplane flew directly over the airport at a low altitude before entering a left turn to a 
+close downwind for runway 21. Witnesses stated that the airplane's propellers were turning, but they 
+could not estimate engine power. When the airplane reached the approach end of runway 21, it entered a 
+steep left turn and was flying slowly before the left wing suddenly "stalled" and the airplane pitched 
+nose-down toward the ground.
+Postaccident examination of the airplane and engines revealed no mechanical deficiencies that would 
+have precluded normal operation at the time of impact. Examination of both propeller systems indicated 
+power symmetry at the time of impact, with damage to both assemblies consistent with low or idle 
+engine power. The onboard engine monitor recorded battery voltage, engine exhaust gas temperature, 
+and cylinder head temperature for both engines. A review of the recorded data revealed that about 14 
+minutes before the accident, there was a jump followed by a decrease in exhaust gas temperature (EGT) 
+and cylinder head temperature (CHT) for both engines. The temperatures decreased for about 9 minutes, 
+during which time the right engine EGT data spiked twice. Both engines' EGT and CHT values then 
+returned to normal, consistent with both engines producing power, for the remaining 5 minutes of data. 
+It is possible that a fuel interruption may have caused the momentary increase in both engines' EGT and 
+CHT values and prompted the pilot to report the engine power loss; however, the engine monitor did not 
+record fuel pressure or fuel flow, and examination of the airplane's fuel system and engines did not 
+reveal any mechanical anomalies. Therefore, the reason for the reported loss of engine power could not 
+be determined.
+It is likely that the pilot's initial approach for landing was too high, and he attempted to circle over the 

@@ -1,0 +1,29 @@
+{
+    "Filename": "95386.txt",
+    "Location": "Payette, Idaho",
+    "Accident Number": "WPR17FA128",
+    "Date & Time": "June 17, 2017, 11:45 Local",
+    "Aircraft": "PRESCOT E. WILKIE RV-3",
+    "Registration": "N177TT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot purchased experimental amateurbuilt airplane fully assembled subsequently completed assembly federal aviation administration faa subsequently granted airplane airworthiness certificate experimental category 7 year later airplane disassembled shipped pilot new home accident flight airplane first flight reassembled review video accident sequence showed left wing failed relatively benign maneuver airplane descending several second earlier pilot performed highspeed lowaltitude pas runway sharp pullup maneuver would produced much higher wing load time wing failure possible pullup maneuver caused localized buckling failure leftwing upper spar cap reduced strength accident airplane model history inflight wing separation series accident kit manufacturer conducted extensive testing provided ownersbuilders suggested modification airplane testing showed optional bonding spar cap together unit assembly provided better resistance buckling testing also showed initiating failure rv3 wing buckling upper spar cap first modification rv3 wing change notice cn 1 issued 1984 involved reinforcing rear spar attachment point strengthening wing root rib second modification rv3 wing cn2i cn2ii issued 1996 involved addition stiffening angle main spar deemed necessary aerobatic strength examination accident airplane revealed wing spar carrythrough modified addition 0125inchthick doubler rear spar center section however rear spar attachment point still singleshear configuration wing root rib wing 0020 inch thick modified evidence indicates airplane modified",
+        "Top Words": [
+            [
+                "wing",
+                11
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "spar",
+                8
+            ]
+        ]
+    }
+}

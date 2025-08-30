@@ -1,0 +1,29 @@
+{
+    "Filename": "98650.txt",
+    "Location": "Gainesville, Georgia",
+    "Accident Number": "ERA19FA049",
+    "Date & Time": "November 17, 2018, 18:35 Local",
+    "Aircraft": "Lancair LEGACY RG",
+    "Registration": "N8448J",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "pilotowner flight instructor returning crosscountry flight arrived vicinity airport dark visual meteorological condition flight instructor requested air traffic controller cleared practice gps approach runway equipped precision approach path indicator papi lighting flight data indicated approach flown using autopilot airplane passed final approach fix flap partially extended pitch attitude decreased airplane descended glidepath autopilot commanded nose elevator airplane returned slightly glidepath remained stable 16 second drifting nearly fullscale course deviation glidepath autopilot commanded elevator nose electric pitch trim near full nose position autopilot disconnected although autopilot automatically disengage event system failure failure observed recorded data therefore likely autopilot manually disengaged 15 second later flap extended full fully retracted descent rate increased airplane descended glidepath recorded data ended airplane 03 mile runway airplane struck tree crossed road impacted left side localizer antenna platform coming rest grass short runway examination wreckage recorded flight data reveal preimpact electrical mechanical anomaly would precluded normal operation pilot guide autopilot system warned autopilot engaged small amount force pitch control result autopilot automatic trim entering outoftrim condition airplane drifted glidepath autopilot attempted command nosedown elevator elevator servo met resistance evidenced increase elevator servo torque sufficient activate electric pitch trim given indication flight control malfunction likely one pilot applying pressure elevator control cockpit autopilot applied elevator trim counteract pressure attempt return glidepath",
+        "Top Words": [
+            [
+                "autopilot",
+                11
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "elevator",
+                7
+            ]
+        ]
+    }
+}

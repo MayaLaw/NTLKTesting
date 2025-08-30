@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+El Cajon, California
+Accident Number:
+WPR17LA214
+Date & Time:
+September 23, 2017, 14:15 Local 
+Registration:
+N52KF
+Aircraft:
+SC AEROSTAR SA YAK 52W
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After completing an uneventful preflight inspection, the pilot was unable to start the engine due to low 
+pressure in the pneumatic system. An individual arrived with a tank of air to pressurize the system while 
+the pilot remained in the airplane. The pilot shut off the compressed air supply valve, as required during 
+a pneumatic system recharge; however, the recharge could not be accomplished due to an incorrect 
+adapter. While the individual left to find the correct adapter, another individual offered to help start the 
+engine manually by turning the propeller. After the engine started, the pilot forgot to reopen the 
+compressed air supply valve and, during taxi, the airplane experienced a loss of braking performance 
+that affected its steering capabilities (the steering is accomplished through differential braking, and the 
+brake system requires pneumatic pressure to operate). The pilot was unable to maintain directional 
+control, and the airplane subsequently collided with a fence and sustained substantial damage to the left 
+wing.
+The checklist for the make/model airplane does not require the pilot to check the air pressure or valve 
+position during the preflight, engine start, or before takeoff phases.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during taxi after a reduction in braking performance 
+and steering capabilities due to his failure to reopen the air supply valve after the nonstandard engine 
+start. 

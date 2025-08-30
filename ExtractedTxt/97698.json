@@ -1,0 +1,29 @@
+{
+    "Filename": "97698.txt",
+    "Location": "Rochelle, Illinois",
+    "Accident Number": "GAA18CA401",
+    "Date & Time": "July 5, 2018, 15:00 Local",
+    "Aircraft": "Grumman G164",
+    "Registration": "N6795Q",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot turbinepowered airplane reported takeoff agricultural application flight failed move power lever ground idle position flight position takeoff airplane attain sufficient airspeed aerodynamically stalled 50 ft ground impacted terrain came rest inverted airplane sustained substantial damage fuselage wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure move power lever proper position takeoff resulted insufficient airspeed subsequent aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "takeoff",
+                3
+            ]
+        ]
+    }
+}

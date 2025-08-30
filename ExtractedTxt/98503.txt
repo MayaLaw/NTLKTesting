@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Opelika, Alabama
+Accident Number:
+ERA19LA017
+Date & Time:
+October 15, 2018, 22:10 Local 
+Registration:
+N9398G
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the climb after takeoff, the pilot noticed a drop in engine oil pressure and turned back toward the 
+airport to land. Almost immediately thereafter, the engine began to run rough and eventually lost power 
+completely. The pilot performed a forced landing to an interstate exit ramp, during which the airplane 
+sustained substantial damage.
+Examination of the engine revealed that the Nos. 2 and 4 connecting rods were separated from their 
+respective rod journals. All rod journals were absent of lubrication and displayed heat damage. 
+Disassembly of the engine and the separation of the case halves revealed abnormal wear and damage 
+consistent with loss of lubrication. Examination and testing of engine accessories revealed no anomalies 
+that would have prevented normal operation.
+The engine was equipped with a screw-on oil filter adaptor required to be torqued to 65 ft/lbs at 
+installation, and the integrity of the oil filter adaptor installation was required to be examined during 
+every 100-hour and annual inspection. The adaptor on the accident engine was found loose and could be 
+easily rotated by hand through a 90° arc, and oil seepage was found on the area surrounding the oil filter 
+adapter attachment point. Given this information, it is likely that the loose adaptor allowed the engine oil 
+to be pumped overboard, resulting in a loss of engine lubrication and catastrophic failure of the Nos. 2 
+and 4 connecting rods.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

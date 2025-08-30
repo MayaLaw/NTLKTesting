@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hobbs, New Mexico
+Accident Number:
+CEN19CA017
+Date & Time:
+October 27, 2018, 19:40 Local 
+Registration:
+N6899C
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Navigation error
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he entered a left traffic pattern for runway 30 during night, visual meteorological 
+conditions. Although the pilot thought he had sufficient altitude during the initial phase of the final 
+approach based on his altimeter indication, shortly after turning to final approach, the airplane impacted 
+terrain. 
+The airplane sustained substantial damage to the right wing and fuselage, and the three occupants were 
+not injured.
+Postaccident examination of the airframe and engine revealed no evidence of preaccident mechanical 
+failures or malfunctions that would have precluded normal operation. The examination did reveal that 
+the altimeter had an incorrect setting, which resulted in an altimeter indication error of +800 ft mean sea 
+level. The pilot stated that he must have had the incorrect altimeter setting for the destination airport. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's incorrect altimeter setting during the night visual approach, which resulted in a controlled 
+flight into terrain.

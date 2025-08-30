@@ -1,0 +1,46 @@
+Page 1 of 23
+Aviation Investigation Final Report
+Location:
+Sparks, Nevada
+Accident Number:
+WPR16FA172
+Date & Time:
+August 30, 2016, 18:01 Local 
+Registration:
+N985CA
+Aircraft:
+Beech A36
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aircraft wake turb encounter
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The 73-year-old commercial pilot was on the fourth and final leg of a 950-mile round trip same day 
+flight. As the airplane neared the airport, the pilot was told by the air traffic controller to expect runway 
+25 for landing. After the controller informed him of a delay for that runway, the pilot stated that he 
+could accept runway 16L; the pilot was told to proceed for runway landing, but the runway was not 
+specified, an instruction which he acknowledged. Shortly after establishing contact with the tower 
+controller, who instructed the pilot to continue for runway 25, the pilot reported that the airplane was on 
+a downwind leg for landing on runway 16L. The controller acknowledged and, rather than correcting the 
+pilot, instructed him to continue inbound for 16L. At the time, runway 16R was being used for landing 
+by two Boeing 757 (B757) airplanes in sequence, separated from each other by about 7 miles. The 
+controller advised the accident pilot that a B757 was on a 9-mile final for runway 16R and cautioned 
+him about wake turbulence, then cleared the accident airplane to land. Shortly thereafter, the pilot 
+reported that he had "the airliner" in sight. At this time, one of the B757s was on a short final approach 
+for 16R, about 4.5 miles ahead of and below the accident airplane. The other B757, which was the 
+potential conflict, was about 5 miles away from the accident airplane at its 2-to-3-o'clock position. 
+Given that the pilot's attention was likely focused toward the runway during this portion of the approach, 
+it is likely that he misidentified the ATC-reported traffic as the B757 on short final, which landed soon 
+after and likely resulted in the pilot relaxing his vigilance in looking for traffic. Shortly thereafter, the 
+controller issued an all-aircraft advisory that the wind was from 250° at 17 knots with gusts to 20 knots. 
+Although these wind conditions met or exceeded the airplane's maximum demonstrated crosswind 
+capability for a landing on 16L, and the airplane was still well-positioned to revert to an approach to 
+runway 25, the pilot continued toward 16L.
+About 70 seconds after the pilot reported sighting the traffic, just after turning the airplane onto the base 
+leg of the traffic pattern, the B757 passed about 1 mile ahead of and about 100 ft below the accident 
+airplane. The investigation was unable to determine whether the pilot saw that B757, or if he did, 
+whether he was cognizant of the potential for a wake vortex encounter and the flight path alterations 

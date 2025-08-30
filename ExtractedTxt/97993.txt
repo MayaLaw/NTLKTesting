@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Lakewood, New Jersey
+Accident Number:
+ERA18LA210
+Date & Time:
+August 4, 2018, 12:00 Local 
+Registration:
+N87000
+Aircraft:
+Champion 7GCAA
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Banner tow
+Analysis 
+The pilot reported that the preflight check, ground operations, and subsequent 2-hour banner-towing 
+flight were uneventful. On final approach, before dropping the banner, about 500 ft above ground level 
+(agl), he reduced the throttle to idle as the airplane descended towards the runway. When the airplane 
+was about tree height, he pitched up and added full throttle, preparing to drop the banner. He stated, "the 
+engine continued to operate but produced very limited power while making abnormal combustion 
+sounds." He verified the mixture was full rich and the throttle was full forward, then released the banner. 
+The airplane was flying low and slow, so he pitched down and elected to land straight ahead. The 
+airplane impacted small pine trees and terrain and the forward portion of the fuselage was substantially 
+damaged. Postaccident examination of the engine revealed no evidence of preimpact mechanical 
+anomalies that would have precluded normal engine operation. 
+The weather conditions at the time of the accident were conducive to the formation of serious carburetor 
+icing at glide engine power settings. The pilot reported that, during the approach, he did not apply 
+carburetor heat and the engine did not produce as much power as expected as he attempted to increase 
+power after dropping the banner. Therefore, it is likely that carburetor ice accumulated during approach, 
+which resulted in a partial loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to use carburetor heat in weather conditions conducive to carburetor icing, which 
+resulted in a partial loss of engine power due to the formation of carburetor ice, a forced landing and 

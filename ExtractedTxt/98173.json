@@ -1,0 +1,29 @@
+{
+    "Filename": "98173.txt",
+    "Location": "Bowman, North Dakota",
+    "Accident Number": "CEN18LA354",
+    "Date & Time": "August 26, 2018, 11:55 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N666WW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "commercial pilot passenger departed crosscountry personal flight pilot indicated shortly takeoff engine started sputtering lost power pilot attempted restore engine power avail performed forced landing field airplane sustained substantial damage wing spar postaccident examination airframe fuel system engine revealed evidence mechanical failure malfunction would precluded normal operation although main fuel tank full examination revealed fuel fuel line fuel pump engine forward airplane firewall fuel selector thus likely fuel selector valve secured detent properly resulted loss engine power due fuel starvation probable cause finding national transportation safety board determines probable cause accident loss engine power due fuel starvation finding aircraft fuel fluid management personnel issue use equipsystem pilot",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

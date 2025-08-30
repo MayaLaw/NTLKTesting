@@ -1,0 +1,29 @@
+{
+    "Filename": "96895.txt",
+    "Location": "Punta Gorda, Florida",
+    "Accident Number": "ERA18LA110",
+    "Date & Time": "March 17, 2018, 14:24 Local",
+    "Aircraft": "BESARICK SKYBOLT",
+    "Registration": "N27265",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "commercial pilot flying airplane first flight 10hour breakin period engine overhaul preflight inspection ground operation normal sign oil leak 35 minute flight oil appeared windscreen blocking pilot forward visibility windscreen eventually became completely covered oil pilot contacted tower personnel cleared land engine lost partial power tower personnel reported smoke coming engine unable make runway pilot chose land airplane field landing airplane collided ditch came rest engine caught fire pilot egressed airplane postcrash fire consumed wreckage examination engine revealed large hole top engine case adjacent 2 cylinder 2 connecting rod fractured crankshaft connecting rod failure likely result oil starvation crankshaft extensive postcrash fire damage engine hose accessory prevented investigator determining source oil leak probable cause finding national transportation safety board determines probable cause accident substantial oil leak resulted partial loss engine power failure 2 connecting rod",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "oil",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

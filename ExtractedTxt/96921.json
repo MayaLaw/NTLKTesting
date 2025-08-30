@@ -1,0 +1,29 @@
+{
+    "Filename": "96921.txt",
+    "Location": "Clatskanie, Oregon",
+    "Accident Number": "WPR18LA111",
+    "Date & Time": "March 20, 2018, 13:15 Local",
+    "Aircraft": "PFLUGRADT Kitfox",
+    "Registration": "N925DP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "airline transport pilot experimental amateurbuilt airplane reported flying 800 ft river personal flight advanced throttle climb engine started lose power elected land nearby island airplane nosed postaccident examination airplane revealed throttle cable set screw aft side throttle body arm backed original position longer securing throttle cable result cable moved freely corresponding motion throttle body arm would also resulted pilot inability adjust engine power cockpit throttle control maintenance record revealed pilot built installed throttle body arm 7 month 204 flight hour accident addition vernierstyle throttle cable installed 6 month 159 flight hour accident likely set screw improperly secured one previous maintenance event came loose operation released hold throttle cable probable cause finding national transportation safety board determines probable cause accident partial loss engine power due improperly secured throttle cable set screw",
+        "Top Words": [
+            [
+                "throttle",
+                10
+            ],
+            [
+                "cable",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

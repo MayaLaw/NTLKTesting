@@ -1,0 +1,29 @@
+{
+    "Filename": "93935.txt",
+    "Location": "Winchester, Virginia",
+    "Accident Number": "GAA16CA460",
+    "Date & Time": "August 30, 2016, 12:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N2462E",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported airplane ballooned landing flare touched beyond planned touchdown point reported airplane porpoised third bounce felt vibration subsequently airplane departed runway left stopped grass next runway firewall sustained substantial damage student pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot incorrect pitch control landing flare resulted porpoise loss directional control runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

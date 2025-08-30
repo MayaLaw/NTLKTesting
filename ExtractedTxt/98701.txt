@@ -1,0 +1,42 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Marion, Indiana
+Accident Number:
+CEN19FA035
+Date & Time:
+November 29, 2018, 14:21 Local 
+Registration:
+N7751Y
+Aircraft:
+Piper PA 30
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot, who was also an airframe and powerplant mechanic, was conducting a 
+personal flight in a twin-engine airplane after troubleshooting an unknown problem with the left engine 
+fuel system; a family member described the flight as a "test flight." Witnesses reported that, after 
+departure, the airplane climbed to about 500 ft above ground level and began a left turn. During the left 
+turn, the airplane "nose dived" in a downward spiral, and the airplane impacted terrain. 
+Postaccident examinations revealed no mechanical anomalies with the airframe, right engine, or 
+propellers that would have precluded normal operation. The left engine propeller blade damage was 
+consistent with low or no power at the time of the accident, and the blades were found in an unfeathered 
+position. 
+Evidence indicated that the pilot had recently replaced the left and right fuel selector valves and had 
+been performing ground engine runs. A comprehensive examination of the airplane's fuel system was 
+not possible due to the extensive fire damage to the system. However, given the unknown left engine 
+fuel system issue, a loose left fuel selector fuel line, and the lack of power signatures on the left 
+propeller blades, it is likely that the fuel system's performance was degraded and led to a partial or total 
+loss of left engine power. The airplane's downward spiral was consistent with the pilot exceeding the 
+airplane's critical angle of attack during a single-engine operation, which resulted in an aerodynamic 
+stall and subsequent loss of control. 
+Toxicological testing detected a sedating antihistamine in the pilot's liver specimens, but not in his aortic 
+blood specimens, making it less likely that the medication would be impairing. Thus, the pilot's use of 
+this medication was likely not a factor in this accident.
+Probable Cause and Findings

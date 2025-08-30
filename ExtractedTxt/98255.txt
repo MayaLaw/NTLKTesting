@@ -1,0 +1,45 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Harrisville, Michigan
+Accident Number:
+CEN18TA374
+Date & Time:
+September 1, 2018, 14:00 Local 
+Registration:
+N5321E
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 Minor, 3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that he completed a preflight inspection and an engine run-up with no 
+anomalies noted. With about 20 gallons of fuel in the left tank, he taxied the airplane to the runway and 
+extended the flaps to 10°. He started the takeoff roll and noted that the first 200 ft of the runway was soft 
+and consisted of long grass, while the rest of the runway consisted of sand and weed patches. The pilot 
+stated that during the takeoff roll, the nosewheel lifted off the runway around 300 ft and the main 
+landing gear lifted off near midfield; he kept the airplane in ground effect. When the airplane was about 
+3/4 of the way down the runway, while still in ground effect, it would not gain altitude, and the left wing 
+contacted trees. The pilot aborted the takeoff and attempted to stop the airplane in the grass but collided 
+with trees at the end of the runway. The pilot reported that there were no mechanical malfunctions or 
+anomalies with the engine or airplane that would have precluded normal operation. The pilot stated that 
+he could not get the airplane up to speed because of the tall grass on the runway.
+A 32-second video of the takeoff attempt revealed the beginning of the takeoff roll on the grass runway. 
+At 14 seconds, the airplane veered toward the left side of the runway until 22 seconds, when a loud 
+noise was heard, likely the airplane colliding with trees. The airplane made a sharp right turn, then slid 
+on the runway where it came to rest in trees at the end of the runway. It is not clear from the video if the 
+airplane became airborne as the pilot stated. 
+The calculated takeoff weight was 12 lbs under the maximum takeoff weight of 2,950 lbs. The 
+calculated center of gravity was 0.07 inch beyond the aft limit of 84.7 inches aft of datum. In addition, 
+the pilot stated after the accident that the data he had for the airport showed an additional 600 ft of 
+available runway.
+Based on the available video evidence, the pilot's delayed decision to abort the takeoff did not leave 
+enough runway length for the airplane to stop before colliding with trees at the end of the runway. It is 
+likely that the airplane being loaded near the maximum gross weight and the airplane's center of gravity 
+aft of the allowable limit contributed to its difficulty gaining adequate speed for takeoff. These factors, 

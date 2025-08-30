@@ -1,0 +1,29 @@
+{
+    "Filename": "99167.txt",
+    "Location": "Mecosta, Michigan",
+    "Accident Number": "GAA19CA178",
+    "Date & Time": "March 23, 2019, 10:45 Local",
+    "Aircraft": "Piper PA 12",
+    "Registration": "N2733M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landed airplane turf runway variable wind condition landing roll airplane veered right exited right side runway airplane struck runway cone windsock pole airplane sustained substantial damage right wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation weather reporting station nearest airport 24 mile accident site reported time accident wind 340 7 knot pilot landed airplane runway 36 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll resulted impact windsock pole",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

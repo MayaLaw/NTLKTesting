@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Orient, Ohio
+Accident Number:
+CEN18LA275
+Date & Time:
+July 12, 2018, 16:25 Local 
+Registration:
+N619NT
+Aircraft:
+WHITTMAN Tailwind
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The private pilot, who was the owner of the experimental amateur-built airplane, was receiving 
+instruction from a flight instructor during a familiarization flight when the airplane experienced a total 
+loss of engine power while leveling off at 2,000 ft mean sea level. The flight instructor attempted to 
+restart the engine by turning on the carburetor heat and the fuel pump but was not successful. The flight 
+instructor then performed a forced landing to a field, during which the airplane sustained substantial 
+damage to the fuselage.
+The pilot stated that the airplane was equipped with an unconventional mixture control that was 
+improperly used during flight and caused the engine to quit running. Postaccident examination of the 
+airplane revealed the mixture control had been modified from its original configuration; the full-forward 
+position of the mixture control would provide a full lean mixture, opposite of the original configuration 
+in which a full-forward position would have provided a full rich mixture. Thus, it is likely that fuel was 
+inadvertently cut off during flight. There were no other mechanical malfunctions or anomalies reported 
+that would have precluded normal operation of the airplane. The pilot recommended that "[b]etter and 
+more thorough cockpit familiarization would have prevented the accident from occurring."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's and the flight instructor's incorrect use of the modified mixture control, which resulted in a 
+loss of engine power due to fuel starvation and a forced landing. Also causal was the inadequate systems 
+knowledge of the experimental, amateur-built airplane by the pilot and the flight instructor.

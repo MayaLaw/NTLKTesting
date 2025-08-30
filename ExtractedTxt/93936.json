@@ -1,0 +1,29 @@
+{
+    "Filename": "93936.txt",
+    "Location": "Sedona, Arizona",
+    "Accident Number": "GAA16CA461",
+    "Date & Time": "August 30, 2016, 11:02 Local",
+    "Aircraft": "AMERICAN LEGEND AIRCRAFT CO",
+    "Registration": "N114LC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane approach landing airplane encountered slight turbulence wind reported calm reported building cumulus cloud area pilot reported 4 foot ground airplane encountered wind gust left right added power right rudder reported airplane landed left main landing gear immediately veered left exited left side runway impacted drainage culvert airplane sustained substantial damage fuselage frame right wing rib pilot reported mechanical malfunction anomaly portion airplane flight would prevented normal flight operation recommendation pilot reported gone around first indication turbulence tested condition wrote condition worsened would departed area suitable airport probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting wind condition resulted runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "reported",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

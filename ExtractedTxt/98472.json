@@ -1,0 +1,29 @@
+{
+    "Filename": "98472.txt",
+    "Location": "40 nm vicinity south of Lake Jackson, Texas",
+    "Accident Number": "DCA18CA303",
+    "Date & Time": "September 20, 2018, 18:30 UTC",
+    "Aircraft": "Embraer EMB120",
+    "Registration": "N233SW",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "september 20 2018 1830 utc berry aviation inc embraer emb120er n233sw found substantial damage cargo area arriving queretaro international airport mmqt queretaro mexico two flight crew member injured flight operated 14 code federal regulation part 135 international cargo flight shreveport regional airport kshv shreveport louisiana mmqt cruise flight houston texas airspace flight crew noticed storm cell weather radar however continued routing since would stay south storm passing storm encountered severe turbulence short period time flight crew notified atc location severe turbulence continued flight upon arrival mmqt flight crew entered cargo area noticed several panel fallen hanging attachment point maintenance inspection revealed buckling four fuselage frame four floor support structure covered area several foot long damage classified substantial would adversely affect structural strength fuselage flight crew reported picked four pallet cargo john c munro hamilton international airport cyhm hamilton ontario canada two pallet loaded zone 2 two loaded zone 3 pallet secured vertical cargo net flight crew departed cyhm 1322 utc arrived kshv 1657 clear u custom take fuel departed kshv 1727 utc mmqt accident operator reminded flight crew fly 5 mile away thunderstorm cell identified weather radar secure cargo better decrease likelihood shift turbulence encounter",
+        "Top Words": [
+            [
+                "flight",
+                11
+            ],
+            [
+                "crew",
+                7
+            ],
+            [
+                "cargo",
+                6
+            ]
+        ]
+    }
+}

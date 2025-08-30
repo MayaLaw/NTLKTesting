@@ -1,0 +1,33 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Wiley, Colorado
+Accident Number:
+CEN18LA316
+Date & Time:
+August 5, 2018, 08:30 Local 
+Registration:
+N90990
+Aircraft:
+Champion 7GCBC
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a day visual approach to landing on his airstrip; he stated that 
+everything seemed normal on the descent. However, he noted that the agricultural irrigation pivot 
+sprinkler had stopped with the sprinkler's last pipe, or "overhang pipe," over the runway. The pilot 
+thought that he was high enough to clear the sprinkler overhang pipe and had "no idea" that the airplane 
+was not going to clear the guy-wires that supported the sprinkler overhang pipe, and the right landing 
+gear tire struck a guy-wire that was about 10 ft higher than the sprinkler overhang pipe. The airplane's 
+nose subsequently impacted terrain, and the airplane came to rest inverted. The pilot reported that there 
+were no mechanical malfunctions or failures during the flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain proper clearance from the sprinkler guy-wire, which resulted in the 
+airplane's collision with the wire during a visual approach to landing.

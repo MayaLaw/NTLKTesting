@@ -1,0 +1,46 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+San Jose, California
+Accident Number:
+WPR18LA153
+Date & Time:
+May 20, 2018, 19:50 Local 
+Registration:
+N244TW
+Aircraft:
+Piper PA24
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot had rented the airplane and conducted an uneventful personal flight earlier that day. He 
+departed later that afternoon, destined for an airport a few hundred miles away. According to the pilot, 
+after the airplane was established on the downwind leg, he extended the landing gear and observed that 
+the landing gear position indicator light was illuminated green, which denoted that the landing gear was 
+down and locked into position. He verified that indication on the base leg. The approach and touchdown 
+were normal and uneventful, and the pilot then began to brake the airplane. When the airplane was 
+traveling about 30 mph, the landing gear "suddenly collapsed." The airplane slid on its belly and came to 
+a stop on the runway, which resulted in substantial damage to the fuselage. 
+During recovery of the airplane, the cockpit landing gear handle was found to be in the fully down 
+position. Initial postaccident examination of the airplane revealed that the two main landing gear (MLG) 
+could be fully extended via the normal cockpit landing gear handle but that the nose landing gear (NLG) 
+did not fully extend, the extension motor did not shut off, and the green cockpit indicator light did not 
+illuminate. Manual attempts to fully extend the NLG by pulling it forward were unsuccessful. Aft-
+directed light-to-moderate force applied to the NLG tire resulted in unlocking the two MLG, which 
+allowed all three gear to be retracted via manually pushing on the NLG. These results demonstrated that 
+the landing gear system was susceptible to uncommanded retraction when the system was not properly 
+adjusted. The reason for the failure of the NLG to fully extend and lock after the accident could not be 
+determined, and the investigation could not determine if this condition existed before the accident.
+During subsequent examination, the NLG was mechanically isolated from the rest of the landing gear 
+system. Subsequent landing gear travel tests in this configuration revealed that all three landing gear 
+were able to be independently moved into their respective fully extended and locked positions. When the 
+NLG was fully extended, it was more difficult to dislodge by aft pressure to the NLG tire than during the 
+previous examination. The NLG travel change that resulted from mechanically isolating the NLG 
+indicated that after the accident, there was some physical constraint that limited NLG travel and 
+prevented downlock; however, the investigation was unable to determine the nature or cause of the NLG 

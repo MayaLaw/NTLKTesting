@@ -1,0 +1,29 @@
+{
+    "Filename": "93997.txt",
+    "Location": "Clemson, South Carolina",
+    "Accident Number": "GAA16CA478",
+    "Date & Time": "September 5, 2016, 12:30 Local",
+    "Aircraft": "Cessna 180",
+    "Registration": "N451SW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane prior takeoff roll applied one notch flap added power reported rotation airplane veered left could keep airplane runway reported aborted takeoff applied brake airplane exited runway left impacted drainage culvert airplane sustained substantial damage left wing spar rib pilot reported mechanical malfunction anomaly portion airplane preflight would prevented normal flight operation meteorological aerodrome report accident airport reported wind 100 degree true 04 knot time accident pilot departed runway 25 probable cause finding national transportation safety board determines probable cause accident pilot loss directional control takeoff roll resulted runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

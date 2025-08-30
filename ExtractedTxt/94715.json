@@ -1,0 +1,29 @@
+{
+    "Filename": "94715.txt",
+    "Location": "St. Petersburg, Florida",
+    "Accident Number": "GAA17CA138",
+    "Date & Time": "February 11, 2017, 17:30 Local",
+    "Aircraft": "Beech T 34B",
+    "Registration": "N18PS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported maneuvering local area 45 minute returned home airport landing final approach airplane sunk proper glidepath increased power three separate time airplane continued sink subsequently airplane struck seawall located 380 ft runway threshold resulted propeller separating propeller hub collapse landing gear fuselage wing sustained substantial damage according federal aviation administration aviation safety inspector interviewed pilot accident pilot reported engine contribute accident probable cause finding national transportation safety board determines probable cause accident pilot failure maintain appropriate glidepath runway",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "accident",
+                3
+            ]
+        ]
+    }
+}

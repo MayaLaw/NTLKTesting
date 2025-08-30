@@ -1,0 +1,29 @@
+{
+    "Filename": "98429.txt",
+    "Location": "Medford, Oregon",
+    "Accident Number": "GAA19CA007",
+    "Date & Time": "October 6, 2018, 16:30 Local",
+    "Aircraft": "Maule M7",
+    "Registration": "N10555",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll wind gust left caused left wing rise airplane veered right added full aileron rudder brake recover avail pilot stated heard loud noise airplane veered sharply came rest adjacent taxiway airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station airport reported 23 minute accident wind 330 10 knot airplane landed runway 32 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

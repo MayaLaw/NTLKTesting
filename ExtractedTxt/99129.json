@@ -1,0 +1,29 @@
+{
+    "Filename": "99129.txt",
+    "Location": "Talkeetna, Alaska",
+    "Accident Number": "ANC19LA015",
+    "Date & Time": "March 16, 2019, 15:30 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N7095S",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported initiated takeoff beginning runway use 3500 ft available runway added flight control free correct applied power control yoke full aft soft field takeoff airplane seemed become airborne earlier normal initial climb nose airplane wanted pitch slightly applied nosedown trim pushed yoke forward slightly airplane continued climb airspeed increased airplane pitch attitude increased applied full nosedown trim full forward yoke asked help student reduced engine power idle performed emergency landing airplane came rest tree postaccident examination airplane engine revealed mechanical failure malfunction would precluded normal operation probable cause finding national transportation safety board determines probable cause accident loss pitch control undetermined reason resulted collision terrain emergency landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "control",
+                3
+            ],
+            [
+                "applied",
+                3
+            ]
+        ]
+    }
+}

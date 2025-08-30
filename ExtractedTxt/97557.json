@@ -1,0 +1,29 @@
+{
+    "Filename": "97557.txt",
+    "Location": "Atlanta, Georgia",
+    "Accident Number": "ERA18LA176",
+    "Date & Time": "May 29, 2018, 13:45 Local",
+    "Aircraft": "Cessna 337",
+    "Registration": "N86507",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot conducting crosscountry personal flight stated approach destination airport unable extend landing gear declared emergency attempted pump landing gear via emergency gearextension handle avail observed large puddle red hydraulic fluid floorboard near hydraulic pump pilot realized would able extend gear conducted gearup landing resulted substantial damage lower fuselage postaccident examination airplane revealed hydraulic reservoir nearly empty emergency handle activated stream hydraulic fluid sprayed surface aluminum hydraulic line connecting emergency handlepump electric hydraulic pump mounted behind pilot instrument panel magnified visual examination leaking hydraulic line revealed area corrosion pitting aluminum surface likely resulted loss hydraulic pressure pilot inability extend landing gear probable cause finding national transportation safety board determines probable cause accident area pitting corrosion surface aluminum hydraulic line connecting emergency handlepump electric hydraulic pump resulted loss hydraulic pressure pilot inability extend landing gear",
+        "Top Words": [
+            [
+                "hydraulic",
+                11
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                5
+            ]
+        ]
+    }
+}

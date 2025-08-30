@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Las Cruces, New Mexico
+Accident Number:
+GAA18CA266
+Date & Time:
+May 8, 2018, 09:15 Local 
+Registration:
+N315BD
+Aircraft:
+DIVEN ROBERT NIEUPORT 17
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot in the tailwheel-equipped biplane, the purpose of the flight was to accomplish the 
+first test flight of the experimental, amateur-built airplane. During the takeoff roll, the airplane yawed 
+left when the tail lifted. He reported that the airplane became airborne but would not accelerate. The 
+airplane remained in ground effect, exited the runway, collided with rising terrain, and subsequently 
+nosed over.
+The airplane sustained substantial damage to the rudder and the left main and subwings. 
+The METAR at the airport reported that, about the time of the accident, the wind was from 40° at 4 
+knots. The temperature was 81°F, and the dew point was 27°F. The barometric setting was 30.12 inches 
+of mercury, and the airport elevation was 4,456 ft. The density altitude was 6,742 ft. The pilot used 
+runway 8.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to attain a positive climb rate after takeoff in high-density altitude conditions, which 
+resulted in a collision with terrain. 

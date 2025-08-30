@@ -1,0 +1,29 @@
+{
+    "Filename": "97466.txt",
+    "Location": "Corona, California",
+    "Accident Number": "GAA18CA342",
+    "Date & Time": "May 28, 2018, 16:00 Local",
+    "Aircraft": "Beech D35",
+    "Registration": "N2167D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot retractablelandinggear airplane reported landing roll reached flap switch retract flap although flap landing gear switch left right side control column respectively inadvertently retracted landing gear pilot added previously flown airplane flap switch right side control column pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airplane sustained substantial damage left wing probable cause finding national transportation safety board determines probable cause accident pilot inadvertent landing gear retraction landing roll",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

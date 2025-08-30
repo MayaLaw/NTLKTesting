@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Winchester, Virginia
+Accident Number:
+GAA18CA513
+Date & Time:
+August 27, 2018, 11:30 Local 
+Registration:
+N53051
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot reported that he completed a touch-and-go landing and applied full power to increase 
+the airplane's ground speed. During the takeoff roll, the engine power increased, and the airplane drifted 
+to the left side of the runway. The student applied full right rudder, but it was ineffective. He then 
+reduced the engine power to idle and applied brakes, but the airplane exited the left side of the runway, 
+collided with a drainage culvert, and then came to rest inverted.
+The airplane sustained substantial damage to the right wing lift strut, the vertical stabilizer, and the 
+rudder. 
+The student reported that he thought that a mechanical malfunction of the rudder system might have 
+occurred before the accident sequence. However, Federal Aviation Administration aviation safety 
+inspectors reported that, during a postaccident airplane examination, the rudder system was operational, 
+and rudder control continuity was established.
+ 
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain directional control during the takeoff roll.
+ 

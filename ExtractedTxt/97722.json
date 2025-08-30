@@ -1,0 +1,29 @@
+{
+    "Filename": "97722.txt",
+    "Location": "Fort Lauderdale, Florida",
+    "Accident Number": "GAA18CA406",
+    "Date & Time": "July 9, 2018, 15:20 Local",
+    "Aircraft": "Beech 76",
+    "Registration": "N66340",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported asked pilot receiving instruction simulate poweroff emergency landing 180\u00ba turn runway directed lower gear landing assured initiating poweroff approach pilot receiving instruction turned airplane downwind leg onto base leg traffic pattern extended landing gear sink rate increased attempted correct full engine power airplane continued descend airplane landed short runway struck ground lighting system pilot receiving instruction initiated goaround landed without incident airplane sustained substantial damage right wing instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported time accident wind 080 8 knot airplane landed runway 09 probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction failure maintain proper approach path delayed goaround simulated emergency landing resulted landing short runway contributing accident flight instructor failure properly monitor student approach",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

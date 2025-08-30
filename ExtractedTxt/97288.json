@@ -1,0 +1,29 @@
+{
+    "Filename": "97288.txt",
+    "Location": "Marlborough, Massachusetts",
+    "Accident Number": "GAA18CA288",
+    "Date & Time": "May 20, 2018, 13:15 Local",
+    "Aircraft": "DIAMOND AIRCRAFT IND INC DA",
+    "Registration": "N143RD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported landing airplane touched first third 1659ftlong runway airplane seem slow normal brake applied pumped brake deceleration less expected considered performing go around decided use maximum braking instead maximum braking applied airplane veered runway right impacted fence airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation reported following accident inspected runway found solid skid mark right tire broken skid mark left tire pilot reported time accident wind light variable predominately 280 automated weather observation station located 12 mile east accident airport reported 19 minute accident wind 220 12 knot airplane landed runway 32 calculated landing roll full flap 930 ft landing distance 50ft obstacle 2020 ft manufacturer stated safe landing landing distance available lda least equal landing distance 50 ft 15m obstacle",
+        "Top Words": [
+            [
+                "landing",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "reported",
+                5
+            ]
+        ]
+    }
+}

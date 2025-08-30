@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Valkaria, Florida
+Accident Number:
+ERA19LA032
+Date & Time:
+October 27, 2018, 13:15 Local 
+Registration:
+N154DF
+Aircraft:
+Titan T51
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that, shortly after takeoff on a local test flight of the experimental, amateur-built 
+airplane, the engine surged, with a corresponding fuel pressure fluctuation. Because the engine was 
+developing partial power, he elected to return to the airport for landing, but while on the base leg of the 
+airport traffic pattern, the engine lost total power. The airplane subsequently impacted a small retention 
+pond and came to rest partially submerged in water. Postaccident examination of the engine revealed 
+damage to the Nos. 2 and 5 cast aluminum pistons consistent with detonation. The fuel pumps and 
+engine control unit were operationally tested with no discrepancies reported. Inspection of the cooling 
+system components revealed no evidence of pre-impact failure or malfunction, and no evidence of 
+warpage of the cylinder heads was observed.
+The owner reported continuing engine overheating problems that occurred at sustained “moderate” 
+power settings, which he was unable to correct despite extensive troubleshooting efforts including re-
+routing of the coolant reservoir. Although he believed he was operating the engine with a rich fuel-to-air 
+ratio, when compared to an identical airplane that was operating successfully, the accident engine was 
+being operated in a lean fuel-to-air ratio at all power settings (500 to 5,000 in 250 rpm increments). This 
+finding was consistent with the pilot’s report of overheating at sustained moderate power settings.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial, then total, loss of engine power due to detonation and associated damage to 
+several pistons as a result of an overly lean fuel-to-air ratio.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98188.txt",
+    "Location": "Opelousas, Louisiana",
+    "Accident Number": "CEN18LA357",
+    "Date & Time": "August 29, 2018, 11:30 Local",
+    "Aircraft": "Grumman G164",
+    "Registration": "N956X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot practicing cropdusting maneuver engine lost total power performed forced landing open muddy field airplane nosed sustained substantial damage postaccident examination engine revealed two three bolt secured left magneto come loose missing safety wire broken sims coupling heavily damaged magneto could easily moved around disrupted spark timing resulted total loss power probable cause finding national transportation safety board determines probable cause accident loss two securing bolt allowed left magneto move around disrupted spark timing resulted engine losing total power finding aircraft magnetodistributor inoperative environmental issue wetmuddy terrain contributed outcome",
+        "Top Words": [
+            [
+                "engine",
+                3
+            ],
+            [
+                "total",
+                3
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Butler, Pennsylvania
+Accident Number:
+ERA18LA163
+Date & Time:
+June 7, 2018, 11:00 Local 
+Registration:
+N7765X
+Aircraft:
+Vans RV4
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Shortly after takeoff on an extended crosswind leg about 800 ft mean sea level, the engine lost total 
+power. The private pilot continued ahead and landed the airplane in a field. During the landing, the 
+airplane impacted a wire fence and brush, which resulted in substantial damage to the fuselage and 
+wings. 
+During postaccident interviews, the pilot reported that this was the first flight after he had made 
+maintenance repairs to the automobile-converted engine due to an engine failure 1 month before the 
+accident. He stated that he installed an aftermarket engine control unit and modified the fuel delivery 
+software, which resulted in the engine running too lean for flight and likely caused detonation and piston 
+damage to occur. During the run-up before the accident flight, the pilot was aware that the engine was 
+not producing power as it should. However, he decided to depart with a known engine problem, and his 
+decision to do so led to the accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper decision to fly the airplane with a known engine problem and his improper 
+modification of the engine control unit fuel delivery software, which led to the engine running too lean 
+and resulted in a total loss of engine power during climb.

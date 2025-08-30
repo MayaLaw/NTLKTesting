@@ -1,0 +1,29 @@
+{
+    "Filename": "98016.txt",
+    "Location": "Van Nuys, California",
+    "Accident Number": "GAA18CA474",
+    "Date & Time": "July 17, 2018, 19:25 Local",
+    "Aircraft": "Diamond DA20",
+    "Registration": "N309EF",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "student pilot reported landing shortly touchdown crosswindlifted left wing airplane fishtailed said instructor corrected applying right aileron airplane ground looped right main landing gear collapsed airplane sustained substantial damage lower right section fuselage student reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 30 minute accident wind 130 8 knot 15 minute accident wind 100\u00ba 9 knot pilot landed airplane runway 16r probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control landing left quartering headwind resulted ground loop",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

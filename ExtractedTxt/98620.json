@@ -1,0 +1,29 @@
+{
+    "Filename": "98620.txt",
+    "Location": "Walton, New York",
+    "Accident Number": "ERA19FA039",
+    "Date & Time": "November 9, 2018, 15:00 Local",
+    "Aircraft": "Cessna 310",
+    "Registration": "N5044J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting instrument flight rule flight along route flown frequently month accident 55 minute flight cruise altitude pilot stated air traffic control need get ground immediately controller provided pilot nearest airport information however intelligible radio transmission received pilot radar data showed airplane enter turning descent radar contact lost 18 nautical mile accident site witness near accident site heard engine revving 1 minute subsequently saw airplane overhead reported engine loud airplane flew saw gray smoke trailing airplane redorange glow originating right wing area airplane flew view subsequently heard loud explosion saw plume smoke distribution wreckage consistent highspeed impact flight control continuity could established due heavy fragmentation wreckage however major flight control component located debris field examination engine revealed anomaly thermal damage would precluded normal operation damage signature witness account indicated engine producing power time accident autopsy finding consistent pilot inhalation smokesoot impact occurred wreckage also exhibited evidence inflight fire small area broomstrawing localized thermal damage found structure located left side cockpit area pilot likely seated addition evidence airflowdriven soot tailing rivet area fuselage recovered instrument panel wiring avionics showed sign electrical arcing fire although airplane combustion cabin heater inspected accordance latest airworthiness directive interior component heater showed sign fire based information heavy fragmentation wreckage postcrash fire also exposed origin inflight fire could determined",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

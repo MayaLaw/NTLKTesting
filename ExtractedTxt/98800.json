@@ -1,0 +1,29 @@
+{
+    "Filename": "98800.txt",
+    "Location": "McCormick, South Carolina",
+    "Accident Number": "ERA19LA074",
+    "Date & Time": "December 19, 2018, 14:20 Local",
+    "Aircraft": "Diamond DA20",
+    "Registration": "N346MA",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "accident airplane experienced partial loss engine power previous day accident pilotmechanic dispatched perform maintenance airplane previous pilot reported landing engine would run electric fuel pump turned engine would run slightly better primer accident pilotmechanic replaced throttle metering unit enginedriven fuel pump manifold valve overhauled unit set metered unmetered fuel pressure within specification engine ran satisfactorily preflight inspection revealed anomaly pilot departed takeoff pilot initially remained traffic pattern satisfied engine performing normally began climb proceeded toward destination engine lost partial power would respond throttle input pilot performed forced landing nearby clearing airplane impacted tree resulting substantial damage fuselage left wing test run engine manufacturer facility found ran rough would idle similar condition reported previous pilot engine would remain running test stand fuel boost pressure increased beyond normal value examination throttle metering unit revealed debris lodged metering plug orifice obstructing 90 opening debris removed engine ran normally within manufacturer specification examination debris found similar composition sample torque putty commonly used mark threaded fitting assembly however indication torque putty used asinstalled fuel system component component removed accident similar debris found previously installed manifold valve one removed prior accident flight downstream internal filter screen",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "accident",
+                5
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

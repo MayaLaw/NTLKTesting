@@ -1,0 +1,29 @@
+{
+    "Filename": "97563.txt",
+    "Location": "Alexander City, Alabama",
+    "Accident Number": "ERA18LA177",
+    "Date & Time": "June 24, 2018, 09:20 Local",
+    "Aircraft": "CRAWFORD RV-7",
+    "Registration": "N19MM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airline transport pilot reported accident flight first flight airplane since thought condition inspection completed found accident mechanic completed condition inspection signed maintenance logbook mechanic reported still several question needed answered pilot stated took personal crosscountry flight flew airplane 45 minute added airplane reached 2000 ft ground level reduced throttle engine popped twice lost power looked fuel gauge verified sufficient fuel onboard switched selector valve tank pilot believe airplane could glide runway destination airport chose land airplane field approach airplane impacted tree top power line terrain postcrash fire ensued consumed cockpit forward portion airframe examination engine exhibited fire damage intact revealed evidence preimpact mechanical malfunction failure would precluded normal operation reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

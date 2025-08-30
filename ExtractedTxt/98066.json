@@ -1,0 +1,29 @@
+{
+    "Filename": "98066.txt",
+    "Location": "Madison, South Dakota",
+    "Accident Number": "CEN18LA329",
+    "Date & Time": "August 14, 2018, 08:00 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N6341K",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported flying north departure airport airplane engine began running roughly attempted return airport unable reach airport landed cornfield airplane nosed 7fttall corn sustained substantial damage wing examination airplane revealed engine 3 cylinder exhaust valve stuck valve guide 3 exhaust valve rocker arm fractured maintenance record entry indicated no 1 3 4 cylinder experienced valve sticking sent back overhaul vendor service cylinder reinstalled 3 day accident based available evidence partial loss engine power likely due 3 cylinder exhaust valve becoming stuck resulted secondary overload failure associated rocker arm substantial reduction engine power output probable cause finding national transportation safety board determines probable cause accident stuck 3 cylinder exhaust valve resulted failure associated rocker arm partial loss engine power subsequent forced landing tall vegetation",
+        "Top Words": [
+            [
+                "3",
+                6
+            ],
+            [
+                "valve",
+                6
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

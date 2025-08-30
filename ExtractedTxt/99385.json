@@ -1,0 +1,29 @@
+{
+    "Filename": "99385.txt",
+    "Location": "Auburn, California",
+    "Accident Number": "GAA19CA247",
+    "Date & Time": "May 6, 2019, 13:10 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N734DX",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported simulated poweroff emergency landing 180\u00ba turn runway trimmed elevator fully nose added full flap touchdown airplane drifted right centerline difficulty correcting maintaining control airplane initiated goaround student added subsequently retracted flap entirely airplane fell 10 ft ground nosewheel impacted terrain airplane nosed airplane sustained substantial damage left wing empennage student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper retraction flap goaround exceedance airplane critical angle attack resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "flap",
+                3
+            ]
+        ]
+    }
+}

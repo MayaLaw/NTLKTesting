@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Prescott, Arizona
+Accident Number:
+GAA18CA312
+Date & Time:
+May 29, 2018, 21:15 Local 
+Registration:
+N148ME
+Aircraft:
+Piper PA 46
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, about 15 minutes before reaching the destination airport during descent, the 
+engine lost power. The pilot switched fuel tanks, and the engine power was momentarily restored, but 
+the engine stopped producing power even though he thought it "was still running all the way to impact." 
+The pilot conducted a forced landed on a highway at night, and the right wing struck an object and 
+separated from the airplane. The airplane came to rest inverted.
+According to the Federal Aviation Administration (FAA) aviation safety inspector (ASI) that performed 
+the postaccident airplane examination, the fuel lines to the fuel manifold were dry, and the fuel manifold 
+valves were dry. He reported that the fuel strainer, the diaphragm, and the fuel filter in the duel manifold 
+were unremarkable. Fuel was found in the gascolator.
+The FAA ASI reported that, during his interview with the pilot, "the pilot changed his story from fuel 
+exhaustion, to fuel contamination." The inspector reported that there were no signs of fuel contamination 
+during the examination of the fuel system. 
+According to the fixed-base operator (FBO) at the departure airport, the pilot requested 20 gallons of 
+fuel. He then canceled his fuel request and walked out of the FBO.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper fuel planning, which resulted in fuel exhaustion and the subsequent total loss of 
+engine power.

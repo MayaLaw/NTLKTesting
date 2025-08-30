@@ -1,0 +1,29 @@
+{
+    "Filename": "98699.txt",
+    "Location": "Mesa, Arizona",
+    "Accident Number": "GAA19CA079",
+    "Date & Time": "November 28, 2018, 08:50 Local",
+    "Aircraft": "Pilatus PC12",
+    "Registration": "N552TC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Ground collision",
+    "Injuries": "5 None",
+    "Analysis": {
+        "Text": "pilot pilatus reported local air traffic controller gave instrument flight rule clearance taxied airplane ramp taxiway turning onto taxiway controller instructed give way airplane taxiway acknowledged instruction stopped airplane looked left saw cessna already passed looked right see airplane taxiway continued taxi shortly realized airplane propeller struck something immediately shut engine deplaned realized struck another cessna seen flight instructor cessna reported student pilot taxiing back ramp instructed local air traffic controller follow company traffic passing another airplane left holding short taxiway looked left outside window saw spinning propeller moving closer toward airplane immediately grabbed control hammered right pedal airplane propeller struck airplane left wing pilatus sustained damage propeller cessna sustained substantial damage left wing pilot flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation video provided airport authority showed pilatus taxied left onto taxiway ramp without stopping another airplane farther taxiway probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "taxiway",
+                7
+            ],
+            [
+                "left",
+                6
+            ]
+        ]
+    }
+}

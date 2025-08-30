@@ -1,0 +1,29 @@
+{
+    "Filename": "98738.txt",
+    "Location": "LAS Vegas, Nevada",
+    "Accident Number": "DCA19CA037",
+    "Date & Time": "December 1, 2018, 02:07 UTC",
+    "Aircraft": "Airbus A320",
+    "Registration": "N632NK",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 162 None",
+    "Analysis": {
+        "Text": "december 1 2018 1804 pacific standard time spirit airline flight 1069 airbus a320 232 n632nk encountered turbulence initial descent la vega mccarran international airport klas la vega nevada 163 passenger crew onboard one flight attendant seriously injured airplane damaged regularly scheduled international passenger flight operating provision 14 code federal regulation part 121 cleveland hopkins international airport kcle klas captain pilot flying first officer pilot monitoring according flight crew report moderate turbulence initial descent decent flight passed stratiform cloud layer experiencing continuous light occasional moderate chop precipitation depicted weather radar flight level fl 260 first officer turned seatbelt sign contacted lead flight attendant fa fa take seat airplane descended fl230 flight experienced moderate turbulence lasted 1520 second shortly thereafter flight crew received call lead fa fa broken ankle time turbulence encounter fa preparing cabin landing two fa aft galley thrown air onto floor one fa severely injured left ankle subsequently helped aft passenger seat remained landing landing emergency medical personnel met flight gate transported injured fa hospital diagnosed fractured left fibula probable cause finding",
+        "Top Words": [
+            [
+                "flight",
+                10
+            ],
+            [
+                "fa",
+                8
+            ],
+            [
+                "turbulence",
+                4
+            ]
+        ]
+    }
+}

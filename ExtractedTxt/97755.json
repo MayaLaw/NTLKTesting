@@ -1,0 +1,29 @@
+{
+    "Filename": "97755.txt",
+    "Location": "Salisbury, North Carolina",
+    "Accident Number": "WPR18LA194",
+    "Date & Time": "June 29, 2018, 16:03 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N8440F",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot departed passenger crosscountry flight main auxiliary fuel tank full capacity 2 hour 18 minute flight engine lost total power pilot unable restart engine declared emergency controller provided vector nearby airport airplane landed hard resulting substantial damage first responder reported drained 55 gallon fuel airplane accident additional unquantified amount spilled onto ground however fuel drained airplane could examined amount fuel onboard distribution time accident could confirmed data retrieved onboard engine monitoring system showed erratic fuel flow indication concurrent sudden decrease exhaust gas temperature erratic fuel flow indication suggest possibility transducer pulling air due interruption fuel flow may result fuel starvation introduction air within fuel system upstream transducer fuel line tested cut recovery personnel postaccident examination engine revealed fuel line enginedriven fuel pump fuel servo typically capture retains unused fuel destined engine subsequent engine run revealed anomaly engine given available information likely loss engine power result fuel starvation however whether fuel starvation result fuel mismanagement introduction air fuel system could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                18
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99019.txt",
+    "Location": "Aberdeen, South Dakota",
+    "Accident Number": "GAA19CA147",
+    "Date & Time": "February 23, 2019, 14:30 Local",
+    "Aircraft": "Porterfield CP 65",
+    "Registration": "N37716",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot reported touchandgo landing frozen lake airplane struck drift deep snow came rest inverted added see snow drift landing airplane sustained substantial damage right wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot selection unsuitable terrain landing resulted noseover finding personnel issue decision makingjudgment pilot environmental issue snowslushice covered surface effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

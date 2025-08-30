@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Fredericksburg, Texas
+Accident Number:
+CEN19FA028
+Date & Time:
+November 17, 2018, 15:15 Local 
+Registration:
+N4132A
+Aircraft:
+North American P51
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was participating in a World War II educational reenactment program with a 
+passenger onboard. The purpose of the flight was to perform 4 to 5 passes in front of an amphitheater 
+where the reenactment was being conducted. Witnesses at the amphitheater stated that the airplane 
+performed a low pass before entering a climb. The airplane then entered a turn followed by a steep 
+descent from which it did not recover before disappearing from view behind trees. Although the pilot 
+held an authorization to fly the accident airplane at the time of the accident, he had a history of failed 
+check rides, airspace violations, and enforcement actions. In each instance, the pilot's certificate was 
+issued or reinstated upon reexamination.
+The airplane impacted the ground in a near-vertical attitude. The propeller blades exhibited abrasions 
+and leading-edge gouges consistent with the engine producing power at impact. All observed flight 
+control separations exhibited features consistent with overload. No preimpact anomalies with the engine 
+or airframe were found. Toxicology testing detected ethanol in specimens from the pilot consistent with 
+postmortem production. Although the pilot had a history of coronary artery disease, there was no 
+evidence that this condition contributed to the accident.
+The accident pilot ran a charity that provided flights in his warbird airplane to veterans; he typically 
+participated in the reenactment program with a veteran seated in the rear seat of his airplane. The 
+director of the educational program stated that, in a pre-performance briefing on the day of the accident, 
+the pilot was reminded of "all pertinent [Federal Aviation Administration] requirements," including that 
+the fly-by be conducted no lower than 1,000 ft above ground level.
+Given the available information, the pilot most likely performed a low-level maneuver with a passenger 
+on board and was unable to recover from that maneuver before impacting terrain.

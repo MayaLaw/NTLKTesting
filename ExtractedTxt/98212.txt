@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Crete, Nebraska
+Accident Number:
+CEN18LA363
+Date & Time:
+September 1, 2018, 09:00 Local 
+Registration:
+N210PF
+Aircraft:
+Cessna P210N
+Aircraft Damage:
+Substantial
+Defining Event:
+Low altitude operation/event
+Injuries:
+2 Serious, 2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot started the "turbo-normalized" 310-horsepower engine, but then it stopped. He stated that he 
+used the low-pressure boost pump to restart the engine and then turned off the boost pump after it had 
+started. He indicated that he completed an engine run-up before takeoff and that the engine was 
+operating normally. The airplane traveled about halfway down the runway before it became airborne. 
+When the airplane had a positive rate of climb, the pilot raised the landing gear and flaps. He stated that 
+when the airplane was about 500 ft above ground level, he heard the engine "miss," and the engine did 
+not seem to be producing total power. He turned on the low-pressure boost pump and turned back 
+toward the airport, but the engine eventually lost total power. He performed a gear-up forced landing to 
+a cornfield; the airplane impacted the ground hard and slid through the cornfield on its belly. 
+A witness who watched the airplane take off reported that the airplane sounded like it was full throttle 
+but was "overweight sounding" during the takeoff. He reported that the airplane "finally got in the air at 
+the end of the runway." He stated that it was "running rich" and that he could see "dark exhaust" trailing 
+the airplane during the takeoff. The airplane veered to the right, and he lost sight of it behind a tree line. 
+An engine monitor installed on the airplane indicated that the manifold pressure reached 37 inches of 
+mercury (inHg) and fuel flow reached 48 gallons of fuel per hour (gph) during takeoff. The pilot 
+operating handbook for the supplemental type certificated engine stated that the full rated horsepower is 
+achieved at 31 inHg of manifold pressure and that full throttle fuel flow during takeoff is 35-37 gph.
+The engine was run on the engine manufacturer's test cell and operated within normal operating 
+specifications. There were no mechanical malfunctions or failures with the turbocharger controller, 
+wastegate actuator, pressure relief valve, manifold pressure transducer, and fuel flow transmitter that 
+would have precluded normal operation.
+However, a static demonstration run on the same airplane model/engine conversion, with the oil line 
+from the wastegate to the wastegate controller disconnected to simulate a wastegate stuck in the closed 

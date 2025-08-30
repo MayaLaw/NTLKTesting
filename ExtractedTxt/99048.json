@@ -1,0 +1,29 @@
+{
+    "Filename": "99048.txt",
+    "Location": "Scottsdale, Arizona",
+    "Accident Number": "GAA19CA162",
+    "Date & Time": "March 2, 2019, 13:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N9404F",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing roll touchandgo landing airplane began veer runway added power goaround goaround saw left main landing mlg gear strut bent tire missing told tower controller must hit something instructed fly tower flyby tower controller confirmed left mlg damaged cleared student land landing roll airplane skidded runway airplane sustained substantial damage left horizontal stabilizer left elevator student reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 7 minute accident wind 320 8 knot student landing airplane runway 21 examination security video revealed goaround airplane drifted left left mlg struck runway sign probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain runway heading goaround crosswind resulted left main landing gear impacting runway sign",
+        "Top Words": [
+            [
+                "left",
+                7
+            ],
+            [
+                "landing",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

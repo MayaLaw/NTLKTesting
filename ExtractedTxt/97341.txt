@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Gainesville, Georgia
+Accident Number:
+GAA18CA304
+Date & Time:
+May 6, 2018, 15:06 Local 
+Registration:
+N406PA
+Aircraft:
+Beech 58
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot reported that, during landing in gusting crosswind conditions, the airplane hit the runway 
+unexpectedly, and he initiated a go-around by adding full power. He added that the airplane struck the 
+runway again, but he continued the go-around. Subsequently, the pilot diverted to an alternate airport 
+and landed without further incident.
+Postaccident examination revealed that the airplane had sustained substantial damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system located at the accident airport reported that, about the time 
+of the accident, the wind was from 350° at 13 knots, gusting to 23 knots. The pilot attempted to land on 
+runway 29.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain a proper landing flare in gusting crosswind conditions.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97948.txt",
+    "Location": "Meadow Lakes, Alaska",
+    "Accident Number": "GAA18CA454",
+    "Date & Time": "July 24, 2018, 17:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N171Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported initial climb engine experienced total loss power added realized wrong fuel tank selected takeoff subsequently performed forced landing gravel stream bed north runway airplane sustained substantial damage wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot selection wrong fuel tank departure resulted fuel starvation subsequent total loss engine power",
+        "Top Words": [
+            [
+                "pilot",
+                3
+            ],
+            [
+                "fuel",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

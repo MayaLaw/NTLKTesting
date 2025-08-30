@@ -1,0 +1,29 @@
+{
+    "Filename": "98174.txt",
+    "Location": "Philadelphia, Pennsylvania",
+    "Accident Number": "DCA18CA272",
+    "Date & Time": "August 24, 2018, 19:55 Local",
+    "Aircraft": "Boeing 757",
+    "Registration": "EI-LBT",
+    "Flight Conducted Under": "Part 129: Foreign",
+    "Aircraft Damage": "None",
+    "Defining Event": "Ground handling event",
+    "Injuries": "1 Serious, 177 None",
+    "Analysis": {
+        "Text": "august 24 2018 2350 eastern daylight time aer lingus flight 114 boeing 757200 ei lbt ground service employee suffer serious injury engaged pushback gate philadelphia international airport kphl philadelphia pennsylvania injury 177 passenger crew onboard airplane damaged flight operated title 14 code federal regulation part 129 scheduled international passenger flight kphl dublin airport eidw dublin ireland according operator ground service employee connected airplane via headset engaged pushback gate a6 point service employee fell nose wheel ran right leg causing serious injury flight crew reported pushback nearly complete halfway 90 degree turn onto taxi line airplane jerked stop general confusion several minute informed happened probable cause finding national transportation safety board determines probable cause accident ground service employee inadvertent fall near nose wheel pushback",
+        "Top Words": [
+            [
+                "flight",
+                4
+            ],
+            [
+                "service",
+                4
+            ],
+            [
+                "employee",
+                4
+            ]
+        ]
+    }
+}

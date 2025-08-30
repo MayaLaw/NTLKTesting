@@ -1,0 +1,29 @@
+{
+    "Filename": "99331.txt",
+    "Location": "Angier, North Carolina",
+    "Accident Number": "ERA19LA159",
+    "Date & Time": "April 27, 2019, 15:00 Local",
+    "Aircraft": "Zenair Zodiac CH601",
+    "Registration": "N61PG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "10 nautical mile destination crosscountry flight airplane engine began run rough cut surge pilot checked header fuel tank level noted nearly full activated electrically driven fuel pump engine issue continued airplane continued lose altitude engine continued run rough 1000 ft ground two nautical mile destination airport pilot decided reduce engine power idle complete precautionary landing field landing roll airplane impacted dirt pile nosed resulting substantial damage fuselage empennage wing fuel found bowl carburetor wing tank header tank examination engine found preimpact mechanical malfunction failure would precluded normal operation engine test run external fuel source using enginedriven fuel pump started produced power multiple power setting given presence fuel lack anomaly found postaccident engine test run possible fuel supply engine partially interrupted resulted engine continuing run rough extent maintaining altitude possible however reason interruption fuel supply could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "fuel",
+                8
+            ],
+            [
+                "run",
+                5
+            ]
+        ]
+    }
+}

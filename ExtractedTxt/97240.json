@@ -1,0 +1,29 @@
+{
+    "Filename": "97240.txt",
+    "Location": "Jacksonville, Alabama",
+    "Accident Number": "ERA18FA146",
+    "Date & Time": "May 12, 2018, 20:05 Local",
+    "Aircraft": "Beech 35A33",
+    "Registration": "N486T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "airline transport pilot daughter return leg crosscountry flight night visual meteorological condition cruise flight pilot saw smoke cockpit began turning electrical component engine sputtered lost total power set forced landing felt heat engine compartment saw flame coming area discharged portable fire extinguisher first indication heat daughter left right cockpit seat climbed aft cabin pilot believe fastened lap belt crossing ridge airplane collided tree came rest side hill forested area pilot egressed airplane noted daughter longer airplane subsequently found thrown clear wreckage seriously injured first responder arrived soon thereafter later died injury airplane fuselage empennage right wing consumed postcrash fire left wing separated impact sequence burned engine propeller nose landing gear cowling separated impact sequence found outside postcrash fire zone evidence inflight fire observed aft section engine heaviest fire damage near fuel line adjacent left muffler heat exchanger examination muffler heat exchanger revealed multiple preexisting crack could allowed hot exhaust gas escape assembly onto adjacent fuel line damage fuel line prevented determining definitive origin ignition inflight fire though damage fuel line consistent fire fuelfed nature largest crack muffler located left side extended 335 inch around circumference muffler wall coincided crack heat exchanger end flange extended 425 inch around circumference oxidation exhaust deposit observed crack surface indicated crack developed existed time accident pilot owned airplane certificated airframe powerplant mechanic inspection authorization performed airplane recent annual 100hour inspection 4 month",
+        "Top Words": [
+            [
+                "fire",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

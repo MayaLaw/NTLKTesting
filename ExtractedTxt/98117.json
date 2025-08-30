@@ -1,0 +1,29 @@
+{
+    "Filename": "98117.txt",
+    "Location": "Greenville, North Carolina",
+    "Accident Number": "ERA18LA224",
+    "Date & Time": "August 18, 2018, 19:50 Local",
+    "Aircraft": "GLASAIR SHA",
+    "Registration": "N38WS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "airplane climbing 3000 ft mean sea level msl engine began running roughly fuel flow rate slowed shortly reaching 3500 ft msl engine lost total power pilot attempted forced landing nearby airport however spiral descent land misjudged airplane glidepath landed grass short runway airplane impacted drainage ditch resulting substantial damage detailed examination engine component conducted reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available information contributing accident pilot misjudgment airplane glidepath forced landing resulted airplane touching short runway",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97481.txt",
+    "Location": "Cheyenne, Wyoming",
+    "Accident Number": "CEN18LA225",
+    "Date & Time": "June 14, 2018, 14:45 Local",
+    "Aircraft": "Rockwell International 112TC",
+    "Registration": "N4954W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airline transport pilot passenger departed short personal flight airpark local airport entire flight conducted fuel selector valve selected flight engine rpm decreased increased several time decreasing idle pilot attempted restore engine power successful pilot performed forced landing field airplane sustained substantial damage right wing fuselage pilot stated fuel tank contained 14 tank fuel based reading fuel gauge knowledge fuel burn previous day flight calibrated fuel stick airplane visually verify level fuel postaccident examination airframe engine fuel system revealed evidence preimpact mechanical malfunction failure would precluded normal operation thus reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident loss engine power reason could determined postaccident examination reveal evidence preimpact mechanical malfunction failure would precluded normal operation",
+        "Top Words": [
+            [
+                "fuel",
+                8
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

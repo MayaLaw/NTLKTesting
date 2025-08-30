@@ -1,0 +1,29 @@
+{
+    "Filename": "99029.txt",
+    "Location": "Ridgeland, South Carolina",
+    "Accident Number": "GAA19CA152",
+    "Date & Time": "February 25, 2019, 11:15 Local",
+    "Aircraft": "Cessna 185",
+    "Registration": "N10044",
+    "Flight Conducted Under": "Public aircraft",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll tailwheel touched airplane veered right pilot attempted correct rudder avail airplane veered runway right impacted ditch airplane sustained substantial damage left wing right aileron right elevator pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind calm pilot landed airplane runway 21 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll resulted runway excursion impact ditch",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Reno, Nevada
+Accident Number:
+WPR19LA098
+Date & Time:
+March 17, 2019, 08:10 Local 
+Registration:
+N5028P
+Aircraft:
+Piper PA 24
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+At the conclusion of an uneventful flight, the pilot verified that the landing gear were down and locked 
+after he observed a green indication on the instrument panel. During landing, the airplane touched down 
+normally on the main landing gear but veered left when the nose landing gear contacted the runway, and 
+departed the runway edge. The left wing impacted an airport sign and the airplane spun to the left. As 
+the airplane slid in gravel, the nose landing gear and right main landing gear collapsed, substantially 
+damaging the airplane. 
+The accident pilot purchased the airplane several months before the accident after the airplane had been 
+parked mostly outside for 27 years. He flew the airplane about 15 hours before the accident flight. 
+Postaccident examination of the nose landing gear revealed that the assembly was mostly intact except 
+for the engine mount, which had failed where it supported the nose landing gear. The engine mount 
+tubes displayed moderate to heavy corrosion deposits and wall thinning. The investigation could not 
+determine the exact order in which the tubes failed; however, as the tubes were integral to the nose 
+landing gear support, it is likely that the corrosion and wall thinning decreased the strength of the tubes 
+and resulted in their failure when the nose landing gear was under load after touchdown. As the 
+investigation did not find any preimpact anomalies with the nose landing gear steering system, the 
+engine mount failure likely compromised the pilot's steering capabilities after touchdown before the 
+collapse occurred. As the wear and corrosion on the tubes was mostly internal, it could not be 
+determined whether the mechanic who most recently serviced the airplane would have recognized their 
+condition.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

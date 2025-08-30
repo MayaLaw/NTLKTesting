@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Kinsley, Kansas
+Accident Number:
+GAA17CA531
+Date & Time:
+September 12, 2017, 10:39 Local 
+Registration:
+N9595X
+Aircraft:
+Cessna 210
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During a telephone interview with the National Transportation Safety Board (NTSB) investigator-in-
+charge, the pilot reported that he "landed around 80 knots" and "didn't get the flaps down" before 
+landing. He further reported that the airplane "didn't want to stop" and that it then "ran off the runway." 
+During the runway excursion, the nosewheel collapsed, and the airplane nosed over.
+The fuselage, wings, and vertical stabilizer sustained substantial damage. 
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation.
+An automated weather observation station located 28 nautical miles west from the accident site reported, 
+about the time of the accident, wind from 170° at 7 knots. The landing was on runway 36.
+The pilot did not submit the NTSB Form 6120.1 Pilot/Operator Aircraft Accident/Incident Report.
+A witness reported that he was at the airport in a hangar and noticed that the accident airplane was 
+"high, fast, and downwind." He added that he observed the airplane overrun the runway and nose over 
+into the grass.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's decision to continue an unstabilized approach for landing in tailwind conditions, which 
+resulted in a runway overrun and a nose-over.

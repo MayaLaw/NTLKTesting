@@ -1,0 +1,29 @@
+{
+    "Filename": "97964.txt",
+    "Location": "Oak Harbor, Washington",
+    "Accident Number": "GAA18CA461",
+    "Date & Time": "July 27, 2018, 11:30 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N152LT",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according student pilot first solo flight conducted airport familiar nervous although flight instructor handheld twoway radio communicate student instructor twoway radio malfunctioned student able communicate instructor flight traffic pattern final student noticed airplane getting low fast added power felt landing assured reduced power airplane bounced added airplane bounced knew something moment froze nose landing gear wheel struck runway hard separated airplane skidded stop airplane sustained substantial damage engine mount right wing instructor reported accident could prevented provided training address change performance given weighed 235 lb occupying right front seat solo flight student reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "student",
+                5
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

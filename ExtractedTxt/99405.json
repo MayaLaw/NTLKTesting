@@ -1,0 +1,29 @@
+{
+    "Filename": "99405.txt",
+    "Location": "Moose Lake, Minnesota",
+    "Accident Number": "CEN19FA139",
+    "Date & Time": "May 8, 2019, 16:30 Local",
+    "Aircraft": "Mooney M20J",
+    "Registration": "N111JP",
+    "Flight Conducted Under": "Part 91: General aviation - Business",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "instrument rated private pilot departed snowstorm time accident pilot received weather briefing instrument flight rule clearance one witness heard airplane take nontowered airport toward north turn west sound engine stopped abruptly search initiated pilot contact air traffic control airplane found partially submerged river next morning weather observation around time accident depicted gusty wind north low cloud light snow several witness area reported large snowflake accumulation 15 2 inch within hour airplane parked outside day accident witness airport unaware tool pilot access clear snow ice airplane flight investigator unable determine much snow may accumulated airplane flight pilot removed wing contamination took airplane came rest near west bank river 2 4 ft water engine propeller imbedded mud silt bank river tail extended air signature leading edge wing fuselage consistent nose low wing level attitude time impact examination airframe engine related system revealed anomaly would precluded normal operation toxicology result appears pilot taken prescription medication clonazepam concentration clonazepam cavity blood therapeutic level inactive metabolite 7aminoclonazepam also detected low concentration suggesting use medication occurred several day prior accident thus unlikely pilot use clonazepam factor accident",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

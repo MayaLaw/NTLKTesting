@@ -1,0 +1,29 @@
+{
+    "Filename": "96866.txt",
+    "Location": "Pompano Beach, Florida",
+    "Accident Number": "ERA18LA102",
+    "Date & Time": "March 1, 2018, 10:51 Local",
+    "Aircraft": "Piper PA 32-300",
+    "Registration": "N54476",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported shortly takeoff climbing 800 ft mean sea level msl engine manifold pressure began drop engine sounded irregular pilot initiated return airport requested land pilot pilotrated passenger reported engine respond throttle reduced landing approach airplane continued toward runway high speed touched within last third runway surface bounced several time pilot first pulled mixture control idlecut engine respond richened mixture applied full throttle initiated aborted landing airplane became airborne entered right bank began descend impacting ramp near hangar resulting substantial damage wind condition time accident consistent quartering tailwind 8 knot landing runway examination engine revealed anomaly reason initial loss manifold pressure could determined based available information however circumstance accident consistent pilot exceedance airplane critical angle attack airplane became airborne resulted aerodynamic stall loss control impact ramp probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

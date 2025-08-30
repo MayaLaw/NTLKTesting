@@ -1,0 +1,29 @@
+{
+    "Filename": "97628.txt",
+    "Location": "Delta Junction, Alaska",
+    "Accident Number": "ANC18FA050",
+    "Date & Time": "June 24, 2018, 10:40 Local",
+    "Aircraft": "Piper PA 18-150",
+    "Registration": "N8664Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot conducting personal crosscountry flight singleengine airplane passenger airplane failed arrive intended destination extensive search launched airplane located knoll consisting tree muskeg 3 day departed private airstrip airplane sustained substantial damage wing fuselage review archived weather information area estimated time accident revealed ceiling 5000 ft 6000 ft ground level forward visibility 6 10 statute mile postaccident examination airplane engine revealed evidence preimpact mechanical failure malfunction would precluded normal operation thus based available evidence investigation could determine exact cause accident emergency locator transmitter found position prevented beacon activating producing audible signal may contributed length search probable cause finding national transportation safety board determines probable cause accident undetermined based available evidence",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "accident",
+                3
+            ],
+            [
+                "evidence",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Yakutat, Alaska
+Accident Number:
+GAA18CA572
+Date & Time:
+September 2, 2018, 13:30 Local 
+Registration:
+N95EA
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while on step during takeoff from an ocean bay and as she turned the float-
+equipped airplane into the wind, the left wing and float raised. The right wing impacted the water, and 
+the airplane pivoted about 90° clockwise before coming to rest partially submerged on its left side. 
+The airplane sustained substantial damage to both wings.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+A video of the takeoff taken from the shore showed the airplane making a sweeping left turn on the step. 
+Wind indications in the video showed the wind coming from the airplane's left. The left turn tightens as 
+the airplane turns into the wind, the left wing and float lift, and the right wing then strikes the water.
+The automated weather observation system about 4 nautical miles from the accident site reported that, 
+about the time of the accident, the wind was from 330° at 8 knots. The pilot was departing to the 
+northwest.
+The pilot reported that the wind at the accident site was light and variable at 0 to 5 knots. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain lateral control of the airplane during a step-turn takeoff.

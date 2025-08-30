@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Willow, Alaska
+Accident Number:
+ANC19LA005
+Date & Time:
+November 1, 2018, 16:30 Local 
+Registration:
+N3227M
+Aircraft:
+Piper PA 12
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, during the initial climb on the personal flight, the engine backfired and then lost 
+total power. He was unable to restore power, and during the subsequent off-airport forced landing, the 
+airplane collided with a stand of trees, which resulted in substantial damage to the wings and fuselage. 
+A mechanic/friend of the pilot stated that this was the first flight after engine maintenance, during which 
+he and the pilot had been troubleshooting for excessive magneto drops and a cold cylinder. He added 
+that they had just reinstalled the fine wire spark plugs after cleaning them.
+A postaccident examination of the airplane revealed that all spark plugs exhibited normal operational 
+signatures with no defects or anomalies noted. Both magnetos produced spark at all terminals as 
+designed. The impulse coupler inside the left magneto was fractured, but that did not preclude the 
+magneto from sparking. Additionally, the wiring harness from the ignition switch to the magnetos was 
+frayed and separated. However, it could not be determined if the separation occurred as a result of the 
+accident. Thus, the reason(s) for the loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power shortly after takeoff for reasons that could not be determined based on the 
+available information, which resulted in an emergency landing and collision with trees.

@@ -1,0 +1,29 @@
+{
+    "Filename": "99358.txt",
+    "Location": "Sedona, Arizona",
+    "Accident Number": "WPR19LA128",
+    "Date & Time": "May 1, 2019, 09:35 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N6864Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "1 week accident previous owner flown fuelinjected singleengine airplane 70 mile inspection selling accident pilot flight uneventful prebuy inspection sale accomplished airplane remained accident pilot airport elevation 4800 ft accident pilot arranged begin airplane checkout process certificated flight instructor cfi flight first flight since pre buy inspection cfi pilot reported preflight inspection engine start taxi engine runup planned local flight normal based airport high elevation leaned fuel mixture takeoff takeoff roll liftoff normal airplane lifted pilot sensed significant loss engine power stall warning sounded airplane began roll rightwing airplane drifted right impacted unpaved surface adjacent right side runway airplane traversed rough terrain landing gear collapsed airplane slid stop left wing sustained substantial damage initial postaccident examination airplane reveal preimpact mechanical deficiency failure would precluded normal operation engine started operated normally test run remained airframe however fuel observed leaking throttle metering assembly tma testing terminated visual inspection tma nearby component revealed grime around shaftcase penetration blue staining airframe structure tma evidence preexisting fuel leak although leak origination date could determined appearance signature consistent existence airplane service rather result accident impact investigation could determine long leak occurring present time last annual inspection 8 month accident visual evidence existing leak likely significant enough identified prebuy inspection",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "inspection",
+                7
+            ],
+            [
+                "accident",
+                6
+            ]
+        ]
+    }
+}

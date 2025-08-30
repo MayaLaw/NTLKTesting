@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hastings, Nebraska
+Accident Number:
+GAA18CA167
+Date & Time:
+March 16, 2018, 07:50 Local 
+Registration:
+N213AV
+Aircraft:
+Beech C99
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+2 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+According to the operator's director of safety, during landing in gusty crosswind conditions, the multi-
+engine, turbine-powered airplane bounced. The airplane then touched down a second time  left of the 
+runway centerline. "Recognizing their position was too far left," the flight crew attempted a go-around. 
+However, both engines were almost at idle and "took time to spool back up." Without the appropriate 
+airspeed, the airplane continued to veer to the left. A gust under the right wing "drove" the left wing into 
+the ground. The airplane continued across a grass field, the nose landing gear collapsed, and the airplane 
+slid to a stop. 
+The airplane sustained substantial damage to the fuselage and left wing.
+The director of safety reported that there were no preaccident mechanical failures or malfunctions with 
+the airplane that would have precluded normal operation.
+The automated weather observation system located at the accident airport reported that, about the time 
+of the accident, the wind was from 110° at 21 knots, gusting to 35 knots. The pilot landed on runway 04.
+The Beechcraft airplane flight manual states the max demonstrated crosswind is 25 knots.
+Based on the stated wind conditions, the calculated crosswind component was 19 to 33 knots.
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

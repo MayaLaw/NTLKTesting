@@ -1,0 +1,29 @@
+{
+    "Filename": "98745.txt",
+    "Location": "Myerstown, Pennsylvania",
+    "Accident Number": "ERA19LA061",
+    "Date & Time": "December 8, 2018, 13:14 Local",
+    "Aircraft": "Cessna P210",
+    "Registration": "N731LT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot flying airplane nearby airport obtain fuel departing flight checked fuel quantity using onboard fuel totalizer determined fuel gauge indicated adequate fuel intended flight landing approach destination engine lost total power airplane impacted terrain short runway pilot reported loss power due fuel starvation witness airport reported airplane made sharp leftbanking turn flew overhead climbed steeply made another sharp left turn enter traffic pattern landing examination airplane revealed anomaly flight control system would prevented normal operation evidence fuel found enginedriven fuel pump filter filter clean evidence fuel line engine driven pump engine gas producer recovery accident site less 1 gallon fuel drained left wing tank less 4 gallon fuel drained right wing fuel tank pilot operating handbook airplane stated fuel tank 14full less prolonged uncoordinated flight slip skid could uncover fuel tank outlet causing fuel starvation engine stoppage likely given airplane low fuel state abrupt maneuver caused fuel outlet become uncovered resulting fuel starvation engine total loss engine power probable cause finding",
+        "Top Words": [
+            [
+                "fuel",
+                18
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

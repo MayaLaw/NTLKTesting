@@ -1,0 +1,29 @@
+{
+    "Filename": "96942.txt",
+    "Location": "Camas, Washington",
+    "Accident Number": "GAA18CA184",
+    "Date & Time": "March 4, 2018, 13:30 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N3756W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported departure estimated right tip fuel tank threequarters full 14 gallon main fuel tank 20 gallon fuel pilot reported cruise decided use right tip fuel tank even though aware right tip fuel tank gauge inoperative added 2530 minute performed various stall maneuver returning departure airport land pilot noticed reduction engine power drop manifold pressure concluded airplane would able return airport continued left turn toward farm field pilot began troubleshoot carburetor ice avail airplane landed farm field impacted ditch airplane sustained substantial damage engine mount pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added postaccident examination revealed right tip fuel tank dry engine lost power due fuel starvation probable cause finding national transportation safety board determines probable cause accident pilot inadequate inflight fuel management failure switch fuel tank adequate fuel resulted fuel starvation",
+        "Top Words": [
+            [
+                "fuel",
+                11
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "tank",
+                6
+            ]
+        ]
+    }
+}

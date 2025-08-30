@@ -1,0 +1,29 @@
+{
+    "Filename": "99284.txt",
+    "Location": "Lebanon, Indiana",
+    "Accident Number": "GAA19CA215",
+    "Date & Time": "April 15, 2019, 15:50 Local",
+    "Aircraft": "Kaminskas RTH JUNGSTER 1",
+    "Registration": "N3243",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported 30 minute flight oil pressure gauge needle entered yellow caution arc pilot decided make precautionary landing nearest airport land grass right side asphalt runway landing overflew grass surface twice conducted touchandgo landing assess surface condition third approach landing normal landing roll main landing gear wheel encountered soft patch muddy soil airplane nosed airplane sustained substantial damage empennage pilot reported mechanical malfunction occurred specific oil pressure gauge probable cause finding national transportation safety board determines probable cause accident pilot selection unsuitable terrain landing resulted noseover",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+SINTON, Texas
+Accident Number:
+CEN18LA177
+Date & Time:
+March 7, 2018, 12:30 Local 
+Registration:
+N66786
+Aircraft:
+Cessna 150M
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that after conducting a touch-and-go landing, the airplane's 
+engine experienced a partial loss of power near the end of the runway. The airplane was 
+unable to gain altitude, so he landed in an open field. During the forced landing, the airplane's 
+engine mount was bent. According to the pilot, the airplane's carburetor was full of carbon and 
+that the exhaust pipe was black from carbon buildup. Although it is unlikely that&nbsp;the 
+black material in the carburetor was carbon, the excessive buildup within the carburetor would 
+have adversely&nbsp;affected the engine's performance.&nbsp;The pilot stated that the 
+carburetor was unable to properly regulate the fuel/air mixture due to the&nbsp;excessive 
+buildup, corrosion in and on the main nozzle, and basic wear and tear, which caused the engine 
+to flood and experience a partial loss of engine power. A review of the airplane's maintenance 
+logbook showed that the carburetor had not been rebuilt since it was installed in 1974, about 
+44 years before the accident. Thus, it is likely that inadequate service and repair of the 
+airplane's carburetor led to partial loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The inadequate service and repair of the airplane's carburetor, which led to a partial loss of 
+engine power during takeoff and resulted in a forced landing.

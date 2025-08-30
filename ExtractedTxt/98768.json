@@ -1,0 +1,29 @@
+{
+    "Filename": "98768.txt",
+    "Location": "Valparaiso, Indiana",
+    "Accident Number": "CEN19FA044",
+    "Date & Time": "December 13, 2018, 10:44 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N6785P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot departing personal flight witness observation surveillance video captured airplane initial climb right wing dropped airplane entered right spin surveillance video camera mounted building near accident captured final portion accident sequence airplane completed one revolution spin impacted ground near vertical attitude examination airplane engine system revealed evidence preimpact anomaly circumstance accident consistent pilot failure maintain adequate airspeed initial climb takeoff resulted exceedance airplane critical angle attack subsequent aerodynamic stall spin probable cause finding national transportation safety board determines probable cause accident pilot failure tonbspmaintain adequate airspeed initial climb takeoff resulted exceedance airplane critical angle attack subsequent aerodynamic stall spin",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "spin",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

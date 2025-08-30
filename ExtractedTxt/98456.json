@@ -1,0 +1,29 @@
+{
+    "Filename": "98456.txt",
+    "Location": "Corry, Pennsylvania",
+    "Accident Number": "GAA19CA015",
+    "Date & Time": "October 7, 2018, 18:40 Local",
+    "Aircraft": "Titan TITAN TORNADO 912",
+    "Registration": "N912R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported departed 14 gallon fuel onboard airplane added diverted airport 15 mile away destination airport due ground fog en route 2 hour 25 minute departure engine died lack gas subsequently landed airplane field pilot reported estimated fuel tank maybe 18 cup tablespoon may accurate airplane sustained substantial damage left wing left aileron empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "fuel",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

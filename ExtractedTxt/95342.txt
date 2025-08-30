@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Gordonville, Florida
+Accident Number:
+ERA17LA201
+Date & Time:
+June 11, 2017, 12:00 Local 
+Registration:
+N592BC
+Aircraft:
+CIRRUS DESIGN CORP SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that he had "disoriented" himself by holding the airport diagram "upside down" 
+as the airplane approached the destination airport. Once oriented, he turned the airplane onto the 
+downwind leg of the traffic pattern, noticed the airplane was "high," and disconnected the autopilot. 
+During the final approach, the airplane was descending rapidly, and the pilot added power to complete 
+the landing. However, nothing happened because he had not properly set the mixture control, which 
+resulted in a loss of engine power once he advanced the throttle. With little time and altitude remaining, 
+the pilot was unable to regain engine power before the airplane struck the ground about 1/2 mile from 
+the runway threshold. A postaccident test-run and examination of the engine revealed no evidence of 
+any preimpact mechanical malfunctions or failures that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to properly configure the mixture control for landing due to disorientation because he 
+had the airport diagram upside down, which resulted in a total loss of engine power.

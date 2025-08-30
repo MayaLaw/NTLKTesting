@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Viborg, South Dakota
+Accident Number:
+CEN16FA344
+Date & Time:
+September 2, 2016, 10:00 Local 
+Registration:
+N676DT
+Aircraft:
+AVES DOUGLAS JAMES RV 6
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and the passenger, his 14-year-old granddaughter who wanted to become a pilot, 
+were making a local flight in the airplane. No radar or GPS track information was found for the flight. A 
+witness heard the airplane's engine "sputtering" before the airplane impacted the ground in a cornfield. A 
+postimpact fire consumed the engine cowling, cockpit, fuselage, and the forward portion of the 
+empennage. Damage to the airplane, the crop, and marks on the ground indicated that the airplane 
+impacted in a slightly nose-low and left-wing-low attitude with no forward airspeed, consistent with a 
+relatively flat spin. The propeller remained attached to the engine and was embedded in the soil and 
+positioned horizontally. The propeller blades were slightly bent aft and did not exhibit any leading-edge 
+damage, consistent with minimal, if any, power being produced by the engine during impact. No 
+mechanical malfunctions or anomalies were found with the engine or airframe that would have 
+precluded normal operation. However, the examination was limited by the extensive postcrash fire 
+damage. 
+The circumstances of the accident are consistent with the airplane exceeding its critical angle of attack, 
+resulting in an aerodynamic stall and subsequent flat spin into terrain. Given the witness report of a 
+"sputtering" engine and the propeller signatures consistent with the engine not producing power at 
+impact, it is likely that the engine lost power before impact. However, it could not be determined 
+whether the engine lost power before the loss of control or whether the pilot intentionally reduced power 
+during the descent.
+The14-year-old passenger was seated in the left seat, and the pilot was seated in the right seat. Although 
+the family reported that the flight was not instructional, it is possible that the pilot allowed the passenger 
+to manipulate the flight controls. Regardless of which occupant was manipulating the flight controls, the 
+pilot was the only certificated pilot on board and was responsible for the safety of the flight.
+Probable Cause and Findings

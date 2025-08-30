@@ -1,0 +1,29 @@
+{
+    "Filename": "98663.txt",
+    "Location": "Barnesville, Georgia",
+    "Accident Number": "ERA19LA052",
+    "Date & Time": "November 17, 2018, 11:12 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N111TA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Minor, 2 None",
+    "Analysis": {
+        "Text": "flight instructor reported student pilot taking instructional flight upsloping 3000ftlong turf runway 7 8knot headwind airspeed reached 65 knot increasing predesignated decision point 60 runway length takeoff airplane unexpectedly banked left student called flight control responding instructor simultaneously took control realizing airplane would clear tree departure end runway instructor chose land airplane straight ahead aim tree airplane touched 200 ft tree traveled forward struck several resulted substantial damage airframe postaccident examination airframe engine reveal evidence preaccident mechanical malfunction failure would precluded normal operation flight control continuity confirmed flight control surface cockpit control given mechanical anomaly found postaccident examination airframe likely student failed maintain airplane control takeoff flight instructor delayed remedial action resulted subsequent offrunway landing probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain airplane control takeoff flight instructor delayed remedial action resulted offrunway landing subsequent collision tree",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "control",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

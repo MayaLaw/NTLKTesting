@@ -1,0 +1,29 @@
+{
+    "Filename": "98098.txt",
+    "Location": "Salmon, Idaho",
+    "Accident Number": "WPR18LA227",
+    "Date & Time": "August 18, 2018, 11:50 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N84CP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Other weather encounter",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "pilotrated passenger reported accident pilot fueled airplane conducted short formation flight two airplane accident airplane lead backcountry airstrip trail pilot reported briefing return flight accident pilot decided take north parallel west side river shortly turn left 180 toward south back toward departure airport according pilotrated passenger takeoff initial climb engine producing power airplane climbed expected trail pilot watched takeoff confirmed takeoff initial climb seemed normal shortly thereafter trail pilot saw accident pilot make 90 left turn toward west head canyon said confused cannot climb rising terrain west tight little canyon turn indicated postaccident statement asked accident pilot going pilot replied going trail pilot indicated asked accident pilot going downstream accident pilot responded crashing something similar received communication accident pilot pilotrated passenger stated unaware issue airplane accident pilot exchange trail pilot added accident accident pilot told thought loss lift due airplane encountering downdraft looked cockpit panel saw manifold pressure gauge reading 20 inch manifold pressure opined engine producing power airplane descending according pilotrated passenger accident pilot said going put theairplane tree passenger stated accident pilot turned slightly left managed airspeed airplane settled stand tree slow level stall warning horn chirping airplane became lodged tree 10 12 ft ground passenger noticed fire emanating engine cowling accident pilot egressed airplane shortly thereafter airplane exploded subsequently consumed fire",
+        "Top Words": [
+            [
+                "pilot",
+                18
+            ],
+            [
+                "accident",
+                14
+            ],
+            [
+                "airplane",
+                11
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97983.txt",
+    "Location": "Greenville, South Carolina",
+    "Accident Number": "GAA18CA467",
+    "Date & Time": "August 3, 2018, 10:25 Local",
+    "Aircraft": "Beech 58",
+    "Registration": "N59PR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot multiengine airplane reported following instrument approach airplane broke cloud 600 ft ground level pilot reported concerned airplane high safe landing wet runway contacted air traffic control requested circle land tower controller cleared pilot circle land 4000ftlong runway pilot reported landing roll airplane approached last taxiway airplane slid overran runway end airplane rolled embankment impacted chain link fence tree airplane sustained substantial damage fuselage wing according federal aviation administration aviation safety inspector airplane touched 1300 ft runway remaining probable cause finding national transportation safety board determines probable cause accident pilot failure attain proper touchdown point wet runway resulted insufficient runway remaining safely stop airplane",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "runway",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

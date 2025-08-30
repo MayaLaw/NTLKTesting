@@ -1,0 +1,29 @@
+{
+    "Filename": "94031.txt",
+    "Location": "Sidney, Montana",
+    "Accident Number": "GAA16CA492",
+    "Date & Time": "September 10, 2016, 13:00 Local",
+    "Aircraft": "Cessna 170",
+    "Registration": "N8335A",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "flight instructor reported instructional flight tailwheelequipped airplane student pilot bounced landing airplane bounced grass airstrip flight instructor took flight control airplane drifted left drainage ditch flight instructor reported corrected right rudder application ease airplane ditch left landing gear tire deflated left wing tail struck ground airplane yawed left instructor corrected yaw airplane rolled onto runway stopped left wing left aileron elevator sustained substantial damage flight instructor reported preaccident mechanical malfunction anomaly airplane would prevented normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted bounced landing flight instructor inability recover airplane resulted runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "instructor",
+                6
+            ]
+        ]
+    }
+}

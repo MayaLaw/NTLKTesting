@@ -1,0 +1,29 @@
+{
+    "Filename": "96035.txt",
+    "Location": "London, Ohio",
+    "Accident Number": "CEN17LA358",
+    "Date & Time": "September 17, 2017, 16:00 Local",
+    "Aircraft": "Cessna 177B",
+    "Registration": "N35170",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor student pilot cruise descent toward destination airport engine experienced total loss power instructor performed forced landing corn field airplane sustained substantial damage instructor reported airplane 25 gallon fuel onboard takeoff duration accident flight 13 hour due recent engine overhaul instructor operating airplane high power setting mixture full rich noted previous flight fuel consumption 11 gallon per hour calculated airplane burned 143 gallon fuel accident flight since engine operated normal cruise power setting fuel burn based information pilot operating handbook could calculated however examination airplane accident revealed usable fuel remaining either wing fuel tank breach fuel system subsequent testing revealed fuel leakage excessive fuel consumption ground run based available evidence likely engine lost power due fuel exhaustion however whether pilot overestimated fuel quantity departure underestimated fuel consumption flight could determined probable cause finding national transportation safety board determines probable cause accident flight instructor inadequate inflight fuel management resulted total loss engine power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "instructor",
+                5
+            ]
+        ]
+    }
+}

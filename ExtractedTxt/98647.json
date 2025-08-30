@@ -1,0 +1,29 @@
+{
+    "Filename": "98647.txt",
+    "Location": "Overgaard, Arizona",
+    "Accident Number": "WPR19FA026",
+    "Date & Time": "November 16, 2018, 15:46 Local",
+    "Aircraft": "Zenith CH601",
+    "Registration": "N322JL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot pilotrated passenger completing second leg multileg flight flight data indicated final approach glideslope runway airplane airspeed stall limit approach airplane impacted tall tree 1500 ft runway threshold roof house second tree coming rest taxi area house postaccident examination airframe engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation although pilot familiar runway characteristic given hangar near airpark flown airpark likely upsloping runway paved surface displaced threshold gave pilot visual illusion airplane higher altitude actually pilot thus flew lower approach although visual approach path indicator positioned left runway threshold pilot likely monitor indicator final approach probable cause finding national transportation safety board determines probable cause accident pilot failure monitor airport visual approach path indicator final approach upsloping runway resulted low approach path impact terrain",
+        "Top Words": [
+            [
+                "approach",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "runway",
+                6
+            ]
+        ]
+    }
+}

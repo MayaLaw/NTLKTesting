@@ -1,0 +1,38 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Seward, Alaska
+Accident Number:
+GAA19CA205
+Date & Time:
+April 13, 2019, 15:30 Local 
+Registration:
+N3821P
+Aircraft:
+Piper PA22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing at a remote site and shortly after touchdown, the airplane veered 
+right as he felt a "strong left crosswind" push the airplane right. He applied full power to go around, but 
+the airplane continued right, the main landing gear impacted a snowbank, and the left wing impacted 
+terrain. The airplane sustained substantial damage to the left wing and fuselage. The pilot reported that 
+there were no preaccident mechanical failures or malfunctions with the airplane that would have 
+precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during an attempted go-around, which resulted in 
+impact with a snowbank.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot
+Environmental issues
+Snow/ice - Effect on operation

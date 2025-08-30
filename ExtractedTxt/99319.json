@@ -1,0 +1,29 @@
+{
+    "Filename": "99319.txt",
+    "Location": "Bremen, Alabama",
+    "Accident Number": "GAA19CA224",
+    "Date & Time": "April 20, 2019, 16:30 Local",
+    "Aircraft": "Luscombe 8",
+    "Registration": "N1866B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported takeoff 2400ftlong private grass airstrip concerned airplane would clear wire end runway aborted takeoff airplane overran departure end runway crossed road went barbed wire fence subsequently airplane come rest inverted airplane sustained substantial damage left wing wing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation time accident pilot estimated wind 290 8 knot pilot departing runway 18 probable cause finding national transportation safety board determines probable cause accident pilot delayed decision abort takeoff resulted runway overrun impact fence noseover",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

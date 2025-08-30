@@ -1,0 +1,29 @@
+{
+    "Filename": "96044.txt",
+    "Location": "Rhine, Georgia",
+    "Accident Number": "ERA17FA330",
+    "Date & Time": "September 20, 2017, 06:01 Local",
+    "Aircraft": "Cessna 150G",
+    "Registration": "N3875J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "student pilot departed dark night marginal visual flight rule mvfr condition private grass runway partially lit solar light witness heard airplane depart followed sound crash arrived airstrip observed light layer fog runway airplane came rest heavilywooded terrain adjacent runway examination airplane engine revealed anomaly would precluded normal operation impact data downloaded onboard gps unit revealed departure airplane made climbing right turn altitude 407 ft descended 256 ft reached maximum airspeed 95 knot kt continuing right turn airplane climbed right 30 bank maximum altitude 666 ft slowing airspeed 32 kt well minimum stall speed airplane rolled right entered rapid descent data ended condition conducive development spatial disorientation present including dark night mvfr condition noninstrumentrated student pilot additionally airplane track data reflects spirallike maneuvering wreckage distribution consistent lossofcontrol stalltype vertical descent consistent known effect spatial disorientation based evidence student pilot likely experienced spatial disorientation takeoff led airplane exceeding critical angle attack aerodynamic stall probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

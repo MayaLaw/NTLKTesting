@@ -1,0 +1,29 @@
+{
+    "Filename": "98513.txt",
+    "Location": "Milton, Florida",
+    "Accident Number": "ERA19FA020",
+    "Date & Time": "October 19, 2018, 10:00 Local",
+    "Aircraft": "Bowers Flybaby",
+    "Registration": "N107KW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot flying experimental amateurbuilt airplane nearby airport conduct touchand go takeoff landing witness near accident site heard airplane engine power increasing decreasing one witness stated 100 ft ground level airplane wing started rock back forth airplane entered roll left followed steep uncontrolled descent impacted tree terrain postaccident examination airplane engine fuel system revealed mechanical deficiency would precluded normal operation however witness report repeated fluctuation power setting combined lack rotational damage propeller suggest engine may experienced loss power although condition time accident conducive serious carburetor icing glide power setting airplane likely en route operating higher power setting engine began experience loss power reason could determined based available evidence accident site located area numerous field would allowed forced landing whether pilot attempting maneuver one field could determined circumstance accident consistent pilot exceedance airplane critical angle attack aerodynamic stallspin low altitude probable cause finding national transportation safety board determines probable cause accident loss engine power reason could determined pilot subsequent exceedance airplane critical angle attack resulted aerodynamic stall low altitude",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "power",
+                7
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

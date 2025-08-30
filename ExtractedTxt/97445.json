@@ -1,0 +1,29 @@
+{
+    "Filename": "97445.txt",
+    "Location": "Baton Rouge, Louisiana",
+    "Accident Number": "CEN18LA221",
+    "Date & Time": "June 8, 2018, 16:05 Local",
+    "Aircraft": "Beech 58",
+    "Registration": "N190RS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Explosion (non-impact)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot reported initial climb takeoff heard loud bang saw flame coming trailing edge right wing subsequently able conduct uneventful emergency landing fire located outboard right engine near wingtip auxiliary fuel tank black soot visible near right wingtip navigation anticollision light black soot blue fuel stain found near fuel vent located bottom side wing right wingtip anticollision light blue fuel stain also found right wing near main auxiliary fuel tank inside wing cavity near electrical wiring right wing navigation light examination right wing revealed wiring right wing anticollision light crimped together handshake connector wrapped electrical tape wiring properly insulated source fuel leak could determined due substantial damage right wing caused fire 6 12 year accident airplane manufacturer issued safety communique titled outboard wing fire potential due fuel leak electrical wire chafing communique advised owner operator potential safety issue concerning loose wiring fuel fume structural area airplane communique reminded owner operator maintain fuel electrical system accordance maintenance manual ensure visible fuel leak around vent sump drain stated fuel leak staining observed around vent sump drain preflight inspection based postaccident examination fuel leak found bottom right wing might preexisting condition however pilot remember seeing fuel staining preflight evidence suggests initial ignition occurred behind anticollision light right wingtip result improper repair anticollision light wiring",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "right",
+                11
+            ],
+            [
+                "wing",
+                10
+            ]
+        ]
+    }
+}

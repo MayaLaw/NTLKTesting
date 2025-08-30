@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Palatka, Florida
+Accident Number:
+ERA18LA097
+Date & Time:
+March 6, 2018, 14:30 Local 
+Registration:
+N45DC
+Aircraft:
+REILLY CHARLES W ESCAPADE
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, while on a 1-mile final approach for landing, about 400 ft above the 
+ground, the engine lost total power. The pilot applied full throttle and enrichened the mixture, but only a 
+momentary return of power occurred before the engine lost power again. The airspeed decreased and the 
+airplane entered an aerodynamic stall and impacted a house and terrain.
+Postaccident examination of the airframe and engine revealed no evidence of any preimpact mechanical 
+malfunctions or failures. The left wing fuel tank was empty, the right wing tank contained about 4 
+gallons of fuel, and the auxiliary tank contained just enough fuel to cover the bottom of the tank; 
+however, there was evidence of fuel spillage at the site and the amount of fuel onboard before the 
+accident could not be determined. Non-volatile memory data recorded during the accident flight 
+revealed a large spike in fuel flow, followed by a 0 rpm reading, which was indicative of a total loss of 
+engine power due to air passing through the fuel line and transducer rather than fuel. It is likely that the 
+fuel flow to the engine was interrupted, but a postaccident examination of the engine and fuel system 
+could not determine what caused the interruption.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The interruption of fuel to the engine during final approach, which resulted in a total loss of 
+engine power due to fuel starvation, and the pilot's subsequent failure to maintain airspeed, 
+which resulted in an aerodynamic stall.

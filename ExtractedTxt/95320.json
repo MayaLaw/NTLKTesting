@@ -1,0 +1,29 @@
+{
+    "Filename": "95320.txt",
+    "Location": "Tokyo,",
+    "Accident Number": "ENG17IA026",
+    "Date & Time": "June 7, 2017, 09:50 UTC",
+    "Aircraft": "Boeing 747 451",
+    "Registration": "N668US",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "326 None",
+    "Analysis": {
+        "Text": "disassembly examination engine revealed 5th stage compressor blade fractured transversely across airfoil directly blade root platform unfortunately fractured blade lost shipment engine part delta air line pws material process engineering laboratory however similarity ellipticalshaped fracture surface 5th stage compressor blade ellipticalshaped fracture surface 6th 7th 8th 9th compressor blade confirmed fatigue fracture would indicate 5th stage compressor blade also fractured due fatigue crack pn 5th stage blade fractured engine compressor blade superseded combined total 38 airfoil fracture would suggest subtle interrelationship would cause resonance leading fracture detailed examination hpc identify anything could triggered airflow disturbance fractured blade 5th stage compressor blade subsequently superseded new blade 2011 experienced fracture suggesting whatever causing fracture designed engine turbine section sustained extensive thermal mechanical damage 5th stage compressor blade fractured cascade damage hpc disabled compressor ability pump air fdr showed following loss power 5th stage compressor blade fractured fuel flow dropped zero recovered sub idle level probably electronic control auto relight feature activating igniter plug although fuel flow less seen airplane taxied departure little airflow engine combustion flame would stagnate around turbine vane blade burning early stage liberated piece causing mechanical damage trailing stage",
+        "Top Words": [
+            [
+                "blade",
+                14
+            ],
+            [
+                "stage",
+                9
+            ],
+            [
+                "compressor",
+                9
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Glendale, California
+Accident Number:
+WPR17LA212
+Date & Time:
+September 22, 2017, 21:57 Local 
+Registration:
+N34BE
+Aircraft:
+Mooney M20E
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and passenger had planned a round trip personal flight in the pilot's single-engine 
+airplane. According to the pilot, he had wanted to service the airplane with fuel before the return leg, but 
+he did not do so due to the passenger's desire to arrive home before a certain time. During the initial 
+descent of the return leg, the engine lost total power. The pilot conducted a series of troubleshooting 
+steps to no avail and then conducted a forced landing onto a residential street and struck trees. 
+Postaccident wreckage examination revealed that both fuel tanks were empty, and although the right fuel 
+tank sustained a small breach during impact, there was no fuel odor at the accident site. A series of 
+brown streaks were observed trailing from an area adjacent to the right-wing fuel sump drain. The sump 
+valve sealant was badly degraded, and it is possible that a small fuel leak had developed at an 
+undetermined time; however, blue streaking would have been more likely if a significant and recent fuel 
+loss had occurred. Further examination revealed no leaks in the fuel supply system or engine. The 
+engine tachometer was tested for accuracy, and no anomalies were noted. During an engine test run, the 
+engine started normally and operated through its full speed range with no evidence of a mechanical 
+anomaly.
+The pilot had purchased the airplane 5 months before the accident and had been tracking fuel 
+consumption since his purchase. He determined a representative fuel burn rate based on fuel purchases 
+and engine tachometer hour-meter readings. The pilot reported that he did this because the fuel gauges 
+were unreliable, and he did not possess a calibrated dipstick to measure the actual fuel quantities. Using 
+his calculated fuel burn and tachometer reading method, the pilot estimated that he had enough fuel 
+remaining to complete the flight and land with the Federal Aviation Administration-required 45-minute 
+fuel reserve. However, he had performed multiple flights since the last fill up, which included one go-
+around and a full runway-length taxi earlier in the day. The total time for those flights was near the 
+airplane's fuel endurance limit when measured by tachometer time, but the fuel consumption was likely 
+higher due to the increased consumption demanded by the engine during the multiple takeoffs. It is 
+likely that the pilot miscalculated the amount of fuel on board before the flight, which resulted in fuel 

@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Galena, Idaho
+Accident Number:
+GAA17CA341
+Date & Time:
+June 14, 2017, 11:00 Local 
+Registration:
+N9912Q
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Abrupt maneuver
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he was attempting to perform a crosswind, soft-field takeoff from a dry, turf 
+airstrip. He set the flaps to 10°, and the airplane was in a nose-high attitude until the stall warning horn 
+sounded. He then relaxed pressure on the yoke until the stall warning horn stopped. Shortly after liftoff, 
+the airplane entered a power-on stall, and the pilot lost airplane control, and the airplane then began to 
+descend to the runway. The airplane subsequently departed the runway and impacted a barbed wire 
+fence.
+The airplane sustained substantial damage to the right wing strut.
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+ 
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane’s critical angle of attack, which resulted in a power-on stall and 
+subsequent loss of airplane control.
+ 
+ 

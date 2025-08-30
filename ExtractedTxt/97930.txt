@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Painesville, Ohio
+Accident Number:
+CEN18LA301
+Date & Time:
+July 27, 2018, 16:45 Local 
+Registration:
+N953RJ
+Aircraft:
+Flightstar SC II
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot reported that he and his wife owned the accident airplane and had made multiple 
+practice taxi runs on the runway with no intention for flight. During one of the taxi runs, the airplane 
+unexpectedly became airborne. The student determined that there was not enough runway remaining to 
+perform a safe landing, so he chose to continue the takeoff. Once the airplane reached about 100 ft 
+above ground level, it would no longer climb, and he attempted to land in a field; however, the airplane 
+struck trees before reaching the intended field.
+Before the accident, the student had performed maintenance on the airplane, which included replacing 
+the propeller. He had intended to have a certificated mechanic check his work but had not done so 
+before the accident because there was no intention for flight. He acknowledged that he may not have set 
+the propeller pitch correctly, which could have negatively affected the airplane's performance. In 
+addition, the atmospheric conditions were favorable for moderate icing at cruise power settings and 
+serious icing at descent power settings. Carburetor icing likely accumulated during the multiple taxi runs 
+performed before the unintentional flight. 
+Based on the available information, the airplane inadvertently became airborne because the student 
+allowed it to accelerate to flight speed. The available engine power was likely reduced due to an 
+improper propeller pitch setting and carburetor icing, and both these conditions likely resulted in the 
+airplane's inability to continue to climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "94727.txt",
+    "Location": "Columbus, Ohio",
+    "Accident Number": "CEN17LA104",
+    "Date & Time": "February 14, 2017, 13:30 Local",
+    "Aircraft": "Beech D55",
+    "Registration": "N88EB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "two multienginerated pilot departed multiengine airplane local personal flight gusting crosswind left seat pilot reported wanted get current takeoff landing performed taxi takeoff procedure climbout left engine began lose power left seat pilot gave right seat pilot control airplane right seat pilot conducted landing left main landing gear struck runway hard resulted collapse gear postaccident examination left engine fuel system revealed anomaly would prevented normal operation probable cause finding national transportation safety board determines probable cause accident partial loss left engine power takeoff initial climb led hard landing gusting crosswind condition reason loss engine power could determined postaccident examination left engine revealed anomaly would precluded normal operation",
+        "Top Words": [
+            [
+                "left",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

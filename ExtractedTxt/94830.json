@@ -1,0 +1,29 @@
+{
+    "Filename": "94830.txt",
+    "Location": "Centennial, Colorado",
+    "Accident Number": "CEN17LA122",
+    "Date & Time": "February 18, 2017, 15:29 Local",
+    "Aircraft": "Piper PA 28R-200",
+    "Registration": "N2702R",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "flight instructor private pilot receiving instruction departing instructional flight runway 17l pilot receiving instruction reported liftoff engine rpm high airplane gaining altitude instructor reported shortly takeoff felt something pushing airplane downward stated engine full rpm throttle mixture control full forward recalled seeing airspeed 65 knot hearing stall warning horn pilot receiving instruction reported airspeed 55 knot braced impact airplane contacted ground 1 mile end runway landing gear track mark showed three landing gear ground straight track airplane impacted tree crossed parking lot driveway skidded 100 ft came rest inverted 2 minute airplane departed small jet airplane taken runway addition wind time accident 170 15 knot gusting 23 knot accident private pilot reported concerned wake turbulence small jet flight instructor reported thought airplane affected wind shear examination airframe engine reveal preimpact mechanical malfunction failure would precluded normal operation based available information reason loss control could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "reported",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98036.txt",
+    "Location": "Iliamna, Alaska",
+    "Accident Number": "ANC18LA064",
+    "Date & Time": "August 7, 2018, 12:15 Local",
+    "Aircraft": "Cessna 207",
+    "Registration": "N7379U",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported shortly takeoff began configure airplane cruise flight engine began run rough lose power elected immediately return airport engine subsequently lost total power pilot performed forced landing tundracovered terrain airplane sustained substantial damage examination revealed 2 piston eroded bottom side hole burned 2 piston cylinder head mechanically damaged loose piston ring debris closer examination 2 cylinder head revealed resolidified molten metal around bottom helicoil tang notch damage discovered consistent preignitiondetonation event however cause preignition andor detonation could determined based available information probable cause finding national transportation safety board determines probable cause accident total loss engine power due detonationpreignition damage 2 cylinder piston reason could determined",
+        "Top Words": [
+            [
+                "2",
+                4
+            ],
+            [
+                "piston",
+                4
+            ],
+            [
+                "engine",
+                3
+            ]
+        ]
+    }
+}

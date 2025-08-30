@@ -1,0 +1,29 @@
+{
+    "Filename": "93932.txt",
+    "Location": "Simsbury, Connecticut",
+    "Accident Number": "ERA16CA308",
+    "Date & Time": "August 29, 2016, 18:00 Local",
+    "Aircraft": "Beech C23",
+    "Registration": "N9352S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported preparing private pilot check ride 90 minute flying approached airport entered traffic pattern runway 21 2205ft long runway student pilot added established short final chose perform go around comfortable approach second landing attempt airplane floated past intended touchdown point landing runway student pilot unable stop airplane went departure end subsequently airplane struck perimeter fence embankment resulted nose landing gear collapsing substantial damage fuselage left wing student pilot reported preimpact mechanical malfunction failure airplane would precluded normal operation wind reported airport 4 mile east accident location 320 7 knot probable cause finding national transportation safety board determines probable cause accident student pilot failure attain proper touchdown point resulted runway overrun",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "student",
+                5
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98248.txt",
+    "Location": "Richmond, Virginia",
+    "Accident Number": "GAA18CA537",
+    "Date & Time": "September 5, 2018, 13:00 Local",
+    "Aircraft": "Cessna 180",
+    "Registration": "C-GODA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported final approach 4 mile runway engine lost power diverted open field approach airplane struck power line impacted field pilot reported although filled fuel tank flight misunderstood long airplane could fly full fuel thought enough fuel complete flight airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning inflight fuel management resulted fuel exhaustion total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

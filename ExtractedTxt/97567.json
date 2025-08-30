@@ -1,0 +1,29 @@
+{
+    "Filename": "97567.txt",
+    "Location": "Dillingham, Alaska",
+    "Accident Number": "ANC18LA047",
+    "Date & Time": "June 22, 2018, 17:30 Local",
+    "Aircraft": "DEHAVILLAND DHC-2",
+    "Registration": "N5221G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Serious, 3 None",
+    "Analysis": {
+        "Text": "according pilot landing floatequipped airplane gusty tailwind condition remote river touching water airplane bounced gust wind turned tail airplane 45 left airplane impacted riverbank continued onto shore struck tree resulted substantial damage airplane probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting wind condition finding personnel issue aircraft control pilot aircraft directional control attainedmaintained environmental issue gust effect operation environmental issue tree contributed outcome",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

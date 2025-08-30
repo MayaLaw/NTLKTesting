@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Bayonne, New Jersey
+Accident Number:
+ERA17LA110
+Date & Time:
+February 19, 2017, 10:00 Local 
+Registration:
+N15745
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that the personal local flight was uneventful until the engine made an odd 
+noise, which was followed by a partial loss of engine power. The pilot attempted to troubleshoot the 
+problem, but the engine power was not fully restored, and the airplane was unable to maintain altitude, 
+so the pilot made a forced landing to a road. The airplane struck power lines and vehicles before coming 
+to rest on a sidewalk.
+Postaccident examination of the engine revealed that the No. 3 cylinder's intake valve had separated. 
+The valve stem was found in the oil pan, and the remainder of the valve was found in its intake 
+manifold. Metallurgical examination of the No. 3 cylinder assembly, including the fractured intake 
+valve, revealed that the valve was fractured in the stem in two places and through the head in one place. 
+The interior of the cylinder exhibited damage consistent with impacts from the fractured valve. The 
+connecting rod was intact, but the bearings were worn through both the babbit and copper layers. 
+Examination of the fracture surfaces revealed fatigue cracks initiating from the fillet radius between the 
+valve stem tip and the key area of the stem shaft. The other fractures were consistent with overstress.
+Further examination of the engine case revealed that all eight hydraulic valve tappet plungers were 
+installed 180° opposite of the proper installation contained in the manufacturer's overhaul manual. The 
+reversed installation of the plunger would have adversely affected the operation of the No. 3 cylinder's 
+intake valve and placed an abnormal load on the valve's tip. A review of the engine's maintenance 
+logbook revealed that the engine had been repaired about 35.7 hours before the accident. At that time, all 
+four cylinders were removed and replaced, including the hydraulic valve tappet plunger assemblies. 
+Given that the cylinders had been recently removed and reinstalled on the engine, including the 
+hydraulic valve tappet plungers, it is likely that the engine experienced a partial loss of engine power 
+due to maintenance personnel's improper installation of the No. 3 cylinder's hydraulic valve tappet 
+plunger.

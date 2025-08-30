@@ -1,0 +1,41 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Kingsville, Texas
+Accident Number:
+CEN18FA147
+Date & Time:
+April 25, 2018, 12:25 Local 
+Registration:
+N12377
+Aircraft:
+North American SNJ 5
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot, who was the owner of the vintage military trainer airplane, and a pilot-rated passenger 
+were conducting a right turn just after takeoff, while still over the runway surface. Witnesses reported 
+that the airplane's bank angle exceeded 90° and the highest altitude achieved was 200-300 ft. above 
+ground level. The airplane then descended nose low and impacted a the ground less than 1 minute after 
+takeoff. Radar data indicated that the airplane's average airspeed during the final portion of the flight 
+was 87 mph and the bank angle reached about 56°, which would have resulted in a load factor of about 
+1.8g. Airplane performance data indicated that the accelerated stall speed at this load factor was about 
+95 mph, thus it is likely that, during the turn, the airplane exceeded its critical angle of attack and 
+entered an accelerated stall at an altitude too low for the pilot to recover. Postaccident examination of 
+the airplane did not reveal any anomalies that could be attributed to a preimpact mechanical deficiency.
+The airplane was equipped with tandem seating and dual flight controls; the owner was seated in the 
+front seat and the passenger was seated in the rear seat. The removable rear cockpit control stick was 
+found outside of the airplane, and it could not be determined if the stick was installed at the time of the 
+accident. No conclusive determination could be made as to which occupant was manipulating the 
+controls during the accident sequence.
+The private pilot was using decongestant and allergy medications. Toxicological testing identified 
+diphenhydramine, a sedating antihistamine, at levels that were likely impairing; however, the extent to 
+which this contributed to the accident could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

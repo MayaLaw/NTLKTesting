@@ -1,0 +1,29 @@
+{
+    "Filename": "99107.txt",
+    "Location": "Compton, California",
+    "Accident Number": "WPR19FA095",
+    "Date & Time": "March 13, 2019, 18:50 Local",
+    "Aircraft": "North American T28 (A1); Cessna",
+    "Registration": "N5440F (A1); N48962",
+    "Flight Conducted Under": "Part 91: General aviation - Personal (A1); Part 91: General aviation - Instructional (A2)",
+    "Aircraft Damage": "Minor (A1); Destroyed",
+    "Defining Event": "Runway incursion veh/AC/person",
+    "Injuries": "1 None (A1); 1 Fatal, 1",
+    "Analysis": {
+        "Text": "student pilot flight instructor cessna landing nontowercontrolled airport north american t28 collided cessna behind fatally injuring student radar data indicated t28 overflew airport joining downwind leg traffic pattern landing runway time cessna final approach pilot t28 reported bright sun haze created glare windscreen obscured forward vision making difficult see directly ahead glare became worse descended toward runway final approach t28 pilot saw cessna ahead runway collision occurred instructor onboard cessna could recall detail flight reported student would made radio call airport common traffic advisory frequency ctaf approached airport landing ctaf recorded radio frequency setting cessna could determined due thermal damage examination t28 revealed radio tuned airport ctaf therefore t28 pilot neither receiving position report aircraft traffic pattern broadcasting position circumstance accident consistent t28 pilot failure see avoid cessna landing reduced visibility due sun glare likely failure monitor use ctaf contributed accident probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "cessna",
+                7
+            ],
+            [
+                "t28",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

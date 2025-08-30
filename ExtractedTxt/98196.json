@@ -1,0 +1,29 @@
+{
+    "Filename": "98196.txt",
+    "Location": "Fort Walton Beach, Florida",
+    "Accident Number": "CEN18FA358",
+    "Date & Time": "August 30, 2018, 10:30 Local",
+    "Aircraft": "Beech B60",
+    "Registration": "N1876L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "4 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot three passenger departed crosscountry flight twinengine airplane flight neared destination airport pilot canceled instrument flight rule ifr clearance approach controller transferred flight tower controller pilot reported tower controller airplane 2 mile airport however approach controller contacted tower controller report airplane 200 ft nearby joint military airport time gps data revealed pilot reported airplane 2 mile destination airport airplane actual location 10 mile destination airport 2 mile joint military airport airplane impacted remote wooded area 8 mile northwest destination airport time accident thunderstorm cell area review weather information revealed pilot view airport likely obscured airplane area light precipitation restricting pilot visibility review airport information noted ifr approach course destination airport pass joint military airport federal aviation administration chart supplement destination airport noted airport proximity airport however likely pilot mistook airport destination airport due reduced visibility weather accident circumstance consistent controlled flight terrain ethanol detected pilot blood specimen urine specimen consistent postmortem bacteria production carbon monoxide cyanide detected pilot blood specimen consistent inhalation postimpact fire probable cause finding",
+        "Top Words": [
+            [
+                "airport",
+                16
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

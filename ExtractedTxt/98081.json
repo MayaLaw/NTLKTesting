@@ -1,0 +1,29 @@
+{
+    "Filename": "98081.txt",
+    "Location": "Barter Island, Alaska",
+    "Accident Number": "GAA18CA491",
+    "Date & Time": "August 15, 2018, 17:09 Local",
+    "Aircraft": "Cessna U206",
+    "Registration": "N206JM",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported turning left runway onto taxiway wind gust lifted right wing airplane flipped came rest taxiway airplane sustained substantial damage right wing vertical stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 17 minute accident wind 250 35 knot gusting 44 knot pilot landed airplane runway 25 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateral control taxiing gusting wind condition",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97836.txt",
+    "Location": "Hyrum, Utah",
+    "Accident Number": "WPR18LA199",
+    "Date & Time": "July 19, 2018, 09:50 Local",
+    "Aircraft": "Cub Crafters CC19",
+    "Registration": "N70DD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "airline transport pilot relocating airplane owner private ranch pilot stated flight ordered fuel airplane however fuel truck arrived checked fuel level using fuel quantity sight gauge inside airplane realized full declined airplane refueled pilot stated visually verify fuel level fuel tank use dipstick pilot added flight dealing malfunctioning hangar door received telephone call work call ended conducted preflight inspection airplane attempted close hangar door pilot attempted start engine battery dead charged started engine took 45 minute departure cruise flight mountainous terrain engine began lose power pilot turned electric fuel pump noticed slight increase power however shortly thereafter engine lost power pilot initiated offairport landing nearby open area however realized airplane would unable reach maneuvered toward another suitable landing area landing airplane impacted tree terrain came rest upright resulted substantial damage right wing fuselage first responder wreckage recovery company personnel independently confirmed fuel recovered wing tank recovery personnel also reported fuel engine inlet fuel line disassembly postaccident examination airplane revealed evidence preexisting mechanical malfunction failure engine fuel system including fuel quantity sight gauge would precluded normal operation possible due distraction pilot reported experiencing preparing flight correctly read fuel quantity sight gauge preflight inspection likely pilot departed insufficient fuel onboard complete flight led loss engine power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

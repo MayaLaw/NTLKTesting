@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Opelousas, Louisiana
+Accident Number:
+CEN18LA357
+Date & Time:
+August 29, 2018, 11:30 Local 
+Registration:
+N956X
+Aircraft:
+Grumman G164
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was practicing crop-dusting maneuvers when the engine lost total power; he performed 
+a forced landing in an open, muddy field. The airplane nosed over and sustained substantial damage. 
+Postaccident examination of the engine revealed that two of three bolts that secured the left magneto had 
+come loose and were missing. The safety wire was broken, and the Sims coupling was heavily damaged. 
+The magneto could easily be moved around, which disrupted the spark timing and resulted in a total loss 
+of power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of two securing bolts that allowed the left magneto to move around, which disrupted the spark 
+timing and resulted in the engine losing total power.
+Findings
+Aircraft
+Magneto/distributor - Inoperative
+Environmental issues
+Wet/muddy terrain - Contributed to outcome

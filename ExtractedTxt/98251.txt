@@ -1,0 +1,47 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Port Huron, Michigan
+Accident Number:
+CEN18FA371
+Date & Time:
+September 5, 2018, 23:47 Local 
+Registration:
+C-GLKX
+Aircraft:
+Cessna 340A
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The private pilot of the multi-engine airplane was conducting an instrument approach during night visual 
+meteorological conditions. About 1.3 nautical miles (nm) from the final approach fix, the right engine 
+lost total power. The pilot continued the approach and notified air traffic control of the loss of power 
+about 1 minute and 13 seconds later. Subsequently, the pilot contacted the controller again and reported 
+that he was unable to activate the airport's pilot-controlled runway lighting. In the pilot's last radio 
+transmission, he indicated that he was over the airport and was going to "reshoot that approach." The last 
+radar return indicated that the airplane was about 450 ft above ground level at 72 kts groundspeed. The 
+airplane impacted the ground in a steep, vertical nose-down attitude about 1/2 nm from the departure 
+end of the runway. Examination of the wreckage revealed that the landing gear and the flaps were 
+extended and that the right propeller was not feathered. Data from onboard the airplane also indicated 
+that the pilot did not secure the right engine following the loss of power; the left engine continued to 
+produce power until impact. 
+The airplane's fuel system held a total of 203 gallons. Fuel consumption calculations estimated that there 
+should have been about 100 gallons remaining at the time of the accident. The right-wing locker fuel 
+tank remained intact and contained about 14 gallons of fuel. Fuel blight in the grass was observed at the 
+accident site and the blight associated with the right wing likely emanated from the right-wing tip tank. 
+The elevator trim tab was found in the full nose-up position but was most likely pulled into this position 
+when the empennage separated from the aft pressure bulkhead during impact. Examination of the 
+airframe and engine revealed no evidence of mechanical malfunctions or failures that would have 
+precluded normal operation. 
+Although there was adequate fuel on board the airplane, the pilot may have inadvertently moved the 
+right fuel selector to the OFF position or an intermediate position in preparation for landing instead of 
+selecting the right wing fuel tank, or possibly ran the right auxiliary fuel tank dry, which resulted in fuel 
+starvation to the right engine and a total loss of power. The airplane manufacturer's Pilot Operating 
+Handbook (POH) stated that the 20-gallon right- and left-wing locker fuel tanks should be used after 90 
+minutes of flight. However, 14 gallons of fuel were found in the right-wing locker fuel tank which 

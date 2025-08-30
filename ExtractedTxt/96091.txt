@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Old Forge, New York
+Accident Number:
+GAA17CA554
+Date & Time:
+September 21, 2017, 15:45 UTC 
+Registration:
+N233TD
+Aircraft:
+THOMAS J MURRAY KITFOX 
+SUPER SPORT
+Aircraft Damage:
+Substantial
+Defining Event:
+Nose over/nose down
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot in the experimental, amateur-built, tailwheel-equipped airplane, he touched down 
+on a turf surface runway, and the airplane bounced. When the airplane descended to the surface, the 
+right main landing gear wheel and brake assembly separated from the landing gear leg. The pilot 
+reported that the airplane "skidded down" the runway and nosed over.
+The pilot reported that he had recently installed tundra tires on the airplane and that the four bolts that 
+came with the tundra tire kit were not long enough to properly secure the wheel and brake assembly to 
+the landing gear leg. He recalled that he used four bolts that were longer; however, they were not 
+provided by the manufacturer. He asserted that the nuts he used to retain the bolts were provided in the 
+wheel assembly kit.
+The airplane sustained substantial damage to the right-wing strut and the left-wing spar.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The separation of the wheel assembly during landing due to the pilot's use of improper retaining nuts 
+when he installed the tundra tires. 

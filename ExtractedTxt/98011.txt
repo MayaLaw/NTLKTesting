@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Knox, Indiana
+Accident Number:
+CEN18LA319
+Date & Time:
+August 4, 2018, 15:00 Local 
+Registration:
+N533JW
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and three passengers were on a cross-country flight in a single-engine airplane. About 
+10 miles from the destination airport, the pilot switched to the fullest fuel tank, entered the traffic 
+pattern, and reduced the throttle to slow the airplane. While on final approach, he advanced the throttle; 
+however, the engine did not respond. The pilot turned the boost pump on to "emergency – high," but the 
+engine still did not respond. Shortly after, the pilot turned the boost pump off and conducted a forced 
+landing in a field, during which the engine was bent downward from the firewall and the fuselage 
+sustained substantial damage. 
+The on-site examination found sufficient fuel available in each of the wing fuel tanks. Additionally, fuel 
+was present in the fuel lines near the engine's fuel manifold. A detailed engine examination and 
+download of the engine monitor were conducted after airplane recovery. A review of the engine data for 
+the day of the accident found three files. The last file corresponded to the accident flight, and the 
+monitor indicated 30.4 gallons used. The pilot reported the fuel at last takeoff was 33 gallons.
+The engine examination did not find any evidence of mechanical malfunctions or failures that would 
+have precluded normal operation.
+Although data from the engine monitor indicated that the airplane was very low on fuel, the on-site 
+examination showed various levels of fuel available in the fuel tanks. Thus, it is likely that the airplane's 
+engine monitor did not accurately reflect the airplane's correct fuel state. Based on the available 
+evidence, the reason for the total loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

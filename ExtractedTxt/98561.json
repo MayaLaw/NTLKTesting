@@ -1,0 +1,29 @@
+{
+    "Filename": "98561.txt",
+    "Location": "Mountain Rest, South Carolina",
+    "Accident Number": "ERA19LA029",
+    "Date & Time": "October 28, 2018, 18:30 Local",
+    "Aircraft": "Diamond DA20",
+    "Registration": "N653DC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot airplane cruise flight 6500 ft mean sea level engine lost partial power pilot stated selected field forced landing airport within gliding distance descent pilot remedial action restore engine power unsuccessful declared emergency radio secured engine offairport landing airframe sustained substantial damage wing fuselage empennage landing accident several engine start attempted airframe unsuccessful engine removed shipped manufacturer engine start attempted test cell engine ran roughly would run continuously troubleshooting performed internal engine timing ignition timing confirmed ultimately magneto ignition harness required replacement achieve successful engine run disassembly right magneto revealed excessive wear rendered inoperative left magneto required cleaning point operate ignition harness displayed damage due overtightening restraint clamp resulted ignition leak intermittent spark spark plug likely combination discrepancy ignition system ultimately resulted engine partial loss power accident flight probable cause finding national transportation safety board determines probable cause accident partial loss engine power due multiple discrepancy engine ignition system",
+        "Top Words": [
+            [
+                "engine",
+                12
+            ],
+            [
+                "ignition",
+                6
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "93928.txt",
+    "Location": "Bentonville, Arkansas",
+    "Accident Number": "CEN16FA341",
+    "Date & Time": "August 31, 2016, 09:30 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N8283D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot departing uncontrolled airport time another airplane landing opposite direction surveillance video showed accident airplane veer left takeoff roll become airborne unpaved area runway ramp area cross ramp airplane subsequently impacted top hangar destroyed postcrash fire video evidence propeller signature suggest pilot reduce power attempting continue takeoff employee fixed base operator airport reported heard pilot landing airplane announce airport common traffic advisory frequency ctaf airplane position inbound airport intent land airplane accident airport however neither pilot landing airplane heard accident pilot transmit position intention ctaf airplane equipped communication radio suggesting pilot using radio prior takeoff examination accident airplane reveal preimpact failure anomaly toxicology testing pilot revealed presence temazepam schedule iv controlled substance benzodiazepine class sedative intended shortterm treatment insomnia pilot blood concentration temazepam well considered cause significant effect therefore unlikely pilot impaired medication time accident additionally pilot atrial fibrillation treated anticoagulant history slow heart rate treated implanted pacemaker action pilot indicate awake alert evidence suggest impaired due cardiac condition unlikely pilot atrial fibrillation high blood pressure elevated cholesterol insomnia medication used treat condition impaired contributed accident also unlikely pilot slow heart rhythm treated pacemaker contributed accident likely pilot recognize another airplane landing opposite direction initiated takeoff see airplane takeoff roll rather",
+        "Top Words": [
+            [
+                "pilot",
+                14
+            ],
+            [
+                "airplane",
+                11
+            ],
+            [
+                "accident",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+
+--- Cluster 1: Fuel-related issues ---
+  • Fuel contamination
+  • Fuel exhaustion
+  • Fuel related
+  • Fuel starvation
+  • Not Found
+
+--- Cluster 2: "Event Classification" ---
+  • Medical event
+  • Security/criminal event
+
+--- Cluster 3: Aerodynamic instability cluster ---
+  • Aerodynamic stall/spin
+  • Dragged wing/rotor/float/other
+  • Nose over/nose down
+
+--- Cluster 4: Aircraft Maintenance Issues ---
+  • AC/prop/rotor contact w person
+  • Abnormal runway contact
+  • Abrupt maneuver
+  • Aircraft structural failure
+  • Aircraft wake turb encounter
+  • Altitude deviation
+  • Collision during takeoff/land
+  • Course deviation
+  • Ground collision
+  • Hard landing
+  • Inflight upset
+  • Landing area overshoot
+  • Landing area undershoot
+  • Landing gear collapse
+  • Landing gear not configured
+  • Midair collision
+  • Navigation error
+  • Runway excursion
+  • Runway incursion veh/AC/person
+  • Structural icing
+  • VFR encounter with IMC
+  • Wrong surface or wrong airport
+
+--- Cluster 5: Avionics System Failures ---
+  • Controlled flight into terr/obj (CFIT)
+  • Electrical system malf/failure
+  • Flight control sys malf/fail
+  • Powerplant sys/comp malf/fail
+  • Sys/Comp malf/fail (non-power)
+
+--- Cluster 6: **Noun Phrase Label:**
+**Non-Incident Events** ---
+  • Collision with terr/obj (non-CFIT)
+  • Explosion (non-impact)
+  • Fire/smoke (non-impact)
+  • Miscellaneous/other
+  • Unknown or undetermined
+  • Windshear or thunderstorm
+
+--- Cluster 7: Aviation Incident ---
+  • Birdstrike
+  • Tailstrike
+
+--- Cluster 8: Control System Failures ---
+  • Loss of control in flight
+  • Loss of control on ground
+  • Loss of engine power (partial)
+  • Loss of engine power (total)
+  • Loss of lift
+  • Loss of visual reference
+  • Part(s) separation from AC
+  • Uncontained engine failure
+
+--- Cluster 9: Aviation Operations Event ---
+  • Air traffic event
+  • Aircraft loading event
+  • Cabin safety event
+  • Ground handling event
+  • Low altitude operation/event
+  • Preflight or dispatch event
+
+--- Cluster 10: Wildlife Encounter ---
+  • Other weather encounter
+  • Turbulence encounter
+  • Wildlife encounter (non-bird)

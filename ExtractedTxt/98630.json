@@ -1,0 +1,29 @@
+{
+    "Filename": "98630.txt",
+    "Location": "Ramona, California",
+    "Accident Number": "WPR19LA023",
+    "Date & Time": "November 10, 2018, 07:52 Local",
+    "Aircraft": "Vans RV7A",
+    "Registration": "N5433T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "takeoff first flight since airplane built engine began lose power passenger conducted series troubleshooting step pilot flew airplane unable restore engine power pilot landed rockcovered field airplane came rest upright postimpact fire ensued consumed airplane postaccident examination engine revealed evidence preexisting mechanical malfunction would precluded normal operation airplane equipped electric constant speed propeller controlled electric propeller controller due postimpact fire damage sustained airplane functional testing propeller control unit could performed due lack available information reason partial loss engine power could determined probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

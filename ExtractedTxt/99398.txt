@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Sutter, California
+Accident Number:
+WPR19LA137
+Date & Time:
+May 5, 2019, 10:06 Local 
+Registration:
+N3630D
+Aircraft:
+Grumman G164
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+Shortly after the pilot transitioned from climb to cruise flight, the engine power suddenly decreased to 
+idle power without any control inputs from the pilot. He attempted to cycle the throttle to restore power 
+but was unsuccessful. The pilot jettisoned the fertilizer payload he was carrying and initiated a forced 
+landing to a nearby dirt road. The airplane impacted the ground short of the road and collided with trees 
+before it came to rest, substantially damaging the wings and fuselage. The engine continued to run at 
+idle power after the airplane came to rest. 
+Examination of the airplane found that an interconnect linkage between the fuel control unit (FCU) and 
+propeller governor had separated from its mount and the bolt, nut, spacer and cotter pin normally used to 
+secure the FCU interconnect rod to the FCU actuating lever were missing. Additionally, the cam 
+designed to adjust the FCU and propeller governor conditions simultaneously through cockpit control 
+inputs had fractured. This fracture was the result of overstress and likely occurred after the interconnect 
+linkage separated.
+Based on the design of the FCU, it is likely that the loss of power occurred when the FCU interconnect 
+linkage disconnected in flight, which caused the FCU to revert to its idle power condition. The engine 
+examination revealed no further anomalies, and the pilot reported that the engine continued to function 
+on idle power after the airplane came to rest. As maintenance records indicated that the FCU 
+intermediate linkage had recently been removed, it is likely that maintenance personnel disconnected the 
+interconnect rod for easier access to the FCU. However, as the securing hardware was not recovered, the 
+actual circumstances that led to the separation of the bolt, nut, and washer from the FCU could not be 
+determined. 
+Probable Cause and Findings

@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bumpass, Virginia
+Accident Number:
+GAA18CA270
+Date & Time:
+May 9, 2018, 16:30 Local 
+Registration:
+N334JS
+Aircraft:
+JETSON'S AVIATION LLC AIRCAM
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the airplane reported that, during touchdown on a paved runway, the airplane encountered a 
+wind gust and then became airborne. The pilot added full power to go around, but the left wing 
+aerodynamically stalled, and the left float struck the runway, which resulted in a cartwheel.
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation station, located 11 miles west of the accident airport, reported that, 
+about the time of the accident, the wind was from 040° at 7 knots. The airplane landed on runway 8.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during a go-around.

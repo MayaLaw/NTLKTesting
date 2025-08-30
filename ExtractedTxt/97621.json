@@ -1,0 +1,29 @@
+{
+    "Filename": "97621.txt",
+    "Location": "Malin, Oregon",
+    "Accident Number": "GAA18CA383",
+    "Date & Time": "June 27, 2018, 07:47 Local",
+    "Aircraft": "GRUMMAN ACFT ENG COR-",
+    "Registration": "N151QC",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported agricultural application flight misjudged approach enough clearance avoid power line airplane began sink pulled back flight control stick subsequently airplane aerodynamically stalled struck power line airplane sustained substantial damage fuselage empennage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot misjudgment approach subsequent exceedance airplane critical angle attack agricultural application flight resulted aerodynamic stall collision power line",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

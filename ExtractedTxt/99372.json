@@ -1,0 +1,29 @@
+{
+    "Filename": "99372.txt",
+    "Location": "Santa Rosa, New Mexico",
+    "Accident Number": "ANC19FA018",
+    "Date & Time": "May 5, 2019, 16:00 Local",
+    "Aircraft": "Beech A60",
+    "Registration": "N102SN",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot performing personal crosscountry flight en route intended destination pilot contacted air traffic control report airplane fuel pump issue requested divert nearest airport pilot stated request precautionary declare emergency flight provided information fuel pump airplane approached diversion airport witness observed airplane flying low rolling left impacting terrain postcrash fire ensued examination airframe revealed preimpact mechanical malfunction failure would precluded normal operation postaccident examination review recorded data indicated left engine secured feather position right engine operating high rpm setting left enginedriven fuel pump found fractured examination fuel pump revealed fatigue failure pressure relief valve fatigue failure initiated upward bending one side valve disk progressed around side valve stem crack grew stem separated disk one side began tilt relation disk valve guide due nonsymmetric support caused lower end stem rub valve guide creating wear mark increasing stem tilt would impinged valve guide valve might begun stick closed position valve stuck closed position would able open outlet fuel pressure could rise set point pressure pump driven engine would way pilot shut disconnect bypass instead fuel pressure would continue rise valve unstick thus pilot likely experiencing variable fuel pressure valve became stuck unstuck examination spring seat diaphragm plate contact fuel pump assembly revealed wear mark surface component one mark diaphragm plate two wear mark spring seat two wear mark spring seat",
+        "Top Words": [
+            [
+                "valve",
+                10
+            ],
+            [
+                "fuel",
+                8
+            ],
+            [
+                "pump",
+                6
+            ]
+        ]
+    }
+}

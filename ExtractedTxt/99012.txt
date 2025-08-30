@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Mansfield, Massachusetts
+Accident Number:
+ERA19FA107
+Date & Time:
+February 23, 2019, 12:25 Local 
+Registration:
+N224TA
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+After practicing maneuvers during the instructional flight, the flight instructor and student pilot 
+approached the airport for landing. Witnesses and airport surveillance video indicated that the 
+airplane entered the landing flare, but continued to float down the runway a significant 
+distance, touching down about 2,800 ft down the 3,503-ft-long runway. The pilots then initiated 
+a takeoff (touch-and-go). Although the published airport traffic pattern for the runway indicated 
+left turns, the airplane performed a climb in a steep right bank before slowing and entering a 
+spiraling decent toward a grass area near the airport terminal building. Examination of the 
+wreckage did not reveal any preimpact mechanical malfunctions that would have precluded 
+normal operation of the airplane. It is likely that the flight instructor allowed the airplane to 
+exceed its critical angle of attack during a turning initial climb after a touch-and-go landing, 
+which resulted in an aerodynamic stall and impact with terrain. Although it could not be 
+determined who was flying the airplane at the time of the accident, the flight instructor is 
+ultimately responsible for the safety of the flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight instructor's failure to maintain airplane control during initial climb after a touch-and-
+go landing, which resulted in an exceedance of the airplane's critical angle of attack and an 
+aerodynamic stall.

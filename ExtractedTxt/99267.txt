@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Nome, Alaska
+Accident Number:
+ANC19TA017
+Date & Time:
+April 15, 2019, 09:00 Local 
+Registration:
+N5163E
+Aircraft:
+Cessna A185
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Public aircraft
+Analysis 
+The pilot was conducting a visual flight rules (VFR) cross-country flight in marginal VFR 
+conditions. While en route to his destination, he decided to maneuver off the intended course 
+to surveil a mountainous area in the national park. While maneuvering in that area, he 
+observed deteriorating weather. While he was looking down at the GPS display to confirm that 
+he was navigating properly, the airplane entered instrument meteorological conditions (IMC). 
+The pilot stated that he looked up and “probably” experienced spatial disorientation, so he 
+commenced an instrument scan, confirmed that the wings were level, and started a right 180° 
+turn to return to visual conditions. A review of GPS data indicated that the airplane was 
+established on a relatively steady course about 600 ft above ground level, heading directly into 
+higher terrain, then turned right for 50° and descended at a rate of about 520 ft per minute 
+into terrain. The wreckage came to rest on the slope of a snow-covered ridge and was separated 
+into sections along a 120-ft path, with signatures indicative of high-speed impact in a slight 
+left-wing-low attitude. The fuselage, wings, and empennage sustained substantial damage.
+The weather forecast for the area indicated marginal VFR conditions, which was within the 
+agency’s weather minimums. The pilot reported that while maneuvering to the ridgeline area, 
+he noted “low” and “thick” clouds but felt comfortable because he was flying along the ridgeline 
+that he recognized.
+A review of the pilot’s training records indicated that he was certified by his agency’s 
+department for VFR-only flights and had no recent instrument flight experience. The agency 
+had no instrument training or currency for reciprocating airplane pilots who were assigned to 
+VFR flights. The pilot stated that he did receive simulated instrument training and was taught 
+to turn back 180° for unintentional flight into IMC, although instrument training and 
+inadvertent IMC were not documented on the annual check flight.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97716.txt",
+    "Location": "CORSICANA, Texas",
+    "Accident Number": "GAA18CA403",
+    "Date & Time": "July 7, 2018, 11:00 Local",
+    "Aircraft": "Rockwell 114",
+    "Registration": "N314CT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported practicing softfield takeoff light wind condition nosewheel lifted runway released aft pressure yoke airplane found ground effect felt normal airplane began drift left applied right rudder rudder input little effect landing gear yet retracted landed airplane grass end runway ground roll left wing hit tree went barbed wire fence airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system airport reported time accident wind 100 5 knot pilot departed runway 32 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain runway heading softfield takeoff tailwind resulted rejected takeoff",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

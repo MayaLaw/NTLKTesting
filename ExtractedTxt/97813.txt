@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Fort Rice, North Dakota
+Accident Number:
+CEN18FA277
+Date & Time:
+July 17, 2018, 14:23 Local 
+Registration:
+N24515
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The pilot was conducting his second low-level aerial photography flight that day; the pilot would take 
+the photographs through the left window of the airplane. A review of surveillance data showed the 
+airplane depart from the airport and fly to the target areas for aerial photographs. After the pilot 
+completed the photography work over the target areas, the airplane traveled over a river. The airplane 
+then made several low-level turns over the river, most of which were to the left. The last recorded data 
+point showed that the airplane at 1,700 ft. msl and a groundspeed of 49 knots. The airplane wreckage 
+was found partially submerged in the river. The photographs from the pilot's camera were extracted, and 
+the last several images showed a fish in the river. It was undetermined why the pilot was taking photos 
+of the fish.
+Postaccident examination of the airplane and engine revealed no anomalies that would have precluded 
+normal operation of the airplane.
+Given the temperature and dew point at the time of the accident, the airplane was susceptible to serious 
+carburetor icing at glide power settings. The airplane was equipped with a carburetor temperature 
+system that was installed on the right side of the cockpit. The system had an "ice zone" warning light 
+that illuminated before carburetor ice could form. It is likely that, during the low-level turns to the left 
+over the river, the pilot was focusing on taking photographs through the airplane's left window and did 
+not see that the ice zone light had illuminated. After illumination of this light, a pilot was expected to 
+apply carburetor heat. However, the airplane's carburetor heat was found in the off position. Thus, given 
+the ambient conditions at the time of the accident, it is likely that carburetor ice formed and resulted in a 
+loss of engine power. Because the pilot's attention was diverted while taking photos of a fish in the river, 
+he likely did not notice the loss of airspeed, which resulted in the airplane exceeding its critical angle of 
+attack, and a subsequent low-level aerodynamic stall.
+Before the accident flight, a mechanic who assisted the pilot with refueling the airplane observed that 

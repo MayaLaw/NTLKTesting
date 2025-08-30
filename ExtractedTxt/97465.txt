@@ -1,0 +1,44 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Springfield Township, New Jersey
+Accident Number:
+ERA18FA167
+Date & Time:
+June 13, 2018, 09:07 Local 
+Registration:
+N218BL
+Aircraft:
+RAYTHEON AIRCRAFT COMPANY 
+58
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The private pilot, who was not instrument current, and a passenger departed on an instrument flight rules 
+flight into instrument meteorological conditions. After takeoff, the pilot did not climb to the clearance 
+altitude of 2,000 ft mean sea level (msl), instead leveled off about 500 ft msl. The pilot then began a 
+second climb to a maximum altitude of 1,400 ft, then leveled off, followed by a steep right descending 
+turn to about the base of the clouds about 400 ft. The airplane then began a climb to 1,700 ft msl while 
+the airspeed decreased. While flying in a right bank near the published wings-level, 1-g stall speed, the 
+airplane likely exceeded its critical angle of attack, stalled, and entered a descent. A witness reported 
+hearing a loud engine sound from the low-flying airplane, and last observed the airplane in a slight left 
+bank, although the airplane impacted the ground in a nose and right-wing low attitude.
+Examination of the flight controls, engines, engine systems, and propellers revealed no evidence of 
+preimpact failure or malfunction. While postaccident acceptance testing of autopilot components 
+revealed minor out-of-tolerance conditions, the conditions noted would not have adversely affected 
+proper operation. Although the presence of moisture in the static system could not be ruled out because 
+the static system was destroyed, it is unlikely that was an issue because the ADS-B data for pressure 
+altitude and geometric altitude calculated by the GPS revealed no gross difference.
+The restricted visibility, maneuvering during the transition from takeoff to cruise flight, and the pilot's 
+lack of instrument proficiency provided conditions conducive to the development of spatial 
+disorientation. The airplane's altitude and track variations were inconsistent with its takeoff and 
+departure clearance and the high velocity impact are consistent with the known effects of spatial 
+disorientation. Therefore, it is likely that the pilot became spatially disoriented while flying in 
+instrument meteorological conditions and lost control of the airplane. Contributing to the loss of control 
+was the pilot's lack of recent instrument experience.

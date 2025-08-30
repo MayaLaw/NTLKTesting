@@ -1,0 +1,41 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Chicago, Illinois
+Incident Number:
+OPS18IA015
+Date & Time:
+June 21, 2018, 09:58 Local 
+Registration:
+B-18711
+Aircraft:
+Boeing 747
+Aircraft Damage:
+None
+Defining Event:
+Miscellaneous/other
+Injuries:
+4 None
+Flight Conducted Under:
+Non-U.S., commercial
+Analysis 
+CAL5148 was conducting an ILS autoland approach to runway 10R. Instrument meteorological 
+conditions prevailed at the time of the incident, with an overcast ceiling of 600 feet above ground level 
+(agl), and visibility of 2 and 1/2 miles with moderate rain. These conditions required protection of the 
+ILS critical area by ATC which they did according to FAA Order JO 7110.65, Air Traffic Control. ATC 
+issues control instructions to protect ILS critical areas and avoid signal interference from vehicle traffic 
+and taxiing aircraft when the reported weather is a ceiling of less than 800 feet or visibility of less than 2 
+miles. However, this restriction does not include consideration for preceding arriving or departing 
+aircraft.
+While a previously departed aircraft was airborne and over the ILS critical area, CAL5148 experienced 
+localizer deviations while on short final. In math modelling analysis of this event conducted by the 
+FAA; the results were consistent with the localizer deviations determined from CAL5148 flight data 
+recorder (FDR) data. Specifically, the modelling indicated the deviation beginning at 1/4 mile from 
+threshold would lead the aircraft to turn left to continue to follow the localizer course line during an 
+autoland approach. The FAA National Resource Engineer for Navigation who performed the modelling 
+wrote “I am 90% confident that the location of departing ENY3544 caused sufficient Multipath (signal 
+deflection) to produce a fly left indication to arriving CAL5148.”
+“Multipath” is a term used to describe the distortion of the radiated signal which is caused by the signal 
+being deflected off either stationary or moving objects such as aircraft or vehicles in the localizer or 
+glide slope critical area(s).
+Probable Cause and Findings

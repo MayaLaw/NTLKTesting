@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+CORSICANA, Texas
+Accident Number:
+GAA18CA403
+Date & Time:
+July 7, 2018, 11:00 Local 
+Registration:
+N314CT
+Aircraft:
+Rockwell 114
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while practicing a soft-field takeoff in light wind conditions, as the nosewheel 
+lifted off the runway, he released the aft pressure on the yoke. The airplane "found" ground effect, and 
+"all felt normal." The airplane then began to drift left, so he applied right rudder, but the rudder input 
+had little effect. The landing gear was not yet retracted, so he landed the airplane on the grass off the end 
+of the runway. During the ground roll, the left wing hit a tree and went through a barbed wire fence.
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system at the airport reported that, about the time of the accident, 
+the wind was from 100° at 5 knots. The pilot departed from runway 32.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain the runway heading during a soft-field takeoff with a tailwind, which 
+resulted in a rejected takeoff.

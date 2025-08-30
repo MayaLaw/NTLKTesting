@@ -1,0 +1,29 @@
+{
+    "Filename": "96054.txt",
+    "Location": "Siler City, North Carolina",
+    "Accident Number": "GAA17CA546",
+    "Date & Time": "September 20, 2017, 15:30 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N6250T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot timebuilding crosscountry flight airplane multiple mechanical malfunction fourth leg flight departed airport noticed airplane low fuel flew nearby airport landed added 10 gallon fuel fueling airplane would start pilot asked maintenance personnel jump airplane battery taxi runway noticed radio electronics inoperative continued runway takeoff roll startled loud noise headset believed came airplane communication radio attempted assess problem takeoff roll airplane veered right side runway safety area regaining control taxied back approach end runway performed flight control check engine power check departed airport pilot reported landed nontowered airport check aircraft performed another flight control check engine runup exit airplane starting issue pilot departed destination airport reported landed airplane taxied parking recalled performed postflight check airplane grass grass stain see damage later evening airplane owner informed pilot left wing damaged airplane sustained substantial damage leftwing spar aileron",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airport",
+                5
+            ]
+        ]
+    }
+}

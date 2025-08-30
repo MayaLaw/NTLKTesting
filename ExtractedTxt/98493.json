@@ -1,0 +1,29 @@
+{
+    "Filename": "98493.txt",
+    "Location": "Lakeland, Florida",
+    "Accident Number": "GAA19CA025",
+    "Date & Time": "October 1, 2018, 10:15 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N24752",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according federal aviation administration inspector pilot reported landing airplane landed hard nose landing gear nlg bounced airplane touched nlg collapsed airplane sustained substantial damage engine mount inspector reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard bounced landing nose gear collapsing finding personnel issue aircraft control pilot aircraft landing flare attainedmaintained",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

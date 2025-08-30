@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Groveland, California
+Accident Number:
+GAA18CA584
+Date & Time:
+September 5, 2018, 11:30 Local 
+Registration:
+N119PP
+Aircraft:
+Cessna 305
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, after a three-point landing, the left wing 
+"raised up abruptly," so he corrected with left aileron, but the airplane veered left. He then corrected 
+with right pedal, but the airplane continued left, exited the runway, and ground looped. 
+The airplane sustained substantial damage to the right wing and tail cone. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot reported that the wind was light and variable. An automated weather observation station 
+located about 15 nautical miles from the accident site reported that, about 5 minutes after the accident, 
+the wind was from 170° at 6 knots. The pilot landed the airplane on runway 27. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing with a crosswind, which resulted in a 
+runway excursion and subsequent ground-loop.

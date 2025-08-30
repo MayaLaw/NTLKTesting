@@ -1,0 +1,29 @@
+{
+    "Filename": "97963.txt",
+    "Location": "Grand Prairie, Texas",
+    "Accident Number": "GAA18CA460",
+    "Date & Time": "July 29, 2018, 11:05 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N24144",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "student pilot reported practicing softfield takeoff airplane lifted midfield drifted left flight instructor tried correct airplane struck runway sign spun left flight instructor reported softfield takeoff soon airplane lifted ground student pilot lost composure added calling flight control began fight student flight control yelled let go airplane struck taxiway sign airplane spun left airplane sustained substantial damage left wing flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 15 minute accident wind 210 11 knot student reported wind 220 240 11 knot gusting 18 knot airplane departed runway 17 probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain runway centerline takeoff crosswind",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "student",
+                5
+            ],
+            [
+                "reported",
+                5
+            ]
+        ]
+    }
+}

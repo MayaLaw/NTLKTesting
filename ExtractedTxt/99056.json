@@ -1,0 +1,29 @@
+{
+    "Filename": "99056.txt",
+    "Location": "Palmer, Alaska",
+    "Accident Number": "GAA19CA155",
+    "Date & Time": "March 2, 2019, 12:30 Local",
+    "Aircraft": "Champion 8GCBC",
+    "Registration": "N53910",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot snow skiequipped airplane reported landing touchdown noticed rock sticking snow near intended touchdown point tried change airplane course left left ski contacted snow airplane straight direction travel airplane bounced right ski contacted snow right main landing gear strut failed right wing struck ground airplane came rest airplane sustained substantial damage right wing spar pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateral control landing resulted left ski impacting snow subsequent bounce loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "snow",
+                5
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

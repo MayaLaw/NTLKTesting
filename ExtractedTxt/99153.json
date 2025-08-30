@@ -1,0 +1,29 @@
+{
+    "Filename": "99153.txt",
+    "Location": "Calhoun, Georgia",
+    "Accident Number": "ERA19FA134",
+    "Date & Time": "March 23, 2019, 15:35 Local",
+    "Aircraft": "HOGAN Innovator",
+    "Registration": "N257AR",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot also ownerdesignerbuilder experimental amateurbuilt airplane recent flight experience medical certificate expired 20 year accident flight despite assurance employee would fly airplane second test flight video inside accident airplane showed pilot departed accident flight airplane immediately displayed rapid divergence pitch roll axis demonstrated airplane first test flight airplane remained treetop height throughout upwind leg crosswind turn reached 200 ft ground level level flight downwind leg airplane accelerated rapid pitch oscillation phugoid exhibited handheld radio secured copilot seat shoulder harness pilot seen float cockpit time airplane pitched nose amplitude phugoid progressively increased duration weightlessness displayed time also increased one phugoid audible oil pressure warning heard video ended abruptly pilot became unseated fourth time airplane appeared near treetop height airplane impacted terrain pilot experience accident airplane prototype airplane intended mass produce test pilot completed airplane first flight traffic pattern described significant stability issue captured onboard video said airplane departed controlled flight uncommanded dozen time test pilot able safely land airplane disassembled returned factory modified according accident pilot specification based captured data test pilot observation brought back departure airport taxi testing day accident according employee company pilot pressured investor missed deadline sleepdeprived ill severe cold selfmedicating pressure likely influenced pilot decision test prototype airplane despite lack experience stability issue demonstrated airplane initial test flight",
+        "Top Words": [
+            [
+                "airplane",
+                17
+            ],
+            [
+                "pilot",
+                11
+            ],
+            [
+                "flight",
+                9
+            ]
+        ]
+    }
+}

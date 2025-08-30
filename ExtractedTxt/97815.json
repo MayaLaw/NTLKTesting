@@ -1,0 +1,29 @@
+{
+    "Filename": "97815.txt",
+    "Location": "Vinton, Iowa",
+    "Accident Number": "CEN18LA278",
+    "Date & Time": "July 17, 2018, 13:45 Local",
+    "Aircraft": "Aero Commander S2R",
+    "Registration": "N5553X",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot stated final approach slowed airplane landing airplane crossed end runway reduced throttle back airplane would slow executed goaround goaround engine lost partial power would respond pilot throttle input pilot executed forced landing cornfield airplane sustained substantial damage fuselage empennage examination throttle control system revealed interlocking teeth mechanism carburetor lever stop assembly throttle control lever worn lost integrity interconnect teeth lever stop assembly severely worn thus likely accident flight pilot actuated throttle control lever throttle control system failed worndown teeth lever stop would engage teeth mating throttle control lever caused loss throttle lever input allowed engine enter low rpm condition material examination also noted mismatch hardness associated part although hardness value typical respective part composition microstructures mismatch hardness lent higher wear rate review airplane maintenance record revealed carburetor removed overhaul reinstalled 135 hour accident likely maintenance personnel reinstalled worn part without thoroughly inspecting probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "throttle",
+                8
+            ],
+            [
+                "lever",
+                7
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

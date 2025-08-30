@@ -1,0 +1,45 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Louisburg, North Carolina
+Accident Number:
+ERA19FA113
+Date & Time:
+March 1, 2019, 19:21 Local 
+Registration:
+N26617
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot had planned to conduct a personal, instrument flight rules (IFR) flight in night 
+instrument meteorological conditions (IMC). The clearance that the pilot received from air traffic 
+control stipulated that after departure, the airplane was to turn about 50° left of the runway heading. 
+Radar data showed that the airplane instead climbed along the departure runway heading for about 1 
+minute, and witnesses described that the airplane entered IMC around 200 to 300 feet above the ground. 
+When the airplane reached an altitude of about 860 ft above ground level (agl), it entered a right turn. 
+The airplane reached the top of its climb about 930 ft agl, and continued a tightening right turn while 
+descending at an estimated rate of about 6,000 feet per minute. The pilot did not contact air traffic 
+control and radar contact was lost in the vicinity of the accident site. Postaccident examination of the 
+airplane revealed no preimpact mechanical anomalies that would have precluded normal operation.
+About 1 hour before the airplane departed, the pilot obtained an online weather briefing from a 
+commercial vendor. The information in the briefing indicated that the airplane would be operating in 
+IFR conditions with severe turbulence reported along the anticipated route of flight. The restricted 
+visibility and low-level instrument meteorological conditions at night were conducive to the 
+development of spatial disorientation. In addition, the airplane's flight track, which included altitude and 
+directional changes that were inconsistent with the flight's clearance instructions, and the rapidly 
+descending right turn, were consistent with the known effects of spatial disorientation. It is likely that 
+the pilot developed spatial disorientation during the flight, which led to a loss of control.
+A sedating, over-the-counter antihistamine (Cetirizine) was found in postaccident toxicology specimens 
+taken from the pilot; however, the levels of the drug measured were three times below the therapeutic 
+level. Additionally, ethanol was also detected in the some of the pilot's blood specimens but was not 
+detected in the pilot's brain or muscle specimens. As a result, the ethanol detected was most likely from 
+sources other than ingestion; thus, the pilot's use of cetirizine and the identified ethanol did not 
+contribute to this accident.

@@ -1,0 +1,29 @@
+{
+    "Filename": "99365.txt",
+    "Location": "Woodland, Washington",
+    "Accident Number": "WPR19LA132",
+    "Date & Time": "May 1, 2019, 10:30 Local",
+    "Aircraft": "OTTERBACK Lightning",
+    "Registration": "N106AL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported uneventful flight experimental airplane set landing 1200 foot reduced throttle idle turned carburetor heat entered traffic pattern turning final pilot began reach throttle propeller stopped spinning engine lost complete power engine roughness abnormal noise since airplane 50 ft ground pilot continued land onto runway airplane bounced touched back airplane departed left side runway pilot redirected airplane back toward runway surface nose gear collapsed rough grass nearest weather reporting station indicated temperature 13c dewpoint 4c review carburetor icing probability chart revealed given temperature dewpoint condition line serious icing glide power serious icing cruise power telephone conversation pilot reported carburetor heat system take hot air near muffler keep carburetor icing likely carburetor accumulated ice cruise flight carburetor heat applied pilot reduced throttle idle sufficient remove carburetor ice resulted loss engine power probable cause finding national transportation safety board determines probable cause accident complete loss engine power due carburetor icing",
+        "Top Words": [
+            [
+                "carburetor",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

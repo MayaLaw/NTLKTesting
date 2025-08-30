@@ -1,0 +1,42 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Mountain Ranch, California
+Accident Number:
+WPR17FA125
+Date & Time:
+June 9, 2017, 14:30 Local 
+Registration:
+N3717Q
+Aircraft:
+Beech 95 C55
+Aircraft Damage:
+Destroyed
+Defining Event:
+VFR encounter with IMC
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The instrument-rated commercial pilot departed on a 46-nautical-mile visual flight rules (VFR) flight in 
+the multiengine airplane. Radar data indicated that, as the airplane approached the destination airport at 
+an altitude about 500 ft above ground level, it turned northwest and climbed and appeared to be heading 
+toward a nearby airport. The airplane then entered a right turning descent. The final radar target 
+associated with the airplane was at 3,649 ft mean sea level (about 700 ft agl) about 1 nautical mile north 
+of the accident site. 
+The pilot received two weather briefings before departing on the accident flight, the second about 45 
+minutes before departure. During the second briefing, the pilot was provided AIRMETs Tango and 
+Sierra for moderate turbulence and mountain obscuration due to clouds and mist, valid for the route of 
+flight and the area of the destination airport.  The pilot was also advised during this briefing that VFR 
+flight was not recommended. 
+Review of weather information revealed the presence of multiple cloud layers in the area of the accident 
+site around the time of the accident, including scattered clouds at 1,600 ft above ground level (agl), a 
+broken ceiling at 2,900 ft, and an overcast ceiling at 6,500 ft.
+Despite the forecasts indicating marginal VFR conditions for the destination airport, the pilot chose to 
+depart and continue into an area of low cloud ceilings and rising terrain. It is likely that, while 
+maneuvering at low altitude, the terrain was obscured or the pilot's in-flight visibility was limited by the 
+cloud conditions, which resulted in controlled flight into terrain.
+Witness marks in the trees and damage to the airplane were consistent with a controlled flight into 
+terrain event. The airframe and engine examination revealed no mechanical anomalies that would have 
+precluded normal operation.

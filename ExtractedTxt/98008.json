@@ -1,0 +1,29 @@
+{
+    "Filename": "98008.txt",
+    "Location": "Pomona, Missouri",
+    "Accident Number": "CEN18LA317",
+    "Date & Time": "August 6, 2018, 12:51 Local",
+    "Aircraft": "Cessna 120",
+    "Registration": "N76524",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot reported departed airport local flight wing fuel tank full fuel fuel selector left tank flying 1 hour landed airport departed airplane 500 ft ground level pilot intended change fuel selector right fuel tank however inadvertently switched fuel selector position engine lost power pilot immediately switched fuel selector back left fuel tank attempted restart engine without success executed forced landing field landing rollout airplane collided fence hay bale resulted substantial damage pilot mismanaged fuel flight resulted fuel starvation probable cause finding national transportation safety board determines probable cause accident pilot inadequate fuel management resulted fuel starvation forced landing",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "tank",
+                4
+            ]
+        ]
+    }
+}

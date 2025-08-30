@@ -1,0 +1,29 @@
+{
+    "Filename": "97292.txt",
+    "Location": "Jasper, Alabama",
+    "Accident Number": "WPR18LA144",
+    "Date & Time": "May 21, 2018, 12:30 Local",
+    "Aircraft": "Ryan Navion",
+    "Registration": "N4356K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Midair collision",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "takeoff practice formation flight four airplane lead pilot briefed pilot instruction formation change flight began fingerfour heavyleft formation separation airplane 80 ft airplane neared destination lead pilot called flight maneuver parade airplane closed separation 40 ft lead pilot called flight change echelonright formation two pilot trail airplane left lead airplane began maneuver right position behind airplane already position right side lead airplane maneuver pilot airplane opposite rightside airplane lost sight airplane due sun glare subsequently collidedboth airplane able land destination airport probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance another airplane formation flight due sun glare",
+        "Top Words": [
+            [
+                "airplane",
+                13
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "formation",
+                5
+            ]
+        ]
+    }
+}

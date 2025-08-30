@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hallsville, Missouri
+Accident Number:
+CEN17LA352
+Date & Time:
+September 13, 2017, 17:17 Local 
+Registration:
+N5906F
+Aircraft:
+Cessna 210G
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, while in cruise flight, a total loss of engine power occurred. After 
+unsuccessful attempts to restart the engine, he landed the airplane gear up in a cornfield, which resulted 
+in substantial damage to the fuselage. Postaccident examination of the airplane revealed that the engine 
+mixture control cable had fractured about 9 inches from its attachment point at the engine. A 
+metallurgical examination of the mixture control cable with a scanning electron microscope revealed 
+fracture surface features that were consistent with a fatigue failure. It is likely that the engine mixture 
+control cable fractured in flight, which led to a total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power due to a fatigue failure of the engine mixture control cable.
+Findings
+Aircraft
+(general) - Fatigue/wear/corrosion

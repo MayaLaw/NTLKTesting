@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Wyndmere, North Dakota
+Accident Number:
+GAA19CA158
+Date & Time:
+March 7, 2019, 08:35 Local 
+Registration:
+N726
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The pilot reported that he was hired to conduct a predator control flight. He added that, after completing 
+a right turn to the west, he initiated a climbing left turn to the east, and about 75 ft above ground level, 
+the airplane "banked violently to the right and back to the left about two-three times," descended, and 
+then impacted snow-covered ground. 
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The hiring agency check pilot reported that, during a postaccident flight review with the accident pilot, 
+the pilot did not apply rudder inputs during turns, which resulted in uncoordinated turns, similar to what 
+occurred in this accident. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during an uncoordinated turn while 
+maneuvering at low altitude, which resulted in an aerodynamic stall. 

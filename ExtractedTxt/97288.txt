@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Marlborough, Massachusetts
+Accident Number:
+GAA18CA288
+Date & Time:
+May 20, 2018, 13:15 Local 
+Registration:
+N143RD
+Aircraft:
+DIAMOND AIRCRAFT IND INC DA 
+40
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, the airplane touched down in the first third of the 1,659-ft-long 
+runway, but the airplane did not seem to slow as normal with the brakes applied. He pumped the brakes, 
+but the deceleration was "less than expected." He considered performing a go around but decided to use 
+maximum braking instead. With maximum braking applied, the airplane veered off the runway to the 
+right and impacted a fence.
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+He further reported that, following the accident, he inspected the runway and found solid skid marks 
+from the right tire and broken skid marks from the left tire.
+The pilot reported that, about the time of the accident, the wind was light and variable and 
+predominately from 280°. The automated weather observation station located about 12 miles east of the 
+accident airport reported that, about 19 minutes before the accident, the wind was from 220° at 12 knots. 
+The airplane landed on runway 32. 
+The calculated landing roll with full flaps was 930 ft, and the landing distance over a 50-ft obstacle was 
+2,020 ft. 
+The manufacturer stated that "For a safe landing the landing distance available (LDA) should be at least 
+equal to the landing distance of a 50 ft (15m) obstacle."

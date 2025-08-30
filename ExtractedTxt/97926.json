@@ -1,0 +1,29 @@
+{
+    "Filename": "97926.txt",
+    "Location": "Pickens, South Carolina",
+    "Accident Number": "GAA18CA451",
+    "Date & Time": "July 28, 2018, 11:00 Local",
+    "Aircraft": "Vans RV 6",
+    "Registration": "N24CM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped experimental amateurbuilt airplane practiced two takeoff landing decided refuel airplane refueling airplane flew one pattern flying home airport pilot stated landing flare airplane seemed pushed left wing struck runway airplane landed right main landing gear airplane bounced propeller struck ground airplane exited right side runway stopped airplane sustained substantial damage left wing spar metar airport time accident reported wind calm pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted bounced landing",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

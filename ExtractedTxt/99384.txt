@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Marion, Indiana
+Accident Number:
+GAA19CA246
+Date & Time:
+May 5, 2019, 17:12 Local 
+Registration:
+N96974
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, the airplane landed hard and bounced. He decided to go around, 
+so he added full power, but the nose pitched up sharply. He added that he attempted to lower the nose, 
+but the airspeed decreased, and the airplane "lost lift on [the] right side." He pushed forward on the 
+control yoke, but the airplane drifted right, the right wing aerodynamically stalled, and the airplane 
+impacted the ground next to a taxiway and spun around. A passenger saw a fire in front of the firewall, 
+and all occupants exited the airplane. 
+The airplane was destroyed by postaccident fire.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+A Federal Aviation Administration (FAA) inspector reported that the pilot stated he used nose-up trim 
+during the approach. The pilot also stated that, during the go-around, he attempted to use the electric 
+trim to trim nose down. When the airplane nosed up, the pilot attempted to lower the nose but hesitated 
+due to the airplane being near the ground, and he retracted the flaps. The FAA inspector examined the 
+airplane and found that the trim setting was "just short of full nose up trim."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper trim setting and his exceedance of the airplane's critical angle of attack during a go-
+around, which resulted in an aerodynamic stall.

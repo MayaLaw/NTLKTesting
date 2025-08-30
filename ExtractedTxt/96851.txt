@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+La Center, Washington
+Accident Number:
+WPR18FA104
+Date & Time:
+March 11, 2018, 12:57 Local 
+Registration:
+N4511Y
+Aircraft:
+Piper PA 18-150
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot departed on a personal flight in day visual meteorological conditions to conduct touch-
+and-go takeoffs and landings at a nearby airport. Onboard data indicated that the pilot flew a left traffic 
+pattern at the destination, then overflew the runway. A witness near the accident site saw the airplane 
+climbing about 150 ft above the runway. The airplane turned left and remained in the traffic pattern; the 
+witness stated that the airplane appeared to level off about 250 ft then disappeared from his view. 
+Moments later, he heard a series of three loud bangs, followed by a full-power engine sound, another 
+loud bang, and "an abrupt stoppage of all sounds." Review of recorder data revealed that right before the 
+impact, the airplane's speed was 11 knots groundspeed, with the pitch angle of 8° and the left bank angle 
+of 105° at the GPS altitude of 130 ft.  Survey of the accident site indicated that the airplane impacted a 
+140-ft tall tree while in a left turn and came to rest on the ground about 150 ft south-east from the initial 
+tree strike. Therefore, it is likely that the pilot did not maintain a sufficient altitude necessary to avoid 
+collision with the trees.
+Postaccident examination of the airframe and engine revealed no evidence of any preexisting 
+mechanical malfunctions that would have precluded normal operation, and autopsy and toxicology of 
+the pilot did not reveal any evidence of physiological impairment or incapacitation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain clearance from trees while maneuvering at a low altitude.

@@ -1,0 +1,29 @@
+{
+    "Filename": "99015.txt",
+    "Location": "Ridgeland, South Carolina",
+    "Accident Number": "GAA19CA144",
+    "Date & Time": "February 22, 2019, 15:30 Local",
+    "Aircraft": "Mooney M20J",
+    "Registration": "N201AZ",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor retractablelanding gear airplane reported final student control abnormal weather condition airplane passed runway threshold airplane encountered severe wind shear believed microburst airplane pitched rolled left instructor student added full power go around attempted goaround instructor took control airplane landing gear full flap propeller full forward added airplane simply enough performance climb subsequently airplane drifted left runway impacted gravel hill airplane sustained substantial damage fuselage right wing flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system 14 nautical mile airport reported time accident wind variable 3 knot temperature 73f dew point 68f altimeter 3014 inch mercury cloud 500 ft airplane landed runway 3 pilot reported weather airport wind light variable visibility 10 mile cloud 2000 ft instructor reported wind calm light variable visibility 10 mile cloud 5000 ft instructor reported goaround airplane configuration full flap landing changed airplane pilot operating handbook go around balked landing stated following establishing climb flap reduced takeoff setting probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "instructor",
+                6
+            ],
+            [
+                "reported",
+                6
+            ]
+        ]
+    }
+}

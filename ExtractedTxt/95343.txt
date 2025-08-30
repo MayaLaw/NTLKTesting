@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Tamiami, Florida
+Accident Number:
+ERA17LA202
+Date & Time:
+June 10, 2017, 10:50 Local 
+Registration:
+N881AV
+Aircraft:
+Cessna 172P
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+Following an uneventful preflight inspection of the airplane, the student pilot and the flight 
+instructor taxied and then began their runup checks of the engine. The flight instructor stated 
+that during the runup he noted a “normal” drop in engine rpm when they tested the carburetor 
+heat, both with power on the engine and with the throttle pulled back to idle. The subsequent 
+takeoff takeoff was normal, but at about 350 ft above the ground, the flight instructor heard a 
+slight decrease in engine power; he asked the student pilot if he was guarding the throttle, and 
+he responded that he was. The power then came back. Then, at about 400 ft above the ground, 
+the engine lost power again. The flight instructor stated that this time it was significant, as it 
+dropped to 1,900 rpm and was fluctuating. The flight instructor then took the controls of the 
+airplane, after which the power dropped to 1,100 rpm and continued to fluctuate. There was no 
+available runway remaining and the airplane was losing altitude, so the flight instructor landed 
+the airplane in a grass field on the airport property. He stated that on touchdown, he had very 
+poor braking capability (likely due to the wet grass). The airplane struck a tree with the left 
+wing, then struck the airport fence and substantially damaged the airplane’s wings. 
+Postaccident examination of the airplane revealed an adequate supply of uncontaminated fuel. 
+Test runs of the engine were performed, during which the engine ran without hesitation and 
+displayed no evidence of preimpact failures or malfunctions that would have precluded normal 
+operation. Review of a carburetor icing probability chart revealed that the atmospheric 
+conditions at the time of the accident were conducive to the formation of carburetor ice. Given 
+this information, it is likely that while operating the airplane on the ground prior to takeoff, a 
+period during which the engine would typically be operating at low power, carburetor ice began 
+forming, which continued until the engine began losing engine power during the initial climb.
+Probable Cause and Findings

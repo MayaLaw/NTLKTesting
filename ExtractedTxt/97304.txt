@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Gurdon, Arkansas
+Accident Number:
+CEN18LA189
+Date & Time:
+May 21, 2018, 19:15 Local 
+Registration:
+N138ZX
+Aircraft:
+M-SQUARED AIRCRAFT SPRINT 
+1000
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he and a passenger had just departed on a local, personal flight when the engine 
+“suddenly stopped.” Shortly thereafter, the engine seized, and the airplane began to descend rapidly. The 
+pilot deployed the airplane's ballistic parachute about 200 ft above ground level, and the airplane then 
+landed hard in a residential area, which resulted in substantial damage to the wings and fuselage. The 
+pilot recalled that, during the takeoff and climb, the instruments showed no unusual indications and that 
+the engine made no unusual sounds. 
+Examination of the engine revealed that the top of the MAG piston ring had failed, which resulted in 
+damage to the MAG piston and cylinder walls. Both rubber PTO and MAG carburetor intake sockets 
+were worn and cracked. Complete engine records were not available, and no record was found 
+indicating that the engine had been overhauled during its 23 years of operation. The engine manufacturer 
+recommended that the engine should be overhauled every 300 hours or 5 years, whichever occurred 
+first, and that the rubber carburetor intake sockets should be replaced every 5 years or as signatures of 
+deterioration were detected. Cracked rubber carburetor intake sockets can result in a lean mixture and 
+lead to a piston seizure. The inadequate maintenance of the engine likely led to the failure of the MAG 
+piston ring and the subsequent loss of all engine power due to a piston seizure.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Inadequate engine maintenance, which resulted in the failure of the MAG piston ring and the subsequent 
+total loss of engine power due to a piston seizure.

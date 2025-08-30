@@ -1,0 +1,29 @@
+{
+    "Filename": "99140.txt",
+    "Location": "Chandler, Arizona",
+    "Accident Number": "GAA19CA171",
+    "Date & Time": "March 9, 2019, 15:45 Local",
+    "Aircraft": "Cessna T210",
+    "Registration": "N732SJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot retractablelanding gear equippedairplane reported traffic pattern distracted looking aircraft failed continue landing checklist assumed completed approach reduced power hear landing gear warning horn pilot landed airplane landing gear retracted pilot added recovery process tow truck attempted troubleshoot landing gear warning system still hear landing gear warning horn airplane sustained substantial damage left wing postaccident examination federal aviation administrator inspector revealed landing gear audible warning horn switch bulkhead engine compartment improperly rigged horn sound tested added airplane equipped mirror right wing pilot could used visually check landing gear extended probable cause finding national transportation safety board determines probable cause accident pilot distraction looking aircraft traffic pattern resulted failure follow prelanding checklist extend landing gear landing contributing accident improperly rigged landing gear warning switch prevented audible warning sound",
+        "Top Words": [
+            [
+                "landing",
+                10
+            ],
+            [
+                "gear",
+                9
+            ],
+            [
+                "warning",
+                6
+            ]
+        ]
+    }
+}

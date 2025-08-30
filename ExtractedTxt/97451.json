@@ -1,0 +1,29 @@
+{
+    "Filename": "97451.txt",
+    "Location": "Renton, Washington",
+    "Accident Number": "GAA18CA336",
+    "Date & Time": "June 10, 2018, 14:30 Local",
+    "Aircraft": "AVIAT AIRCRAFT INC A 1",
+    "Registration": "N352AM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot floatequipped airplane reported takeoff towercontrolled waterway gusting crosswind condition felt wind direction shift airplane started lift added strong wind gust lifted left wing right wing dipped impacted water reduced power shut engine impact damaged float connecting rod airplane came rest upright float left float separated fuselage airplane sank airplane sustained substantial damage left wing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system 1 nautical mile accident site reported time accident wind 170 7 knot thunderstorm vicinity according pilot tower reported possibility gust 20 knot pilot departing waterway eastsoutheast probable cause finding national transportation safety board determines probable cause accident pilot inadequate crosswind correction resulted right wing impacting water surface",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

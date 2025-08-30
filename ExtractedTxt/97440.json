@@ -1,0 +1,29 @@
+{
+    "Filename": "97440.txt",
+    "Location": "Moriarty, New Mexico",
+    "Accident Number": "CEN18LA218",
+    "Date & Time": "June 8, 2018, 07:53 Local",
+    "Aircraft": "AEROVODOCHODY L 29 DELFIN",
+    "Registration": "N4323N",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "commercial pilot receiving second training flight purchasing vintage singleengine turbinepowered airplane visual approach pilot flew glidepath slow airspeed allowed sink rate develop subsequently flight instructor assumed control airplane applied full engine power however airplane continued settle impacted terrain 12 mile short runway flight instructor stated let guard final approach intervened quickly enough airplane descended glidepath pilot failure maintain proper glidepath flight instructor delayed remedial action allowed airplane descend hit terrain short runway probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper glidepath visual approach flight instructor delayed remedial action resulted ground impact runway",
+        "Top Words": [
+            [
+                "flight",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

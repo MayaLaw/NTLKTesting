@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Fort Wayne, Indiana
+Accident Number:
+CEN18LA174
+Date & Time:
+May 15, 2018, 14:55 Local 
+Registration:
+N9058F
+Aircraft:
+Cessna 177
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he had departed on a local flight and leveled the airplane at 2,600 ft mean sea 
+level when he observed a drop in engine rpm and heard a "thumping" sound from the engine. The pilot 
+reversed course to return to the airport; the noise increased, he smelled burning oil, and the engine 
+subsequently quit. The pilot conducted a forced landing to a field, during which the nose landing gear 
+collapsed and the wings sustained substantial damage. 
+An examination of the airplane revealed no oil on the engine dipstick; however, oil was coming out of 
+the oil cooler, and oil was visible on the right side of the cowling. Maintenance records indicated that the 
+engine, including the oil cooler, was new and had been installed about 8 hours before the accident flight. 
+An examination of the oil cooler revealed that the leak came from between the plates forming the oil 
+circuit; it was likely due to a defect in the brazed joint between the plates. The engine lost power due to 
+oil starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the oil cooler due to a defect in the brazed joint, which resulted in a loss of engine power 
+due to oil starvation.

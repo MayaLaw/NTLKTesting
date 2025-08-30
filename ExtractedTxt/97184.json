@@ -1,0 +1,29 @@
+{
+    "Filename": "97184.txt",
+    "Location": "Dekalb, Illinois",
+    "Accident Number": "GAA18CA255",
+    "Date & Time": "May 5, 2018, 11:21 Local",
+    "Aircraft": "PPHU EKOLOT KR-030 TOPAZ",
+    "Registration": "N468KM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported flight review landing gusting wind condition airplane ballooned landed hard left main landing gear airplane veered sharply left pilot applied full power go around airplane would climb flight instructor took flight control airplane came rest 400 yard south runway flight instructor reported landing airplane ballooned abruptly dropped onto runway damaging left landing gear airplane veered left pilot applied power go around airplane bounced air added airplane would climb continued bounce multiple time coming rest south runway believed propeller landing gear damage may prevented airplane climbing go around airplane sustained substantial damage fuselage automated weather observation station located airport reported 6 minute accident wind 250 11 knot gusting 16 knot airplane landed runway 27 probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare gusting wind condition flight instructor delayed remedial action",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "landing",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

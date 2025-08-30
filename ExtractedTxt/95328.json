@@ -1,0 +1,29 @@
+{
+    "Filename": "95328.txt",
+    "Location": "Nashville, Tennessee",
+    "Accident Number": "GAA17CA329",
+    "Date & Time": "June 8, 2017, 10:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N4284Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing roll strong wind pushed airplane right unable regain control airplane impacted taxiway sign nosed airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind 020 6 knot airplane landed runway 02 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

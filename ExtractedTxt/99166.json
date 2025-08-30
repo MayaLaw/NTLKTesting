@@ -1,0 +1,29 @@
+{
+    "Filename": "99166.txt",
+    "Location": "Fayetteville, Arkansas",
+    "Accident Number": "GAA19CA177",
+    "Date & Time": "March 24, 2019, 10:30 Local",
+    "Aircraft": "Champion 7EC",
+    "Registration": "N815PB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot floatequipped airplane reported takeoff private lake float plane climb day upon reaching end lake pulled hard yoke avoid power line left wing stalled float plane impacted ground float plane sustained substantial damage wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added time accident wind 190 12 knot gusting 21 knot automated weather observation station 5 nautical mile accident site reported time accident wind 190 11 knot airplane departed lake 180 heading probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack takeoff attempted avoid power line resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

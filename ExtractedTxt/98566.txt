@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Elba, Alabama
+Accident Number:
+ERA19LA031
+Date & Time:
+October 28, 2018, 15:00 Local 
+Registration:
+N20BK
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+During the takeoff roll on an instructional flight, the instructor noticed that the airspeed was not 
+increasing above 50 knots. He aborted the takeoff, during which the airplane overran the runway end 
+and collided with a berm, resulting in substantial damage. The airplane was recovered for examination 
+and a pitot-static system test revealed significant errors in airspeed indication due to a leak in the system. 
+The airplane’s maintenance logs were not provided for review, and the maintenance history of the pitot-
+static system could not be determined. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A leak in the pitot-static system for reasons that could not be determined based on the 
+available information, which resulted in an airspeed indication error, an aborted takeoff, and a 
+subsequent runway overrun.
+Findings
+Aircraft
+(general) - Malfunction
+Environmental issues
+(general) - Contributed to outcome

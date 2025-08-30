@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Brainerd, Minnesota
+Accident Number:
+CEN18LA302
+Date & Time:
+July 30, 2018, 10:00 Local 
+Registration:
+N1856W
+Aircraft:
+Beech A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and passenger were on a 2-hour personal flight. Midway to the destination, the pilot switched 
+the fuel selector from the right fuel tank to the left fuel tank. While on a visual approach about 1 hour 
+later, the engine lost power. The pilot's attempts to restart the engine were unsuccessful, and he made a 
+forced landing into trees, which resulted in damage to both wings. 
+One week before the accident, while the pilot was flying the same route, the engine lost power while on 
+a visual approach. The pilot switched the fuel selector from the left tank to the right tank and landed 
+uneventfully. After landing, he switched from the right tank to the left tank and repeated the process 
+twice; the engine lost power both times with the left tank selected. Maintenance personnel were unable 
+to determine a cause for the power loss events, and the pilot flew the airplane back to his home airport 
+without incident. The accident occurred on the next flight. 
+A review of engine data indicated that the four power loss events occurred when the left fuel tank was 
+about half full (19 gallons) and that they were consistent with an interruption of fuel supply to the 
+engine. 
+Examination of the fuel system revealed that the fuel selector left detent was worn; however, because 
+both in-flight power loss events occurred without the pilot moving the fuel selector, this issue is not 
+relevant to the accident. No other anomalies were found with the fuel system, including the left-wing 
+fuel tank (bladder) or venting system. 
+Although the investigation was unable to identify any anomalies with the left fuel tank and venting 
+system, the circumstances of the power loss events are consistent with a loss of fuel flow from the left 
+tank.

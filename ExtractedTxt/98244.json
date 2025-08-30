@@ -1,0 +1,29 @@
+{
+    "Filename": "98244.txt",
+    "Location": "Cut Bank, Montana",
+    "Accident Number": "GAA18CA533",
+    "Date & Time": "September 4, 2018, 19:20 Local",
+    "Aircraft": "Taylorcraft BC12",
+    "Registration": "N95514",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported flying west check field circle friend house began right descending turn 200 ft ground level added aware power wire area sun eye airplane lower thought airplane struck power wire impacted terrain airplane sustained substantial damage wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure see avoid power wire maneuvering low altitude contributing accident pilot inability determine airplane altitude due sun glare",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

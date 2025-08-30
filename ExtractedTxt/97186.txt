@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Warrenton, Virginia
+Accident Number:
+GAA18CA257
+Date & Time:
+May 6, 2018, 10:30 Local 
+Registration:
+N83581
+Aircraft:
+Aeronca 7AC
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+According to the flight instructor in the tailwheel-equipped airplane, the purpose of flight was to provide 
+a "proficiency check" for the pilot in the front seat. The pilot was on the controls and landed the airplane 
+after accomplishing one pattern. During the subsequent takeoff, about 5 ft above ground level, the 
+airplane's right wing "went down," and the pilot applied left stick, but the airplane struck the ground. 
+During an interview with the National Transportation Safety Board investigator-in-charge, the instructor 
+reported that he believed that the airspeed was too slow during the takeoff climb and that the airplane 
+stalled.
+The airplane sustained substantial damage to the right-wing lift struts. 
+The METAR at the airport reported that, about the time of the accident, the wind was from 20° at 4 
+knots. The pilots used runway 15.
+The pilot and instructor reported that there were no mechanical malfunctions or failures with the 
+airplane that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed and his exceedance of the airplane's critical angle of 
+attack during the takeoff initial climb, which resulted in an aerodynamic stall.

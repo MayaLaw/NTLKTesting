@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+San Luis Obispo, California
+Accident Number:
+WPR18LA264
+Date & Time:
+September 14, 2018, 17:18 Local 
+Registration:
+N5340Y
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that during the approach to land after a cross-country flight, he lowered the 
+landing gear and felt the gear extending into place. After visually observing the left main landing gear 
+out the window, he thought that everything was normal for landing. As the airplane contacted the 
+runway about 65 to 70 knots, he felt a bump from the right as the nose landing gear contacted the 
+runway. The airplane veered to the right as it exited the runway, then completed a 180° turn before 
+coming to rest in the runway safety area; the right horizontal stabilizer and right elevator impacted the 
+ground and were buckled upward. The pilot reported that he did not remember seeing the landing gear 
+indicator lights during the approach, nor did he hear the landing gear warning horn; however, the pilot 
+was wearing a noise-cancelling headset during the flight that could have prevented him from hearing the 
+warning horn. 
+Postaccident examination of the airplane revealed that the right main landing gear was collapsed. The 
+landing gear extension motor was replaced, and no anomalies were noted when the landing gear was 
+tested; the warning horn sounded, and landing gear indicator lights illuminated during the testing. It was 
+revealed during the examination that the landing gear extension motor on the airplane at the time of the 
+accident was the original pump installed during the airplane's manufacture about 37 years before the 
+accident. The motor was disassembled and had internal wear, which likely prevented the landing gear 
+from fully extending and locking into place during landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

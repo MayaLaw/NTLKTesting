@@ -1,0 +1,29 @@
+{
+    "Filename": "99139.txt",
+    "Location": "Brevard, North Carolina",
+    "Accident Number": "ERA19LA131",
+    "Date & Time": "March 13, 2019, 18:10 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N8905X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot performed preflight inspection airplane undergone maintenance anomaly noted boarded airplane adjusted seat verified locked position shortly beginning takeoff roll seat slid backward unable reach rudder pedal airplane departed left side runway nosed came rest inverted examination revealed pilot seat left front roller housing disengaged seat rail seat rail exhibited scoring top rail likely occurred accident sequence scoring noted side rail roller housing splayed damaged indicating pull rail accident sequence although seat rail hole slightly worn pin exhibit anomaly mechanic stated remove pilot seat perform maintenance completed accident flight however given lack side damage rail fact left front seat roller housing splayed likely roller housing came rail maintenance went unnoticed mechanic pilot resulted seat sliding backward takeoff probable cause finding national transportation safety board determines probable cause accident mechanic failure notice left front seat left front roller housing disengaged seat rail recent maintenance pilot failure detect disengaged roller housing preflight inspection resulted seat sliding backward takeoff subsequent loss airplane directional control",
+        "Top Words": [
+            [
+                "seat",
+                12
+            ],
+            [
+                "rail",
+                9
+            ],
+            [
+                "roller",
+                6
+            ]
+        ]
+    }
+}

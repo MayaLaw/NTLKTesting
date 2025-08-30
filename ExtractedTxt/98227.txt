@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Fulton, Missouri
+Accident Number:
+GAA18CA524
+Date & Time:
+August 28, 2018, 09:25 Local 
+Registration:
+N1211B
+Aircraft:
+Luscombe 8
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing roll, a wind gust pushed 
+the airplane left. The pilot added partial throttle to enhance rudder effectiveness but was unsuccessful. 
+The airplane veered left, exited the runway, and impacted a ditch.
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation station located 10 miles west of the accident airport reported that, 
+about 31 minutes before the accident, the wind was from 180° at 13 knots, gusting to 22 knots. The 
+same automated station reported that, about 29 minutes after the accident, the wind was from 200° at 16 
+knots, gusting to 23 knots and that the peak wind 4 minutes before the accident was from 190° at 27 
+knots. The airplane landed on runway 18.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing in gusting crosswind conditions.

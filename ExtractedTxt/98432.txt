@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+New Orleans, Louisiana
+Accident Number:
+GAA19CA009
+Date & Time:
+October 6, 2018, 11:15 Local 
+Registration:
+N56949
+Aircraft:
+Stearman A75N1(PT17)
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while landing in a crosswind, the tailwheel-equipped biplane was "thrusted 
+downward violently" and landed hard. He added that the biplane then veered right off the runway. He 
+then attempted a go-around, but after applying power, realized the need for full left aileron to maintain 
+heading. He decided to abort the go-around and reduced power to land. During the landing, he used 
+brakes to avoid airport signs in the landing path, the right main tire "got some traction," and the biplane 
+ground looped to the right. 
+The biplane sustained substantial damage to both lower wings and the elevator.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the biplane 
+that would have precluded normal operation.
+The pilot reported that the wind was from 110° at 15 knots and that terrain-induced moderate turbulence 
+existed. The automated weather observation system at the airport reported the following about the time 
+of the accident: temperature 88°F, dew point 75°F, visibility 10 miles, wind from 110° at 11 knots, and a 
+broken layer of clouds at 2,800 ft. The pilot was landing the biplane on runway 18L.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during a crosswind landing.

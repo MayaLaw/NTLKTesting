@@ -1,6 +1,6 @@
 import nltk
 import re
-nltk.download("stopwords")
+from collections import Counter
 
 text = """On March 9, 2024, at 1331 eastern standard time, Southwest Airlines flight 4318 encountered 
 turbulence during initial descent into Baltimore Washington International airport (BWI), 
@@ -28,20 +28,36 @@ airplane at the gate."""
 from nltk.corpus import stopwords
 stop_wrds = stopwords.words("english")
 
-print(stop_wrds)
 
 wordtext = nltk.word_tokenize(text)
 
 print("NLTK_WORD Tokenizer: \n", wordtext, "\n\n")
 
-wordtextstop = []
-for word in wordtext:
-    if word not in stop_wrds:
-        wordtextstop.append(word)
-print("Online Method: \n", wordtextstop, "\n")
 
-text = re.sub(r'[^a-zA-Z\s]', '', text)  # Remove punctuation and numbers
+#text = re.sub(r'[^a-zA-Z\s]', '', text)  # Remove punctuation and numbers (ORIGINAL)
+text = re.sub(r'[^\w\s]', '', text) #Remove punctuation
 text = text.lower()  # Convert to lowercase
 words = text.split()  # Split into words
 words = [word for word in words if word not in stop_wrds]
 print("GitHub Method: \n", words, "\n")
+
+def top_three_words(words: list) -> str:
+    # Handle empty input
+    if not words:
+        return "No words found."
+
+    # Count the frequency of each word
+    word_counts = Counter(words)
+
+    # Find the three most common words
+    most_common_words = word_counts.most_common(3)
+
+    # Format the result
+    result = "Top 3 most used words:\n"
+    for word, count in most_common_words:
+        result += f"'{word}' with {count} occurrence(s)\n"
+
+    return result.strip()
+
+
+print(top_three_words(words))

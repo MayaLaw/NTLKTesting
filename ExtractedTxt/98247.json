@@ -1,0 +1,29 @@
+{
+    "Filename": "98247.txt",
+    "Location": "Midland, Texas",
+    "Accident Number": "GAA18CA536",
+    "Date & Time": "September 2, 2018, 10:00 Local",
+    "Aircraft": "Aeronca 11AC",
+    "Registration": "N86146",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing flared high airplane bounced added airplane touched runway little crossway wing struck runway airplane came rest nosedown attitude airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted bounced landing finding aircraft landing flare attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

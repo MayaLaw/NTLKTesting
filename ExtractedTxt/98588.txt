@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Broomfield, Colorado
+Accident Number:
+CEN19FA022
+Date & Time:
+November 2, 2018, 11:51 Local 
+Registration:
+N287BM
+Aircraft:
+MUSTANG II
+Aircraft Damage:
+Substantial
+Defining Event:
+Turbulence encounter
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and his passenger were returning from a local flight. According to GPS data, the 
+airplane overflew the airport and entered a midfield left downwind leg for the landing runway before 
+turning to the base leg. Multiple witnesses observed the airplane fly at a high speed and a low altitude 
+before it banked sharply, descended toward the ground, and impacted terrain. 
+The damage to the airplane was consistent with the airplane impacting the ground in a nose-low, wings-
+level attitude. Postaccident examination of the airframe and engine revealed no mechanical anomalies 
+that would have precluded normal operations.
+Two AIRMETs that were valid for the accident location and time warned of moderate turbulence and 
+low-level wind shear conditions. Various weather products, including computer model simulations and 
+satellite images, depicted conditions consistent with moderate-to-severe turbulence that were conducive 
+for mountain wave activity near the airport. In addition, multiple pilot reports in the area indicated 
+moderate-to-severe turbulence. The observed wind speeds at the airport directly before and after the 
+accident time were weaker than what was encountered by the accident flight due to the inversion likely 
+staying in place longer at the airport. A weather simulation indicated that the accident airplane was in an 
+area of downdrafts with magnitudes between 200 and 1,000 fpm and updrafts with magnitudes between 
+300 and 1,500 fpm. The airplane was in an area with horizontal wind magnitudes between 20 and 30 
+knots.
+No evidence indicated that the pilot obtained a weather briefing for the intended route of flight; 
+however, even if the pilot had obtained a weather briefing, no weather products at the time of the 
+accident would have specifically mentioned the potential for mountain wave activity.
+The accident flight likely encountered mountain wave and rotor conditions while on final approach to 
+the airport with wind gusting between 30 to 50 knots and updrafts and downdrafts with magnitudes 
+between 500 and 1,500 ft per minute. The pilot was most likely not able to maintain airplane control due 

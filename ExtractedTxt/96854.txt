@@ -1,0 +1,45 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Addison, Texas
+Accident Number:
+CEN18LA119
+Date & Time:
+March 10, 2018, 16:46 Local 
+Registration:
+N422PS
+Aircraft:
+CZECH SPORT AIRCRAFT AS PIPER 
+SPORT
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+According the operator, before the flight, the airplane was serviced with winter-grade 93-octane 
+automotive gas. The flight instructor and one passenger were conducting a local introductory 
+instructional flight; the outside ambient temperature was 81°F. The airplane's recorded data showed that 
+the engine was running for about 18 minutes during engine start-up, taxi, engine run-up, and while 
+holding short of the runway. During the engine run-up, the fuel flow was about 6 gallons per hour (gph), 
+and the fuel pressure was between about 6 and 7 pounds per square inch (psi) at an engine speed of 
+4,000 rpm. 
+Shortly after departure, the pilot stated to an air traffic controller that "we're having vapor lock, we need 
+to come back and land." During the initial climb, the fuel flow increased to a peak of 9 gph, and the fuel 
+pressure decreased to 3.3 psi at 5,025 rpm. The airplane made a climbing left turn to the southeast, 
+continued circling left as the engine surged, and then descended toward the end of the departure runway 
+before the flight track data ended. An airport surveillance video showed that, the airplane subsequently 
+continued descending in a wings-level attitude near the end of the runway before it entered a sharp left 
+bank and then impacted the ground. 
+Examination of the airplane revealed no evidence of any preexisting mechanical malfunctions or failures 
+that would have precluded normal operation. Although the engine manufacturer recommended the use of 
+mogas; however its Engine Operating Manual (EOM) warned to only use “fuel suitable for the 
+respective climatic zone” and that there was a “risk of vapor formation if using winter [grade] fuel for 
+summer operation.” 
+The EOM stated that the fuel flow at takeoff is 7.1 gph. When an engine experiences vapor lock, air 
+enters the fuel flow sensor and causes the unit to spin at a higher rate than if only fuel was passing 
+through, and it is often represented as spikes in fuel flow. Therefore, the fuel flow reaching 9 gph during 
+the initial climb was consistent with vapor lock. It is likely that, due to the use of a winter-grade fuel and 

@@ -1,0 +1,29 @@
+{
+    "Filename": "98715.txt",
+    "Location": "Apalachicola, Florida",
+    "Accident Number": "ERA19FA059",
+    "Date & Time": "November 30, 2018, 18:05 Local",
+    "Aircraft": "Cessna 210",
+    "Registration": "N3995Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot departed second leg crosscountry flight end civil twilight another pilot approaching airport west reported seeing airplane departed east communicating pilot radio soon afterward pilot observed fireball wreckage subsequently found remote unlit marsh 2 mile north airport pilot make distress call radio examination wreckage accident site indicated highenergy nearwingslevel impact shallow descent angle consistent controlled flight terrain landing gear flap wreckage examination revealed evidence preaccident mechanical failure malfunction would precluded normal operation airframe engine accident occurred end civil twilight cloud cover moon would visible lack external lighting cue pilot took area light would conducive development spatial disorientation pilot likely experienced vestibular illusion andor spatial disorientation allowed airplane descend marsh controlled flight pilot diabetes well controlled thus factor accident toxicology testing revealed pilot use venlafaxine antidepressant cognitive impairment associated depression could made pilot susceptible spatial disorientation less able recognize situation respond quickly however given available evidence investigation could determine whether cognitive impairment related depression contributed accident probable cause finding national transportation safety board determines probable cause accident pilot controlled flight terrain result spatial disorientation departure",
+        "Top Words": [
+            [
+                "pilot",
+                11
+            ],
+            [
+                "accident",
+                5
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

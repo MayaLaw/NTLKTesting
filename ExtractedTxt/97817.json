@@ -1,0 +1,29 @@
+{
+    "Filename": "97817.txt",
+    "Location": "Houghton Lake, Michigan",
+    "Accident Number": "CEN18LA280",
+    "Date & Time": "July 8, 2018, 06:43 Local",
+    "Aircraft": "Best Off Skyranger",
+    "Registration": "N4329R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting local private flight airplane sudden loss engine power shortly takeoff pilot reported uneventful takeoff airplane climbed 150 ft ground level engine speed rapidly decreased 6200 rpm 4700 rpm despite pilot corrective action engine continued operate decreased power setting airplane unable maintain altitude pilot reported tree ahead airplane flight path turned wind maneuvered land nearby golf course fairway pilot stated airplane insufficient altitude airspeed flare normally resulted hard landing substantial damage wing empennage pilot reported observe anomaly preflight inspection beforetakeoff engine runup fuel tank contained 12 gallon automotive fuel postaccident engine examination reveal evidence mechanical malfunction failure would precluded normal operation flight although atmospheric condition conducive formation carburetor icing airplane engine equipped carburetor variableventuri design generally prone carburetor icing therefore reason partial loss engine power could determined available evidence probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

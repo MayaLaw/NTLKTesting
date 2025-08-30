@@ -1,0 +1,29 @@
+{
+    "Filename": "98684.txt",
+    "Location": "Sand Creek, Wisconsin",
+    "Accident Number": "GAA19CA074",
+    "Date & Time": "November 21, 2018, 10:45 Local",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N579CP",
+    "Flight Conducted Under": "Part 91: General aviation - Ferry",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported ferry flight climbing airplane cruise altitude engine temperature increased quickly engine surged pilot added switched boost pump adjusted mixture lever deployed ballistic parachute system 3500 ft mean sea level offairport landing field airplane impacted irrigation sprinkler system airplane sustained substantial damage fuselage postaccident examination airplane federal aviation administration faa inspector revealed two air line disconnected torque line line according faa inspector pilot mechanic conducted airplane last maintenance reported airplane flown 7 hour since last maintenance mechanic replaced three cylinder maintenance required removal air line likely maintenance mechanic properly secure air reference line led loss engine power probable cause finding national transportation safety board determines probable cause accident mechanic failure properly secure air reference line resulted loss engine power",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "line",
+                6
+            ],
+            [
+                "engine",
+                4
+            ]
+        ]
+    }
+}

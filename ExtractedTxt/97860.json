@@ -1,0 +1,29 @@
+{
+    "Filename": "97860.txt",
+    "Location": "Brazoria, Texas",
+    "Accident Number": "CEN18LA292",
+    "Date & Time": "July 23, 2018, 12:15 Local",
+    "Aircraft": "Grumman AA5",
+    "Registration": "N74420",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "student pilot flight instructor conducting local instructional flight airplane began shake violently reduction engine power revealed one propeller blade separated midspan flight instructor took control airplane completed uneventful forced landing nearby field postaccident examination revealed several fractured engine mount laboratory examination propeller revealed onehalf one blade fractured examination flat portion fracture surface revealed pattern crack arrest line striation consistent fatigue cracking pattern crack arrest line indicated fatigue cracking emanated trailing edge tip blade damage fracture surface trailing edge tip blade obscured exact initiation point fatigue cracking propeller accumulated 4499 hour since last overhaul 11 hour since last examined annual inspection probable cause finding national transportation safety board determines probable cause accident propeller blade separation due fatigue fracture",
+        "Top Words": [
+            [
+                "blade",
+                5
+            ],
+            [
+                "revealed",
+                4
+            ],
+            [
+                "propeller",
+                4
+            ]
+        ]
+    }
+}

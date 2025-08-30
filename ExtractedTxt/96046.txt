@@ -1,0 +1,34 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Sacramento, California
+Accident Number:
+WPR17LA210
+Date & Time:
+September 20, 2017, 13:14 Local 
+Registration:
+N7330E
+Aircraft:
+Cessna 210
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airplane was occupied by its new owner, a private pilot, and a flight instructor; they had just 
+completed a personal flight. During the landing roll, the main landing gear partially collapsed and the 
+airplane departed the runway surface, resulting in substantial damage to the left horizontal stabilizer. 
+Both pilots gave conflicting statements regarding their roles during the flight but agreed that the landing 
+gear was extended during the landing approach.
+Postaccident examination did not reveal any anomalies with the landing gear system that would have 
+precluded normal operation, and the gear was successfully extended and retracted multiple times using 
+the gear handle during the examination; therefore, the reason for the partial gear collapse could not be 
+determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Partial retraction of the main landing gear during the landing roll for reasons that could not be 
+determined because postaccident examination and functional testing of the gear revealed no anomalies. 

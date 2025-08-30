@@ -1,0 +1,29 @@
+{
+    "Filename": "97553.txt",
+    "Location": "Diamondhead, Mississippi",
+    "Accident Number": "ERA18FA174",
+    "Date & Time": "June 22, 2018, 06:59 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N7239Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "student pilot obtained first solo endorsement 10 day accident accrued 165 hour flight experience day accident performing solo traffic pattern work included fullstop landing taxiing back subsequent takeoff however interpolation radar data timing call report accident indicated pilot performed touchandgo landing accident takeoff flight witness described airplane low altitude airspeed crossed treetop height interstate highway immediately beyond departure end runway airplane disappeared tree examination wreckage site airplane wreckage revealed evidence consistent engine power impact preimpact mechanical anomaly measurement exposed thread flap actuator corresponded fullflap 40 extension setting according manufacturer owner manual flap setting 30 40 recommended time takeoff thus pilot took 40 flap airplane unable attain normal climb speed entered stallmush pilot could recover low altitude probable cause finding national transportation safety board determines probable cause accident student pilot failure retract flap following landing stallmush resulted subsequent fullflap takeoff initial climb",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "accident",
+                5
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97338.txt",
+    "Location": "Payette, Idaho",
+    "Accident Number": "GAA18CA302",
+    "Date & Time": "May 28, 2018, 10:53 Local",
+    "Aircraft": "TAYLORCRAFT AVIATION CORP.",
+    "Registration": "N2004U",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according student pilot tailwheelequipped airplane completed crosscountry flight aborted first landing due crosswind gust left also aborted second landing third approach 60 knot committed landing touching airplane encountered left crosswind gust touched oriented 10 left runway heading bounced airplane veered right exited right side runway added full power aborted landing airspeed slow airplane remained airborne 150 ft landed dirt field nosed airplane sustained substantial damage left wing windscreen student reported time accident wind nw approximately 11 mph indicated garmin pilot app 6 mph crosswind west gusting airplane landed runway 31 nearest metar 6 mile southwest accident site reported time accident wind 300 10 knot student reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

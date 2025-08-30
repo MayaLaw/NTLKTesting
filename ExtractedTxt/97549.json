@@ -1,0 +1,29 @@
+{
+    "Filename": "97549.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "GAA18CA370",
+    "Date & Time": "June 21, 2018, 10:20 Local",
+    "Aircraft": "Cessna 170",
+    "Registration": "N4427B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot floatequipped airplane reported landing touchdown water smooth airplane step reduced flap airplane suddenly veered left applied right rudder reduced engine power left float hit concrete shore bank airplane spun left right wing struck shore airplane sustained substantial damage fuselage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "left",
+                3
+            ]
+        ]
+    }
+}

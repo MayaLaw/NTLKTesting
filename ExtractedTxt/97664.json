@@ -1,0 +1,29 @@
+{
+    "Filename": "97664.txt",
+    "Location": "Clifton, Texas",
+    "Accident Number": "GAA18CA390",
+    "Date & Time": "July 1, 2018, 10:45 Local",
+    "Aircraft": "Cessna 421",
+    "Registration": "N7625Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported short final approaching runway threshold reduced engine power maintain glideslope added full flap applied little left rudder maintain runway heading subsequently airplane sank landed hard nose landing gear collapsed airplane sustained substantial damage engine mount right wing tail rudder pilot also reported approach air traffic controller advised wind destination airport 190 14 knot gusting 18 knot airport automated weather observation station reported 10 minute accident wind 200 14 knot airplane landed runway 14 airport facility directory advised steep drop north runway 14 pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare crosswind condition resulted hard landing",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

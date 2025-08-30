@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Floresville, Texas
+Accident Number:
+ERA18LA270
+Date & Time:
+September 11, 2018, 16:37 Local 
+Registration:
+N969AW
+Aircraft:
+Maule M7
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and the private pilot-rated student, who was in the left seat and was also the 
+airplane owner, were practicing approaches. Upon landing, the pilots heard a loud popping noise, and 
+the instructor then initiated a go-around. Subsequently, the pilot felt vibration under the floorboard. The 
+pilots thought that a tire might have blown. The instructor flew the approach and conducted a three-point 
+landing, and just before the airplane came to a stop, the left main landing gear (MLG) collapsed, which 
+resulted in substantial damage to the left wing.
+An examination of the left MLG revealed that its inboard attachment bolt and nut were missing. After 
+the accident, the bolt was found along the path of the landing rollout. Examination of the attachment bolt 
+revealed that the bolt threads were undamaged. The attachment nut was not found. The right MLG's 
+inboard attachment bolt and nut were found still attached; however, they were loose, with only two to 
+three threads visible past the nut.
+ 
+The inboard attachment bolts were upgraded high-strength bolts. The airframe manufacturer had issued 
+a service letter (SL) that stated that, when using the high-strength bolts, the outboard attachment bolts 
+required the same amount of torque as indicated in the airplane maintenance manual but that the inboard 
+attachment bolts required a higher torque amount than the standard bolts. However, a review of the 
+maintenance manual revealed that it did not include the new, higher torque requirements specified in the 
+SL. Therefore, mechanics who only follow the maintenance manual may not be aware that higher torque 
+values are required.
+ 
+A review of the airplane maintenance records revealed that its last annual inspection was completed 
+about 6 months before the accident. The mechanic who performed the inspection reported that he did not 

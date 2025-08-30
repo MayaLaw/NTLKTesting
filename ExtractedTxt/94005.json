@@ -1,0 +1,29 @@
+{
+    "Filename": "94005.txt",
+    "Location": "Gulkana, Alaska",
+    "Accident Number": "GAA16CA482",
+    "Date & Time": "September 8, 2016, 17:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N13833",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheel equipped airplane reported left wing airplane impacted tree maneuvering low altitude reported continued intended destination landed without incident landed subsequent exam left wing revealed substantial damage left aileron pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance tree maneuvering low altitude finding personnel issue monitoring environment pilot aircraft altitude attainedmaintained environmental issue tree effect equipment",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

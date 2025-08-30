@@ -1,0 +1,29 @@
+{
+    "Filename": "97703.txt",
+    "Location": "Louisburg, North Carolina",
+    "Accident Number": "GAA18CA394",
+    "Date & Time": "July 5, 2018, 15:30 Local",
+    "Aircraft": "Evektor Aerotechnik SPORTSTAR",
+    "Registration": "N902HB",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported completing touchandgo landing without incident takeoff airplane drifted left runway toward wooded area attempted slow stop airplane struck culvert launched airplane back air increased engine power full pitched nose flew airplane back traffic pattern landed without incident taking time gather student took time conduct basic navigation exercise local area became disoriented used airplane gps return departure airport student stated distracted downwind leg due previous runway excursion navigation issue experienced accident flight allowed airspeed decrease resulted airplane stalling making turn base student overcorrected left rudder resulted airplane entering spin subsequently colliding tree airplane sustained substantial damage wing student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "student",
+                5
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

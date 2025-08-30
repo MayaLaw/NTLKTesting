@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Quanah, Texas
+Accident Number:
+CEN19TA131
+Date & Time:
+April 28, 2019, 12:58 Local 
+Registration:
+N602AM
+Aircraft:
+Air Tractor AT 602
+Aircraft Damage:
+Substantial
+Defining Event:
+Low altitude operation/event
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot was conducting aerial application passes parallel to a transmission power line. During the final 
+trim pass, the pilot flew out of the field and over the power line. As he was passing over the power line, 
+the propeller blades struck a wire that he did not see, and the engine lost power. The pilot indicated that 
+he conducted a controlled "crash landing" about 1.5 miles away from the power line strike during which 
+the airplane sustained substantial damage to the fuselage. The pilot further reported that "there was no 
+malfunction prior to hitting the powerline."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain clearance from the power line during a low altitude aerial 
+application maneuver.
+Findings
+Personnel issues
+Monitoring environment - Pilot
+Environmental issues
+Wire - Contributed to outcome

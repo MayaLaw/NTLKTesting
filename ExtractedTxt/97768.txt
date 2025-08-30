@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Geneseo, New York
+Accident Number:
+ERA18LA191
+Date & Time:
+July 13, 2018, 18:00 Local 
+Registration:
+N291CP
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Serious, 2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The commercial pilot reported that, before the accident flight, he repositioned the airplane uneventfully from an 
+airport about 20 miles away. Before takeoff on the accident flight, the pilot performed an engine run-up and 
+verified that all flight controls were free and correct. The pilot then initiated a soft-field takeoff procedure on a 
+bumpy, grass runway. The airplane became airborne in ground effect about 45 knots, and it then began to climb 
+out of ground effect at 60 knots. At that time, the airplane’s nose pitched up abruptly, and the pilot pushed the 
+yoke forward as hard as he could while engaging nose-down electric elevator trim; however, the airplane 
+continued to climb at an excessive angle of attack and subsequently stalled. The airplane then rolled left, 
+descended to the ground, and came to rest inverted. Neither passenger could recall whether the pilot 
+conducted any type of control check or engine run-up before takeoff. 
+Examination of the wreckage did not reveal evidence of any preimpact mechanical malfunctions or failures that 
+would have precluded normal operation. The elevator trim tab was found in a midrange, nose-down position, 
+consistent with the pilot’s statement that he was trimming nose down in an attempt to recover from the loss of 
+control on takeoff. The Before Takeoff – Run-Up checklist stated that the elevator should be trimmed to 20° 
+nose down for takeoff. Given the airplane pitched up abruptly as it began to climb out of ground effect, it is 
+likely that the pilot landed after the previous flight with a nose-up elevator trim setting and that he did not 
+properly reset the elevator trim before takeoff for the accident flight in accordance with the Before Takeoff—
+Run-Up  checklist, which resulted in an exceedance of the airplane’s critical angle of attack during takeoff and 
+the subsequent aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

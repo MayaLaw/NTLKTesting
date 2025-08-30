@@ -1,0 +1,29 @@
+{
+    "Filename": "97164.txt",
+    "Location": "Port Angeles, Washington",
+    "Accident Number": "GAA18CA248",
+    "Date & Time": "May 2, 2018, 08:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N734QQ",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported crosscountry flight mountainous terrain tailwind allowed airplane get close terrain initiated right turn avoid rising terrain terrain getting close quickly pilot increased bank angle nose dropped pilot applied forward pressure yoke full throttle already applied airplane stalled impacted terrain wing fuselage sustained substantial damage recommendation section national transportation safety board pilot aviation accident report pilot reported decision delay turn away rising terrain impulsive main reason accident pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack turn away terrain resulted accelerated stall contributing accident pilot decision delay turn avoid terrain",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "terrain",
+                8
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

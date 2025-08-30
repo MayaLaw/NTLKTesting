@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Colorado Springs, Colorado
+Accident Number:
+WPR19TA034
+Date & Time:
+November 20, 2018, 09:30 Local 
+Registration:
+N27LA
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during a touch-and-go landing, he applied full power to take off and, although 
+the airplane departed the runway surface about 50 knots, it did not accelerate, and the airspeed 
+decreased. The airplane began exhibiting characteristics consistent with a stall and he lowered the nose. 
+The airplane then settled back onto the ground slightly off the left side of the runway surface and 
+continued through a grassy field, a fence, and a ditch. The airplane nosed over and came to rest inverted, 
+resulting in substantial damage. Witnesses reported observing the airplane in a nose-high attitude before 
+it descended from view. The flaps were found extended to 40° at the accident site. 
+The density altitude at the time of the accident was about 7,386 ft, and there was an approximate 4-knot 
+tailwind for the landing runway, which had a 1.4% upslope. According to the Federal Aviation 
+Administration Airport/Facility directory, the opposite runway was recommended for touch-and-go 
+landings in tailwind conditions up to 5 knots. 
+According to the manufacturer's takeoff performance chart, there was adequate runway available for 
+takeoff; however, given the high-density altitude, the tailwind, and the runway upslope, the distance 
+required to conduct a touch-and-go landing and takeoff distance were significantly increased, which 
+resulted in the airplane’s inability to become airborne within the remaining runway. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

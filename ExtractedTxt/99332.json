@@ -1,0 +1,29 @@
+{
+    "Filename": "99332.txt",
+    "Location": "Milton, Louisiana",
+    "Accident Number": "CEN19LA130",
+    "Date & Time": "March 21, 2019, 11:50 Local",
+    "Aircraft": "Cessna L19",
+    "Registration": "N13FM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "cruise flight airplane engine began run rough engine lost power pilot performed forced landing airplane impacted tree resulting substantial damage wing spar fuel found onboard airplane examination engine revealed anomaly would precluded normal operation pilot reported apply carburetor heat following loss engine power atmospheric condition present time accident conducive development serious icing glide power however engine operated cruise power setting loss power occurred reason loss engine power could determined based available information probable cause finding national transportation safety board determines probable cause accident loss engine power reason could determined based available information finding aircraft general unknownnot determined",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "power",
+                7
+            ],
+            [
+                "loss",
+                4
+            ]
+        ]
+    }
+}

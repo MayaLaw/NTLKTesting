@@ -1,0 +1,29 @@
+{
+    "Filename": "97625.txt",
+    "Location": "Phoenix, Arizona",
+    "Accident Number": "WPR18LA181",
+    "Date & Time": "June 26, 2018, 10:20 Local",
+    "Aircraft": "Cessna 172S",
+    "Registration": "N154ME",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor, 2 None",
+    "Analysis": {
+        "Text": "maneuvering local instructional flight engine began running rough instructor decided return airport engine subsequently lost total power propeller stopped rotating instructor performed forced landing clearing airplane nosed resulting substantial damage examination engine revealed crankshaft fractured 4 connecting rod journal fracture surface flat crack arrest line consistent fatigue fracture initiated subsurface flaw embedded particle observed site fatigue initiation engine overhauled 3 year accident accumulated 2798 hour operation since overhaul probable cause finding national transportation safety board determines probable cause accident total loss engine power due crankshaft failure result subsurface fatigue crack",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "fatigue",
+                3
+            ],
+            [
+                "instructor",
+                2
+            ]
+        ]
+    }
+}

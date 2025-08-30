@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Mount Vernon, Ohio
+Accident Number:
+CEN17LA234
+Date & Time:
+June 17, 2017, 13:30 Local 
+Registration:
+N33778
+Aircraft:
+Aeronca 65 CA
+Aircraft Damage:
+Minor
+Defining Event:
+AC/prop/rotor contact w person
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot prepared to hand-prop the airplane, which was not equipped with an electrical starter, 
+by tying the tail down with a nylon rope. The pilot then hand-propped the engine, which started at a high 
+power setting. The airplane moved forward, breaking the rope, and continued to taxi in circles. The pilot 
+and another individual tried to stop the airplane; however, the propeller struck the pilot, resulting in fatal 
+injuries. The airplane eventually came to stop farther down the runway.  Although the pilot attempted to 
+secure the airplane by tying down the tail, the throttle was set at a high engine power setting, allowing 
+the airplane's movement.
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper starting procedure before hand propping the engine, and his subsequent attempt to 
+stop the moving airplane, which resulted in him being struck by the propeller.
+ 

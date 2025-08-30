@@ -1,0 +1,29 @@
+{
+    "Filename": "98121.txt",
+    "Location": "Deadwood, California",
+    "Accident Number": "WPR18LA233",
+    "Date & Time": "August 20, 2018, 16:30 Local",
+    "Aircraft": "Blue Oak LLC. CCK-1865",
+    "Registration": "N14CK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "completing routine maintenance experimental amateurbuilt airplane private pilot decided conduct test flight near departure airport completed preflight inspection ground engine run taxi check normal noted 12 gallon fuel onboard airplane 10 minute departure chose extend flight observe anomaly airplane uneventful period flight airplane 500 ft ground level mountain ridge top engine lost partial power pilot maintained level flight maneuvered airplane toward favorable terrain engine lost total power subsequently pilot performed forced landing small clearing within heavily wooded mountainous terrain landing roll airplane struck tree came rest upright postaccident examination airplane revealed evidence preexisting mechanical malfunction failure engine fuel system including fuel quantity sight gauge would precluded normal operation pilot reported accident noticed leftwing fuel cap fully secured wreckage recovery company personnel indicated rightwing fuel tank void fuel leftwing fuel tank contained 12 gallon fuel review photograph provided wreckage recovery company taken 10 day accident revealed small amount residue discoloration directly aft leftwing fuel filler neck extending trailing edge fuel tank cover likely fuel vented loose fuel cap flight reduced fuel quantity led subsequent loss engine power pilot failed adequately monitor fuel quantity sight gauge flight probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "flight",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98510.txt",
+    "Location": "Camas, Washington",
+    "Accident Number": "GAA19CA027",
+    "Date & Time": "October 13, 2018, 14:30 Local",
+    "Aircraft": "Piper J3C",
+    "Registration": "N6048H",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "flight instructor reported student pilot first solo tailwheelequipped airplane accident occurred landing roll fourth landing added landing roll airplane veered left student attempted correct right rudder input overcorrected unable stop veer airplane continued runway left wing impacted pole airplane sustained substantial damage left wing instructor reported preimpact mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control landing roll",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

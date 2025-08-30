@@ -1,0 +1,29 @@
+{
+    "Filename": "98357.txt",
+    "Location": "DeLeon Springs, Florida",
+    "Accident Number": "ERA18TA263",
+    "Date & Time": "September 23, 2018, 15:45 Local",
+    "Aircraft": "Zenith CH 750",
+    "Registration": "N752VK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilotowner experimental amateurbuilt airplane reported 15 minute local flight engine started skipping completely losing power set forced landing open area descent maneuvered clear power line airplane touched steep descent angle nosed came rest inverted resulted substantial damage airframe airplane engine used electronic control unit instead magneto required least one airplane two onboard battery provide electrical energy ignition system engine operate postaccident examination airplane revealed battery discharged battery charged engine started ran normally alternator also charged battery normally cockpit instrument panel switch enabled alternator supply energy airplane electrical system thus charge airplane battery unlabeled switch placed unlabeled position alternator field wire received power alternator charged normally pilot reported may inadvertently left position flight switch position engine would continued run selected battery lost charge pilot also reported use checklist operating airplane likely pilot failed activate airplane alternator resulted discharge selected battery 15minute flight subsequent loss electrical power eventually resulted total loss engine power additionally airplane equipped alternator warning light recommended engine manufacturer airplane equipped light pilot might realized failed turn alternator providing energy electrical system sustain charge selected battery",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "battery",
+                8
+            ],
+            [
+                "engine",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98322.txt",
+    "Location": "Pagosa Springs, Colorado",
+    "Accident Number": "CEN18LA381",
+    "Date & Time": "September 19, 2018, 10:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N8003W",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airline transport pilot rated flight instructor introducing engine failure emergency procedure student pilot emergency procedure reviewed inflight flight instructor reduced engine power idle simulate loss engine power student pilot conducted emergency procedure left side cockpit included switching fuel tank selector position right left engine sputtered flight instructor subsequently added power go around 600 ft ground engine sputtered emergency procedure reviewed fuel pressure indication zero flight instructor subsequently performed forced landing airplane impacted fencing ditch came rest field following accident flight instructor noticed fuel selector valve 15 2 inch left detent position preimpact mechanical malfunction failure airframe engine would precluded normal operation reported flight instructor engine operational subsequent examination accident airplane accident site likely student pilot conducting emergency procedure mismanaged positioning fuel selector valve student pilot conducting emergency procedure flight instructor adequately supervise student pilot ensure fuel selector valve properly set correct position probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "instructor",
+                7
+            ],
+            [
+                "engine",
+                7
+            ]
+        ]
+    }
+}

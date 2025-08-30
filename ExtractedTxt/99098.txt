@@ -1,0 +1,47 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Madeira, Ohio
+Accident Number:
+ERA19FA124
+Date & Time:
+March 12, 2019, 15:16 Local 
+Registration:
+N400JM
+Aircraft:
+Piper PA31
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The commercial pilot was conducting an aerial observation (surveying) flight in a piston engine-
+equipped multiengine airplane. Several hours into the flight, the pilot advised air traffic control (ATC) 
+that the airplane had a fuel problem and that he needed to return to the departure airport. When the 
+airplane was 8 miles from the airport, and after passing several other airports, the pilot informed ATC 
+that he was unsure if the airplane could reach the airport. The final minutes of radar data depicted the 
+airplane in a descent and tracking toward a golf fairway as the airplane's groundspeed decreased to a 
+speed near the single engine minimum control airspeed.
+According to witnesses, they heard an engine sputter before making two loud "back-fire" sounds. One 
+witness reported that, after the engine sputtered, the airplane "was on its left side flying crooked." 
+Additional witnesses reported that the airplane turned to the left before it "nose-dived" into a 
+neighborhood, impacting a tree and private residence before coming to rest in the backyard of the 
+residence. A witness approached the wreckage immediately after the accident and observed a small 
+flame rising from the area of the left engine. Video recorded on the witness' mobile phone several 
+minutes later showed the airplane engulfed in flames.
+Examination of the wreckage revealed no evidence of any preimpact mechanical malfunctions or 
+failures of either engine. The fuel systems feeding both engines were damaged by impact forces but the 
+examined components generally displayed that only trace amounts of fuel remained; with the exception 
+of the left engine nacelle fuel tank. Given the extent of the fire damage to this area of the wreckage, and 
+the witness report that the post impact fire originated in this area, it is likely that this tank contained fuel. 
+By design, this fuel in this tank was not able to supply fuel directly to either engine, but instead relied on 
+an electric pump to transfer fuel into the left main fuel tank. Fire damage precluded a detailed 
+postaccident examination or functional testing of the left nacelle fuel transfer pump. Other pilots who 
+flew similar airplanes for the operator, along with a review of maintenance records for those airplanes, 
+revealed at least three instances of these pumps failing in the months surrounding the accident. The other 
+pilots also reported varying methods of utilizing fuel and monitoring fuel transfers of fuel from the 
+nacelle fuel tanks, since there was no direct indication of the quantity of fuel available in the tank. These 

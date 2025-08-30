@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+McCall, Idaho
+Accident Number:
+GAA18CA501
+Date & Time:
+August 20, 2018, 10:15 Local 
+Registration:
+N93039
+Aircraft:
+Cessna A185
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Air drop
+Analysis 
+According to the pilot in the tailwheel-equipped airplane, during a wheel-landing, the airplane yawed 
+left, and he applied right rudder to counter the yaw. The tail descended to the runway, and the left yaw 
+increased. He countered the left yaw with a right brake and rudder application. He recalled that the right 
+brake application was "completely ineffective" and that the airplane exited the left side of the runway. 
+The airplane entered the rough gravel surface on the left side of the runway, and the pilot applied left 
+rudder and left brake to intentionally ground loop the airplane. The right wing struck the ground, and the 
+airplane came to a stop. 
+The airplane sustained substantial damage to the right wing and aileron. 
+Postaccident examination of the airplane's brake system by Federal Aviation Administration aviation 
+safety inspectors revealed that the cotter pin and clevis that connects the right brake cylinder connecting 
+rod to the inner right brake pedal connection point was detached, and it was not recovered.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The disconnection of the brake cylinder actuator rod, which resulted in the pilot's inability to maintain 
+directional control during the landing roll.

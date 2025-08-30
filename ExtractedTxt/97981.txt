@@ -1,0 +1,34 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Holland, Michigan
+Accident Number:
+GAA18CA466
+Date & Time:
+July 28, 2018, 09:50 Local 
+Registration:
+N899RV
+Aircraft:
+Vans RV9
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, the airplane bounced. He initiated a go-around, and the airplane 
+then veered left, touched back down on the ground, and impacted trees. 
+The airplane sustained substantial damage to both wings.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain yaw control during a go-around.
+Findings
+Aircraft
+Yaw control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

@@ -1,0 +1,29 @@
+{
+    "Filename": "97930.txt",
+    "Location": "Painesville, Ohio",
+    "Accident Number": "CEN18LA301",
+    "Date & Time": "July 27, 2018, 16:45 Local",
+    "Aircraft": "Flightstar SC II",
+    "Registration": "N953RJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "student pilot reported wife owned accident airplane made multiple practice taxi run runway intention flight one taxi run airplane unexpectedly became airborne student determined enough runway remaining perform safe landing chose continue takeoff airplane reached 100 ft ground level would longer climb attempted land field however airplane struck tree reaching intended field accident student performed maintenance airplane included replacing propeller intended certificated mechanic check work done accident intention flight acknowledged may set propeller pitch correctly could negatively affected airplane performance addition atmospheric condition favorable moderate icing cruise power setting serious icing descent power setting carburetor icing likely accumulated multiple taxi run performed unintentional flight based available information airplane inadvertently became airborne student allowed accelerate flight speed available engine power likely reduced due improper propeller pitch setting carburetor icing condition likely resulted airplane inability continue climb probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

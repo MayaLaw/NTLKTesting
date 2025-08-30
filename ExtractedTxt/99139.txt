@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Brevard, North Carolina
+Accident Number:
+ERA19LA131
+Date & Time:
+March 13, 2019, 18:10 Local 
+Registration:
+N8905X
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot performed a preflight inspection after the airplane had undergone maintenance and no 
+anomalies were noted. He boarded the airplane, adjusted the seat, and then verified that it was locked in 
+position. Shortly after beginning the takeoff roll, his seat slid backward. He was unable to reach the 
+rudder pedals, and the airplane departed the left side of the runway, nosed over, and came to rest 
+inverted. Examination revealed that the pilot seat’s left front roller housing was disengaged from the seat 
+rail. The seat rail exhibited scoring on top of the rail, which likely occurred during the accident 
+sequence. No scoring was noted on the sides of the rail. The roller housing was not splayed or damaged, 
+indicating that it did not pull off the rail during the accident sequence. Although the seat rail holes were 
+slightly worn, the pin did not exhibit any anomalies. 
+The mechanic stated that he did not remove the pilot's seat to perform the maintenance that he 
+completed before the accident flight; however, given the lack of side damage to the rails and the fact that 
+the left front seat roller housing was not splayed, it is likely that the roller housing came off the rails 
+during the maintenance and went unnoticed by both the mechanic and the pilot, which resulted in the 
+seat sliding backward during takeoff.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The mechanic's failure to notice that the left front seat left front roller housing disengaged from 
+the seat rail during recent maintenance, and the pilot's failure to detect the disengaged roller 
+housing during the preflight inspection, which resulted in the seat sliding backward during 
+takeoff and a subsequent loss of airplane directional control.

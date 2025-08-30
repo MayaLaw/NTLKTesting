@@ -1,0 +1,46 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Los Angeles, California
+Accident Number:
+DCA18CA283
+Date & Time:
+August 13, 2018, 04:45 Local 
+Registration:
+N204HA
+Aircraft:
+Airbus A321-271N
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+197 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+On August 13, 2018, about 1645 pacific daylight time, Hawaiian Airlines flight 56, an Airbus A321, 
+N204HA, experienced a tail strike during landing at Los Angeles International Airport (KLAX), Los 
+Angeles, California.  There were no injuries to the 197 passengers and crew onboard. The airplane 
+sustained substantial damage. The domestic passenger flight was operating under 14 Code of Federal 
+Regulations Part 121 from Kahului Airport (PHOG), Kahului, Hawaii, to KLAX.
+The first officer (FO) was the pilot flying and the captain was the pilot monitoring. According to the 
+flight crew, they received a GPWS Fail message on the electronic centralized alert monitoring (ECAM) 
+at about 1,500 feet altitude above the ground (agl) after the airplane was established on the ILS 6R 
+approach.  The flight crew conducted the appropriate ECAM actions, which only required them to turn 
+off the ground proximity warning system (GPWS) and continued the approach. As the airplane 
+descended through about 50 feet agl, the FO realized the electronic automatic altitude callouts were not 
+being provided by the airplane system but did not have time to react. The airplane touched down 
+firmly, bounced, and the pitch attitude increased before it was arrested by the FO, resulting in the 
+tail section contacting the runway. Post flight examination of the airplane found damage to the aft lower 
+skin, as well as several deformed stringers, tie clips, and frames. During the approach, the crew did not 
+receive any automated altitude callouts that are determined by the radio altimeter (RA). The crew only 
+received the “100 above” and “minimums” callouts, both of which are based on barometric altitude. 
+Visual meteorological conditions prevailed with light winds at the time of the approach resulting in the 
+airplane descending over calm water. In February 2018 (updated on August 6, 2018) the manufacturer 
+released a Flight Operations Transmission (FOT) and an Operations Engineering Bulletin in July 2018 
+referencing “No RA Available During Approach Over Water”. The FOT indicated that a new RA had 
+abnormal behavior if the airplane approach is over a flat-water area and may not be available.  
+Subsequent to the accident, the operator issued a Memorandum to Pilots that described the 
+circumstances of the accident and the FOT and issued an Operations Engineering Bulletin, which 
+detailed the required procedures if no RA is available. 

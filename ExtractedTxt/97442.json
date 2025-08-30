@@ -1,0 +1,29 @@
+{
+    "Filename": "97442.txt",
+    "Location": "Sedalia, Missouri",
+    "Accident Number": "CEN18LA220",
+    "Date & Time": "June 7, 2018, 16:45 Local",
+    "Aircraft": "Beech A23",
+    "Registration": "N8775M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot conducting touchandgo landing landed uneventfully four time fifth touchdown soft however airplane suddenly turned 90 left pilot applied right rudder reduced throttle idle airplane departed runway surface right horizontal stabilizer struck light post sustained substantial damage pilot reported left brake locked braking rollout functional check braking system flight control reveal mechanical malfunction failure would precluded normal operation left right wheel brake mechanism functioned properly reported wind condition time accident wind 230 7 knot however pilot indicated checked local weather 20 minute landing reported wind 100 3 knot therefore crosswind component would 130 opposite 4 knot increased pilot previously received pilot likely lost directional control airplane landing due unexpected wind shift probable cause finding national transportation safety board determines probable cause accident pilot loss directional control landing rollout due unexpected wind shift resulted runway excursion",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "wind",
+                5
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Horseshoe Bay, Texas
+Accident Number:
+CEN19LA064
+Date & Time:
+December 28, 2018, 20:15 Local 
+Registration:
+N6202M
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was conducting a personal, cross-country flight with one passenger onboard. The 
+pilot reported that, about 2 1/2 to 2 3/4 hours into the flight, the engine started to lose power. The pilot 
+contacted air traffic control for vectors to the nearest airport. The pilot then checked the gauges and 
+applied carburetor heat. The engine initially responded; however, a few minutes later, the engine lost all 
+power, and the pilot's additional attempts to restore power were unsuccessful. The pilot did not think 
+that the airplane could reach the nearest airport, so he established a glide for an off-airport forced 
+landing, during which the airplane impacted trees and terrain and sustained substantial damage.
+During recovery of the airplane wreckage, the fuel tanks were found intact and empty. Additionally, 
+there was no evidence of fuel leakage on the ground. The pilot reported that the airplane ran out of fuel 
+and that the accident could have been prevented by better calculation and review of distance, fuel, and 
+time in flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate preflight and in-flight fuel planning, which resulted in the total loss of engine 
+power due to fuel exhaustion.

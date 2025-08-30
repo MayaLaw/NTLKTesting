@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Springfield, Ohio
+Accident Number:
+CEN17FA108
+Date & Time:
+February 19, 2017, 16:03 Local 
+Registration:
+N62888
+Aircraft:
+MACLEOD HOMEBUILT
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot departed the grass airstrip on a personal local flight in the single-seat experimental, 
+amateur-built airplane. Two witnesses saw the airplane flying low about treetop height and then saw its 
+nose pitch up followed by the airplane descending to ground impact. Another witness heard a loud 
+engine, looked up, and saw the airplane in a nose dive; he heard the engine until just before the airplane 
+impacted the ground. The witness observations were consistent with the pilot failing to maintain control 
+of the airplane, which resulted in the airplane exceeding its critical angle of attack and an aerodynamic 
+stall. Because the airplane was flying low, there was not enough altitude for the pilot to recover the 
+airplane from the stall.
+Examination of the airframe and engine did not reveal evidence of any preimpact mechanical 
+malfunctions that would have precluded normal operation. The propeller blades showed no rotational 
+damage, consistent with the engine not producing power at impact. However, a witness reported hearing 
+the engine during descent until just prior to impact. The investigation could not determine if the engine 
+lost power during descent or if the pilot reduced power prior to impact.
+The shoulder harness assembly was found behind the forward bulkhead, unable to be accessed by the 
+pilot. Additionally, the shoulder harness was found wrapped around the rudder cable. However, the wear 
+on the shoulder harness was consistent with having been wrapped around the rudder cables for a while 
+indicating it did not likely affect the operation of the rudder. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

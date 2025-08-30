@@ -1,0 +1,29 @@
+{
+    "Filename": "97997.txt",
+    "Location": "Wiley, Colorado",
+    "Accident Number": "CEN18LA316",
+    "Date & Time": "August 5, 2018, 08:30 Local",
+    "Aircraft": "Champion 7GCBC",
+    "Registration": "N90990",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot conducting day visual approach landing airstrip stated everything seemed normal descent however noted agricultural irrigation pivot sprinkler stopped sprinkler last pipe overhang pipe runway pilot thought high enough clear sprinkler overhang pipe idea airplane going clear guywires supported sprinkler overhang pipe right landing gear tire struck guywire 10 ft higher sprinkler overhang pipe airplane nose subsequently impacted terrain airplane came rest inverted pilot reported mechanical malfunction failure flight probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper clearance sprinkler guywire resulted airplane collision wire visual approach landing",
+        "Top Words": [
+            [
+                "sprinkler",
+                6
+            ],
+            [
+                "pipe",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

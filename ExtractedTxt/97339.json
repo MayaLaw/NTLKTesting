@@ -1,0 +1,29 @@
+{
+    "Filename": "97339.txt",
+    "Location": "Kenai, Alaska",
+    "Accident Number": "GAA18CA303",
+    "Date & Time": "May 27, 2018, 13:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N4018E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll airplane ground looped left airplane sustained substantial damage wing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located 5 mile north accident airport reported 7 minute accident wind 220 7 knot airplane landed runway 36 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll tailwind",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

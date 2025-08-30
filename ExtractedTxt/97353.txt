@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Sandersville, Georgia
+Accident Number:
+ERA18LA154
+Date & Time:
+May 21, 2018, 13:10 Local 
+Registration:
+N427JM
+Aircraft:
+Cessna 421
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the flight was uneventful and during the approach for landing, he 
+placed the landing gear handle in the down position and observed three green landing gear 
+lights, indicating that the gear was down and locked. Shortly after touchdown, the nose landing 
+gear collapsed into the retracted position. The airplane’s nose impacted the runway and the 
+airplane skidded to a stop, resulting in substantial damage to the airframe. After the airplane 
+stopped, the landing gear position lights indicated that all of the landing gear were extended 
+and locked into position. A mechanic who saw the landing and assisted in removing the 
+airplane from the runway after the accident reported that, during the attempt to move the 
+airplane, they lifted the nose off the ground and tried unsuccessfully to move the nose landing 
+gear into the down and locked position. 
+Postaccident testing of the nose landing gear actuator revealed no discrepancies. Although the 
+green safe switch remained illuminated during the entire testing cycle, indicating a defective 
+switch, this did not directly contribute to the collapse of the nose landing gear. Review of 
+maintenance records showed no nose gear discrepancies over the previous 18 months. The 
+reason for the nose landing gear collapse could not be determined based on the available 
+information. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

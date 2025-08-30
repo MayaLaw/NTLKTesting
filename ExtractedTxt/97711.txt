@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Lewiston, Illinois
+Accident Number:
+GAA18CA397
+Date & Time:
+July 4, 2018, 08:35 Local 
+Registration:
+N11VW
+Aircraft:
+ROBERT MILES Smith Trike
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during cruise flight into "wispy clouds," the biplane’s engine started to "run 
+rough" then lost all power. About 800 ft above ground level, he restarted the engine, but it quit again. He 
+attempted to restart the engine multiple times but was unsuccessful, so he selected a gravel road for 
+landing. During the landing, the airplane ground looped into a ditch. The biplane sustained substantial 
+damage to the right wing.  
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the biplane 
+that would have precluded normal operation.
+The automated weather observation station located 25 nautical miles away from the accident site 
+reported that, about the time of the accident, the wind was from 170° at 5 knots, visibility 7 statute 
+miles, clouds broken at 4,800 ft above ground level, temperature 77°F, and dew point 75°F. 
+The pilot stated that he did not apply carburetor heat during the accident flight. The atmospheric 
+conditions were conducive to serious icing at glide power settings. It is likely that the engine lost power 
+due to carburetor icing and the pilot’s failure to apply carburetor heat.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to the pilot's failure to apply carburetor heat in conditions conducive to 
+carburetor icing and his subsequent failure to maintain directional control during a forced landing. 

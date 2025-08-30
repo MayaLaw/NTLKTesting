@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Miami, Florida
+Accident Number:
+GAA18CA559
+Date & Time:
+September 11, 2018, 10:30 Local 
+Registration:
+N88AG
+Aircraft:
+Piper PA34
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor in the multiengine airplane reported that the pilot under instruction was conducting 
+a simulated instrument approach in visual flight rules conditions. The instructor placed the left engine 
+fuel selector in the "off" position to simulate an engine out, and the pilot under instruction initiated the 
+left engine failure procedure by placing the engine and propeller levers in a simulated feathered zero-
+thrust configuration. The instructor became distracted by traffic and failed to place the left engine fuel 
+selector back to the "on" position. 
+With full flaps and the landing gear extended and while about 250 ft above ground level, the instructor 
+terminated the simulated instrument approach and instructed the pilot to land visually; however, the 
+airspeed decreased below safe limits, and he instructed the pilot to increase the airspeed. The pilot 
+increased power on both engines; however, the left engine power did not increase, and the airplane 
+rolled to the left about 45°. The instructor took the controls and applied right aileron and rudder, but the 
+airplane settled down in a level attitude in a shallow lagoon on the left side of the runway. 
+The airplane sustained substantial damage to the forward fuselage bulkheads.
+The instructor reported that there were no mechanical malfunctions or failures with the airplane that 
+would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

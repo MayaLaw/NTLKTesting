@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Dayton, Ohio
+Accident Number:
+GAA18CA426
+Date & Time:
+July 14, 2018, 14:15 Local 
+Registration:
+N7492K
+Aircraft:
+Piper PA 20
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing flare, he felt a wind shift 
+push the airplane left of centerline. He applied opposite rudder, but the airplane touched down "skewed" 
+to the right. The airplane then exited the runway to the right and ground looped on an adjacent field. 
+The airplane sustained substantial damage to the left wing. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot reported that the wind was variable at 6 knots at the accident site. He added that, during the 
+short final leg of the approach, the wind was from about 210º and that, during the landing flare, the wind 
+shifted to from about 280º. The airport's automated weather observation station reported that, about 20 
+minutes before the accident, the wind was from 310º at 9 knots and that, about 30 minutes after the 
+accident, the wind was from 180° at 8 knots. The pilot landed the airplane on runway 20.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate compensation for variable crosswind conditions during landing, which resulted in 
+a runway excursion. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "98131.txt",
+    "Location": "Mokuleia, Hawaii",
+    "Accident Number": "WPR18TA236",
+    "Date & Time": "August 20, 2018, 17:05 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N98146",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "3 Minor",
+    "Analysis": {
+        "Text": "flight instructor reported flight requested airplane refueled subsequent preflight inspection revealed airplane fueled specified level conducting touchandgo takeoff landing instructional flight engine lost power 300 ft ground level instructor performed forced landing open field adjacent runway airplane impacted fence came rest upright postaccident examination revealed rightwing fuel tank contained 7 8 gallon fuel slow fuel leak leftwing fuel tank void fuel undamaged fuel selector positioned leftwing tank engine test run revealed anomaly interview staff fixed base operator instructor ordered fuel revealed fuel order received accident airplane however airplane refueled accident flight probable cause finding national transportation safety board determines probable cause accident total loss engine power due fuel starvation result flight instructor inadequate preflight inspection",
+        "Top Words": [
+            [
+                "fuel",
+                9
+            ],
+            [
+                "flight",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

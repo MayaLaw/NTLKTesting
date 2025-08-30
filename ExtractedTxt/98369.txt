@@ -1,0 +1,46 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Silver City, Idaho
+Accident Number:
+WPR18FA276
+Date & Time:
+September 30, 2018, 08:37 Local 
+Registration:
+N732MV
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and two passengers departed on a local area flight through mountainous terrain to a nearby 
+airport. A review of primary targets that were consistent with the airplane’s flight track; initially, for a 3 
+minute period, the airplane was flying between 3,200 and 3,400 ft mean sea level (msl) at an average 
+speed of 131 knots calibrated airspeed (KCAS). Radar data were lost for about the next 4 minutes due to 
+mountainous terrain. Once the radar returns were picked up again, for about the next 4 minutes, the 
+flight track showed the airplane continuing a southerly track, climbing from 4,700 to 6,500 ft msl. The 
+last three radar returns showed that, during the last 36 seconds of flight, the airplane’s altitude above the 
+ground decreased as the terrain rose such that the airplane was about 150 ft above ground level at the 
+last radar return; the airspeed decreased to less than 70 KCAS by the end of the data. The wreckage was 
+located near the bottom of a valley about 1,950 ft west and 15.5 nm east of the wreckage. Postaccident 
+examination of the airplane and engine revealed no evidence of any preimpact mechanical malfunctions 
+or failures that would have precluded normal operation. 
+Using the approximate conditions that existed at the time of the accident, including an estimated airplane 
+gross weight of 3,900 lbs (about 100 lbs over the airplane’s maximum allowable gross weight) and flaps 
+at 10°, the airplane’s stall speed was estimated to be about 68 KCAS. A ground scar at the accident site 
+indicated that the left wing impacted terrain first, and the wreckage lay along a heading of 345°, 
+indicating that the pilot was likely turning the airplane during the accident sequence. Given this evidence 
+and that the airplane was losing speed as it climbed over rising terrain near the accident site and was 
+approaching or at its stall speed by the end of the radar data, it is likely that the pilot did not maintain 
+adequate airspeed while making a left turn in mountainous terrain. The gusting wind and low-level wind 
+shear conditions could also contribute to the airplane exceeding its critical angle of attack, which 
+resulted in an aerodynamic stall with the left wing low. 
+Although the pilot had type 2 diabetes, the accident circumstances are not consistent with incapacitation; 
+therefore, it is unlikely that the pilot's diabetes contributed to the accident. Toxicology testing indicated 
+that the pilot had taken buprenorphine, which can cause somnolence and impaired decision-making, at 

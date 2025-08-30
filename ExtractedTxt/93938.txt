@@ -1,0 +1,44 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Hollywood, Florida
+Accident Number:
+ERA16FA309
+Date & Time:
+September 3, 2016, 09:50 Local 
+Registration:
+N6091E
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Destroyed
+Defining Event:
+Windshear or thunderstorm
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot did not receive a weather briefing before beginning the cross-country flight. After takeoff, the 
+pilot requested from air traffic control to fly below 500 ft above ground level along the ocean shoreline. 
+The controller approved the request but advised of heavy precipitation (a thunderstorm) at the airplane's 
+12-o'clock position and 4 miles ahead. The controller further advised that the pilot should turn left and 
+fly offshore 3 miles to avoid the thunderstorm. Although the pilot acknowledged the instructions, a 
+review of radar and GPS data for the flight revealed that he continued on course. About 3 minutes later, 
+the pilot reported the he was reversing direction, and no further communications were received from the 
+pilot. Review of the airplane's GPS track overlaid on weather radar plots revealed that the airplane flew 
+into an area of extreme intensity precipitation and then entered a rapid descent and impacted the ocean. 
+Examination of the wreckage did not reveal any evidence of preimpact mechanical malfunctions. It is 
+likely that the pilot lost control of the airplane when it encountered strong downdrafts and heavy rain 
+associated with the thunderstorm.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate preflight and in-flight weather planning, which resulted in continued flight into a 
+thunderstorm and a subsequent loss of airplane control.
+Findings
+Personnel issues
+Weather planning - Pilot
+Environmental issues
+Thunderstorm - Decision related to condition
+Personnel issues
+Aircraft control - Pilot

@@ -1,0 +1,39 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Ridgefield, Washington
+Accident Number:
+WPR19FA124
+Date & Time:
+April 29, 2019, 14:13 Local 
+Registration:
+N90LK
+Aircraft:
+Vans RV 6
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and flight instructor were conducting a local flight as part of a flight review. Radar data 
+showed that the airplane departed and proceeded to a nearby airport, where it entered the traffic pattern. 
+The last recorded radar target was located abeam the end of the runway, at an altitude of about 500 ft 
+above ground level. There were no known witnesses to the accident sequence.
+The airplane came to rest upright, partially submerged within a pond, about 1,000 ft from the approach 
+end of the runway. Wreckage and impact signatures from surrounding terrain were consistent with a 
+near-vertical impact. Examination revealed no anomalies with the airframe or engine that would have 
+precluded normal operation.
+Bird remains were found on the right (outboard) arm/clothing of the flight instructor and within the 
+engine compartment. The remains were identified as a species common to the accident locale. It is likely 
+that a bird strike occurred while the airplane was maneuvering in the traffic pattern for landing, resulting 
+in a breach of the canopy/windscreen. Given the lack of mechanical anomalies and the orientation of the 
+wreckage, it is likely that the pilots became distracted and exceeded the airplane's critical angle of 
+attack, which resulted in an aerodynamic stall/spin and loss of control.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilots' inadvertent exceedance of the airplane's critical angle of attack following an inflight collision 
+with a bird. 

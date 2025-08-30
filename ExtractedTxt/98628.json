@@ -1,0 +1,29 @@
+{
+    "Filename": "98628.txt",
+    "Location": "Myrtle Beach, South Carolina",
+    "Accident Number": "ERA19LA043",
+    "Date & Time": "November 12, 2018, 14:15 Local",
+    "Aircraft": "Aero Commander 690",
+    "Registration": "N840JC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot approaching airport land instrument meteorological condition encountered heavy turbulence continued approach airplane started descend rapidly although added full power attempt climb airplane continued descend collided atlantic ocean forward portion fuselage included cockpit separated airplane pilot report anomaly airplane accident review weather information area airport time accident revealed light moderate precipitation high potential moderate turbulence low level wind shear 2000 ft radar imagery reveal signature typically associated microburst activity based available information likely pilot encountered lowlevel windshear turbulence approach resulted loss airplane control probable cause finding national transportation safety board determines probable cause accident encounter lowlevel windshear turbulence landing approach resulted loss airplane control",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "turbulence",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

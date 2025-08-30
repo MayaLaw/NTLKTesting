@@ -1,0 +1,29 @@
+{
+    "Filename": "97520.txt",
+    "Location": "Salem, Illinois",
+    "Accident Number": "GAA18CA360",
+    "Date & Time": "June 14, 2018, 14:17 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N98395",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing taxied airplane ramp get fuel front fuel tank repositioned airplane 360 turn second attempt reposition airplane right wing struck nearby pole airplane sustained substantial damage right wing student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain clearance pole taxiing airplane ramp finding personnel issue monitoring environment studentinstructed pilot environmental issue pole effect operation",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

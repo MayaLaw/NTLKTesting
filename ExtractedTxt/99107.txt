@@ -1,0 +1,44 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Compton, California
+Accident Number:
+WPR19FA095
+Date & Time:
+March 13, 2019, 18:50 Local 
+Registration:
+N5440F (A1); N48962 
+(A2)
+Aircraft:
+North American T28 (A1); Cessna 
+152 (A2)
+Aircraft Damage:
+Minor (A1); Destroyed 
+(A2)
+Defining Event:
+Runway incursion veh/AC/person
+Injuries:
+1 None (A1); 1 Fatal, 1 
+Serious (A2)
+Flight Conducted Under:
+Part 91: General aviation - Personal (A1); Part 91: General aviation - Instructional (A2)
+Analysis 
+The student pilot and flight instructor in the Cessna were landing at the non-tower-controlled airport 
+when a North American T-28 collided with the Cessna from behind, fatally injuring the student. Radar 
+data indicated that the T-28 overflew the airport before joining the downwind leg of the traffic pattern 
+for the landing runway; about this time, the Cessna was on final approach. The pilot of the T-28 reported 
+that the bright sun and the haze created a glare on the windscreen that obscured his forward vision, 
+making it difficult for him to see directly ahead, and the glare became worse as he descended toward the 
+runway on final approach. The T-28 pilot saw the Cessna ahead of him on the runway just before the 
+collision occurred.
+The instructor onboard the Cessna could not recall the details of the flight but reported that his student 
+would have made radio calls on the airport's common traffic advisory frequency (CTAF) as they 
+approached the airport for landing. The CTAF was not recorded, and the radio frequency settings of the 
+Cessna could not be determined due to thermal damage. Examination of the T-28 revealed that its radio 
+was not tuned to the airport's CTAF; therefore, the T-28 pilot was neither receiving position reports from 
+other aircraft in the traffic pattern, nor was he broadcasting his position. The circumstances of the 
+accident are consistent with the T-28 pilot's failure to see and avoid the Cessna while landing with 
+reduced visibility due to sun glare, and it is likely that his failure to monitor and use the CTAF 
+contributed to the accident. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

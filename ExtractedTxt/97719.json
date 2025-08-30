@@ -1,0 +1,29 @@
+{
+    "Filename": "97719.txt",
+    "Location": "Colusa, California",
+    "Accident Number": "WPR18LA189",
+    "Date & Time": "July 9, 2018, 11:00 Local",
+    "Aircraft": "Grumman G164B",
+    "Registration": "N6696K",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot performing aerial application flight engine made popping noise began vibrate airplane slowed pilot initiated turn toward nearby runway engine subsequently lost total power airplane impacted terrain nosed came rest inverted resulting substantial damage operator reported engine sent repair overhaul facility following accident anomaly found would precluded normal operation probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available information finding aircraft general unknownnot determined determined general unknownnot determined",
+        "Top Words": [
+            [
+                "engine",
+                4
+            ],
+            [
+                "determined",
+                4
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

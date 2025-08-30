@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Parkin, Arkansas
+Accident Number:
+CEN18LA211
+Date & Time:
+May 31, 2018, 11:15 Local 
+Registration:
+N6215P
+Aircraft:
+THRUSH AIRCRAFT INC S2R-H80
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The commercial pilot reported that, during the takeoff roll for the agricultural application flight, the right rudder 
+pedal went full forward against the material hopper and that he subsequently could not maintain directional 
+control of the airplane. The airplane subsequently exited the left side of the runway and struck a ditch. 
+Examination of the airplane revealed that the right rudder pedal had become detached from the rudder pedal 
+adjustment mechanism due to wear on the adjustment track. The Before Starting Engine checklist  included a 
+step to adjust and lock the rudder pedals before starting the engine; however, the condition of the rudder 
+system indicated that the airplane had been operated with the rudder pedal forward of the final detent position 
+and against the safety stop rather than in a locked detent position for an undetermined amount of time. The 
+improper adjustment and locking of the rudder pedal adjustment mechanism over time likely led to the 
+excessive wear on the rudder pedal adjustment track, the detachment of the rudder pedal, and the pilot’s 
+subsequent inability to maintain directional control. After the accident, the airplane manufacturer released a 
+service letter detailing the proper use, rigging, and maintenance of the rudder system, including the rudder 
+pedal adjustment mechanism.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The improper operation of the rudder pedal adjustment mechanism for an undetermined period of time, which 
+led to the failure of the rudder pedal adjustment track, the detachment of the rudder pedal, and the pilot’s 
+subsequent inability to maintain directional control. 

@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Montauk, New York
+Accident Number:
+ERA18LA253
+Date & Time:
+September 16, 2018, 16:06 Local 
+Registration:
+N161DL
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was taking off for a personal, cross-country flight. He reported that, at rotation, the 
+pilot's seat "abruptly slid backwards to the outermost distance from the controls." As a result, the pilot 
+could no longer reach the pedals to maintain directional control, and his aileron input could not 
+counteract the airplane's left-turning tendency. The airplane subsequently departed the left side of the 
+runway, struck trees and shrubs, and then came to rest upright. The wings, fuselage, and empennage 
+sustained substantial damage.
+ 
+According to the pilot, except for the pilot seat, the airplane performed as designed with no other 
+anomalies noted. Examination of the pilot's seat revealed no anomalies with the installation, dimensions, 
+or operation. The seat moved freely fore and aft with no binding or anomalous operation noted. During 
+postaccident functional testing of the seat, when twisting forces to the right were applied to the seat and 
+while being slid forward, the seat position locking pin could be partially engaged, but not all the pins 
+would seat, and the control handle would not go fully down nor could it be forced into position. 
+Straightening or forward movement of the seat resulted in full pin engagement with the control handle in 
+the fully down position. Given this information, it is likely that the pilot applied a twisting force when 
+moving the seat and did not fully engage the seat position locking pins before initiating the takeoff, 
+which resulted in the seat subsequently sliding back as the airplane accelerated during takeoff and the 
+pilot's subsequent loss of directional control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to properly secure his seat before initiating the takeoff, which resulted in the 

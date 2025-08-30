@@ -1,0 +1,29 @@
+{
+    "Filename": "99092.txt",
+    "Location": "Benton, Kansas",
+    "Accident Number": "GAA19CA161",
+    "Date & Time": "March 11, 2019, 13:30 Local",
+    "Aircraft": "Cessna L19",
+    "Registration": "N4431C",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot receiving instruction toward commercial certificate tailwheelequipped airplane reported practicing poweroff 180 approach upon landing airplane veered sharply right pilot attempted correct opposite rudder however airplane exited right side runway impacted tree came rest impacting house airplane sustained substantial damage left right wing pilot reported preimpact mechanical failure malfunction airplane would precluded normal operation time accident automated weather reporting station located 5 mile west accident site reported wind 080 4 knot pilot landed airplane runway 17 probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction failure maintain directional control landing roll resulted impact tree house",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97161.txt",
+    "Location": "Marathon, Texas",
+    "Accident Number": "CEN18LA157",
+    "Date & Time": "May 2, 2018, 11:00 Local",
+    "Aircraft": "HARTLINE J BON HARTLINE",
+    "Registration": "N73BH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot passenger departing local personal flight experimental amateurbuilt airplane pilot indicated takeoff climb 15 ft ground airplane violently rolled right applied full aileron rudder opposite direction roll airplane continued roll right struck ground right wing impacted tree postaccident examination airplane revealed three four hinge connecting right flaperon hanger rib loose wooden material flaperon found dry rotted hinge connected airplane flown 3 hour 11 month accident airplane kit manufacturer issued service bulletin 1991 identified flaperon hanger rib failure model accident airplane service bulletin recommended addition aluminum reinforcement flaperon hanger rib end accident airplane reinforcement installed thus benefit additional reinforcement attachment point area hinge probable cause finding national transportation safety board determines probable cause accident failure flaperon hinge attachment point takeoff resulted loss airplane control contributing accident lack reinforcement hinge attachment point accordance manufacturer service bulletin",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "hinge",
+                5
+            ],
+            [
+                "flaperon",
+                5
+            ]
+        ]
+    }
+}

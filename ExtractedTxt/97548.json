@@ -1,0 +1,29 @@
+{
+    "Filename": "97548.txt",
+    "Location": "Bruington, Virginia",
+    "Accident Number": "GAA18CA369",
+    "Date & Time": "June 20, 2018, 12:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N8090X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported taking unimproved gravel surface field feel comfortable airplane performance chose abort takeoff airplane touched soft dirt nose landing gear dug dirt separated airplane airplane nosed came rest inverted airplane sustained substantial damage right wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper decision abort takeoff insufficient runway remaining safely stop airplane",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

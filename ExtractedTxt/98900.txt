@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Naples, Florida
+Accident Number:
+ERA19LA091
+Date & Time:
+December 22, 2018, 13:30 Local 
+Registration:
+N564SC
+Aircraft:
+Czech Sport Sportcruiser
+Aircraft Damage:
+Substantial
+Defining Event:
+Birdstrike
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the passenger, the pilot fueled the airplane before takeoff. While en route, about 2,500 ft 
+above ground level, the airplane struck a large bird. The engine continued to operate for about 2 
+minutes, until the "low fuel" warning indicator illuminated, and then the engine lost total power. The 
+pilot declared an emergency and performed a forced landing on a road. During the landing roll, the 
+airplane struck a road sign and several large trees, which resulted in substantial damage to the fuselage 
+and wings. Postaccident examination of the airplane revealed that the nosewheel fairing and the 
+underside of the engine cowling displayed evidence of a bird strike. Examination of the engine revealed 
+that the carburetor was leaking fuel. The damage to the carburetor could not be definitively attributed to 
+the bird strike alone. However, given that the airplane had been fueled immediately before the flight, 
+that a low fuel warning was annunciated shortly after the bird strike, and that the bird had impacted an 
+area in the vicinity from which fuel was leaking, it is likely that the bird strike damaged the fuel system, 
+which resulted in fuel draining from the airplane, subsequent fuel exhaustion, and a total loss of engine 
+power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Collision with a bird in flight, which resulted in damage to the engine, a fuel leak, and a subsequent total 
+loss of engine power due to fuel exhaustion.

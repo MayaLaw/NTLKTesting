@@ -1,0 +1,29 @@
+{
+    "Filename": "98079.txt",
+    "Location": "Philadelphia, Pennsylvania",
+    "Accident Number": "DCA18CA266",
+    "Date & Time": "July 31, 2018, 13:15 Local",
+    "Aircraft": "Boeing 757",
+    "Registration": "N192AN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Tailstrike",
+    "Injuries": "181 None",
+    "Analysis": {
+        "Text": "july 31 2018 1315 eastern daylight time american airline flight 89 boeing 757223 n192an experienced hard landing philadelphia international airport phl philadelphia pennsylvania injury 181 passenger crew onboard airplane substantially damaged regularly scheduled international passenger flight operated provision 14 code federal regulation part 121 shannon international airport snn shannon ireland phl captain pilot flying first officer pilot monitoring flight crew stated il 09r approach normal airplane landed touchdown zone captain stated airplane touched nose pitched abruptly spoiler autodeployed quickly countered pitch flew nose back runway flight taxiing gate flight attendant called interphone inform crew heard unusual noise landing time landing wind reported 130 degree 5 knot gust postflight examination airplane found aft pressure bulkhead buckled skin worn around station sta 1720 pressure bulkhead skin wrinkled sta 1701 sta 1743 stringer 23l 23r probable cause finding",
+        "Top Words": [
+            [
+                "flight",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Mineral Wells, Texas
+Accident Number:
+CEN19LA133
+Date & Time:
+May 2, 2019, 17:02 Local 
+Registration:
+N8160C
+Aircraft:
+Cirrus SR20
+Aircraft Damage:
+Substantial
+Defining Event:
+Part(s) separation from AC
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal flight in the airport traffic pattern when he felt the airplane 
+“shudder” shortly before the turn onto the base leg for the runway. The pilot and passenger then saw the 
+right aileron “fluttering,” and the pilot immediately turned to intercept the final approach. The right 
+aileron separated from the wing about 0.5 mile from the approach end of the runway. The pilot was able 
+to maintain roll control of the airplane after the right aileron separated, and he completed an uneventful 
+landing on the runway.
+Examination of the airplane and the recovered right aileron revealed that the aileron’s inboard hinge bolt 
+was not threaded into its nut plate. The safety wire that normally secured the inboard hinge bolt was 
+found fractured. The safety wire had been excessively twisted when the right aileron was installed; the 
+excessive twisting led to the torsional overstress fracture of the safety wire during the accident flight. 
+Additionally, the nut plate had significantly reduced thread-locking abilities that allowed the unsecured 
+inboard hinge bolt to loosen; the right aileron separated from the wing when the inboard hinge bolt 
+disengaged from the nut plate. Although the inboard hinge bolt assembly included a slightly longer bolt 
+than specified and an additional small washer, these component discrepancies did not contribute to the 
+aileron separation. 
+The airplane had accumulated about 733 flight hours during the more than 10 years since the right 
+aileron was last removed and reinstalled during maintenance. The most recent maintenance performed 
+on the airplane was an annual inspection completed about 15.2 flight hours before the accident. The 
+mechanic who performed the last annual inspection observed safety wire installed on the aileron hinge 
+bolts.
+Probable Cause and Findings

@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Colorado Springs, Colorado
+Accident Number:
+CEN18LA335
+Date & Time:
+August 16, 2018, 11:00 Local 
+Registration:
+N146AC
+Aircraft:
+Cessna R172E
+Aircraft Damage:
+Substantial
+Defining Event:
+Unknown or undetermined
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that the student pilot was flying the airplane during the first takeoff of an 
+instructional flight. The engine sounded normal and was operating properly with a fuel flow of about 14 
+gallons per hour and between 2,800 to 2,900 rpm. The instructor stated that, during the takeoff roll, the 
+student rotated the airplane about 60 mph. Initially, the pitch was high, but then the student lowered the 
+airplane's nose to the horizon. Subsequently, the airplane reached about 100 ft above ground level but 
+then stopped climbing, and the airspeed began decreasing. The instructor reported that the fuel flow and 
+rpm were still normal. 
+The instructor stated that he took the flight controls, lowered the flaps to 10°, and lowered the airplane's 
+nose to hold 55 to 60 mph, "hoping that the ground effect would enable a speed increase." He turned the 
+airplane right to avoid a tree line and conducted a forced landing in a field. The airplane landed on its 
+main wheels, but the nose landing gear impacted rough terrain, and the airplane nosed over, which 
+resulted in substantial damage to the wings and fuselage. 
+Postaccident examination of the airframe, engine, and propeller governor revealed no evidence of any 
+preaccident mechanical malfunctions or failures that would have precluded normal operation. Therefore, 
+the reason for the airplane's failure to maintain a climb could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

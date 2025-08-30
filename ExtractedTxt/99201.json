@@ -1,0 +1,29 @@
+{
+    "Filename": "99201.txt",
+    "Location": "Palatka, Florida",
+    "Accident Number": "ERA19LA141",
+    "Date & Time": "March 30, 2019, 16:59 Local",
+    "Aircraft": "Flight Design CTLS",
+    "Registration": "N81KK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "pilot reported crosscountry flight uneventful approaching destination airport north engine lost total power unable restart engine prepared forced landing clearing deployed airplane ballistic recovery system br rocket fired parachute remained container forced landing airplane substantial damage pilot passenger seriously injured pilot reported began flight 135 gallon fuel board consistent recorded fuel quantity remaining indicated airplane engine monitoring system em however value directly measured depended pilot input odor fuel evidence fuel leak crash site fuel tank compromised impact fuel found fuel tank recovery engine fuel system examined accident test run performed engine ran normally airframe evidence preexisting mechanical failure anomaly found examination em data revealed power loss fuel flow increased twice normal rate according engine manufacturer air introduced fuel system due fuel exhaustion result fuel flow increase due impeller fuel flow transducer speeding given information likely initial fuelonboard indication incorrect indication calculation based pilot input loss engine power result fuel exhaustion examination br revealed numerous condition indicative improper nonexistent maintenance inspection condition among others included following sfolded harness improperly secured inside egress panel harness improperly protruded blocked egress opening also protruded blocked opening parachute canister attempted br deployment portion egress panel remained attached airframe due improper bonding condition blocked parachute container",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

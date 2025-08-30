@@ -1,0 +1,29 @@
+{
+    "Filename": "98045.txt",
+    "Location": "Great Falls, Montana",
+    "Accident Number": "GAA18CA481",
+    "Date & Time": "August 11, 2018, 13:00 Local",
+    "Aircraft": "Helio H 295",
+    "Registration": "N77TR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported takeoff right wing lifted unexpectedly attempted recover left main landing gear sideloaded collapsed left wing impacted runway airplane rotated left 180 came rest runway airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 7 minute accident wind 320 14 knot airplane departing runway 21 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateral control airplane takeoff quartering tailwind",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "left",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

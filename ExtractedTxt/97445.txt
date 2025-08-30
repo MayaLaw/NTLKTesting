@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Baton Rouge, Louisiana
+Accident Number:
+CEN18LA221
+Date & Time:
+June 8, 2018, 16:05 Local 
+Registration:
+N190RS
+Aircraft:
+Beech 58
+Aircraft Damage:
+Substantial
+Defining Event:
+Explosion (non-impact)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that, during initial climb after takeoff, she heard a "loud bang" and saw 
+flames coming from the trailing edge of the right wing. Subsequently, she was able to conduct an 
+uneventful emergency landing.
+The fire was located outboard of the right engine near the wingtip and auxiliary fuel tank. Black soot 
+was visible near the right wingtip navigation and anticollision lights. Black soot and blue fuel stains 
+were found near the fuel vents located on the bottom side of the wing under the right wingtip 
+anticollision light. Blue fuel stains were also found under the right wing near the main and auxiliary fuel 
+tanks and inside the wing cavity near the electrical wiring for the right wing navigation light. The 
+examination of the right wing revealed that the wiring for the right wing anticollision light was crimped 
+together with "handshake" connectors and then wrapped with electrical tape. The wiring was not 
+properly insulated. The source of the fuel leak could not be determined due substantial damage to the 
+right wing caused by the fire. 
+About 6 1/2 years before the accident, the airplane manufacturer issued a Safety Communique titled, 
+"Outboard Wing Fire Potential Due to Fuel Leaks and Electrical Wire Chafing." The communique 
+advised owners and operators of a potential safety issue concerning loose wiring and fuel fumes in the 
+structural areas of the airplane. The communique reminded owners and operators to maintain the fuel 
+and electrical systems in accordance with the maintenance manuals and to ensure there were no visible 
+fuel leaks around the vents and sump drains. It further stated that no fuel leaks or staining should be 
+observed around the vents and sump drains during preflight inspections. 
+Based on the postaccident examination, the fuel leak found on the bottom of the right wing might have 
+been a preexisting condition; however, the pilot did not remember seeing any fuel staining during the 
+preflight. The evidence further suggests that the initial ignition occurred behind the anticollision light in 
+the right wingtip as a result of an improper repair, during which the anticollision light wiring was not 

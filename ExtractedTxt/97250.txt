@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Borger, Texas
+Accident Number:
+CEN18LA172
+Date & Time:
+May 11, 2018, 08:27 Local 
+Registration:
+N833DW
+Aircraft:
+WITTMAN D R/WITTMAN D M RV 6
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that, during approach to the airport, the weather observation system reported 
+variable winds of 4 to 6 knots, which was less than forecast. While on short final approach for landing to 
+runway 21, the pilot experienced "strong updrafts from unusual landforms," and when the airplane 
+landed about halfway down the runway, he experienced "strong gusts causing swerving." The airplane 
+was departing the side of the runway when the pilot chose to abort the landing by applying full engine 
+power. The airplane was unable to outclimb the rising terrain off the side of the runway and 
+subsequently impacted the ground and a fence.
+Postaccident examination of the airplane revealed no anomalies that would have precluded normal 
+operation. A review of recorded weather information showed winds consistently from 220° at 23 to 32 
+knots, which would have resulted in a crosswind component of between 2 and 6 knots. The strong 
+updrafts the pilot experienced would have been consistent with mechanical turbulence, which could 
+have been confirmed by wind indications from the airport windsock(s).
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airplane control during landing and during the subsequent aborted landing 
+attempt in crosswind conditions.

@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Passadumkeag, Maine
+Accident Number:
+ERA18LA190
+Date & Time:
+July 11, 2018, 19:20 Local 
+Registration:
+N352GL
+Aircraft:
+GLASAIR SH2
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+While in cruise flight, the experimental, amateur-built airplane's engine started to run "rough" and lost 
+partial power. The pilot checked the engine gauges, noted no irregularities, and unsuccessfully attempted 
+to restore engine power by turning the fuel boost pump on. Within about 30 seconds of the initial power 
+loss, the engine lost total power and the propeller stopped. The pilot performed a forced landing to a bog 
+and the airplane came to rest inverted, resulting in substantial damage to the empennage.
+Disassembly and examination of the engine revealed that the crankshaft had fractured at the No. 4 
+cylinder journal. Further examination of the fracture surface revealed fatigue striations consistent with 
+fatigue crack propagation. These striations were finely spaced and exhibited changing or erratic 
+thicknesses on different areas of the fracture surface, consistent with propagation through high-cycle 
+fatigue. The reason for the crack initiation could not be determined.
+According to the engine maintenance log, the engine experienced a propeller strike during a landing 
+incident about 5 years and 368 flight hours before the accident. The pilot elected not to have the 
+propeller strike or sudden stoppage inspection performed, since it was not mandatory for non-
+certificated engines.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to a fatigue fracture of the crankshaft.

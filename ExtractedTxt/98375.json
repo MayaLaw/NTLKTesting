@@ -1,0 +1,29 @@
+{
+    "Filename": "98375.txt",
+    "Location": "Dallas, Texas",
+    "Accident Number": "DCA18CA294",
+    "Date & Time": "September 26, 2018, 12:00 Local",
+    "Aircraft": "Airbus A321",
+    "Registration": "N994AN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 185 None",
+    "Analysis": {
+        "Text": "september 26 2018 1200 cdt american airline flight 2308 airbus a321 n994an still gate dallasfort worth international airport dfw dallasfort worth texas flight attendant tripped bag injured ankle 186 passenger crew onboard one flight attendant received serious injury flight scheduled operate 14 code federal regulation part 121 domestic passenger flight dfw sacramento international airport smf sacramento california injury occurred main cabin door closed airplane pushed back injured flight attendant unable walk assisted airplane jet bridge repositioned fight attendant transported local urgent care facility diagnosed broken ankle probable cause finding national transportation safety board determines probable cause accident passenger leaving bag aisle flight attendant tripped finding personnel issue general passenger",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "attendant",
+                5
+            ],
+            [
+                "passenger",
+                4
+            ]
+        ]
+    }
+}

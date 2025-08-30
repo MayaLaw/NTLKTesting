@@ -1,0 +1,29 @@
+{
+    "Filename": "97168.txt",
+    "Location": "Little Rock, Arkansas",
+    "Accident Number": "GAA18CA252",
+    "Date & Time": "April 30, 2018, 16:00 Local",
+    "Aircraft": "Beech 95B55",
+    "Registration": "N550K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot multiengine airplane reported landing right propeller struck runway cabin door came open pilot taxied airplane ramp discovered right propeller damage airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare finding aircraft landing flare attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

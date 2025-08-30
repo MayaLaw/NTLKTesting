@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Norwood, Colorado
+Accident Number:
+CEN19LA061
+Date & Time:
+December 23, 2018, 15:10 Local 
+Registration:
+N3120S
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal flight. During the flight, he monitored the carburetor temperature 
+gauge and used full, partial, and no carburetor heat settings as appropriate. While landing at his private, 
+high-elevation airport, he initially had partial carburetor heat selected but then turned it off as he 
+typically did to preclude ingestion of unfiltered air into the engine while landing on a dirt runway. 
+During the approach, the airplane drifted left of the runway, so the pilot decided to go around. He 
+advanced the engine power slightly, but the engine did not respond. He then advanced the engine power 
+to full, but the engine still did not respond. The pilot then conducted a steep right turn and applied right 
+rudder to land the airplane on the runway and avoid trees. He was not certain if the airplane stalled, but 
+the right wingtip contacted the ground, and the airplane "pancaked" on the runway. The airplane 
+sustained substantial damage to the fuselage and both wings. 
+After the accident, the pilot stated that he did not “adequately” clear the carburetor during the approach 
+and that it was possible the carburetor had "iced up" during the descent. However, the temperature and 
+dew point at the time of the accident put the airplane outside of conditions conducive for icing; 
+therefore, it is unlikely that carburetor accumulated icing. Thus, the reason for the loss of engine power 
+could not be determined based on the available evidence.
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power for undetermined reasons.

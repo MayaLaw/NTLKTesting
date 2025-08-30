@@ -1,0 +1,29 @@
+{
+    "Filename": "97326.txt",
+    "Location": "Hillsboro, Oregon",
+    "Accident Number": "WPR18LA148",
+    "Date & Time": "May 26, 2018, 09:35 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N152GB",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "conducting takeoff landing instructional flight student pilot initiated go around shortly thereafter engine began run rough lost partial power instructor attempted troubleshoot engine unable restore engine power initiated forced landing grass area beyond end runway airplane nosed examination engine revealed left magneto producing spark randomly across four post internal examination magneto revealed distributor gear intact however copper electrode finger found displaced plastic gear assembly service bulletin issued magneto manufacturer three year accident stated unit contained distributor gear exhibited loose electrode finger symptom included unusual rpm drop magneto check difficulty starting andor rough running engine separate service bulletin issued 38 year accident specified magneto inspected internally every 500 hour operator reported time accident magneto accumulated 4027 hour since recent internal inspection operator reported conducted internal inspection magneto every 750 hour likely loose copper electrode finger resulted partial loss engine power goaround probable cause finding national transportation safety board determines probable cause accident partial loss engine power goaround due loose copper electrode finger inside left magneto",
+        "Top Words": [
+            [
+                "magneto",
+                8
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

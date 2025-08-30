@@ -1,0 +1,29 @@
+{
+    "Filename": "96046.txt",
+    "Location": "Sacramento, California",
+    "Accident Number": "WPR17LA210",
+    "Date & Time": "September 20, 2017, 13:14 Local",
+    "Aircraft": "Cessna 210",
+    "Registration": "N7330E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airplane occupied new owner private pilot flight instructor completed personal flight landing roll main landing gear partially collapsed airplane departed runway surface resulting substantial damage left horizontal stabilizer pilot gave conflicting statement regarding role flight agreed landing gear extended landing approach postaccident examination reveal anomaly landing gear system would precluded normal operation gear successfully extended retracted multiple time using gear handle examination therefore reason partial gear collapse could determined probable cause finding national transportation safety board determines probable cause accident partial retraction main landing gear landing roll reason could determined postaccident examination functional testing gear revealed anomaly",
+        "Top Words": [
+            [
+                "gear",
+                8
+            ],
+            [
+                "landing",
+                7
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

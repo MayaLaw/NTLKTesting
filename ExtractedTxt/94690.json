@@ -1,0 +1,29 @@
+{
+    "Filename": "94690.txt",
+    "Location": "Morganton, North Carolina",
+    "Accident Number": "ERA17LA102",
+    "Date & Time": "February 6, 2017, 16:15 Local",
+    "Aircraft": "SHELL JOHN SUPER SIX",
+    "Registration": "N426KS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot owner experimental airplane equipped vintage radial engine decided take airplane around airport traffic pattern recalled conducted preflight inspection remembered portion takeoff recall event accident witness reported engine sputtering airplane impacted tree 3500 ft departure end runway postimpact fire ensued propeller exhibited little rotational damage consistent low engine power time impact given signature witness description engine sputtering likely engine lost either partial total power small amount fuel discovered fuel sump however total fuel onboard airplane time accident could determined engine sustained impact postimpact fire damage subsequent examination additional system specifically fuel system inconclusive due severe impact postimpact fire damage therefore reason loss engine power could determined based available information probable cause finding national transportation safety board determines probable cause accident loss engine power impact tree terrain reason could determined based available information",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

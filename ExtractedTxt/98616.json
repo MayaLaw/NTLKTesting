@@ -1,0 +1,29 @@
+{
+    "Filename": "98616.txt",
+    "Location": "Ontario, California",
+    "Accident Number": "WPR19LA021",
+    "Date & Time": "November 8, 2018, 15:53 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N9914M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "airplane encountered severe turbulence downdraft flying mountain pas pilot applied full engine power effort arrest descent engine respond pilot performed forced landing onto highway pilot attempted avoid automobile airplane landed hard sustained substantial damage examination revealed 20 year 300 flight hour accident threaded stud used mount carburetor airbox carburetor inlet rather appropriate bolt stud overdriven penetrated carburetor bowl fracturing bowl housing fragment damaged housing lay bottom bowl accident flight turbulence likely caused migrate interfere either float fuel mixture metering system probable cause finding national transportation safety board determines probable cause accident partial loss engine power descent due incorrectly installed carburetor",
+        "Top Words": [
+            [
+                "carburetor",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "engine",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Norco, California
+Accident Number:
+WPR19FA118
+Date & Time:
+April 22, 2019, 12:09 Local 
+Registration:
+N9MB
+Aircraft:
+Northrop N9M
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a local post-maintenance test flight following the completion of the airplane's 
+annual inspection. Radar information showed the airplane flying on a roughly easterly heading before 
+the accident; however, no altitude information was captured. Multiple witnesses located adjacent to the 
+accident site reported observing the airplane flying at low altitude when it pitched upward and banked 
+left before abruptly banking right and nosediving toward the ground. One witness stated that, as the right 
+roll continued, the rpm of the engines increased quickly, and the airplane entered a "diving right 
+corkscrew turn" until it descended out of sight. A video provided by a witness near the accident site did 
+not capture the airplane but did capture the sound of modulating engine noise before the impact, likely a 
+result of an in-flight loss of control. 
+Wreckage and impact signatures were consistent with a near-vertical, high speed impact with terrain.  
+All major structural components of the airplane were accounted for during the examination of the 
+accident site and recovered wreckage, and no evidence of any preexisting mechanical malfunction was 
+observed with the airframe, engines, or propellers; however, the extent of damage sustained in the 
+accident sequence precluded functional testing of the flight control system, its associated hydraulics, and 
+the engine systems. The location of the canopy located within the debris path and the unlatched seat 
+restraint suggest that the pilot, who was wearing a parachute, may have initiated egress following a loss 
+of control, but it is likely that he did not have sufficient altitude to do so before impact occurred.
+  
+Although toxicology revealed the presence of ethanol in the pilot's muscle tissue, it is likely that some or 
+all the detected ethanol may have been from sources other than ingestion. Additional testing from a 
+secondary laboratory found unspecified amounts of ethanol and pseudoephedrine/ephedrine. It is 
+unlikely that ethanol or medication use contributed to the accident.
+It is likely that the pilot experienced an inflight loss of control; however, given the significant 
+fragmentation of the wreckage, the reason for the loss of control could not be determined from the 
+available information.

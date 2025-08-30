@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Wellington, Florida
+Accident Number:
+ERA18TA222
+Date & Time:
+August 17, 2018, 16:00 Local 
+Registration:
+N80932
+Aircraft:
+Globe GC1B
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the airplane's initial climb in crosswind conditions for the personal flight, the engine experienced 
+a partial loss of power, and the airline transport pilot reported that the airplane entered an aerodynamic 
+stall. He attempted to lower the nose of the airplane, but with insufficient altitude, the airplane impacted 
+a ditch parallel to the runway, which resulted in substantial damage to the fuselage and both wings. 
+Examination of the airplane revealed that the engine's No. 3 cylinder had low compression, and the No. 
+3 intake valve had hardened carbon deposit buildup on its stem. After the valve was cleaned and 
+reinstalled, the engine compression returned to the normal range. It is likely that, during the initial climb, 
+the intake valve stuck intermittently due to the carbon deposit buildup, which resulted in the partial loss 
+of engine power and the airplane's inability to climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power during the initial climb due to a sticking intake valve on the No. 3 
+cylinder.

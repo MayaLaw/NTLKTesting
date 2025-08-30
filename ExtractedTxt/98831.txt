@@ -1,0 +1,33 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+San Diego, California
+Accident Number:
+WPR19LA060
+Date & Time:
+December 30, 2018, 15:53 Local 
+Registration:
+N4161X
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the airplane began to pull to the left shortly after touchdown. He 
+applied corrective control inputs, but the airplane continued to veer left and departed the 
+runway, and the main landing gear collapsed.
+Examination did not reveal any anomalies with the steering system that would have precluded 
+normal operation, and all appropriate service bulletins had been complied with. The nose gear 
+actuator had detached at an area on the airframe that was prone to fatigue failure; however, 
+examination of the actuator assembly revealed that it had detached during an overload event, 
+likely from the impact as the airplane departed the runway.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Loss of directional control during the landing roll for reasons that could not be determined 
+based on the available information. 

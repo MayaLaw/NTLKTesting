@@ -1,0 +1,29 @@
+{
+    "Filename": "97758.txt",
+    "Location": "Deer Park, Washington",
+    "Accident Number": "WPR18FA195",
+    "Date & Time": "July 13, 2018, 10:21 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N24442",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "purpose flight student pilot make first flight training program flight instructor observer also onboard airplane aggressive maneuver planned flight radar data indicated following departure airplane flew 25 minute making series benign turn airplane maneuvering level attitude configured 77 kt ground speed suddenly made sharp 90 right turn rapidly descended last speed recorded 117 kt airplane steep dive approached accident site impact outboard wing broke airplane time postaccident examination revealed anomaly airplane flight control system continuity could definitively confirmed due fragmentation wreckage fractured control cable showed signature consistent overload numerous piece windscreen swab airframe sent smithsonian institution feather identification lab found within sample partial feather microscopic downy feather character consistent american white pelican average weight 77 kg many observation american white pelican reported near area around date accident airplane manufacturer recommended maneuvering speed 97 kt abrupt control movement speed could impose excessive load beyond structural strength airplane airplane likely collided american white pelican resulting rapid descent flight instructor unable recover airplane exceeded manufacturer recommended maneuvering speed led exceedance airplane structural strength capability breaking inflight",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "speed",
+                5
+            ]
+        ]
+    }
+}

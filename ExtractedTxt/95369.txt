@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Belmar, New Jersey
+Accident Number:
+GAA17CA339
+Date & Time:
+June 11, 2017, 12:30 Local 
+Registration:
+N71MH
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing and as the left main 
+landing gear (MLG) touched down, the airplane encountered a wind gust and then veered "abruptly" left. 
+He added that, as the right MLG touched down, the airplane "began skidding to the left," and the right 
+MLG collapsed. Subsequently, the airplane came to rest on the left side of the runway and nosed down.
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system at the airport reported that, about the time of the accident, 
+the wind was from 260° at 10 knots, gusting to 15 knots. The pilot landed the airplane on runway 32.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control while landing in gusting wind conditions.

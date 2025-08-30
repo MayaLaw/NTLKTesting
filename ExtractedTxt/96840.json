@@ -1,0 +1,29 @@
+{
+    "Filename": "96840.txt",
+    "Location": "Laredo, Texas",
+    "Accident Number": "CEN18FA116",
+    "Date & Time": "March 8, 2018, 10:38 Local",
+    "Aircraft": "Piper PA 31P",
+    "Registration": "N82605",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot passenger held student certificate departed runway 18r local flight multiengine airplane pilot held flight instructor certificate singleengine airplane takeoff tower controller reported pilot smoke coming left side airplane pilot acknowledged stating going fix entered left downwind runway 18r adding didnt need assistance controller subsequently cleared airplane land runway 18l pilot acknowledged two witness reported seeing smoke come left engine still image taken airport security video show airplane making turn land white smoke trailing landing gear airplane seen steep left turn final approach exceeding 90 bank impacted terrain short runway near vertical attitude postcrash fire ensued examination wreckage found left engine propeller driven engine time impact left propeller feathered position landing gear found extended damage right engine propeller blade consistent engine operating high power impact examination airframe engine revealed evidence preimpact anomaly however examination limited impact fire damage precluded examination hose line associated engine white smoke observed left side airplane likely result oil leak allowed oil reach hot exterior surface engine however could verified due damage engine evidence oil starvation either engine extended landing gear nonfeathered left propeller would increased drag airplane pilot operating procedure engine failure climb call feathering affected engine raising landing gear certain making field unlikely pilot followed applicable checklist response situation change landing runway 18r 18l also reduced radius turn increased required angle bank increased left banked turn right engine operating highpower setting airplane",
+        "Top Words": [
+            [
+                "engine",
+                13
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "left",
+                9
+            ]
+        ]
+    }
+}

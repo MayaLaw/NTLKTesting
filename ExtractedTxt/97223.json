@@ -1,0 +1,29 @@
+{
+    "Filename": "97223.txt",
+    "Location": "Goose Bay, Alaska",
+    "Accident Number": "GAA18CA269",
+    "Date & Time": "May 7, 2018, 15:00 Local",
+    "Aircraft": "Piper PA 18-150",
+    "Registration": "N2432H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according student pilot tailwheelequipped airplane initial solo flight airport traffic pattern performed goaround like approach following next approach recalled airplane encountered left crosswind gust airplane touched gravel runway believed wind shifted airplane tail blown right nose turned left airplane moved crown runway onto downsloping runway edge tailwheel entered soft gravel right wing tip struck ground airplane exited left side runway came rest airplane sustained substantial damage right wing spar nearest metar located 9 mile south accident site reported time accident wind 280 7 knot airplane landed runway 8 pilot reported wind time accident variable 6 knot gusting 10 knot student reported caught wind shift touch go ground looped aircraft preparation landing final check windsock need done every time crosswind wing low approach would helped avoid losing control aircraft touched student reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "runway",
+                5
+            ],
+            [
+                "wind",
+                4
+            ]
+        ]
+    }
+}

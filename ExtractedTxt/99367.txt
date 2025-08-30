@@ -1,0 +1,45 @@
+Page 1 of 32
+Aviation Investigation Final Report
+Location:
+Jacksonville, Florida
+Accident Number:
+DCA19MA143
+Date & Time:
+May 3, 2019, 21:42 Local 
+Registration:
+N732MA
+Aircraft:
+Boeing 737
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 Minor, 142 None
+Flight Conducted Under:
+Part 121: Air carrier - Non-scheduled
+Analysis 
+According to both pilots, the takeoff, climb, and cruise portions of the flight were uneventful. 
+The No. 1 (left) thrust reverser was not operational and deferred for the flight in accordance 
+with the airplane’s minimum equipment list. The captain was the pilot flying for the accident 
+flight, and the first officer was the pilot monitoring. The captain was also performing check 
+airman duties for the first officer who was in the process of completing operating experience 
+training.
+During the approach to Jacksonville Naval Air Station (NIP), the flight crew had two runway 
+change discussions with air traffic controllers due to reported weather conditions (moderate to 
+heavy precipitation) near the field; the pilots ultimately executed the area navigation GPS 
+approach to runway 10, which was ungrooved and had a displaced threshold 997 ft from the 
+threshold, leaving an available landing distance of 8,006 ft.
+As the airplane descended through 1,390 ft mean sea level (msl), the pilots configured it for 
+landing with the flaps set at 30º and the landing gear extended; however, the speedbrake 
+handle was not placed in the armed position as specified in the Landing checklist. At an 
+altitude of about 1,100 ft msl and 2.8 nm from the runway, the airplane was slightly above the 
+glidepath, and its airspeed was on target. Over the next minute, the indicated airspeed 
+increased to 170 knots (17 knots above the target approach speed), and groundspeed reached 
+180 knots, including an estimated 7-knot tailwind.
+At an altitude of about 680 ft msl and 1.6 nm from the threshold, the airplane deviated further 
+above the 3° glidepath such that the precision approach path indicator (PAPI) lights would 
+have appeared to the flight crew as four white lights and would retain that appearance 
+throughout the rest of the approach. Eight seconds before touchdown, multiple enhanced 
+ground proximity warning system alerts announced “sink rate” as the airplane’s descent rate 
+peaked at 1,580 fpm. The airplane crossed the displaced threshold 120 ft above the runway (the 

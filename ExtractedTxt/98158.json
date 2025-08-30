@@ -1,0 +1,29 @@
+{
+    "Filename": "98158.txt",
+    "Location": "New Kent, Virginia",
+    "Accident Number": "ERA18LA233",
+    "Date & Time": "August 26, 2018, 16:10 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N1537U",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "student pilot first leg solo crosscountry flight witness destination airport reported heard loud engine noise looked saw airplane midfield steep left descending turn nose 40 airplane descended view behind hangar shortly thereafter heard sound impact examination accident site revealed airplane struck power line 700 ft left runway centerline midfield impacted terrain three different section fencing came rest nose postaccident examination airplane throttle control found full forward position pitch trim found slightly nosedown position postaccident examination airframe engine revealed evidence preaccident mechanical malfunction failure would precluded normal operation according flight school owner flight school policy prohibited student conducting touchandgo landing solo crosscountry flight given policy postaccident throttle position likely student conducting goaround lost airplane control initial climb probable cause finding national transportation safety board determines probable cause accident student pilot loss airplane control goaround",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

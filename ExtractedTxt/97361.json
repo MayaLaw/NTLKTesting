@@ -1,0 +1,29 @@
+{
+    "Filename": "97361.txt",
+    "Location": "Crescent Mills, California",
+    "Accident Number": "WPR18TA157",
+    "Date & Time": "May 18, 2018, 08:09 Local",
+    "Aircraft": "Cessna 182D",
+    "Registration": "N9163X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported arrived vicinity destination airport fog valley airport located began circling airplane low engine power setting engine subsequently lost total power pilot performed forced landing river resulting substantial damage right wing atmospheric condition present area time accident conducive development serious carburetor icing glide power setting likely resulted loss engine power probable cause finding national transportation safety board determines probable cause accident total loss engine power due development carburetor icing finding environmental issue conducive carburetor icing effect equipment",
+        "Top Words": [
+            [
+                "power",
+                5
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "carburetor",
+                3
+            ]
+        ]
+    }
+}

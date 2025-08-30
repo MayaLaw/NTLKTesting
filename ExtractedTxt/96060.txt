@@ -1,0 +1,44 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Thief River Falls, Minnesota
+Accident Number:
+CEN17FA361
+Date & Time:
+September 23, 2017, 07:42 Local 
+Registration:
+N4777T
+Aircraft:
+Cessna TR182
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The noninstrument-rated private pilot and 2 passengers departed in instrument meteorological conditions 
+(IMC) with an overcast cloud layer at 400 ft above ground level (agl). Data obtained from an onboard 
+GPS unit showed the airplane depart toward the destination airport and climb and descend several times. 
+About 2 minutes after takeoff, the airplane descended to 250 ft above ground level (agl), then turned and 
+quickly climbed to 1,400 ft agl. The final GPS points showed the airplane in a descending right turn. A 
+witness reported hearing the airplane overhead and stated that the engine was "screaming" before 
+impact. The airplane impacted a field about 4 minutes after takeoff resulting in a debris path about 230 
+yards long, consistent with a relatively high forward airspeed at the time of impact.
+A postaccident examination of the airframe and engine did not reveal any preimpact anomalies that 
+would have precluded normal operation. The primary vacuum pump was not found in the wreckage; 
+however, an examination of the standby vacuum pump revealed that the rotor was fractured by impact, 
+but the vanes were intact. The heading indicator and turn coordinator gyros exhibited rotational scoring 
+consistent with rotation at the time of impact. The damage to the propeller blades was consistent with 
+the engine producing power at impact. 
+The autopsy report revealed no significant coronary artery disease; however, microscopic examination 
+revealed focal areas of fine fibrosis suggestive of prior ischemic episodes. This finding was not 
+significant enough to suggest an incapacitating event. No other significant natural disease was present 
+that could pose a hazard to flight safety.
+Review of the pilot's logbook and his statements to individuals who spoke with him before the accident 
+suggested that he had a history of flying in and around IMC. Given the weather conditions at the time of 
+departure and observations of the pilot checking the weather conditions before the flight, the pilot was 
+aware that he would be required to fly in or under IMC during the flight and chose to do so despite not 
+holding an instrument rating. Based on the reported weather conditions and GPS data, it is likely that, 

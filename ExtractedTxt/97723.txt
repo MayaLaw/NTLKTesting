@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Mackinac Island, Michigan
+Accident Number:
+GAA18CA407
+Date & Time:
+July 1, 2018, 12:00 Local 
+Registration:
+N66568
+Aircraft:
+Beech 58
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the twin-engine airplane reported that, during the takeoff roll on the 3,500-ft-long runway, 
+the airspeed indicator did not indicate an airspeed, so he rejected the takeoff. He added that he attempted 
+to brake, but "full braking [was] not initially possible due to lift." Subsequently, the airplane overran the 
+runway onto a downhill grassy area and struck a fence. 
+During postaccident examination of the airplane, the pilot found that the pitot tube cover had not been 
+removed before the flight.
+According to the manufacturer, the typical takeoff roll is about 1,336 ft, and the approximate landing 
+roll is 1,440 ft. If the pilot had rejected the takeoff sooner, he likely could have stopped the airplane on 
+the runway.
+The airplane sustained substantial damage to both wings.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot added that his preflight memory list was: fuel, oil, tires, props, and surfaces and that he will 
+now add "chocks, cowl plugs, pitot tube covers."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

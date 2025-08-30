@@ -1,0 +1,29 @@
+{
+    "Filename": "97284.txt",
+    "Location": "Burnet, Texas",
+    "Accident Number": "GAA18CA287",
+    "Date & Time": "May 19, 2018, 11:30 Local",
+    "Aircraft": "Maule M 7",
+    "Registration": "N427LS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane attempted threepoint landing 48 flap applied strong left crosswind reported landing airplane lifted left wing lifted pilot applied aileron rudder input counter left crosswind input ineffective due airplane low airspeed applied power fly gusting left crosswind condition airplane veered right right wing struck ground airplane cartwheeled airplane sustained substantial damage engine mount wing aft fuselage metar accident airport reported time accident wind 160 12 knot gusting 25 knot highest wind reported observation period 190 31 knot pilot landed airplane runway 19 according manufacturer airplane flight manual maximum demonstrated crosswind component 12 knot flap extension limited 0 pilot reported accident could prevented attempted wheel landing less full flap pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                5
+            ]
+        ]
+    }
+}

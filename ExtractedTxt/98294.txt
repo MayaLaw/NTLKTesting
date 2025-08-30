@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Page, Arizona
+Accident Number:
+GAA18CA552
+Date & Time:
+September 11, 2018, 17:00 Local 
+Registration:
+N5198N
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, shortly after transition to cruise flight, he noticed that the engine was "running 
+rough," the cylinder head temperature was almost in the red, and the engine rpm and manifold pressure 
+were decreasing. He decided to return to the departure airport for a precautionary landing. On approach, 
+he decreased the engine power setting and increased the mixture and propeller settings, and the airplane 
+then crossed the runway threshold about 80 knots with full flaps. The pilot added that, during the 
+landing flare, the airplane "dropped" and then bounced two to three times on the runway. He taxied the 
+airplane off the runway, and it was then was towed back to the ramp. 
+The airplane sustained substantial damage to the fuselage.
+The Federal Aviation Administration inspector reported that there no mechanical failures or 
+malfunctions with the airplane that would have precluded normal operation. 
+The airport's automated weather observation station reported that, about the time of the accident, the 
+wind was variable at 4 knots. The pilot landed the airplane on runway 33.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in a bounced landing. 

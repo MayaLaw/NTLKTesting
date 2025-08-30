@@ -1,0 +1,29 @@
+{
+    "Filename": "98432.txt",
+    "Location": "New Orleans, Louisiana",
+    "Accident Number": "GAA19CA009",
+    "Date & Time": "October 6, 2018, 11:15 Local",
+    "Aircraft": "Stearman A75N1(PT17)",
+    "Registration": "N56949",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing crosswind tailwheelequipped biplane thrusted downward violently landed hard added biplane veered right runway attempted goaround applying power realized need full left aileron maintain heading decided abort goaround reduced power land landing used brake avoid airport sign landing path right main tire got traction biplane ground looped right biplane sustained substantial damage lower wing elevator pilot reported preaccident mechanical failure malfunction biplane would precluded normal operation pilot reported wind 110 15 knot terraininduced moderate turbulence existed automated weather observation system airport reported following time accident temperature 88f dew point 75f visibility 10 mile wind 110 11 knot broken layer cloud 2800 ft pilot landing biplane runway 18l probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control crosswind landing",
+        "Top Words": [
+            [
+                "biplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                5
+            ]
+        ]
+    }
+}

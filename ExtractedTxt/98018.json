@@ -1,0 +1,29 @@
+{
+    "Filename": "98018.txt",
+    "Location": "Louise, Mississippi",
+    "Accident Number": "GAA18CA476",
+    "Date & Time": "July 30, 2018, 12:00 Local",
+    "Aircraft": "Air Tractor AT502",
+    "Registration": "N205SK",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported fourth landing rural runway airplane touched hard bounced veered left pilot attempted correct opposite rudder however airplane continued left field ground looped left right wing impacted ground right main landing gear separated airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard bounced landing subsequent loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

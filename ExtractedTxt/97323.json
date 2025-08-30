@@ -1,0 +1,29 @@
+{
+    "Filename": "97323.txt",
+    "Location": "Defuniak Springs, Florida",
+    "Accident Number": "GAA18CA299",
+    "Date & Time": "May 19, 2018, 17:20 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N12267",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according student pilot performing touchandgo takeoff landing following first crosscountry solo flight reported last landing airplane touched way right side runway aborted landing shut carburetor heat applied power airplane nose pitched turned left airplane impacted grass safety area left side runway nosedown attitude airplane came rest inverted striking drainage culvert sustained substantial damage rightwing lift strut aileron student reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control aborted landing",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

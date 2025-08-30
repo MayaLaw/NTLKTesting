@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Sand Creek, Wisconsin
+Accident Number:
+GAA19CA074
+Date & Time:
+November 21, 2018, 10:45 Local 
+Registration:
+N579CP
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Ferry
+Analysis 
+The pilot reported that, during a ferry flight, while climbing the airplane to cruise altitude, the engine 
+temperatures increased quickly and that the engine then surged. The pilot added that he "switched" the 
+boost pump, adjusted the mixture lever, and then deployed the ballistic parachute system at 3,500 ft 
+mean sea level. During the off-airport landing in a field, the airplane impacted an irrigation sprinkler 
+system.
+The airplane sustained substantial damage to the fuselage.
+Postaccident examination of the airplane by a Federal Aviation Administration (FAA) inspector revealed 
+that two air lines were disconnected and that there were no torque lines on the lines. According to the 
+FAA inspector, the pilot and a mechanic who had conducted the airplane's last maintenance reported that 
+the airplane had been flown 7 hours since the last maintenance. The mechanic had replaced three 
+cylinders during the maintenance, which required removal of the air lines. It is likely that, during the 
+maintenance, the mechanic did not properly secure the air reference line, which led to a loss of engine 
+power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The mechanic's failure to properly secure the air reference line, which resulted in a loss of engine power. 

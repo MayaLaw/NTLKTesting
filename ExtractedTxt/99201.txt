@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Palatka, Florida
+Accident Number:
+ERA19LA141
+Date & Time:
+March 30, 2019, 16:59 Local 
+Registration:
+N81KK
+Aircraft:
+Flight Design CTLS
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the cross-country flight was uneventful until he was approaching the destination 
+airport from the north, when the engine lost total power. He was unable to restart the engine and 
+prepared for a forced landing in a clearing. He deployed the airplane’s Ballistic Recovery System 
+(BRS); the rocket fired, but the parachute remained in its container. During the forced landing, the 
+airplane was substantial damage and the pilot and passenger were seriously injured.
+The pilot reported that he began the flight with about 13.5 gallons of fuel on board, which was consistent 
+with the recorded fuel quantity remaining indicated by the airplane’s engine monitoring system (EMS); 
+however, this value was not directly measured and depended on pilot input. There was no odor of fuel or 
+evidence of fuel leaks at the crash site. The fuel tanks were not compromised during the impact and no 
+fuel was found in the fuel tanks during recovery.
+The engine and fuel system were examined after the accident and a test run was performed. The engine 
+ran normally on the airframe and no evidence of a preexisting mechanical failure or anomaly was found. 
+Examination of the EMS data revealed that, during the power loss, fuel flow increased to more than 
+twice the normal rate. According to the engine manufacturer, air introduced into the fuel system due to 
+fuel exhaustion can result in a fuel flow increase due to the impeller on the fuel flow transducer speeding 
+up. Given this information, it is likely that the initial fuel-on-board indications were incorrect (as they 
+were not indications, but calculations based on pilot input) and that the loss of engine power was the 
+result of fuel exhaustion.
+An examination of the BRS revealed numerous conditions that were indicative of improper or 
+nonexistent maintenance and inspections. These conditions, among others, included the following. The 
+S-folded harnesses were improperly secured inside the egress panel. These harnesses improperly 
+protruded into and blocked the egress opening. They also protruded into and blocked the opening of the 
+parachute canister. During the attempted BRS deployment, a portion of the egress panel remained 
+attached to the airframe due to improper bonding. This condition blocked the parachute container, 

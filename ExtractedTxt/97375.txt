@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Union, Illinois
+Accident Number:
+CEN18LA205
+Date & Time:
+May 27, 2018, 18:15 Local 
+Registration:
+N19366
+Aircraft:
+Cessna 150L
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Glider tow
+Analysis 
+The airline transport pilot reported that he was returning from a routine glider tow flight when he 
+thought "something was wrong." He noted that it seemed to "get dark" although there was plenty of 
+daylight. The airplane was high on the approach. The pilot continued the flight inbound but was unsure 
+of the airplane's exact altitude or airspeed as it crossed the runway threshold, and he did not recall 
+verifying that the engine power was at idle. The airplane "bounced down the field" and he flew toward 
+an opening in the trees off the end of the runway. The pilot did not see the power lines until the airplane 
+struck them and then came to rest in a field. The pilot recalled not having an "aviation related thought" 
+during the landing. A postaccident examination of the airframe and engine did not reveal any evidence 
+of preimpact mechanical malfunctions or failures that would have precluded normal operation.
+The pilot had completed the Federal Aviation Administration BasicMed medical certification, which 
+was valid at the time of the accident. The pilot described symptoms consistent with fainting or nearly 
+fainting, which commonly occur when blood pressure is low and would have led to an inability to safely 
+fly the airplane. The pilot thought that dehydration or heat exhaustion might have caused his symptoms. 
+However, given his long-standing paroxysmal atrial fibrillation, his difficulty effectively controlling it 
+after the accident, his documented low blood pressure during those episodes, and his lack of symptoms 
+during the episodes of atrial fibrillation other than "feeling bad," it is likely that his symptoms during the 
+flight were related to an episode of atrial fibrillation associated with a rapid heart rate and low blood 
+pressure. Therefore, symptomatic near fainting as a result of uncontrolled paroxysmal atrial fibrillation 
+likely caused the accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

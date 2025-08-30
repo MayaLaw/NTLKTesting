@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+North Myrtle Beach, South Carolina
+Accident Number:
+GAA18CA434
+Date & Time:
+July 9, 2018, 11:00 Local 
+Registration:
+N96T
+Aircraft:
+CLASSIC AIRCRAFT CORP WACO
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, after a three-point landing, the airplane began 
+to "shudder" and veered left. He corrected by applying forward pressure to the control stick and right 
+rudder, and the airplane's tailwheel raised off the runway, and the airplane regained the runway heading. 
+As the airspeed decreased, the tailwheel touched down on the runway, and the airplane shuddered and 
+veered left again. He corrected with right rudder, left brake and aileron, but the airplane ground looped 
+to the left, and the main landing gear collapsed. 
+The airplane sustained substantial damage to the fuselage. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot added that, about 1 hour before the accident, the wind was from 340º at 12 knots, gusting to 17 
+knots. The airport's automated weather observation system reported that, about the time of the accident, 
+the wind was from 340° at 8 knots. The pilot landed the airplane on runway 5.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing in a left quartering headwind. 

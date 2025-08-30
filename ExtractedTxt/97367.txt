@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Payson, Arizona
+Accident Number:
+GAA18CA313
+Date & Time:
+May 30, 2018, 16:55 Local 
+Registration:
+N780JA
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during a short-field takeoff, around 100 ft above the ground, he saw the primary 
+flight display (PFD) airspeed indicator showing 0. He added that the engine appeared to be functioning 
+normally, but he decided to level the airplane and attempt to land on the remaining runway. The airplane 
+then began to turn left, and he added right rudder. Subsequently, the airplane touched down on an 
+adjacent taxiway left of the runway, and the nose landing gear collapsed.
+The airplane sustained substantial damage to the left horizontal stabilizer.
+Postaccident examination videos were provided by a Federal Aviation Administration inspector. The 
+videos showed both the PFD and backup airspeed indicators moving in sync with air applied to the pitot 
+tube.
+The automated weather observation system at the airport reported that, about the time of the accident, 
+the wind was from 190° at 10 knots, gusting to 18 knots, and the calculated density altitude was 7,883 ft. 
+The pilot was departing from runway 24.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain yaw control during a short-field takeoff in high-density altitude 
+conditions.

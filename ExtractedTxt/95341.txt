@@ -1,0 +1,31 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Carpinteria, California
+Accident Number:
+WPR17LA124
+Date & Time:
+June 10, 2017, 14:30 Local 
+Registration:
+N2171D
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+VFR encounter with IMC
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The noninstrument-rated private pilot reported that, while en route, he encountered clouds about 2,200 ft 
+above ground level (agl). He descended the airplane to 2,100 ft agl to try to get out of the clouds, but he 
+still could not see outside. The pilot reported that he decided not to climb nor contact air traffic control; 
+the airplane impacted a tree-covered mountain ridge and came to rest upright with its left wing bent aft. 
+The pilot reported no anomalies with the airframe or engine that would have precluded normal 
+operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The noninstrument-rated pilot's improper decision to continue visual flight rules flight into instrument 
+meteorological conditions, which resulted in controlled flight into terrain.

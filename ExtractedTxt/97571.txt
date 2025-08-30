@@ -1,0 +1,32 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Lexington, North Carolina
+Accident Number:
+ERA18TA179
+Date & Time:
+June 25, 2018, 11:45 Local 
+Registration:
+N52584
+Aircraft:
+Stearman B75
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the second wheel landing of the flight and shortly after the tailwheel touched down on the 
+runway, the airplane drifted right. The commercial pilot attempted to stop the drift by applying the 
+wheel brakes. Subsequently, the airplane nosed over. The right wing, rudder, and vertical stabilizer 
+sustained substantial damage. During a postaccident interview, the pilot stated that he "got on [the] 
+brakes a little harder than I should have." 
+Examination of the landing gear assembly and rudder control linkages did not reveal any evidence of 
+preimpact mechanical malfunctions or failures that would have precluded normal operation. Therefore, 
+it is likely the pilot's overapplication of the brakes resulted in the nose-over.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's overapplication of the wheel brakes during landing, which resulted in a nose-over. 

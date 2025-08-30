@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Lake City, Florida
+Accident Number:
+ERA19LA041
+Date & Time:
+November 11, 2018, 13:14 Local 
+Registration:
+N52737
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was attempting to depart from a 2,600-ft-long turf runway with a right quartering 
+tailwind with three passengers onboard. A witness estimated that the tailwind was about 8 knots. The 
+pilot reported that the only thing he could recall about the flight was that he had "difficulty getting the 
+airplane into the air." Another witness reported that, immediately after becoming airborne, the airplane 
+entered a series of pitch oscillations; during each oscillation, the airplane appeared to be near the stall 
+speed and lose altitude. After several oscillations, the airplane neared the left side of the runway and 
+impacted treetops before impacting the ground and cartwheeling. One of the witnesses stated that the 
+engine sound did not change during takeoff and that the engine appeared to be running well the entire 
+time.
+Given the evidence, it is likely that the pilot's failure to attain adequate airspeed before attempting the 
+takeoff with a tailwind, which led to the airplane being unable to sustain flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to attain adequate airspeed before attempting the takeoff with a tailwind, 
+which resulted in the airplane being unable to sustain flight.

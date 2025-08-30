@@ -1,0 +1,29 @@
+{
+    "Filename": "97429.txt",
+    "Location": "Englewood, Florida",
+    "Accident Number": "ERA18LA162",
+    "Date & Time": "June 7, 2018, 11:50 Local",
+    "Aircraft": "BRYAN C L/LABRASH R D SEAREY",
+    "Registration": "N907CB",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot experimental amateurbuilt airplane reported performed engine runup 3500 rpm along entire length runway turned around takeoff opposite direction rotation engine lost partial power airplane descended struck tree end runway coming rest grass near runway end fuselage left wing sustained substantial damage postaccident examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation atmospheric condition time accident conducive accumulation serious carburetor icing glide power icing glide cruise power engine equipped carburetor heat system therefore likely carburetor accumulated ice ground operation resulted partial loss engine power subsequent climb probable cause finding national transportation safety board determines probable cause accident partial loss engine power due carburetor icing",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "carburetor",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97182.txt",
+    "Location": "Sisters, Oregon",
+    "Accident Number": "GAA18CA254",
+    "Date & Time": "May 4, 2018, 17:45 Local",
+    "Aircraft": "Beech 58",
+    "Registration": "N222BD",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot performed steep approach treecovered descending terrain treelined runway reported approach airplane encountered significant lowlevel wind shear sink 800 ft runway aborted landing airplane impacted ground 150 ft short runway airplane sustained substantial damage engine mount rightwing spar awos located airport reported time accident wind 250 13 knot gusting 22 knot density altitude reported 4000 ft pilot landed runway 20 3560 ft long airport facility directory stated runway 20 nonstandard entry due rising terrain approach end along 81fttall tree 560 ft approach end runway recommendation section national transportation safety board pilot aircraft accident report pilot reported accident could prevented avoiding nonstandard steep approach runway 20 gusting wind condition pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "runway",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "approach",
+                5
+            ]
+        ]
+    }
+}

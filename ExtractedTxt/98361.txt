@@ -1,0 +1,48 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Greenville, South Carolina
+Accident Number:
+ERA18FA264
+Date & Time:
+September 27, 2018, 13:46 Local 
+Registration:
+N114TD
+Aircraft:
+Dassault FALCON 50
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 Fatal, 2 Serious
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The flight crew was operating the business jet on an on-demand air taxi flight with passengers onboard. 
+During landing at the destination airport, the cockpit voice recorder (CVR) recorded the sound of the 
+airplane touching down followed by the pilot's and copilot's comments that the brakes were not 
+operating. Air traffic controllers reported, and airport surveillance video confirmed, that the airplane 
+touched down "normally" and the airplane's thrust reverser deployed but that the airplane continued 
+down the runway without decelerating before overrunning the runway and impacting terrain. Post-
+accident examination of the airplane's brake system revealed discrepancies of the antiskid system that 
+included a broken solder joint on the left-side inboard transducer and a reversal of the wiring on the 
+right-side outboard transducer. It is likely that these discrepancies resulted in the normal braking 
+system's failure to function during the landing.
+Before the accident flight, the airplane had been in long-term storage for several years and was in the 
+process of undergoing maintenance to bring the airplane back to a serviceable condition, which in-part 
+required the completion of several inspections, an overhaul of the landing gear, and the resolution of 
+over 100 other unresolved discrepancies. The accident flight and four previous flights were all made 
+with only a portion of this required maintenance having been completed and properly documented in the 
+airplane's maintenance logs. A pilot, who had flown the airplane on four previous flights along with the 
+accident pilot (who was acting as second-in-command during them), identified during those flights that 
+the airplane's normal braking system was not operating when the airplane was traveling faster than 20 
+knots. He remedied the situation by configuring the airplane to use the emergency, rather than normal, 
+braking system. That pilot reported this discrepancy to the operator's director of maintenance, and it is 
+likely that maintenance personnel from the company subsequently added an "INOP" placard near the 
+switch on the date of the accident. The label on the placard referenced the antiskid system, and the 
+airplane's flight manual described that with the normal brake (or antiskid) system inoperative, the brake 
+selector switch must be positioned to use the emergency braking system. Following the accident, the 
+switch was found positioned with the normal braking system activated, and it is likely that the accident 
+flight crew attempted to utilize the malfunctioning normal braking system during the landing. 
+Additionally, the flight crew failed to properly recognize the failure and configure the airplane to utilize 

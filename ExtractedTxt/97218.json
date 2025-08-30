@@ -1,0 +1,29 @@
+{
+    "Filename": "97218.txt",
+    "Location": "Sioux Falls, South Dakota",
+    "Accident Number": "CEN18LA164",
+    "Date & Time": "April 29, 2018, 22:30 Local",
+    "Aircraft": "Beech 1900C",
+    "Registration": "N172GA",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "twinengine turbopropellerequipped airplane started taxi takeoff right main landing gear collapsed deforming aft center wing lower spar cap postaccident examination airplane revealed right main landing gear drag brace bolt failed wing forward attach point airplane moved forward strut pivoted aft collapsing landing gear drag brace bolt retained reason failure could determined based available information probable cause finding national transportation safety board determines probable cause accident failure right main landing gear drag brace bolt reason could determined based available information finding aircraft main landing gear attach sec failure aircraft spar wing fatiguewearcorrosion",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "gear",
+                5
+            ],
+            [
+                "main",
+                4
+            ]
+        ]
+    }
+}

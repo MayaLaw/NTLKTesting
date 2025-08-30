@@ -1,0 +1,45 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Eagle Lake, Texas
+Accident Number:
+CEN19FA140
+Date & Time:
+May 11, 2019, 08:10 Local 
+Registration:
+N713LA
+Aircraft:
+Air Tractor AT502
+Aircraft Damage:
+Destroyed
+Defining Event:
+VFR encounter with IMC
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+ 
+The non-instrument-rated commercial pilot departed from the operator's airstrip and was planning to 
+conduct a visual flight rules (VFR) aerial application flight in an airplane that was not equipped for 
+instrument flight rules (IFR) flight. Shortly after departure in visual meteorological conditions, the pilot 
+contacted the operator and reported that he observed fog that was "rolling in."  The pilot reported that he 
+was flying above the fog layer.  The pilot stated that he was going divert to a local airport, instead of 
+returning to the operator's airstrip, and terminate the flight. No further communication was received 
+from the pilot. 
+Data obtained from two onboard units that contained airplane track data showed that, during the last 
+several minutes of the flight, the airplane entered two spiraling turns. The second spiraling turn included 
+a rapid descent from the airplane's altitude in the direction of the accident site. The airplane wreckage 
+was discovered in a grass field about 7.5 miles southwest from the diversion airport. 
+Two witnesses who were near the accident site heard the accident airplane flying overhead and reported 
+that they did not hear any sounds associated with an airplane problem before the sound of the airplane's 
+impact. An examination of the airframe and engine revealed no mechanical anomalies. 
+The investigation was unable to determine, with the available evidence, whether the pilot had received 
+an official weather briefing or accessed weather information before the flight. Multiple weather sources 
+indicated low ceilings and the presence of fog, which were conducive to low IFR conditions, before and 
+at the time of the accident for the area near the accident site. The witnesses who heard the accident 
+airplane reported a low level of fog about the time of the accident and an area of clear visibility between 
+the ground and fog. Fog differs from clouds in that the base of fog is at the Earth's surface, while clouds 
+are above the Earth's surface. 
+Given the weather data, airplane track data, and witness statements, the airplane likely flew into an area 
+of fog just before the accident for underdetermined reasons. The IMC present at the time was conducive 

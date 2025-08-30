@@ -1,0 +1,29 @@
+{
+    "Filename": "93988.txt",
+    "Location": "Sioux Falls, South Dakota",
+    "Accident Number": "CEN16CA364",
+    "Date & Time": "August 30, 2016, 08:45 Local",
+    "Aircraft": "Beech V35B",
+    "Registration": "N23583",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "final practice instrument approach engine lost total power attempted engine restart switching fuel tank unsuccessful flight instructor took control airplane pilot receiving instruction executed forced landing corn field airplane sustained substantial damage wing airplane recovered field 1 cup fuel found right fuel tank left wing fuel tank 34s full engine functionally tested 10 minute airframe anomaly noted pilot reported check wing fuel tank preflight relied cockpit fuel gauge fuel quantity probable cause finding national transportation safety board determines probable cause accident pilot failure adequately manage available fuel supply resulting fuel starvation total loss engine power contributing accident inadequate preflight pilot flight instructor flight instructor failure monitor fuel level",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "tank",
+                4
+            ]
+        ]
+    }
+}

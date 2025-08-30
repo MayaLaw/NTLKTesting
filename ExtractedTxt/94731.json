@@ -1,0 +1,29 @@
+{
+    "Filename": "94731.txt",
+    "Location": "Gainesville, Texas",
+    "Accident Number": "CEN17LA105",
+    "Date & Time": "February 21, 2017, 00:20 Local",
+    "Aircraft": "American Aviation AA 1A",
+    "Registration": "N6343L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "private pilot conducting familiarization flight nonpilotrated passenger recently purchased airplane flew nearby airport practice touchandgo landing completing 15 landing proceeded another airport get fuel 5 minute reaching airport passenger noticed fuel pressure gauge indicated 0 psi engine operating smoothly pilot turned electric fuel boost pump fuel pressure gauge returned 5 psi boost pump remained remainder flight upon arrival airport goaround performed engine experienced loss power climb 200 ft ground level performed forced landing field short runway postaccident fuel consumption calculation revealed airplane likely contained 1 gallon fuel time accident would unusable examination fuel tank revealed less 1 cup fuel left tank fuel remaining right tank fuel spill observed accident site first responder likely 1 gallon unusable fuel right tank right wing separated fuselage fuel line fractured anomaly noted engine propeller blade show rotational signature although pilot reported flew airplane final approach goaround discrepancy statement suggested nonpilot rated passenger actually manipulating airplane control loss engine power probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "airport",
+                4
+            ]
+        ]
+    }
+}

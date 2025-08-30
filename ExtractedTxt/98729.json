@@ -1,0 +1,29 @@
+{
+    "Filename": "98729.txt",
+    "Location": "Fargo, North Dakota",
+    "Accident Number": "CEN19LA039",
+    "Date & Time": "November 30, 2018, 13:53 Local",
+    "Aircraft": "Cessna 550",
+    "Registration": "N941JM",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "9 Minor, 2 None",
+    "Analysis": {
+        "Text": "commercial pilot conducting crosscountry business flight 10 passenger onboard 8 passenger airplane reported air traffic control cleared flight instrument landing system il approach runway descending airplane entered instrument meteorological condition imc 3100 ft mean sea level msl ice started accumulate wing leading edge empennage windshield pilot activated pneumatic deice boot multiple time approach slowed airplane 120 knot airplane exited cloud 400 ft ground level agl pilot maintained 120 knot airplane flew airport fence indication landing normal 100 ft agl airplane started pull right applied left correction input airplane continued pull right applied engine power conduct go around airplane landed grass right runway sustaining damage wing landing gear witness passenger reported airplane stalled examination airplane immediately accident 12 1 inch mixed ice found right wing leading edge vertical horizontal stabilizer angle attack probe ice also observed windshield flap found position flight control continuity established although airplane originally certificated twopilot operation pilot flying airplane singlepilot exemption pilot received logbook endorsement indicating received singlepilot training properly qualified singlepilot exemption however met turbine flight time qualification 1000 hour properly authorized conduct flight singlepilot exemption 500 hour review cockpit voice recorder information indicated although pilot verbalized landing gear green followed stating check check check verbalize approach landing checklist item make audible comment activating pneumatic deice boot windshield antiice",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

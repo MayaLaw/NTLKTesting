@@ -1,0 +1,41 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Cottonwood, California
+Accident Number:
+WPR19LA017
+Date & Time:
+October 30, 2018, 09:24 Local 
+Registration:
+N6414X
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was approaching the destination airport at an altitude of about 1,500 ft about 1.5 miles from 
+the runway threshold, when he attempted to add power by advancing the throttle, but "nothing 
+happened." He "cycled" the mixture and the magnetos, but there was no change, and the airplane 
+descended below the desired glidepath. The pilot did not use carburetor heat during the approach, and he 
+did not apply it following the engine’s failure to respond to the advanced throttle setting. The pilot chose 
+to conduct an off-airport landing in a field, during which the airplane stalled while the pilot attempted to 
+maneuver over power lines.
+There was no evidence of any fuel or oil leaks, thermal or fire damage, or any nonimpact-related 
+deficiencies or damage. During a test run, the engine started and functioned normally, except that the 
+maximum rpm achieved was slightly below the design specification. The examination and testing did 
+not reveal any mechanical reasons for the power loss reported by the pilot.
+The ambient temperature and dew point in the area of the accident site about the time of the accident 
+were conducive to the development of carburetor icing. Given the lack of mechanical anomalies and the 
+pilot's failure to apply carburetor heat during the descent and following the engine’s lack of response to 
+the power increase, it is likely that the engine developed carburetor ice during the approach at the 
+reduced throttle setting, which resulted in the engine's failure to respond to the pilot's throttle change. 
+The pilot's failure to apply carburetor heat during the reduced power descent was contrary to the airplane 
+manufacturer's Owner's Manual guidance.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

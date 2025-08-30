@@ -1,0 +1,29 @@
+{
+    "Filename": "96040.txt",
+    "Location": "Charlotte, North Carolina",
+    "Accident Number": "DCA17CA197",
+    "Date & Time": "September 13, 2017, 15:45 Local",
+    "Aircraft": "BOMBARDIER INC CL 600 2B19",
+    "Registration": "N261PS",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 Serious, 34 None",
+    "Analysis": {
+        "Text": "september 13 2017 345 pm eastern daylight time psa airline flight 5233 bombardier crj 200 n261ps collided tld jet16 baggage tug operated piedmont airline taxiing charlottedouglas international airport kclt charlotte north carolina airplane received substantial damage left wing tug canopy section damaged tug driver seriously injured injury 34 passenger crew onboard crj200 weather daytime visual meteorological condition landing runway 18r airplane instructed taxi gate e4 taxiing narrow alleyway near north end concourse e concourse baggage transfer point ground tug impacted left wingtip tug driving nonmovement area terminal ramp baggage tug slightly front aircraft 10 oclock position captain aircraft terminal road cross taxi alleyway near gate e38 beginning area designated baggage transfer point transfer point located outside alleyway lined concrete barrier airplane taxi within alleyway ground equipment travel perpendicular aircraft movement accessing transfer point tug turned onto service road began cross roadway noticed airplane taxing alley driver indicated order avoid collision tightened right turn opposite direction airplane traveling colliding left hand wing canopy baggage tug sheared leading edge winglet airplane substantially damaged final resting place tug behind trailing edge wing skid mark airplane tire consistent maximum braking starting airplane made contact baggage tug according airline ground movement procedure airplane non movement area always right way",
+        "Top Words": [
+            [
+                "tug",
+                10
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "baggage",
+                6
+            ]
+        ]
+    }
+}

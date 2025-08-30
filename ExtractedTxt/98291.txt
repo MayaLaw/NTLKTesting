@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Culpeper, Virginia
+Accident Number:
+GAA18CA550
+Date & Time:
+September 1, 2018, 12:00 Local 
+Registration:
+N27WE
+Aircraft:
+Boeing B75N1
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot in the rear seat of the tailwheel-equipped biplane reported that he and another pilot were 
+practicing landings on the asphalt runway. During the landing roll, the airplane entered a left ground-
+loop, and the bottom right wing and aileron collided with the ground.
+The airplane sustained substantial to the bottom right wing and aileron. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll, which resulted in a ground-
+loop.
+Findings
+Personnel issues
+Aircraft control - Instructor/check pilot
+Aircraft
+Directional control - Not attained/maintained

@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Liberal, Kansas
+Accident Number:
+CEN19FA029
+Date & Time:
+November 17, 2018, 16:57 Local 
+Registration:
+N4817M
+Aircraft:
+Beech 55
+Aircraft Damage:
+Substantial
+Defining Event:
+Structural icing
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal flight that encountered moderate rime ice while en route to the 
+planned destination airport. The pilot attempted to climb from 5,100 to 8,000 ft to allow for the accreted 
+ice on the airplane to dissipate, but the airplane was unable to climb and entered an uncontrolled 
+descent. The pilot recovered the airplane at an altitude of about 3,500 ft and then diverted to an alternate 
+airport. During the approach to the diversion airport, the pilot attempted to maintain visual flight and 
+requested a vector for the localizer approach to the airport. The air traffic controller was unable to 
+provide those vectors due to the airplane's low altitude. The airplane impacted a power line about 3 
+miles south of approach end of the intended landing runway.
+Postaccident examination of the airframe and engines revealed no preimpact anomalies that would have 
+precluded normal operation of the airplane. The airplane had ice present on the leading edges of the 
+horizontal stabilizer and the right-side window.
+The airplane was not certified for flight in icing conditions. The airplane had an alcohol deice system for 
+the left-side windshield and both propellers. However, postaccident examination of the alcohol reservoir 
+revealed that it had not been used for a period of time, and no fluid was found in the lines leading from 
+the reservoir; thus the windshield and propeller deice system was likely inoperable at the time of the 
+accident.
+AIRMET Zulu advisories for moderate ice below 10,000 ft were issued by the National Weather 
+Service's Aviation Weather Center and were applicable for the accident airplane's route of flight and the 
+airspace over the pilot's destination, the airport he was diverting to, and the accident location. Leidos 
+Flight Services indicated that it and any third-party vendor that uses the Leidos system had no contact 
+with the accident pilot on the day of the accident. Thus, the pilot would have been unaware of the 
+forecast icing conditions.
+The airplane's uncontrolled descent from 5,100 to 3,500 ft was most likely the result of reduced airplane 
+performance from the ice accretion.

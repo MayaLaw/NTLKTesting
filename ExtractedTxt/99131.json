@@ -1,0 +1,29 @@
+{
+    "Filename": "99131.txt",
+    "Location": "Yukon, Oklahoma",
+    "Accident Number": "CEN19FA104",
+    "Date & Time": "March 18, 2019, 15:31 Local",
+    "Aircraft": "Israel Aircraft Industries 1124",
+    "Registration": "N4MH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "two commercial pilot conducting personal crosscountry flight video surveillance camera airport captured airplane approach review video revealed airplane approached approach end landing runway began climb rolled left became inverted impacted terrain left thrust reverser tr found open unlatched accident site asymmetric deployment left tr would resulted left rollyaw lack airworthy operable cockpit voice recorder required flight precluded identifying pilot performing pilot flying duty well crew action background noise would facilitated investigation postaccident examination airplane revealed equipped required equipped nose landing gear nlg ground contact switch intended preclude flight operation thrust reverser tr left tr door found unlatched open right tr door found closed latched electrical testing tr left right stow microswitches within cockpit throttle quadrant revealed left stow microswitch operate within design specification disassembly left right stow microswitches revealed evidence arc wear due aging based information likely airplane lack nlg ground contact switch agerelated failure stow microswitches resulted asymmetric tr deployment approach subsequent loss airplane control also additional tr system component found unairworthy would affected control tr system operational testing tr system could performed due damage airplane incurred accident",
+        "Top Words": [
+            [
+                "tr",
+                10
+            ],
+            [
+                "left",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

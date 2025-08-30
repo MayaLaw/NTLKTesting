@@ -1,0 +1,29 @@
+{
+    "Filename": "94088.txt",
+    "Location": "Wilson, Arkansas",
+    "Accident Number": "GAA16CA512",
+    "Date & Time": "September 6, 2016, 10:30 Local",
+    "Aircraft": "Air Tractor AT802",
+    "Registration": "N519EP",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Tailstrike",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot sixth agricultural application pas third field day reported pas airplane tail struck unseen powerlines recalled power line crossed field angle power line pole hidden tree side field pilot flew nearby airport landed without incident vertical stabilizer rudder sustained substantial damage title 14 code federal regulation part 13719 e state part knowledge skill test applicant must show person designated chief supervisor agricultural aircraft operation show satisfactory knowledge skill regarding agricultural aircraft operation described paragraph e1 2 section 1i step taken starting operation including survey area worked 1vi safe flight application procedure interview operator investigatorincharge iic asked documented training provided pilot regarding location wire hazard area operation operator responded provide information pilot request iic operator agreed provide documented local area power line obstacle avoidance training pilot perform application operation operator completed recommended training pilot reported mechanical failure anomaly airframe engine would prevented normal operation",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "operation",
+                6
+            ],
+            [
+                "operator",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96842.txt",
+    "Location": "Lakeland, Florida",
+    "Accident Number": "GAA18CA151",
+    "Date & Time": "March 7, 2018, 09:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N2221R",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported approach wind got powerful added wind strong capacity personal minimum landing airplane landed flat bounced twice taxied park without incident airplane sustained substantial damage fuselage student reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system 2 nautical mile accident site reported time accident wind 340 9 knot gusting 15 knot student pilot landed runway 27 probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare gusting crosswind condition resulted bounced landing",
+        "Top Words": [
+            [
+                "student",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

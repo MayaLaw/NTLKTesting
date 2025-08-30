@@ -1,0 +1,29 @@
+{
+    "Filename": "93954.txt",
+    "Location": "South Lake Tahoe, California",
+    "Accident Number": "GAA16CA465",
+    "Date & Time": "September 5, 2016, 13:30 Local",
+    "Aircraft": "Cessna TR182",
+    "Registration": "N738GK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing airplane floated half way runway decided perform goaround goaround pilot reported airplane would climb initially one wheel touched runway threw airplane kilter subsequently airplane start climb flight path grass right runway forced airplane grass ahead touchdown nose gear collapsed airplane nosed postaccident interview national transportation safety board investigatorincharge pilot reported goaround retracted flap 20 degree forgot remove carburetor heat normally fly fuelinjected airplane fuselage wing vertical stabilizer sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation pilot operating handbook accident airplane state part balked landing 1 power full throttle 2400 rpm revolution per minute 2 carburetor heat cold 3 wing flap retract 20 degree 4 climb speed 75 kias knot indicated airspeed 5 wing flap retract slowly reach 75 kias 6 cowl flap open time accident accident airport automated weather observing system reported wind variable 6 knot temperature 66 degree fahrenheit19 celsius dew point",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                5
+            ]
+        ]
+    }
+}

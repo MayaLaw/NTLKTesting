@@ -1,0 +1,29 @@
+{
+    "Filename": "95341.txt",
+    "Location": "Carpinteria, California",
+    "Accident Number": "WPR17LA124",
+    "Date & Time": "June 10, 2017, 14:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N2171D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "VFR encounter with IMC",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "noninstrumentrated private pilot reported en route encountered cloud 2200 ft ground level agl descended airplane 2100 ft agl try get cloud still could see outside pilot reported decided climb contact air traffic control airplane impacted treecovered mountain ridge came rest upright left wing bent aft pilot reported anomaly airframe engine would precluded normal operation probable cause finding national transportation safety board determines probable cause accident noninstrumentrated pilot improper decision continue visual flight rule flight instrument meteorological condition resulted controlled flight terrain",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96061.txt",
+    "Location": "Perkinsville, Arizona",
+    "Accident Number": "WPR17FA213",
+    "Date & Time": "September 22, 2017, 16:35 Local",
+    "Aircraft": "Cessna 172L",
+    "Registration": "N7070Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot received private pilot certificate 7 month accident told family member planning fly friend passenger stay airport traffic pattern performing touchandgo takeoff landing contrary pilot stated plan radar data indicated airplane departed toward meandering river canyon immediately takeoff radar data ended airplane entered canyon likely due terrain masking along route flight result airplane descending canyon wall wreckage located 2 mile beyond entrance canyon tight turn river wreckage steep face boulderstrewn cut bank 500 ft river 200 ft canyon rim wreckage debris indicated airplane impacted ground near vertical attitude lowenergy impact signature consistent lowspeed collision likely early stage spin majority primary airframe structure consumed fire postaccident examination reveal anomaly remaining airframe engine component would precluded normal operation performance calculation indicated theoretically possible negotiate canyon bend airplane pilot would needed fly precision factor tailwind along turbulence downdraft likely present canyon time would made escape canyon difficult pilot flown canyon instructor another slower airplane opposite direction flight took day accident wreckage located area instructor specifically warned pilot due tight radius river bend close canyon wall flight bypassed area possible pilot recognize turn accident flight approaching opposite direction",
+        "Top Words": [
+            [
+                "canyon",
+                10
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

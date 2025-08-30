@@ -1,0 +1,29 @@
+{
+    "Filename": "97739.txt",
+    "Location": "Dallas, Texas",
+    "Accident Number": "GAA18CA413",
+    "Date & Time": "July 9, 2018, 10:30 Local",
+    "Aircraft": "Beech T34",
+    "Registration": "N6849C",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot receiving instruction reported airplane checkout performed simulated engine failure added landing flare airplane ran energy right wing struck runway flight instructor reported 5 ft runway airplane aerodynamically stalled right wing dropped struck runway airplane sustained substantial damage right wing flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed exceedance airplane critical angle attack landing flare resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "reported",
+                3
+            ],
+            [
+                "failure",
+                3
+            ]
+        ]
+    }
+}

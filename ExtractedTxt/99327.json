@@ -1,0 +1,29 @@
+{
+    "Filename": "99327.txt",
+    "Location": "Sheldon, Missouri",
+    "Accident Number": "CEN19LA127",
+    "Date & Time": "April 26, 2019, 14:55 Local",
+    "Aircraft": "Beech 50",
+    "Registration": "N29Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot returning multiengine airplane home base following annual inspection maintenance accident flight airplane first flight since work performed climbing 3000 ft mean sea level msl pilot configured airplane cruise flight pilot heard right engine emit sputtering noise backfire pilot advanced throttle left engine noticed large smoke trail emit left engine 1 minute right engine began sputtering pilot concluded two engine longer producing adequate power remain airborne performed forced landing tilled dirt field nose landing gear collapsed resulting substantial damage signature consistent detonation documented left engine no 4 6 cylinder assembly right engine 2 cylinder assembly oilcovered particle found oil screen engine source particle could determined reason detonation engine could determined based available evidence probable cause finding national transportation safety board determines probable cause accident partial loss engine power engine due detonation undetermined reason",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

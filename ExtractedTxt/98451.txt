@@ -1,0 +1,37 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Gambell, Alaska
+Accident Number:
+ANC19CA002
+Date & Time:
+October 3, 2018, 15:00 Local 
+Registration:
+N575Q
+Aircraft:
+Beech 1900
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+9 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Scheduled
+Analysis 
+According to the flight crew, the instrument approach was flown above the glideslope in anticipation of 
+mechanical turbulence. As the airplane descended through 500 ft, the pilot monitoring notified the pilot 
+flying that the airplane was high on the approach. The airplane continued the approach above the 
+glideslope, and the landing flare was conducted too high, which resulted in an excessive sink rate. The 
+pilot flying attempted to arrest the sink rate but was unable to do so, and the airplane landed harder than 
+expected, which resulted in a tail strike and substantial damage to the lower aft fuselage. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's unstabilized approach and improper landing flare, which resulted in a hard landing.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Landing flare - Not attained/maintained
+Aircraft
+Descent/approach/glide path - Not attained/maintained

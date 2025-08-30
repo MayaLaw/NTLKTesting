@@ -1,0 +1,29 @@
+{
+    "Filename": "97355.txt",
+    "Location": "San Jose, California",
+    "Accident Number": "WPR18LA153",
+    "Date & Time": "May 20, 2018, 19:50 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N244TW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot rented airplane conducted uneventful personal flight earlier day departed later afternoon destined airport hundred mile away according pilot airplane established downwind leg extended landing gear observed landing gear position indicator light illuminated green denoted landing gear locked position verified indication base leg approach touchdown normal uneventful pilot began brake airplane airplane traveling 30 mph landing gear suddenly collapsed airplane slid belly came stop runway resulted substantial damage fuselage recovery airplane cockpit landing gear handle found fully position initial postaccident examination airplane revealed two main landing gear mlg could fully extended via normal cockpit landing gear handle nose landing gear nlg fully extend extension motor shut green cockpit indicator light illuminate manual attempt fully extend nlg pulling forward unsuccessful aft directed lighttomoderate force applied nlg tire resulted unlocking two mlg allowed three gear retracted via manually pushing nlg result demonstrated landing gear system susceptible uncommanded retraction system properly adjusted reason failure nlg fully extend lock accident could determined investigation could determine condition existed accident subsequent examination nlg mechanically isolated rest landing gear system subsequent landing gear travel test configuration revealed three landing gear able independently moved respective fully extended locked position nlg fully extended difficult dislodge aft pressure nlg tire previous examination nlg travel change resulted mechanically isolating nlg indicated accident physical constraint limited nlg travel prevented downlock however investigation unable determine nature cause nlg",
+        "Top Words": [
+            [
+                "gear",
+                13
+            ],
+            [
+                "landing",
+                12
+            ],
+            [
+                "nlg",
+                12
+            ]
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Mountain Rest, South Carolina
+Accident Number:
+ERA19LA029
+Date & Time:
+October 28, 2018, 18:30 Local 
+Registration:
+N653DC
+Aircraft:
+Diamond DA20
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, the airplane was in cruise flight about 6,500 ft mean sea level when the engine 
+lost partial power. The pilot stated that he selected a field for a forced landing because no airport was 
+within gliding distance. During the descent, the pilot's remedial actions to restore engine power were 
+unsuccessful, so he declared an emergency over the radio and secured the engine before the off-airport 
+landing. The airframe sustained substantial damage to the wings, fuselage, and empennage during the 
+landing.
+After the accident, several engine starts were attempted on the airframe, but each was unsuccessful. The 
+engine was removed and shipped to the manufacturer, where an engine start was attempted in a test cell. 
+The engine ran roughly and would not run continuously. Troubleshooting was performed, and internal 
+engine timing and ignition timing were confirmed. Ultimately, both magnetos and both ignition 
+harnesses required replacement to achieve a successful engine run. Disassembly of the right magneto 
+revealed excessive wear, which rendered it inoperative. The left magneto required cleaning of the points 
+to operate, and both ignition harnesses displayed damage due to overtightening of restraint clamps, 
+which resulted in ignition "leaks" and intermittent spark at the spark plugs. It is likely that the 
+combination of all of the discrepancies of the ignition system ultimately resulted in the engine's partial 
+loss of power during the accident flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power due to multiple discrepancies of the engine's ignition system.

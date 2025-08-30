@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Chelan, Washington
+Accident Number:
+WPR19FA133
+Date & Time:
+May 6, 2019, 06:29 Local 
+Registration:
+N825PW
+Aircraft:
+Just JA30 SUPERSTOL
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a local flight. An airport surveillance camera captured the accident 
+airplane departing from the runway and entering a nose high left turn. Shortly thereafter, the 
+airplane's bank angle decreased, and its left yaw increased, and the airplane began to descend. 
+A few seconds later, the airplane banked to the left, and entered a nose-low attitude just before 
+impact with the ground.  
+Examination of the engine and the airframe revealed no preaccident anomalies that would 
+have precluded normal operation. It is likely that the pilot exceeded the airplane's critical angle 
+of attack during the initial climb, which resulted in an inadvertent stall and spin at an altitude 
+too low to recover.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s exceedance of the airplane's critical angle of attack during the initial climb after 
+takeoff, which resulted in an aerodynamic stall and spin.

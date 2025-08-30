@@ -1,0 +1,29 @@
+{
+    "Filename": "95409.txt",
+    "Location": "Big Bear, California",
+    "Accident Number": "GAA17CA354",
+    "Date & Time": "June 4, 2017, 13:20 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N9238W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing flare airplane encountered sudden massive gust wind pitched nose pushed yoke forward wind shifted tailwind airplane slammed onto runway subsequently left main landing gear collapsed airplane veered right runway came rest nose airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system airport reported time accident wind 260 4 knot pilot landed runway 26 probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing subsequent loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

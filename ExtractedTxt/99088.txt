@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Atlanta, Georgia
+Accident Number:
+DCA19CA105
+Date & Time:
+March 10, 2019, 21:17 Local 
+Registration:
+N3756 (A1); N591NW 
+(A2)
+Aircraft:
+Boeing 737 (A1); Boeing 757 (A2)
+Aircraft Damage:
+Minor (A1); 
+Substantial (A2)
+Defining Event:
+Ground collision
+Injuries:
+166 None (A1); 240 
+None (A2)
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled (A1); Part 121: Air carrier - Scheduled (A2)
+Analysis 
+On March 10, 2019, at 2117 eastern daylight time, Delta Airlines flight 1068, a Boeing 737 
+(B737), N3756, collided with Delta Airlines flight 2777, a Boeing 757 (B757), N591NW while 
+taxiing along taxiway B at the Hartsfield Jackson Atlanta International Airport (KATL), 
+Atlanta, Georgia. There were no injuries to the passengers and crew onboard either airplane, 
+and the B757 was substantially damaged. Both aircraft were operating under 14 Code of 
+Federal Regulations Part 121 as regularly scheduled passenger flights. 
+The B757 had landed on runway 26R and was holding short of runway 26L at taxiway B2, 
+awaiting clearance to cross the runway and taxi to the ramp. The B737 had landed following 
+the B757 and was cleared to taxi along taxiway B to the Victor Loop. When approaching B2 on 
+B, the B737 crew reported taxiing to the right of centerline to provide clearance with the B757 
+tail on their left. The B737 left wingtip contacted the B757 tail resulting in a light shudder on 
+both aircraft. The B757 crew reported on ground frequency that they had been hit and the B737 
+crew acknowledged they may have hit them when passing along taxiway B.  The B757 remained 
+on the taxiway until maintenance had evaluated the damage, then taxied to the gate and 
+deplaned. The B737 continued taxiing to the gate and deplaned.  Post-accident inspection 
+revealed substantial damage to the right elevator of the B757 and minor damage to the left 
+winglet of the B737.
+Probable Cause and Findings

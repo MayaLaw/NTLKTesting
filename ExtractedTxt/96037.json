@@ -1,0 +1,29 @@
+{
+    "Filename": "96037.txt",
+    "Location": "Reno, Nevada",
+    "Accident Number": "WPR17LA209",
+    "Date & Time": "September 17, 2017, 08:20 Local",
+    "Aircraft": "Trudel GP 4",
+    "Registration": "C-GTPX",
+    "Flight Conducted Under": "Part 91: General aviation - Air race/show",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Midair collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "initial start air race nine airplane positioned lineabreast formation rv 8 positioned 7 slot gp 4 right rv8 8 slot rv8 pilot reported race start felt air current push airplane moved forward 6 slot airplane initiated correction reestablish position within formation gp 4 pilot reported saw rv8 descend airplane left wing reduced power initiating slight right bank attempt back formation pilot 9 slot reported observed gp4 move forward back formation quickly time noticed pilot gp4 trying slow correct position right using aileron shortly propeller gp4 struck right aileron rv8 following collision rv8 entered uncommanded left roll however pilot able level airplane land uneventfully gp4 pilot pitched airplane upward rolled right avoid surrounding airplane also able land airplane uneventfully likely pilot gp4 maintained adequate lateral distance rv8 advancing forward maintain lineabreast formation would able maintain clearance rv8 descended would needed bank right reduced gp4 pilot visual contact rv8 led midair collision probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance another airplane lineabreast formation",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "rv8",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "95368.txt",
+    "Location": "Estherville, Iowa",
+    "Accident Number": "GAA17CA338",
+    "Date & Time": "June 14, 2017, 09:15 Local",
+    "Aircraft": "Piper PA 28",
+    "Registration": "N33764",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported airplane entered ground effect landing crosswind condition wind gust lifted airplane pushed left added initiated go around pushed nose slightly gain lift added goaround must relaxed aileron countering wind wind gust pushed airplane left subsequently airplane impacted ground spun around airplane sustained substantial damage engine mount student pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation automated weather observation system located airport reported 23 minute accident wind 180 15 knot gusting 21 knot student pilot landed runway 16 probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain crosswind correction goaround gusting wind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "wind",
+                5
+            ],
+            [
+                "student",
+                4
+            ]
+        ]
+    }
+}

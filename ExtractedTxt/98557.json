@@ -1,0 +1,29 @@
+{
+    "Filename": "98557.txt",
+    "Location": "Marana, Arizona",
+    "Accident Number": "GAA19CA038",
+    "Date & Time": "October 27, 2018, 14:40 Local",
+    "Aircraft": "Diamond DA 40",
+    "Registration": "N537MA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported en route nontowered airport obtained local weather reported common traffic advisory frequency would entering downwind runway 30 another pilot traffic pattern reported using runway 12 student turned airplane 180 enter downwind runway 12 added landing roll applied brake attempted turn right runway speed still high realized would able make turn attempted turn left back onto runway subsequently airplane skidded runway right impacted taxiway sign airplane sustained substantial damage right wing deputy safety officer flight school reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 5 minute accident wind 350 4 knot student landed airplane runway 12 probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "runway",
+                7
+            ],
+            [
+                "reported",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

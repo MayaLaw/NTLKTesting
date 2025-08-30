@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Oshkosh, Wisconsin
+Accident Number:
+CEN18CA291
+Date & Time:
+July 23, 2018, 09:50 Local 
+Registration:
+N1666R
+Aircraft:
+Quad City Challenger
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airplane was landing on the ultralight field when the accident occurred. The pilot stated that she 
+made a wide base to final turn because she was unsure about the placement of the runway. Although the 
+pilot added power, the airplane entered a left descending turn until the left wing contacted the ground 
+near the beginning of the runway's displaced threshold. The airplane then spun left and slid rearward on 
+the ground until it contacted a chain-link fence. 
+The pilot reported that there were no mechanical anomalies with the airplane that would have precluded 
+normal operation. The pilot's statement, along with a ground-based video of the accident, revealed that 
+the pilot failed to maintain adequate airspeed and exceeded the airplane's critical angle of attack during 
+the base to final turn, which resulted in an aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed during the base to final turn and his exceedance of the 
+airplane's critical angle of attack, which resulted in an aerodynamic stall.

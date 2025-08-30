@@ -1,0 +1,29 @@
+{
+    "Filename": "98013.txt",
+    "Location": "Sedalia, Missouri",
+    "Accident Number": "CEN18LA321",
+    "Date & Time": "August 6, 2018, 15:15 Local",
+    "Aircraft": "Cessna A188",
+    "Registration": "N4996R",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "commercial pilot conducting agricultural application flight stated felt loss engine power pulled second pas field pushed throttle mixture control forward engine power increase dumped payload located landing area pilot flew airplane best glide speed airplane struck tree short landing area subsequently airplane spun right pulled control stick back applied right rudder maintain airplane upright attitude impacted ground erupted postimpact fire postaccident examination airplane revealed two propeller blade relatively straight consistent lack torsion indicating engine lost power impact postimpact fire destroyed engine engine accessory airframe precluded functional testing component reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

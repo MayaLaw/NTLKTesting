@@ -1,0 +1,29 @@
+{
+    "Filename": "98222.txt",
+    "Location": "Indiana, Pennsylvania",
+    "Accident Number": "ERA18LA242",
+    "Date & Time": "September 2, 2018, 09:20 Local",
+    "Aircraft": "Stinson 108",
+    "Registration": "N4059C",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel contamination",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "student pilot instructor departed local instructional flight completing 35 minute airwork returning airport practice takeoff landing performed several landing used full carburetor heat approach initial climb last takeoff engine response normal 300 ft ground level engine abruptly lost total power flight instructor took flight control attempted restore engine power turned airplane toward clearing impacted tree impacting ground fuel sample wing gascolator carburetor revealed solid debris similar dirt orange sealant sample additionally air filter element found lodged carburetor venturi airplane flown hour since maintenance completed engine stopped producing power abruptly likely engine starved fuel result debris migrated fuel system resulted total loss engine power probable cause finding national transportation safety board determines probable cause accident total loss engine power result debris contamination fuel resulted fuel starvation",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "fuel",
+                5
+            ]
+        ]
+    }
+}

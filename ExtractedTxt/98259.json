@@ -1,0 +1,29 @@
+{
+    "Filename": "98259.txt",
+    "Location": "New York, New York",
+    "Accident Number": "DCA18LA285",
+    "Date & Time": "September 6, 2018, 12:45 Local",
+    "Aircraft": "Boeing 757",
+    "Registration": "N173AN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "1 Serious, 2 Minor,",
+    "Analysis": {
+        "Text": "airplane descending toward destination airport autopilot autothrottle system engaged airplane approaching 12000 ft autopilot capturing altitude captain adjusted altimeter resulting displayed altitude 12100 ft captain pilot flying selected flight level change mode autopilot recapture altitude set speed 250 knot slow 255 knot result autothrottles went throttle hold mode throttle lever reached aft stop captain briefing approach airplane slowed pitched tried maintain altitude reduced throttle setting international relief officer cockpit time commented airplane decreasing speed three time airplane airspeed 186 knot stating captain push nose captain disengaged autopilot auto throttle aggressively pitched increased throttle aggressive maneuver caused flight attendant aft galley thrown ceiling one flight attendant sustained compound arm fracture two flight attendant sustained minor injury crew subsequently landed airplane without incident probable cause finding national transportation safety board determines probable cause accident flight crew failure adequately monitor airplane airspeed led captain aggressive control input increase airspeed aggressive input resulted injury three cabin crewmembers",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "captain",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

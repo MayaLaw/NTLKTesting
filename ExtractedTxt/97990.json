@@ -1,0 +1,29 @@
+{
+    "Filename": "97990.txt",
+    "Location": "Watkins, Minnesota",
+    "Accident Number": "CEN18LA311",
+    "Date & Time": "August 2, 2018, 10:35 Local",
+    "Aircraft": "Cessna 188",
+    "Registration": "N5523S",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "agricultural application flight commercial pilot noticed loss engine speed rpm completing application pas subsequently observed decrease engine oil pressure combined increase oil temperature returned forced landing corn field sprayed oil pressure 7 psi pilot indicated engine coughing point decided shut engine loss engine power catastrophic subsequently landed field airplane sustained substantial damage right wing postaccident examination revealed evidence preimpact mechanical malfunction failure would precluded normal operation thus reason partial loss engine power could determined probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined postaccident examination revealed evidence preimpact mechanical malfunction failure would precluded normal operation",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "loss",
+                4
+            ],
+            [
+                "oil",
+                3
+            ]
+        ]
+    }
+}

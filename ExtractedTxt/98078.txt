@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Marsing, Idaho
+Accident Number:
+WPR18LA224
+Date & Time:
+August 14, 2018, 10:30 Local 
+Registration:
+N89093
+Aircraft:
+Cessna 140
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During a low pass over the runway, the pilot advanced the throttle, but the engine failed to respond. 
+After switching fuel tanks, the pilot initiated a forced landing to a shallow part of a river that paralleled 
+the runway. The airplane came to rest upright in the river, partially submerged, and sustained substantial 
+damage to the lower fuselage and firewall.   
+Postaccident examination of the airplane revealed that the engine initially would not run. The carburetor 
+was removed, partially disassembled, and examined. Evidence of corrosion was observed in the float 
+bowl. The carburetor bowl was cleaned internally, reassembled, and reinstalled on the engine. 
+Additional attempts to run the engine revealed that the engine would not run at power settings below 
+1,300 rpm.  
+Subsequent examination of the carburetor revealed that the throttle shaft was loose in its bushings or 
+mounting to the casting. When the carburetor was installed on a fuel flow bench, immediate leaks were 
+noted audibly, one at the throttle shaft seals and one in the area of the accelerator pump. Indications of 
+blockage in the idle chambers of the carburetor were present, and at idle ranges, the fuel flows were 
+significantly out of specification which likely led to the loss of engine power. Removal of the idle tube 
+showed significant corrosion and contaminants in that area. The source of contaminants was not 
+determined.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "99339.txt",
+    "Location": "Ridgefield, Washington",
+    "Accident Number": "WPR19FA124",
+    "Date & Time": "April 29, 2019, 14:13 Local",
+    "Aircraft": "Vans RV 6",
+    "Registration": "N90LK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot flight instructor conducting local flight part flight review radar data showed airplane departed proceeded nearby airport entered traffic pattern last recorded radar target located abeam end runway altitude 500 ft ground level known witness accident sequence airplane came rest upright partially submerged within pond 1000 ft approach end runway wreckage impact signature surrounding terrain consistent nearvertical impact examination revealed anomaly airframe engine would precluded normal operation bird remains found right outboard armclothing flight instructor within engine compartment remains identified specie common accident locale likely bird strike occurred airplane maneuvering traffic pattern landing resulting breach canopywindscreen given lack mechanical anomaly orientation wreckage likely pilot became distracted exceeded airplane critical angle attack resulted aerodynamic stallspin loss control probable cause finding national transportation safety board determines probable cause accident pilot inadvertent exceedance airplane critical angle attack following inflight collision bird",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "flight",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

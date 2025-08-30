@@ -1,0 +1,36 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Sheldon, Missouri
+Accident Number:
+CEN19LA127
+Date & Time:
+April 26, 2019, 14:55 Local 
+Registration:
+N29Y
+Aircraft:
+Beech 50
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was returning the multiengine airplane to his home base following an annual inspection other 
+maintenance; the accident flight was the airplane's first flight since the work was performed. After 
+climbing to about 3,000 ft mean sea level (msl), the pilot configured the airplane for cruise flight. The 
+pilot heard the right engine emit "sputtering" noises and backfire. The pilot advanced the throttle of the 
+left engine and then noticed a "large smoke trail" emit from the left engine about 1 minute after the right 
+engine began sputtering. The pilot concluded that the two engines were no longer producing adequate 
+power to remain airborne and performed a forced landing to a tilled dirt field, during which the nose 
+landing gear collapsed, resulting in substantial damage. Signatures consistent with detonation were 
+documented on the left engine Nos. 4 and 6 cylinder assemblies, and the right engine No. 2 cylinder 
+assembly. Oil-covered particles were found in the oil screens from both engines; the source of these 
+particles could not be determined. The reason for the detonation in both engines could not be determined 
+based on the available evidence. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power on both engines due to detonation for undetermined reasons.

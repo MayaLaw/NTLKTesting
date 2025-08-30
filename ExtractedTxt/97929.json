@@ -1,0 +1,29 @@
+{
+    "Filename": "97929.txt",
+    "Location": "Greenville, Maine",
+    "Accident Number": "ERA18FA206",
+    "Date & Time": "July 30, 2018, 10:44 Local",
+    "Aircraft": "Piper PA60",
+    "Registration": "C-GRRS",
+    "Flight Conducted Under": "Non-U.S., non-commercial",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "private pilot multiengine airplane cruise flight 23000 ft mean sea level msl day visual meteorological condition reported air traffic control airplane losing altitude due loss engine power controller provided vector nearby airport 7 minute later pilot reported airport sight stated would enter downwind leg runway 14 time airplane descended 3200 ft ground level radar data indicated airplane proceeded toward runway 400 ft ground level short final airplane flew directly airport low altitude entering left turn close downwind runway 21 witness stated airplane propeller turning could estimate engine power airplane reached approach end runway 21 entered steep left turn flying slowly left wing suddenly stalled airplane pitched nosedown toward ground postaccident examination airplane engine revealed mechanical deficiency would precluded normal operation time impact examination propeller system indicated power symmetry time impact damage assembly consistent low idle engine power onboard engine monitor recorded battery voltage engine exhaust gas temperature cylinder head temperature engine review recorded data revealed 14 minute accident jump followed decrease exhaust gas temperature egt cylinder head temperature cht engine temperature decreased 9 minute time right engine egt data spiked twice engine egt cht value returned normal consistent engine producing power remaining 5 minute data possible fuel interruption may caused momentary increase engine egt cht value prompted pilot report engine power loss however engine monitor record fuel pressure fuel flow examination airplane fuel system engine reveal mechanical anomaly therefore reason reported loss engine power could determined likely pilot initial approach landing high attempted circle",
+        "Top Words": [
+            [
+                "engine",
+                16
+            ],
+            [
+                "airplane",
+                10
+            ],
+            [
+                "power",
+                7
+            ]
+        ]
+    }
+}

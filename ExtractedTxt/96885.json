@@ -1,0 +1,29 @@
+{
+    "Filename": "96885.txt",
+    "Location": "Palatka, Florida",
+    "Accident Number": "ERA18LA109",
+    "Date & Time": "March 16, 2018, 10:38 Local",
+    "Aircraft": "CIRRUS DESIGN CORP SR20",
+    "Registration": "N486DA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Midair collision",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "cirrus sr22 flown private pilot cirrus sr20 flown pilot undergoing instruction flight instructor performing touchandgo landing airport pilot sr22 flight instructor sr20 reportedly announced position airport common traffic advisory frequency ctaf flew around airport traffic pattern sr22 pilot sr20 flight instructor reported heard another pilot announce 6mile final runway sr22 pilot turned onto base leg onto final sr20 flight instructor stated airplane sight short final approach chose pilot undergoing instruction extend downwind leg abeam airplane final turned onto base leg onto final sr20 pilot undergoing instruction flare flight instructor heard explosion sr22 runway ready begin flare pilot heard bang nose came two airplane collided none pilot either airplane reported seeing airplane collision airplane sustained substantial damage pilot sr22 indicated could understand call sr20 flight instructor sr20 indicated hear radio call sr22 postaccident examination radio audio panel installed sr22 revealed evidence preimpact failure malfunction would precluded normal operation least one radio tuned airport ctaf audio select panel configured use radio transmit receive audio functional testing revealed sr22s radio audio panel performed anomaly noted postaccident testing radio audio select panel sr20 revealed evidence preimpact failure malfunction would precluded normal operation although damage sustained accident prevented successful functional test comm 1 radio",
+        "Top Words": [
+            [
+                "pilot",
+                11
+            ],
+            [
+                "sr22",
+                8
+            ],
+            [
+                "sr20",
+                8
+            ]
+        ]
+    }
+}

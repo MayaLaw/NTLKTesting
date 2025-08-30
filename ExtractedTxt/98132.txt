@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Shreveport, Louisiana
+Accident Number:
+CEN18LA346
+Date & Time:
+August 22, 2018, 10:50 Local 
+Registration:
+N4275Q
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot was departing on a solo cross-country flight when she observed a decrease in climb 
+performance and airspeed shortly after takeoff. She reduced airplane pitch to increase airspeed and avoid 
+an aerodynamic stall. Although the engine continued to operate normally at full throttle, the pilot 
+concluded that there was an engine issue because she was unable to maintain a normal climb pitch 
+attitude without a decrease in airspeed. She told the tower controller that she was going to land and 
+made an immediate turn near midfield to land on a crossing runway. She stated that, after aligning with 
+the crossing runway, the airplane's airspeed had increased to 95-100 knots and that the airplane was too 
+high to make a normal landing. She reduced engine power to idle and attempted to glide to the runway; 
+however, the airplane landed in a grassy area past the end of the runway and bounced three times before 
+the nose gear collapsed.
+The pilot acknowledged after the accident that the engine did not malfunction during the flight and 
+postulated that the airplane had encountered a wingtip vortex from another airplane. However, a review 
+of available air traffic control radar track data did not identify any departing or landing aircraft during 
+the 15 minutes before the accident that would have resulted in a wake turbulence encounter. 
+Additionally, the postaccident examination of the airplane's flight controls and engine did not reveal any 
+evidence of a mechanical malfunction or failure that would have precluded normal operation. Based on 
+the pilot's statement and the lack of any evidence of a mechanical malfunction or failure, it is likely that 
+she overshot the runway after her misperception of an engine issue due to her failure to maintain proper 
+pitch control during initial climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

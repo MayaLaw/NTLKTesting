@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Woodward, Oklahoma
+Accident Number:
+CEN18LA156
+Date & Time:
+May 2, 2018, 16:20 Local 
+Registration:
+N92WL
+Aircraft:
+LAMINAR Lancair 360
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot was conducting a personal flight with a pilot-rated passenger in an 
+experimental, amateur-built airplane. The pilot reported that, during flight at 10,000 ft, the airplane 
+experienced moderate to severe turbulence for a few seconds. Shortly after, the engine stopped 
+producing power without warning. The pilot immediately attempted to restart the engine to no avail. He 
+flew at best glide speed toward the nearest airport, located about 12 nautical miles away, but landed 
+short of the runway in a pasture, during which the airplane encountered sagebrush, which caused the 
+landing gear to collapse as the airplane bounced and skidded to a stop; the fuselage sustained substantial 
+damage. 
+The examination of the airplane at the accident site revealed that the emergency fuel shutoff valve, 
+which was located on the right side of the center console under the instrument panel, was about 1/4 of 
+the way between the on (horizontal) position and the off (vertical) position. The valve could not be seen 
+by the pilot. Further, the pilot-rated passenger stated that he could not see the emergency fuel shutoff 
+valve. He was not sure if his knee hit the valve handle and shut off the fuel flow from the header fuel 
+tank to the engine during the turbulence event. The onboard flight and engine monitoring system 
+indicated that the airplane was about 10,000 ft mean sea level when it experienced about a 2g vertical 
+acceleration. The engine data indicated a rapid decrease of fuel flow after the 2g acceleration with a 
+coinciding decrease in exhaust gas temperatures and fuel pressure.
+About 30 gallons of fuel was drained from the airplane before it was transported to the recovery facility. 
+An engine examination and test run were conducted, and the engine performed satisfactorily. A second 
+test was conducted to determine the effectiveness of the emergency fuel shut off valve and where it 
+needed to be positioned before it cut off all fuel to the engine. There was no indication of a power loss 
+until the valve handle was in the full vertical position, which then caused the engine to stop within about 
+10 seconds. 

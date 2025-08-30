@@ -1,0 +1,42 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Plainville, Connecticut
+Accident Number:
+ERA18FA189
+Date & Time:
+July 12, 2018, 10:42 Local 
+Registration:
+N17DR
+Aircraft:
+Rutan Defiant
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot, who was one of the builders of the twin-engine, experimental, amateur-built airplane, 
+was conducting a local flight in the airport traffic pattern. A wing-mounted camera captured the ground 
+operations and accident flight. After seemingly normal engine start and runup checks, the pilot departed 
+to the north, remaining in the airport traffic pattern for a subsequent landing. While over the runway 
+threshold on landing approach, he initiated a go-around. The airplane climbed left of the runway 
+centerline, then entered a steep, descending left turn at varying angles of bank, some exceeding 60º. The 
+airplane continued to descend in an erratic manner until it impacted the ground.
+An examination of the aircraft systems and engines revealed no evidence of a preimpact anomaly or 
+failure. There was ample fuel on board for the flight. The forward engine wooden propeller showed 
+evidence of rotational damage. Although the aft engine propeller was generally undamaged, the crash 
+dynamics and the aft mounting of the propeller assembly likely shielded it from damage during impact. 
+Although conditions at the time of the accident were conducive to serious carburetor icing at glide 
+power, an electronic engine monitor showed no evidence of a loss of engine power, nor did a sound 
+spectrum study of the wing-mounted camera audio.
+Autopsy and toxicology testing of the pilot revealed no evidence of physiological impairment or 
+incapacitation, and the reason for the pilot's erratic and aggressive maneuvering after the go-around 
+could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of airplane control during climb for reasons that could not be determined 
+based on the available information.

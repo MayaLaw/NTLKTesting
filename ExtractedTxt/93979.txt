@@ -1,0 +1,45 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Wickenburg, Arizona
+Accident Number:
+WPR16FA176
+Date & Time:
+September 9, 2016, 07:00 Local 
+Registration:
+N126P
+Aircraft:
+Cessna 310N
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+4 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot and three passengers were departing in the multi-engine airplane when, during 
+the early phase of takeoff, most likely shortly after rotation, the right engine experienced a total loss of 
+power. The power loss occurred during a critical phase of flight, at a time when the airplane was close to 
+or just below the manufacturer's recommended "safe single-engine speed." The hilly terrain surrounding 
+the airport, particularly in the takeoff direction, left the pilot with few options for a safe climb out. 
+Further hindering the takeoff was the airplane's anemic single-engine climb performance due to the high 
+density altitude conditions and the airplane's weight. As a result, shortly after the loss of power, the 
+airplane rolled right, consistent with it flying slower than its minimum controllable single-engine 
+airspeed, collided with the ground, and sustained substantial damage.
+The pilot and passengers all sustained serious injuries and could not remember the circumstances of the 
+accident.
+Examination of the right engine revealed that a clear, gelatinous substance had blocked the inlet port of 
+the fuel flow transducer, leading to fuel starvation. The substance was determined to be silicone, most 
+likely room-temperature-vulcanization silicone sealant. There were no indications that this material had 
+been used anywhere within the fuel system, nor were there any signs of recent maintenance that could 
+have resulted in the introduction of this contaminant. To get to the fuel flow transducer, the silicone 
+would have had to pass through multiple fine mesh filters, which was unlikely based on the material's 
+size when dry. However, silicone becomes semi-soluble once in contact with aviation gasoline, and it is 
+possible that it was extruded through the filters in this state, and eventually coalesced in the flow divider 
+inlet port. Smaller fragments of the silicone were found in the fuel manifold valve, beyond the flow 
+divider, and a fuel injector valve port was partially occluded, possibly with the same material.
+The specific source of contamination could not be determined. The pilot last purchased fuel for the 
+airplane about one month before the accident. Later on the day of purchase, the fuel system was shut 
+down by the airport management due to metering inaccuracies; however, the problems were all electrical 

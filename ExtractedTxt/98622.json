@@ -1,0 +1,29 @@
+{
+    "Filename": "98622.txt",
+    "Location": "Boise, Idaho",
+    "Accident Number": "GAA19CA054",
+    "Date & Time": "November 9, 2018, 23:35 Local",
+    "Aircraft": "Cessna 206",
+    "Registration": "N16HT",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported student pilot conducting training flight using night vision google airplane traffic pattern saw small flock goose shortly felt thump student reconfigured rudder flap setting able land airplane without incident airplane sustained substantial damage left wing instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident airplane impact bird approach finding environmental issue animalsbirds effect equipment",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "flight",
+                2
+            ],
+            [
+                "instructor",
+                2
+            ]
+        ]
+    }
+}

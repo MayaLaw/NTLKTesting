@@ -1,0 +1,47 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Cleveland, Tennessee
+Accident Number:
+ERA18LA199
+Date & Time:
+July 26, 2018, 16:48 Local 
+Registration:
+N1311S
+Aircraft:
+Cessna 182
+Aircraft Damage:
+None
+Defining Event:
+AC/prop/rotor contact w person
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After completing a personal flight with his wife, the private pilot secured the engine by placing the 
+mixture control in the idle cut-off position. Based on physical evidence observed after the accident, he 
+likely moved the ignition switch toward the off position and removed the key. The pilot's wife indicated 
+that, after they performed local errands and returned to the airport, the pilot was performing his preflight 
+inspection of the airplane with the ignition key in his pocket. Although airport security video did not 
+capture the accident sequence and the pilot's wife, who was by the airplane's right cabin door, did not 
+see her husband move the propeller, she heard the propeller move and the engine starting or trying to 
+start. The pilot likely slightly moved the propeller and the engine briefly started; the propeller then 
+rotated and fatally injured the pilot. The engine did not sustain operation, and the propeller ceased 
+rotating.
+Postaccident examination of the 42-year-old ignition switch revealed that it appeared to be in the off 
+position when observed visually from the pilot's seat, but its actual selected position was more toward 
+the right magneto position. The switch and key were determined to be slightly misaligned with the 
+instrument panel placard markings. On- and off-airframe operational testing of the ignition switch in the 
+as-found position revealed the right magneto was hot, or not grounded. In addition, examination of the 
+cut surfaces of the key notches revealed relatively smooth and reflective surface features consistent with 
+a worn surface on the flank of the notch adjacent to the key retention ridge and on the tip end of the 
+shank opposite the notched side. Examination of the key cylinder revealed an area with a smooth and 
+reflective surface consistent with wear on the lower side of the key slot. The location and shape of the 
+worn area was consistent with wear contact with the tip of the key as it was inserted and removed. The 
+key could be removed from the switch in any of the five positions due to the wear of the switch's 
+internal components, contrary to its intended function that would retain the key in any position except 
+the off position. Although the switch manufacturer tested all new switches to ensure this functionality 
+when new, that test is not specified to be performed at any time as part of any inspection or checklist by 
+the switch manufacturer, airframe manufacturer, or Title 14 Code of Federal Regulations Part 43 
+Appendix D.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97547.txt",
+    "Location": "Lewiston, Idaho",
+    "Accident Number": "WPR18LA175",
+    "Date & Time": "May 29, 2018, 09:00 Local",
+    "Aircraft": "Cessna P210N",
+    "Registration": "N7546K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "climbing cruise altitude pilot noted landing gear position indicator light showed landing gear retracted pilot unable fully extend retract gear declared emergency landed landing gear retracted resulting substantial damage horizontal stabilizer examination revealed rigid hydraulic line connecting hydraulic powerpack bulkhead failed ferrule review maintenance record revealed line recently duplicated replaced due failure area reason failure determined based available evidence probable cause finding national transportation safety board determines probable cause accident failure hydraulic line landing gear system resulted pilot inability lower gear subsequent gearup landing",
+        "Top Words": [
+            [
+                "gear",
+                6
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

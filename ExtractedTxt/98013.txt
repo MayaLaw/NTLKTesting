@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Sedalia, Missouri
+Accident Number:
+CEN18LA321
+Date & Time:
+August 6, 2018, 15:15 Local 
+Registration:
+N4996R
+Aircraft:
+Cessna A188
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The commercial pilot was conducting an agricultural application flight. He stated that he felt a loss of 
+engine power when he pulled up during a second pass over a field. He pushed the throttle and mixture 
+controls forward, but the engine power did not increase. He dumped the payload and then located a 
+landing area. The pilot flew the airplane at its best glide speed, and the airplane struck a tree short of the 
+landing area. Subsequently, the airplane spun right. He pulled the control stick back and applied right 
+rudder to maintain the airplane in an upright attitude before it impacted the ground and erupted into a 
+postimpact fire. 
+Postaccident examination of the airplane revealed that the two propeller blades were relatively straight, 
+consistent with a lack of torsion, indicating that the engine lost all power before impact. Postimpact fire 
+destroyed the engine, engine accessories, and airframe, which precluded functional testing of any 
+components. The reason for the loss of engine power could not be determined. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,46 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+East Haven, Connecticut
+Accident Number:
+ERA17FA112
+Date & Time:
+February 22, 2017, 09:56 Local 
+Registration:
+N2452C
+Aircraft:
+Piper PA38
+Aircraft Damage:
+Destroyed
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and the student pilot were practicing touch-and-go landings in the airplane. During 
+the initial climb after the fourth landing, the flight instructor reported an emergency to air traffic control 
+and indicated that he was going to return and land on a runway at the airport. During that transmission, a 
+stall warning horn was sounding. The airplane then spun to the left and descended to impact in a marsh.
+The damage to the airplane was consistent with the airplane being in a left spin at impact, and the 
+propeller displayed little damage, which is consistent with the engine not producing power at impact. 
+The fuel selector handle was found positioned to the right main fuel tank; however, examination of the 
+fuel selector's polymeric insert revealed that it had fractured and was in a position that provided 
+openings of about 20% for the right main fuel tank inlet and for the engine outlet, instead of the 100% 
+openings that would have been present with an intact polymeric insert. With only 20% of the normal 
+fuel flow available, the airplane likely experienced a total loss of engine power due to fuel starvation. 
+One of the pilots likely switched fuel tank positions during the previous touch-and-go landing, and the 
+polymeric insert failed at that time. Examination of the wreckage did not reveal any other preimpact 
+mechanical malfunctions.
+Metallurgical examination of the fuel selector valve revealed that the lower portion of the polymeric 
+insert exhibited fracture features consistent with rotational ductile overstress. Abrasive wear was present 
+on the outer portion of the insert due to contact with burs on the valve housing. The wear likely took 
+place over a period during which the fuel selector handle would have been difficult to move and 
+excessive force would have been required to move the handle from one position to another.
+Review of maintenance records did not reveal any prior anomalies with the fuel selector. The airplane 
+maintenance manual contained instructions, applicable to 100-hour inspections, for the fuel selector to 
+be inspected for condition, security, and operation. The instructions stated that, if the valve binds, sticks, 
+or is otherwise difficult to operate, the fuel selector valve should be lubricated. However, about 5 
+months had passed since the most recent 100-hour inspection was completed on the airplane. During that 
+time, the airplane had been operated about 78 hours. The investigation could not determine the condition 

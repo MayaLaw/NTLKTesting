@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Parker, Colorado
+Accident Number:
+ERA19LA027
+Date & Time:
+October 26, 2018, 07:30 Local 
+Registration:
+N5575U
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After completing the preflight inspection, the pilot reported a normal engine runup and recalled 
+checking the carburetor heat and magnetos twice before takeoff. He started the takeoff roll and noticed 
+that the roll was a "little longer than normal” and that the airplane’s climb performance was poor. He 
+applied carburetor heat, noted a loss of rpm, then turned the carburetor heat off. Shortly thereafter, the 
+airplane started to descend, and the pilot performed a forced landing to a field. 
+Examination of the engine revealed no evidence of any preimpact mechanical malfunctions or failures 
+that would have precluded normal operation. The atmospheric conditions at the time of the accident 
+were conducive to the formation of serious carburetor icing at cruise power settings. Since postaccident 
+examination of the engine revealed no anomalies, it is likely that the loss of power was a result of 
+carburetor ice accumulation. It is possible that carburetor ice formed before departure, when the engine 
+was operating at a low power setting, which resulted in a partial loss of engine power during the initial 
+climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power during initial climb due to carburetor icing, and the pilot's failure to 
+effectively use carburetor heat in conditions conducive to the formation of carburetor ice.

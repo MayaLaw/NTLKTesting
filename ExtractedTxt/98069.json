@@ -1,0 +1,29 @@
+{
+    "Filename": "98069.txt",
+    "Location": "Brooks Range, Alaska",
+    "Accident Number": "GAA18CA488",
+    "Date & Time": "August 12, 2018, 07:00 Local",
+    "Aircraft": "Cessna 185",
+    "Registration": "N62882",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Windshear or thunderstorm",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported took offairport unimproved gravel surface recalled airplane climbed 300 ft encountered severe downdraft airplane subsequently descended impacted creek bed main landing gear separated airframe airplane sustained substantial damage foremost fuselage bulkhead stringer pilot reported mechanical malfunction failure airplane would precluded normal operation pilot reported wind accident site 230 25 knot gusting 30 knot landing southwest probable cause finding national transportation safety board determines probable cause accident airplane encounter downdraft condition takeoff resulted subsequent loss altitude collision terrain",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

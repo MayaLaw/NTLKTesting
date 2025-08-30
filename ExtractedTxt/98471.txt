@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Hudson, Colorado
+Accident Number:
+CEN19LA006
+Date & Time:
+October 13, 2018, 15:30 Local 
+Registration:
+N1881N
+Aircraft:
+Cessna 120
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was attempting to land with quartering tailwind. He stated that he noticed a strong crosswind 
+and decided to go around. During the go-around, the pilot added engine power; however, the engine did 
+not develop full power. The engine began to sputter and surge as the airplane continued to climb but did 
+not regain power, so the pilot performed a forced landing to a field. The airplane nosed over and 
+sustained substantial damage.
+A postaccident engine test run was performed. The engine started without hesitation, but damage to the 
+engine and propeller prevented testing the maximum power setting. Although the engine operation 
+during the go-around is similar to that which would be experienced if carburetor ice had 
+accumulated during the approach, the weather conditions at the time were just outside those at which ice 
+would accumulate. Therefore, the reason for the partial loss of engine could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power for reasons that could not be determined based on the 
+available information.
+Findings
+Not determined
+(general) - Unknown/Not determined

@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Orlando, Florida
+Accident Number:
+ERA18LA103
+Date & Time:
+March 13, 2018, 13:30 Local 
+Registration:
+N5382A
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+On the morning of the accident, the pilot performed a 2-hour test flight with newly-installed camera 
+equipment, during which the airplane performed normally. While taking off on the second flight of the 
+day, the pilot felt that there was something wrong with the engine. There were no abnormal indications 
+and the engine continued to produce power until the pilot leveled the airplane at cruise altitude; the 
+engine then lost total power and the pilot subsequently conducted a forced landing onto a road, resulting 
+in substantial damage to the wings.
+A test run of the engine revealed that the fuel pump was adjusted to an excessively rich fuel flow setting, 
+which resulted in a loss of power when the throttle was increased past about 2,100 rpm. The fuel pump 
+was readjusted and the engine performed nominally. When the fuel pump was reset to the as-received 
+setting, the engine exhibited the same loss of power as during the first run. Bench testing of the throttle 
+body and fuel pump revealed that both units failed to meet production standards.
+Review of the airplane's maintenance records indicated that a fuel system adjustment was performed 
+almost 2 years before the accident. It is likely that the improper fuel pump setting resulted in an overly 
+rich fuel/air mixture and the subsequent loss of engine power; however, the reason for the loss of engine 
+power during the accident flight, and not during previous flights since the fuel pump was adjusted, could 
+not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "98242.txt",
+    "Location": "Centralia, Illinois",
+    "Accident Number": "GAA18CA531",
+    "Date & Time": "September 2, 2018, 14:20 Local",
+    "Aircraft": "Piper PA44",
+    "Registration": "N2204X",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor twinengine airplane reported second simulated singleengine failure approach pilot instruction reduced left engine power setting 12 inch manifold pressure activated landing gear auditory warning horn downwind student performed prelanding check asked instructor deploy landing gear instructor told student delay action deploy landing gear final landing check student struggling maintain altitude shortly turning final student performed final landing check provided verbal cue completion include landing gear check instructor stated distracted focused correction student struggling maintain altitude runway centerline final approach instructor verify gear extended landing flare instructor realized landing gear extended immediately took control leveled airplane landed runway gear retracted airplane sustained substantial damage engine instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "landing",
+                8
+            ],
+            [
+                "instructor",
+                7
+            ],
+            [
+                "gear",
+                7
+            ]
+        ]
+    }
+}

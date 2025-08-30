@@ -1,0 +1,29 @@
+{
+    "Filename": "99323.txt",
+    "Location": "Madera, California",
+    "Accident Number": "WPR19FA121",
+    "Date & Time": "April 25, 2019, 12:49 Local",
+    "Aircraft": "TL Ultralight SRO STINGSPORT",
+    "Registration": "N797N",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "flight instructor student pilot conducting traffic pattern work landing takeoff pilot flying area reported hearing one accident airplane pilot announce would perform emergency turn around 500 ft two witness listening communication airport reported last communication heard accident airplane pilot would executing simulated emergency landing runway data obtained gps unit board accident airplane showed 1 minute departure gps altitude 764 ft ground level groundspeed 64 knot airplane began 180 descending right turn back toward airport final recorded data point 16 second later reported gps altitude 324 ft groundspeed 21 knot airplane impacted terrain nosedown attitude 5 nautical mile departure end runway could determined pilot manipulating flight control accident occurred postaccident examination airframe engine reveal evidence preexisting mechanical malfunction would precluded normal operation toxicology testing specimen flight instructor detected metoprolol rosuvastatin glipizide impairing thus would contributed accident toxicology testing specimen student pilot detected tetrahydrocannabinol thc active compound marijuana although concentration thc found cardiac blood suggests marijuana usage may occurred earlier day blood concentration correlate well impairment cannot used prove user influence drug time testing thus unlikely student pilot use marijuana contributed accident based available evidence likely simulated engine failure initial climb takeoff pilot inadvertently exceeded airplane critical angle attack likely",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "accident",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

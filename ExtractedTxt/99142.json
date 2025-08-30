@@ -1,0 +1,29 @@
+{
+    "Filename": "99142.txt",
+    "Location": "Oskaloosa, Iowa",
+    "Accident Number": "GAA19CA172",
+    "Date & Time": "March 11, 2019, 13:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N334SL",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing roll reaching flap lever airplane veered left exited runway struck snowbank nosed airplane sustained substantial damage vertical stabilizer student reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 15 minute accident wind 170 11 knot student landed airplane runway 31 probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control landing left quartering tailwind resulted runway excursion impact snowbank noseover",
+        "Top Words": [
+            [
+                "student",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

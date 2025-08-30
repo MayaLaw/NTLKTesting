@@ -1,0 +1,29 @@
+{
+    "Filename": "98393.txt",
+    "Location": "Crewe, Virginia",
+    "Accident Number": "GAA18CA574",
+    "Date & Time": "September 29, 2018, 15:30 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N6148P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported crosscountry flight wanted fuel airplane airport fuel tank locked flew nearby airport fuel airplane airport told via unicom frequency airport closed construction would able land returned departure airport reduced power performed gump check engine lost total power switched left fuel tank right fuel tank turned fuel pump pumped throttle avail continued downwind abeam runway number added flap base felt airplane low decided head straight runway near beginning runway airplane aerodynamically stalled landed hard airplane slid 300 ft came rest grass adjacent runway airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration inspector reported verified left fuel tank completely empty also removed drain plug carburetor also empty additionally insurance adjuster reported looked fuel tank scope saw left fuel tank bone dry right tank 12 gallon fuel probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                10
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "tank",
+                7
+            ]
+        ]
+    }
+}

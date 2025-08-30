@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Berlin, Maryland
+Accident Number:
+ERA18LA181
+Date & Time:
+June 29, 2018, 09:15 Local 
+Registration:
+N9745Y
+Aircraft:
+Beech 35B33
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that, shortly after he retracted the landing gear during the initial climb after takeoff, the 
+airplane began to vibrate and the engine lost power. The pilot initiated a 180° return to the runway, but 
+unable to reach it, performed a forced landing to a golf course.
+Postaccident examination of the airplane’s engine revealed that the No. 3 cylinder sustained catastrophic 
+damage, including heavy mechanical damage to the piston and separation of the exhaust valve, a portion 
+of which was lodged under the intake valve. Numerous pieces of metal consistent with material from the 
+No. 3 piston head were found in the oil sump. Given this information, it is likely that the loss of engine 
+power was due to the failure of the No. 3 exhaust valve.
+The engine manufacturer's maintenance manual recommended that this engine be overhauled at 1,500 
+hours of operation or every 12 years, whichever occurred first. The maintenance manual also 
+recommended that a borescope be used to inspect the engine’s cylinders during every 100-hour/annual 
+inspection in conjunction with a compression test. The engine maintenance records listed the 
+compression test results during previous annual inspections but did not indicate whether the cylinders 
+had been inspected with a borescope. At the previous annual inspection, about 1 month before the 
+accident, the engine total time was 1,769.1 hours. Additionally, the engine was manufactured about 37 
+years prior to the accident and had not been overhauled. The investigation did not determine if the 
+impending failure of the exhaust valve could have been detected and corrected had the borescope 
+inspections been performed and/or the engine had been overhauled.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

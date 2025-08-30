@@ -1,0 +1,29 @@
+{
+    "Filename": "95342.txt",
+    "Location": "Gordonville, Florida",
+    "Accident Number": "ERA17LA201",
+    "Date & Time": "June 11, 2017, 12:00 Local",
+    "Aircraft": "CIRRUS DESIGN CORP SR22",
+    "Registration": "N592BC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot stated disoriented holding airport diagram upside airplane approached destination airport oriented turned airplane onto downwind leg traffic pattern noticed airplane high disconnected autopilot final approach airplane descending rapidly pilot added power complete landing however nothing happened properly set mixture control resulted loss engine power advanced throttle little time altitude remaining pilot unable regain engine power airplane struck ground 12 mile runway threshold postaccident testrun examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure properly configure mixture control landing due disorientation airport diagram upside resulted total loss engine power",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

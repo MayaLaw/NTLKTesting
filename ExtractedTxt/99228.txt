@@ -1,0 +1,45 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Edgefield, South Carolina
+Accident Number:
+ERA19LA143
+Date & Time:
+April 4, 2019, 12:15 Local 
+Registration:
+N7622M
+Aircraft:
+Cessna 175
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airplane had not been flown for about 6 years before being purchased about a week before 
+the accident. A stuck exhaust valve was noted as part of an inspection for purchase. The pilot, 
+who was also an airframe and engine mechanic, performed an annual inspection on the 
+airplane the day before the accident. The pilot did not use a checklist and relied on memory 
+during the inspection. The pilot noted a stuck exhaust valve on the No. 2 cylinder. Instead of 
+removing the cylinder and conducting an inspection, as suggested by the engine manufacturer, 
+the pilot staked the valve to correct the condition. The valve stuck again during a predeparture 
+check on the day of the accident. The pilot staked the valve again and performed several 
+additional run-ups without noting anymore problems with the valve. An additional 
+predeparture engine run-up was performed prior to the accident flight. The pilot departed and 
+reported the engine began running rough after about 20 minutes of level flight. He turned 
+toward a nearby airport but the engine subsequently lost all power. Attempts to restart the 
+engine were unsuccessful so the pilot performed a forced landing to a field. The left wing struck 
+a pole during landing as the pilot maneuvered to avoid livestock. 
+A postaccident engine run was conducted with the engine installed in the airplane. The engine 
+run was limited to 1,500 rpm due to safety concerns. A noticeable “skip” was noted during the 
+engine run. The engine subsequently ran rough and then lost power when the left magneto was 
+selected but continued to run when the right magneto was selected. Timing of the left magneto 
+could not be performed due to lack of available tools, and the reason the engine lost power 
+when the left magneto was selected was not determined. Additional examination of the engine 
+found that the exhaust valve guide of one cylinder was pulled from the cylinder and seized to 
+the valve stem. Additionally, the pushrod socket of a second cylinder was separated, which also 
+likely occurred because of a stuck valve. The accident would have likely been mitigated had the 
+pilot/mechanic properly addressed the recurring sticking exhaust valve issue. Although the 

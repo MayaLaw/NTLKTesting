@@ -1,0 +1,29 @@
+{
+    "Filename": "98643.txt",
+    "Location": "Presidio, Texas",
+    "Accident Number": "WPR19LA027",
+    "Date & Time": "November 14, 2018, 15:42 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N1715J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision with terr/obj (non-CFIT)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "prior departure airplane fueled 50 gallon fuel pilot estimated would last 5 hour flight time planned 3 hour 40minute flight airplane 55 mile destination airport engine began sputter according pilot right fuel tank selected switched left fuel tank position engine ran without issue left fuel tank ran fuel pilot performed forced landing dirt landing strip without incident landing pilot examined airplane determined right fuel tank empty left tank 15 gallon fuel started engine decided continue flight presidio texas airplane reached 5500 ft takeoff engine began lose partial power airplane 6 mile destination airport engine lost total power pilot attempted land dry riverbed however airplane stalled 20 ft ground landing gear struck terrain damaging outboard section right wing postaccident examination airplane revealed fuel tank intact left fuel tank empty right fuel tank contained approximately 15 gallon fuel student pilot recollection available fuel first forced landing differs found accident investigation could determine reason loss engine power probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "tank",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

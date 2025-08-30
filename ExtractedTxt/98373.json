@@ -1,0 +1,29 @@
+{
+    "Filename": "98373.txt",
+    "Location": "Bartow, Florida",
+    "Accident Number": "ERA18LA265",
+    "Date & Time": "September 28, 2018, 13:25 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N4592X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot reported cruise flight engine began run roughly 3 cylinder separated airplane engine lost power oil began cover windshield pilot flew via instrument landed marsh right wing airplane separated contacting tree postaccident engine examination revealed impact mark engine crankcase 3 cylinder would secured mark consistent cylinder impacting case multiple time examination also revealed several nut cylinder well required 50 ftlbs torque engine recent overhaul completed 12 year accident engine accrued 366 hour since overhaul record cylinder removal replacement since engine overhaul likely undertorqued cylinder nut allowed cylinder come loose separate engine investigation could determine undertorqued condition cylinder nut result improper overhaul possible improper undocumented maintenance overhaul probable cause finding national transportation safety board determines probable cause accident total loss engine power separation 3 cylinder crankcase due improper maintenance",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "cylinder",
+                9
+            ],
+            [
+                "overhaul",
+                5
+            ]
+        ]
+    }
+}

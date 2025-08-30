@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Corvallis, Oregon
+Accident Number:
+GAA19CA061
+Date & Time:
+November 2, 2018, 10:00 Local 
+Registration:
+N850TJ
+Aircraft:
+Socata TBM 700
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the landing flare, the airplane suddenly rolled left. He quickly corrected, 
+landed, and then taxied to the ramp without further incident. He conducted a postflight inspection and 
+found that the left wing tip had struck the runway.
+The airplane sustained substantial damage to the left aileron. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain lateral control of the airplane during landing, which resulted in a wing 
+strike. 
+Findings
+Aircraft
+Lateral/bank control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

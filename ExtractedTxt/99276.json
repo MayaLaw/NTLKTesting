@@ -1,0 +1,29 @@
+{
+    "Filename": "99276.txt",
+    "Location": "San Diego, California",
+    "Accident Number": "WPR19LA114",
+    "Date & Time": "March 14, 2019, 17:30 Local",
+    "Aircraft": "Great Lakes 2T-1A-2",
+    "Registration": "N101GL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "5 minute taking pilot observed left upper aileron come loose inboard hinge pilot returned departure airport landed uneventfully postaccident examination airplane revealed wing rib aft spar outboard aileron cutout substantially damaged examination aileron hinge strap fracture surface revealed crack arrest mark thumbnailshaped pattern fracture surface emanated top bottom surface hinge strap fracture surface consistent asymmetric reversebending fatigue crack propagation fatigue cracking propagated top bottom surface almost entire crosssection hinge strap pilot reported inspection criterion manufacturer relative hinge strap hinge strap inspected part annual inspection probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "hinge",
+                6
+            ],
+            [
+                "strap",
+                5
+            ],
+            [
+                "surface",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Kingsland, Texas
+Accident Number:
+CEN19FA122
+Date & Time:
+April 21, 2019, 14:43 Local 
+Registration:
+N25TX
+Aircraft:
+Rans S7
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and passenger had recently completed maintenance work on the engine to address engine 
+sputtering that occurred during steep climbs. A witness who was familiar with the troubleshooting stated 
+that, on the day of the accident, the pilot's plan was to complete steep climbs to determine why the 
+engine sputtered during that maneuver. The wind was from the south at 15 knots and gusting to 25 
+knots; the airplane departed to the south into the wind. The witness reported observing what he 
+considered a "normal" takeoff, followed by a steep 15 to 20 second climb. At the top of the climb, the 
+nose and left wing suddenly dropped, and the airplane entered a left-turning spiral, completing 3 to 4 
+slow rotations before impacting the ground. The witness stated that the engine sounded normal the 
+whole time and he did not notice anything wrong.
+The airplane impacted the ground in a nose- and left-wing-low attitude and came to rest upright. A 
+postimpact fire consumed a majority of the airplane. A postaccident examination of the airplane did not 
+reveal any anomalies that would have precluded normal operation; however, the examination was 
+limited due to the extent of the fire damage.
+The accident circumstances are consistent with pilot executing a steep climb to troubleshoot an engine 
+issue. During the steep climb in gusting wind conditions, the airplane's critical angle of attack was 
+exceeded which resulted in an aerodynamic stall, and spin into terrain. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

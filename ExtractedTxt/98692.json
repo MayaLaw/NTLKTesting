@@ -1,0 +1,29 @@
+{
+    "Filename": "98692.txt",
+    "Location": "Groveland, California",
+    "Accident Number": "GAA18CA584",
+    "Date & Time": "September 5, 2018, 11:30 Local",
+    "Aircraft": "Cessna 305",
+    "Registration": "N119PP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported threepoint landing left wing raised abruptly corrected left aileron airplane veered left corrected right pedal airplane continued left exited runway ground looped airplane sustained substantial damage right wing tail cone pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind light variable automated weather observation station located 15 nautical mile accident site reported 5 minute accident wind 170 6 knot pilot landed airplane runway 27 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing crosswind resulted runway excursion subsequent groundloop",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Punta Gorda, Florida
+Accident Number:
+ERA19LA065
+Date & Time:
+December 13, 2018, 14:00 Local 
+Registration:
+N145MM
+Aircraft:
+CZECH SPORT AIRCRAFT AS Piper 
+Sport
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+While on an extended base leg of the airport traffic pattern, the pilot reduced engine power and 
+turned on the electrical auxiliary fuel pump; the engine then lost all power. He attempted to 
+restart the engine but was unsuccessful. The pilot executed a forced landing to a field. During 
+landing, the airplane struck a fence and utility pole and sustained substantial damage to both 
+wings. 
+On-site examination of the airplane revealed that fuel was present in both fuel tanks after the 
+accident. Postaccident examination of the airframe and test runs of the engine did not reveal 
+any preimpact electrical or mechanical anomalies that would have precluded normal operation. 
+During multiple engine test runs, the electric auxiliary fuel pump was cycled several times and 
+operated normally. 
+A review of the recorded data captured by an engine monitor revealed that, during the accident 
+flight, the oil temperature, cylinder head temperature, and exhaust gas temperature were all 
+within the operating limits specified by the manufacturer. The fuel pressure and fuel flow 
+values during cruise were within the normal range. When the engine lost power, the data 
+showed a temporary decrease in fuel pressure below the minimum pressure specified by the 
+engine manufacturer and subsequent decrease in the fuel flow to 0 gallons per hour. After 
+impact, the fuel pressure returned to the normal range.
+Because the engine operated satisfactorily after the accident both with and without the electric 
+auxiliary fuel pump activated, it is unlikely that the engine lost power due to a fuel pump 
+failure. During the accident flight, the recorded values for fuel flow were not abnormally high 
+or erratic, and the cylinder head temperatures were below the maximum limit, so it was 
+unlikely that air or vaporized fuel passed through the fuel flow sensor. An obstruction in the 
+fuel system upstream of the fuel pressure sensor (or exhaustion of the fuel supply) could have 

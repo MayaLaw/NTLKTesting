@@ -1,0 +1,29 @@
+{
+    "Filename": "97489.txt",
+    "Location": "Rotan, Texas",
+    "Accident Number": "CEN18FA227",
+    "Date & Time": "June 15, 2018, 15:38 Local",
+    "Aircraft": "Cessna 172N",
+    "Registration": "N734BS",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "airplane completed aerial photography mission pilot passenger aboard en route destination airport video photographic evidence obtained two device located wreckage garmin aera 560 portable gps device gopro hero 4 action camera online social medium post indicated pilot operating airplane high speed low altitude accident flight photograph taken within airplane showed canyon wooden pole suspended power line airplane eventually struck final image retrieved gopro camera airplane moderate left bank similar altitude surrounding canyon power line heading toward power line given image timestamp recorded time final gps point relative distance final gps location accident site likely final image gopro camera depicted canyon wire struck airplane impacted terrain came rest canyon 900 ft location power line crossed canyon large portion power line cable found wrapped around engine crankshaft 15 time indicating engine operating considerable power output impact occurred toxicological testing showed presence tetrahydrocannabinol thc primary psychoactive compound marijuana well inactive metabolite cocaine pilot blood urine specimen active cocaine found pilot blood specimen unlikely pilot impaired cocaine although pilot likely low level active thc system unlikely impairment low level thc contributed circumstance accident thus available evidence indicated pilot intentionally conducted lowlevel flight canyon without recognizing power line crossed canyon led airplane impact power line subsequent impact terrain probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "power",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

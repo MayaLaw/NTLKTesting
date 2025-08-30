@@ -1,0 +1,29 @@
+{
+    "Filename": "97819.txt",
+    "Location": "Willow, Alaska",
+    "Accident Number": "ANC18FA055",
+    "Date & Time": "July 18, 2018, 19:00 Local",
+    "Aircraft": "De Havilland DHC-2",
+    "Registration": "N9878R",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal, 2 Serious",
+    "Analysis": {
+        "Text": "pilot conducting ondemand air taxi flight floatequipped airplane seaplane base public lake remote lakeside home passenger young son passenger brought cargo transport well including unexpected 800 lb mortar bag witness labored push airplane loading reported airplane appeared aft heavy pilot said would offload cement block could take review witness video revealed pilot attempted one takeoff using 34 available waterway step taxied around lake performed steptaxi takeoff using full length lake airplane eventually lifted barely climbed tree south end lake descending impacting terrain home surveillance video captured airplane second crash revealed 3 second ground impact estimated altitude airplane 115 ft ground level agl groundspeed 64 mile per hour mph low much slower normal climb speed 80 mph airplane banked left turn course rolled 90 likely experiencing aerodynamic stall analysis engine rpm sound revealed engine operating near maximum continuous power impact postaccident examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation calculation performed investigator postaccident revealed airplane estimated gross weight time accident 75 lb approved maximum gross takeoff weight airplane estimated center gravity 176 inch aft rear limit pilot recently hired operator flew first commercial flight make model floatequipped airplane week accident accumulated 129 flight hour 13 sea landingstakeoffs accident model airplane since hired parttime pilot",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "revealed",
+                5
+            ]
+        ]
+    }
+}

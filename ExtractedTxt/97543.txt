@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Monroe, North Carolina
+Accident Number:
+ERA18LA172
+Date & Time:
+June 19, 2018, 13:50 Local 
+Registration:
+N201FD
+Aircraft:
+Mooney M20J
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, the purpose of the flight was to conduct instrument approaches; a pilot-rated 
+passenger was on board. The pilot had completed the instrument landing system instrument approach 
+procedure to near decision altitude in visual conditions and initiated the missed approach with a 
+climbing right turn. He indicated that when the airplane was about 600 ft above ground level, "the 
+engine suddenly started to falter." The pilot initiated a course reversal to conduct a forced landing on the 
+opposite runway, but the airplane stalled just above the runway and landed hard about 45° off the 
+runway heading. The landing gear separated, the fuselage was substantially damaged, and the airplane 
+slid into the grass infield where it came to rest.
+Examination of engine and GPS track data revealed the airplane had entered a full-power climb near the 
+approach end of the 7,001-ft runway when fuel flow and engine rpm rapidly decreased. The climb was 
+arrested, and instead of continuing straight ahead, the airplane entered a descending right turn. About 30 
+seconds into the descent, the last GPS position was recorded about 3,200 ft down the runway, 1,100 ft 
+right of centerline, at an altitude of 1,023 ft.
+An engine start attempted at the airport shortly after the accident was unsuccessful; however, after the 
+airplane was recovered to a recovery facility, the engine was successfully started and run on the airframe 
+using the airplane's own fuel system. The reason for the loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of engine power for reasons that could not be determined based on the available information.

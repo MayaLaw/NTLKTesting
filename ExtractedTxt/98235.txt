@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Palo Alto, California
+Accident Number:
+WPR18FA251
+Date & Time:
+September 4, 2018, 11:00 Local 
+Registration:
+N701JM
+Aircraft:
+Mooney M20J
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal, 1 Serious, 1 
+Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was flying two passengers on an Angel Flight. When the airplane was about 10 miles north of 
+the destination, the pilot contacted the air traffic control tower (ATCT). He was given instructions to fly 
+to a charted VFR checkpoint, but then reported that he was not familiar with it and asked for directions 
+from the controller. The pilot navigated to that checkpoint after several communications, and was then 
+instructed to overfly a second checkpoint, about 2.5 miles north of the runway, as his left base leg for the 
+arrival. The pilot was unable to locate the airport and requested ATCT assistance to advise him when to 
+turn final, which the controller did. The pilot saw the airport and continued the approach. 
+Witnesses observed the airplane touch down about mid-field and began to porpoise, alternately bouncing 
+between the main and nose landing gear. After 3 to 4 oscillations, the pilot initiated a go-around and 
+reported to the controller of the go-around. In response, the controller instructed the pilot to make a left 
+closed traffic and asked if he needed assistance, to which the pilot replied “negative, I just came in too 
+fast." The airplane climbed a few hundred feet and was then observed to enter a very steep left bank. 
+The nose pitched sharply down, and the airplane descended rapidly to the ground. Examinations of the 
+airplane and engine did not reveal any evidence of any pre-impact mechanical deficiencies or failures. 
+Physical examination of the engine and propeller, combined with review of recorded engine operating 
+parameter data, indicated that the engine operated normally, and was producing power at impact. 
+The pilot’s logbook indicated that he had flown into that airport at least 32 times before, and therefore 
+he should have been familiar with both the physical location of the airport and the names and locations 
+of the local navigation fixes. Even if he had never been into that airport before, proper preflight planning 
+dictates that he should have become familiar with those aspects. 
+Data downloaded from the onboard GPS device revealed the airplane was about 10 to 15 knots above 
+the manufacturer's approach speed (75 knots for the calculated landing weight) during final approach. 

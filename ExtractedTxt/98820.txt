@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Santa Ana, California
+Accident Number:
+WPR19LA050
+Date & Time:
+December 22, 2018, 16:22 Local 
+Registration:
+N15321
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+Shortly after takeoff on the instructional flight, the engine lost total power. The flight instructor 
+took the airplane controls and returned to the airport for a forced landing, during which the 
+airplane landed hard on a taxiway, resulting in substantial damage. 
+Postaccident examination revealed that the carburetor bowl was loose and displayed evidence 
+of a fuel leak. The leak likely resulted in fuel flow irregularities and the loss of engine power. 
+Although service bulletins had been published by both the carburetor and engine manufacturer 
+to address this issue, there was no evidence to suggest that the accident airplane had 
+undergone the inspections specified by the service bulletins. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to a loose carburetor bowl. 
+Findings
+Aircraft
+Fuel control/carburetor - Damaged/degraded

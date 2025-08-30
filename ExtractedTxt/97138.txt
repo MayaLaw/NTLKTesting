@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Eagle Lake, Texas
+Accident Number:
+GAA18CA242
+Date & Time:
+April 29, 2018, 14:00 Local 
+Registration:
+N66SK
+Aircraft:
+SENO LOUIS C SR KIS
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, during the takeoff roll, the airplane encountered a left crosswind gust, and the 
+right wing struck the grass on the right side of the runway. The airplane pivoted about the right wing, 
+and the propeller struck the ground. The airplane exited the right side of the runway and came to rest 
+upright.
+The airplane sustained substantial damage to the right-wing spar.
+The pilot reported that there were 12-knot wind gusts about the time of the accident. 
+The METAR nearest the accident site reported that, about the time of the accident, the wind was from 
+140° at 6 knots, gusting to 13 knots. The takeoff roll was initiated on runway 17.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during takeoff in gusting crosswind conditions.

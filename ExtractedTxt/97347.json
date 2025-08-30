@@ -1,0 +1,29 @@
+{
+    "Filename": "97347.txt",
+    "Location": "Cedar Key, Florida",
+    "Accident Number": "GAA18CA308",
+    "Date & Time": "May 28, 2018, 16:15 Local",
+    "Aircraft": "CIRRUS DESIGN CORP SR22",
+    "Registration": "N269DW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot initial climb 90 ft ground level airplane flew flock canarysize bird reported bird strike airplane continued climb prop became unbalanced causing violent vibration followed steep left bank right bank recalled airspeed decreased stall warning horn sounded 5 second later airplane impacted body water adjacent airport 60 left bank photograph provided federal aviation administration aviation safety inspector showed airplane sustained substantial damage wing fuselage pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident airplane collision multiple bird initial climb damaged propeller resulted subsequent aerodynamic stall airspeed could maintained",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "climb",
+                3
+            ],
+            [
+                "bird",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97346.txt",
+    "Location": "Butler, Kentucky",
+    "Accident Number": "GAA18CA307",
+    "Date & Time": "May 27, 2018, 18:18 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N95410",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported en route airplane engine began run roughly lose power immediately turned toward nearest airport slowed airplane 100 knot added pushed mixture full rich caused short burst power lasted second pumped throttle applied carburetor heat realized enough altitude make airport began look alternate landing site pilot added locating ridgetop field slowed airplane 75 knot pulled one notch flap trimmed landing lined airplane field pulled full flap 300 ft ground touchdown smooth airplane continued landing roll 3fttall wheat subsequently right wing struck industrial irrigation nozzle right wing separated fuselage airplane sustained substantial damage right wing stabilator pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added engine failure attempt change fuel tank empty right wing fuel tank recommended make fuel selector check first part restart procedure federal aviation administration inspector reported scene able run engine added left tank 12 full fuel switched fuel selector left tank started engine normally oil pressure fine fuel pressure normal electric pump enginedriven pump magneto checked fine",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "fuel",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96829.txt",
+    "Location": "Ferris, Texas",
+    "Accident Number": "GAA18CA149",
+    "Date & Time": "March 1, 2018, 11:00 UTC",
+    "Aircraft": "Beech B",
+    "Registration": "N77MM",
+    "Flight Conducted Under": "Part 91: General aviation - Ferry",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot multiengine retractable landing gear airplane reported instrument flight rule crosscountry flight 5000 ft mean sea level left engine surged several time performed emergency engine shutdown shortly afterward right engine lost power emergency descent airplane struck treetop landed hard field landing gear retracted airplane sustained substantial damage wing engine mount lower fuselage pilot reported requested 200 gallon fuel home airport fixed base operator fuel airplane pilot check fuel quantity preflight inspection according federal aviation administration airplane flying handbook chapter 2 page 27 pilot must always positively confirm fuel quantity visually inspecting fuel level tank pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "fuel",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Santa Ana, California
+Accident Number:
+WPR18FA211
+Date & Time:
+August 5, 2018, 12:29 Local 
+Registration:
+N727RP
+Aircraft:
+Cessna 414
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+5 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot and four passengers were nearing the completion of a cross-county business flight. While 
+maneuvering in the traffic pattern at the destination airport, the controller asked the pilot if he could 
+accept a shorter runway. The pilot said he could not, so he was instructed to enter a holding pattern for 
+sequencing; less than a minute later, the pilot said he could accept the shorter runway. He was instructed 
+to conduct a left 270° turn to enter the traffic pattern. The pilot initiated a left bank turn and then several 
+seconds later the bank increased, and the airplane subsequently entered a steep nose-down descent. The 
+airplane impacted a shopping center parking lot about 1.6 miles from the destination airport. 
+A review of the airplane's flight data revealed that, shortly after entering the left turn, and as the 
+airplane’s bank increased, its airspeed decreased to about 59 knots, which was well below the 
+manufacturer’s published stall speed in any configuration.
+Postaccident examination of the airframe and engines revealed no anomalies that would have precluded 
+normal operation. It is likely that the pilot failed to maintain airspeed during the turn, which resulted in 
+an exceedance of the aircraft's critical angle of attack and an aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to maintain adequate airspeed while maneuvering in the traffic pattern which resulted 
+in an aerodynamic stall and subsequent spin at a low altitude, which the pilot was unable to recover 
+from. 

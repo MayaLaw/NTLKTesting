@@ -1,0 +1,42 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Island Pond, Vermont
+Accident Number:
+ERA18FA232
+Date & Time:
+August 25, 2018, 15:20 Local 
+Registration:
+N6936B
+Aircraft:
+Piper PA22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was landing his airplane at his home airport at the conclusion of a local flight. The 
+airplane was last seen flying normally on the left downwind leg of the airport traffic pattern, and the 
+wreckage was subsequently discovered in a location consistent with a turn from the downwind to base 
+leg of the traffic pattern. The airplane and engine sustained extensive impact damage and postimpact fire 
+damage; however, examination revealed no discrepancies that would have precluded normal operation. 
+A friend of the pilot, who flew with him often, said that the pilot tended to turn from the downwind leg 
+onto the base leg of the traffic pattern "quite steep" (about 40° bank) and slow (62-63 knots). The friend 
+said that he shared his concerns about stalling with the pilot, but the pilot did not share the same 
+concern. The airplane was not equipped with a stall warning horn or angle of attack indicator.
+Postmortem toxicology testing revealed the presence of several medications, including 
+diphenhydramine, a sedating antihistamine; however, given the low levels identified, there was no 
+evidence that the pilot was impaired by his use of diphenhydramine or that it contributed to the accident.
+Given the amount of fuel onboard and the duration of the flight, it is unlikely that the airplane ran out of 
+fuel. Although there were no witnesses to the accident, given the location of the accident site, lack of 
+preimpact mechanical anomalies, and the pilot's reported habit of conducting traffic pattern turns at a 
+slow speed in a steep bank, it is likely that the pilot exceeded the airplane's critical angle of attack while 
+maneuvering for landing, which resulted in an aerodynamic stall and subsequent impact with terrain.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack while maneuvering for landing, 
+which resulted in an aerodynamic stall.

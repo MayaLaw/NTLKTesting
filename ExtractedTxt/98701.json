@@ -1,0 +1,29 @@
+{
+    "Filename": "98701.txt",
+    "Location": "Marion, Indiana",
+    "Accident Number": "CEN19FA035",
+    "Date & Time": "November 29, 2018, 14:21 Local",
+    "Aircraft": "Piper PA 30",
+    "Registration": "N7751Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot also airframe powerplant mechanic conducting personal flight twinengine airplane troubleshooting unknown problem left engine fuel system family member described flight test flight witness reported departure airplane climbed 500 ft ground level began left turn left turn airplane nose dived downward spiral airplane impacted terrain postaccident examination revealed mechanical anomaly airframe right engine propeller would precluded normal operation left engine propeller blade damage consistent low power time accident blade found unfeathered position evidence indicated pilot recently replaced left right fuel selector valve performing ground engine run comprehensive examination airplane fuel system possible due extensive fire damage system however given unknown left engine fuel system issue loose left fuel selector fuel line lack power signature left propeller blade likely fuel system performance degraded led partial total loss left engine power airplane downward spiral consistent pilot exceeding airplane critical angle attack singleengine operation resulted aerodynamic stall subsequent loss control toxicological testing detected sedating antihistamine pilot liver specimen aortic blood specimen making less likely medication would impairing thus pilot use medication likely factor accident probable cause finding",
+        "Top Words": [
+            [
+                "left",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "fuel",
+                7
+            ]
+        ]
+    }
+}

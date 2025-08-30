@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Payson, Arizona
+Accident Number:
+GAA17CA318
+Date & Time:
+June 4, 2017, 10:24 Local 
+Registration:
+N50526
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during an approach to runway 22, the airplane drifted to the right of the runway 
+centerline. He initiated a go-around by turning off the carburetor heat, applying full throttle, decreasing 
+the flaps from 30° to 20°, and pushing forward on the yoke to increase airspeed; the airplane then began 
+to settle into ground effect. The pilot saw that the terrain began to rise, and he recalled that the noise 
+abatement procedure called for a right turn to 270°, so he turned to the right before establishing a climb. 
+The airplane descended into rising terrain, struck trees, and impacted the ground and became engulfed in 
+flames. The postcrash fire destroyed the fuselage.
+The METAR reported that the wind was variable at 4 knots and that the temperature was 84°F. The field 
+elevation was 5,504 ft, and the altimeter setting was 30.14 inches of mercury. The density altitude was 
+8,255 ft.
+Per the National Transportation Safety Board Pilot Aircraft Accident Report, the pilot reported that the 
+accident could have been prevented by reviewing the airplane's performance data and atmospheric 
+conditions, especially density altitude and its effect on performance per the manufacturer's Pilot's 
+Operating Handbook. The pilot stated that he would place greater emphasis on performance planning as 
+an essential activity during flight planning. 
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

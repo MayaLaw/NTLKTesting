@@ -1,0 +1,29 @@
+{
+    "Filename": "97559.txt",
+    "Location": "Monmouth, Illinois",
+    "Accident Number": "CEN18FA235",
+    "Date & Time": "June 24, 2018, 11:15 Local",
+    "Aircraft": "Ercoupe 415 D",
+    "Registration": "N94070",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot pilotrated passenger departed local flight complete touchandgo landing nearby airport airplane traffic pattern witness reported airplane flew low house engine sputtering backfiring airplane flew 30 ft made steep left bank toward airport impacted ground wooded area postimpact fire consumed majority airplane propeller exhibited signature consistent lack engine power impact although impact thermal damage precluded detailed examination engine fuel system examination reveal evidence preimpact mechanical malfunction abnormality would led loss engine power investigation unable determine cause loss engine power based available information probable cause finding national transportation safety board determines probable cause accident loss engine power reason could determined based available information finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

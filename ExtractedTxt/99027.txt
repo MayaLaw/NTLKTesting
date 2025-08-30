@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Colby, Kansas
+Accident Number:
+CEN19LA086
+Date & Time:
+February 22, 2019, 09:45 Local 
+Registration:
+N62069
+Aircraft:
+Beech 65
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+Shortly after takeoff, the pilot noticed that the crew hatch door, located next to the left front seat, had 
+unexpectedly opened. The pilot attempted to close the door without success. He indicated that, while 
+trying to close the door, he "wasn't able to fully control the airplane normally (mainly [in] heading and 
+pitch)," so he initiated a precautionary landing back to the departure airport. While maneuvering at a low 
+altitude to stay in visual flight rules conditions (overcast ceiling at 300 ft), the airplane's airspeed 
+decreased, the wing tips were dipping back and forth, and the airplane exhibited signs of nearing its 
+critical angle of attack. The pilot retracted the landing gear and applied full engine power to try to gain 
+airspeed. The pilot was unable to gain airspeed, and the airplane was losing altitude. Before impact, the 
+pilot kept the wings level and the nose in a slight pitch-up attitude. The airplane then impacted the snow-
+covered terrain with the landing gear retracted, which resulted in substantial damage to the left wing and 
+aileron. Postaccident examination of the airplane revealed no preimpact malfunctions with the crew 
+hatch door; thus, it is likely the door had not been properly secured before takeoff.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to properly secure the crew hatch door before takeoff, which resulted in his distraction 
+and his failure to maintain airplane control and airspeed.

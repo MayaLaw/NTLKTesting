@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hollister, California
+Accident Number:
+GAA19CA108
+Date & Time:
+May 28, 2019, 15:30 Local 
+Registration:
+N501J
+Aircraft:
+De Havilland DHC 2
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the amphibious float-equipped airplane reported that he intended to perform a water landing. 
+On the downwind leg of the approach, he performed his prelanding checks from memory, and he 
+confirmed that the three green landing gear safe lights were illuminated. However, he added that he 
+"should have looked for blue lights." The pilot landed on the water with the landing gear wheels 
+extended, and the airplane pitched forward and nosed over. The airplane sustained substantial damage to 
+the right wing, the empennage, and the windscreen. The pilot asserted that he "should have used a 
+checklist once airborne. Both the after takeoff and before landing checks would have saved me from this 
+event." The pilot reported that there were no preaccident mechanical malfunctions or failures with the 
+airplane that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to retract the amphibious float's landing gear wheels before landing on the water. 
+Contributing to the accident was the pilot's failure to use the after takeoff and before landing checklists. 

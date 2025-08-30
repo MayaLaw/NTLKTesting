@@ -1,0 +1,29 @@
+{
+    "Filename": "97649.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "ANC18LA051",
+    "Date & Time": "June 29, 2018, 13:07 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N7675D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "airline transport pilot stated pilotrated passenger fueled airplane private fuel tank floatplane slip flight preflight inspection engine runup normal conducting takeoff rear seat pilotrated passenger front seat airplane 100 200 ft ground level engine started sputter lose power pilot attempted restore power cycling throttle avail realizing would able land water turned airplane land nearby gravel runway asked pilotrated passenger check fuel selector valve position responded could recall impact attitude impact passenger statement corroborated pilot statement added airplane landed nosehigh attitude banked right impact ground scar evident across gravel taxiway grassy area next runway airplane sustained substantial damage fuselage wing engine found attached airframe intact fuel oil line secure postaccident examination engine fuel system revealed corrosion top spark plug spark could produced lead however likely caused airplane exposure water engine cowling 2 month accident fuel present carburetor fuel line fuel strainer engine fuel tank sufficient fuel water debris found fuel sample fuel system pilot private fuel tank one propeller blade found straight extensive trailing edge impact damage dirt grass dried onto cambered face indicative rotation impact evidence preaccident mechanical malfunction failure noted engine airframe would precluded normal operation based evidence likely fuel reaching engine led fuel starvation subsequent total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "engine",
+                9
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

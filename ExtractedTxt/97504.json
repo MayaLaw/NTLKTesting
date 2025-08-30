@@ -1,0 +1,29 @@
+{
+    "Filename": "97504.txt",
+    "Location": "Harbin,",
+    "Accident Number": "DCA18CA219",
+    "Date & Time": "June 11, 2018,  Local",
+    "Aircraft": "Boeing 787-9",
+    "Registration": "N826AN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 1 Minor,",
+    "Analysis": {
+        "Text": "june 10 2018 1215 local time american airline 181 n826an b7879 enroute beijing capital international airport pek beijing china two flight attendant burned result beverage cart tray overturned three pot hot liquid time event airplane smooth air turbulence 292 passenger crew onboard one flight attendant received minor injury one flight attendant received serious injury flight operating 14 code federal regulation part 121 regularly scheduled passenger flight los angeles international airport lax los angeles california pek crew reported two injured flight attendant aft galley setting beverage cart cart overturned injured flight attendant treated passenger physician paramedic met airplane gate one flight attendant transported hospital diagnosed 2nd degree burn released probable cause finding national transportation safety board determines probable cause accident accidental tipping beverage service cart turbulence caused pot hot water burn two flight attendant",
+        "Top Words": [
+            [
+                "flight",
+                9
+            ],
+            [
+                "attendant",
+                7
+            ],
+            [
+                "cart",
+                4
+            ]
+        ]
+    }
+}

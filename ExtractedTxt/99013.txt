@@ -1,0 +1,43 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Trinity Bay, Texas
+Accident Number:
+DCA19MA086
+Date & Time:
+February 23, 2019, 12:39 Local 
+Registration:
+N1217A
+Aircraft:
+Boeing 767
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 121: Air carrier - Non-scheduled
+Analysis 
+The Safety Board's full report is available at 
+http://www.ntsb.gov/investigations/AccidentReports/Pages/aviation.aspx. The Aircraft Accident Report 
+number is NTSB/AAR-20/02. 
+On February 23, 2019, at 1239 central standard time, Atlas Air Inc. flight 3591, a Boeing 767-375BCF, 
+N1217A, was destroyed after it rapidly descended from an altitude of about 6,000 ft mean sea level and 
+crashed into a shallow, muddy marsh area of Trinity Bay, Texas, about 41 miles east-southeast of 
+George Bush Intercontinental/Houston Airport (IAH), Houston, Texas. The captain, first officer, and a 
+nonrevenue pilot riding in the jumpseat died. Atlas operated the airplane as a Title 14 Code of Federal 
+Regulations Part 121 domestic cargo flight for Amazon.com Services LLC, and an instrument flight 
+rules flight plan was filed. The flight departed from Miami International Airport, Miami, Florida, about 
+1033 (1133 eastern standard time) and was destined for IAH.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The inappropriate response by the first officer as the pilot flying to an inadvertent activation of the go-
+around mode, which led to his spatial disorientation and nose-down control inputs that placed the 
+airplane in a steep descent from which the crew did not recover. Contributing to the accident was the 
+captain's failure to adequately monitor the airplane's flightpath and assume positive control of the 
+airplane to effectively intervene. Also contributing were systemic deficiencies in the aviation industry's 
+selection and performance measurement practices, which failed to address the first officer's aptitude-
+related deficiencies and maladaptive stress response. Also contributing to the accident was the Federal 
+Aviation Administration's failure to implement the pilot records database in a sufficiently robust and 
+timely manner.

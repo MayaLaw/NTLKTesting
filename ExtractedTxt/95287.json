@@ -1,0 +1,29 @@
+{
+    "Filename": "95287.txt",
+    "Location": "San Juan, Puerto Rico",
+    "Accident Number": "ERA17FA195",
+    "Date & Time": "June 3, 2017, 14:17 Local",
+    "Aircraft": "Piper PA23",
+    "Registration": "N21WW",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal, 2 Serious, 1",
+    "Analysis": {
+        "Text": "commercial pilot conducting ondemand air taxi flight three passenger board multiengine airplane majority pilot multiengine experience larger airplane powerful engine 20 hour experience accident airplane make model completed training 9 day accident pilot stated receiving clearance takeoff air traffic control performed takeoff roll rotated airplane 85 knot airplane climbed 100 ft ground level agl continue climb accelerate airplane yawed left left engine rpm needle indicated less right engine rpm remained green arc subsequently pilot turned airplane left yaw return airport airplane unable maintain altitude subsequently impacted water pilot stated rpm difference preimpact mechanical malfunction airplane front seat passenger reported pilot familiar airplane stated airplane initially gained altitude yawed left noticed pilot correct yaw let airplane turn perpendicular wind point mentally questioned pilot competency felt compelled take control touch anything airplane lost altitude flew tree line remaining left banking turn pilot moved yoke abruptly right airplane collided water front seat passenger added sound engine change flight noted smoke fuel odor airport surveillance video confirmed airplane climbed 100 150 ft agl ground effect passed departure end runway airplane remained noseup attitude began descend begin shallow left turn impacted water examination airplane reveal preimpact mechanical malfunction would precluded normal operation airplane 350 lb maximum gross weight",
+        "Top Words": [
+            [
+                "airplane",
+                18
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "left",
+                6
+            ]
+        ]
+    }
+}

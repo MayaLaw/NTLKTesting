@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Waterloo, Illinois
+Accident Number:
+CEN19LA098
+Date & Time:
+March 12, 2019, 14:42 Local 
+Registration:
+N750R
+Aircraft:
+Piper PA32R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious, 1 Minor, 1 
+None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he heard a "horrible noise" and that the engine "immediately seized" about 10 
+minutes from the destination airport. Oil covered the windshield and obstructed his forward field of 
+view. He executed a forced landing to a road by holding the airplane in a right crab so that he could see 
+out of the left side window. The airplane came to rest inverted in the grass adjacent to the road and 
+sustained damage to the fuselage and wings.
+A postaccident engine examination revealed that the No. 4 and No. 6 connecting rods had fractured and 
+separated from the crankshaft. Metallurgical examination was unable to determine the source of the 
+initial failure due to secondary mechanical damage. The intact fracture surfaces that were available for 
+examination exhibited features consistent with overstress.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power due to a connecting rod failure for reasons that could not be determined due to 
+secondary mechanical damage, which resulted in a subsequent forced landing.

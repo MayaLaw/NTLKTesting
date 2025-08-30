@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Mesa, Arizona
+Accident Number:
+GAA18CA272
+Date & Time:
+May 10, 2018, 08:30 Local 
+Registration:
+N82XC
+Aircraft:
+CUB CRAFTERS INC CC19
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Ferry
+Analysis 
+According to the pilot, he was seated in the front seat of the tandem-seat, tailwheel-equipped airplane 
+and made a three-point landing and applied full aft stick pressure once the tailwheel was on the ground. 
+He could not recall the airspeed, but the airplane abruptly veered to the left. The right main landing gear 
+(MLG) collapsed, and subsequently, the the right wing struck the ground. 
+The pilot-rated passenger, who was a flight instructor, reported that the purpose of the flight was to 
+perform a prebuy inspection for the pilot. He reported that there was a slight crosswind from the left 
+about 3 knots during the three-point landing, and the stall warning horn activated. He described the 
+landing as "perfect," but during the landing roll, the airplane veered hard left and ground looped.
+The Federal Aviation Administration aviation safety inspector who examined the airplane after the 
+accident determined that the right MLG wheel assembly "folded under the end of the gear leg and then 
+separated." The airplane manufacturer examined the wheel assembly and reported that "an extreme 
+sideload on the right tire caused the subsequent cascading failure of the right wheel and brake 
+assembly," which likely resulted from the ground loop.
+The METAR at the accident airport reported that, about the time of the accident, the wind was from 
+180° at 7 knots. The pilot landed on runway 22L.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control of the airplane during the landing roll. 

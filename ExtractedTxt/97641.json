@@ -1,0 +1,29 @@
+{
+    "Filename": "97641.txt",
+    "Location": "Berlin, Maryland",
+    "Accident Number": "ERA18LA181",
+    "Date & Time": "June 29, 2018, 09:15 Local",
+    "Aircraft": "Beech 35B33",
+    "Registration": "N9745Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "pilot stated shortly retracted landing gear initial climb takeoff airplane began vibrate engine lost power pilot initiated 180 return runway unable reach performed forced landing golf course postaccident examination airplane engine revealed 3 cylinder sustained catastrophic damage including heavy mechanical damage piston separation exhaust valve portion lodged intake valve numerous piece metal consistent material 3 piston head found oil sump given information likely loss engine power due failure 3 exhaust valve engine manufacturer maintenance manual recommended engine overhauled 1500 hour operation every 12 year whichever occurred first maintenance manual also recommended borescope used inspect engine cylinder every 100hourannual inspection conjunction compression test engine maintenance record listed compression test result previous annual inspection indicate whether cylinder inspected borescope previous annual inspection 1 month accident engine total time 17691 hour additionally engine manufactured 37 year prior accident overhauled investigation determine impending failure exhaust valve could detected corrected borescope inspection performed andor engine overhauled probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                10
+            ],
+            [
+                "valve",
+                4
+            ],
+            [
+                "inspection",
+                4
+            ]
+        ]
+    }
+}

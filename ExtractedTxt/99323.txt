@@ -1,0 +1,45 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Madera, California
+Accident Number:
+WPR19FA121
+Date & Time:
+April 25, 2019, 12:49 Local 
+Registration:
+N797N
+Aircraft:
+TL Ultralight SRO STINGSPORT
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and the student pilot were conducting traffic pattern work, landings, and 
+takeoffs. A pilot who was flying in the area reported hearing one of the accident airplane’s 
+pilots announce that they would perform an "emergency turn around at 500 ft." Two witnesses 
+listening to communications at the airport reported that the last communication they heard 
+from the accident airplane was that the pilot would be executing a simulated emergency 
+landing to the runway. Data obtained from a GPS unit on board the accident airplane showed 
+that about 1 minute after departure, at a GPS altitude of 764 ft above ground level and a 
+groundspeed of 64 knots, the airplane began a 180° descending right turn back toward the 
+airport. The final recorded data point was 16 seconds later, with a reported GPS altitude of 324 
+ft and a groundspeed of 21 knots. The airplane impacted terrain in a nose-down attitude about 
+.5 nautical miles from the departure end of the runway. It could not be determined which pilot 
+was manipulating the flight controls when the accident occurred. 
+Postaccident examination of the airframe and the engine did not reveal any evidence of 
+preexisting mechanical malfunctions that would have precluded normal operation. 
+Toxicology testing of specimens from the flight instructor detected metoprolol, rosuvastatin, 
+and glipizide, which were not impairing and, thus, would not have contributed to the accident. 
+Toxicology testing of specimens from the student pilot detected tetrahydrocannabinol (THC), 
+the active compound in marijuana. Although the concentration of THC found in cardiac blood 
+suggests that marijuana usage may have occurred earlier that day, blood concentrations do not 
+correlate well with impairment and cannot be used to prove that the user was under the 
+influence of the drug at the time of testing. Thus, it is unlikely that the student pilot’s use of 
+marijuana contributed to the accident.
+Based on the available evidence, it is likely that during the simulated engine failure on initial 
+climb after takeoff, the pilot inadvertently exceeded the airplane’s critical angle of attack, likely 

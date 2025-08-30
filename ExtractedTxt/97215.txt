@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Luling, Texas
+Accident Number:
+CEN18LA163
+Date & Time:
+May 8, 2018, 15:00 Local 
+Registration:
+N3291U
+Aircraft:
+Cessna 182F
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+3 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Skydiving
+Analysis 
+Before taking off for the skydiving flight with four passengers, the commercial pilot refueled the airplane. Shortly 
+after the airplane rotated, the passengers told the pilot that fuel was leaking from the left wing. The pilot 
+believed that the leak was an immediate fire risk, so he decided to perform an off-airport landing. The pilot 
+abruptly lowered the airplane’s nose and landed in a field. The airplane impacted terrain in a left-wing-low 
+attitude and then hit a berm. The engine and right main landing gear separated during the impact sequence, and 
+the left and right wings sustained substantial damage. 
+Postaccident examination revealed that the left-wing fuel tank cap was not secured and was dangling by the 
+chain. During examination, no issues or anomalies with the left-wing fuel cap or fuel tank filler inlet were found, 
+and the fuel cap was able to be fully secured. An examination of the airframe, engine, and remaining systems 
+revealed no evidence of any preimpact mechanical malfunctions or failures that would have precluded normal 
+operation. Given the evidence, it is likely that the pilot did not secure the left-wing fuel cap after refueling the 
+airplane.
+The airport was less than 1 mile away when the passengers told the pilot about the leak. It is possible that the 
+pilot could have returned to the airport and landed the airplane at the airport without further incident. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to secure the left-wing fuel cap after refueling the airplane, which resulted in a fuel leak on 
+takeoff.

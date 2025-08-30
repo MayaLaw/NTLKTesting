@@ -1,0 +1,29 @@
+{
+    "Filename": "97554.txt",
+    "Location": "Hutchinson, Minnesota",
+    "Accident Number": "GAA18CA371",
+    "Date & Time": "June 20, 2018, 11:00 Local",
+    "Aircraft": "AIR TRACTOR INC AT 301",
+    "Registration": "N3169D",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane agricultural application flight accidentally loaded fertilizer disperse initially planned made airplane heavy chose add fuel prevent airplane gross weight flight engine lost power pilot conducted forced landed dirt field waterlogged due recent storm landing roll airplane nosed pilot reported misjudged believed safe quantity fuel remaining airplane sustained substantial damage rudder vertical stabilizer pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "fuel",
+                4
+            ]
+        ]
+    }
+}

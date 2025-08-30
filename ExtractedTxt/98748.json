@@ -1,0 +1,29 @@
+{
+    "Filename": "98748.txt",
+    "Location": "Forest, Virginia",
+    "Accident Number": "GAA19CA089",
+    "Date & Time": "November 30, 2018, 16:30 Local",
+    "Aircraft": "Piper J4",
+    "Registration": "N27838",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot tailwheelequipped airplane reported final approach land realized airplane high performed forward slip touchdown airplane bounced twice veered right airplane ground looped right exited runway right main landing gear struck guard rail airplane sustained substantial damage right wing lift strut student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare subsequent failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hartford, Connecticut
+Accident Number:
+GAA18CA529
+Date & Time:
+August 28, 2018, 09:30 Local 
+Registration:
+N178DB
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot reported that, during the approach, the tower controller instructed him to stay "high and close." 
+Once he turned to final, he reduced the power, and the airplane began rapidly descending. He added that 
+he applied some power and back pressure to arrest the descent rate as he began to flare, but the airplane 
+landed hard and faster than normal. As the nose landing gear touched down, he applied reverse thrust 
+and braked aggressively. Subsequently, the nose landing gear collapsed, and the airplane came to rest on 
+the runway.
+The airplane sustained substantial damage to the fuselage and engine mount.
+The pilot reported that postaccident examination revealed that a nose landing gear actuator bolt had 
+sheared off. 
+The pilot reported that the primary cause of the accident was his failure to maintain a stabilized 
+approach, which resulted in a hard landing and higher-than-normal ground speed upon touchdown.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's unstabilized approach and hard landing, which resulted in a nose landing gear collapse.

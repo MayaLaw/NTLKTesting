@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Riverside, California
+Accident Number:
+WPR19FA096
+Date & Time:
+March 16, 2019, 11:49 Local 
+Registration:
+N800DC
+Aircraft:
+Beech 50
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the multiengine airplane departed on a personal flight. Shortly after takeoff, the 
+pilot reported first an electrical problem, followed by control problems, before reporting a loss 
+of right engine power. Despite the controller providing vectors back to the departure airport 
+multiple times, the pilot continued off course as the airplane descended from about 3,400 ft 
+mean sea level (msl) to about 1,200 ft msl at ground speeds between 85 and 89 knots before 
+radar contact was lost. The airplane impacted the backyard of a residence. Witnesses saw the 
+airplane flying low before it entered a spiraling, nose-low descent that continued until impact.
+Examination of the airframe and both engines found no preimpact mechanical malfunctions 
+that would have precluded normal operation. Flight control continuity was established from 
+the cockpit to the flight control surfaces, and damage to the propeller blades from both engines 
+was consistent with some power development at the time of impact. Engine control positions 
+for the propellers and throttles were in the mid-range and the mixtures were in the rich 
+position indicating that the pilot did not secure an inoperative engine for single-engine fight.
+Based on the wreckage examination, the reason for the pilot’s reported electrical and control 
+anomalies and the reported loss of right engine power could not be determined. The airplane’s 
+gradual descent during the flight, followed by the nose-low spiral to ground impact, are 
+consistent with the pilot not following single-engine procedures by adding power to maintain 
+altitude and airspeed, securing the dead-engine, and maintaining a minimum safe single-
+engine speed above 90 mph (78 knots).  
+Probable Cause and Findings

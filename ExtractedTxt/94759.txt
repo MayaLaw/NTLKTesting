@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Valparaiso, Indiana
+Accident Number:
+GAA17CA153
+Date & Time:
+February 20, 2017, 09:40 Local 
+Registration:
+N9277K
+Aircraft:
+Stinson 108
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during landing, as the tail came down, a 
+"sizable gust weathervaned" the airplane to the left. He added that, he "made aggressive inputs to correct 
+the direction" but was unsuccessful. He further added that, once the airplane veered off the runway and 
+into the grass, he could feel the mains begin to sink into the soft ground. Subsequently, the airplane 
+nosed over. 
+The airplane sustained substantial damage to the right wing lift struts and empennage. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation. 
+A review of recorded data from the automated weather observation station located on the airport 
+revealed that, about 16 minutes after the accident, the wind was from 170° at 9 knots. The airplane 
+landed on runway 18. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control while landing with a crosswind.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98134.txt",
+    "Location": "Descanso, California",
+    "Accident Number": "WPR18FA237",
+    "Date & Time": "August 22, 2018, 16:15 Local",
+    "Aircraft": "Champion 7KCAB",
+    "Registration": "N1682G",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "flight instructor pilot receiving instruction conducting instructional flight spin training 15 minute flight radar data showed airplane slight left turn 2400 ft agl enter right 360o decreasing turn dropping radar last radar hit 1500 ft accident site airplane final maneuver rapid descent consistent spin entry faa advisory circular ac 6167c stall spin awareness training provides information report spin avoidance incipient spin actual spin entry spin spin recovery technique practiced altitude 3500 foot agl examination accident site revealed airplane impacted terrain right wing nose attitude examination wreckage revealed anomaly airframe engine would precluded normal operation damage airplane fuel tank indicated contained fuel time impact damage propeller revealed varying degree impact damage consistent degree engine power time impact according weight balance calculation airplane exceeded maximum gross weight takeoff 73 lb center gravity outside acrobatic flight envelope could affected spin recovery characteristic may degraded enhanced spin maneuver determined either pilot aware weight balance airplane although flight instructor postmortem evidence atherosclerotic disease could pose risk flight safety evidence acute cardiac event pilot toxicology testing showed small amount ethanol cavity blood muscle brain tissue thus likely ethanol due postmortem production consumption ethanol prior flight",
+        "Top Words": [
+            [
+                "spin",
+                10
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

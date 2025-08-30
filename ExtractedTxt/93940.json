@@ -1,0 +1,29 @@
+{
+    "Filename": "93940.txt",
+    "Location": "Moss Hill, Texas",
+    "Accident Number": "CEN16FA346",
+    "Date & Time": "September 3, 2016, 19:00 Local",
+    "Aircraft": "Bellanca 7ECA",
+    "Registration": "N787MW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot passenger conducting local flight performing aerobatics witness observed pilot conducting flybys trick area one witness reported observing airplane complete flip spin 10 minute accident groundbased video footage depicted airplane flying river low altitude airplane pitched entered steep climb airplane reached top climb yawed left entered near vertical descent gradual left turn shortly impacting river gradual left turn reversed abruptly right descending turn airplane impacted river postaccident examination airframe engine reveal anomaly consistent preimpact failure malfunction according friend pilot competent spin received instruction aerobatic maneuver however lack formal logbook training record respect aerobatics investigation could determine pilot level proficiency maneuver toxicological testing pilot positive cocaine metabolite cocaethylene metabolite formed cocaine ingested alcohol levamisole drug commonly used cut street cocaine urine cavity blood positive methamphetamine metabolite absence cocaine pilot blood suggested distant usage accordingly acute effect drug likely dissipated level methamphetamine pilot blood sample low result presence residual effect drug could determined based available information investigation unable determine whether pilot impaired time accident probable cause finding national transportation safety board determines probable cause accident pilot loss control attempting recover lowlevel aerobatic maneuver",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "cocaine",
+                4
+            ]
+        ]
+    }
+}

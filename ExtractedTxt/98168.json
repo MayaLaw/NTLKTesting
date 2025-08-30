@@ -1,0 +1,29 @@
+{
+    "Filename": "98168.txt",
+    "Location": "Hanson, Massachusetts",
+    "Accident Number": "ERA18TA236",
+    "Date & Time": "August 27, 2018, 12:50 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N3115R",
+    "Flight Conducted Under": "Part 91: General aviation - Skydiving",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot reported airplane initial climb local skydiving flight radio stopped working continued climbing 7500 ft allow skydiver depart airplane noted engine running roughly time circled airport pilot reported approach little faster higher normal landed longer usual chose execute goaround roughrunning engine surveillance video witness indicated airplane touched near midpoint 1760ftlong runway quartering tailwind airplane tire left 500 ft skid mark airplane overran departure end runway encountered ditch nosed came rest inverted 183 ft beyond departure end runway postaccident testing brake showed operational reveal evidence preimpact mechanical malfunction failure would precluded normal operation addition postaccident examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal engine operation except alternator belt found pulley however airplane battery still indicated normal voltage airplane flap found extended indicating airplane electrical system still functional throughout landing attempt despite condition alternator belt airplane engine never ceased producing power pilot able perform normal landing instead performed faster higher approach normal failed attain proper touchdown point probable cause finding national transportation safety board determines probable cause accident pilot failure attain proper touchdown point resulted runway overrun contributing accident pilot decision land quartering tailwind",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "normal",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Cleveland, Georgia
+Accident Number:
+ERA16CA314
+Date & Time:
+September 9, 2016, 19:00 Local 
+Registration:
+N396DF
+Aircraft:
+QUICKSILVER MANUFACTURING 
+INC SPORT 2S
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the experimental, amateur-built airplane reported that he was demonstrating turns for the 
+passenger while flying at a low altitude when he lost control of the airplane and "stalled." The airplane 
+collided with trees and sustained substantial damage to the fuselage, wings, and empennage. The pilot 
+reported that there were no preimpact mechanical failures or malfunctions with the airframe or engine 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed and his exceedance of the airplane's critical angle of 
+attack, which resulted in an aerodynamic stall.

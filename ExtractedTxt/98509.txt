@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Lynchburg, Virginia
+Accident Number:
+ERA19LA019
+Date & Time:
+October 18, 2018, 10:57 Local 
+Registration:
+N924MM
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, shortly after the student pilot conducted the takeoff for the 
+instructional flight, they felt the engine vibrate and the airplane shudder. They then noticed that the rpm 
+had decreased and that the engine's performance had degraded. The instructor took the controls and 
+lowered the nose to prevent a stall. He attempted to land on the intersecting runway, and the airplane 
+touched down with about 100 ft of runway remaining. Realizing that the airplane could not be stopped 
+within the remaining runway, the instructor steered the airplane right to avoid a steep drop-off past the 
+runway end. The airplane subsequently impacted a ditch and then came to rest in grass in a nose-down 
+position. The left wing sustained substantial damage.
+ 
+Postaccident examination of the engine revealed that the No. 2 cylinder exhaust valve was stuck open. 
+Given this evidence, it is likely that the stuck exhaust valve resulted in the partial loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The stuck No. 2 cylinder exhaust valve, which resulted in a partial loss of engine power and a 
+subsequent forced landing and impact with a ditch.

@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Middletown, New York
+Accident Number:
+ERA18FA141
+Date & Time:
+May 5, 2018, 09:05 Local 
+Registration:
+N84396
+Aircraft:
+Aeronca 7AC
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot and flight instructor were conducting a flight review in an airplane owned by a flying club. 
+Shortly after takeoff, when the airplane was about ½ mile from the departure end of the runway, a 
+witness reported that the airplane "suddenly went nose down." The airplane impacted a row of trees on 
+the edge of a field in a near-vertical nose-down attitude. No ground scars were found, and no tree 
+damage was found other than that directly above the wreckage, consistent with little or no forward 
+speed. Thus, the airplane had likely exceeded its critical angle of attack, resulting in an aerodynamic 
+stall from which the pilot was unable to recover.
+Witness marks on the engine's crankcase nose seal area, were consistent with a directly aft impact by the 
+propeller mounting bolt nuts and showed no indications of scraping or rotation. In addition, there was no 
+chordwise scratching and relatively little leading edge damage to the propeller blades. The lack of any 
+chordwise scratching and relatively little leading edge damage to the propeller blades, while not 
+conclusive, is suggestive of slow or no rotation of the propeller as descended through the trees. 
+Examination of the airframe and engine otherwise revealed no evidence of preimpact failures that would 
+have precluded normal operation.
+The rear seat shoulder harness anchor separated from its attachment point to the fuselage tubing during 
+the accident sequence. Although the bolt securing the anchor was not installed in accordance with the 
+manufacturer's instructions (the bolt head was facing up instead of the nut), the installation error likely 
+did not cause the failure. Instead, the failure was due to the anchor sliding forward between the fuselage 
+tubes. The investigation could not determine if the rear seat shoulder harness anchor failed due to a 
+design issue or loads beyond the design criteria.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during climbout, which resulted 

@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Stevensville, Montana
+Accident Number:
+WPR17LA064
+Date & Time:
+February 23, 2017, 13:00 Local 
+Registration:
+N3803J
+Aircraft:
+Beech A36TC
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that before takeoff from his home airport for the personal flight, he noted the midfield 
+windsock at the airport and believed that he would have a straight crosswind with gusts coming from 
+both directions. 
+The pilot reported that the airplane lifted off about 80 knots. However, the airplane would not climb or 
+accelerate, and the pilot felt that there was a rapid decrease in power. He ensured that the engine controls 
+were in their appropriate positions for full takeoff power, but the airplane still would not climb. The 
+airplane struck level terrain adjoining the right side of the runway and came to rest upright, about 300 ft 
+from the runway centerline.
+A witness reported that the airplane's engine sounded "strong and loud." The airplane lifted off about 
+2,400 ft from the runway threshold and attained an altitude of about 50 ft above ground level when the 
+airplane began a steep right descending turn.
+Although the pilot reported that he referenced the windsock and believed that he would be taking off 
+with a direct crosswind, the airport's automated weather observation system indicated a tailwind 
+component of about 8.5 to 11.2 knots for the takeoff runway at the time. 
+The accident runway was 3,800 ft long. Review of the airplane manufacturer's performance data 
+indicated that a takeoff with maximum allowable gross weight and no flaps from a level runway with a 
+10-knot tailwind would have required a ground roll of about 2,109 ft and required about 3,385 ft to clear 
+a 50-ft obstacle. The airplane manufacturer's published performance data did not account for tailwind 
+components above 10 knots. The runway had a 1.94% uphill slope in the takeoff direction, but the 
+performance data did not account for runway slope. Calculations indicated that the airplane was about 
+220 lbs above the maximum allowable takeoff weight. Each of these three factors would increase the 
+takeoff distance and decrease the airplane climb performance, but there were no means for the pilot or 
+investigators to quantify their individual or collective effects. 

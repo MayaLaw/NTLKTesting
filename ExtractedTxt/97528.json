@@ -1,0 +1,29 @@
+{
+    "Filename": "97528.txt",
+    "Location": "Ferdinand, Indiana",
+    "Accident Number": "CEN18TA233",
+    "Date & Time": "June 18, 2018, 22:45 Local",
+    "Aircraft": "Cessna 150F",
+    "Registration": "N3002X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "private pilot passenger crosscountry personal flight 2500 ft mean sea level 15 mile north destination airport began descent descent engine sputtered followed total loss power pilot attempted troubleshoot loss power unsuccessful however apply carburetor heat troubleshooting subsequently pilot made forced landing parking lot landing roll airplane impacted embankment nosed postaccident examination airplane revealed fuel present fuel tank fuel line carburetor examination revealed evidence preimpact mechanical failure malfunction would precluded normal operation weather condition time accident conducive accumulation serious carburetor icing glide power setting likely descent carburetor ice accumulated due pilot failure apply carburetor heat resulted loss engine power probable cause finding national transportation safety board determines probable cause accident pilot failure apply carburetor heat condition conducive accumulation carburetor icing resulted total loss engine power",
+        "Top Words": [
+            [
+                "carburetor",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "power",
+                5
+            ]
+        ]
+    }
+}

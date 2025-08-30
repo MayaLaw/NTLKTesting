@@ -1,0 +1,29 @@
+{
+    "Filename": "98071.txt",
+    "Location": "Valdez, Alaska",
+    "Accident Number": "GAA18CA489",
+    "Date & Time": "August 9, 2018, 16:00 Local",
+    "Aircraft": "Maule MX7",
+    "Registration": "N7ZV",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported conducted threepoint landing sand bar airplane bounced right main landing gear struck rock airplane nosed pilot added landed much speed airplane sustained substantial damage leftwing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper airspeed landing resulted bounced landing subsequent noseover",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

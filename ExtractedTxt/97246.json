@@ -1,0 +1,29 @@
+{
+    "Filename": "97246.txt",
+    "Location": "Zelienople, Pennsylvania",
+    "Accident Number": "GAA18CA278",
+    "Date & Time": "May 12, 2018, 11:00 Local",
+    "Aircraft": "Cessna 170",
+    "Registration": "N2485D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane landing roll tailwheel ground airplane may encountered wind gust airplane exited runway left left main landing gear struck taxiway sign airplane sustained substantial damage left main landing gear attachment point lower fuselage longeron elevator pilot reported wind airport time accident variable 4 knot sky clear nearest metar accident site located 11 mile west reported time accident wind 270 8 knot lightning distance northwest pilot landed airplane runway 35 pilot reported accident could prevented quickly applied corrective action including increasing right rudder pedal pressure using differential braking increasing right aileron input pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

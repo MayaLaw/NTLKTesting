@@ -1,0 +1,29 @@
+{
+    "Filename": "97900.txt",
+    "Location": "Chelan Falls, Washington",
+    "Accident Number": "GAA18CA443",
+    "Date & Time": "July 22, 2018, 07:30 Local",
+    "Aircraft": "Just JA30 SUPERSTOL",
+    "Registration": "N825PW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported made approach river land private airstrip came low hit dock airplane propeller struck dock landing gear separated airplane slid 25 ft came stop airplane sustained substantial damage engine mount pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper approach river resulted collision dock finding personnel issue aircraft control pilot aircraft descentapproachglide path attainedmaintained environmental issue general effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "dock",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99235.txt",
+    "Location": "Harlingen, Texas",
+    "Accident Number": "CEN19FA117",
+    "Date & Time": "April 9, 2019, 10:33 Local",
+    "Aircraft": "Air Tractor AT 502",
+    "Registration": "N7314D",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting agricultural flight witness observed airplane flying low altitude collided power transmission line terrain airplane destroyed postimpact fire examination airplane wreckage reveal preimpact mechanical malfunction failure would precluded normal operation toxicology testing detected sedating antihistamine diphenhydramine pilot blood considering postmortem redistribution diphenhydramine may result central level twotothree time higher peripheral level circulating level likely therapeutic range time accident given pilot year experience familiarity agricultural airplane reasonable consider diminished reaction time flying performance attributable use sedating medication likely contributed accident probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance power transmission line low altitude flight operation contributing accident pilot impairment due sedating medication",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97909.txt",
+    "Location": "Alexandria, Minnesota",
+    "Accident Number": "CEN18FA297",
+    "Date & Time": "July 28, 2018, 19:20 Local",
+    "Aircraft": "Aeronca 7AC",
+    "Registration": "N85506",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot conducting personal flight airplane multiple witness reported seeing airplane flying low altitude track data recovered pilot mobile phone revealed flown airplane altitude less 50 ft ground flight near lake one witness reported pilot would often overfly house low altitude airplane subsequently collided power line road impacted terrain postaccident examination airplane engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation accident occurred daylight hour visual meteorological condition included clear sky 10mile surface visibility position sun relative airplane final flightpath would hindered pilot ability see avoid power line thus airplane struck power line pilot intentional lowaltitude flight postmortem toxicology testing identified 0029 gmdl 0053 gmdl ethanol pilot blood vitreous specimen respectively reported level consistent recent ingestion alcohol pilot even low level ethanol affect judgment decisionmaking well impair psychomotor functioning necessary safe flight however case pilot habit flying reckless manner low altitude result investigation unable determine effect likely ingested alcohol contributed accident",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

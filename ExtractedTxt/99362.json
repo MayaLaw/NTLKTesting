@@ -1,0 +1,29 @@
+{
+    "Filename": "99362.txt",
+    "Location": "Mineral Wells, Texas",
+    "Accident Number": "CEN19LA133",
+    "Date & Time": "May 2, 2019, 17:02 Local",
+    "Aircraft": "Cirrus SR20",
+    "Registration": "N8160C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Part(s) separation from AC",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot conducting personal flight airport traffic pattern felt airplane shudder shortly turn onto base leg runway pilot passenger saw right aileron fluttering pilot immediately turned intercept final approach right aileron separated wing 05 mile approach end runway pilot able maintain roll control airplane right aileron separated completed uneventful landing runway examination airplane recovered right aileron revealed aileron inboard hinge bolt threaded nut plate safety wire normally secured inboard hinge bolt found fractured safety wire excessively twisted right aileron installed excessive twisting led torsional overstress fracture safety wire accident flight additionally nut plate significantly reduced threadlocking ability allowed unsecured inboard hinge bolt loosen right aileron separated wing inboard hinge bolt disengaged nut plate although inboard hinge bolt assembly included slightly longer bolt specified additional small washer component discrepancy contribute aileron separation airplane accumulated 733 flight hour 10 year since right aileron last removed reinstalled maintenance recent maintenance performed airplane annual inspection completed 152 flight hour accident mechanic performed last annual inspection observed safety wire installed aileron hinge bolt probable cause finding",
+        "Top Words": [
+            [
+                "aileron",
+                10
+            ],
+            [
+                "right",
+                7
+            ],
+            [
+                "bolt",
+                7
+            ]
+        ]
+    }
+}

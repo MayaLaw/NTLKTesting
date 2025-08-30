@@ -1,0 +1,29 @@
+{
+    "Filename": "98406.txt",
+    "Location": "Smithville, Tennessee",
+    "Accident Number": "ERA19LA004",
+    "Date & Time": "October 3, 2018, 17:30 Local",
+    "Aircraft": "Piper PA 24-180",
+    "Registration": "N8371P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot stated departing local flight delayed 10 minute ground waiting traffic could backtaxi runup area takeoff completed engine runup takeoff roll anomaly noted takeoff airplane 300 ft runway engine experienced total loss power propeller windmilled pilot lowered landing gear touched remaining runway airplane overran departure end traveled embankment came rest upright low brush postaccident examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation weather condition time accident conducive formation serious carburetor icing glide idle power setting thus likely ground delay period engine would typically operating low power carburetor ice formed resulted total loss engine power initial climb probable cause finding national transportation safety board determines probable cause accident total loss engine power initial climb due carburetor ice formed extended ground delay",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "ground",
+                3
+            ]
+        ]
+    }
+}

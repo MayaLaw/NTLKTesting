@@ -1,0 +1,29 @@
+{
+    "Filename": "99369.txt",
+    "Location": "Orofino, Idaho",
+    "Accident Number": "GAA19CA240",
+    "Date & Time": "May 3, 2019, 13:30 Local",
+    "Aircraft": "Luscombe 8",
+    "Registration": "N22052",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported decided perform highspeed taxi repair made tailwheelequipped airplane verify control instrumentation airplane became airborne decided safest action fly one pattern land reported landing roll ground speed decreased 3 knot brake locked airplane nosed pilot added airplane equipped heel brake 13 year since flown tailwheelequipped airplane heel brake airplane sustained substantial damage vertical stabilizer rudder pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper brake application landing roll resulted noseover contributing accident pilot lack recent experience using heel brake",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "brake",
+                5
+            ]
+        ]
+    }
+}

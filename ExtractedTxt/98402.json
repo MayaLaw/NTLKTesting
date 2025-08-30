@@ -1,0 +1,29 @@
+{
+    "Filename": "98402.txt",
+    "Location": "Saratoga Springs, Utah",
+    "Accident Number": "GAA18CA576",
+    "Date & Time": "September 29, 2018, 12:30 Local",
+    "Aircraft": "RAYMON A. KING SUPER CUB",
+    "Registration": "N1698K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported performed several takeoff landing shoreline lake reported takeoff roll 25 knot right crosswind gust pushed airplane left water left main landing gear entered water airplane spun 90 left airplane nosed airplane sustained substantial damage right wing rudder pilot reported mechanical malfunction failure airplane would precluded normal operation pilot reported takeoff wind 180 20 knot gusting 45 knot metar airport located 4 nautical mile accident site reported time accident wind 210 11 knot gust pilot reported took southeast probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff roll crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "reported",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

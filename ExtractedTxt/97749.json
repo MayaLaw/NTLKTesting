@@ -1,0 +1,29 @@
+{
+    "Filename": "97749.txt",
+    "Location": "Malone, New York",
+    "Accident Number": "GAA18CA416",
+    "Date & Time": "June 30, 2018, 19:12 Local",
+    "Aircraft": "Aeroprakt A-22 VALOR",
+    "Registration": "N712FP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot overflew airport assessed wind landing landing flare airplane encountered crosswind gust right right wing lifted left wing struck ground airplane pivoted left wing landed hard airplane sustained substantial damage left wing spar pilot reported mechanical malfunction failure airplane would precluded normal operation pilot reported time accident wind airport 240 light variable gusting 7 knot pilot landed runway 23 probable cause finding national transportation safety board determines probable cause accident pilot improper crosswind correction landing flare gusting wind condition resulted hard landing",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

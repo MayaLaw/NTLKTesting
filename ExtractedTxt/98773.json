@@ -1,0 +1,29 @@
+{
+    "Filename": "98773.txt",
+    "Location": "Lodi, Wisconsin",
+    "Accident Number": "CEN19LA045",
+    "Date & Time": "December 15, 2018, 14:20 Local",
+    "Aircraft": "Brandt Sonex",
+    "Registration": "N393SX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "sport pilot conducting personal local flight airplane left wingtip impacted tree final approach runway pilot stated final approach fixated maintaining proper landing airspeed inadvertently allowed airplane drift north final approach course tree airplane spun around tree descended nose ground impact pilot reported preaccident mechanical malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper alignment runway final approach resulted impact tree",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "tree",
+                4
+            ]
+        ]
+    }
+}

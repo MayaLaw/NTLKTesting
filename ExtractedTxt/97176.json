@@ -1,0 +1,29 @@
+{
+    "Filename": "97176.txt",
+    "Location": "Sault Ste Marie, Michigan",
+    "Accident Number": "CEN18FA160",
+    "Date & Time": "May 5, 2018, 10:02 Local",
+    "Aircraft": "BELAIR RAVEN",
+    "Registration": "C-FNKZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot pilotrated passenger departing local flight experimental amateur built airplane gusting crosswind condition witness saw airplane take enter nosehigh attitude 100 ft ground level airplane began turning right transitioned noselow spin ground impact examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation airplane equipped stall warning device witness report damage airplane consistent pilot failing maintain sufficient airspeed steep takeoff climb resulted airplane exceeding critical angle attack subsequent aerodynamic stall flight instructor airport reported departing accident runway westerly wind present would often notice turbulence swirling air attributed effect tall tree located 100 yard west runway although autopsy revealed pilot risk sudden cardiac event circumstance accident consistent loss control rather sudden incapacitation unlikely either pilot cardiac condition contributed accident probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed takeoff gusty crosswind condition resulted airplane exceeding critical angle attack aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

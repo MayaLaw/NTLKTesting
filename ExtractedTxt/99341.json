@@ -1,0 +1,29 @@
+{
+    "Filename": "99341.txt",
+    "Location": "Sequim, Washington",
+    "Accident Number": "WPR19LA125",
+    "Date & Time": "April 28, 2019, 13:37 Local",
+    "Aircraft": "Stearman A75N1(PT17)",
+    "Registration": "N68825",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "shortly takeoff personal flight 1200 ft mean sea level pilot observed spraying oil light oil smoke detected smell oil coupled engine vibration pilot decided make forced landing engine vibration increased engine seized landing forced landing resulted substantial damage right wing fuselage examination radial engine revealed crankshaft failure due fatigue beach mark also known arrest mark observed region fracture surface maintenance record indicated last engine overhaul accomplished 15 year accident engine time since major overhaul recorded last annual inspection 9 month accident 143 hour probable cause finding national transportation safety board determines probable cause accident total loss engine power due fatigue failure crankshaft finding aircraft recip eng cyl section fatiguewearcorrosion",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "oil",
+                3
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

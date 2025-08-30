@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Van Nuys, California
+Accident Number:
+GAA17CA413
+Date & Time:
+June 15, 2017, 11:00 Local 
+Registration:
+N2537F
+Aircraft:
+Champion 7ECA
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing roll, the airplane drifted to 
+the right and he corrected with rudder but then the airplane "started to pull" to the left. He added that his 
+"rudder input failed to stop the plane from continuing to the left," the airplane ground looped to the left, 
+and the right wingtip hit the ground.
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

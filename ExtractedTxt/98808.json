@@ -1,0 +1,29 @@
+{
+    "Filename": "98808.txt",
+    "Location": "Busan, Other Foreign",
+    "Accident Number": "ENG19IA008",
+    "Date & Time": "December 26, 2018,  Local",
+    "Aircraft": "Airbus A220",
+    "Registration": "HL8314",
+    "Flight Conducted Under": "Non-U.S., commercial",
+    "Aircraft Damage": "None",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "N/A",
+    "Analysis": {
+        "Text": "december 26 2018 koreanair flight 0753 airbus a220300 registration hl8314 experienced commanded inflight shutdown left 1 engine pratt whitney pw pw1521g3 climbing 29000 foot flight busan korea pu nagoya japan flight crew reported hearing loud bang followed vibration engine fire warning flight crew shut engine airplane returned pu without incident engine removed airplane shipped pws columbus engine center columbus georgia disassembly examination examination engine revealed one low pressure turbine lpt stage 3 blade 52 flat planar ellipticalshaped fracture surface rear half blade metallurgical examination blade 52 showed grain size hardness conformed requirement specified in100 nickel alloy energy dispersive spectroscopy ed blade 52 away origin fatigue crack produced spectrum consistent requirement in100 however ed blade 52 preexisting intergranular crack origin fatigue crack produced spectrum consistent in100 also peak zirconium hafnium arconic suggested elevated level zirconium noted ed could zirconia crucible nickel alloy melted since blade engine many others cast nickel alloy melted zirconia crucible korean air event in100 lpt stage 3 blade fracture would suggest elevated level zirconium noted ed lpt stage 3 blade 52 probably major factor failure blade hafnium one alloying element in100 however one alloying element marm247 according arconics record alloy melted crucible prior used melt in100 nickel alloy cast blade included lpt stage 3 blade would become 52 arconic also suggested presence hafnium could incomplete cleaning",
+        "Top Words": [
+            [
+                "blade",
+                11
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "52",
+                6
+            ]
+        ]
+    }
+}

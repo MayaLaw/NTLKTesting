@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Chino, California
+Accident Number:
+GAA18CA542
+Date & Time:
+September 9, 2018, 12:43 Local 
+Registration:
+N7205J
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot reported that he was performing touch-and-go landings during a solo flight in the 
+traffic pattern. During the fifth landing, the airplane drifted over the runway's left edge. He attempted to 
+abort the landing by increasing power, but he did not apply enough right rudder. The airplane banked 
+hard to the left before colliding with a fence. 
+The airplane sustained substantial damage to both wings.
+The student reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain lateral control during the aborted landing.

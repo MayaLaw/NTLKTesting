@@ -1,0 +1,29 @@
+{
+    "Filename": "98466.txt",
+    "Location": "Placedo, Texas",
+    "Accident Number": "CEN19FA003",
+    "Date & Time": "October 12, 2018, 18:31 Local",
+    "Aircraft": "Air Tractor AT502",
+    "Registration": "N6135P",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot flying low altitude agricultural application flight airplane impacted radio antenna tower airplane struck main antenna near top structure separating upper section tower representative operator reported accident flight first time pilot sprayed particular field located 12mile antenna pilot reviewed satellite imagery flight order identify potential hazard aware power line running along south edge field proximity antenna witness reported airplane appeared level flying along road direction antenna second witness reported hearing airplane fly followed sound impact antenna tower subsequently observed airplane descending toward ground airplane came rest near antenna tower along twolane road road oriented toward westsouthwest nearly line setting sun upper section antenna tower intertwined right wing airplane accident site airplane destroyed impact force postimpact fire postaccident examination reveal anomaly consistent preimpact failure malfunction antenna tower marked accordance federal aviation administration recommendation weather condition good time accident 10 mile visibility obscuration precipitation sun positioned 6above horizon westsouthwest accident occurred 30 minute sunset likely pilot lost situational awareness relative antenna tower due close proximity application field power line antenna tower addition position sun time accident likely hindered pilot ability see avoid antenna tower",
+        "Top Words": [
+            [
+                "antenna",
+                12
+            ],
+            [
+                "tower",
+                9
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

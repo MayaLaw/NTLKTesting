@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Bethel, Alaska
+Accident Number:
+ANC19LA016
+Date & Time:
+April 11, 2019, 16:08 Local 
+Registration:
+N4466T
+Aircraft:
+Piper PA-32-300
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+4 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The pilot reported that, while in cruise flight, the engine lost partial power, then total power, 
+and the propeller stopped turning. 
+During the subsequent off-airport forced landing on the tundra meadow, the main landing gear 
+separated from the airplane, resulting in substantial damage to the right wing. 
+Examination of the engine revealed a crankshaft failure that was likely a result of fatigue 
+cracking that emanated from the surface of the main journal. 
+The engine was overhauled at a certified repair station about 14 flight hours before the 
+accident. The engine manufacturer overhaul manual stated that the crankshaft was to be 
+inspected using a magnetic particle inspection procedure as part of the overhaul; however, the 
+crankshaft was not inspected as part of the overhaul. It is likely that if the crankshaft had been 
+inspected as indicated, the fatigue cracking would have been detected and corrected during 
+overhaul.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to a fatigue failure of the crankshaft. A contributing factor was 
+the inadequate inspection during the engine’s last overhaul.

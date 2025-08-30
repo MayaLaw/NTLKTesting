@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Daytona Beach, Florida
+Accident Number:
+ERA17LA113
+Date & Time:
+February 24, 2017, 06:39 Local 
+Registration:
+N255JB
+Aircraft:
+Cirrus SR20
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The instrument-rated private pilot had filed an instrument flight rules (IFR) flight plan for the 
+cross-country flight, but intended to depart under visual flight rules conditions and open his IFR 
+flight plan shortly after takeoff. He stated that, during the preflight inspection, he did not see 
+any low clouds and was able to see stars above him. The airplane departed shortly before 
+sunrise, and the pilot stated that, while retracting the flaps after takeoff, he encountered low-
+level fog about 300 ft agl and the airplane entered instrument meteorological conditions. The 
+pilot made a right turn to avoid the final approach course to the opposite runway, then saw a 
+tree and attempted to avoid impacting it; he then recalled waking up in the airplane on the 
+ground. Weather conditions near the accident site about the time of the accident included 
+scattered clouds at 500 ft and a visibility of 6 miles in mist. The series of events described by 
+the pilot was consistent with a loss of control due to spatial disorientation, likely due to the 
+unexpected loss of visibility during the initial climb.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadvertent encounter with instrument meteorological conditions (fog) during initial 
+climb, which resulted in a loss of control due to spatial disorientation.

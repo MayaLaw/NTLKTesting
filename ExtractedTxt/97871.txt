@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Oshkosh, Wisconsin
+Accident Number:
+CEN18CA293
+Date & Time:
+July 24, 2018, 10:03 Local 
+Registration:
+N45FT
+Aircraft:
+Just JA30 SUPERSTOL
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that, during the initial climb after takeoff, the flight controls got mushy, and the 
+airplane began to sink. The pilot added flaps and verified engine throttle position; however, the airplane 
+continued to sink, and the flight controls continued to feel mushy. The pilot pushed the airplane's nose 
+forward and retracted the flaps. The airplane descended and hit a ditch and gravel road before coming to 
+rest adjacent to a chain-link fence. 
+Examination of the airplane and related systems revealed no preimpact mechanical anomalies that would 
+have precluded normal operation. The pilot's statement, along with the video of the accident, revealed 
+that the ;ilot did not maintain an adequate airspeed during the initial climb and should have climbed 
+more shallowly. Due to the low airspeed and his exceedance of the airplane's critical angle of attack, the 
+airplane aerodynamically stalled.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed during the initial climb and his exceedance of the 
+airplane's critical angle of attack, which resulted in an aerodynamic stall.

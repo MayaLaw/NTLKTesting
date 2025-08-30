@@ -1,0 +1,29 @@
+{
+    "Filename": "99376.txt",
+    "Location": "Atlanta, Georgia",
+    "Accident Number": "DCA19CA146",
+    "Date & Time": "April 4, 2019, 20:19 Local",
+    "Aircraft": "McDonnell Douglas MD88",
+    "Registration": "N977DL",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "april 4 2019 2019 eastern daylight time delta air line flight 1276 boeingmcdonnell douglas md88 n977dl substantially damaged struck baggage tug taxi hartsfieldjackson international airport atlanta georgia atl injury aboard airplane tug driver received minor injury night visual condition light rain prevailed airplane operating 14 cfr part 121 regularly scheduled domestic passenger flight syracuse hancock international airport syr syracuse new york atl according operator flight crew reported flight syr captain reported landing atc cleared flight enter ramp 2 east taxi lane taxi gate b14 captain indicated began turn right ramp ramp control instructed flight 1276 give way opposite direction traffic captain looking forward identify traffic first officer called stop stop stop captain immediately applied full brake flight crew heard felt impact coming right side forward fuselage pilot notified ramp control held position ground support personnel arrived quickly assist ground personnel told pilot via interphone tug baggage cart impacted fuselage nose gear ground personnel reported crew tug driver ok know got crew passenger deplaned via ventral stair incident tug driver cooperate investigation probable cause finding",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "tug",
+                5
+            ],
+            [
+                "crew",
+                4
+            ]
+        ]
+    }
+}

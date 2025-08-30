@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Suffolk, New York
+Accident Number:
+ERA17LA203
+Date & Time:
+June 12, 2017, 06:15 Local 
+Registration:
+N13306
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the private pilot, while en route during a cross-country personal flight, he heard a "loud 
+pop," followed by the engine losing all power. He declared an emergency, unsuccessfully attempted to 
+restart the engine, and turned the airplane toward a golf course. During the landing, the airplane struck a 
+tree, which resulted in substantial damage to the right wing. 
+Postaccident examination of the engine revealed that the crankshaft gear alignment dowel, which sets 
+the rotational alignment of the gear with respect to the crankshaft, had fractured; one half of the dowel 
+was retained in the crankshaft and was contacting the gear, and the other half of the dowel was retained 
+in the pilot flange hole. Examination of the fracture surface indicated that the dowel fractured in fatigue, 
+initially in unidirectional bending that started on the side with the wear but transitioned to reverse 
+bending fatigue before the final failure. Rub marks were observed on parts of the gear in contact with 
+the crankshaft and along the interface between the gear and the lock plate.
+This evidence indicates that the bolt that fastened the crankshaft gear to the crankshaft was either not 
+torqued to the proper value during assembly or that the bolt was torqued to the proper value but 
+gradually lost preload due to an installation error. With insufficient preload, the gear would have placed 
+unintended stresses on the alignment dowel, which would have resulted in wear and its eventual failure 
+due to fatigue. Factors that could result in a loss of preload include improper installation of the lock 
+plate or damage or debris trapped between the gear and the counterbore recess, which would prevent 
+proper seating of the gear.
+An engine manufacturer's service bulletin (SB) described the proper procedure for evaluating the 
+condition of the crankshaft and crankshaft gear and the proper procedure for attaching the crankshaft 
+gear to the crankshaft. One step stated that after aligning the crankshaft gear with the crankshaft using 
+the alignment dowel, the bolt should be tightened to 125 inch-lbs of torque, followed by several checks 
+to ensure that the gear was properly seated. After those checks were made, the final step was to tighten 
+the bolt to 204 inch-lbs of torque.

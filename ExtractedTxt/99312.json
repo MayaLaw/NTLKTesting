@@ -1,0 +1,29 @@
+{
+    "Filename": "99312.txt",
+    "Location": "Holly Springs, North Carolina",
+    "Accident Number": "ERA19LA157",
+    "Date & Time": "April 22, 2019, 15:00 Local",
+    "Aircraft": "Barrows Bearhawk LSA",
+    "Registration": "N289EH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported final approach landing airplane impacted powerlines collided ground resulting substantial damage stated knew powerlines stated checked airportfacility directory noted placement height powerlines examination airplane revealed anomaly airframe engine would precluded normal operation review airport information revealed powerlines located 50 ft runway threshold 60 ft tall accident consistent pilot failure maintain clearance known obstacle landing approach probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance powerlines visual approach",
+        "Top Words": [
+            [
+                "powerlines",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "approach",
+                3
+            ]
+        ]
+    }
+}

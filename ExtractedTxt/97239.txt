@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Lone Tree, Colorado
+Accident Number:
+CEN18FA168
+Date & Time:
+May 11, 2018, 20:19 Local 
+Registration:
+N507TX
+Aircraft:
+CIRRUS DESIGN CORP SR22
+Aircraft Damage:
+Destroyed
+Defining Event:
+VFR encounter with IMC
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The instrument-rated private pilot departed on a visual flight rules cross-country flight just before the 
+end of civil twilight. After departing to the north, the pilot turned onto a left downwind to depart the area 
+toward the south; the controller advised the pilot to stay west of the extended runway centerline, which 
+the pilot acknowledged. However, about 2 minutes after takeoff, the airplane turned east and crossed the 
+extended centerline. After crossing the centerline, the controller asked the pilot to state his intentions, 
+and the pilot replied that he was going to return to the airport. The airplane turned back toward the 
+airport and began tracking west toward the extended centerline; radar contact was lost several minutes 
+later.
+The airplane impacted a field about 2.5 miles to the south of the approach end of the runway. The 
+airplane was massively fragmented during the impact and debris was scattered for about 1,200 ft. The 
+damage to the airplane and the ground scars at the accident site were consistent with the airplane 
+impacting in a right wing low, nose low attitude with relatively high energy. 
+The postaccident examination of the engine and propeller assembly did not reveal any preimpact 
+anomalies that would have precluded normal operation. Signatures were consistent with the engine 
+producing power and the propeller developing thrust at the time of impact. While the massive 
+fragmentation precluded functional testing of the flight controls, there was no damage or failure that 
+suggested preimpact anomalies with the airframe or flight controls. 
+While visual meteorological conditions prevailed at the airport, statements from two pilots flying 
+instrument approaches to runway 35R suggest that the pilot likely encountered and was flying in the 
+clouds to the south of the airport just before the accident.
+A review of radar data and voice communications revealed that the instructions issued by the controller, 
+to the pilot, were reasonable and in accordance with air traffic control procedures. Investigators were not 
+able to establish why the pilot did not comply with air traffic control instructions. 

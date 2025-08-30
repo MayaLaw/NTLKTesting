@@ -1,0 +1,29 @@
+{
+    "Filename": "99103.txt",
+    "Location": "Akron, Colorado",
+    "Accident Number": "GAA19CA165",
+    "Date & Time": "March 12, 2019, 16:00 Local",
+    "Aircraft": "Cirrus SR20",
+    "Registration": "N418DE",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported first solo flight pattern aborted first landing uncomfortable airplane runway alignment subsequent approach airplane crabbed slightly right recalled airplane touched applied left rudder upon touchdown airplane bounced airplane exited left side runway collided drainage culvert nosed airplane sustained substantial damage empennage student reported preaccident mechanical malfunction failure airplane would precluded normal operation added wind time accident calm probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control landing resulted runway excursion collision drainage culvert",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "runway",
+                3
+            ]
+        ]
+    }
+}

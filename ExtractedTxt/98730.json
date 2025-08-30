@@ -1,0 +1,29 @@
+{
+    "Filename": "98730.txt",
+    "Location": "Lake Pleasant, Arizona",
+    "Accident Number": "WPR19TA037",
+    "Date & Time": "November 17, 2018, 13:00 Local",
+    "Aircraft": "Scottish Aviation SERIES 100 MDL",
+    "Registration": "N82696",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Inflight upset",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported pleasure flight lake 700 ft ground level engine started shake subsequently lost power pilot attempted restart engine turning auxiliary fuel pump dove airplane toward water windmilling propeller would help restart engine engine started pilot estimated producing 50 power pilot thought might able maintain gain altitude reach nearby runway however climb engine lost power pilot initiated forced landing lake witness around lake reported seeing airplane flying low altitude one witness stated engine sounded normal airplane flying erratically another witness saw airplane 40 ft water hear unusual noise emanating engine airplane engine remained submerged lake 3 week recovery right wing recovered cursory examination engine revealed continuity accessory drive propeller rotated hand however examination insufficient determine whether reason loss engine power may occurred probable cause finding national transportation safety board determines probable cause accident impact lake undetermined reason",
+        "Top Words": [
+            [
+                "engine",
+                10
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "lake",
+                5
+            ]
+        ]
+    }
+}

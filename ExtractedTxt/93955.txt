@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Monett, Missouri
+Accident Number:
+CEN16LA354
+Date & Time:
+August 29, 2016, 09:30 Local 
+Registration:
+N91488
+Aircraft:
+North American Navion
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot stated that, during the landing roll following a normal landing, the airplane began 
+pulling to the right. The airplane departed the right side of the runway and traveled down an 
+embankment and through a barbed wire fence. When the pilot inspected the airplane, he noted that the 
+right main landing gear (MLG) had collapsed. An examination of the landing gear found that the locking 
+mechanism had been improperly rigged. Several weeks before the accident, the airplane's right MLG 
+was damaged in an incident and had been replaced with a serviceable unit. A review of maintenance 
+records noted that a gear retraction test was conducted after the replacement and described as 
+satisfactory. It is likely that during this maintenance, the landing gear was improperly rigged, which 
+resulted in its collapse on the accident flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Maintenance personnel's failure to properly rig the right main landing gear locking mechanism, which 
+resulted in a gear collapse during landing.

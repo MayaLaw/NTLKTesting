@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Juneau, Wisconsin
+Accident Number:
+CEN17LA224
+Date & Time:
+June 7, 2017, 09:30 Local 
+Registration:
+N31313
+Aircraft:
+MCKENNA SD-1A
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that, immediately after takeoff, the left wing felt "extremely heavy" and required 
+"an exceptional amount of right aileron" to maintain level flight. During the precautionary landing, the 
+airplane bounced, turned left, and the left main landing gear collapsed.
+The pilot had recently reinstalled the wings; however, he made no measurements during the 
+reinstallation, and the mechanic who signed off on the condition inspection did not confirm the wings' 
+angle of incidence. Postaccident examination of the airplane revealed that the angle of incidence was 
+incorrect. Given this was the first flight since the reinstallation of the wings, it is likely the incorrect 
+angle of incidence led to the pilot's difficulty controlling the airplane. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's difficulty controlling the airplane due to his incorrect reinstallation of the wings, which led to 
+a bounced precautionary landing. Contributing to the accident was the failure of the pilot and the 
+mechanic to verify the wings' angle of incidence.

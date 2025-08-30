@@ -1,0 +1,46 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+International Waters, 
+Accident Number:
+DCA16CA220
+Date & Time:
+August 31, 2016, 02:10 UTC 
+Registration:
+N657UA
+Aircraft:
+Boeing 767 322
+Aircraft Damage:
+None
+Defining Event:
+Turbulence encounter
+Injuries:
+1 Serious, 11 Minor
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+On August 31, 2016, at 0210 universal coordinated time, United Airlines flight 880, a Boeing 767-322, 
+N657UA, encountered severe turbulence during cruise that resulted in one flight attendant sustaining a 
+serious injury. Another flight attendant and 10 passengers, including one infant, received minor injuries. 
+There were no injuries to the other passengers and crew onboard and the airplane was not damaged.  The 
+flight was operating under the provisions of 14 Code of Federal Regulations Part 121 as a regularly 
+scheduled passenger flight from the George Bush Intercontinental Airport (KIAH), Houston, Texas to 
+the London-Heathrow Airport (EGLL), United Kingdom. The flight diverted to the Shannon Airport 
+(EINN), Shannon, Ireland . 
+According to flight crew statements, the aircraft was in cruise at flight level (FL) 340 approximately 50 
+miles east of 40W on the North Atlantic Track X, when it encountered unexpected severe turbulence 
+that lasted for approximately 45 seconds.  The captain indicated there was forecast turbulence for this 
+portion of the flight and there were no pilot weather reports (PIREP) or air traffic control advisories in 
+the pre-flight weather package.  The flight crew indicated that the flight conditions were smooth and 
+devoid of any turbulence for approximately two hours prior to the event.  The seat belt sign had been off 
+for about 2 hours prior to the event.  They indicated that the onboard weather radar was operating in the 
+AUTO mode and there were no returns observed prior to the event.  After the event, the seat belt sign 
+was immediately illuminated. After assessing the level and number of injuries, the captain decided to 
+divert to EINN to expedite After landing, all injured passengers and one flight attendant were treated for 
+minor injuries and released; one flight attendant was admitted to the hospital with fractures of the left 
+wrist and L3 vertebra.
+According to a weather analysis conducted by United Airlines, satellite imagery indicated convective 
+buildup/enhancement in the form of an isolated cell in the region of the event.  The Atlantic High 
+Weather Prognostic Chart valid for the period depicted the potential for isolated cumulonimbus clouds 
+over the area, which implied the potential for severe or greater turbulence associated with the 
+convection. The nighttime conditions and lack of lightning in the lower convection, likely did not 

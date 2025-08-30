@@ -1,0 +1,40 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Gainesville, Texas
+Accident Number:
+CEN17LA105
+Date & Time:
+February 21, 2017, 00:20 Local 
+Registration:
+N6343L
+Aircraft:
+American Aviation AA 1A
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a familiarization flight with the non-pilot-rated passenger, who had 
+recently purchased the airplane. They flew to a nearby airport to practice touch-and-go landings. After 
+completing about 15 landings, they proceeded to another airport to get fuel. About 5 minutes before 
+reaching the airport, the passenger noticed that the fuel pressure gauge indicated 0 psi, but the engine 
+was operating smoothly. The pilot turned on the electric fuel boost pump and the fuel pressure gauge 
+returned to 5 psi. The boost pump remained on for the remainder of the flight. Upon arrival at the 
+airport, a go-around was performed. The engine experienced a loss of power during the climb about 200 
+ft above ground level and he performed a forced landing to a field short of the runway. 
+Postaccident fuel consumption calculations revealed that the airplane likely contained about 1 gallon of 
+fuel at the time of the accident, which would have been unusable. Examination of the fuel tanks revealed 
+less than 1 cup of fuel in the left tank and no fuel remaining in the right tank. The fuel spill observed at 
+the accident site by first responders was likely the 1 gallon of unusable fuel from the right tank, because 
+the right wing was separated at the fuselage and its fuel line was fractured. No anomalies were noted 
+with the engine and the propeller blades did not show any rotational signatures. 
+Although the pilot reported that he flew the airplane during the final approach and go-around, there were 
+discrepancies in his statements that suggested that the non-pilot rated passenger was actually 
+manipulating the airplane controls during the loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

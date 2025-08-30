@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Spencer, Iowa
+Accident Number:
+GAA18CA412
+Date & Time:
+June 29, 2018, 16:30 Local 
+Registration:
+N67CD
+Aircraft:
+Beech A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot in the retractable-landing gear-equipped airplane, he did not extend the landing 
+gear before landing. He reported that he became distracted while communicating with other aircraft and 
+controlling the airplane in the gusting wind conditions. Further, he did not realize that what he perceived 
+as the stall warning horn was actually the landing gear unsafe warning horn. He added that the accident 
+could have been prevented by repeating his GUMPFS checklist on final and checking to ensure that the 
+three green landing gear safe lights were illuminated.
+The airplane sustained substantial damage to the lower fuselage bulkheads and spar carry-through.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to extend the landing gear before landing. Contributing to the accident were the pilot's 
+failure to use the Before Landing checklist due to being distracted while communicating with other 
+aircraft and controlling the airplane in the gusting wind conditions.

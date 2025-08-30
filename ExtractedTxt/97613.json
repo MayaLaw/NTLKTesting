@@ -1,0 +1,29 @@
+{
+    "Filename": "97613.txt",
+    "Location": "Goodyear, Arizona",
+    "Accident Number": "GAA18CA381",
+    "Date & Time": "June 22, 2018, 21:14 Local",
+    "Aircraft": "Piper PA 30",
+    "Registration": "N7072Y",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported landing night pilot receiving instruction allowed twinengine airplane drift left centerline touchdown pilot overcorrected right rudder airplane veered right pilot locked brake airplane continued veer right exited runway flight instructor added ask flight control ask pilot release brake however pilot exiting runway flight instructor right rudder nosewheel steering fishtailed airplane right left main landing gear collapsed airplane sustained substantial damage left wing flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system airport reported time accident wind 230 9 knot pilot landed airplane runway 21 probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction failure maintain directional control landing roll",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

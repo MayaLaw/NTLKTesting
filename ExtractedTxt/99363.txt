@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Prineville, Oregon
+Accident Number:
+WPR19LA130
+Date & Time:
+April 21, 2019, 18:45 Local 
+Registration:
+N4567C
+Aircraft:
+Cessna 170
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that after a normal preflight, he proceeded to the runway and started the takeoff roll. 
+Once the airplane’s tail lifted off the ground, the airplane pulled toward the left and continued to do so 
+despite the pilot adding right rudder. He reduced the power to idle and attempted to stop the airplane; 
+however, it exited the runway surface and impacted a tree substantially damaging the wings.  The pilot 
+had about 82 hours in make and model but only about 5 to 10 hours in the accident airplane, which had a 
+more powerful engine than his previous airplane. Postaccident examination revealed there were no 
+anomalies with the airplane that would have precluded normal operation. 
+Wind reports shortly before and after the accident indicate a crosswind in relation to the takeoff runway. 
+In addition, the accident airplane’s more powerful engine may have responded differently on takeoff 
+than what the pilot was accustomed to.  Despite these potential factors, the pilot ultimately did not 
+maintain directional control during takeoff.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to maintain directional control during takeoff with a crosswind.

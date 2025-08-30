@@ -1,0 +1,36 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Naples, Florida
+Accident Number:
+ERA19FA170
+Date & Time:
+May 11, 2019, 15:30 Local 
+Registration:
+N7650Y
+Aircraft:
+Piper PA 30
+Aircraft Damage:
+Destroyed
+Defining Event:
+Birdstrike
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+While on approach to the destination airport in visual meteorological conditions, the airplane deviated 
+unannounced from its intended flight path, descended, and impacted the ground. Postaccident 
+examination of the airframe, flight controls, engines, engine systems, and propellers revealed no 
+evidence of preimpact failure or malfunction. Remains of a 3.8-pound Black Vulture was found in the 
+wreckage. A rear seat headrest and two inflatable lift vests located about 440 ft from the main wreckage 
+were found to contain either DNA and/or microscopic feathers from a Black Vulture. Because the Black 
+Vulture was located among the wreckage and because the airplane’s flight path deviation was 
+unannounced, it is likely that the Black Vulture directly impacted and then penetrated the windshield in 
+front of the pilot's position, which incapacitated him, resulting in an uncontrolled descent. The airplane 
+was certificated in accordance with Civil Air Regulation 3, which specified no minimum standard for 
+window or windshield structure strength, or bird penetration.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Incapacitation of the pilot due to a birdstrike through the windshield in front of the pilot's 
+position, while on approach to land.

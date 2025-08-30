@@ -1,0 +1,29 @@
+{
+    "Filename": "97465.txt",
+    "Location": "Springfield Township, New Jersey",
+    "Accident Number": "ERA18FA167",
+    "Date & Time": "June 13, 2018, 09:07 Local",
+    "Aircraft": "RAYTHEON AIRCRAFT COMPANY",
+    "Registration": "N218BL",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot instrument current passenger departed instrument flight rule flight instrument meteorological condition takeoff pilot climb clearance altitude 2000 ft mean sea level msl instead leveled 500 ft msl pilot began second climb maximum altitude 1400 ft leveled followed steep right descending turn base cloud 400 ft airplane began climb 1700 ft msl airspeed decreased flying right bank near published wingslevel 1g stall speed airplane likely exceeded critical angle attack stalled entered descent witness reported hearing loud engine sound lowflying airplane last observed airplane slight left bank although airplane impacted ground nose rightwing low attitude examination flight control engine engine system propeller revealed evidence preimpact failure malfunction postaccident acceptance testing autopilot component revealed minor outoftolerance condition condition noted would adversely affected proper operation although presence moisture static system could ruled static system destroyed unlikely issue adsb data pressure altitude geometric altitude calculated gps revealed gross difference restricted visibility maneuvering transition takeoff cruise flight pilot lack instrument proficiency provided condition conducive development spatial disorientation airplane altitude track variation inconsistent takeoff departure clearance high velocity impact consistent known effect spatial disorientation therefore likely pilot became spatially disoriented flying instrument meteorological condition lost control airplane contributing loss control pilot lack recent instrument experience",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "instrument",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "93938.txt",
+    "Location": "Hollywood, Florida",
+    "Accident Number": "ERA16FA309",
+    "Date & Time": "September 3, 2016, 09:50 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N6091E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Windshear or thunderstorm",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot receive weather briefing beginning crosscountry flight takeoff pilot requested air traffic control fly 500 ft ground level along ocean shoreline controller approved request advised heavy precipitation thunderstorm airplane 12oclock position 4 mile ahead controller advised pilot turn left fly offshore 3 mile avoid thunderstorm although pilot acknowledged instruction review radar gps data flight revealed continued course 3 minute later pilot reported reversing direction communication received pilot review airplane gps track overlaid weather radar plot revealed airplane flew area extreme intensity precipitation entered rapid descent impacted ocean examination wreckage reveal evidence preimpact mechanical malfunction likely pilot lost control airplane encountered strong downdraft heavy rain associated thunderstorm probable cause finding national transportation safety board determines probable cause accident pilot inadequate preflight inflight weather planning resulted continued flight thunderstorm subsequent loss airplane control finding personnel issue weather planning pilot environmental issue thunderstorm decision related condition personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                10
+            ],
+            [
+                "thunderstorm",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

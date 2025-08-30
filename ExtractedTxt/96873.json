@@ -1,0 +1,29 @@
+{
+    "Filename": "96873.txt",
+    "Location": "Statesville, North Carolina",
+    "Accident Number": "GAA17CA579",
+    "Date & Time": "September 14, 2017, 10:00 Local",
+    "Aircraft": "Beech 95 B55",
+    "Registration": "N2182L",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot multiengine airplane reported airplane touched runway felt application aft yoke pressure looked saw right front seat passenger clenching yoke fist reported airplane bounced aborted landing flew one pattern landed airplane taxied parking according singleengine pilotrated passenger right front seat initial touchdown engine remained high rpm airplane drifting right side runway airplane bounced pilot took engine idle airplane bounced hard nose landing gear airplane bounced third time landed violently nose landing gear reported felt need prevent fourth runway impact grabbed yoke applied aft pressure minimize rate descent pilot left seat subsequently applied full power aborted landing flew one pattern landed airplane taxied parking according passenger seated right rear seat approach normal initial touchdown forceful airplane bounced airplane felt like landed nose landing gear followed main landing gear bounced second time much harder third bounce ensued hardest heard engine spool observed pilot abort landing flew one pattern landed airplane taxied parking airplane sustained substantial damage fuselage windscreen pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                14
+            ],
+            [
+                "landing",
+                7
+            ],
+            [
+                "bounced",
+                6
+            ]
+        ]
+    }
+}

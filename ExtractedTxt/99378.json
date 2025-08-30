@@ -1,0 +1,29 @@
+{
+    "Filename": "99378.txt",
+    "Location": "Chelan, Washington",
+    "Accident Number": "WPR19FA133",
+    "Date & Time": "May 6, 2019, 06:29 Local",
+    "Aircraft": "Just JA30 SUPERSTOL",
+    "Registration": "N825PW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting local flight airport surveillance camera captured accident airplane departing runway entering nose high left turn shortly thereafter airplane bank angle decreased left yaw increased airplane began descend second later airplane banked left entered noselow attitude impact ground examination engine airframe revealed preaccident anomaly would precluded normal operation likely pilot exceeded airplane critical angle attack initial climb resulted inadvertent stall spin altitude low recover probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack initial climb takeoff resulted aerodynamic stall spin",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "left",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97181.txt",
+    "Location": "Glendale, Arizona",
+    "Accident Number": "GAA18CA253",
+    "Date & Time": "May 4, 2018, 12:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N99141",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "flight instructor reported takeoff solo student pilot realized crosswind right applied right aileron right rudder added student rotated airplane drifted left student lost airplane control pulled engine power idle aborted takeoff subsequently touchdown airplane veered hard left exited runway nose landing gear collapsed airplane sustained substantial damage forward fuselage student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system accident airport reported time accident wind calm student pilot departing runway 1 probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain runway alignment takeoff resulted aborted takeoff runway excursion",
+        "Top Words": [
+            [
+                "student",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

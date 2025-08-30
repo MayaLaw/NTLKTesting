@@ -1,0 +1,29 @@
+{
+    "Filename": "98416.txt",
+    "Location": "Marathon, Texas",
+    "Accident Number": "GAA19CA004",
+    "Date & Time": "October 4, 2018, 19:20 Local",
+    "Aircraft": "Cessna 310",
+    "Registration": "N553CM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Wildlife encounter (non-bird)",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported landing private dirt airstrip ranch airplane collided cow pilot added see cow approach runway touchdown airplane sustained substantial damage right wing right engine mount pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure see avoid cow airstrip landing finding personnel issue task monitoringvigilance pilot environmental issue animalsbirds effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "cow",
+                3
+            ]
+        ]
+    }
+}

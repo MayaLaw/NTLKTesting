@@ -1,0 +1,29 @@
+{
+    "Filename": "98361.txt",
+    "Location": "Greenville, South Carolina",
+    "Accident Number": "ERA18FA264",
+    "Date & Time": "September 27, 2018, 13:46 Local",
+    "Aircraft": "Dassault FALCON 50",
+    "Registration": "N114TD",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "2 Fatal, 2 Serious",
+    "Analysis": {
+        "Text": "flight crew operating business jet ondemand air taxi flight passenger onboard landing destination airport cockpit voice recorder cvr recorded sound airplane touching followed pilot copilot comment brake operating air traffic controller reported airport surveillance video confirmed airplane touched normally airplane thrust reverser deployed airplane continued runway without decelerating overrunning runway impacting terrain post accident examination airplane brake system revealed discrepancy antiskid system included broken solder joint leftside inboard transducer reversal wiring rightside outboard transducer likely discrepancy resulted normal braking system failure function landing accident flight airplane longterm storage several year process undergoing maintenance bring airplane back serviceable condition inpart required completion several inspection overhaul landing gear resolution 100 unresolved discrepancy accident flight four previous flight made portion required maintenance completed properly documented airplane maintenance log pilot flown airplane four previous flight along accident pilot acting secondincommand identified flight airplane normal braking system operating airplane traveling faster 20 knot remedied situation configuring airplane use emergency rather normal braking system pilot reported discrepancy operator director maintenance likely maintenance personnel company subsequently added inop placard near switch date accident label placard referenced antiskid system airplane flight manual described normal brake antiskid system inoperative brake selector switch must positioned use emergency braking system following accident switch found positioned normal braking system activated likely accident flight crew attempted utilize malfunctioning normal braking system landing additionally flight crew failed properly recognize failure configure airplane utilize",
+        "Top Words": [
+            [
+                "airplane",
+                14
+            ],
+            [
+                "flight",
+                10
+            ],
+            [
+                "system",
+                10
+            ]
+        ]
+    }
+}

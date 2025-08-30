@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Crewe, Virginia
+Accident Number:
+GAA18CA574
+Date & Time:
+September 29, 2018, 15:30 Local 
+Registration:
+N6148P
+Aircraft:
+Piper PA24
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, after a cross-country flight, he wanted to fuel the airplane at the airport, but the 
+fuel tanks were locked. He then flew to a nearby airport to fuel the airplane, but once over the airport, he 
+was told via the UNICOM frequency that the airport was closed for construction and that he would not 
+be able to land. 
+He returned to the departure airport, and as he reduced power and performed his "gump" check, the 
+engine lost total power. He switched from the left fuel tank to the right fuel tank, turned the fuel pump 
+on, and pumped the throttle to no avail. He continued downwind and abeam the runway numbers and 
+added flaps. On base, he felt the airplane was low and decided to head straight for the runway. Near the 
+beginning of the runway, the airplane aerodynamically stalled and landed hard. The airplane slid about 
+300 ft and came to rest in the grass adjacent the runway.
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The Federal Aviation Administration inspector reported that he verified that the left fuel tank was 
+completely empty. He also removed the drain plug from the carburetor, which was also empty. 
+Additionally, the insurance adjuster reported that he looked into the fuel tanks with a scope and saw that 
+the left fuel tank was "bone dry" and that the right tank had about 12 gallons of fuel.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "97255.txt",
+    "Location": "Nooksack, Washington",
+    "Accident Number": "GAA18CA280",
+    "Date & Time": "May 14, 2018, 15:55 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N4144L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported three attempt land airplane oneway private grass airstrip wind become tailwind fourth approach wind apparently stabilized committed land wind increased became hazard added airplane low abort airplane landed long subsequently airplane unable stop overran runway impacted power pole airplane sustained substantial damage fuselage empennage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system 9 nautical mile away accident site reported time accident wind 220 5 knot pilot landed airplane east probable cause finding national transportation safety board determines probable cause accident pilot improper approach tailwind condition resulted long landing subsequent runway overrun",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "wind",
+                4
+            ]
+        ]
+    }
+}

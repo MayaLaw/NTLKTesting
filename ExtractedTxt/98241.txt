@@ -1,0 +1,34 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Edgewood, New Mexico
+Accident Number:
+GAA18CA530
+Date & Time:
+July 28, 2018, 20:00 Local 
+Registration:
+N4159M
+Aircraft:
+Piper PA 12
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing roll, the airplane ground 
+looped to the left.
+The airplane sustained substantial damage to the right wing and right elevator.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

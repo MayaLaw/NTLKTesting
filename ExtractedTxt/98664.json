@@ -1,0 +1,29 @@
+{
+    "Filename": "98664.txt",
+    "Location": "Corona, California",
+    "Accident Number": "GAA19CA068",
+    "Date & Time": "November 19, 2018, 13:50 Local",
+    "Aircraft": "Silveira Jonathan A SONEX",
+    "Registration": "N322JS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot lowwing airplane reported traffic pattern nontowered airport made continuous report common traffic advisory frequency ctaf added final observed highwing airplane positioned adjacent runway approaching added short final runway clear heard radio transmission lowwing airplane impacted highwing airplane runway lowwing airplane yawed right came rest nose front right wing highwing airplane pilot receiving instruction highwing airplane reported performing runup flight instructor taxied held short departure runway added taxi instructor hear radio transmission ctaf aircraft traffic pattern departure visually cleared final base reported departure intention ctaf lined runway shortfield takeoff held brake applied full power released brake 3 5 second takeoff roll heard loud noise airplane pushed left despite reporting hearing pilot ctaf pilot reported used frequency lowwing airplane sustained substantial damage left wing highwing airplane sustained substantial damage right wing empennage two witness airplane reported taxiing heard pilot highwing airplane transmit taking runway departing observed highwing airplane line runway see aircraft base final several moment later looked back saw highwing airplane still runway lowwing airplane final one witness made call ctaf warning lowwing airplane pilot another airplane runway heard response made another call lowwing airplane pilot suggest perform goaround observed lowwing airplane land top high wing airplane",
+        "Top Words": [
+            [
+                "airplane",
+                20
+            ],
+            [
+                "runway",
+                9
+            ],
+            [
+                "lowwing",
+                8
+            ]
+        ]
+    }
+}

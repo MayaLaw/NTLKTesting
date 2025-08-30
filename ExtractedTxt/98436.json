@@ -1,0 +1,29 @@
+{
+    "Filename": "98436.txt",
+    "Location": "Bolivar, Missouri",
+    "Accident Number": "GAA19CA012",
+    "Date & Time": "October 7, 2018, 18:20 Local",
+    "Aircraft": "BEARDEN BIPLANE SOPWITH",
+    "Registration": "N225JB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing tailwheelequipped airplane touched veered left pilot attempted correct opposite rudder however airplane continued left attempted goaround airplane exited runway struck ditch nosed airplane sustained substantial damage rudder pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

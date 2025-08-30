@@ -1,0 +1,29 @@
+{
+    "Filename": "96088.txt",
+    "Location": "Elbert, Colorado",
+    "Accident Number": "CEN17LA367",
+    "Date & Time": "September 13, 2017, 13:37 Local",
+    "Aircraft": "MILLER STEVEN M RV6 A",
+    "Registration": "N812SM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "private pilot reported conducting personal crosscountry flight 5 mile destination airport checked awos reported wind 280 24 knot gusting 32 knot checked awos entering base leg runway 27 reported wind changed upon turning final pilot felt strong wind added power stay higher normal approach flap set 40 pilot decreased power started flare airplane wheel hit runway hard airplane bounced wind gust pushed airplane left runway airplane bounced pilot added power attempted goaround subsequently airplane exited left side runway struck cistern fence came rest inverted based evidence likely pilot improperly flared airplane strong gusting wind condition resulted airplane bouncing subsequent loss directional control probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare strong gusting wind condition resulted bounced landing loss directional control attempted goaround resulted runway excursion impact object",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "wind",
+                6
+            ]
+        ]
+    }
+}

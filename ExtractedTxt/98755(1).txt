@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+IMMOKALEE, Florida
+Accident Number:
+GAA19CA092
+Date & Time:
+November 5, 2018, 17:45 Local 
+Registration:
+N9225G
+Aircraft:
+Maule MX7
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The flight instructor reported that, while administering a flight review, he took the flight controls to 
+demonstrate a full-stall landing. During the landing roll, the airplane exited the right side of the runway. 
+He increased power to abort the landing, and the left horizontal stabilizer struck a runway sign. He 
+continued the climb the airplane and flew one pattern and landed. The airplane sustained substantial 
+damage to the left horizontal stabilizer and the rudder. The instructor reported that there were no 
+preaccident mechanical failures or malfunctions with the airplane that would have precluded normal 
+operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight instructor's failure to maintain directional control during the landing roll, which resulted in a 
+runway excursion and a collision with runway signage during the subsequent attempted aborted landing.
+Findings
+Personnel issues
+Aircraft control - Instructor/check pilot
+Aircraft
+Directional control - Not attained/maintained
+Environmental issues
+Sign/marker - Effect on operation

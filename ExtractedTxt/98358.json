@@ -1,0 +1,29 @@
+{
+    "Filename": "98358.txt",
+    "Location": "Austin, Arkansas",
+    "Accident Number": "CEN18FA389",
+    "Date & Time": "September 26, 2018, 14:42 Local",
+    "Aircraft": "Vans RV 4",
+    "Registration": "N534MM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting local personal flight fly home pilot first flight airplane without flight instructor according radar data airplane started descend ground speed increased 100 knot 145 knot airplane flew pilot home according witness airplane approached house right wing tipped airplane climbed briefly airplane rolled inverted descended impacted terrain postaccident examination airplane engine revealed evidence mechanical malfunction anomaly would precluded normal operation description flight sequence consistent accelerated stall airplane entered left bank pilot flew home pilot completed total 10 hour instruction accident airplane according pilot flight instructor pilot training time consisted takeoff landing minimal time spent training maneuver performance characteristic probable cause finding national transportation safety board determines probable cause accident pilot failure maintain airplane control maneuvering resulted airplane exceeding critical angle attack accelerated stall",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

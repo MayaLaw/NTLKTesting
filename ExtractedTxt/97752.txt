@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Rhome, Texas
+Accident Number:
+CEN18FA265
+Date & Time:
+July 12, 2018, 13:30 Local 
+Registration:
+N14842
+Aircraft:
+ROSE PARRAKEET A-1
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot had just departed from the airport when witnesses observed the airplane not climbing 
+and about 100 ft above the ground. Another witness observed the airplane a nose-high attitude. The 
+airplane was struggling to gain altitude before it banked "hard" to the right, entered a "sharp" nose-down 
+attitude, and impacted a field near the airport.
+Postaccident examination of the airplane revealed no mechanical anomalies that would have precluded 
+normal operation. The ground scarring at the accident site, the crush angle of the airframe, and the 
+observed wing drop before the airplane's descent into terrain were consistent with an exceedance of the 
+airplane's critical angle of attack and a resulting aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack after takeoff, which resulted in an 
+aerodynamic stall.
+Findings
+Aircraft
+Angle of attack - Capability exceeded
+Personnel issues
+Aircraft control - Pilot

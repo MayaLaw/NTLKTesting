@@ -1,0 +1,39 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Swainsboro, Georgia
+Accident Number:
+ERA18FA231
+Date & Time:
+August 25, 2018, 14:00 Local 
+Registration:
+N4785D
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (total)
+Injuries:
+4 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Skydiving
+Analysis 
+After completing several skydiving flights without incident, the airplane was refueled. The pilot 
+completed the next flight uneventfully; however, during takeoff on the subsequent flight, the airplane 
+reached an altitude about 150 ft above ground level when it lost total engine power. A witness reported 
+that the wings "rocked" left and right before the airplane pitched down and impacted the ground. 
+Examination of the airplane revealed that the right fuel tank cap was missing and tape was covering the 
+fuel filler port on the right wing. The tape was installed during the most recent refueling. The fuel 
+selector valve sustained significant thermal damage and was observed in the "both" position when 
+disassembled. Examination of the fuel tank vent line did not reveal any obstructions; however, the line 
+was impact damaged. Examination of the engine and its components revealed no anomalies that would 
+have precluded normal operation. While the installation of tape over the right wing fuel filler port likely 
+resulted in a non-venting seal, it could not be determined if it resulted in the loss of engine power, as 
+other means of fuel system venting likely remained. After the total loss of engine power, the airplane 
+exceeded its critical angle of attack and experienced an aerodynamic stall at too low of an altitude for 
+the pilot to recover.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power for reasons that could not be determined based on available 
+information.

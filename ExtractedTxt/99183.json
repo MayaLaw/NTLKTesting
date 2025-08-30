@@ -1,0 +1,29 @@
+{
+    "Filename": "99183.txt",
+    "Location": "Lafayette, Louisiana",
+    "Accident Number": "CEN19LA108",
+    "Date & Time": "March 23, 2019, 16:06 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N2744Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot owner airplane stated flight uneventful touchdown rollout smooth began turn airplane runway onto taxiway time right brake grabbed hard airplane ground looped resulting substantial damage left aileron left wing structure postaccident examination brake revealed mechanical malfunction anomaly would precluded normal operation circumstance accident consistent pilot failure maintain directional control landing roll probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll",
+        "Top Words": [
+            [
+                "pilot",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "brake",
+                2
+            ]
+        ]
+    }
+}

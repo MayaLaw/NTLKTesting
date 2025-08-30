@@ -1,0 +1,29 @@
+{
+    "Filename": "97714.txt",
+    "Location": "WAUNAKEE, Wisconsin",
+    "Accident Number": "GAA18CA400",
+    "Date & Time": "July 6, 2018, 16:00 Local",
+    "Aircraft": "Champion 8GCBC",
+    "Registration": "N114JM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing private grass airstrip observed 4fttall corn surrounding airstrip added landing aileron spade nicked blade corn corn actually 8 10 ft tall pilot back taxied decided take takeoff right wing struck row corn pulled airplane corn left main landing gear collapsed airplane ground looped left airplane sustained substantial damage left wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance tall corn along edge airstrip takeoff",
+        "Top Words": [
+            [
+                "corn",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97468.txt",
+    "Location": "Port Orange, Florida",
+    "Accident Number": "GAA18CA343",
+    "Date & Time": "May 24, 2018, 16:20 Local",
+    "Aircraft": "AMERICAN AA",
+    "Registration": "N5787L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported shortly departure 1000 ft ground level engine lost total power searching offairport landing spot made right turn toward airport positioned fuel selector knob toward second tank attempted restart engine engine restarted briefly lost power attempted restart engine repositioned fuel selector back original tank engine start conducted forced landing field tree heavy vegetation 2 mile west airport pilot added made positive determination fuel board prior takeoff airplane sustained substantial damage right wing fuselage postaccident examination federal aviation administration inspector revealed distinctive fuel odor accident site cup fuel recovered tank probable cause finding national transportation safety board determines probable cause accident pilot inadequate preflight inspection fuel resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                7
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

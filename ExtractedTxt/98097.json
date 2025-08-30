@@ -1,0 +1,29 @@
+{
+    "Filename": "98097.txt",
+    "Location": "Bronson, Michigan",
+    "Accident Number": "CEN18FA339",
+    "Date & Time": "August 18, 2018, 17:27 Local",
+    "Aircraft": "Air Tractor AT502",
+    "Registration": "N502RL",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting agricultural application flight turbopropequipped airplane data onboard gps unit showed airplane completed 10 spray pass field making right 180 turn pas align airplane subsequent pas airplane would climb 500700 ft first 90 turn descend second 90 turn airplane groundspeed decayed 37 kt 63 kt previous turn however data capture accident turn witness stated saw airplane complete spray pas pull nearvertical attitude become inverted airplane descended straight starting pull hit ground airplane impacted terrain wingslevel noselow attitude preimpact anomaly airframe engine propeller found based available evidence likely pilot failed maintain sufficient airspeed turn following spray pas resulted exceedance airplane critical angle attack aerodynamic stall loss airplane control altitude low recovery probable cause finding national transportation safety board determines probable cause accident pilot failure maintain airspeed maneuvering resulted exceedance airplane critical angle attack aerodynamic stall loss control altitude low recovery",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "turn",
+                6
+            ],
+            [
+                "pas",
+                4
+            ]
+        ]
+    }
+}

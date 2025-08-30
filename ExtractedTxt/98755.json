@@ -1,0 +1,29 @@
+{
+    "Filename": "98755.txt",
+    "Location": "IMMOKALEE, Florida",
+    "Accident Number": "GAA19CA092",
+    "Date & Time": "November 5, 2018, 17:45 Local",
+    "Aircraft": "Maule MX7",
+    "Registration": "N9225G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported administering flight review took flight control demonstrate fullstall landing landing roll airplane exited right side runway increased power abort landing left horizontal stabilizer struck runway sign continued climb airplane flew one pattern landed airplane sustained substantial damage left horizontal stabilizer rudder instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident flight instructor failure maintain directional control landing roll resulted runway excursion collision runway signage subsequent attempted aborted landing finding personnel issue aircraft control instructorcheck pilot aircraft directional control attainedmaintained environmental issue signmarker effect operation",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "flight",
+                4
+            ],
+            [
+                "control",
+                4
+            ]
+        ]
+    }
+}

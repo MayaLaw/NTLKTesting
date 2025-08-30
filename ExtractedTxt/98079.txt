@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Philadelphia, Pennsylvania
+Accident Number:
+DCA18CA266
+Date & Time:
+July 31, 2018, 13:15 Local 
+Registration:
+N192AN
+Aircraft:
+Boeing 757
+Aircraft Damage:
+Substantial
+Defining Event:
+Tailstrike
+Injuries:
+181 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+On July 31, 2018, about 1315 eastern daylight time, American Airlines flight 89, a Boeing 757-223, 
+N192AN, experienced a hard landing at Philadelphia International Airport (PHL), Philadelphia, 
+Pennsylvania. There were no injuries to the 181 passengers and crew onboard. The airplane was 
+substantially damaged. The regularly scheduled international passenger flight was operated under the 
+provisions of 14 Code of Federal Regulations Part 121 from Shannon International Airport (SNN), 
+Shannon, Ireland, to PHL.
+The captain was the pilot flying and the first officer was the pilot monitoring. The flight crew stated that 
+the ILS 09R approach was normal and the airplane landed in the touchdown zone. The captain stated 
+that as the airplane touched down the nose pitched up abruptly when the spoilers auto-deployed but that 
+he quickly countered the pitch up and flew the nose back on to the runway.  As the flight was taxiing to 
+the gate a flight attendant called on the interphone to inform the crew that they had heard an unusual 
+noise during landing.
+At the time of landing, the winds were reported to be from 130 degrees at 5 knots, with no gusts.
+Postflight examination of the airplane found that the aft pressure bulkhead was buckled. The skin was 
+worn through around Station (STA) 1720 to the pressure bulkhead, and the skin was wrinkled from STA 
+1701 to STA 1743 and Stringer 23L to 23R.
+Probable Cause and Findings

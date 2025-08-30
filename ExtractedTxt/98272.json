@@ -1,0 +1,29 @@
+{
+    "Filename": "98272.txt",
+    "Location": "Hereford, Texas",
+    "Accident Number": "CEN18LA378",
+    "Date & Time": "September 9, 2018, 11:17 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N4078W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "4 Serious",
+    "Analysis": {
+        "Text": "private pilot lost control airplane takeoff subsequently impacted ground near departure end runway destroyed pilot reported memory preflight activity takeoff witness observed airplane nosehigh taillow attitude takeoff lost sight airplane behind hangar noted engine sounded like full power postaccident examination airplane reveal evidence preimpact mechanical malfunction failure would precluded normal operation data recovered onboard engine monitor reveal indication loss engine power takeoff airplane loaded within gross weight centerofgravity limit performance data indicated available runway length sufficient takeoff likely pilot overrotated takeoff airplane entered aerodynamic stall resulted airplane departing controlled flight impacting ground probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack takeoff resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "takeoff",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

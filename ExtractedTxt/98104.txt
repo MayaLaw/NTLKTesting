@@ -1,0 +1,39 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Granbury, Texas
+Accident Number:
+CEN18LA341
+Date & Time:
+August 19, 2018, 20:19 Local 
+Registration:
+N1133T
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was practicing instrument flight rules approaches and was returning for a landing with a light 
+crosswind during dusk visual meteorological conditions. He disengaged the autopilot using the panel 
+autopilot button. All flight controls seemed to perform normally. The right turn to base and right turn to 
+final were made normally. On final approach, the pilot made minimal rudder inputs. As the pilot started 
+to flare the airplane, he started putting in more rudder inputs. However, he could not depress the left 
+rudder pedal fully. The airplane touched down about 80 knots on the main landing gear while the pilot 
+was holding all the left rudder he could. The airplane started to veer to the right and continued off the 
+runway, where it impacted a ditch, fence, and tree; the airplane sustained substantial damage to a wing 
+and the fuselage.
+The pilot indicated that the yaw damper was on when he landed. However, the airplane was equipped 
+with a recoverable data module that recorded the flight's configuration and navigation data, which 
+indicated that the yaw damper was off about 1/4 mile before the landing runway threshold.
+Given the available information, the pilot likely did not maintain directional control of the airplane 
+during the crosswind landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during a crosswind landing, which resulted in the 
+airplane exiting the runway and impacting a ditch, tree, and fence.

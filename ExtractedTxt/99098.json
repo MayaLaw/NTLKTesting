@@ -1,0 +1,29 @@
+{
+    "Filename": "99098.txt",
+    "Location": "Madeira, Ohio",
+    "Accident Number": "ERA19FA124",
+    "Date & Time": "March 12, 2019, 15:16 Local",
+    "Aircraft": "Piper PA31",
+    "Registration": "N400JM",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot conducting aerial observation surveying flight piston engine equipped multiengine airplane several hour flight pilot advised air traffic control atc airplane fuel problem needed return departure airport airplane 8 mile airport passing several airport pilot informed atc unsure airplane could reach airport final minute radar data depicted airplane descent tracking toward golf fairway airplane groundspeed decreased speed near single engine minimum control airspeed according witness heard engine sputter making two loud backfire sound one witness reported engine sputtered airplane left side flying crooked additional witness reported airplane turned left nosedived neighborhood impacting tree private residence coming rest backyard residence witness approached wreckage immediately accident observed small flame rising area left engine video recorded witness mobile phone several minute later showed airplane engulfed flame examination wreckage revealed evidence preimpact mechanical malfunction failure either engine fuel system feeding engine damaged impact force examined component generally displayed trace amount fuel remained exception left engine nacelle fuel tank given extent fire damage area wreckage witness report post impact fire originated area likely tank contained fuel design fuel tank able supply fuel directly either engine instead relied electric pump transfer fuel left main fuel tank fire damage precluded detailed postaccident examination functional testing left nacelle fuel transfer pump pilot flew similar airplane operator along review maintenance record airplane revealed least three instance pump failing month surrounding accident pilot also reported varying method utilizing fuel monitoring fuel transfer fuel nacelle fuel tank since direct indication quantity fuel available tank",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "airplane",
+                11
+            ],
+            [
+                "engine",
+                9
+            ]
+        ]
+    }
+}

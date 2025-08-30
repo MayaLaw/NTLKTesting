@@ -1,0 +1,29 @@
+{
+    "Filename": "97645.txt",
+    "Location": "Eagle Mountain, Utah",
+    "Accident Number": "WPR18FA186",
+    "Date & Time": "June 28, 2018, 10:54 Local",
+    "Aircraft": "Cessna 320",
+    "Registration": "N320MF",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting aerial photography flight planned altitude 7255 ft level area west rising mountainous terrain planned flight accomplish 3 photo run area conclusion 3 run pilot return airport located east fuel onboard data indicated conclusion second run traveling west east airplane made shallow right turn southeast continued toward mountainous terrain general direction airport traveling mountainous terrain airplane initiated left turn altitude 800 ft terrain turn possibly performed maneuver airplane back northwest photo area accomplish final photo run turn airplane bank angle increased airplane climbed slightly accelerated last recorded data showed airplane 177 knot groundspeed approximate 70 left bank site wreckage documentation revealed airplane collided terrain near vertical nosedown attitude suggesting airplane exceeded critical angle attack aerodynamically stalled altitude low pilot recover examination revealed anomaly airframe engine would precluded normal operation damage signature indicated engine producing power time accident pilot several airspace violation year accident psychological evaluation conducted 15 year accident pilot first sought federal aviation administration medical certification indicated pilot impulsive personality sought excitement however outside instance information available provided insight pilot behavior decisionmaking could determined whether pilot mental health contributed accident",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "terrain",
+                5
+            ]
+        ]
+    }
+}

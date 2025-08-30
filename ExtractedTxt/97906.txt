@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Matthews, North Carolina
+Accident Number:
+ERA18LA202
+Date & Time:
+July 26, 2018, 19:00 Local 
+Registration:
+N1193Y
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot was conducting a local, solo flight. He reported that all ground operations were normal and 
+that no water was found in the fuel during the preflight inspection. He took off with full tanks of fuel. About 40 
+minutes into the flight and about 1,800 ft mean sea level, he noticed that the airplane was "sluggish" and would 
+not "maintain lift," but all engine indications were normal, and he noted no sputtering or hesitation. The pilot 
+applied carburetor heat, and the engine speed dropped by about 300 rpm. Because the airplane continued to fly 
+sluggishly, the pilot turned off the carburetor heat and then decided to conduct a forced landing in a grass field, 
+during which the airplane nosed over and came to rest inverted. 
+Examination of the airframe and engine did not reveal evidence of any preimpact mechanical malfunctions or 
+failures that would have precluded normal operation. The pilot reported that there were no mechanical issues 
+with the airplane during the flight and that the engine could produce 2,750 rpm (the maximum-rated rpm) at full 
+power. He added that the high ambient temperature of 100°F and the full fuel load may have contributed to the 
+airplane's sluggishness. 
+A review of the student's logbook revealed that he had received only 3.1 hours of dual instruction and 15 hours 
+of solo flight experience and that he did not have an instructor's endorsement to fly solo. The student's lack of 
+training and experience likely contributed to his perception that there was a performance problem with the 
+airplane.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

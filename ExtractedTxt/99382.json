@@ -1,0 +1,29 @@
+{
+    "Filename": "99382.txt",
+    "Location": "VALPARAISO, Indiana",
+    "Accident Number": "GAA19CA244",
+    "Date & Time": "May 4, 2019, 13:40 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N7711L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported performing stopandgo takeoff landing takeoff roll tailwheel lifted ground airplane encountered significant wind left applied left aileron right rudder compensate wind airplane ground looped left airplane sustained substantial damage right wing right aileron pilot reported mechanical malfunction failure airplane would precluded normal operation pilot added slower application throttle keeping tailwheel ground longer takeoff roll prevent type accident occurring future probable cause finding national transportation safety board determines probable cause accident pilot improper throttle application subsequent failure maintain directional control takeoff roll gusting left crosswind condition resulted ground loop",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

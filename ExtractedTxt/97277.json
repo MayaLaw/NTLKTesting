@@ -1,0 +1,29 @@
+{
+    "Filename": "97277.txt",
+    "Location": "Eden Prairie, Minnesota",
+    "Accident Number": "GAA18CA286",
+    "Date & Time": "May 16, 2018, 10:00 Local",
+    "Aircraft": "Boeing A75N1(PT17)",
+    "Registration": "N63794",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported flight check pilot landing crosswind condition tailwheelequipped biplane veered left pilot overcorrected right rudder biplane ground looped right biplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction biplane would precluded normal operation automated weather observation system located accident airport reported time accident wind 230 7 knot pilot landed airplane runway 28r probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing crosswind condition",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "biplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

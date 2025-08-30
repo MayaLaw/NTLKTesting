@@ -1,0 +1,29 @@
+{
+    "Filename": "97330.txt",
+    "Location": "Bainbridge Island, Washington",
+    "Accident Number": "WPR18LA151",
+    "Date & Time": "May 27, 2018, 17:05 Local",
+    "Aircraft": "Cessna 150M",
+    "Registration": "N6AF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "private pilot passenger departed pleasure flight water radar data showed airplane altitude 700 ft mean sea level passenger stated concerned low airplane flying pilot reassured fine able fly safely 200 ft water pilot looked tablet using navigation passenger saw push flight control yoke forward airplane descended subsequently impacted water nosed passenger able egress airplane began sink however pilot appeared unconscious exit airplane neither wreckage pilot remains recovered although wreckage could examined passenger reported mechanical problem airplane impact likely pilot looking tablet inadvertently pushed control yoke forward causing airplane descend water distraction using tablet navigate failed detect descent probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance water distraction using tablet navigation resulted failure detect airplane entered descent",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "passenger",
+                5
+            ]
+        ]
+    }
+}

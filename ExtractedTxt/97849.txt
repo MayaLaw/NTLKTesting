@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Blum, Texas
+Accident Number:
+CEN18LA287
+Date & Time:
+July 21, 2018, 11:55 Local 
+Registration:
+N3611Y
+Aircraft:
+Cessna 210C
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that she was about 20 minutes into a cross-country flight with the airplane at a cruise 
+altitude of 3,500 ft mean sea level (msl) when the engine started to run roughly. The pilot suspected 
+vapor lock because of the hot weather conditions and attempted to restore engine power. She switched 
+the fuel selector positions from the right to the left fuel tank, but when the roughness worsened, she 
+switched the selector back to the right tank. She selected the boost pump to LOW and then HIGH, and 
+retarded throttle control, all of which had no effect on engine operation. The engine began to lose power 
+rapidly and then quit; the propeller windmilled. 
+The pilot began an approach for a forced landing on a field with flaps at 30° and the landing gear 
+retracted. She said that it would take her about 3 minutes to manually pump the landing gear down and 
+that she did not have enough time to lower the landing gear due to the airplane's altitude. The landing on 
+the field was "firm," and the airplane quickly slid to a stop and sustained substantial damage during the 
+gear-up landing.
+The airplane emergency checklist for a forced landing after a complete engine failure required extension 
+of the landing gear if the landing surface is smooth and hard and does not mention the need to extend the 
+landing gear using manual extension; the windmilling engine would provide power to the hydraulic 
+pump to operate the flaps and also to extend the landing gear normally. Postaccident examination of the 
+field showed that the surface was hard and in good condition to perform a landing; however, the pilot 
+stated that she could not determine this when she was 2 miles from the field when she decided to land 
+there. 
+The density altitude near the departure airport was about 3,500 ft msl, which would have required full 
+rich fuel mixture at takeoff.
+Postaccident examination of the airplane revealed that the left and right fuel tanks were each about half 
+full, the throttle and propeller controls were in the full forward positions, and the mixture control was 

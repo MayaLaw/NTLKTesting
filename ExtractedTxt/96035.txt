@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+London, Ohio
+Accident Number:
+CEN17LA358
+Date & Time:
+September 17, 2017, 16:00 Local 
+Registration:
+N35170
+Aircraft:
+Cessna 177B
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and the student pilot were in a cruise descent toward the destination airport when 
+the engine experienced a total loss of power. The instructor performed a forced landing to a corn field, 
+during which the airplane sustained substantial damage. The instructor reported that the airplane had 25 
+gallons of fuel onboard before takeoff and that the duration of the accident flight was 1.3 hours. Due to a 
+recent engine overhaul, the instructor was operating the airplane at a high power setting with the mixture 
+full rich. He noted that, during previous flights, the fuel consumption was about 11 gallons per hour and 
+calculated that the airplane should have burned about 14.3 gallons of fuel during the accident flight. 
+Since the engine was not being operated at normal cruise power settings, fuel burn based on information 
+in the pilot's operating handbook could not be calculated; however, examination of the airplane after the 
+accident revealed no usable fuel remaining in either wing fuel tank, and no breaches of the fuel system. 
+Subsequent testing revealed no fuel leakage and no excessive fuel consumption during ground runs.
+Based on the available evidence, it is likely that the engine lost power due to fuel exhaustion; however, 
+whether the pilot overestimated the fuel quantity before departure or underestimated the fuel 
+consumption during the flight could not be determined. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight instructor's inadequate in-flight fuel management, which resulted in a total loss of engine 
+power due to fuel exhaustion.

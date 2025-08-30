@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Franklin, North Carolina
+Accident Number:
+ERA19TA051
+Date & Time:
+November 16, 2018, 10:15 Local 
+Registration:
+N70252
+Aircraft:
+Cessna E162
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The sport pilot reported that, while conducting a personal, cross-country flight and while nearing the 
+destination airport, he reduced the engine rpm from 2,350 to 2,200 and began a slow descent from a 
+cruise altitude of 3,500 ft mean sea level (msl) to a traffic pattern altitude of 2,800 ft msl. He added that 
+the carburetor heat was not on at that time, and that, about 2 minutes later, he noticed that the engine had 
+lost all power without any roughness or sputtering. The pilot turned on the carburetor heat, positioned 
+the mixture to full rich, and confirmed that the fuel shutoff valve was not engaged; however, the engine 
+did not respond, so he subsequently conducted a forced landing to a field, during which the right wing 
+struck a fence, and the airplane came to rest inverted.
+ 
+Postaccident examination of the airplane and the engine revealed no evidence of any preaccident 
+mechanical malfunctions or failures that would have precluded normal operation, and the engine was 
+successfully test run. The atmospheric conditions at the time of the accident were conducive to serious 
+carburetor icing at cruise power, and the Pilot's Operating Handbook Descent Checklist instructed pilots 
+to apply carburetor heat, as required, during descent. Therefore, it is likely that carburetor ice 
+accumulated during cruise flight and that the pilot applied the carburetor heat too late to melt the ice, 
+which resulted in the loss of engine power. The pilot stated that he did not fully understand the 
+potentially subtle nature of carburetor ice.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's delay in applying carburetor heat, which resulted in a total loss of engine power 
+during descent due to carburetor icing.

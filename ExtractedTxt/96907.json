@@ -1,0 +1,29 @@
+{
+    "Filename": "96907.txt",
+    "Location": "Miami, Florida",
+    "Accident Number": "ERA18LA112",
+    "Date & Time": "March 21, 2018, 05:24 Local",
+    "Aircraft": "GULFSTREAM AEROSPACE G V",
+    "Registration": "N90JE",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 2 Minor, 5",
+    "Analysis": {
+        "Text": "descent arrival flight crew business jet illuminated fasten seatbelt sign cycled seatbelt sign airplane began encountering light turbulence deviating left adverse weather displayed radar continued descent encountered moderate turbulence heavy rain airplane dropped 500 1000 ft despite flight crew warned passenger cycling seatbelt sign descent cruise altitude three five passenger wearing seatbelt turbulence encounter one unbelted passenger seriously injured two incurred minor injury flight subsequently landed without incident probable cause finding national transportation safety board determines probable cause accident passenger failure comply fasten seatbelt sign resulted injury inflight turbulence encounter",
+        "Top Words": [
+            [
+                "seatbelt",
+                5
+            ],
+            [
+                "sign",
+                4
+            ],
+            [
+                "turbulence",
+                4
+            ]
+        ]
+    }
+}

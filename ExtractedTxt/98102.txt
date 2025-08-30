@@ -1,0 +1,44 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+LaPorte, Texas
+Accident Number:
+CEN18LA340
+Date & Time:
+August 20, 2018, 06:20 Local 
+Registration:
+N6860W
+Aircraft:
+Beech B36TC
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot was conducting a local flight. He said that during the initial climb, the engine began to 
+make a "weird very loud sound" and that the engine started to lose power. He stated that the "engine 
+noise started to get louder and power was almost gone." When he activated the auxiliary fuel pump, the 
+engine noise became "real loud" and sounded "very deep." The airplane was descending, and the student 
+pilot performed  a forced landing near a housing development.  During the landing, the right wing 
+separated and the airplane's cabin collapsed inward.  Although a Federal Aviation Administration 
+inspector expressed concerns about the exhaust pipe v-band clamp, the nature of those concerns were 
+not conveyed to the NTSB.  The airplane's engine was removed and later examined and test run at the 
+manufacturer. During a postaccident examination, the v-band clamp was found to be loose and could 
+have allowed manual rotation of the turbo outlet collar. However, it could not be determined what effect 
+this may have had on the accident. The examination also revealed that the induction hoses to and from 
+the intercooler were both torn. If the induction hose to the intercooler failed in flight, manifold pressure 
+would have dropped immediately, and the noise the pilot heard could have been turbo discharge pressure 
+escaping through the tear in the hose. When the engine lost turbo pressure, the fuel pump would have 
+continued to operate with a much richer mixture because it would not have sensed a loss of induction 
+pressure. When the pilot turned on the auxiliary fuel pump, the engine would have been flooded with 
+excess fuel. Thus, it is likely that the torn induction hose combined with the excess fuel from activation 
+of the fuel pump led to the engine being flooded resulting in the loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power due to a torn intercooler hose that resulted in an overly rich fuel 
+mixture, which, when combined with the pilot's activation of the auxiliary fuel pump, flooded 
+the engine.

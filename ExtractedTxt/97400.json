@@ -1,0 +1,29 @@
+{
+    "Filename": "97400.txt",
+    "Location": "Longview, Texas",
+    "Accident Number": "CEN18LA209",
+    "Date & Time": "June 1, 2018, 07:34 Local",
+    "Aircraft": "Luscombe 8A",
+    "Registration": "N72066",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Serious, 1 None",
+    "Analysis": {
+        "Text": "commercial pilot departed personal flight half fuel departure climb airplane experienced loss engine power pilot subsequently performed forced landing field touchdown airplane nosed impacted ground postaccident examination airplane revealed evidence mechanical malfunction failure would precluded normal engine operation pilot reported use carburetor heat takeoff use full carburetor heat takeoff landing stipulated airplane type certificate data sheet indicated placard required stating full carburetor air heat required takeoff landing however accident airplane placard installed special airworthiness information bulletin saib applicable airplane configuration noted need procedure prevent possible loss power takeoff climb stated flight testing revealed fuel flow could interrupted fuselagemounted tank result acceleration higher pitch attitude commonly encountered takeoff climb saib stated use full carburetor heat takeoff unconventional yet necessary ensure continuous fuel flow engine thus pilot failure use carburetor heat resulted loss engine power probable cause finding national transportation safety board determines probable cause accident pilot failure use carburetor heat takeoff resulted interruption continuous fuel flow engine loss engine power climb also causal lack required placarding warning need use full carburetor heat takeoff landing",
+        "Top Words": [
+            [
+                "takeoff",
+                8
+            ],
+            [
+                "carburetor",
+                7
+            ],
+            [
+                "heat",
+                7
+            ]
+        ]
+    }
+}

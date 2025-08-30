@@ -1,0 +1,29 @@
+{
+    "Filename": "97196.txt",
+    "Location": "Lusby, Maryland",
+    "Accident Number": "GAA18CA259",
+    "Date & Time": "May 5, 2018, 15:45 Local",
+    "Aircraft": "CREECH JERRY CREECH JERRY CH",
+    "Registration": "N701XS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "airplane owner reported flight seated right seat pilot flying seated left seat pilot held airline transport pilot certificate singleengine land flight instructor rating added experimental amateurbuilt airplane one throttle located farleft side cabin one set brake located left rudder pedal nosewheel steering interconnected rudder pedal reported pilot started taxied airplane takeoff performed climb descent turn landed landing airplane fast touched hard bounced 20 25 ft pilot said oh thats alright got leveled airplane continued landing subsequently airplane porpoised landed nose left runway centerline veered runway left struck tree owner added landing told pilot nose right rudder runway excursion yelled brake added pilot never reduced throttle idle never felt application brake airplane sustained substantial damage right wing fuselage owner reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot lawyer reported client pilot flying airplane previous training category class type aircraft",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

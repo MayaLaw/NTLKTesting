@@ -1,0 +1,43 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Rainy Pass, Alaska
+Accident Number:
+CEN18FA386
+Date & Time:
+September 24, 2018, 10:32 Local 
+Registration:
+N1738R
+Aircraft:
+Cessna U206
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The airline transport pilot was flying the airplane to a remote lodge to deliver cargo and return with 
+passengers. The pilot and the chief pilot, who was also following the same route about 16 minutes later, 
+had monitored the weather before and during the flight and recognized that the clouds were present but 
+believed they could make the flight. The flight track data showed that the pilot flew at low altitudes as 
+he flew into a winding valley leading toward a mountain pass. The chief pilot stated that, based on radio 
+calls from the pilot, he was maneuvering around low clouds. The flight track showed that the accident 
+airplane continued toward the mountain pass, then proceeded south past two mountain passes and into a 
+box canyon. The airplane impacted steep mountainous terrain facing north, consistent with the pilot 
+attempting a steep right turn to reverse course and exit the box canyon. Aviation weather cameras near 
+the accident location showed low clouds and precipitation around the time of the accident. The chief 
+pilot continued toward the destination but then elected to turn around as the low clouds hindered him 
+from navigating through the valley. It is likely that the accident pilot encountered deteriorating weather 
+as he flew through the valley toward mountainous terrain and attempted to exit the box canyon but was 
+unable to maintain clearance from terrain as he performed the steep right turn. A postaccident 
+examination of the engine, airframe, and recorded engine data did not reveal any anomalies that would 
+have precluded normal operation. 
+Based on a review of the autopsy report and previous medical conditions, there was no evidence to 
+suggest the pilot was impaired; therefore, the medical conditions were likely not a factor in this accident. 
+Diphenhydramine was detected in the pilot's toxicology, but not quantified; therefore, the investigation 
+was unable to determine if the pilot was impaired by diphenhydramine. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

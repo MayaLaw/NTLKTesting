@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Petaluma, California
+Accident Number:
+WPR18FA150
+Date & Time:
+May 27, 2018, 16:00 Local 
+Registration:
+N4269Y
+Aircraft:
+MORRISON MARVIN E JR RV 6A
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was departing in his experimental, amateur-built airplane. During the initial climb, 
+when the airplane was between 500 to 800 ft above ground level, the engine backfired several times 
+before losing power. The airplane entered a 180° turn back toward the airport; however, during the 
+second half of the turn, the bank angle increased, and the airspeed slowed. The airplane entered an 
+aerodynamic stall and spin and subsequently impacted terrain.
+Postaccident examination of the engine revealed that the left magneto was loose on its mounting pad and 
+free to rotate by hand. This would have resulted in erratic engine-to-magneto timing for that magneto 
+and would likely account for the engine backfiring and the partial loss of engine power. There were no 
+additional mechanical anomalies that would have precluded normal operation. No maintenance records 
+were recovered, and whether any magneto-related maintenance was performed before the accident could 
+not be determined.
+The area beyond the departure end of the runway comprised a golf course and open fields that would 
+have been favorable for a straight-ahead, forced landing. The pilot's decision to turn back toward the 
+runway at low altitude and his subsequent exceedance of the airplane's critical angle of attack during the 
+turn resulted in an aerodynamic stall/spin and a loss of control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power during initial climb after takeoff due to a loose left magneto, and 
+the pilot's decision to turn back to the airport and his exceedance of the airplane's critical 
+angle of attack, which resulted in an aerodynamic stall/spin and impact with terrain.

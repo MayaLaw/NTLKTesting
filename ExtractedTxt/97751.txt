@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Houston, Texas
+Accident Number:
+GAA18CA418
+Date & Time:
+July 10, 2018, 14:00 Local 
+Registration:
+N7716C
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The private pilot reported that he was receiving commercial instruction in an airplane with retractable 
+landing gear during a cross-country flight. He added that, while he turned the airplane from the 
+downwind leg to the base leg of the traffic pattern for the runway, he did not perform the checklist, and 
+the flight instructor did not verity that the landing gear were extended. The airplane touched down on the 
+runway with the landing gear retracted. 
+The airplane sustained substantial damage to the external longerons on the lower fuselage. 
+The pilot receiving instruction reported that there were no preaccident mechanical failures or 
+malfunctions with the airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot receiving instruction's failure to extend the landing gear and the flight instructor's failure to 
+ensure that the landing gear were extended during landing. Contributing to the accident was the pilot 
+receiving instruction's and instructor's failure to conduct a prelanding checklist. 

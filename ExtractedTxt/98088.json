@@ -1,0 +1,29 @@
+{
+    "Filename": "98088.txt",
+    "Location": "Rhome, Texas",
+    "Accident Number": "CEN18FA336",
+    "Date & Time": "August 16, 2018, 19:35 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N2893Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Fatal, 3 Serious",
+    "Analysis": {
+        "Text": "commercial pilot taking family member ride airplane accident flight third flight evening second flight pilot landed taxied airplane back property three family member boarded airplane engine continued run pilot taxied back runway departed pilotrated witness stated takeoff roll longer expected airborne airplane pitched high noseup 50 ft ground level agl nose came back airplane appeared accelerate runway climbed 300 ft agl made left turn descended view airplane impacted several tree continued field came rest inverted damage propeller consistent lack engine power time impact examination airplane revealed evidence longstanding pattern inadequate maintenance including rodent nest leading edge left wing large mud dauber nest oil cooler cobweb engine compartment automotive hydraulic hose used place main fuel line gascolator carburetor gascolator fuel strainer contained 3 large piece organic debris similar insect cocoon size hydraulic hose associated fuel fitting likely fuel line removed extended period time eventually replaced automotive hydraulic hose time fuel system exposed allowed insect nest inside maintenance record associated airplane could determined hose replaced accident flight likely organic material became dislodged restricted fuel carburetor subsequently starved engine available fuel resulted total loss engine power autopsy pilot revealed evidence hypertension coronary artery disease however unlikely condition contributed accident toxicological testing indicated pilot using alcohol accident level considered impairing likely alcohol impaired pilot decision making ability operate airplane toxicological testing also revealed evidence pilot used marijuana accident however could determined concentration would impairing would affected performance",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "fuel",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Atchison, Kansas
+Accident Number:
+CEN18LA350
+Date & Time:
+August 22, 2018, 16:00 Local 
+Registration:
+N78417
+Aircraft:
+Cessna A188
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The commercial pilot was conducting agricultural application operations. He reported that, after topping 
+off the airplane with fuel and flying two loads, on the third takeoff, the airplane "would not come off the 
+ground." He checked the engine controls, then dumped the load in an unsuccessful attempt to become 
+airborne before the end of the runway. The airplane continued off the runway and impacted terrain, 
+which resulted in substantial damage to the wings and fuselage. The airplane owner witnessed the 
+attempted takeoff and reported that the engine puffed black smoke during the takeoff run. He added that 
+the fuel servo provided a mixture that was too rich, so the pilots would reduce the mixture on the ground 
+and then use a full rich mixture for takeoff. A visual examination of the engine did not reveal any 
+evidence of anomalies. Although the appearance of black smoke from the engine is consistent with an 
+overly rich fuel mixture, based on the information provided by the pilot and no anomalies found during 
+the engine examination, the reason for the partial loss of engine power could not be determined. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power for reasons that could not be determined during the 
+postaccident examination.

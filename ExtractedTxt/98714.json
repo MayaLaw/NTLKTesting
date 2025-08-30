@@ -1,0 +1,29 @@
+{
+    "Filename": "98714.txt",
+    "Location": "Colorado Springs, Colorado",
+    "Accident Number": "WPR19TA034",
+    "Date & Time": "November 20, 2018, 09:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N27LA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported touchandgo landing applied full power take although airplane departed runway surface 50 knot accelerate airspeed decreased airplane began exhibiting characteristic consistent stall lowered nose airplane settled back onto ground slightly left side runway surface continued grassy field fence ditch airplane nosed came rest inverted resulting substantial damage witness reported observing airplane nosehigh attitude descended view flap found extended 40 accident site density altitude time accident 7386 ft approximate 4knot tailwind landing runway 14 upslope according federal aviation administration airportfacility directory opposite runway recommended touchandgo landing tailwind condition 5 knot according manufacturer takeoff performance chart adequate runway available takeoff however given highdensity altitude tailwind runway upslope distance required conduct touchandgo landing takeoff distance significantly increased resulted airplane inability become airborne within remaining runway probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "runway",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

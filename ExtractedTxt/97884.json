@@ -1,0 +1,29 @@
+{
+    "Filename": "97884.txt",
+    "Location": "East Sound, Washington",
+    "Accident Number": "GAA18CA441",
+    "Date & Time": "June 16, 2018, 17:30 Local",
+    "Aircraft": "Piper PA",
+    "Registration": "N11YB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported leftwinglow sideslip landing touchdown leveled wing airplane bounced increased throttle slightly adjusted pitch cushion subsequent bounce airplane veered right exited runway right ground looped airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 5 minute accident wind 310 6 knot gusting 12 knot pilot landed airplane runway 34 probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted bounced landing subsequent failure maintain directional control gusting left quartering headwind",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

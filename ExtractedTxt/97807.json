@@ -1,0 +1,29 @@
+{
+    "Filename": "97807.txt",
+    "Location": "Orient, Ohio",
+    "Accident Number": "CEN18LA275",
+    "Date & Time": "July 12, 2018, 16:25 Local",
+    "Aircraft": "WHITTMAN Tailwind",
+    "Registration": "N619NT",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot owner experimental amateurbuilt airplane receiving instruction flight instructor familiarization flight airplane experienced total loss engine power leveling 2000 ft mean sea level flight instructor attempted restart engine turning carburetor heat fuel pump successful flight instructor performed forced landing field airplane sustained substantial damage fuselage pilot stated airplane equipped unconventional mixture control improperly used flight caused engine quit running postaccident examination airplane revealed mixture control modified original configuration fullforward position mixture control would provide full lean mixture opposite original configuration fullforward position would provided full rich mixture thus likely fuel inadvertently cut flight mechanical malfunction anomaly reported would precluded normal operation airplane pilot recommended better thorough cockpit familiarization would prevented accident occurring probable cause finding national transportation safety board determines probable cause accident pilot flight instructor incorrect use modified mixture control resulted loss engine power due fuel starvation forced landing also causal inadequate system knowledge experimental amateurbuilt airplane pilot flight instructor",
+        "Top Words": [
+            [
+                "flight",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "mixture",
+                6
+            ]
+        ]
+    }
+}

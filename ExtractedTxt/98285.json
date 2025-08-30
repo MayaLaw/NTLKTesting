@@ -1,0 +1,29 @@
+{
+    "Filename": "98285.txt",
+    "Location": "Roche Harbor, Washington",
+    "Accident Number": "WPR18LA259",
+    "Date & Time": "September 12, 2018, 08:10 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N24ME",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Preflight or dispatch event",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported adjusted seat wiggled prior takeoff ensure locked place however takeoff roll seat moved way aft pilot able reach throttle rudder pedal airplane veered left lifted ground shortly tail struck ground followed left wing airplane came rest nose postaccident examination seat rail latching mechanism revealed anomaly proper hole engagement seat pin hole seat rail seat move stop engaged hole therefore likely although pilot attempted secure seat takeoff seat pin likely engaged corresponding hole seat rail resulted aft movement airplane gained speed takeoff roll probable cause finding national transportation safety board determines probable cause accident pilot failure secure seat position prior takeoff resulted loss airplane control subsequent hard landing",
+        "Top Words": [
+            [
+                "seat",
+                10
+            ],
+            [
+                "takeoff",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

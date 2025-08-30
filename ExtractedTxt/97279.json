@@ -1,0 +1,29 @@
+{
+    "Filename": "97279.txt",
+    "Location": "Hanover Park, Illinois",
+    "Accident Number": "CEN18LA181",
+    "Date & Time": "May 18, 2018, 20:32 Local",
+    "Aircraft": "Vans RV7A",
+    "Registration": "N667AZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel contamination",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot conducting personal crosscountry flight airplane partial loss engine power shortly takeoff engine operation improve pilot corrective action forced landing completed soft field airplane nosed upon touchdown fuselage wing empennage substantially damaged accident postaccident fuel sample taken wing tank sump exhibit contamination fuel sample collected fuel supply line connected fuel injector servo inlet contained small amount water contamination electric fuel pump used obtain additional fuel sample also contained water contamination fuel filter equipped drain sump evidence water contamination besides water contamination found fuel system postaccident examination reveal anomaly would precluded normal engine operation flight pilot reported fuel sample obtained wing tank sump preflight inspection contaminated pilot would unable identify water contamination downstream fuel tank experimental airplane equipped drainable fuel filter review maintenance documentation revealed least one instance water particulate contamination found fuel filter fuel injection servo finger screen based available evidence likely partial loss engine power shortly takeoff due water contamination fuel system",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "contamination",
+                8
+            ],
+            [
+                "water",
+                7
+            ]
+        ]
+    }
+}

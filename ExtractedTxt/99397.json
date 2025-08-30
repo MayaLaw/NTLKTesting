@@ -1,0 +1,29 @@
+{
+    "Filename": "99397.txt",
+    "Location": "Winter Haven, Florida",
+    "Accident Number": "WPR19LA136",
+    "Date & Time": "May 4, 2019, 11:00 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N2134T",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "instructional flight inbound initial approach fix practice simulated instrument approach engine began fluctuate sputter flight instructor switched fuel tank turned fuel pump avail airplane unable reach nearby airport flight instructor accomplished forced landing open field forced landing airplane left wing sustained substantial damage landing gear struck rut field postaccident examination airplane revealed preimpact anomaly first several engine run engine started uneventfully subsequently surged stopped pressure applied fuel system fuel observed leaking top two vent hole fuel selector fuel selector subsequently bypassed engine started ran additional anomaly noted fuel selector removed examined pressure test fuel valve positioned left right tank position fuel leak occurred vent hole subsequently fuel valve disassembled examine housing shaft four orings anomaly observed housing shaft microscopic examination revealed two orings appeared frictional interaction inner surface housing bore two orings exhibited wear surface contact inner surface housing bore additional anomaly noted circumstance accident consistent air entering fuel system fuel leak occurred fuel selector valve air fuel line would interrupted flow fuel engine resulting loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "engine",
+                6
+            ],
+            [
+                "anomaly",
+                4
+            ]
+        ]
+    }
+}

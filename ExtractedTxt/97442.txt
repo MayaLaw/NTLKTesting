@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Sedalia, Missouri
+Accident Number:
+CEN18LA220
+Date & Time:
+June 7, 2018, 16:45 Local 
+Registration:
+N8775M
+Aircraft:
+Beech A23
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting touch-and-go landings and had landed uneventfully four times. The fifth 
+touchdown was soft; however, the airplane suddenly turned about 90° to the left. The pilot applied right 
+rudder and reduced the throttle to idle. The airplane departed the runway surface, during which the right 
+horizontal stabilizer struck a light post and sustained substantial damage. The pilot reported that the left 
+brake had locked while braking on rollout. A functional check of the braking system and flight controls 
+did not reveal any mechanical malfunctions or failures that would have precluded normal operation; 
+both left and right wheel brake mechanisms functioned properly. 
+Reported wind conditions about the time of the accident were wind from 230° at 7 knots. However, the 
+pilot indicated that he had checked the local weather about 20 minutes before landing, which reported 
+wind from 100° at 3 knots. Therefore, the crosswind component would have been about 130° opposite, 
+and 4 knots increased, from what the pilot had previously received. The pilot likely lost directional 
+control of the airplane during the landing due to the unexpected wind shift.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of directional control during the landing rollout due to the unexpected wind shift, which 
+resulted in a runway excursion.

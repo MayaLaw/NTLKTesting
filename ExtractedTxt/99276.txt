@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+San Diego, California
+Accident Number:
+WPR19LA114
+Date & Time:
+March 14, 2019, 17:30 Local 
+Registration:
+N101GL
+Aircraft:
+Great Lakes 2T-1A-2
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+About 5 minutes after taking off, the pilot observed that the left upper aileron had come 
+loose from the inboard hinge. The pilot returned to the departure airport and landed 
+uneventfully. A postaccident examination of the airplane revealed that a wing rib aft of 
+the spar at the outboard aileron cutout was substantially damaged.  
+Examination of the aileron hinge strap fracture surfaces revealed crack arrest marks and 
+thumbnail-shaped patterns on the fracture surfaces, which emanated from both the top 
+and bottom surfaces of the hinge strap. The fracture surfaces were consistent with 
+asymmetric reverse-bending fatigue crack propagation. 
+The fatigue cracking propagated from the top and bottom surfaces through almost the 
+entire cross-section of the hinge strap.
+The pilot reported that while there were no inspection criteria from the manufacturer 
+relative to the hinge straps, all hinge straps were inspected as part of each annual 
+inspection.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

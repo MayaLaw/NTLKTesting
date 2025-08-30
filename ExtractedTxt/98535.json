@@ -1,0 +1,29 @@
+{
+    "Filename": "98535.txt",
+    "Location": "Monroe, Washington",
+    "Accident Number": "GAA19CA034",
+    "Date & Time": "October 12, 2018, 09:30 Local",
+    "Aircraft": "Just JUST AIRCRAFT (HIGHL",
+    "Registration": "N488VG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped experimental amateurbuilt airplane also airframe powerplant mechanic reported approach sandbar sideslipped airplane engine lost power aggressive throttle pulled enough bend carburetor idle stop screw bracket engine normally quiet airplane sound proofed pilot also used noisecancelling headset prevented aware power loss attempted add power avail enough time restart engine airplane settled onto water 15 20 ft short sandbar subsequently airplane hydroplaned came rest sandbar inverted pilot reported reason aggressive throttle lean mixture tended overheat engine takeoff cruise hot day airplane sustained substantial damage left wing lift strut left wing rudder pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration inspector reported pilot modified number position last hole fuel spray bar pilot able get engine barely run perform shortfield landing accident landing must cut flow fuel enough make engine quit pilot reported previously attempted mechanically enrich mixture drilling hole fuel spray bar drilled hole location engine wanted idle meaning hole open engine would idle high hole closed engine would die added problem unless trying land short",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98511.txt",
+    "Location": "Three Rivers, Michigan",
+    "Accident Number": "WPR19TA009",
+    "Date & Time": "October 9, 2018, 19:04 Local",
+    "Aircraft": "Kreling Supercat",
+    "Registration": "UNREG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot reported completed constructing unregistered experimental amateurbuilt airplane takeoff airplane first flight grass airstrip failed maintain proper pitch attitude adequate airspeed airplane experienced aerodynamic stall airplane struck ground nose beyond end runway resulted substantial damage forward fuselage pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper pitch attitude adequate airspeed takeoff resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

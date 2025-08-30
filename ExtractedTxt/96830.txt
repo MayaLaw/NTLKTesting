@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Churchville, Maryland
+Accident Number:
+ERA18LA098
+Date & Time:
+March 6, 2018, 21:17 Local 
+Registration:
+N101AD
+Aircraft:
+CIRRUS DESIGN CORP SR20
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that, before departure for a cross-country, personal flight at night in visual conditions, 
+he checked the weather using several online weather resources, which showed that the destination airport was 
+reporting visual meteorological conditions. He reported that, about 30 minutes before the anticipated arrival at 
+the destination airport, it started snowing. He descended the airplane to get out of the snow, but the airplane 
+encountered a temperature inversion, and because snow was accumulating on the wings, the pilot chose to 
+divert to the closest airport. He approached the runway at a higher-than-normal speed, and the airplane 
+ballooned during touchdown and then drifted off the side of the runway. He attempted a go-around, but the 
+airplane could not gain enough airspeed to become airborne, and it subsequently impacted two trucks, which 
+resulted in substantial damage to the airframe. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would have 
+precluded normal operation. It is likely that the pilot's improper landing flare resulted in the airplane ballooning 
+upon landing and led to his subsequent loss of directional control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in the airplane ballooning on touchdown, and his subsequent 
+failure to maintain directional control during the attempted landing and subsequent go-around.

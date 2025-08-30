@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Milton, Louisiana
+Accident Number:
+CEN19LA130
+Date & Time:
+March 21, 2019, 11:50 Local 
+Registration:
+N13FM
+Aircraft:
+Cessna L19
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+While in cruise flight, the airplane’s engine began to run rough before the engine lost power. The pilot 
+performed a forced landing during which the airplane impacted trees, resulting in substantial damage to 
+the wing spar. Fuel was found onboard the airplane, and examination of the engine revealed no 
+anomalies that would have precluded normal operation. The pilot reported that he did not apply 
+carburetor heat following the loss of engine power. The atmospheric conditions present at the time of the 
+accident were conducive to the development of serious icing at glide power; however, the engine was 
+being operated at a cruise power setting when the loss of power occurred. 
+The reason for the loss of engine power could not be determined based on the available information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of engine power for reasons that could not be determined based on the available information.
+Findings
+Aircraft
+(general) - Unknown/Not determined

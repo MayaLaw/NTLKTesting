@@ -1,0 +1,43 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Aberdeen, Idaho
+Accident Number:
+WPR19FA042
+Date & Time:
+December 17, 2018, 07:55 Local 
+Registration:
+N6283P
+Aircraft:
+Piper PA-24-250
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+ Security camera video captured the airplane during the initial climb after takeoff.  The video showed 
+that as the airplane entered the view of the camera, it appeared to be in a shallow climb; however, about 
+14 seconds later, the airplane descended in a near vertical manner, out of view of the camera. The 
+airplane impacted open terrain about 1,850 ft west of the departure end of the runway. Examination of 
+the airframe revealed no mechanical anomalies that would have precluded normal operation; however, 
+the left fuel selector valve was in the left wingtip tank position, and the right selector valve was in in a 
+position between the right main fuel tank and right wingtip tank position. The Airplane Flight Manual 
+Supplement for the wingtip fuel tank installation stated that the wingtip tank fuel was to be used in level 
+flight only. It is likely that because of the placement of the fuel port in the wingtip fuel tanks, when the 
+airplane was in a climb attitude, the fuel may not have reached the fuel port in the tank. As a result, the 
+pilot’s improper positioning of the fuel valves could have led to fuel starvation during the takeoff climb 
+and resulted in a loss of engine power.  
+Additionally, examination of the engine revealed that both magnetos were found in poor condition and 
+showed evidence of little maintenance being performed. The left magneto drive shaft would not rotate. 
+Disassembly of the left magneto revealed excessive wear on the bearing race that is attached to the drive 
+shaft. The excessive wear allowed the magnets to contact the magneto housing, which resulted in the 
+magneto being grounded, thus inoperative. The inoperative magneto would have partially reduced 
+engine power.   
+It is likely that the pilot experienced a loss of engine power to some degree during takeoff initial climb 
+and his attention could have been diverted as part of troubleshooting the loss of engine power.  The 
+pilot's diverted attention most likely allowed for the airplane to exceed its critical angle of attack, 
+resulting in a stall and subsequent spin at an altitude too low for recovery. 

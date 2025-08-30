@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Clewiston, Florida
+Accident Number:
+ERA19LA136
+Date & Time:
+March 25, 2019, 12:10 Local 
+Registration:
+N323MT
+Aircraft:
+Beech 95B55
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Serious, 1 Minor, 1 
+None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on a cross-country flight with the fuel selectors set to the main fuel tanks. Upon 
+reaching a cruise altitude of 6,000 ft, the left engine lost total power. The pilot tried to restart the engine 
+but was unsuccessful. Shortly thereafter, the right engine lost total power. The pilot reported that he did 
+not use the emergency checklist or switch the fuel selector to another tank, as he was too busy trying to 
+restart the engines. The pilot conducted a forced landing to a field, during which the airplane impacted 
+an irrigation ditch, resulting in substantial damage.
+The fuel selector was found set to the main fuel tanks, which were devoid of fuel. However, measurable 
+fuel was found in the remaining two auxiliary tanks. Examination of the engine and fuel 
+system revealed no evidence of any preaccident mechanical malfunctions or failures that would have 
+precluded normal operation. 
+Given the available evidence, it is likely that the loss of engine power was due to the pilot's 
+mismanagement of the available fuel, which resulted in fuel starvation. It is also likely that, had the pilot 
+completed the emergency checklist for a loss of engine power/engine restart, fuel flow and engine power 
+would have been restored. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "96047.txt",
+    "Location": "St George, Utah",
+    "Accident Number": "GAA17CA543",
+    "Date & Time": "September 20, 2017, 09:00 Local",
+    "Aircraft": "Cessna T210",
+    "Registration": "N22650",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot retractablelandinggear airplane reported neglected lower landing gear landing airplane landed landing gear retracted added recollection hearing gear horn airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure extend landing gear landing finding aircraft gear extension retract sys usedoperated personnel issue forgotten actionomission pilot",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "gear",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

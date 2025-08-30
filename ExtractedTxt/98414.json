@@ -1,0 +1,29 @@
+{
+    "Filename": "98414.txt",
+    "Location": "Myakka City, Florida",
+    "Accident Number": "ERA19CA002",
+    "Date & Time": "October 4, 2018, 14:05 Local",
+    "Aircraft": "Champion 7FC",
+    "Registration": "N9855B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported working offairport site installing concrete column departed site tailwheelequipped airplane takeoff field turned avoid tree end field impacted concrete column examination wreckage revealed right wing fuselage substantially damaged pilot reported preimpact mechanical malfunction failure would precluded normal operation stated experience taking grass left enough room gain sufficient altitude obstacle clearance probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance obstacle takeoff finding personnel issue monitoring environment pilot environmental issue general effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                2
+            ],
+            [
+                "site",
+                2
+            ]
+        ]
+    }
+}

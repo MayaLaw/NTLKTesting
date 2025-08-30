@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Salt Lake City, Utah
+Accident Number:
+ANC18LA049
+Date & Time:
+June 26, 2018, 08:50 Local 
+Registration:
+N57
+Aircraft:
+LEARJET INC 60
+Aircraft Damage:
+Substantial
+Defining Event:
+Fire/smoke (non-impact)
+Injuries:
+3 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The pilots reported that, while taxiing to the runway for departure, the nose wheel steering seemed 
+unusually sensitive and the airplane pulled slightly to the right. As they neared the runway threshold, 
+they smelled what they thought to be overheated brakes. The crew confirmed the position of the parking 
+brake handle, which had not been fully stowed, and once the handle was completely stowed (parking 
+brake OFF position), the airplane moved more freely. The crew then cancelled their takeoff clearance 
+and taxied the airplane to the runup area to allow the brakes to cool. Shortly thereafter, the control tower 
+notified the flight crew that the airplane was on fire.
+Examination of the airplane revealed substantial damage to the underside of the fuselage and right wing 
+due to fire that originated at the right main landing gear. A detailed examination of the airplane’s brake 
+system revealed no preaccident mechanical failures or malfunctions that would have precluded normal 
+operation. A review of the cockpit voice recorder information confirmed that the crew did not 
+completely release the parking brake before taxi.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight crew’s failure to fully disengage the parking brake before taxi, which resulted in a brake fire. 

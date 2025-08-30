@@ -1,0 +1,29 @@
+{
+    "Filename": "98271.txt",
+    "Location": "Roanoke, Texas",
+    "Accident Number": "CEN18LA377",
+    "Date & Time": "September 7, 2018, 21:03 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N33354",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious, 3 Minor, 2",
+    "Analysis": {
+        "Text": "commercial pilot five passenger departed personal night crosscountry flight according pilot engine start runup uneventful shortly takeoff engine lost total power pilot unable maintain altitude conducted forced landing resulted substantial damage fuselage wing engine examination revealed upper right spark plug wornout normal condition lower spark plug wornout severe condition lower spark plug replaced test engine run conducted engine started ran without hesitation various power setting however noted test engine would run right magneto examination right magneto found failed magneto coil despite failed coil right magneto spark plug condition engine ran full power setting anomaly noted engine fuel system would precluded normal operation failed magneto noted spark plug condition would resulted roughrunning engine complete loss engine power pilot described thus reason total loss power could determined probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available evidence",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "power",
+                6
+            ],
+            [
+                "spark",
+                5
+            ]
+        ]
+    }
+}

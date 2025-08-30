@@ -1,0 +1,45 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Farmington, New Mexico
+Accident Number:
+WPR19FA103
+Date & Time:
+March 31, 2019, 14:39 Local 
+Registration:
+N173CT
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Destroyed
+Defining Event:
+VFR encounter with IMC
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The noninstrument-rated pilot departed on a visual flight rules (VFR) cross-country flight.  
+About 25 minutes after takeoff, the airplane reached its highest altitude of 17,300 ft mean sea 
+level (msl) and was approaching a line of precipitation and thunderstorms. About 20 minutes 
+later, the airplane entered a descent at a rate of about 1,000 ft per minute. The airplane then 
+leveled off at an altitude of about 8,575 ft msl (about 3,000 ft above ground level), about 1,000 
+ft below the predicted cloud base, and a short time later, the airplane transitioned to a right 
+descending turn that continued until ground contact, reaching a descent rate of about 5,175 ft 
+per minute. The debris field and fragmentation of the airplane was consistent with a high-
+speed, right-wing-low impact. Examination of the wreckage did not reveal any anomalies with 
+the airframe or engine that would have precluded normal operation, and there was no evidence 
+of an inflight breakup. The airplane’s airframe parachute system was not deployed.
+Analysis of weather information indicated that the airplane likely encountered a line of 
+developing and expanding rain showers, with updraft and downdraft conditions, precipitation, 
+and reduced visibility as the pilot likely descended to fly under the cloud bases. Due to the 
+developing and expanding rain shower line, outflow boundaries and low-level wind shear 
+conditions were likely present in the area at the accident time. 
+A convective SIGMET as well as AIRMETs for instrument flight rules conditions, mountain 
+obscuration, and moderate icing were valid for the route of flight and in the area of the accident 
+site at the accident time. When activating his flight plan, the pilot indicated to the weather 
+briefer that he was aware of the AIRMETs; however, whether he was aware of the SIGMET was 
+not determined based on the available information. 
+Although the pilot did not receive an official weather briefing, records suggest that he 
+downloaded weather imagery three days before the flight. He had an active subscription to a 
+commercial satellite weather service for the airplane, which was also equipped with multiple 

@@ -1,0 +1,29 @@
+{
+    "Filename": "99165.txt",
+    "Location": "Savannah, Georgia",
+    "Accident Number": "GAA19CA176",
+    "Date & Time": "March 20, 2019, 15:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N2667Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing roll wind pushed airplane right overcompensated left rudder airplane veered left abruptly rotated 180 stopped runway taxiway intersection tower controller asked pilot could restart engine needed tow pilot attempted restart engine four five time attempting hot start saw black smoke coming lower left engine cowling leaned forward saw flame location pilot searched fire extinguisher avail egressed airplane without incident pilot added multiple restarts engaged starter 5 8 second estimated time attempt 5 second attempted hot start first couple attempt observed engine fire attempted flooded start airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation director maintenance reported fire extinguisher located seat pocket behind copilot seat airport automated weather observation station reported 7 minute accident wind 360 10 knot gusting 17 knot pilot landed airplane runway 10 pilot operating handbook section 37 engine fire start stated following engine fire start usually result overpriming",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

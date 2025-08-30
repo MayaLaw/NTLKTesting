@@ -1,0 +1,29 @@
+{
+    "Filename": "97891.txt",
+    "Location": "Avalon, California",
+    "Accident Number": "WPR18LA203",
+    "Date & Time": "July 25, 2018, 09:30 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N4747H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 Serious, 2 Minor",
+    "Analysis": {
+        "Text": "witness reported pilot first landing attempt high airplane went around second landing attempt airplane still high came fast airplane touched past runway midpoint airplane neared end runway witness heard engine rev saw airplane depart runway nose high pitch attitude airplane subsequently collided terrain 1000 ft beyond departure end runway 75 100 ft runway surface elevation pilot reported recall event accident stated mechanical anomaly airplane accident consistent pilot delayed decision conduct goaround following unstable approach long landing resulted airplane insufficient airspeed climb attempted goaround impact terrain probable cause finding national transportation safety board determines probable cause accident pilot delayed decision conduct goaround following unstable landing approach long landing",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "runway",
+                5
+            ]
+        ]
+    }
+}

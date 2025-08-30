@@ -1,0 +1,29 @@
+{
+    "Filename": "93955.txt",
+    "Location": "Monett, Missouri",
+    "Accident Number": "CEN16LA354",
+    "Date & Time": "August 29, 2016, 09:30 Local",
+    "Aircraft": "North American Navion",
+    "Registration": "N91488",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot stated landing roll following normal landing airplane began pulling right airplane departed right side runway traveled embankment barbed wire fence pilot inspected airplane noted right main landing gear mlg collapsed examination landing gear found locking mechanism improperly rigged several week accident airplane right mlg damaged incident replaced serviceable unit review maintenance record noted gear retraction test conducted replacement described satisfactory likely maintenance landing gear improperly rigged resulted collapse accident flight probable cause finding national transportation safety board determines probable cause accident maintenance personnel failure properly rig right main landing gear locking mechanism resulted gear collapse landing",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "gear",
+                6
+            ],
+            [
+                "right",
+                5
+            ]
+        ]
+    }
+}

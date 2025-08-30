@@ -1,0 +1,34 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Bismarck, Illinois
+Accident Number:
+CEN18LA270
+Date & Time:
+July 13, 2018, 18:15 Local 
+Registration:
+N629LA
+Aircraft:
+Air Tractor AT 602
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot was conducting an aerial application flight; a witness saw the airplane maneuvering before 
+entering a flat spin. Ground scars at accident site were consistent with a wings- and nose-level impact 
+attitude. Examination of the engine and airframe revealed no evidence of mechanical malfunctions or 
+anomalies. 
+The airplane was not equipped with an elevator down-spring or rudder-aileron interconnect system. 
+According to the manufacturer, these systems were required and improved the stability and handling 
+characteristics of the airplane. Although the circumstances of the accident are consistent with a stall/spin 
+and loss of control, the reason for the loss of control could not be determined based on the available 
+information; and whether the lack of the elevator down-spring and rudder-aileron interconnect systems 
+contributed to the loss of control was not determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+ A loss of control for reasons that could not be determined based on the available information.

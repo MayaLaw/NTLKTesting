@@ -1,0 +1,29 @@
+{
+    "Filename": "97902.txt",
+    "Location": "Sanford, Florida",
+    "Accident Number": "GAA18CA445",
+    "Date & Time": "July 25, 2018, 17:10 Local",
+    "Aircraft": "Cirrus SR20",
+    "Registration": "N482DA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "flight instructor reported following simulated instrument flight instruction private pilot rated student took control approach airport added started rain runway still visible touchdown instructor kept airplane ground effect reduce airspeed airplane touched halfway 3578ftlong runway bounced twice touched applied brake student got flap exiting runway onto taxiway instructor applied brake airplane still traveling fast entered ramp veered slightly left taxiway centerline struck three unoccupied airplane ramp airplane sustained substantial damage left wing leftwing spar box instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported time accident wind 200 16 knot gusting 23 knot visibility 1 statute mile broken cloud 3900 ft temperature 81f dew point 73f heavy rain instructor landed airplane runway 27c probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "instructor",
+                5
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Marathon, Florida
+Accident Number:
+ERA17LA347
+Date & Time:
+September 16, 2017, 08:55 Local 
+Registration:
+N3187V
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot fueled the airplane to capacity before departing on a local photography flight. About 1 
+hour after departing, the pilot was climbing the airplane to cruise altitude for the return to the departure 
+airport. About 800 to 1,000 ft above mean sea level, the airplane experienced a sudden, total loss of 
+engine power over open water and beyond gliding distance to shore. The pilot prepared to ditch and 
+attempted five engine restarts without success. The propeller continued to windmill as the airplane 
+landed upright, but subsequently sank in about 12 ft of saltwater. The airplane was recovered 12 days 
+later and a fuel sheen was observed in the area.
+The wreckage was examined following recovery and the engine crankshaft could not be rotated due to 
+saltwater corrosion. Examination of the engine-driven fuel pump revealed that the drive shaft remained 
+intact and could be actuated by hand with no anomalies noted. The engine and its ignition and induction 
+systems could not be thoroughly examined or tested due to extensive saltwater corrosion; therefore, the 
+reason for the loss of engine power could not be determined. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined because saltwater corrosion 
+precluded a complete examination.

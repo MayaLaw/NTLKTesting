@@ -1,0 +1,29 @@
+{
+    "Filename": "97192.txt",
+    "Location": "Broomfield, Colorado",
+    "Accident Number": "CEN18LA162",
+    "Date & Time": "May 7, 2018, 11:39 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N3292Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot conducted personal flight grass airstrip completed two uneventful fullstop landing returning departure airport final landing pilot reported final landing airplane initially touched main landing gear nose gear contacted runway airplane immediately swerved right nosed grass beside runway resulting substantial damage vertical stabilizer rudder right wing strut witness reported seeing airplane final approach nose wheel rotated 75 normal alignment upper link arm nose landing gear torque link assembly fractured near upper end allowed nose wheel rotate freely landing gear strut laboratory examination revealed evidence downward bending overstress failure although examination also identified isolated area preexisting fatigue right flange closed crack left flange contribute bending overstress failure upper torque link based available evidence upper link arm fractured earlier flight pilot would unaware damage nose gear final landing probable cause finding national transportation safety board determines probable cause accident overstress fracture upper link nose landing gear torque link assembly resulted pilot inability maintain directional control landing",
+        "Top Words": [
+            [
+                "landing",
+                9
+            ],
+            [
+                "gear",
+                6
+            ],
+            [
+                "nose",
+                6
+            ]
+        ]
+    }
+}

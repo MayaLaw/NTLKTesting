@@ -1,0 +1,29 @@
+{
+    "Filename": "98412.txt",
+    "Location": "Fullerton, California",
+    "Accident Number": "ANC18LA079",
+    "Date & Time": "June 17, 2018, 07:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N734RS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "investigation event conducted jurisdiction federal bureau investigation fbi ntsb provided requested technical assistance fbi material generated ntsb control fbi ntsb plan issue report open public docket probable cause finding national transportation safety board determines probable cause accident national transportation safety board determine probable cause event plan issue report open public docket investigation event conducted jurisdiction federal bureau investigation finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "investigation",
+                4
+            ],
+            [
+                "event",
+                3
+            ],
+            [
+                "fbi",
+                3
+            ]
+        ]
+    }
+}

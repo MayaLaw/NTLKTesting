@@ -1,0 +1,29 @@
+{
+    "Filename": "98749.txt",
+    "Location": "Hesperia, California",
+    "Accident Number": "GAA19CA090",
+    "Date & Time": "December 8, 2018, 10:00 Local",
+    "Aircraft": "Zenair CH 750 CRUZER",
+    "Registration": "N947DS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported planned land close number airplane 15 ft ground level descended unexpectedly added power pitched airplane nose nosewheel touched hard airplane began porpoise increased throttle full airplane veered left exited runway impacted empty hangar airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard bounced landing runway excursion impact hangar",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

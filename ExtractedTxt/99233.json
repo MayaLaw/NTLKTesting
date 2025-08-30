@@ -1,0 +1,29 @@
+{
+    "Filename": "99233.txt",
+    "Location": "Santa Fe, New Mexico",
+    "Accident Number": "WPR19FA106",
+    "Date & Time": "April 8, 2019, 15:38 Local",
+    "Aircraft": "Tecnam P2002",
+    "Registration": "N118LS",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "flight instructor student pilot conducting touchandgo landing surveillance footage showed shortly takeoff airplane appeared stop climbing right wing dropped airplane entered steep nosedown attitude impacted ground postimpact fire ensued examination airframe engine revealed anomaly would precluded normal operation time accident density altitude calculated 8600 ft given available evidence likely engine performance degraded high density altitude airplane critical angle attack exceeded initial climb takeoff resulted aerodynamic stall loss control probable cause finding national transportation safety board determines probable cause accident flight instructor failure maintain adequate airspeed initial climb takeoff resulted exceedance airplane critical angle attack aerodynamic stall loss control",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "takeoff",
+                3
+            ],
+            [
+                "flight",
+                2
+            ]
+        ]
+    }
+}

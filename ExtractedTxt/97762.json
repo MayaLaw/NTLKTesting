@@ -1,0 +1,29 @@
+{
+    "Filename": "97762.txt",
+    "Location": "Rosamond, California",
+    "Accident Number": "WPR18LA196",
+    "Date & Time": "July 14, 2018, 10:00 Local",
+    "Aircraft": "Cassutt IIIM",
+    "Registration": "N43SJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot departing experimental amateurbuilt airplane configured aerial racing reported airplane entered initial climb 50 ft ground level engine performance reduced 300 rpm pilot attempted continue takeoff complete circuit airport traffic pattern witness saw airplane turn left nose immediately dropped impacted ground followed right side airplane airplane sustained substantial damage forward fuselage right wing likely pilot maneuvering low altitude partial loss engine power failed maintain adequate airspeed resulted airplane exceeding critical angle attack subsequent accelerated stall postaccident examination engine accessory reveal preimpact mechanical anomaly however teardown carburetor showed multiple discrepancy notable loose primary venturi condition likely caused partial loss engine power takeoff due delivery inconsistent vacuum pressure disruption fuel flow airworthiness directive ad issued 20 year accident required venturi inspected annual 100hour conditional inspection unknown ad complied pilotowner possess record showed carburetor maintenance history probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

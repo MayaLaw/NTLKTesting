@@ -1,0 +1,29 @@
+{
+    "Filename": "98411.txt",
+    "Location": "Porterville, California",
+    "Accident Number": "GAA18CA579",
+    "Date & Time": "August 31, 2018, 11:10 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N8172N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported initiated landing flare airplane floated 100 ft landed normally 400 ft landing roll airplane veered right exited right side runway collided taxiway light coming rest airplane sustained substantial damage lower fuselage intermediate bulkhead pilot reported landing windsock indicated wind however accident passenger saw dust devil close runway pilot reported mechanical malfunction failure airplane would precluded normal operation airport metar reported time accident wind variable 6 knot pilot landed airplane runway 30 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

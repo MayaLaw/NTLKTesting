@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Junction City, Kansas
+Accident Number:
+GAA19CA037
+Date & Time:
+October 22, 2018, 18:30 Local 
+Registration:
+N105JT
+Aircraft:
+Zenith CH601
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the experimental, amateur-built airplane reported that, about 5 minutes after takeoff, he felt 
+air coming into the cockpit from the canopy. He noticed that the canopy latch was not adequately 
+secured and attempted to secure it, but the canopy opened. The airplane became very difficult to control 
+with the canopy open, so he made an emergency landing in a cornfield. During landing, the nosewheel 
+collapsed, and the airplane skidded to a stop.
+The airplane sustained substantial damage to the fuselage.
+The pilot reported that there were no preimpact mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to secure the canopy latch before takeoff, which resulted in the canopy opening in 
+flight and the subsequent loss of airplane control.

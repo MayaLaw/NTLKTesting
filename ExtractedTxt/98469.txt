@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Cartersville, Georgia
+Accident Number:
+CEN19FA005
+Date & Time:
+October 13, 2018, 14:30 Local 
+Registration:
+N180QT
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on a cross-county flight in day visual meteorological conditions. According to the 
+airplane's co-owner, who spoke with the pilot before he departed on the accident flight, the airplane had 
+about 34 gallons of fuel onboard at the time of departure. Based on his experience, this was sufficient for 
+about 2 hours 20 minutes of flight. He suggested that the pilot top off the airplane's fuel tanks before 
+departure. When he watched the pilot taxi the airplane past the fuel facility and take off, he subsequently 
+sent the pilot a text message stating, "Do hope you had a fuel stop planned." The pilot replied that he 
+would stop if he needed to. GPS data indicated that the pilot did not land at any point between the 
+departure airport and accident site, though he passed near one airport, and directly over another airport, 
+both of which had fuel services available. A witness reported that the airplane's engine stopped then 
+restarted. Another witness reported that the airplane's engine was surging. The airplane subsequently 
+impacted power lines. The duration of the accident flight was 3 hours and 10 minutes.
+Postaccident examination revealed that both fuel tanks were intact; the left wing tank was empty, and 
+the right wing tank contained residual fuel. Examination of the fuel system and the engine revealed no 
+anomalies. Given the absence of fuel in the airplane's fuel tanks at the accident site, the duration of the 
+flight, and the known quantity of fuel onboard at the time of departure, the accident is consistent with a 
+total loss of engine power due to fuel exhaustion. Although the pilot passed over two other airports with 
+fuel available, he chose to continue the flight beyond the airplane's endurance given the fuel at 
+departure.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate preflight and inflight fuel planning and his decision to continue flight without 
+stopping for fuel, which resulted in a total loss of engine power due to fuel exhaustion.

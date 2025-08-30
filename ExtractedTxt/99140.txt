@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Chandler, Arizona
+Accident Number:
+GAA19CA171
+Date & Time:
+March 9, 2019, 15:45 Local 
+Registration:
+N732SJ
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the retractable-landing gear equipped-airplane reported that, while in the traffic pattern, he 
+was distracted while looking for other aircraft and failed to continue the landing checklist, but he 
+assumed it was completed. During the approach, he reduced power and did not hear the landing gear 
+warning horn. The pilot then landed the airplane with the landing gear retracted.
+The pilot added that, during the recovery process with a tow truck, they attempted to troubleshoot the 
+landing gear warning system, but they still did not hear the landing gear warning horn.
+The airplane sustained substantial damage to the left wing.
+Postaccident examination by a Federal Aviation Administrator inspector revealed that the landing gear 
+audible warning horn switch on the bulkhead (engine compartment) was improperly rigged, and the horn 
+did not sound when tested. He added that the airplane was equipped with a mirror on the right wing, 
+which the pilot could have used to visually check if the landing gear were extended.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's distraction while looking for other aircraft in the traffic pattern, which resulted in his failure 
+to follow a prelanding checklist and to extend the landing gear before landing. Contributing to the 
+accident was the improperly rigged landing gear warning switch, which prevented an audible warning 
+sound.

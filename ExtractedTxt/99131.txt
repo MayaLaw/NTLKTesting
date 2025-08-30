@@ -1,0 +1,43 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Yukon, Oklahoma
+Accident Number:
+CEN19FA104
+Date & Time:
+March 18, 2019, 15:31 Local 
+Registration:
+N4MH
+Aircraft:
+Israel Aircraft Industries 1124
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The two commercial pilots were conducting a personal, cross-country flight. A video 
+surveillance camera at the airport captured their airplane’s approach. Review of the video 
+revealed that, as the airplane approached the approach end of the landing runway, it began to 
+climb, rolled left, became inverted, and then impacted terrain. 
+The left thrust reverser (T/R) was found open and unlatched at the accident site. An 
+asymmetric deployment of the left T/R would have resulted in a left roll/yaw. The lack of an 
+airworthy and operable cockpit voice recorder, which was required for the flight, precluded 
+identifying which pilot was performing pilot flying duties, as well as other crew actions and 
+background noises, that would have facilitated the investigation.
+Postaccident examination of the airplane revealed that it was not equipped, nor was required to 
+be equipped, with a nose landing gear (NLG) ground contact switch intended to preclude in-
+flight operation of the thrust reverser (T/R). The left T/R door was found unlatched and open, 
+and the right T/R door was found closed and latched. Further, electrical testing of the T/R left 
+and right stow microswitches within the cockpit throttle quadrant revealed that the left stow 
+microswitch did not operate within design specifications. Disassembly of the left and right stow 
+microswitches revealed evidence of arc wear due to aging. Based on this information, it is likely 
+that the airplane’s lack of an NLG ground contact switch and the age-related failure of the stow 
+microswitches resulted in an asymmetric T/R deployment while on approach and a subsequent 
+loss of airplane control. Also, there were additional T/R system components that were found to 
+unairworthy that would have affected the control of the T/R system.
+Operational testing of the T/R system could not be performed due to the damage the airplane 
+incurred during the accident.

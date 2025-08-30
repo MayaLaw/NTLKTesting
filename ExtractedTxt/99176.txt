@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Tampa, Florida
+Accident Number:
+GAA19CA180
+Date & Time:
+March 24, 2019, 14:27 Local 
+Registration:
+N976AZ
+Aircraft:
+Piper PA23
+Aircraft Damage:
+Substantial
+Defining Event:
+Birdstrike
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the multiengine airplane reported that, on a descending vector for a visual instrument 
+landing system approach on an instrument flight rules flight plan, about 2,500 to 2,800 ft mean sea level, 
+he "felt the aircraft shudder along with a loud bang." He then disengaged the autopilot to determine if 
+the flight controls were affected and looked for damage on the wing and nose area; he saw no damage. 
+The pilot continued to the airport and landed without further incident. During the landing, the pilot of a 
+waiting aircraft reported that he saw damage to the accident airplane's vertical stabilizer that looked like 
+a bird had hit it. During postaccident examination, blood and tissue were found on the airplane.
+The airplane sustained substantial damage to the vertical stabilizer.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An in-flight collision with a bird during the approach, which resulted in damage to the vertical stabilizer.

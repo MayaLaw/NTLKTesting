@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+McCarthy, Alaska
+Accident Number:
+GAA19CA251
+Date & Time:
+May 3, 2019, 16:30 Local 
+Registration:
+N456SF
+Aircraft:
+De Havilland DHC2
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing area undershoot
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the approach to land on a private, 
+gravel-covered airstrip, a dust cloud obscured three-quarters of the airstrip, but the approach end of the 
+airstrip remained visible. He added that, during the approach, the airplane encountered wind shear, and 
+the main landing gear then impacted terrain before the approach end of the airstrip. The airplane then 
+bounced and came to rest nose down.
+The airplane sustained substantial damage to the landing gear box.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot reported that, about the time of the accident, the wind was variable from 060° to 120° at 20 
+knots, gusting to 25 knots. The pilot landed the airplane to the east.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain a proper approach path in gusting wind conditions, which resulted in the 
+airplane landing short of the airstrip and bouncing.

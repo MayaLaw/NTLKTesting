@@ -1,0 +1,29 @@
+{
+    "Filename": "98229.txt",
+    "Location": "Palmer, Alaska",
+    "Accident Number": "GAA18CA525",
+    "Date & Time": "August 31, 2018, 18:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N5373Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff unimproved gravel airstrip tailwheelequipped airplane veered right struck airplane parked right side airstrip airplane sustained substantial damage wing fuselage elevator pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff finding aircraft directional control attainedmaintained personnel issue aircraft control pilot environmental issue aircraft effect operation environmental issue rough terrain contributed outcome",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

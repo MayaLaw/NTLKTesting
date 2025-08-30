@@ -1,0 +1,29 @@
+{
+    "Filename": "98665.txt",
+    "Location": "Versailles, Ohio",
+    "Accident Number": "GAA19CA069",
+    "Date & Time": "November 17, 2018, 16:20 Local",
+    "Aircraft": "Piper PA32R",
+    "Registration": "N4137W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "initial approach pilot airplane owner able see airport environment due haze able see ground pilot continued use gps navigation airplane airport able see runway pilot made 180\u00ba turn align final approach however approach stabilized pilot initiated goaround climbout made another 180\u00ba turn final approach opposite runway airplane touched nose landing gear first immediately veered left exited runway pilot attempted another goaround airplane struck tree airport perimeter fence airplane sustained substantial damage left wing owner reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted landing landing gear first subsequent loss directional control runway excursion impact tree fence attempted goaround",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "approach",
+                4
+            ]
+        ]
+    }
+}

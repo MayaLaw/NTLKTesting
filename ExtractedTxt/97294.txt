@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Chesapeake, Virginia
+Accident Number:
+ERA18FA150
+Date & Time:
+May 22, 2018, 07:28 Local 
+Registration:
+N6177W
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot completed a normal preflight inspection and engine run-up and received an 
+instrument flight rules clearance from air traffic control to depart from the uncontrolled airport, where 
+fog, low visibility, and clouds were present. Shortly after takeoff, the airplane entered the clouds and 
+fog, climbed on the departure runway heading, and turned right, consistent with the clearance provided; 
+however, the airplane continued the right turn, flying a 360° circle. During the circle, the airplane 
+rapidly descended to about 60 ft above ground level (agl) then climbed to about 600 ft agl. The last radar 
+data point showed the airplane at 356 ft agl, flying at 42 knots groundspeed. There were no 
+communications received from the pilot during the flight. The wreckage was located in an open field 
+about 1/4 mile from the last radar data point.
+A postaccident examination of the airplane and the airplane's primary vacuum system did not reveal any 
+anomalies consistent with a preimpact failure or malfunction. The airplane was equipped with a standby 
+vacuum system and an electrically-powered attitude indicator, and the investigation found no anomalies 
+with these components. Due to impact and fire damage, the investigation could not determine whether 
+the standby vacuum system was activated by the pilot.
+The restricted visibility, maneuvering, and workload associated with the initial post-takeoff phase of 
+flight provided conditions conducive to the development of spatial disorientation, and the changes in the 
+airplane's altitude, heading, and speed depicted on radar are consistent with the known effects of spatial 
+disorientation. It is likely that the pilot experienced spatial disorientation during the climbing departure 
+turn, which resulted in an exceedance of the airplane's critical angle of attack, an aerodynamic stall, and 
+a subsequent impact with terrain.
+    
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

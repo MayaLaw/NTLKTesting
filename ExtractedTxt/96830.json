@@ -1,0 +1,29 @@
+{
+    "Filename": "96830.txt",
+    "Location": "Churchville, Maryland",
+    "Accident Number": "ERA18LA098",
+    "Date & Time": "March 6, 2018, 21:17 Local",
+    "Aircraft": "CIRRUS DESIGN CORP SR20",
+    "Registration": "N101AD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot stated departure crosscountry personal flight night visual condition checked weather using several online weather resource showed destination airport reporting visual meteorological condition reported 30 minute anticipated arrival destination airport started snowing descended airplane get snow airplane encountered temperature inversion snow accumulating wing pilot chose divert closest airport approached runway higherthannormal speed airplane ballooned touchdown drifted side runway attempted goaround airplane could gain enough airspeed become airborne subsequently impacted two truck resulted substantial damage airframe pilot reported mechanical malfunction failure airplane would precluded normal operation likely pilot improper landing flare resulted airplane ballooning upon landing led subsequent loss directional control probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted airplane ballooning touchdown subsequent failure maintain directional control attempted landing subsequent goaround",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

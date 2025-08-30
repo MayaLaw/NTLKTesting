@@ -1,0 +1,45 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Talkeetna, Alaska
+Accident Number:
+ANC18FA063
+Date & Time:
+August 4, 2018, 17:53 Local 
+Registration:
+N323KT
+Aircraft:
+De Havilland DHC-2
+Aircraft Damage:
+Substantial
+Defining Event:
+Unknown or undetermined
+Injuries:
+5 Fatal
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled - Sightseeing
+Analysis 
+The commercial pilot was conducting a 1-hour commercial air tour flight over Denali National Park and 
+Preserve with four passengers on board. About 48 minutes after departure, the Alaska Rescue 
+Coordination Center received an alert from the airplane's emergency locator transmitter. About 7 
+minutes later, company personnel received a call from the pilot, who reported that the airplane had run 
+"into the side of a mountain." Although a search was initiated almost immediately, due to poor weather 
+conditions in the area, the wreckage was not located until almost 36 hours later in a crevasse on a glacier 
+about 10,920 ft mean sea level. Due to the unique challenges posed by the steepness of terrain, the 
+crevasse, avalanche hazard, and the condition of the airplane, neither the occupants nor the wreckage 
+were recovered from the accident site. 
+A weather model sounding for the area of the accident site estimated broken cloud bases at 700 ft above 
+ground level (agl) with overcast clouds at 1,000 ft agl and cloud tops to 21,000 ft agl and higher clouds 
+above. The freezing level was at 9,866 ft and supported light-to-moderate rime type icing in clouds and 
+precipitation. The on-scene assessment indicated that the right wing impacted snow while the airplane 
+was flying in a wings-level attitude; the right wing had separated from the remainder of the wreckage. 
+Based upon available weather data and forecast models and the impact evidence, it is likely that the pilot 
+entered an area of reduced visibility and was unable to see the terrain before the airplane's right wing 
+impacted the snow.
+The company's organizational structure was such that one group of management personnel oversaw 
+operations in both Anchorage and Talkeetna. Interviews with company management revealed that they 
+were not always aware of the exact routing a pilot would take for a tour; the route was pilot's discretion 
+based upon the weather at the time of the flight to provide the best tour experience. 
+Regarding risk mitigation, the company did not utilize a formal risk assessment process, but rather relied 
+on conversations between pilots and flight followers. This could lead to an oversight of actual risk 
+associated with a particular flight route and weather conditions.

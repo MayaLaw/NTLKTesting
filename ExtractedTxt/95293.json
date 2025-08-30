@@ -1,0 +1,29 @@
+{
+    "Filename": "95293.txt",
+    "Location": "Guttenberg, Iowa",
+    "Accident Number": "GAA17CA317",
+    "Date & Time": "June 3, 2017, 14:00 Local",
+    "Aircraft": "Cessna 177",
+    "Registration": "N34462",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported final seemed normal felt plane drop added heard stall warning horn chirp added full power late left wing sheared impacting street sign airplane came rest left side runway airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation review recorded data automated weather observation station located 12 mile north accident airport revealed time accident wind 210 9 knot airplane landing runway 17 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate approach path resulted left wing impacting street sign",
+        "Top Words": [
+            [
+                "left",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98301.txt",
+    "Location": "St. Johns, Arizona",
+    "Accident Number": "WPR18LA262",
+    "Date & Time": "September 15, 2018, 15:40 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N734FT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Serious",
+    "Analysis": {
+        "Text": "pilot reported initially attempted take airplane accelerating fast enough aborted takeoff pilot decided take longer runway airport airplane 100 ft ground level observed continuing climb pilotrated passengerowner stated stall warning horn sounded airplane began lose altitude subsequently collided stand tree airplane came rest inverted sustained substantial damage wing forward fuselage empennage pilot reported preaccident mechanical malfunction failure airframe engine would precluded normal operation airplane weight 50 lb less maximum gross takeoff weight pilotrated passenger reported thought high density altitude cause accident calculated density altitude 8600 ft time accident according federal aviation administration koch chart given surrounding temperature field elevation airplane would likely experienced 68 decrease normal climb rate thus likely airplane sufficient airspeed climb condition probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

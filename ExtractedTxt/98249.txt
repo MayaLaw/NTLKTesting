@@ -1,0 +1,35 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Lancaster, Ohio
+Accident Number:
+CEN18LA370
+Date & Time:
+August 31, 2018, 13:45 Local 
+Registration:
+N71BN
+Aircraft:
+CUBCRAFTERS CC11-160
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that while descending from cruise flight to traffic pattern altitude, the airplane's 
+engine began to run rough. He applied carburetor heat which made the roughness worse and when he 
+then turned off carburetor heat, the engine lost all power. The pilot executed a forced landing to a farm 
+field where the airplane nosed over in the high vegetation. 
+According to a carburetor icing probability chart, the temperature and dew point were in the range of 
+susceptibility for serious carburetor icing at descent power settings. The pilot's report of the accident 
+listed no mechanical malfunctions or failures of the airplane, and a recommendation to apply carburetor 
+heat earlier at the beginning of the descent.
+Based on the information available the airplane's engine likely lost power due to accumulation of 
+carburetor ice due to the delayed application of carburetor heat.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The delayed application of carburetor heat by the pilot which led to accumulation of carburetor 
+ice, eventual loss of engine power, and the subsequent forced landing in high vegetation.

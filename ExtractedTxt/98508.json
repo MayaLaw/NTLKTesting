@@ -1,0 +1,29 @@
+{
+    "Filename": "98508.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "ANC19CA003",
+    "Date & Time": "October 11, 2018, 12:50 Local",
+    "Aircraft": "Cessna 207",
+    "Registration": "N6492H",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported visual approach 700 ft airplane lost engine power pilot immediately recognized selected fuel tank empty forgotten switch fuel tank flight attempted restore engine power selecting fuel tank fuel remaining activating auxiliary fuel pump partial engine power restored pilot decided land nearby private airstrip approach right wing struck tree pilot continued landing landing roll nosewheel contacted soft gravel nose landing gear collapsed airplane sustained substantial damage right wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot inadequate inflight fuel management resulted fuel starvation subsequent loss engine power subsequent failure maintain clearance tree approach land nearby airstrip",
+        "Top Words": [
+            [
+                "fuel",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "engine",
+                4
+            ]
+        ]
+    }
+}

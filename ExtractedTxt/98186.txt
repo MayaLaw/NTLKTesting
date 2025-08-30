@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Redding, California
+Accident Number:
+WPR18FA244
+Date & Time:
+August 29, 2018, 11:00 Local 
+Registration:
+N7990F
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was departing on a personal flight in his single-engine airplane. Multiple witnesses 
+described the airplane's initial climb as slow and steep, and recounted the airplane entering a left turn 
+before descending to ground contact, consistent with an aerodynamic stall. 
+Although several witnesses reported that the engine sound during the initial climb was abnormal, 
+examination of the engine and airframe revealed no evidence of mechanical malfunctions or failures that 
+would have precluded normal operation. The wing flaps were found extended to 20°; the airplane's 
+owner's manual suggested 10° of flap extension for takeoffs from soft or rough runways; however, the 
+manual also indicates that flaps can reduce the climb to 50 ft. Federal Aviation Administration guidance 
+states that flap deflection of up to 15° primarily produces lift with minimal drag, while flap extension 
+greater than 15° produces a large increase in drag and a significant nose-up pitching moment in high-
+wing equipped airplanes. It is likely that, during the takeoff with 20° of flaps extended, the airplane 
+became airborne at a lower than normal airspeed and entered a climb at a higher than normal nose-up 
+pitch attitude, placing the airplane very close to its critical angle of attack. During the climb, the pilot 
+exceeded the critical angle of attack, likely by allowing the airspeed to decay due to the airplane's nose-
+up pitch attitude, and the airplane entered an aerodynamic stall at an altitude too low for recovery.
+Toxicology testing of the pilot indicated the presence of THC (tetrahydrocannabinol), the active 
+compound in marijuana. There is no known relationship between tissue levels and impairment; 
+therefore, whether the pilot's use of a potentially impairing substance contributed to the accident could 
+not be determined.
+Probable Cause and Findings

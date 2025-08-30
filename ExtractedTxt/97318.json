@@ -1,0 +1,29 @@
+{
+    "Filename": "97318.txt",
+    "Location": "Marysville, California",
+    "Accident Number": "WPR18CA146",
+    "Date & Time": "May 22, 2018, 16:30 Local",
+    "Aircraft": "AYRES CORPORATION S2R G10",
+    "Registration": "N32064",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot reported applying rice seed field throughout day returning land dirt airstrip approach airplane encountered downdraft right main landing gear mlg impacted top seed dispensing truck positioned near approach end airstrip pilot continued landing upon touchdown right mlg collapsed airplane veered right crossed ditch came rest field airplane sustained substantial damage right mlg attachment point fuselage pilot reported mechanical failure malfunction airplane would precluded normal operation pilot landed north reported wind gusting 8 15 knot probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

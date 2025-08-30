@@ -1,0 +1,29 @@
+{
+    "Filename": "97981.txt",
+    "Location": "Holland, Michigan",
+    "Accident Number": "GAA18CA466",
+    "Date & Time": "July 28, 2018, 09:50 Local",
+    "Aircraft": "Vans RV9",
+    "Registration": "N899RV",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing airplane bounced initiated goaround airplane veered left touched back ground impacted tree airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain yaw control goaround finding aircraft yaw control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

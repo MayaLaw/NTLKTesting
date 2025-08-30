@@ -1,0 +1,35 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+FiIlmore, California
+Accident Number:
+WPR19LA016
+Date & Time:
+October 27, 2018, 10:45 Local 
+Registration:
+N6834R
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that, after a normal departure, he climbed the airplane to a cruise altitude about 4,000 ft 
+mean sea level (msl) and configured it for cruise flight. Thereafter, the engine experienced a sudden total 
+loss of power. Despite his attempts to troubleshoot the failure, he could not restart the engine and 
+performed a forced landing in a dry riverbed. After touchdown, the nose landing gear impacted a rock 
+and collapsed, and the airplane nosed over and came to rest inverted.  
+Examination revealed a cloth towel blocking the turbocharger inlet tube that had become entangled with 
+the turbocharger compressor wheel. The towel likely blocked the inlet air from reaching the cylinders, 
+which resulted in a loss of engine power. The pilot stated that during the last oil change, about 34 flight 
+hours before the accident, he removed the airbox and placed a towel in the inlet scat tubing (not 
+disconnected) in an effort to protect the turbocharger from foreign object damage.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power as a result of the pilot’s failure to remove a towel from the engine’s air 
+induction following maintenance. 

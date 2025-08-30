@@ -1,0 +1,29 @@
+{
+    "Filename": "94003.txt",
+    "Location": "San Antonio, Texas",
+    "Accident Number": "GAA16CA481",
+    "Date & Time": "September 8, 2016, 18:28 Local",
+    "Aircraft": "Stinson L 5",
+    "Registration": "N178",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot tailwheel equipped airplane reported landing roll airplane veered runway right ground looped nosed airplane sustained substantial damage left wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll finding aircraft directional control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "control",
+                3
+            ]
+        ]
+    }
+}

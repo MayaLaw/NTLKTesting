@@ -1,0 +1,41 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Mason City, Iowa
+Accident Number:
+GAA18CA545
+Date & Time:
+September 8, 2018, 11:45 Local 
+Registration:
+N669HT
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the battery was too low to start the engine, so he asked fixed-base operator 
+personnel if they could assist with a jumper pack. They told him that they did not have anyone on duty 
+authorized to assist and that he would have to wait a couple of days. He decided to start the engine by 
+hand propping. Before he began hand propping, he set the parking brake. Following the engine start, the 
+airplane began to move forward. The pilot attempted to re-enter the airplane to apply the brakes, but the 
+airplane struck a hangar. 
+The airplane sustained substantial damage to the left wing.
+The Federal Aviation Administration inspector who examined the airplane after the accident reported 
+that the parking brake functioned normally. He added that the pilot stated that he was sure he set the 
+brakes but that he may not have gotten enough pressure to hold the airplane. 
+The Federal Aviation Administration's Airplane Flying Handbook, FAA-H-8083-3A, contained a 
+section titled "Hand Propping" which states the following:
+An engine should not be hand propped unless two people, both familiar with the airplane and hand 
+propping techniques, are available to perform the procedure. The person pulling the propeller blades 
+through directs all activity and is in charge of the procedure. The other person, thoroughly familiar with 
+the controls, must be seated in the airplane with the brakes set. As an additional precaution, chocks may 
+be placed in front of the main wheels. If this is not feasible, the airplane's tail may be securely tied. 
+Never allow a person unfamiliar with the controls to occupy the pilot's seat when hand propping. The 
+procedure should never be attempted alone. 
+Probable Cause and Findings

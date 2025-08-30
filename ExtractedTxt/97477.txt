@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Caddo Mills, Texas
+Accident Number:
+GAA18CA346
+Date & Time:
+June 13, 2018, 18:35 Local 
+Registration:
+N82303
+Aircraft:
+Piper PA32R
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The solo student pilot reported that, during the landing flare, the gear-retracted warning horn sounded. 
+The propeller struck the ground, and he applied full throttle and initiated a go-around. The engine began 
+"bucking," so he decided to lower the landing gear and land on the remaining runway. He applied 
+forward pressure to the yoke to level the airplane, but the airplane touched down hard and came to rest 
+upright, off the left side of the runway.
+The student reported that he should have verified the configuration of the landing gear before landing. 
+He added that he did not use a prelanding checklist. 
+The airplane sustained substantial damage to the right wing.
+The student reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to extend the landing gear before landing and to follow the Before Landing 
+checklist, which resulted in an attempted go-around and subsequent hard landing. 

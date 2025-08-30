@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Salisbury, North Carolina
+Accident Number:
+WPR18LA194
+Date & Time:
+June 29, 2018, 16:03 Local 
+Registration:
+N8440F
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed with his passengers on a cross-country flight with the main and auxiliary fuel tanks at 
+full capacity. About 2 hours and 18 minutes into the flight, the engine lost total power. The pilot was 
+unable to restart the engine and declared an emergency. The controller provided vectors to a nearby 
+airport, where the airplane landed hard, resulting in substantial damage.
+First responders reported that they drained about 55 gallons of fuel from the airplane after the accident 
+and an additional, unquantified amount spilled onto the ground; however, the fuel was drained before 
+the airplane could be examined and the amount of fuel onboard and its distribution at the time of the 
+accident could not be confirmed. Data retrieved from an onboard engine monitoring system showed 
+erratic fuel flow indications concurrent with a sudden decrease in exhaust gas temperatures. These 
+erratic fuel flow indications suggest the possibility that the transducer was pulling in air due to an 
+interruption in fuel flow, which may have been the result of fuel starvation or an introduction of air 
+within the fuel system upstream of the transducer. The fuel lines were not tested, as they had been cut by 
+recovery personnel. 
+A postaccident examination of the engine revealed no fuel in the line between the engine-driven fuel 
+pump and the fuel servo, which typically captures and retains unused fuel destined for the engine. A 
+subsequent engine run revealed no anomalies of the engine. Given the available information, it is likely 
+that the loss of engine power was the result of fuel starvation; however, whether the fuel starvation was 
+the result of fuel mismanagement or an introduction of air into the fuel system could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

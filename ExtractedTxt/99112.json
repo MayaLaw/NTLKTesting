@@ -1,0 +1,29 @@
+{
+    "Filename": "99112.txt",
+    "Location": "Lakeway, Texas",
+    "Accident Number": "CEN19FA099",
+    "Date & Time": "March 14, 2019, 13:40 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N8620B",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "flight instructor student pilot conducting takeoff landing airport traffic pattern flight instructor pilot ground reported accident airplane engine cutting sputtering following aborted landing witness reported airplane appeared maneuvering return runway airplane entered left turn descended steep nosedown attitude consistent aerodynamic stall common traffic advisory frequency recording captured transmission indicated flight instructor might attempt return airport airplane impacted tree road sign mostly residential area postaccident examination airframe engine revealed mechanical malfunction would precluded normal operation propeller exhibited sign rotation propeller strike mark found ground accident site although witness report indicated possible loss power reason partial loss engine power could determined based postaccident examination partial loss engine power flight instructor attempted turn low altitude failed maintain proper airspeed exceeded airplane critical angle attack resulted aerodynamic stall loss control altitude low recovery probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined flight instructor exceedance airplane critical angle attack maneuvering forced landing resulted aerodynamic stall subsequent loss control",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "loss",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

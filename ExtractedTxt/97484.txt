@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Hesperia, California
+Accident Number:
+WPR18FA171
+Date & Time:
+June 14, 2018, 17:00 Local 
+Registration:
+N580B
+Aircraft:
+Beech A35
+Aircraft Damage:
+Destroyed
+Defining Event:
+Abrupt maneuver
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal flight; witnesses reported that the takeoff and initial climb appeared 
+normal, however something came off the airplane near the end of the runway. The airplane climbed to 
+about 800 ft before the nose dropped and it made a "radical left turn." After the turn, the wings appeared 
+vertical and the airplane lost about 400 ft. The airplane leveled out and appeared to be going back 
+toward the airport, however the nose remained low. The airplane turned right and appeared to align with 
+a road.  The airplane then struck powerlines that were parallel to the road, impacted the ground, caught 
+on fire, and came to rest inverted. The mechanic who worked on the airplane the day before the 
+accident, reported that the airplane had quite a few maintenance issues; he completed a few maintenance 
+items that the pilot wanted fixed. However, the mechanic indicated to the pilot that he shouldn't fly the 
+airplane until the remaining work could be completed. 
+The pilot purchased the airplane less than a year before the accident. The airplane's most recent 
+maintenance logbook entries were inconsistent and contained date corrections. In addition, there was a 
+6-7 year gap between the most recent logbook entries with about 27 hours recorded on the tachometer 
+during that time. 
+Wreckage documentation revealed that several pieces of the spinner and spinner bulkhead had separated 
+shortly after takeoff and were found on the departure end of the runway. Some of the screws remained 
+attached to the spinner and were undamaged, however, a majority of the screw holes were ripped. 
+Metallurgical examination revealed that the fractures across the rivets and rivet holes were consistent 
+with progressive fatigue crack growth. 
+However, postaccident examination of the airframe and engine revealed no other anomalies that would 
+have precluded normal operation. Damage signatures to the propeller blades were consistent with the 
+engine producing power at the time of impact and it appears that the pilot should have been able to 
+maintain sufficient altitude and airplane control to return to the airport. 

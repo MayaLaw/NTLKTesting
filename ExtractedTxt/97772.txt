@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Tolani Lake, Arizona
+Accident Number:
+WPR18LA197
+Date & Time:
+July 12, 2018, 03:05 Local 
+Registration:
+N617MM
+Aircraft:
+Beech 90
+Aircraft Damage:
+Substantial
+Defining Event:
+Inflight upset
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot reported that the airplane was climbing in instrument meteorological conditions with light rain 
+and with the autopilot engaged. The conditions were smooth with no turbulence and no known icing, 
+although he had engaged all anti-icing systems. The airplane was climbing at 600 ft per minute at an 
+airspeed of 130 kts from 17,000 ft to 19,000 ft. The pilot reported that he was working on an iPad when 
+it stopped functioning. He said he was resetting the iPad when there was a hard control input to the left 
+as the airplane was passing through about 17,500 ft. The airplane rolled left and pitched down as he 
+attempted to regain control. The pilot reported the autopilot was fighting his control inputs during the 
+event, and he disengaged it to affect the recovery. Onboard data equipment showed a steady increase in 
+airplane pitch attitude and a steady decrease in airspeed before the upset. The airplane spiraled down, 
+losing about 4,000 ft of altitude before the pilot regained control. The pilot manually flew the airplane to 
+its destination and landed safely. The wings were substantially damaged.
+Postaccident examination of the autopilot revealed no mechanical anomalies that would have precluded 
+normal operation. The autopilot computer was removed and examined with no anomalies noted. Thus, 
+the reason for the autopilot deviation could not be determined.  It is likely that the pilot was distracted 
+with resetting the iPad and thus did not adequately monitor the autopilot, which led to his delayed 
+awareness of the autopilot deviation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

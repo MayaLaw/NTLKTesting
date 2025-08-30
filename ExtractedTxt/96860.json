@@ -1,0 +1,29 @@
+{
+    "Filename": "96860.txt",
+    "Location": "Green Valley, Arizona",
+    "Accident Number": "GAA18CA161",
+    "Date & Time": "March 12, 2018, 14:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N418DD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing roll felt though airplane pushed left side runway applied full right rudder left aileron airplane exited left side runway added power prevent airplane nose colliding drainage culvert airplane accelerated impacted tree airplane sustained substantial damage leading edge left wing pilot reported mechanical malfunction failure airplane would precluded normal operation pilot reported wind destination airport 90 10 knot gusting 15 knot airplane landed runway 24 pilot landed runway 24 29percent uphill gradient probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control airplane landing tailwind",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

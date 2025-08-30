@@ -1,0 +1,46 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Winder, Georgia
+Accident Number:
+ERA17FA106
+Date & Time:
+February 16, 2017, 14:00 Local 
+Registration:
+N24695
+Aircraft:
+Beech C23
+Aircraft Damage:
+Substantial
+Defining Event:
+Aircraft loading event
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot, who had recently purchased the airplane, and a flight instructor were conducting a 
+local instructional flight. Another pilot reported that, while approaching the airport for landing, he heard 
+an airplane (likely the accident airplane) announce over the common traffic advisory frequency that they 
+would be departing runway 31; however, he did not see the airplane depart. A witness, who was driving 
+on a highway near airport, observed the accident airplane fly in front of her heading south/southeast. She 
+stated that the airplane seemed to be flying low and fast as it went over the highway. It then began to 
+nose down, then level out, and "tilt to the right." The witness then lost sight of the airplane behind trees.
+The airplane impacted trees and terrain on a southeasterly heading about 500 ft west of the departure end 
+of runway 31 (the runway 13 threshold). Given the location and orientation of the wreckage, it is 
+possible that the flight instructor and student departed runway 31 and were attempting to return to the 
+airport to land on the opposite runway (13) when they experienced a loss of control. As the airplane 
+turned back toward runway 13, the pilots would have encountered an 8-knot gusting to 14-knot tailwind, 
+which would have increased the airplane's ground speed and closure rate with terrain and obstacles 
+surrounding the airport and the runway.
+Weight and balance calculations revealed that, although the airplane was operating below its maximum 
+gross weight at the time of the accident, its center of gravity (CG) was forward of the limit established 
+by the manufacturer. Since airplane stability and control are affected by improper balance, exceedance 
+of the forward limit would likely have resulted in a nose-heavy condition and difficulty in controlling 
+and raising the nose, especially during takeoff and landing.
+Although the reason for the decision to land on the opposite runway could not be determined, it is likely 
+that the airplane's forward CG affected its control characteristics and that the trim required to help 
+relieve the control forces imposed by the forward CG may have resulted in reduced pitch control travel 
+at the lower airspeeds required for approach and landing. Examination of the airplane and engine did not 
+reveal evidence of any preimpact malfunctions or failures that would have precluded normal operation. 
+There was evidence of fuel onboard, and the lack of airframe, flight control, and engine anomalies were 

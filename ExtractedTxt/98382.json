@@ -1,0 +1,29 @@
+{
+    "Filename": "98382.txt",
+    "Location": "Sebring, Florida",
+    "Accident Number": "ERA18LA268",
+    "Date & Time": "September 29, 2018, 12:40 Local",
+    "Aircraft": "Diamond DA20",
+    "Registration": "N397JA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "private pilot piper airplane passenger board landing student pilot diamond airplane flight instructor board performing touchandgo landing intersecting runway day visual meteorological condition airplane flying left traffic pattern respective runway uncontrolled airport pilot piper student pilot diamond stated announced every leg traffic pattern airport published common traffic advisory frequency ctaf diamond landed student adding power initiate takeoff left wing piper landing flaring foot runway impacted tail diamond flight instructor diamond said looking piper saw flying vicinity airport never saw airport traffic pattern pilot piper report seeing diamond collision recording airport ctaf showed radio call diamond heard every leg airport traffic pattern published ctaf frequency collision two garbled radio call piper heard published ctaf frequency postaccident examination piper transceiver revealed set different frequency piper transceiver set correct ctaf frequency communication clear therefore likely pilot piper failed use correct ctaf frequency announced airplane position airport traffic pattern probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "piper",
+                9
+            ],
+            [
+                "diamond",
+                7
+            ],
+            [
+                "airport",
+                7
+            ]
+        ]
+    }
+}

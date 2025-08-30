@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Murfreesboro, Tennessee
+Accident Number:
+ERA19LA028
+Date & Time:
+October 28, 2018, 12:10 Local 
+Registration:
+N5624S
+Aircraft:
+Beech V35
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a cross-country, personal flight. He reported that, during approach to 
+the destination airport, he had to manually extend the landing gear because he noticed the "down" light 
+was not green. A witness who was in the airport terminal reported that he heard the pilot announce on 
+the CTAF that his airplane was having "amperage" issues and that he might have to land with no radios. 
+The pilot then asked him to confirm that the landing gear were extended. The witness went out to the 
+taxiway and checked the landing gear status as the pilot conducted a low pass over the runway. The 
+landing gear was not extended fully. The pilot stated that he attempted to go around but that the airplane 
+was "sucked down" into trees by "a very strong wind" as the airplane proceeded beyond the departure 
+end of the runway.
+ 
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airframe 
+or engine that would have precluded normal operation. Examination of the wreckage revealed that the 
+alternator switch was in the "off" position, which would have prevented the battery from charging and 
+likely led to there being insufficient battery power to extend the landing gear. 
+ 
+The airport's automated weather observation station reported that, about the time of the accident, there 
+was a right quartering headwind at 14 knots, gusting to 19 knots.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

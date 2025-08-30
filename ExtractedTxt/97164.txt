@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Port Angeles, Washington
+Accident Number:
+GAA18CA248
+Date & Time:
+May 2, 2018, 08:00 Local 
+Registration:
+N734QQ
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot reported that, during a cross-country flight over mountainous terrain, he had a tailwind and 
+allowed the airplane to get too close to terrain. He initiated a right turn to avoid rising terrain, but the 
+terrain was "getting close very quickly." The pilot increased the bank angle, and the nose dropped. The 
+pilot then applied forward pressure on the yoke, and full throttle had already been applied. The airplane 
+stalled and then impacted terrain. Both wings and the fuselage sustained substantial damage.
+In the recommendation section of the National Transportation Safety Board Pilot Aviation Accident 
+Report, the pilot reported that his decision to delay the turn away from rising terrain was impulsive and 
+the main reason for this accident. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during a turn away from terrain, which 
+resulted in an accelerated stall. Contributing to the accident was the pilot's decision to delay the turn to 
+avoid terrain. 

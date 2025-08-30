@@ -1,0 +1,29 @@
+{
+    "Filename": "98023.txt",
+    "Location": "Burlington, Washington",
+    "Accident Number": "WPR18CA213",
+    "Date & Time": "July 14, 2018, 08:40 Local",
+    "Aircraft": "Cessna E162",
+    "Registration": "N5202B",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landed uneventfully taxied runup area called flight instructor opened new flight plan taxied runway departure takeoff roll time rotation felt airplane shudder subsequently chose abort takeoff aborted takeoff airplane porpoised nose landing gear collapsed airplane sustained substantial damage fuselage student reported preimpact mechanical failure malfunction airframe engine would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain pitch control aborted takeoff finding personnel issue aircraft control studentinstructed pilot aircraft pitch control attainedmaintained",
+        "Top Words": [
+            [
+                "takeoff",
+                4
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

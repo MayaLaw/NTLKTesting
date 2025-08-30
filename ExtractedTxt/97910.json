@@ -1,0 +1,29 @@
+{
+    "Filename": "97910.txt",
+    "Location": "Lecanto, Florida",
+    "Accident Number": "ERA18TA203",
+    "Date & Time": "July 26, 2018, 17:55 Local",
+    "Aircraft": "Beech C90",
+    "Registration": "N717X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot reported short crosscountry personal flight purchased 40 gallon fuel 20 gallon fuel added wing tank pilot estimated time departure airplane total fuel load 130 gallon 65 gallon wing tank 10 minute departure left engine power surged pilot attempted divert nearby airport left engine lost power approach followed right engine losing power pilot sure airplane could glide runway chose perform forced landing field landing roll right wing impacted tree substantially damaged airplane equipped six fuel tank two interconnected tank wing one tank engine nacelle side airplane fuel flowed respective wing tank nacelle tank engine fuel would gravity feed wing tank nacelle tank however gravity feed work wing tank depleted 28 gallon point fuel transfer pump one wingnacelle must keep fuel moving nacelle tank ultimately engine examination wreckage revealed fuel transfer pump position fuel found nacelle tank 30 gallon fuel found wing tank battery fuel transfer pump turned fuel began flow wing tank respective nacelle tank turning fuel transfer pump starting taxi checklist item therefore unlikely pilot followed checklist forgot turn fuel transfer pump resulted fuel starvation engine subsequent loss power",
+        "Top Words": [
+            [
+                "fuel",
+                16
+            ],
+            [
+                "tank",
+                15
+            ],
+            [
+                "wing",
+                9
+            ]
+        ]
+    }
+}

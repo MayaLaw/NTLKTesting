@@ -1,0 +1,29 @@
+{
+    "Filename": "97490.txt",
+    "Location": "Greenwood, Illinois",
+    "Accident Number": "CEN18LA228",
+    "Date & Time": "June 16, 2018, 10:40 Local",
+    "Aircraft": "RGJ AVIATION LLC JOHNSON AIR",
+    "Registration": "N81047",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "flyin event airline transport pilot attempting shortfield takeoff 2802ft runway pilot added flap increase aircraft performance checked flight control confirmed flap setting takeoff stated rarely used flap airplane require use flap short takeoff roll airplane make model takeoff roll 300 ft pilot stated 1400 ft runway available rotated airplane 50 knot however witness stated airplane back taxied 100 ft past runway threshold turned around appeared getting ready takeoff second witness stated heard pilot make radio transmission going back taxi witness watched airplane back taxi shortly crossed number runway stopped turned around second later pilot applied full throttle airplane began roll forward third witness stated pilot attempted takeoff 600 ft remaining end runway airplane lifted surprisingly quickly perhaps 350 ft west edge runway maybe back shortly takeoff right wing dropped pilot experienced loss aileron control consistent exceedance airplane critical angle attack aerodynamic stall airplane impacted ground right runway cartwheeled coming stop postaccident examination airplane revealed mechanical malfunction failure would precluded normal operation likely pilot took insufficient runway available exceeded airplane critical angle attack probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "runway",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99143.txt",
+    "Location": "Independence, Iowa",
+    "Accident Number": "GAA19CA173",
+    "Date & Time": "March 15, 2019, 17:30 Local",
+    "Aircraft": "Pereira Osprey",
+    "Registration": "N822GC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported airplane encountered significant headwind flight engine burned fuel planned fuel exhausted resulted loss engine power pilot subsequently conducted forced landing right wing struck ground airplane sustained substantial damage right wing pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper fuel planning resulted fuel exhaustion total loss engine power finding personnel issue fuel planning pilot aircraft fuel fluid level",
+        "Top Words": [
+            [
+                "fuel",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

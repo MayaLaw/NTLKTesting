@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Farmingdale, New York
+Accident Number:
+GAA18CA291
+Date & Time:
+May 21, 2018, 18:00 Local 
+Registration:
+N5560W
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, on short final, the airspeed was about 65 to 70 knots with full flaps, and he 
+observed the two precision approach path lights indicating two white lights. The left wing dropped, and 
+he did not hear the stall warning horn. The left main landing gear touched down hard, the right main 
+landing gear collapsed, and the airplane veered off the runway to the right. The pilot reported that the 
+airplane hit an "air pocket" and crashed. 
+A witness, located on the ramp, observed the airplane head-on coming in very low and slow. He saw the 
+airplane aerodynamically stall, and the right wing drop. The right wing impacted the ground, followed 
+by the right main landing gear and then the nose landing gear. The landing gear assemblies separated 
+from the airplane, which skidded to an abrupt halt.
+The airplane sustained substantial damage to both wings.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during short final, which resulted in an 
+aerodynamic stall and hard landing.

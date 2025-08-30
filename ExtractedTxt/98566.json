@@ -1,0 +1,29 @@
+{
+    "Filename": "98566.txt",
+    "Location": "Elba, Alabama",
+    "Accident Number": "ERA19LA031",
+    "Date & Time": "October 28, 2018, 15:00 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N20BK",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "takeoff roll instructional flight instructor noticed airspeed increasing 50 knot aborted takeoff airplane overran runway end collided berm resulting substantial damage airplane recovered examination pitotstatic system test revealed significant error airspeed indication due leak system airplane maintenance log provided review maintenance history pitot static system could determined probable cause finding national transportation safety board determines probable cause accident leak pitotstatic system reason could determined based available information resulted airspeed indication error aborted takeoff subsequent runway overrun finding aircraft general malfunction environmental issue general contributed outcome",
+        "Top Words": [
+            [
+                "system",
+                4
+            ],
+            [
+                "takeoff",
+                3
+            ],
+            [
+                "airspeed",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99202.txt",
+    "Location": "Aberdeen, Mississippi",
+    "Accident Number": "CEN19TA112",
+    "Date & Time": "March 29, 2019, 17:45 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N8397W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot passenger recently purchased airplane repositioning airplane destination airport according passenger student pilot pilot acting pilotincommand manipulating flight control passenger stated flight uneventful landing landing flare airplane slightly left runway centerline suddenly veered left touchdown airplane continued left side runway pilot applied full power attempted abort landing aborted landing airplane collided airport perimeter fence continued ditch pilot memory accident flight postaccident airplane examination reveal mechanical malfunction failure would precluded normal operation flap found fully extended likely pilot maintain directional control landing airplane gain enough altitude goaround attempt avoid airport perimeter fence probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control airplane landing resulted collision fence impact terrain attempted aborted landing",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "landing",
+                7
+            ]
+        ]
+    }
+}

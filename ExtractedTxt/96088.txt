@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Elbert, Colorado
+Accident Number:
+CEN17LA367
+Date & Time:
+September 13, 2017, 13:37 Local 
+Registration:
+N812SM
+Aircraft:
+MILLER STEVEN M RV6 A
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that he was conducting a personal, cross-country flight and that, when he was 
+about 5 miles from his destination airport, he checked the AWOS, which reported wind from 280° at 24 
+knots, gusting to 32 knots. He checked the AWOS again while entering the base leg for runway 27, and 
+the reported wind had not changed. Upon turning to final, the pilot felt strong wind and added power to 
+stay higher than a normal approach. With flaps set to 40°, the pilot decreased power and started to flare 
+the airplane. The wheels hit the runway hard, the airplane bounced, and a wind gust pushed the airplane 
+left off the runway. After the airplane bounced again, the pilot added power and attempted a go-around. 
+Subsequently, the airplane again exited the left side of the runway and struck a cistern and a fence and 
+then came to rest inverted. Based on the evidence, it is likely that the pilot improperly flared the airplane 
+in strong gusting wind conditions, which resulted in the airplane bouncing and the subsequent loss of 
+directional control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare in strong gusting wind conditions, which resulted in a bounced 
+landing, and his loss of directional control during an attempted go-around, which resulted in a runway 
+excursion and impact with objects.

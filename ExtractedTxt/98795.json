@@ -1,0 +1,29 @@
+{
+    "Filename": "98795.txt",
+    "Location": "Mayport, Florida",
+    "Accident Number": "ERA19LA072",
+    "Date & Time": "December 20, 2018, 09:04 Local",
+    "Aircraft": "Piper PA46",
+    "Registration": "N307JM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot pilotrated passenger departed instrument flight rule personal crosscountry flight climbed first 19000 ft mean sea level msl 23000 ft msl several minute later weather air traffic control radar information indicated airplane operating area heavy precipitation 20 minute entered descending right turn section right wing separated airplane descended airplane impacted water performance calculation revealed shortly airplane began descent airspeed decreased 77 90 knot indicated kias airplane published stall speed maximum gross weight 69 kias accumulation ice unprotected area airframe increased airplane stall speed aerodynamic buffeting occurring 19 knot normal stall speed manufacturer stated flight icing condition conducted speed lower 130 kias postaccident examination airplane flight control icing protection system component revealed evidence preimpact failure malfunction filament stall warning fail windshield heat fail warning light bulb broken stretched potentially consistent illumination impact could determined portion flight bulb might illuminated based environmental condition time stall warning system likely accurate reliable although fatigue crack noted right wing spar web crack contribute inflight breakup pilot received preflight weather briefing included convective sigmet outlook airmet icing 14000 ft 27000 ft msl valid area accident site time accident although pilot access specific icing forecast likely understated potential icing condition sufficient information available pilot indicate possible icing chosen cruise altitude airplane operating freezing level near top mature cumulus cloud",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "icing",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

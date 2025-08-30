@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Mojave, California
+Accident Number:
+ANC18LA042
+Date & Time:
+June 4, 2018, 11:52 Local 
+Registration:
+VH-XMH
+Aircraft:
+GIPPSAERO PTY LTD GA10
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+The airplane manufacturer was conducting spin flight testing for the installation of a cargo pod when the 
+airplane exhibited aberrant behavior and the testing was halted. The chief design engineer (CDE) was 
+consulted, and, to provide a margin of safety for further flights, a forward center of gravity position was 
+authorized for flaps up and flaps takeoff entries to gain more insight into the airplane's behavior on the 
+previous flight. At the final briefing, before the next flight, the flight crew added spins with flaps in the 
+landing configuration (flaps landing) into the test plan without the CDE's consultation or authorization. 
+According to the pilot flying, after two wings-level, power on, flaps landing spins with left rudder and 
+right aileron, a third spin entry was flown in the same configuration except that the entry was from a 30° 
+left-bank turn. The airplane entered a normal spin, and, at one turn, flight controls were inputted for a 
+normal recovery; however, the airplane settled into a fully developed spin. When recovery attempts 
+failed, the decision was made to deploy the anti-spin parachute. After repeated unsuccessful attempts to 
+deploy the anti-spin parachute, and when the airplane's altitude reached about 500 ft above the briefed 
+minimum bailout altitude, both pilots called for and executed a bailout. The airplane impacted the 
+ground and was destroyed.
+A postaccident examination of the anti-spin parachute system revealed that half of the connector hook 
+had opened, which allowed the activation pin lanyard for the anti-spin parachute to become disengaged. 
+Based on the airplane's previous aberrant behavior and the conservative parameters that the CDE had 
+previously set, it is not likely that the CDE would have authorized abused spin entries without a prior 
+testing buildup to those entries. Thus, the flight crew made an inappropriate decision to introduce flaps 
+landing entry spin testing, and the failure of the anti-spin parachute contributed to the accident.
+Probable Cause and Findings

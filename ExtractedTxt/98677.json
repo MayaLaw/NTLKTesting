@@ -1,0 +1,29 @@
+{
+    "Filename": "98677.txt",
+    "Location": "Benson, Arizona",
+    "Accident Number": "GAA19CA072",
+    "Date & Time": "November 23, 2018, 08:30 Local",
+    "Aircraft": "BELLANCA    7GCBC",
+    "Registration": "N50340",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing right wing lifted airplane drifted left added overcorrected airplane veered right runway left main landing gear caught dirt collapsed left wing impacted ground airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported 15 minute accident wind condition variable calm probable cause finding national transportation safety board determines probable cause accident pilot overcorrection landing resulted loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98317.txt",
+    "Location": "Cottonwood, Arizona",
+    "Accident Number": "WPR18FA266",
+    "Date & Time": "September 17, 2018, 09:45 Local",
+    "Aircraft": "Beech 33",
+    "Registration": "N2031D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "owner airplane pilot completed crosscountry flight upon landing owner disembarked pilot departed alone return flight radar data showed airplane entered traffic pattern origination airport conclusion return flight turning onto final leg traffic pattern landing airplane continued descend impacted roof home 14 mile approach end runway witness responded site immediately accident stated pilot said something engine problem left wing fuel tank mostly intact tank contained trace amount fuel inboard right wing including fuel tank mostly consumed postcrash fire fuel selector found right tank position postaccident examination airplane test run engine revealed evidence mechanical malfunction anomaly would precluded normal operation owner airplane stated departed first leg flight airplane fueled capacity 30 minute flight switched fuel selector right tank left tank fuel consumption information airplane pilot operating handbook indicated airplane flew remainder first leg flight entire return flight left fuel tank selected fuel consumed would equal usable fuel available tank given lack fuel found intact left main tank lack mechanical anomaly found examination pilot report engine problem likely pilot failed switch fuel selector return flight resulted fuel starvation total loss engine power possible pilot switched fuel tank following loss power airplane low altitude time power loss provided inadequate time restore fuel flow engine power airplane impacted ground probable cause finding",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "airplane",
+                10
+            ],
+            [
+                "tank",
+                10
+            ]
+        ]
+    }
+}

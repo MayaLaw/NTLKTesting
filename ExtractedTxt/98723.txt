@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Casa Grande, Arizona
+Accident Number:
+GAA19CA084
+Date & Time:
+November 27, 2018, 18:30 Local 
+Registration:
+N5668W
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing area undershoot
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The solo student pilot reported that, while on final approach at night, he slowed the airplane to about 87 
+knots and extended 20º of flaps. He then realized the airplane's altitude was low, so he initiated a go-
+around, but the right main landing gear struck a fence, and the airplane impacted terrain. 
+The airplane sustained substantial damage to the left wing. 
+The student reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain a proper glidepath during the approach, which resulted in impact 
+with a fence and terrain. 
+Findings
+Aircraft
+Descent/approach/glide path - Not attained/maintained
+Personnel issues
+Aircraft control - Student/instructed pilot

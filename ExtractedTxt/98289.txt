@@ -1,0 +1,40 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Atlanta, Georgia
+Incident Number:
+ENG18IA036
+Date & Time:
+September 5, 2018, 23:32 Local 
+Registration:
+N668DN
+Aircraft:
+Boeing 757
+Aircraft Damage:
+Minor
+Defining Event:
+Uncontained engine failure
+Injuries:
+N/A
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+The high-pressure turbine (HPT) uncontainment was caused by the failure of a rotating seal 
+located between the HPT 1st-stage (S1) disk and 2nd-stage (S2) hub (the lenticular seal). The 
+lenticular seal outer structure separated from an inner brace piece and unwound, 
+destroying the turbine. Seal fragments breached the turbine cases. A fragment traveled 
+forward, destroying the HPT S1 blades and penetrating the S1 turbine nozzle assembly and 
+combustor, damaging a fuel nozzle stem, and releasing fuel.
+ The crack initiation site was destroyed by secondary damage. Although the failure mode 
+was not determined, PW2000 engine lenticular seal cracks are a known failure associated 
+with knife edge tip fatigue cracks that originate at the first or second knife edge tip and 
+propagate down the knife edge pedestal to the barrel. Past root cause investigations 
+determined that normal knife edge rub can cause local increases in knife edge tip 
+temperature when the knife edge coating is worn and has begun to spall. Continued rub 
+with degraded knife edge coating creates a heat affected zone at the knife edge tip that can 
+lead to thermo-mechanical fatigue (TMF) and tip crack initiation. TMF is more likely to 
+develop with second run seals matched with new honeycomb material. 
+Review of the engine service records found that the failed lenticular seal was installed new 
+during a 2008 overhaul when the engine had accumulated 61,385 time since new (TSN) and 
+25,462 cycles since new (CSN). The seal was visually inspected and reinstalled during a 
+2013 overhaul at 74,042 TSN and 31,701 CSN. During the 2013 shop visit, 40% of the 

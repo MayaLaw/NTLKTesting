@@ -1,0 +1,29 @@
+{
+    "Filename": "98820.txt",
+    "Location": "Santa Ana, California",
+    "Accident Number": "WPR19LA050",
+    "Date & Time": "December 22, 2018, 16:22 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N15321",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "shortly takeoff instructional flight engine lost total power flight instructor took airplane control returned airport forced landing airplane landed hard taxiway resulting substantial damage postaccident examination revealed carburetor bowl loose displayed evidence fuel leak leak likely resulted fuel flow irregularity loss engine power although service bulletin published carburetor engine manufacturer address issue evidence suggest accident airplane undergone inspection specified service bulletin probable cause finding national transportation safety board determines probable cause accident total loss engine power due loose carburetor bowl finding aircraft fuel controlcarburetor damageddegraded",
+        "Top Words": [
+            [
+                "engine",
+                4
+            ],
+            [
+                "power",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

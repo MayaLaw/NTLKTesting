@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Sugar Land, Texas
+Accident Number:
+CEN18LA382
+Date & Time:
+September 19, 2018, 15:04 Local 
+Registration:
+N247F
+Aircraft:
+Cessna 206
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor, 2 None
+Flight Conducted Under:
+Public aircraft
+Analysis 
+The airline transport pilot and the flight instructor were conducting an instructional flight in a public 
+aircraft with an observer on board and proceeded to an airport to conduct instrument approaches. After 
+crossing the final approach fix and before arriving at the missed approach point, the engine lost power. 
+The instructor took control and maneuvered the airplane over a set of power lines. He attempted to 
+maneuver under a second set of power lines when the right wing struck one of the lines. The airplane 
+touched down on a roadway, and its left wing struck a passing vehicle. The landing gear struck the 
+concrete median, yawing the airplane clockwise, and the airplane's tail struck a second vehicle.
+Postaccident engine examination revealed the No. 1 cylinder intake valve had failed. Fractured pieces of 
+the intake valve had been drawn into the intake plenum. The No. 1 cylinder was extensively damaged, 
+and all of the piston heads had impact marks or pieces of valve embedded in the heads. The No. 1 
+cylinder, No. 1 piston, its intake and exhaust valve train components (springs, pushrods, and rocker 
+arms), and 12 hydraulic lifters were sent to the engine manufacturer for metallurgical examination, 
+which revealed that the No. 1 cylinder intake valve had failed in fatigue; however, the root cause of the 
+failure could not be determined due to the extensive damage after the valve failure. Both the intake and 
+exhaust rocker arms had nonconforming shoe heights. In addition, nine of the hydraulic lifters failed the 
+leak-down test, including the No. 1 intake. Maintenance information revealed the engine had been 
+overhauled 4 years earlier, during which all 12 hydraulic lifters were replaced. The intake and exhaust 
+rocker arms had been reworked and reused, and about 0.01 inch of material had been removed from the 
+shoe pads during the overhaul. While the nonconforming rocker arm shoe height and lifter may have 
+contributed to a malfunction of the valve, the investigation could not determine with certainty the reason 
+for the fatigue failure. The fatigue failure of the No. 1 cylinder intake valve resulted in the loss of engine 
+power.
+Probable Cause and Findings

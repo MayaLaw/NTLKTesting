@@ -1,0 +1,46 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+New York, New York
+Accident Number:
+DCA19LA134
+Date & Time:
+April 10, 2019, 20:40 Local 
+Registration:
+N114NN
+Aircraft:
+Airbus A321
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+110 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+This accident occurred when an American Airlines Airbus A321 entered a left roll during 
+takeoff from runway 31L at John F. Kennedy International Airport. The wind at the time 
+resulted in a 14- to 17-knot crosswind from the right, which was below the company’s 35-knot 
+crosswind limitation. The initial takeoff roll proceeded normally, with the captain (the pilot 
+flying) applying left rudder pedal to counter the right crosswind. The captain stated that he 
+kept the airplane near the runway centerline and that “everything was ok” when the airplane 
+reached 80 knots. When the airplane reached the rotation speed of 156 knots while still on the 
+ground, the captain made a large left rudder pedal input, from 8° to 25°, during a 1.5-second 
+timeframe. In response to this large rudder pedal input, the airplane’s heading deviated to the 
+left, and its lateral acceleration increased to a maximum of 0.32 G.
+During a postaccident interview, the captain stated the airplane made a “significant” turn to 
+the left. The captain also stated that he was “looking at the runway edge” and knew he had to 
+get the airplane into the air. Digital flight data recorder (DFDR) data showed that the sidestick 
+was pulled to its full nose-up position and a right sidestick position. During the aft sidestick 
+and right sidestick application to rotate the airplane, the rudder remained close to its full-left 
+deflection for 3 seconds. As the nose of the airplane lifted off the ground, the airplane began to 
+roll to the left, and the left roll rate accelerated as the main landing gear lifted off the ground, 
+reaching a maximum of 37° left wing down as the captain moved the rudder and sidestick to 
+full right and to full aft. These movements arrested the left roll and allowed the airplane to 
+continue to lift off.  
+The large left roll angle immediately after liftoff resulted in the left wingtip striking the ground 
+and a runway distance marker, part of which remained imbedded in the wingtip. Airbus 
+engineering simulations performed as part of this investigation demonstrated that the several 
+seconds of near-maximum left rudder generated a rolling moment after the gear had left the 
+ground to impart the left roll rate that the DFDR recorded. No airplane flight control 

@@ -1,0 +1,29 @@
+{
+    "Filename": "97539.txt",
+    "Location": "Morrilton, Arkansas",
+    "Accident Number": "GAA18CA365",
+    "Date & Time": "June 19, 2018, 08:15 Local",
+    "Aircraft": "CRAIG A REED STARDUSTER II",
+    "Registration": "N969TM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped biplane performing touchandgo takeoff landing landing roll biplane veered right aborted landing however biplane failed gain altitude exited right side runway collided drainage culvert biplane rolled 50 ft field right side runway stopped biplane sustained substantial damage lower right wing spar pilot reported mechanical malfunction failure biplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot loss directional control aborted landing",
+        "Top Words": [
+            [
+                "biplane",
+                6
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

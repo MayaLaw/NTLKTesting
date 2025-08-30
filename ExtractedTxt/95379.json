@@ -1,0 +1,29 @@
+{
+    "Filename": "95379.txt",
+    "Location": "Pocahontas, Arkansas",
+    "Accident Number": "GAA17CA342",
+    "Date & Time": "June 15, 2017, 13:00 Local",
+    "Aircraft": "AIR TRACTOR INC AT 802",
+    "Registration": "N915AJ",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "agricultural application pilot reported initial climb soon airplane broke ground turned left subsequently encountered turbulence caused left wing dip added applied full right aileron rudder airplane continued sink turn left subsequently left wing impacted terrain airplane cartwheeled postcrash fire ensued fuselage empennage wing sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation automated weather observation station 12 nautical mile south accident site reported time accident calm wind clear sky temperature 84f 29c dew point 64f 18c probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateralbank control initial climb turbulent condition",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "left",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

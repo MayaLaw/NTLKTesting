@@ -1,0 +1,45 @@
+Page 1 of 23
+Aviation Investigation Final Report
+Location:
+Presque Isle, Maine
+Accident Number:
+DCA19FA089
+Date & Time:
+March 4, 2019, 11:29 Local 
+Registration:
+N14171
+Aircraft:
+Embraer EMB145
+Aircraft Damage:
+Substantial
+Defining Event:
+Wrong surface or wrong airport
+Injuries:
+3 Minor, 28 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+The flight crew of an Embraer EMB145XR airplane was attempting to land on runway 1 at 
+Presque Isle International Airport (PQI), Presque Isle, Maine. Snow was falling at the time. A 
+Notice to Air Mission issued 2 hours 19 minutes before the accident indicated that runway 1 
+was covered with 1/4 inch of dry snow, and the PQI maintenance foreman stated that the 
+airport had been conducting snow removal operations to maintain that condition on the 
+runway surface. 
+Accident Sequence
+The first instrument landing system (ILS) approach to runway 1 appeared to be proceeding 
+normally until the first officer (the pilot flying) transitioned from instrument references inside 
+the flight deck to outside references. During a postaccident interview, the first officer stated 
+that he expected to see the runway at that time but instead saw “white on white” and a 
+structure with an antenna that was part of the runway environment but not the runway itself. 
+The captain (the pilot monitoring) stated that she saw a tower and called for a go-around. 
+(Both flight crewmembers were most likely seeing the automated weather observing system 
+wind sensor pole, which was located about 325 ft to the right of the runway 1 centerline and 
+about 870 ft beyond the runway threshold, and the damage to the lightning arrester at the top 
+of the wind sensor pole was likely due to contact with the accident airplane as it flew over the 
+pole.) According to the cockpit voice recorder (CVR), after the go-around, the first officer asked 
+the captain if she saw the runway lights during the approach. The captain responded that she 
+saw the lights but that “it’s really white down there that’s the problem.” 
+Airport personnel stated that snow plowing operations on the runway had finished about 10 
+minutes before the first approach. The CVR recorded the flight crew’s discussion about turning 
+on the pilot-controlled runway lights and sounds similar to microphone clicks before and after 
+the discussion. However, the PQI maintenance foreman stated that, after the first approach, 

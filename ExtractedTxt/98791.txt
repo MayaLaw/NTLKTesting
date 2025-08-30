@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Beaumont, Kansas
+Accident Number:
+CEN19LA046
+Date & Time:
+December 15, 2018, 08:30 Local 
+Registration:
+N2496N
+Aircraft:
+Cessna 120
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a personal cross-country flight. He reported that, upon landing the 
+airplane on a turf runway, the airplane began to pull right. He applied left rudder to try to keep the 
+airplane going straight. As the airplane continued to pull right, the pilot applied full left rudder and full 
+aft elevator and tried applying the left brake. The empennage rose up, so he stopped using the left brake 
+and just used the left rudder. Subsequently, the airplane nosed over, which resulted in substantial 
+damage to the airplane. The pilot stated that the right brake was locked during the landing. The brake 
+was subsequently unlocked to facilitate moving the airplane from the runway.
+An examination of the turf runway revealed surface witness marks consistent with a locked right brake. 
+However, during examination of the airplane, no anomalies were found that would have caused the right 
+brake to lock; therefore, the reason the right brake was locked upon landing could not be determined. 
+Given the available evidence, the airplane likely nosed over during the landing roll as the pilot attempted 
+to compensate for the locked right brake.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The right brake being locked during the landing roll on the turf runway for reasons that could not be 
+determined during postaccident examinations, which resulted in a noseover. 

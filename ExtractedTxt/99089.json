@@ -1,0 +1,29 @@
+{
+    "Filename": "99089.txt",
+    "Location": "Wyndmere, North Dakota",
+    "Accident Number": "GAA19CA158",
+    "Date & Time": "March 7, 2019, 08:35 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N726",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported hired conduct predator control flight added completing right turn west initiated climbing left turn east 75 ft ground level airplane banked violently right back left twothree time descended impacted snowcovered ground airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation hiring agency check pilot reported postaccident flight review accident pilot pilot apply rudder input turn resulted uncoordinated turn similar occurred accident probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack uncoordinated turn maneuvering low altitude resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "turn",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

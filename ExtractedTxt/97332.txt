@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Qulin, Missouri
+Accident Number:
+CEN18LA194
+Date & Time:
+May 27, 2018, 12:00 Local 
+Registration:
+N6180J
+Aircraft:
+AIR TRACTOR INC AT 502B
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot reported that the agricultural airplane was loaded with 2,700 lbs of product and 130 to 140 
+gallons of fuel. He stated that the engine gauges had normal indications but that, during the takeoff, the 
+airplane's tailwheel was still on the ground when the airplane was about 3/4 down the runway, and the 
+airplane did not become airborne before the end of the runway. When the airplane reached the end of the 
+runway, he applied full flaps to "jump" a drainage ditch at the end. The airplane then impacted the 
+ground on the opposite side of the ditch and incurred substantial damage to the wings, landing gear, aft 
+fuselage, and tail surfaces. Postaccident examination of the airplane revealed no preimpact mechanical 
+malfunctions or failures that would have precluded normal operation. Based on the reported fuel and 
+product load on board, the airplane's calculated gross weight was about 523-574 lbs over the airplane's 
+maximum gross weight. In addition, the density altitude at the time of the accident was about 2,200 ft.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper weight-and-balance calculations and his decision to take off with the airplane at a 
+high gross weight in high density altitude conditions, which resulted in an attempted takeoff that 
+exceeded the airplane's performance capability. Also causal was the pilot's failure to abort the takeoff 
+while sufficient runway remained.

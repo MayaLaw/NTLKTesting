@@ -1,0 +1,29 @@
+{
+    "Filename": "99263.txt",
+    "Location": "Seward, Alaska",
+    "Accident Number": "GAA19CA205",
+    "Date & Time": "April 13, 2019, 15:30 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N3821P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing remote site shortly touchdown airplane veered right felt strong left crosswind push airplane right applied full power go around airplane continued right main landing gear impacted snowbank left wing impacted terrain airplane sustained substantial damage left wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control attempted goaround resulted impact snowbank finding aircraft directional control attainedmaintained personnel issue aircraft control pilot environmental issue snowice effect operation",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "right",
+                3
+            ]
+        ]
+    }
+}

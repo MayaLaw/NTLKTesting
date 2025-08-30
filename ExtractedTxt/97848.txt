@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Coldwater, Kansas
+Accident Number:
+CEN18LA286
+Date & Time:
+July 20, 2018, 13:15 Local 
+Registration:
+N306FR
+Aircraft:
+Vans RV6
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was attempting a wheel landing in the tailwheel-equipped airplane after a cross-country flight. 
+He reported that winds were gusty during the long, straight-in approach and that he increased airspeed to 
+compensate for the gusts. During the approach to landing, the airplane encountered turbulent air, and a 
+gust of wind caused the airplane to balloon about 8-12 ft above the runway. The pilot initiated a go-
+around and said he added full power when the engine hesitated and "stuttered." The airplane settled, the 
+right wing struck the ground, and the airplane spun before it came to rest. A postimpact fire ensued, 
+which consumed most of the cockpit and fuselage. Thermal damage precluded a thorough engine 
+examination.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of control while landing a tailwheel-equipped airplane in gusting wind conditions.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Environmental issues
+Gusts - Effect on operation

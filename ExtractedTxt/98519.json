@@ -1,0 +1,29 @@
+{
+    "Filename": "98519.txt",
+    "Location": "Plant City, Florida",
+    "Accident Number": "ERA19LA021",
+    "Date & Time": "October 18, 2018, 14:05 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N3631K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported practicing flight maneuver returning departure airport approached airport entered downwind leg traffic pattern touchandgo landing touchandgo landing airplane climbing accelerating engine began sputtering several time lost power completely pilot performed forced landing tree airplane wing fuselage substantially damaged postaccident examination engine reveal evidence mechanical malfunction failure would precluded normal operation based pilot description fuel onboard time departed duration flight sufficient fuel available loss engine power occurred pilot also reported time loss engine power carburetor heat report activating prior following time engine began losing power temperature dew point time accident conducive formation carburetor icing given information likely loss engine power due formation carburetor ice approach landing subsequent takeoff probable cause finding national transportation safety board determines probable cause accident pilot failure utilize carburetor heat condition conducive formation",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "time",
+                5
+            ]
+        ]
+    }
+}

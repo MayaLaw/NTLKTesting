@@ -1,0 +1,29 @@
+{
+    "Filename": "99149.txt",
+    "Location": "Sanford, Florida",
+    "Accident Number": "ERA19TA133",
+    "Date & Time": "March 13, 2019, 22:15 Local",
+    "Aircraft": "Cessna 650",
+    "Registration": "N220CM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot stated landing airplane night taxiway normally used occupied taxied toward ramp via alternate taxiway approached ramp four five airplane ramp pilot asked copilot area clear right side pilot referring ground path copilot thought referring airplane copilot replied clear pilot turned right airplane exited taxiway onto grass nosewheel struck concrete resulted substantial damage fuselage structure nose landing gear pilot reported preimpact mechanical malfunction airplane probable cause finding national transportation safety board determines probable cause accident pilot failure keep airplane taxiway taxiing night contributing accident miscommunication flight crewmembers position airplane",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "taxiway",
+                4
+            ]
+        ]
+    }
+}

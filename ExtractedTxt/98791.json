@@ -1,0 +1,29 @@
+{
+    "Filename": "98791.txt",
+    "Location": "Beaumont, Kansas",
+    "Accident Number": "CEN19LA046",
+    "Date & Time": "December 15, 2018, 08:30 Local",
+    "Aircraft": "Cessna 120",
+    "Registration": "N2496N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot conducting personal crosscountry flight reported upon landing airplane turf runway airplane began pull right applied left rudder try keep airplane going straight airplane continued pull right pilot applied full left rudder full aft elevator tried applying left brake empennage rose stopped using left brake used left rudder subsequently airplane nosed resulted substantial damage airplane pilot stated right brake locked landing brake subsequently unlocked facilitate moving airplane runway examination turf runway revealed surface witness mark consistent locked right brake however examination airplane anomaly found would caused right brake lock therefore reason right brake locked upon landing could determined given available evidence airplane likely nosed landing roll pilot attempted compensate locked right brake probable cause finding national transportation safety board determines probable cause accident right brake locked landing roll turf runway reason could determined postaccident examination resulted noseover",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "brake",
+                9
+            ],
+            [
+                "right",
+                8
+            ]
+        ]
+    }
+}

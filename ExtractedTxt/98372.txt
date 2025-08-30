@@ -1,0 +1,36 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+La Verne, California
+Accident Number:
+WPR18FA279
+Date & Time:
+September 29, 2018, 18:00 Local 
+Registration:
+N46321
+Aircraft:
+Cessna 177RG
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and passenger were departing the airport; a witness stated that he heard backfiring during the 
+airplane's takeoff roll. He then observed the airplane become airborne and the landing gear start to 
+retract. About 1 minute 30 seconds after the pilot received take off clearance, the pilot requested a return 
+to the airport due to an engine problem. The air traffic controller cleared the pilot to land on runway 8L, 
+and the pilot subsequently initiated a right turn. The witness then observed the airplane descend to the 
+ground in a nose-low attitude. It is likely that, while returning to the airport after takeoff, the pilot failed 
+to maintain the proper airspeed, which resulted in the exceedance of the airplane's critical angle of attack 
+and the airplane experienced an aerodynamic stall. 
+Examination of the airframe and engine did not reveal any anomalies that would have precluded normal 
+operation and the cause of the engine problem, as reported by the pilot, could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed and the exceedance of the airplane's critical angle of 
+attack during a turn, which resulted in an aerodynamic stall and subsequent loss of control. Contributing 
+to the accident was an undetermined engine anomaly. 

@@ -1,0 +1,34 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Aguila, Arizona
+Accident Number:
+WPR18LA174
+Date & Time:
+June 19, 2018, 12:00 Local 
+Registration:
+N764CT
+Aircraft:
+CIRRUS DESIGN CORP SR22
+Aircraft Damage:
+Destroyed
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During a cross-country flight, the pilot observed a significant increase in the engine oil 
+pressure followed by a sudden drop. He prepared for an emergency landing during which the 
+engine speed increased and the engine lost power. The cabin then filled with smoke and oil 
+covered the windshield. The pilot was able to activate the airplane’s parachute and the airplane 
+landed about 5 seconds later in a ravine. The airplane was destroyed by a postcrash fire. 
+A postaccident examination of the engine revealed evidence of a pre-ignition/detonation event 
+that partially eroded the Nos. 2 and 5 pistons. The eroded pistons permitted the pressurization 
+of the crankcase, which resulted in oil starvation of the engine. Due to the severe fire damage, 
+the cause of the preignition/detonation could not be determined. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to pre-ignition/detonation for reasons that could not be 
+determined based on available information. 

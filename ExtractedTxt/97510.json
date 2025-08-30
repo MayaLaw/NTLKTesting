@@ -1,0 +1,29 @@
+{
+    "Filename": "97510.txt",
+    "Location": "Winnsboro, Georgia",
+    "Accident Number": "GAA18CA356",
+    "Date & Time": "June 18, 2018, 11:30 Local",
+    "Aircraft": "JABIRU USA SPORT AIRCRAFT LLC",
+    "Registration": "N584J",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according flight instructor light sport airplane pilot left seat flown receiving instruction complete flight review airplane equipped single control stick landing flare pilot applied forward stick airplane impacted runway hard nose landing gear right main landing gear collapsed airplane exited right side runway came stop grass safety area airplane sustained substantial damage engine mount lower fuselage instructor asserted refused instruct airplane one control stick pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing contributing accident flight instructor improper decision provide instruction airplane one control stick",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

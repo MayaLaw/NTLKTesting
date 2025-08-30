@@ -1,0 +1,29 @@
+{
+    "Filename": "99088.txt",
+    "Location": "Atlanta, Georgia",
+    "Accident Number": "DCA19CA105",
+    "Date & Time": "March 10, 2019, 21:17 Local",
+    "Aircraft": "Boeing 737 (A1); Boeing 757 (A2)",
+    "Registration": "N3756 (A1); N591NW",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled (A1); Part 121: Air carrier - Scheduled (A2)",
+    "Aircraft Damage": "Minor (A1);",
+    "Defining Event": "Ground collision",
+    "Injuries": "166 None (A1); 240",
+    "Analysis": {
+        "Text": "march 10 2019 2117 eastern daylight time delta airline flight 1068 boeing 737 b737 n3756 collided delta airline flight 2777 boeing 757 b757 n591nw taxiing along taxiway b hartsfield jackson atlanta international airport katl atlanta georgia injury passenger crew onboard either airplane b757 substantially damaged aircraft operating 14 code federal regulation part 121 regularly scheduled passenger flight b757 landed runway 26r holding short runway 26l taxiway b2 awaiting clearance cross runway taxi ramp b737 landed following b757 cleared taxi along taxiway b victor loop approaching b2 b b737 crew reported taxiing right centerline provide clearance b757 tail left b737 left wingtip contacted b757 tail resulting light shudder aircraft b757 crew reported ground frequency hit b737 crew acknowledged may hit passing along taxiway b b757 remained taxiway maintenance evaluated damage taxied gate deplaned b737 continued taxiing gate deplaned postaccident inspection revealed substantial damage right elevator b757 minor damage left winglet b737 probable cause finding",
+        "Top Words": [
+            [
+                "b757",
+                9
+            ],
+            [
+                "b737",
+                7
+            ],
+            [
+                "taxiway",
+                5
+            ]
+        ]
+    }
+}

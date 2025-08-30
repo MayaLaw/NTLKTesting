@@ -1,0 +1,44 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Payette, Idaho
+Accident Number:
+WPR17FA128
+Date & Time:
+June 17, 2017, 11:45 Local 
+Registration:
+N177TT
+Aircraft:
+PRESCOT E. WILKIE RV-3
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aircraft structural failure
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot purchased the experimental, amateur-built airplane not fully assembled, and 
+he subsequently completed the assembly. The Federal Aviation Administration (FAA) subsequently 
+granted the airplane an airworthiness certificate in the experimental category. About 7 years later, the 
+airplane was disassembled and shipped to the pilot's new home. The accident flight was the airplane's 
+first flight after being reassembled.
+A review of a video of the accident sequence showed that the left wing failed during a relatively benign 
+maneuver as the airplane was descending. Several seconds earlier, the pilot had performed a high-speed, 
+low-altitude pass over the runway with a sharp pullup. This maneuver would have produced much 
+higher wing loads than those at the time of wing failure, and it is possible that the pull-up maneuver 
+caused a localized buckling failure of the left-wing upper spar cap that further reduced its strength.
+The accident airplane model has a history of in-flight wing separations. After a series of accidents, the 
+kit manufacturer conducted extensive testing and provided owners/builders with suggested 
+modifications for the airplane. The testing showed that the optional bonding of the spar caps together as 
+a unit during assembly provided better resistance to buckling. The testing also showed that the initiating 
+failure of the RV-3 wing was the buckling of the upper spar cap. The first modification to the RV-3 
+wing (Change Notice [CN] -1 issued in 1984) involved reinforcing the rear spar attachment point and 
+strengthening the wing root rib. The second modification to the RV-3 wing (CN-2-I or CN-2-II, issued 
+in 1996) involved the addition of stiffening angles to the main spar, which it deemed necessary for 
+aerobatic strength.
+Examination of the accident airplane revealed that the wing spar and carry-through had been modified 
+by the addition of 0.125-inch-thick doublers on both the rear spar and center section. However, the rear 
+spar attachment point was still a single-shear configuration. The wing root rib on both wings was 0.020 
+inch thick and had not been modified. This evidence indicates that the airplane had not been modified in 

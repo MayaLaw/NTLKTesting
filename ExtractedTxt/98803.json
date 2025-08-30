@@ -1,0 +1,29 @@
+{
+    "Filename": "98803.txt",
+    "Location": "Sioux Falls, South Dakota",
+    "Accident Number": "CEN19LA049",
+    "Date & Time": "December 25, 2018, 17:03 Local",
+    "Aircraft": "Beech 58",
+    "Registration": "N6745V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot passenger crosscountry flight instrument flight rule approach instrument meteorological condition according air traffic control transcript air traffic controller destination airport cleared flight rnav approach runway 33 according adsb flight track data airplane turned toward final approach path inside initial approach fix 3100 ft mean sea level msl 156 knot calibrated airspeed kcas subsequently airplane proceeded west final approach centerline turned back centerline east back west resembling sturns extended centerline sturns across extended centerline controller cleared airplane land two minute later airplane 3000 ft msl 78 kcas began rapidly descend according witness video footage accident airplane descended steep nosedown attitude witness added appeared saw airplane try pull dive impacted ground airplane impacted tree building came rest residential neighborhood 200 ft south last radar location airplane massively fragmented postimpact fire ensued impact fire damage precluded thorough examination functional testing related airplane system examination engine propeller assembly revealed signature consistent symmetric power development time accident according family member pilot 3 month accident pilot en route altitude airplane suddenly nosed according work order 3 week accident autopilot removed repaired repair station owner reported flight 3 day accident pilot told issue airplane flight uneventful",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "approach",
+                5
+            ]
+        ]
+    }
+}

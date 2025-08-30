@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Walla Walla, Washington
+Accident Number:
+WPR19LA049
+Date & Time:
+December 21, 2018, 13:30 Local 
+Registration:
+N46147
+Aircraft:
+Taylorcraft L 2M
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot had just purchased the airplane. Before departing on the cross-country flight, he 
+conducted preflight fuel planning based on the airplane’s total fuel capacity and the fuel 
+consumption rate as reported by the previous owner (16 gallons and 4 gallons per hour, 
+respectively). The pilot reported that, about 30 minutes from the destination, the fuel quantity 
+gauges “showed low fuel,” but he thought he had adequate fuel onboard to reach the airport. 
+About 15 minutes from the destination, the engine lost total power and the pilot performed a 
+forced landing to a field. The airplane nosed down during the landing roll and came to rest 
+upright, resulting in substantial damage to the engine firewall and mounts. 
+An industry expert for the accident airplane make/model and engine configuration indicated 
+that the airplane’s fuel consumption was likely about 6 gallons per hour and that the airplane 
+had a total fuel capacity of 14 gallons.  During a subsequent interview, the pilot reported that 
+the loss of engine power was the result of fuel exhaustion. The pilot’s reliance on the 
+information provided by the previous owner likely contributed to his exhaustion of the 
+available fuel. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper preflight planning, which resulted in a total loss of engine power due to 
+fuel exhaustion.  

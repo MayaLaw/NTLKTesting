@@ -1,0 +1,29 @@
+{
+    "Filename": "98360.txt",
+    "Location": "Grass Valley, Oregon",
+    "Accident Number": "GAA18CA569",
+    "Date & Time": "September 15, 2018, 18:00 Local",
+    "Aircraft": "Maule M7",
+    "Registration": "N760AC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported second approach unimproved canyon airstrip moderate turbulence felt groundspeed faster normal tailwind reduced power idle landed airplane 300 ft ground roll 35 mph airplane veered left applied right rudder moderate braking airplane exited airstrip left left main landing gear struck pile rock painted white used mark edge runway left main landing gear separated airplane airplane sustained substantial damage fuselage left wing left aileron pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system 16 nautical mile accident site reported time accident wind 290 13 knot gusting 16 knot pilot landing south probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98642.txt",
+    "Location": "Redding, California",
+    "Accident Number": "WPR19FA025",
+    "Date & Time": "November 14, 2018, 18:27 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N2629R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of visual reference",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "departing night instrument flight rule ifr flight pilot asked another pilot airport published ifr departure procedure intended use takeoff pilot passenger subsequently departed filed flight plan radar data depicted accident airplane started drift left runway still flying left drift continued beyond departure end runway 34 043 mile north airport airplane began right turn started descend 500 ft ground level agl last radar target located near accident site altitude 100 ft agl video obtained security camera located 1 mile southwest accident site captured accident airplane descending right turn view airplane lost behind tree line review pilot flight record revealed held instrument rating logged 36 hour last 6 month however record pilot obtaining instrument proficiency check within 12 month accident examination airframe engine reveal anomaly consistent preimpact failure malfunction likely pilot experienced level spatial disorientation airplane turned takeoff dark night condition smoke haze led loss control impact terrain probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "accident",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Skwentna, Alaska
+Accident Number:
+ANC17LA033
+Date & Time:
+June 17, 2017, 14:34 Local 
+Registration:
+N4018H
+Aircraft:
+Piper PA 12
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was transporting about 120 lbs of plywood, secured to the airplane's float struts via cargo 
+straps, to his remote cabin. The pilot reported that, about 200 ft above the ground during the landing 
+approach, the airplane experienced an uncommanded left turn, then the pilot realized that he had no 
+rudder control and that the rudder was "locked to the left." The airplane subsequently impacted trees and 
+terrain. The pilot reported no mechanical anomalies with the engine and no anomalies with the airplane 
+before the loss of control.
+The airplane's water rudder cables descend from the fuselage along the support struts to which the 
+plywood was secured. The water rudders were directly linked to the rudder. It is likely that, during the 
+flight, the plywood shifted and interfered with the water rudder cable, which resulted in the pilot's loss 
+of rudder control during the landing approach.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to properly secure the external load, which resulted in the load shifting during flight, 
+interference with the water rudder cable, and a subsequent loss of control

@@ -1,0 +1,29 @@
+{
+    "Filename": "98485.txt",
+    "Location": "Lawrenceville, Georgia",
+    "Accident Number": "GAA19CA020",
+    "Date & Time": "October 14, 2018, 12:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N996SB",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported student pilot approached runway shallow angle student applied forward pressure yoke airplane nose pitched instructor recalled student pitch application excessive called transfer flight control however student remained control instructor overpower student control input airplane 45 nosedown attitude airplane landed hard level attitude nose landing gear collapsed fire erupted cabin instructor used fire extinguisher attempt extinguish fire subsequently airplane slid stop runway occupant exited fire consumed cabin airplane sustained substantial damage cabin wing instructor reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper pitch application resulted hard landing subsequent fire contributing accident student failure give flight control flight instructor instructed",
+        "Top Words": [
+            [
+                "student",
+                7
+            ],
+            [
+                "instructor",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

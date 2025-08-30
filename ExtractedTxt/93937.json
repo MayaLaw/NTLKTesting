@@ -1,0 +1,29 @@
+{
+    "Filename": "93937.txt",
+    "Location": "Viborg, South Dakota",
+    "Accident Number": "CEN16FA344",
+    "Date & Time": "September 2, 2016, 10:00 Local",
+    "Aircraft": "AVES DOUGLAS JAMES RV 6",
+    "Registration": "N676DT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot passenger 14yearold granddaughter wanted become pilot making local flight airplane radar gps track information found flight witness heard airplane engine sputtering airplane impacted ground cornfield postimpact fire consumed engine cowling cockpit fuselage forward portion empennage damage airplane crop mark ground indicated airplane impacted slightly noselow leftwinglow attitude forward airspeed consistent relatively flat spin propeller remained attached engine embedded soil positioned horizontally propeller blade slightly bent aft exhibit leadingedge damage consistent minimal power produced engine impact mechanical malfunction anomaly found engine airframe would precluded normal operation however examination limited extensive postcrash fire damage circumstance accident consistent airplane exceeding critical angle attack resulting aerodynamic stall subsequent flat spin terrain given witness report sputtering engine propeller signature consistent engine producing power impact likely engine lost power impact however could determined whether engine lost power loss control whether pilot intentionally reduced power descent the14yearold passenger seated left seat pilot seated right seat although family reported flight instructional possible pilot allowed passenger manipulate flight control regardless occupant manipulating flight control pilot certificated pilot board responsible safety flight probable cause finding",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "flight",
+                6
+            ]
+        ]
+    }
+}

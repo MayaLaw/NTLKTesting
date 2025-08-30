@@ -1,0 +1,29 @@
+{
+    "Filename": "97700.txt",
+    "Location": "King and Queen, Virginia",
+    "Accident Number": "GAA18CA431",
+    "Date & Time": "July 5, 2018, 16:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N1401F",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot reported 3 hour en route realized airplane fuel level low started look nearby airport land engine rpm dropped realized airplane going run fuel making alternate airport decided land nearby field final engine experienced total power loss subsequently offairport landing airplane nosewheel touched first broke airplane teetered wing struck ground airplane came rest airplane sustained substantial damage wing pilot reported departed 40 gallon fuel added must burned fuel taxi takeoff realized stopped fuel earlier flight accident would happened pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning resulted fuel exhaustion subsequent total loss engine power",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "fuel",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

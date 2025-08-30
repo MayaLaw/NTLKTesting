@@ -1,0 +1,29 @@
+{
+    "Filename": "98667.txt",
+    "Location": "Casper, Wyoming",
+    "Accident Number": "WPR19LA029",
+    "Date & Time": "November 19, 2018, 14:50 Local",
+    "Aircraft": "BKF Backcountry Supercub",
+    "Registration": "N59BK",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "commercial pilot flight testing airplane evaluate experimental diesel engine reduction gearbox takeoff airplane climbed 500 ft ground level pilot increased engine power total loss engine power occurred shortly afterward pilot initiated left descending turn return runway landing sequence airplane high descent rate airplane touched hard resulting separation left main landing gear axle substantial damage left wing lift strut postaccident examination engine reduction gearbox found two propeller shaft bearing inside reduction gearbox seized causing total loss engine power probable cause finding national transportation safety board determines probable cause accident seizure two bearing reduction gearbox resulting total loss engine power contributing accident high descent rate resulted hard landing",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reduction",
+                4
+            ]
+        ]
+    }
+}

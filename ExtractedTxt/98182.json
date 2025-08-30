@@ -1,0 +1,29 @@
+{
+    "Filename": "98182.txt",
+    "Location": "Pedro Bay, Alaska",
+    "Accident Number": "ANC18LA067",
+    "Date & Time": "August 18, 2018, 10:00 Local",
+    "Aircraft": "Cessna U206",
+    "Registration": "N441GR",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Part(s) separation from AC",
+    "Injuries": "6 None",
+    "Analysis": {
+        "Text": "according pilot landing tidal beach conducted two pass landing area check debris determine wind direction stated touchdown beach airplane felt like flat tire subsequently veered right airplane came rest left winglow attitude tidal mudflat sustained substantial damage left wing left horizontal stabilizer left elevator pilot examined airplane noted main landing gear leg separated main axle attach point laboratory examination revealed main landing gear leg failed due fatigue cracking probable cause finding national transportation safety board determines probable cause accident fatigue fracture main landing gear leg landing roll resulted collapse separation main landing gear leg",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "main",
+                5
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

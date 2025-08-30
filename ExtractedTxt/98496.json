@@ -1,0 +1,29 @@
+{
+    "Filename": "98496.txt",
+    "Location": "Byhalia, Mississippi",
+    "Accident Number": "ERA19LA016",
+    "Date & Time": "October 12, 2018, 13:45 Local",
+    "Aircraft": "SA300 Starduster",
+    "Registration": "N503CM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot reported practicing landing departed flew nearby town noted air quite turbulent upon returning airport pilot entered downwind leg traffic pattern began constantradius descending turn final leg traffic pattern noticed airplane low applied engine power maintain level flight airplane leveled pilot continued approach runway pilot added airplane approached tree line 100 ft approach end runway airplane suddenly sank impacted tree could arrest descent airplane came rest inverted wooded area wing fuselage empennage sustained substantial damage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation given evidence likely pilot maintain proper approach path resulted impact tree examination upper air sounding data revealed turbulence lowlevel wind shear existed area time accident review meteorological data revealed wind condition potential develop 1knot tailwind however pilot able anticipate adequately respond slight tailwind probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper approach path resulted collision tree short runway",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "approach",
+                4
+            ]
+        ]
+    }
+}

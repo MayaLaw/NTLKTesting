@@ -1,0 +1,29 @@
+{
+    "Filename": "98467.txt",
+    "Location": "Poolville, Texas",
+    "Accident Number": "CEN19FA004",
+    "Date & Time": "October 12, 2018, 16:08 Local",
+    "Aircraft": "Piper PA32RT",
+    "Registration": "N221MC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot passenger departed crosscounty flight visual meteorological condition automatic dependent surveillancebroadcast adsb gps data indicated takeoff airplane proceeded east flight flew altitude 8500 9500 ft mean sea level msl however flight progressed weather condition deteriorated toward end flight airplane began descending 9000 ft msl descent rate 700 ft per minute airplane entered descending right turn decreasing radius adsb gps data ended radius turn initially 4000 ft decreased next minute 1000 ft final 1 second data airplane continued turn descent rate increased average rate descent airplane final 10 second recorded adsb data 12900 ft per minute airplane wreckage distributed large area airframe part located 3600 ft main wreckage location lighterweight item within airplane located 1 mile away wreckage distribution indicated airplane broke apart flight contacting ground examination airframe engine revealed anomaly consistent prebreakup failure malfunction weather data indicated marginal visual flight rule condition prevailed across area ceiling overcast 2500 3000 ft agl several weather station immediately north northnortheast accident site reported instrument flight rule ifr condition low ifr condition indicating ceiling less 1000 ft agl andor visibility less 3 mile break overcast layer cloud reported surrounding time accident pilot visual flight imc would conducive development spatial disorientation pilot held instrument rating review flight logbook revealed logged total 23 hour actual instrument flight experience including 02 hour 3 month preceding accident result pilot likely possess experience recency adequately control airplane use instrument ifr condition thus likely",
+        "Top Words": [
+            [
+                "flight",
+                10
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "ft",
+                9
+            ]
+        ]
+    }
+}

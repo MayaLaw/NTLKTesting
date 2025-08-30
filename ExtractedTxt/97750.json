@@ -1,0 +1,29 @@
+{
+    "Filename": "97750.txt",
+    "Location": "Shelter Island, New York",
+    "Accident Number": "GAA18CA417",
+    "Date & Time": "June 30, 2018, 10:00 Local",
+    "Aircraft": "Travel Air 2000",
+    "Registration": "N8870",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing making 180 left turn end runway right wing struck tree branch airplane sustained substantial damage right aileron pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance tree taxi",
+        "Top Words": [
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ],
+            [
+                "right",
+                2
+            ]
+        ]
+    }
+}

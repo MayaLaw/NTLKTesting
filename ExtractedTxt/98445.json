@@ -1,0 +1,29 @@
+{
+    "Filename": "98445.txt",
+    "Location": "Marina, California",
+    "Accident Number": "GAA19CA013",
+    "Date & Time": "October 10, 2018, 10:30 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N89266",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing pressed right rudder turn runway foot slipped inadvertently applied brake airplane nosed airplane sustained substantial damage right wing lift strut left wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot inadvertent application brake resulted noseover finding aircraft brake unnecessary useoperation personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "brake",
+                3
+            ]
+        ]
+    }
+}

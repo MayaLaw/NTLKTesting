@@ -1,0 +1,29 @@
+{
+    "Filename": "98343.txt",
+    "Location": "Igiugig, Alaska",
+    "Accident Number": "GAA18CA565",
+    "Date & Time": "September 20, 2018, 15:30 Local",
+    "Aircraft": "De Havilland DHC 2",
+    "Registration": "N121AK",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Minor, 6 None",
+    "Analysis": {
+        "Text": "pilot floatequipped airplane reported initial climb water takeoff 200 ft turned right engine lost power immediately switched fuel tank attempted restart engine avail airplane descended struck tree right wing impacted terrain airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported federal aviation administration inspector initial climb engine lost power noticed center tank selected takeoff empty added passenger stated engine regain power switching tank airplane already struck tree pilot reported recommendation closely follow checklist probable cause finding national transportation safety board determines probable cause accident pilot selection empty fuel tank takeoff resulted fuel starvation subsequent total loss engine power",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96876.txt",
+    "Location": "Anacortes, Washington",
+    "Accident Number": "GAA18CA165",
+    "Date & Time": "March 9, 2018, 16:00 Local",
+    "Aircraft": "Bellanca 1413",
+    "Registration": "N74445",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported biennial flight review tailwheel touched landing airplane veered right added unable correct quickly enough prevent airplane exiting runway right right main landing gear exited runway airplane ground looped right airplane sustained substantial damage left aileron pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing finding aircraft directional control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

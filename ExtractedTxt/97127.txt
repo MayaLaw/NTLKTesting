@@ -1,0 +1,46 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Gainesville, Georgia
+Accident Number:
+ERA18FA137
+Date & Time:
+April 28, 2018, 17:15 Local 
+Registration:
+N4363F
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Fatal, 2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The commercial pilot receiving instruction and a flight instructor were conducting a local instructional 
+flight when the engine lost partial power and oil obscured the front windscreen. The instructor took 
+control of the airplane and maneuvered toward a highway on which to conduct a forced landing; the 
+airplane struck power lines and a vehicle before veering off the road and down a steep embankment, 
+where it came to rest inverted.
+Examination of the engine revealed that the No. 2 cylinder had separated from the cylinder mounting 
+deck. The No. 2 cylinder rocker box cover and a pushrod tube were protruding from the left forward side 
+of the cowling. The No. 2 cylinder connecting rod was protruding through the top of the cowling. The 
+No. 2 cylinder base studs and thru bolts remained in the crankcase and were fractured at their threaded 
+section. Metallurgical examination revealed that each of the fractured surfaces exhibited evidence of 
+crack arrest marks consistent with fatigue cracking and microvoid coalescence features typical of 
+overstress separation. The crankcase web mating surfaces at the Nos. 2, 3 and 4 bearing journals 
+exhibited pitting consistent with fretting, which is typically a result of inadequate preload tension or loss 
+of preload tension to the fasteners that secure the cylinder to the engine. The inadequate or loss of 
+preload resulted in fatigue cracking of the No. 2 cylinder studs and thru-bolts, and the subsequent 
+separation of the cylinder.
+According to maintenance records, the engine underwent a major overhaul about 4 years before the 
+accident and had accrued 1,071.11 hours since the last overhaul. At the time of the overhaul, the 
+crankcase was reassembled, and all four cylinders were installed. It could not be determined if the thru-
+bolts and studs were improperly tightened by maintenance personnel at the time of the overhaul or 
+during an undocumented maintenance action that was performed after the overhaul.
+Toxicology testing of the flight instructor revealed an unquantifiable amount of doxylamine, a sedating 
+antihistamine that was well below that considered to cause significant effects. Therefore, it is unlikely 
+that the pilot's use of doxylamine contributed to his inability to successfully perform a forced landing on 
+a highway.

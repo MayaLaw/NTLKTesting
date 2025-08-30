@@ -1,0 +1,29 @@
+{
+    "Filename": "98731.txt",
+    "Location": "Reno, Nevada",
+    "Accident Number": "GAA19CA086",
+    "Date & Time": "December 3, 2018, 13:20 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N9003M",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot receiving instruction reported inbound practice instrument landing system approach 1 mile runway something struck left wing added landed airplane without incident pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation postaccident examination airplane revealed left wing sustained substantial damage given evidence pilot likely bird struck airplane probable cause finding national transportation safety board determines probable cause accident airplane collision bird practice instrument approach finding environmental issue animalsbirds effect operation",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                2
+            ]
+        ]
+    }
+}

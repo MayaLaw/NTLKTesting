@@ -1,0 +1,29 @@
+{
+    "Filename": "94725.txt",
+    "Location": "Bayonne, New Jersey",
+    "Accident Number": "ERA17LA110",
+    "Date & Time": "February 19, 2017, 10:00 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N15745",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot reported personal local flight uneventful engine made odd noise followed partial loss engine power pilot attempted troubleshoot problem engine power fully restored airplane unable maintain altitude pilot made forced landing road airplane struck power line vehicle coming rest sidewalk postaccident examination engine revealed 3 cylinder intake valve separated valve stem found oil pan remainder valve found intake manifold metallurgical examination 3 cylinder assembly including fractured intake valve revealed valve fractured stem two place head one place interior cylinder exhibited damage consistent impact fractured valve connecting rod intact bearing worn babbit copper layer examination fracture surface revealed fatigue crack initiating fillet radius valve stem tip key area stem shaft fracture consistent overstress examination engine case revealed eight hydraulic valve tappet plunger installed 180 opposite proper installation contained manufacturer overhaul manual reversed installation plunger would adversely affected operation 3 cylinder intake valve placed abnormal load valve tip review engine maintenance logbook revealed engine repaired 357 hour accident time four cylinder removed replaced including hydraulic valve tappet plunger assembly given cylinder recently removed reinstalled engine including hydraulic valve tappet plunger likely engine experienced partial loss engine power due maintenance personnel improper installation 3 cylinder hydraulic valve tappet plunger",
+        "Top Words": [
+            [
+                "valve",
+                13
+            ],
+            [
+                "engine",
+                10
+            ],
+            [
+                "cylinder",
+                7
+            ]
+        ]
+    }
+}

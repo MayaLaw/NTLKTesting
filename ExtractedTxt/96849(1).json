@@ -1,0 +1,29 @@
+{
+    "Filename": "96849(1).txt",
+    "Location": "Temple, Texas",
+    "Accident Number": "CEN18LA118",
+    "Date & Time": "March 8, 2018, 10:45 Local",
+    "Aircraft": "Bereznak Lancair Legacy",
+    "Registration": "N60JN",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "leveling 9500 ft airline transport pilot switched fuel selector right left fuel tank experimental amateurbuilt airplane noticed change sound engine decline fuel flow partial loss engine power switched back right fuel tank turned auxiliary fuel pump correct problem realizing would able glide nearby airport pilot made forced landing plowed field postaccident examination engine revealed discrepancy would precluded normal operation fuel selector found separated selector handle selector valve found 90percentclosed position fuel selector assembly showed extensive wear likely fuel selector separated valve intermediate position pilot changed fuel selector handle position resulted partial loss engine power due fuel starvation result nearly closed fuel valve probable cause finding national transportation safety board determines probable cause accident failure fuel selector valve nearly closed position resulted partial loss engine power due fuel starvation",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "selector",
+                8
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

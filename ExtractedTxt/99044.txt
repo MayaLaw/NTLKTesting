@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Fort Lauderdale, Florida
+Accident Number:
+ERA19FA112
+Date & Time:
+March 1, 2019, 11:41 Local 
+Registration:
+N145AB
+Aircraft:
+Piper PA25
+Aircraft Damage:
+Destroyed
+Defining Event:
+Collision with terr/obj (non-CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Banner tow
+Analysis 
+The newly-hired banner tow pilot departed on his first banner-tow flight away from the training airport. 
+After completing several circuits the pilot was flying on a southerly heading with an 8 knot easterly 
+wind about 1/4 mile offshore, which was about half the distance he was trained to be offshore. The pilot 
+initiated a right turn descended to 250 ft mean sea level and flew over a heavily congested area with tall 
+buildings nearby. The airplane was seen flying about 250 ft above ground level over a heavily-congested 
+area before it impacted the 16th and 17th floors of a 19-story building while in a right turn.
+Although witnesses provided varying accounts of how the engine was operating near the end of the 
+flight, a sound spectrum study conducted with video taken of the airplane just before the impact 
+indicated that the engine was operating near its maximum available power at the time of impact. 
+Postaccident examination of the airplane and engine revealed no evidence of preimpact failure or 
+malfunction. The abnormal engine sounds reported by several witnesses were likely attributed to be 
+from the lack of a muffler of the exhaust system. Given the lack of any mechanical malfunctions with 
+the airplane, it was likely that the pilot did not adequately compensate for the wind conditions, which 
+would have pushed the airplane inland during a right turn to reverse course.  
+The operator reported that banner-tow flights were performed between 500 and 700 ft above mean sea 
+level while offshore. At no time, except during takeoff or landing or unless authorized by air traffic 
+control, were pilots expected to fly at altitudes less than 500 ft.
+According to training records, the pilot had received 17 hours of banner tow flight training, He 
+completed a .6-hour solo banner tow training flight in the airport vicinity 3 days before the accident. 
+Probable Cause and Findings

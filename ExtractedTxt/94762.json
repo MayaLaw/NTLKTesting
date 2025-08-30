@@ -1,0 +1,29 @@
+{
+    "Filename": "94762.txt",
+    "Location": "San Francisco, California",
+    "Accident Number": "OPS17IA014",
+    "Date & Time": "February 15, 2017, 20:00 Local",
+    "Aircraft": "EMBRAER S A ERJ 170-200 LR (A1);",
+    "Registration": "N214NN (A1);",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled (A1); Part 121: Air carrier - Scheduled (A2)",
+    "Aircraft Damage": "None (A1); None (A2)",
+    "Defining Event": "Air traffic event",
+    "Injuries": "N/A (A1); N/A (A2)",
+    "Analysis": {
+        "Text": "boulder sector approach controller first controller pilot cpz6081 contacted entering nct airspace controller informed pilot atis tango expect visual approach runway 28l aircraft arriving south sfo routinely assigned runway 28l initial contact however noise abatement procedure effect runway 28r preferential runway boulder controller realized cpz6081 would arrive sfo noise abatement hour informed woodside controller would change cpz6081 runway 28r boulder controller subsequently changed cpz6081s data tag radar display runway 28l runway 28r electronically handed airplane woodside controller boulder controller inform pilot cpz6081 runway change 28r inform woodside controller passed runway change information pilot cpz6081s data tag indicated runway 28r woodside controller accepted airplane woodside controller cleared cpz6081 visual approach runway 28r first mention runway 28r pilot pilot read back runway 28r however continued prepare runway 28l approach flight crew briefed visual approach runway 28l backup il runway 28l thought cleared runway 28l approach woodside controller electronically handed cpz6081 sfo atct sfo local controller accepted handoff data tag tower radar display indicated runway 28r",
+        "Top Words": [
+            [
+                "runway",
+                18
+            ],
+            [
+                "controller",
+                13
+            ],
+            [
+                "28r",
+                9
+            ]
+        ]
+    }
+}

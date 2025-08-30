@@ -1,0 +1,29 @@
+{
+    "Filename": "98901.txt",
+    "Location": "Hollister, California",
+    "Accident Number": "GAA19CA108",
+    "Date & Time": "May 28, 2019, 15:30 Local",
+    "Aircraft": "De Havilland DHC 2",
+    "Registration": "N501J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot amphibious floatequipped airplane reported intended perform water landing downwind leg approach performed prelanding check memory confirmed three green landing gear safe light illuminated however added looked blue light pilot landed water landing gear wheel extended airplane pitched forward nosed airplane sustained substantial damage right wing empennage windscreen pilot asserted used checklist airborne takeoff landing check would saved event pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure retract amphibious float landing gear wheel landing water contributing accident pilot failure use takeoff landing checklist",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Spring Branch, Texas
+Accident Number:
+GAA18CA507
+Date & Time:
+August 23, 2018, 12:45 Local 
+Registration:
+N110DV
+Aircraft:
+Vans RV10
+Aircraft Damage:
+Substantial
+Defining Event:
+Abrupt maneuver
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, on short final, the airplane was too low, too slow, and right of the runway 
+centerline, and that he overcorrected to clear trees located at the approach end of runway 12. 
+Subsequently, the airplane stalled and touched down on the upsloping approach end of the runway. The 
+right wing struck rising terrain in the safety area on the right side of the runway, and the airplane 
+skidded across the grass safety area and came to rest on the parallel taxiway.
+The airplane sustained substantial damage to both wings and the engine mounts. 
+The runway had rising terrain at both the approach and departure ends. The airport facility directory 
+noted that runway 12 had 20-ft-tall trees 25 ft from the runway threshold and required a 4:1 glideslope to 
+remain clear of them. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain the proper glidepath and his subsequent abrupt maneuver to avoid trees, 
+which led to the exceedance of the airplane's critical angle of attack and resulted in an aerodynamic stall 
+during landing and a subsequent loss of directional control.

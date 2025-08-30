@@ -1,0 +1,29 @@
+{
+    "Filename": "98311.txt",
+    "Location": "Bullhead City, Arizona",
+    "Accident Number": "WPR18LA263",
+    "Date & Time": "September 15, 2018, 12:45 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N573BV",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Serious, 1 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff roll airplane left runway centerline made radical correction get back course departing runway initial climb entered information fuel totalizer looked momentarily airplane left bank rising terrain powerlines ahead realizing impact imminent pilot added one notch flap kept wing level airplane impacted ground near ravine resulting substantial damage wing fuselage pilot reported postaccident examination confirmed anomaly airplane engine would precluded normal operation likely pilot diverted attention initial climb resulted impact terrain probable cause finding national transportation safety board determines probable cause accident pilot diverted attention takeoff initial climb resulted collision rising terrain",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "initial",
+                3
+            ]
+        ]
+    }
+}

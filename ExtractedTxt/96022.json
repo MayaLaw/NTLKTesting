@@ -1,0 +1,29 @@
+{
+    "Filename": "96022.txt",
+    "Location": "North Branford, Connecticut",
+    "Accident Number": "ERA17FA327",
+    "Date & Time": "September 16, 2017, 13:00 Local",
+    "Aircraft": "Mooney M20C",
+    "Registration": "N53CP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot owner airplane one passenger departed day visual flight rule crosscountry flight airplane came rest wooded area near open field 24 mile departure airport pilot contact air traffic control flight review radar information revealed radar target coincident accident flight southsoutheast track altitude 900 1300 ft ground level radar contact lost 1 mile northwest accident site several individual near accident site reported heard sound impact witness accident propeller exhibited signature consistent lack engine power time impact fuel selector found left tank position landing gear extended evidence fuel tank accident site examination fuel system revealed air would pas fuel selector valve valve selected left fuel tank position handle operated hand could moved normally setting air passed freely valve selected right tank position disassembly fuel selector revealed piece red fibrous material consistent shop towel likely inhibited fuel flow engine resulted fuel starvation total loss engine power airplane maintenance log found shop towel debris may introduced fuel system could determined additionally homemade tool constructed pvc pipe connection fitting found wreckage appeared designed manipulate fuel selector however reason fabrication use accident flight could determined device broken handle following loss engine power pilot may attempted switch fuel selector left tank right tank unable either due failure homemade tool inadequate time afforded troubleshoot loss engine power due selection low cruising altitude combination two factor airplane low cruising altitude also reduced pilot available forced landing site option engine lost power likely pilot attempting reach open field 1500 ft beyond accident site lowered landing gear",
+        "Top Words": [
+            [
+                "fuel",
+                11
+            ],
+            [
+                "accident",
+                7
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

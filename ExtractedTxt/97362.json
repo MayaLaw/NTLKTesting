@@ -1,0 +1,29 @@
+{
+    "Filename": "97362.txt",
+    "Location": "El Reno, Oklahoma",
+    "Accident Number": "CEN18FA201",
+    "Date & Time": "May 30, 2018, 21:18 UTC",
+    "Aircraft": "AYRES CORPORATION S2R",
+    "Registration": "N2249B",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot performing aerial application flight airplane impacted radio tower guy wire 125 ft ground level wreckage path consisted broken guy wire yellow paint transfer consistent paint lower section airplane examination airframe engine revealed mechanical anomaly would precluded normal operation autopsy toxicology pilot reveal evidence physiological impairment incapacitation radio tower depicted map pilot spraying operation pilot son stated pilot flown aerial application flight field several year witness accident stated airplane flying normally impacted guy wire nosed immediately descend ground although aware tower pilot maintain sufficient clearance guy wire spraying field resulted inflight collision wire probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance tower guy wire maneuvering aerial application flight",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "wire",
+                6
+            ],
+            [
+                "guy",
+                5
+            ]
+        ]
+    }
+}

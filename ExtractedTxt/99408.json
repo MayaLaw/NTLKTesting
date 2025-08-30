@@ -1,0 +1,29 @@
+{
+    "Filename": "99408.txt",
+    "Location": "Newport News, Virginia",
+    "Accident Number": "ERA19LA169",
+    "Date & Time": "May 9, 2019, 10:15 Local",
+    "Aircraft": "Hawker Siddeley HUNTER",
+    "Registration": "N343AX",
+    "Flight Conducted Under": "Public aircraft",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot conducting training flight supervision flight instructor second airplane following touchandgo landing landing gear retracted however right main landing gear indicated unsafe consultation flight instructor pilot attempted lower landing gear observed normal indication three landing gear locked position pilot turned onto downwind leg traffic pattern noticed hydraulic warning light flight instructor also noticed fluid streaming right side airplane shortly thereafter pilot noted low hydraulic pressure decided would conduct noflap landing utilizing remaining hydraulic pressure boost flight control immediately upon touchdown right main landing gear collapsed pilot unable control airplane veered right side runway stopping right main landing gear strut broken two part examination broken right gear component revealed small crack feature consistent preexisting progressive crack base aft pivot pin bore likely preexisting fatigue crack landing gear propagated point failure crack also likely became large enough hydraulic fluid leak following touchandgo landing failed catastrophically airplane touched final landing probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "landing",
+                11
+            ],
+            [
+                "gear",
+                8
+            ],
+            [
+                "right",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97245.txt",
+    "Location": "Waterloo, Indiana",
+    "Accident Number": "GAA18CA277",
+    "Date & Time": "May 5, 2018, 09:30 Local",
+    "Aircraft": "CESSNA AIRCRAFT CO 162",
+    "Registration": "N263VX",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported landing soft grass runway airplane bounced added airplane settled back runway nosewheel hit soft spot turf nose landing gear collapsed airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration airplane flying handbook faah80833a contained section titled soft field approach landing stated touchdown soft rough field made lowest possible airspeed airplane nosehigh pitch attitude nosewheel type airplane main wheel touch surface pilot hold sufficient backelevator pressure keep nose wheel surface using back elevator pressure engine power pilot control rate weight airplane transferred wing wheel probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare softfield landing use improper softfield landing procedure resulted bounced landing",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

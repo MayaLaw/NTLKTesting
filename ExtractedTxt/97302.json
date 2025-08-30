@@ -1,0 +1,29 @@
+{
+    "Filename": "97302.txt",
+    "Location": "Daytona Beach, Florida",
+    "Accident Number": "ERA18FA152",
+    "Date & Time": "May 22, 2018, 19:30 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N89864",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "commercial pilot pilotrated passenger practicing touchandgo takeoff landing tailwheelequipped airplane witness reported third touch andgo airplane climbing 200 300 ft ground level near end runway engine lost power airplane turned back toward runway spiraling ground examination airframe engine revealed evidence preimpact mechanical malfunction abnormality would precluded normal operation wing fuel tank 14 full accident site fuel tank breached 1 tablespoon water found tank airplane operation manual marking fuel gauge cockpit indicated pilot take less 14 tank fuel warning supplement issued airplane manufacturer stated certain flight maneuver fuel may move away fuel tank supply outlet outlet uncovered fuel flow engine may interrupted temporary loss power may result possible pilot initially departed 14 tank fuel however third touchandgo landing fuel level 14 tank initial climb touch go fuel moved away fuel supply outlet line starved engine fuel resulting total loss power airplane position time loss engine power allow suitable airport landing location following loss power likely pilot attempted return runway failed maintain sufficient airspeed turn resulted airplane exceeding critical angle attack entering aerodynamic stall probable cause finding national transportation safety board determines probable cause accident pilot inadequate fuel planning resulted total loss engine power due fuel",
+        "Top Words": [
+            [
+                "fuel",
+                14
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "tank",
+                7
+            ]
+        ]
+    }
+}

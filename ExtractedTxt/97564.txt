@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Umatilla, Florida
+Accident Number:
+ERA18LA178
+Date & Time:
+June 14, 2018, 09:50 Local 
+Registration:
+N56213
+Aircraft:
+Piper PA 34-200
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot receiving instruction and the flight instructor were conducting an instructional flight. During the 
+approach to the destination airport, the pilot receiving instruction lowered the landing gear, and the instructor 
+confirmed that the down-and-locked indications were all green. After touchdown and during the landing roll, 
+the airplane suddenly entered an uncommanded and violent right swerve, which the pilot receiving instruction 
+could not correct with full left brake, rudder, and aileron inputs. Subsequently, the airplane departed the 
+runway and impacted a drainage ditch. 
+Postaccident examination of the airplane revealed that the upper and lower torque links of the right main 
+landing gear (MLG) were undamaged and not attached; the attachment hardware was not in place nor 
+recovered. Examination of the left MLG revealed that the upper and lower torque links remained connected, but 
+a cotter pin was not found installed through the castellated nut and drilled bolt. 
+A review of the airplane's maintenance logbooks revealed that, about 1 month before the accident, the 
+attachment hardware for the left and right torque links was replaced, which included the installation of cotter 
+pins. The mechanic who signed off the inspection stated that, during subsequent maintenance, both torque 
+links' cotter pins were removed and that, although the attachment hardware at both torque links was 
+subsequently tightened, neither of the torque link's cotter pins were installed before the airplane was approved 
+for return to service. Therefore, it is likely that the right MLG torque link attachment hardware loosened over 
+time due to the lack of a cotter pin and eventually separated from the airplane, which resulted in the torque link 
+becoming disconnected and led to the pilot's subsequent inability to maintain directional control during landing.
+Probable Cause and Findings

@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Kansas City, Missouri
+Accident Number:
+CEN18LA128
+Date & Time:
+March 22, 2018, 18:00 Local 
+Registration:
+N372WP
+Aircraft:
+Cessna 310R
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot reported that the landing gear position lights were all green during the 
+approach and that the landing was normal. During the landing rollout, the right landing gear collapsed. 
+A witness stated that the landing appeared normal and was not a hard landing. The airplane skidded for 
+about 1,200 to 1,500 ft and veered off the side of the runway, which resulted in substantial damage to 
+the horizontal stabilizer and elevator. 
+Examination of the airplane's landing gear parts that were broken revealed that the fracture features of 
+the end fitting assembly mating adjustment screw, the bellcrank assembly bolt, and the flange were 
+consistent with overstress. Examination of the fracture surfaces of the end fitting bolt revealed that it had 
+separated through a thread root on the end of the bolt; however, the cause of the end fitting bolt 
+separation could not be determined due to smearing and secondary damage of the fracture surface. 
+Because the witness reported that the landing was not a hard landing, it is unlikely that the failure 
+occurred during the accident landing sequence. It is likely that the separation of the end fitting bolt led to 
+the landing gear collapse.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The landing gear collapse due to the separation of the end fitting bolt for reasons that could not be 
+determined based on the available evidence.

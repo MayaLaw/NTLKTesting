@@ -1,0 +1,47 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Fancy Gap, Virginia
+Accident Number:
+ERA19FA003
+Date & Time:
+October 6, 2018, 12:15 Local 
+Registration:
+N38811
+Aircraft:
+Piper J3C
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The non-instrument-rated private pilot was conducting a visual flight rules (VFR) cross-country flight; 
+instrument meteorological conditions (IMC) were forecast along the route, and the airplane was not 
+equipped for flight in IMC. The pilot had entered a flight plan in the ForeFlight application that noted a 
+cruise altitude of 2,100 ft mean sea level (msl) for the route of flight. Further, the ForeFlight application 
+displayed a terrain cross-section overview which noted that the highest point along the route was 3,800 
+ft msl and indicated that the planned route and altitude for the flight conflicted with the rising terrain. 
+About 1 hour 15 minutes after departure, the airplane impacted a mountain at 2,766 ft, about 150 ft 
+below the summit. The accident site was about 36 miles from the destination airport along a direct route 
+between the departure and destination airports. Accident site evidence and impact damage to the 
+airplane were indicative of a high-speed impact, with a wreckage path that was oriented roughly 
+opposite to the intended route of flight. Examination of the wreckage revealed no anomalies with the 
+airplane that would have precluded normal operation before the accident.
+Weather observations near the departure and destination airports, AIRMETs, and visible satellite 
+weather images all indicated that the pilot likely encountered IMC en route, and based on the direction 
+of the wreckage path relative to the intended route of flight, was likely maneuvering to return to visual 
+meteorological conditions when the airplane collided with terrain. The forecasts warning of IMC were 
+issued prior to the pilot's departure, and while it could not be determined whether the pilot accessed 
+these forecast materials, the flight planning application on his personal electronic device would have 
+allowed him to view this information if an internet connection was available.
+Toxicology test results showed that the pilot was taking two antidepressants, indicating that he had 
+significant depression, which can be associated with significant cognitive degradation. The testing also 
+detected the presence of four impairing or sedating medications. The pilot made critical errors in 
+judgment both when he decided to undertake the flight along a route where instrument meteorological 
+conditions were forecast, and when he elected to continue flight after encountering those conditions. It is 
+likely that the combination of his depression and his use of multiple impairing/sedating medications 
+contributed to the pilot's poor decision-making and therefore contributed to the accident.

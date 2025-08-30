@@ -1,0 +1,38 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+New Albany, Mississippi
+Accident Number:
+CEN19FA119
+Date & Time:
+April 13, 2019, 15:14 Local 
+Registration:
+N265DS
+Aircraft:
+Rockwell International NA-265-65
+Aircraft Damage:
+Destroyed
+Defining Event:
+Electrical system malf/failure
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Two instrument-rated commercial pilots and one passenger were conducting a cross-country flight in 
+instrument meteorological conditions when they began discussing an electrical malfunction; they then 
+reported the electrical problem to air traffic control. The airplane subsequently made a descending right 
+turn and impacted wooded terrain at a high speed. Most components of the airplane were highly 
+fragmented, impact damaged, and unidentifiable.
+Based on the limited discussion of the electrical problem on the cockpit voice recorder and the damage 
+to the airplane, it was not possible to determine the specific nature of the electrical malfunction the 
+airplane may have experienced. While it was not possible to determine which systems were impacted by 
+the electrical malfunction, it is possible the flight instruments were affected. The airplane's descending, 
+turning, flight path before impact is consistent with a system malfunction that either directly or 
+indirectly (through a diversion of attention) led to the pilot's loss of  awareness of the airplane's 
+performance in instrument meteorological conditions and subsequent loss of control of the airplane.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An unidentified electrical system malfunction that led to the pilots losing awareness of the 
+airplane's performance in instrument meteorological conditions and resulted in a loss of 
+control of the airplane.

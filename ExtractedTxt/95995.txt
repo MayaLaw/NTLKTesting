@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+South Bend, Indiana
+Accident Number:
+CEN17LA348
+Date & Time:
+September 12, 2017, 13:35 Local 
+Registration:
+N9368Y
+Aircraft:
+Beech N35
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that the airplane was nearing the destination at the conclusion of a long 
+cross-country flight when the engine experienced a total loss of power. The pilot declared an emergency 
+and conducted a forced landing to a highway. During the forced landing, the airplane struck an elevated 
+island and a car and was substantially damaged. 
+A postaccident examination of the airplane revealed blue-colored fuel stains streaking from the right 
+wing fuel filler aft to the trailing edge of the right wing flap. The right fuel tank contained 1 cup of fuel 
+and the left fuel tank had about 10 gallons of fuel. The fuel cap and seat were unremarkable. An 
+examination of the engine and remaining systems revealed no anomalies. 
+It is likely that the right fuel cap was not seated properly before takeoff, which resulted in the siphoning 
+of the fuel during the flight, and a subsequent total loss of engine power due to fuel starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The improperly seated fuel cap, which resulted in an in-flight fuel leak and subsequent total loss of 
+engine power due to fuel starvation.

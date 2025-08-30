@@ -1,0 +1,29 @@
+{
+    "Filename": "98157.txt",
+    "Location": "Delaware, Ohio",
+    "Accident Number": "CEN18LA351",
+    "Date & Time": "August 26, 2018, 16:34 Local",
+    "Aircraft": "Cessna P210",
+    "Registration": "N4842K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot departed airport rejoin fly formation vintage airplane airplane rejoined formation engine lost total power pilot made forced landing airplane nosed sustained damage vertical stabilizer postaccident examination airframe engine revealed evidence mechanical malfunction failure would precluded normal flight operation downloaded engine data revealed rapid drop fuel flow decrease engine rpm consistent fuel starvation pilot attributed power loss running right tank fuel switching fuel selector right left fuel tank initially planned flight pilot stated high engine power setting used rejoin vintage airplane fuel planning consideration accounted preflight inflight fuel planning routine rushed desire rejoin formation probable cause finding national transportation safety board determines probable cause accident pilot inadequate fuel management resulted total loss engine power due fuel starvation contributing accident pilot distraction formation flight",
+        "Top Words": [
+            [
+                "fuel",
+                9
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

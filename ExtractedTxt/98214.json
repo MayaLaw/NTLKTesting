@@ -1,0 +1,29 @@
+{
+    "Filename": "98214.txt",
+    "Location": "Pacoima, California",
+    "Accident Number": "WPR18FA249",
+    "Date & Time": "September 3, 2018, 17:10 Local",
+    "Aircraft": "Cessna 150L",
+    "Registration": "N10789",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "flight instructor passenger conducting local area discovery flight 50 second airplane cleared takeoff instructor transmitted tower controller needed turn back tower controller cleared airplane land communication received instructor video recording gopro camera mounted cockpit provided overtheshoulder view airplane occupant instrument panel flight audio video revealed uneventful taxi runup instructor taxied airplane onto runway hand still yoke passenger advanced throttle start takeoff roll airplane became airborne 20 ft ground level agl instructor removed hand yoke allow passenger fly two second later airplane nose dropped instructor put right hand yoke left hand throttle rpm gauge indicated 2200 2300 rpm instructor appeared verify throttle full power mixture full rich airplane 50 ft agl instructor quickly pulled back throttle rpm dropped 1300 increased throttle full power rpm increased 2200 rpm instructor initiated left bank turn airplane subsequently pitched banked left 15 20 airspeed began slow ball turnandslip indicator showed almost fullright deflection instructor continued pull yoke aft airspeed continued decrease throughout turn airplane subsequently entered left spin 50 ft agl turned 270 impacted overhang building 500 ft adjacent departure end runway witness reported seeing airplane shortly takeoff one witness reported engine sounded abnormal like sputtering another witness reported seeing airplane low altitude descending rapidly wing dipping side side subsequently airplane rolled 180 descended nose another witness reported seeing airplane enter left spiraling turn",
+        "Top Words": [
+            [
+                "airplane",
+                13
+            ],
+            [
+                "instructor",
+                10
+            ],
+            [
+                "throttle",
+                5
+            ]
+        ]
+    }
+}

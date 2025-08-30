@@ -1,0 +1,29 @@
+{
+    "Filename": "99347.txt",
+    "Location": "Philadelphia, Pennsylvania",
+    "Accident Number": "GAA19CA234",
+    "Date & Time": "March 24, 2019, 15:30 Local",
+    "Aircraft": "Cessna T310",
+    "Registration": "N358MN",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "flight instructor retractablelanding gear multiengine airplane reported performing aerial survey training newly hired pilot airplane slowed mission airspeed 117 knot meant reduced power use 15 flap added pulled landing gear warning circuit breaker silence landing gear warning horn ensure clear communication pull landing gear motor circuit breaker pilot receiving instruction reported know instructor pulled landing gear warning circuit breaker instructor reported returning departure airport landing checklist accomplished 15 20 mile airport saw pilot falling behind power descent management airplane high fast approach instructor advised pilot correct began assist pilot taking longer anticipated airplane decelerated white airspeed arc instructor moved landing gear selector switch position added full flap added flap added shortly landing gear selector switch put position could tell flight characteristic landing gear extended neither pilot noticed green downandlocked position light indicator airplane landed landing gear retracted airplane sustained substantial damage fuselage engine instructor added configuring airplane runway observed landing gear warning horn landing gear motor circuit breaker tripped director maintenance reported postaccident examination airplane lifted onto jack emergency gear extension three electrical landing gear retraction conducted defect found photograph provided flight instructor landing gear warning horn landing gear motor circuit breaker right next despite instructor statement pull",
+        "Top Words": [
+            [
+                "gear",
+                15
+            ],
+            [
+                "landing",
+                14
+            ],
+            [
+                "instructor",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "94769(1).txt",
+    "Location": "Daytona Beach, Florida",
+    "Accident Number": "ERA17LA113",
+    "Date & Time": "February 24, 2017, 06:39 Local",
+    "Aircraft": "Cirrus SR20",
+    "Registration": "N255JB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "instrumentrated private pilot filed instrument flight rule ifr flight plan crosscountry flight intended depart visual flight rule condition open ifr flight plan shortly takeoff stated preflight inspection see low cloud able see star airplane departed shortly sunrise pilot stated retracting flap takeoff encountered low level fog 300 ft agl airplane entered instrument meteorological condition pilot made right turn avoid final approach course opposite runway saw tree attempted avoid impacting recalled waking airplane ground weather condition near accident site time accident included scattered cloud 500 ft visibility 6 mile mist series event described pilot consistent loss control due spatial disorientation likely due unexpected loss visibility initial climb probable cause finding national transportation safety board determines probable cause accident pilot inadvertent encounter instrument meteorological condition fog initial climb resulted loss control due spatial disorientation",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "flight",
+                5
+            ],
+            [
+                "condition",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+St. Johns, Arizona
+Accident Number:
+WPR18LA262
+Date & Time:
+September 15, 2018, 15:40 Local 
+Registration:
+N734FT
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he initially attempted to take off, but the airplane was not accelerating fast 
+enough and he aborted the takeoff. The pilot then decided to take off from a longer runway at the 
+airport. When the airplane was about 100 ft above ground level, he observed that it was not continuing 
+to climb. The pilot-rated passenger/owner stated that the stall warning horn sounded. The airplane began 
+to lose altitude and subsequently collided with a stand of trees. The airplane came to rest inverted and 
+sustained substantial damage to both wings, the forward fuselage, and the empennage. The pilot reported 
+that there were no preaccident mechanical malfunctions or failures with the airframe or engine that 
+would have precluded normal operation and that the airplane's weight was about 50 lbs less than its 
+maximum gross takeoff weight. The pilot-rated passenger reported that he thought that the high density 
+altitude was the cause of the accident. 
+The calculated density altitude was about 8,600 ft at the time of the accident. According to the Federal 
+Aviation Administration Koch Chart, given the surrounding temperature and field elevation, the airplane 
+would have likely experienced a 68% decrease in the normal climb rate. Thus, it is likely that the 
+airplane did not have sufficient airspeed to climb in those conditions.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

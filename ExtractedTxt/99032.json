@@ -1,0 +1,29 @@
+{
+    "Filename": "99032.txt",
+    "Location": "Princeton, New Jersey",
+    "Accident Number": "GAA19CA153",
+    "Date & Time": "February 23, 2019, 18:40 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N5338N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Wildlife encounter (non-bird)",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported landing night airplane struck two deer runway added see deer runway approach landing airplane sustained substantial damage right horizontal stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration faa airport facility directory accident airport stated part deer bird vicinity airport pilot stated airport fencing intermittent deer frequently seen around airport airport manager added airport perimeter fence covered eastern southern perimeter deer strike occurred least every 2 year however according faa wildlife strike database last reported wildlife strike accident airport occurred april 10 2012 faa part 139 certalert 1603 recommended wildlife exclusion fencing provides airfield exclusion method deer large mammal recommends constructing fencing fully around airfield without gap probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airport",
+                8
+            ],
+            [
+                "deer",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

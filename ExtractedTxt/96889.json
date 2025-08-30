@@ -1,0 +1,29 @@
+{
+    "Filename": "96889.txt",
+    "Location": "CLEBURNE, Texas",
+    "Accident Number": "CEN18LA124",
+    "Date & Time": "March 14, 2018, 16:00 Local",
+    "Aircraft": "White THORPE T 18",
+    "Registration": "N118RG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot reported engine running roughly departed local flight troubleshooting avail decided return airport stated mistakenly landed pasture short runway airplane struck tree although pilot reported fuel line feeding fuel engine also reported believed ran fuel examination airplane revealed evidence fuel pilot belief ran fuel lack evidence fuel accident site likely engine lost power due fuel exhaustion probable cause finding national transportation safety board determines probable cause accident loss engine power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                8
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

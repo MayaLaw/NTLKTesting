@@ -1,0 +1,42 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Barrow, Alaska
+Accident Number:
+GAA16CA463
+Date & Time:
+September 3, 2016, 11:45 Local 
+Registration:
+N9928T
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that during the landing flare on a backcountry airstrip he lost forward visual sight due 
+to a sun glare. The pilot further reported that as he was about to perform a go around, the wheels touched 
+down and the airplane veered off the airstrip to the left. During the runway excursion, the left wheel hit a 
+soft spot and the airplane nosed over, which resulted in substantial damage to the right wing strut and 
+fuselage.
+The pilot reported that there were no preimpact mechanical failures or malfunctions with the airframe or 
+engine that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll, which resulted in a runway 
+excursion, a nose over, and substantial damage to the right wing strut and fuselage. Contributing to the 
+accident was the sun glare which inhibited the pilot's forward visual sight.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot
+Environmental issues
+Glare - Effect on personnel
+Environmental issues
+Soft surface - Contributed to outcome

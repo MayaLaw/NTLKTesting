@@ -1,0 +1,29 @@
+{
+    "Filename": "99061.txt",
+    "Location": "Summersville, Missouri",
+    "Accident Number": "CEN19FA093",
+    "Date & Time": "March 5, 2019, 22:04 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N7369W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting multileg crosscountry flight last refueled airplane 2698 gallon fuel 375 mile accident location 450 mile destination airport departure last fuel stop pilot continued final leg flight dark night condition radar data consistent accident flight showed airplane course 5000 ft mean sea level 4 hour end radar track airplane began descending turned north southeast airplane impacted tree terrain right wing separated fuselage buckled wreckage airplane found wooded hilly terrain next morning motorist nearby road airplane impacted tree terrain attitude consistent forced landing dark night condition likely would made difficult pilot see tree landing postaccident examination airplane revealed two fuel tank compromised left fuel tank empty right fuel tank contained minimal amount fuel trace amount fuel found fuel line fuel pump damage propeller blade consistent little engine power time impact preimpact mechanical malfunction failure airframe engine noted examination although emergency locator transmitter found inoperable airplane averaged 94 knot ground speed flight entire flight fuel stop destination airport taken 4 hour 48 minute speed although extent pilot preflight fuel planning inflight fuel monitoring could determined fuel burn rate 10 gallon per hour enough fuel complete planned flight required 45minute night flight fuel reserve thus pilot preflight fuel planning likely inadequate engine lost power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                17
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "flight",
+                7
+            ]
+        ]
+    }
+}

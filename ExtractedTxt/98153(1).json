@@ -1,0 +1,29 @@
+{
+    "Filename": "98153(1).txt",
+    "Location": "Swainsboro, Georgia",
+    "Accident Number": "ERA18FA231",
+    "Date & Time": "August 25, 2018, 14:00 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N4785D",
+    "Flight Conducted Under": "Part 91: General aviation - Skydiving",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "4 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "completing several skydiving flight without incident airplane refueled pilot completed next flight uneventfully however takeoff subsequent flight airplane reached altitude 150 ft ground level lost total engine power witness reported wing rocked left right airplane pitched impacted ground examination airplane revealed right fuel tank cap missing tape covering fuel filler port right wing tape installed recent refueling fuel selector valve sustained significant thermal damage observed position disassembled examination fuel tank vent line reveal obstruction however line impact damaged examination engine component revealed anomaly would precluded normal operation installation tape right wing fuel filler port likely resulted nonventing seal could determined resulted loss engine power mean fuel system venting likely remained total loss engine power airplane exceeded critical angle attack experienced aerodynamic stall low altitude pilot recover probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined based available information",
+        "Top Words": [
+            [
+                "fuel",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

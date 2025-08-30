@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Merritt Island, Florida
+Accident Number:
+GAA18CA479
+Date & Time:
+August 9, 2018, 10:00 Local 
+Registration:
+N487JK
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that, during landing, before initiating the landing flare, he saw a "white 
+bird" heading toward the airplane. He applied left rudder to avoid the bird, and the airplane drifted left 
+of the runway centerline. He then "[pulled] the yoke back," but the left main landing gear impacted a 
+taxiway sign, and the airplane settled on grass adjacent to the runway.
+The airplane sustained substantial damage to the left-wing spar.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack while maneuvering to avoid a bird during 
+the landing flare, which resulted in an aerodynamic stall. 

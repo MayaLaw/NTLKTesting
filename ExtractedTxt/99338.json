@@ -1,0 +1,29 @@
+{
+    "Filename": "99338.txt",
+    "Location": "Quanah, Texas",
+    "Accident Number": "CEN19TA131",
+    "Date & Time": "April 28, 2019, 12:58 Local",
+    "Aircraft": "Air Tractor AT 602",
+    "Registration": "N602AM",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot conducting aerial application pass parallel transmission power line final trim pas pilot flew field power line passing power line propeller blade struck wire see engine lost power pilot indicated conducted controlled crash landing 15 mile away power line strike airplane sustained substantial damage fuselage pilot reported malfunction prior hitting powerline probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance power line low altitude aerial application maneuver finding personnel issue monitoring environment pilot environmental issue wire contributed outcome",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "power",
+                6
+            ],
+            [
+                "line",
+                5
+            ]
+        ]
+    }
+}

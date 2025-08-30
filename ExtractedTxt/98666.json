@@ -1,0 +1,29 @@
+{
+    "Filename": "98666.txt",
+    "Location": "Homosassa, Florida",
+    "Accident Number": "GAA19CA070",
+    "Date & Time": "November 8, 2018, 10:00 Local",
+    "Aircraft": "Cessna T337",
+    "Registration": "N1ZR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported 2 day accident flight multiengine airplane fuel tank filled 150 gallon taxi runway right main tire blew recovery right side airplane placed dolly support gear airplane could towed pilot reported due airplane fuel system design one side airplane raised fuel could transferred opposite tank forced fuel released air vent line day accident pilot completed preflight inspection visually confirmed fuel quantity checking fuel gauge green however verify fuel onboard checking tank 3 hour flight rear engine lost power pilot attempted restart rear engine verified correct engine feather front engine also lost power pilot realized airplane would unable reach nearest airport landed grass marsh landing gear retracted landing airplane wing hit grass veered right 90 caused left wing dip impact terrain airplane sustained substantial damage left aileron empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation preflight inspection pilot verified fuel quantity fuel tank ensure sufficient fuel onboard flight failure led fuel exhaustion subsequent total loss power engine",
+        "Top Words": [
+            [
+                "fuel",
+                11
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

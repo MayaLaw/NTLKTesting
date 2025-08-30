@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Watkins, Colorado
+Accident Number:
+CEN17LA220
+Date & Time:
+June 8, 2017, 13:40 Local 
+Registration:
+N7328V
+Aircraft:
+Bellanca 17 30
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and passenger planned to complete touch-and-go takeoffs and landings in order 
+for the pilot to build time in the airplane. The pilot reported that the main fuel tanks were full before 
+takeoff and that he began the flight with the left main fuel tank selected. After the final touch-and go, 
+while on the upwind leg of the traffic pattern and 700 ft above ground level, the engine experienced a 
+total loss of power. The pilot was unable to troubleshoot the loss of power and made a forced landing to 
+a field, where the airplane impacted a ditch and came to rest upright. 
+The airplane's owner reported that he flew the airplane the day before the accident for about 1 hour, 
+during which the engine performed normally with no anomalies noted. He added that no fuel had been 
+added to the tanks in the previous 2.5 flight hours. There was no evidence of additional fuel being added 
+to the airplane after the owner's flight and before the accident flight. 
+A postaccident examination of the airplane revealed that the left main fuel tank was empty; the right 
+main tank and the two auxiliary tanks contained a combined 45 gallons of fuel. The fuel selector was 
+found positioned to the left main fuel tank. Although the amount of fuel onboard the airplane at the 
+beginning of the flight could not be determined, it is likely that the pilot kept the fuel selector selected to 
+the left main fuel tank throughout the entire flight, and the loss of engine power occurred when the tank 
+was exhausted of usable fuel. 
+An engine test run did not reveal any preimpact anomalies that would have precluded normal engine 
+operation. The electric fuel boost pump was inoperative for undetermined reasons and a replacement 
+fuel boost pump was installed only for the purposes of starting the engine. Since the electric boost pump 
+is not required for engine operation in flight, its inoperative state would not have contributed to the loss 
+of engine power. The fuel selector valves were free of obstructions. 

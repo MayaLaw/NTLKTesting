@@ -1,0 +1,42 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Thomaston, Georgia
+Accident Number:
+ERA18LA226
+Date & Time:
+July 4, 2018, 09:30 Local 
+Registration:
+N8314W
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot performed a preflight inspection with no anomalies noted before the cross-country 
+flight. He made a full-stop landing at an airport before flying to the destination airport. He 
+configured the airplane for final approach. The main landing gear touched down, but when the 
+nose landing gear contacted the runway, the airplane veered left. The pilot attempted to 
+counteract the turn by applying rudder; however, the airplane continued to the left side of the 
+runway. The right wing tip touched the pavement, the propeller struck the runway, and the nose 
+landing gear wheel separated as the airplane continued off the runway. The airplane came to 
+rest about 75 ft off the left side of the runway in a grassy area. The rod that attached the 
+nosewheel to the nosewheel assembly remained connected to the nose landing gear fork; 
+however, the rod was bent, and one of the nuts that secured the nosewheel to the rod was 
+missing. Further examination  revealed that the rod was threaded on both ends; one end had a 
+nut attached, while the other end had bare threads that had been deformed in a manner 
+consistent with the nut having been pulled off the threads. The missing nut was not located on 
+the runway. The airplane had landed over 250 times between the most recent annual 
+inspection and the accident. The location of the missing nut could not be seen during the 
+preflight inspection because the area is covered by the wheel fairing. It could not be 
+determined when the nut was pulled from the axle rod.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A landing gear axle nut being pulled from the threads of the axle rod at an unknown time, 
+which resulted in the pilot's inability to maintain directional control during landing.

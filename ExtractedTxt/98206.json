@@ -1,0 +1,29 @@
+{
+    "Filename": "98206.txt",
+    "Location": "Covington, Tennessee",
+    "Accident Number": "ERA18FA240",
+    "Date & Time": "September 1, 2018, 17:20 Local",
+    "Aircraft": "LANCE M HOOLEY JETEZ",
+    "Registration": "N815EY",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot flying experimental amateurbuilt airplane 200 ft ground level left wing failed causing airplane abruptly depart controlled flight subsequently impact terrain two witness indicated left wing began flutterlike movement described oscillation wave like movementwiggle immediately wing failed midspan speed airplane time left wing failure could determined however witness extensive experience observing accident airplane flight reported pilot performed intentional low pas airport speed may near airplane maximum structural limit national transportation safety board material laboratory examined portion internal left wing material found lack penetration bonding epoxy resin resulted wing section adhesive disbonded leading wing failure finding indicated fabrication problem manufacture wear time environmental degradation failure lack impregnation resin wing skin piece indicated lack vacuum seal curing process airplane builder record located investigation therefore method timeline manufacturing wing could determined nevertheless finding indicated left wing properly designed manufactured resulted flutter high speed likely airplane left wing entered flutter condition highspeed lowpass maneuver left wing internal composite structure near wing midspan subsequently experienced failure adhesive composite layer probable cause finding",
+        "Top Words": [
+            [
+                "wing",
+                13
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97768.txt",
+    "Location": "Geneseo, New York",
+    "Accident Number": "ERA18LA191",
+    "Date & Time": "July 13, 2018, 18:00 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N291CP",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Serious, 2 Minor",
+    "Analysis": {
+        "Text": "commercial pilot reported accident flight repositioned airplane uneventfully airport 20 mile away takeoff accident flight pilot performed engine runup verified flight control free correct pilot initiated softfield takeoff procedure bumpy grass runway airplane became airborne ground effect 45 knot began climb ground effect 60 knot time airplane nose pitched abruptly pilot pushed yoke forward hard could engaging nosedown electric elevator trim however airplane continued climb excessive angle attack subsequently stalled airplane rolled left descended ground came rest inverted neither passenger could recall whether pilot conducted type control check engine runup takeoff examination wreckage reveal evidence preimpact mechanical malfunction failure would precluded normal operation elevator trim tab found midrange nosedown position consistent pilot statement trimming nose attempt recover loss control takeoff takeoff runup checklist stated elevator trimmed 20 nose takeoff given airplane pitched abruptly began climb ground effect likely pilot landed previous flight noseup elevator trim setting properly reset elevator trim takeoff accident flight accordance takeoff runup checklist resulted exceedance airplane critical angle attack takeoff subsequent aerodynamic stall probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "takeoff",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

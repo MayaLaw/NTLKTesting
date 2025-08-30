@@ -1,0 +1,43 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Pahokee, Florida
+Accident Number:
+WPR19FA093
+Date & Time:
+March 8, 2019, 15:26 Local 
+Registration:
+N5894Y
+Aircraft:
+Piper PA23
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+5 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Unknown
+Analysis 
+While descending from cruise altitude toward the destination airport, the pilot reported to air traffic 
+control that he needed to divert to a closer airport because the left engine was "misfiring" and that he 
+was going to "shut it down." Radar data indicated that the airplane flew toward the diversion airport and 
+continued to maneuver south past the airport, where radar contact was lost around 700 ft mean sea level. 
+The airplane subsequently impacted a lake about 1/2 mile west of the airport. 
+Data from the airplane's engine monitoring system revealed a drop in left engine exhaust gas 
+temperature (EGT), cylinder head temperature (CHT), and fuel flow values near the end of the flight. 
+These values then increased again for a few minutes before decreasing a second time. The left engine 
+fuel flow value for the last 3 minutes of the data was 0, and the left propeller was found in the feathered 
+position, consistent with the pilot having shut down and secured the engine in flight. 
+Review of the airframe maintenance logbook indicated that several airframe-related fuel system 
+components were replaced during the 4 months before the accident. An entry in the left engine logbook 
+about 4 days before the accident stated that the left engine No. 5 CHT was fluctuating and that a loss of 
+300 rpm was experienced when testing the right magneto in flight; however, this issue could not be 
+duplicated on the ground, and the airplane was returned to service. Fuel residue was observed on and 
+around the left engine's electric fuel pump. The pump was removed and functionally tested, during 
+which two leaks were found during pressure tests; however, the effect of these leaks on engine operation 
+could not be determined. No other anomalies of the airframe fuel system were observed; however, the 
+system was heavily fragmented and had been submerged in water for several days before recovery.
+Based on the available information, the reason for the reported loss of engine power and the extent to 
+which the left engine may have been able to continue to produce power could not be determined. 
+Additionally, the reason for the pilot's low-altitude maneuvering in the vicinity of the runway could not 

@@ -1,0 +1,29 @@
+{
+    "Filename": "98451.txt",
+    "Location": "Gambell, Alaska",
+    "Accident Number": "ANC19CA002",
+    "Date & Time": "October 3, 2018, 15:00 Local",
+    "Aircraft": "Beech 1900",
+    "Registration": "N575Q",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "9 None",
+    "Analysis": {
+        "Text": "according flight crew instrument approach flown glideslope anticipation mechanical turbulence airplane descended 500 ft pilot monitoring notified pilot flying airplane high approach airplane continued approach glideslope landing flare conducted high resulted excessive sink rate pilot flying attempted arrest sink rate unable airplane landed harder expected resulted tail strike substantial damage lower aft fuselage probable cause finding national transportation safety board determines probable cause accident pilot unstabilized approach improper landing flare resulted hard landing finding personnel issue aircraft control pilot aircraft landing flare attainedmaintained aircraft descentapproachglide path attainedmaintained",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "approach",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

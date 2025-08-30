@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Latrobe, Pennsylvania
+Accident Number:
+ERA19LA123
+Date & Time:
+March 12, 2019, 13:36 Local 
+Registration:
+N945WS
+Aircraft:
+Beech A100
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+According to the pilot, while lowering the landing gear handle in preparation for landing, he and the co-
+pilot heard a crunching noise. He noticed that the landing gear indicator lights did not turn green, and the 
+crew was unable to extend the gear manually. The crew diverted to an airport with emergency 
+equipment and a control tower. Following a fly-by, the tower controller reported that the landing gear 
+appeared to be extended; however, during the landing roll, the left main landing gear collapsed, followed 
+by the right main landing gear, resulting in substantial damage to the airplane. Examination of the 
+airplane revealed that the main landing gear mechanical linkage was compromised, and the right main 
+landing gear actuator shaft was broken. A mechanic examined the airplane and found that the actuator 
+pinion bearing support had separated from the actuator for undetermined reasons, causing a side load to 
+the actuator and initiating the fracture.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A landing gear collapse due to the separation of the actuator pinion bearing support from the actuator, 
+which resulted in the failure of the actuator shaft. 
+ 

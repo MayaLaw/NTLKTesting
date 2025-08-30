@@ -1,0 +1,29 @@
+{
+    "Filename": "99117.txt",
+    "Location": "Cashiers, North Carolina",
+    "Accident Number": "ERA19FA130",
+    "Date & Time": "March 14, 2019, 18:15 Local",
+    "Aircraft": "Mooney M20C",
+    "Registration": "N6075Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot obtained weather briefing filed instrument flight rule flight plan night crosscountry flight 30 minute departure air traffic controller advised pilot overcorrected turn shortly pilot advised controller attitude indicator functioning controller asked pilot cloud pilot responded instrument meteorological condition controller attempted help pilot get clearer air pilot continued difficulty controlling airplane maintaining assigned course radar contact radio contact lost shortly thereafter wreckage located mountainous terrain major component control surface accounted accident site various part airplane scattered treetop wreckage debris field airplane attitude indicator recovered directional gyroscope vacuum pump examined detail examination vacuum pump revealed shear coupling connected driveshaft engine accessory drive gear vacuum pump driveshaft assembly likely fractured impact condition fractured shear coupling consistent drive side rotating fracture contact separated hence stationary driven side transverse fracture observed shear coupling would disengaged twopiece driveshaft would allowed pump rotate additionally six vacuum pump vane intact rotor fragmented four relatively large piece relatively small area fragmentated smaller piece given information vacuum pump likely rotating impact greater degree fragmentation would expected pump rotating interior surface vacuum pump housing displayed wear consistent vane impact dragging debris contamination within housing point pump operational lifetime one",
+        "Top Words": [
+            [
+                "pump",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "vacuum",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98209.txt",
+    "Location": "Kenosha, Wisconsin",
+    "Accident Number": "CEN18LA360",
+    "Date & Time": "August 30, 2018, 19:00 Local",
+    "Aircraft": "Stearman A75N1(PT17)",
+    "Registration": "N64604",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Sys/Comp malf/fail (non-power)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "airline transport pilot performed three touchandgo maneuver without braking fourth last planned landing roll 30 mph airplane experienced excessive tailwheel shimmy 25 mph airplane nosed came rest inverted postaccident examination airplane revealed left main wheelbrake assembly locked thus wheeltire could rotated partial disassembly wheelbrake assembly revealed failed retaining bolt brake backing plate crack backing plate bolt likely broke became lodged assembly thus likely failed retaining bolt cracked backing plate resulted shift brake lining contact brake drum led subsequent wheel lock brake applied probable cause finding national transportation safety board determines probable cause accident failed retaining bolt cracked backing plate resulted shift brake lining contact brake drum subsequent wheel lock brake applied finding aircraft landing gear brake system failure aircraft general attainmaintain possible",
+        "Top Words": [
+            [
+                "brake",
+                8
+            ],
+            [
+                "bolt",
+                4
+            ],
+            [
+                "backing",
+                4
+            ]
+        ]
+    }
+}

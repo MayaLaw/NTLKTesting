@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Spring, Texas
+Accident Number:
+CEN19LA113
+Date & Time:
+March 28, 2019, 15:45 Local 
+Registration:
+N494JB
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was taxiing the airplane to the runway to depart on a personal flight when the 
+airplane veered to the right and the right main landing gear descended into a drainage ditch. 
+The pilot and the passenger were not injured. The right horizontal stabilizer and elevator were 
+substantially damaged.
+In a postaccident statement, the pilot reported no anomalies with the wheel brake system 
+before she began taxiing the airplane. She also reported that the tailwind during taxi caused a 
+high groundspeed but that the airplane was “uncontrollable” via the rudder and brakes. 
+The airplane’s pilot operating handbook states that the groundspeed and use of brakes should 
+be held to a minimum while taxiing, directional control should be maintained with the 
+steerable nosewheel and the rudder, and the proper positioning of the ailerons and elevator for 
+wind direction is required to maintain directional control and balance. Additionally, according 
+to the FAA’s Airplane Flying Handbook, a pilot must maintain a safe taxiing speed to ensure 
+directional control and must have the ability to recognize any potential hazards in time to avoid 
+them and to stop or turn where and when desired without undue reliance on the wheel brakes.
+Postaccident examination and testing revealed no anomalies with the airplane’s wheel brake 
+system or the steerable nosewheel. The wind at the airport about the time of the accident was 
+from 140° at 13 knots gusting to 21 knots.  Thus, the pilot likely allowed the airplane to 
+accelerate to an unsafe groundspeed during taxi, resulting in a loss of directional control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

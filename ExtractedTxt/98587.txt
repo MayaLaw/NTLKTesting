@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Bradley, South Dakota
+Accident Number:
+CEN19FA021
+Date & Time:
+November 2, 2018, 11:30 Local 
+Registration:
+N81KD
+Aircraft:
+Cessna 210
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The non-instrument-rated pilot was conducting a cross-country personal flight. Earlier on the morning of 
+the accident, the pilot had diverted from his intended destination airport because of poor weather there. 
+After waiting at the diversion airport for about 1.5 hours, the pilot decided to attempt the 35-mile flight 
+to the destination airport. During taxi, the pilot called a friend to ask about weather conditions close to 
+the destination airport, and the friend advised the pilot that "pretty low clouds" existed. 
+The pilot departed and remained at a low altitude until about 3 minutes before the accident, when air 
+traffic control radar captured the airplane's altitude at 800 ft above ground level (agl). During the last 
+minute of recorded data, the airplane made a climbing left turn of about 90° from an altitude of 1,000 to 
+2,100 ft agl and slowed from a groundspeed of 144 to 106 knots. A witness near the accident site heard 
+what sounded to be an airplane climbing and descending twice, which was followed by the sound of a 
+"loud bang." The airplane impacted terrain with a nose-down attitude at high speed, and a postcrash fire 
+ensued. Postaccident examination of the airframe and engine revealed no evidence of mechanical 
+malfunctions or failures that would have precluded normal operation. 
+Even though the available evidence indicated that the pilot did not request a weather briefing or receive 
+weather information from a vendor, the pilot should have known, before the start of the flight, that 
+instrument meteorological conditions (IMC) would likely exist near his destination based on the 
+information that his friend provided. The weather conditions at the closest official reporting station to 
+the accident site during the time surrounding the accident indicated a 500-ft cloud ceiling and reduced 
+visibility due to mist, and AIRMETs that were valid for the accident location and time indicated that 
+instrument flight rules conditions existed. This information confirmed that the accident airplane was in 
+IMC at the time of the accident. 
+On a previous flight, the pilot had intentionally flown into IMC conditions with the autopilot on. The 
+pilot's decision to fly along a route with low ceilings and his subsequent entry into IMC conditions most 
+likely resulted in the pilot becoming spatially disoriented, which led to a steep dive and ground impact.

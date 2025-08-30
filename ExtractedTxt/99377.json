@@ -1,0 +1,29 @@
+{
+    "Filename": "99377.txt",
+    "Location": "Sandy Valley, Nevada",
+    "Accident Number": "GAA19CA242",
+    "Date & Time": "May 5, 2019, 08:00 Local",
+    "Aircraft": "Flight Design CTLS",
+    "Registration": "N175LM",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported biennial flight review flight instructor told expect simulated engine failure takeoff engineout approach perpendicular runway departure 400 ft ground level agl instructor reduced power pilot turned left land perpendicular runway overshot runway banked 40 felt strong sink leveled wing added full power 150 200 ft agl airplane continued descend instructor stated considered taking flight control pilot maintained control airplane landed hard right main landing gear mlg struck hole airplane veered right left mlg separated airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot steep bank turn low altitude resulted rapid descent hard landing",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

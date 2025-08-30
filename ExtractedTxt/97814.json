@@ -1,0 +1,29 @@
+{
+    "Filename": "97814.txt",
+    "Location": "Nashville, Tennessee",
+    "Accident Number": "GAA18CA428",
+    "Date & Time": "July 17, 2018, 12:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N7880G",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported solo flight made approach airplane airspeed fast intended float along 8000ftlong runway extending distance touchdown wanted exit taxiway near end runway landing flare misperceived airplane height runway runway 50 ft wider departure airport runway added airplane sank touched main landing gear bounced pilot reported panicked applied back pressure yoke thinking would slowthe airplane airplane bounced several time applied forward pressure yoke get forward momentum flare airplane settled runway taxi pilot felt something wrong nosewheel continued taxi hangar airplane sustained substantial damage lower engine mount pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted bounced landing",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "runway",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

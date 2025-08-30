@@ -1,0 +1,29 @@
+{
+    "Filename": "98769.txt",
+    "Location": "Punta Gorda, Florida",
+    "Accident Number": "ERA19LA065",
+    "Date & Time": "December 13, 2018, 14:00 Local",
+    "Aircraft": "CZECH SPORT AIRCRAFT AS Piper",
+    "Registration": "N145MM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "extended base leg airport traffic pattern pilot reduced engine power turned electrical auxiliary fuel pump engine lost power attempted restart engine unsuccessful pilot executed forced landing field landing airplane struck fence utility pole sustained substantial damage wing onsite examination airplane revealed fuel present fuel tank accident postaccident examination airframe test run engine reveal preimpact electrical mechanical anomaly would precluded normal operation multiple engine test run electric auxiliary fuel pump cycled several time operated normally review recorded data captured engine monitor revealed accident flight oil temperature cylinder head temperature exhaust gas temperature within operating limit specified manufacturer fuel pressure fuel flow value cruise within normal range engine lost power data showed temporary decrease fuel pressure minimum pressure specified engine manufacturer subsequent decrease fuel flow 0 gallon per hour impact fuel pressure returned normal range engine operated satisfactorily accident without electric auxiliary fuel pump activated unlikely engine lost power due fuel pump failure accident flight recorded value fuel flow abnormally high erratic cylinder head temperature maximum limit unlikely air vaporized fuel passed fuel flow sensor obstruction fuel system upstream fuel pressure sensor exhaustion fuel supply could",
+        "Top Words": [
+            [
+                "fuel",
+                17
+            ],
+            [
+                "engine",
+                10
+            ],
+            [
+                "pressure",
+                5
+            ]
+        ]
+    }
+}

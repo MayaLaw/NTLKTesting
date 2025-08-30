@@ -1,0 +1,29 @@
+{
+    "Filename": "98295.txt",
+    "Location": "Spanish Fork, Utah",
+    "Accident Number": "GAA18CA553",
+    "Date & Time": "September 13, 2018, 08:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N7223J",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "flight instructor reported takeoff airplane reached rotation speed student took foot rudder pedal airplane drifted left runway centerline student quickly placed foot back pedal pushed right brake caused airplane veer right instructor brake side applied left rudder airplane departed right side runway added runway excursion heard tail dragging along ground striking bush subsequently airplane aligned runway fearing damage tail instructor aborted takeoff landed airplane side runway struck large mound dirt ditch airplane sustained substantial damage wing fuselage flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain runway heading takeoff flight instructor decision conduct primary flight instruction airplane without dual control",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "runway",
+                6
+            ],
+            [
+                "instructor",
+                5
+            ]
+        ]
+    }
+}

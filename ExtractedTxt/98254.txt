@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Laramie, Wyoming
+Accident Number:
+CEN18LA373
+Date & Time:
+September 6, 2018, 07:25 Local 
+Registration:
+N376J
+Aircraft:
+Cessna T310
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Business
+Analysis 
+The pilot departed in the multiengine airplane and climbed to cruise altitude. He began to lean 
+the fuel mixture for cruise power and felt a vibration and fluttering. He then slowed the 
+airplane, began to troubleshoot the problem and turned back toward the airport; but when he 
+advanced the throttles to takeoff power, there was no response from engines. The pilot stated 
+that the airplane was “losing altitude fast,” and he attempted to glide the airplane to the 
+interstate for an emergency landing. Unable to reach the interstate, the pilot subsequently 
+performed a gear-up, forced landing to a field, during which the airplane sustained substantial 
+damage. 
+The pilot reported that he was distracted by the vibration and noise and he failed to enrichen 
+the fuel mixtures after beginning the leaning procedure. He stated that there were no 
+mechanical anomalies that would have precluded the engines from producing full power, and 
+that the vibration was the result of the engines running rough due to lack of fuel.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to properly adjust the fuel/air mixtures, which resulted in a partial loss of 
+engine power to both engines due to fuel starvation and a subsequent forced landing to a field. 

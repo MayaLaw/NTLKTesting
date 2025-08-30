@@ -1,0 +1,29 @@
+{
+    "Filename": "97488.txt",
+    "Location": "Big Lake, Alaska",
+    "Accident Number": "GAA18CA351",
+    "Date & Time": "June 15, 2018, 11:00 Local",
+    "Aircraft": "Cessna 185",
+    "Registration": "N9964X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing gravel airstrip right main wheel touched airplane veered right applied full left rudder avail right wheel exited runway soft sandy soil airplane nosed airplane sustained substantial damage wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added accident pointed airplane flat tire tire mark gravel runway airplane touched airplane nosed probable cause finding national transportation safety board determines probable cause accident pilot inability maintain directional control landing roll due flat tire",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "right",
+                3
+            ]
+        ]
+    }
+}

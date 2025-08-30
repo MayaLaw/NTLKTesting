@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Grant-Valkaria, Florida
+Accident Number:
+ERA19LA015
+Date & Time:
+October 13, 2018, 12:05 Local 
+Registration:
+N3HH
+Aircraft:
+Avid Avid Flyer
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was in cruise flight when the engine lost partial power, then total power. He restarted the 
+engine and briefly regained partial power, but shortly thereafter, the engine again lost all power. The 
+pilot performed a forced landing to a road, during which the airplane sustained substantial damage.
+A test run of the engine indicated no anomalies; however, further inspection revealed a stuck float 
+needle in the carburetor and a clogged carburetor vent line, which could have led to an excess vacuum in 
+the carburetor and restricted fuel flow. It is likely that this restriction caused a transient condition that 
+resulted in the loss of engine power that was not replicated during the test run. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to a carburetor malfunction, which resulted in a forced 
+landing.

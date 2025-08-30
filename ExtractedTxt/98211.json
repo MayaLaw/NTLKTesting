@@ -1,0 +1,29 @@
+{
+    "Filename": "98211.txt",
+    "Location": "New Carlisle, Ohio",
+    "Accident Number": "CEN18LA362",
+    "Date & Time": "August 31, 2018, 14:00 Local",
+    "Aircraft": "Luscombe 8",
+    "Registration": "N2305K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot reported airplane exhibited reduced climb performance takeoff engine began running rough airplane climbed 150 ft ground pilot turned carburetor heat removed carburetor heat perceived increase engine roughness engine subsequently lost total power pilot performed forced landing resulting substantial damage forward fuselage right wing examination airplane engine reveal evidence mechanical malfunction would precluded normal operation fuel tank contained fuel vented fuel cap obstructed uncontaminated fuel found carburetor fuel bowl weather condition time accident conducive formation carburetor icing descent engine power setting although pilot observe evidence carburetor ice verified function carburetor heat control takeoff given lack engine anomaly pilot description reduced climb performance roughrunning engine consistent accumulation carburetor ice reported increase engine roughness carburetor heat applied evidence carburetor ice pilot momentary application carburetor heat would ineffective removing ice restoring engine power additionally low altitude loss engine power occurred significantly reduced amount time available pilot troubleshoot restore engine power forced landing probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "carburetor",
+                10
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

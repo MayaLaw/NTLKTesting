@@ -1,0 +1,29 @@
+{
+    "Filename": "98431.txt",
+    "Location": "Rolla, Missouri",
+    "Accident Number": "GAA19CA008",
+    "Date & Time": "October 8, 2018, 17:38 Local",
+    "Aircraft": "Cessna 188",
+    "Registration": "N685JM",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported takeoff airplane veered left exited runway impacted tree airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation according federal aviation administration inspector pilot current biannual flight review current medical certificate airplane airworthy pilot stated takeoff wind gusting automated weather observation station located 12 nautical mile airport reported time accident wind 140 7 knot airplane departed runway 27 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff left quartering tailwind",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

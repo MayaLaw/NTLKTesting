@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Malone, New York
+Accident Number:
+GAA18CA416
+Date & Time:
+June 30, 2018, 19:12 Local 
+Registration:
+N712FP
+Aircraft:
+Aeroprakt A-22 VALOR
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, he overflew the airport and assessed the winds for landing. During the landing 
+flare, the airplane encountered a crosswind gust from the right. The right wing lifted, and the left wing 
+struck the ground. The airplane pivoted about the left wing and landed hard. 
+The airplane sustained substantial damage to the left wing spar.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+The pilot reported that, about the time of the accident, the wind at the airport was from 240° and light 
+and variable, gusting to 7 knots. The pilot landed on runway 23.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper crosswind correction during the landing flare in gusting wind conditions, which 
+resulted in a hard landing.

@@ -1,0 +1,29 @@
+{
+    "Filename": "98831.txt",
+    "Location": "San Diego, California",
+    "Accident Number": "WPR19LA060",
+    "Date & Time": "December 30, 2018, 15:53 Local",
+    "Aircraft": "Piper PA46",
+    "Registration": "N4161X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported airplane began pull left shortly touchdown applied corrective control input airplane continued veer left departed runway main landing gear collapsed examination reveal anomaly steering system would precluded normal operation appropriate service bulletin complied nose gear actuator detached area airframe prone fatigue failure however examination actuator assembly revealed detached overload event likely impact airplane departed runway probable cause finding national transportation safety board determines probable cause accident loss directional control landing roll reason could determined based available information",
+        "Top Words": [
+            [
+                "airplane",
+                3
+            ],
+            [
+                "left",
+                2
+            ],
+            [
+                "control",
+                2
+            ]
+        ]
+    }
+}

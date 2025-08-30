@@ -1,0 +1,29 @@
+{
+    "Filename": "93929.txt",
+    "Location": "Gooding, Idaho",
+    "Accident Number": "GAA16CA459",
+    "Date & Time": "August 30, 2016, 10:15 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N185TJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing roll variable gusting wind condition tailwheel equipped airplane started uncontrolled left turn applied throttle regain directional control effect pilot reported airplane exited runway left became airborne rolled left left wing impacted ground airplane came rest inverted airplane sustained substantial damage wing fuselage empennage pilot reported pre impact mechanical failure malfunction airframe engine would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing resulted runway excursion collision terrain",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "left",
+                4
+            ]
+        ]
+    }
+}

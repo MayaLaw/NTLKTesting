@@ -1,0 +1,29 @@
+{
+    "Filename": "97138.txt",
+    "Location": "Eagle Lake, Texas",
+    "Accident Number": "GAA18CA242",
+    "Date & Time": "April 29, 2018, 14:00 Local",
+    "Aircraft": "SENO LOUIS C SR KIS",
+    "Registration": "N66SK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot takeoff roll airplane encountered left crosswind gust right wing struck grass right side runway airplane pivoted right wing propeller struck ground airplane exited right side runway came rest upright airplane sustained substantial damage rightwing spar pilot reported 12knot wind gust time accident metar nearest accident site reported time accident wind 140 6 knot gusting 13 knot takeoff roll initiated runway 17 pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff gusting crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

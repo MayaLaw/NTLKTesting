@@ -1,0 +1,29 @@
+{
+    "Filename": "99386.txt",
+    "Location": "Kalispell, Montana",
+    "Accident Number": "WPR19LA134",
+    "Date & Time": "May 4, 2019, 11:46 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N185FT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot pilotrated passenger conducted landing turf airstrip airplane pulled right slowed pilot able make full stop landing taxi back take takeoff uneventful remained airport area another landing landing airplane pulled hard right slowed pilot initiated balked landing returned original departure airport final landing airplane touched centerline initially appeared normal landing however shortly landing pilot unable maintain directional control tailwheel equipped airplane veered right side runway despite pilot attempt correct back left left rudder braking postaccident examination airplane revealed tailwheel turn left properly however could determined anomaly existed accident resulted accident probable cause finding national transportation safety board determines probable cause accident loss directional control landing reason could determined based available evidence",
+        "Top Words": [
+            [
+                "landing",
+                9
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

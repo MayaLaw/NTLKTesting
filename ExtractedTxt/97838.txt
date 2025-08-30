@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Ider, Alabama
+Accident Number:
+ERA18LA195
+Date & Time:
+July 18, 2018, 14:00 Local 
+Registration:
+N8805X
+Aircraft:
+Eagle DW1
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The commercial pilot was conducting an aerial application flight. He stated that while maneuvering at 
+1,500 ft, he heard a "deep knock" in the engine; the entire windshield became covered with oil, and the 
+engine lost power. The pilot made a forced landing to a service road, during which the airplane struck a 
+barbed-wire fence with the right wings before coming to rest in a field. Postaccident examination of the 
+engine revealed the No. 2 cylinder had separated from the cylinder mounting deck. Two fractured 
+sections of the left crankcase that included part of the No. 2 cylinder bore were found in the engine 
+cowling. All but one of the No. 2 cylinder base studs and through bolts remained in the cylinder bore 
+and were fractured. The fractured surfaces exhibited signatures consistent with fatigue. The fatigue 
+failure of the No. 2 cylinder studs and through bolts and the fracture of the crankcase led to the loss of 
+engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Fatigue failure of the No. 2 cylinder studs/through bolts and the fracture of the crankcase, which resulted 
+in a total loss of engine power.

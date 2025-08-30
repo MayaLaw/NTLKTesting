@@ -1,0 +1,29 @@
+{
+    "Filename": "98342.txt",
+    "Location": "Healy, Alaska",
+    "Accident Number": "ANC18FA071",
+    "Date & Time": "September 22, 2018, 16:00 Local",
+    "Aircraft": "Piper PA-12-150",
+    "Registration": "N7511H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot performing personal flight one passenger hunt sheep remote mountainous terrain pilot failed report place employment 4 day departure extensive sar operation launched following day wreckage located 2 day sar operation began remote snowcovered mountainous valley airplane came rest upright fuselage banking right wing indicating forwardaft crushing tail slightly elevated little impact damage date time accident could determined thus meteorological condition time accident could determined postaccident examination airframe engine revealed preimpact mechanical malfunction failure would precluded normal operation aft right wing spar exhibited sign compression bending right forward spar exhibiting aft bending aft left wing spar bolt indicated failure tension left forward spar indicated forward bending postcrash fire incinerated large portion wreckage pilot file flight plan pilot filed flight plan sar asset would focused specific search area would likely reduced time find airplane although accident likely survivable due impact force filed flight plan would reduced risk aerial sar asset operating remote mountainous terrain probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "flight",
+                4
+            ],
+            [
+                "sar",
+                4
+            ]
+        ]
+    }
+}

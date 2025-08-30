@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Igiugig, Alaska
+Accident Number:
+GAA18CA565
+Date & Time:
+September 20, 2018, 15:30 Local 
+Registration:
+N121AK
+Aircraft:
+De Havilland DHC 2
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Minor, 6 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot of the float-equipped airplane reported that, during the initial climb after a water takeoff, about 
+200 ft, he turned right, and the engine lost power. He immediately switched fuel tanks and attempted to 
+restart the engine to no avail. The airplane descended and struck trees, and the right wing impacted 
+terrain.
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot reported to the Federal Aviation Administration inspector that, during the initial climb and 
+after the engine lost power, he noticed that the center tank, which was selected for takeoff, was empty. 
+He added that passengers stated that the engine did regain power after switching tanks, but the airplane 
+had already struck trees.
+The pilot reported as a recommendation to more closely follow checklists.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's selection of an empty fuel tank for takeoff, which resulted in fuel starvation and the 
+subsequent total loss of engine power.

@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Refugio, Texas
+Accident Number:
+CEN19LA007
+Date & Time:
+October 12, 2018, 13:04 Local 
+Registration:
+N81383
+Aircraft:
+Grumman AA5
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal cross-country flight when he became lost. The pilot reported that he 
+did not understand how to navigate using the GPS that was installed in the airplane before the flight. 
+Instead of continuing to the southeast toward the intended destination, the pilot turned south for the 
+remainder of the flight. After flying for about 1.5 hours, the pilot became concerned about how much 
+fuel remained and decided to land to refuel. The pilot stated that the airplane had a total loss of engine 
+power while in the airport traffic pattern, and that he did not maintain adequate airspeed, which resulted 
+in an aerodynamic stall during the turn from the base leg to final. The airplane sustained substantial 
+damage to the fuselage and empennage during impact.
+Examination of the airplane revealed no fuel in the left fuel tank, about 7 gallons of fuel in the right fuel 
+tank, and less than 2 fluid ounces of combined fuel from the electric boost pump, the fuel line to the 
+carburetor, and the carburetor fuel bowl. The pilot reported that the fuel selector valve was positioned to 
+the left fuel tank when the loss of engine power occurred. The loss of engine power was likely due to 
+fuel starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s improper inflight fuel management, which resulted in a total loss of engine power due to fuel 
+starvation and the pilot’s failure to maintain adequate airspeed, which resulted in the airplane exceeding 
+its critical angle of attack and an aerodynamic stall at a low altitude.

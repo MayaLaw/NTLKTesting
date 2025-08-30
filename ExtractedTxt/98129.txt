@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Mayport, Florida
+Accident Number:
+ERA18LA227
+Date & Time:
+August 17, 2018, 13:20 Local 
+Registration:
+N1330Z
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he was in cruise flight when the engine lost total power. The pilot's 
+attempts to restart the engine were unsuccessful. He contacted air traffic control and reported 
+that he was unable to make it to the closest airport and ditched the airplane into the Atlantic 
+Ocean. Postaccident examination of the airplane revealed that both elevators had separated 
+from the horizontal stabilizer during the ditching. Examination of the engine revealed that a 
+fuel line that had been attached to the fuel flow sensor was broken. Detailed examination of the 
+fracture surfaces on the broken fuel line fitting revealed features that were consistent with 
+high-stress, low-cycle fatigue crack propagation. The crack initiated at the outside, progressing 
+through the thickness of the aluminum fuel line and partially along its circumference until final 
+overstress fracture. A review of the installation drawings and instructions revealed that the fuel 
+flow sensor was installed without a mounting bracket per installation instructions. Given this 
+information, it is likely that the fuel line fractured in fatigue due to the improper installation, 
+and lack of support that would have been provided by the required bracket. The failure of the 
+fuel line subsequently resulted in fuel starvation, and the total loss of engine power. While the 
+available maintenance records detailed the installation of an engine monitoring device and 
+accompanying cylinder head temperature probes, there were no records that indicated when 
+the fuel flow sensor was installed. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of a fuel line due to improper installation of a fuel flow sensor, which resulted in 

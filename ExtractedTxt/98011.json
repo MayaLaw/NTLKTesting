@@ -1,0 +1,29 @@
+{
+    "Filename": "98011.txt",
+    "Location": "Knox, Indiana",
+    "Accident Number": "CEN18LA319",
+    "Date & Time": "August 4, 2018, 15:00 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N533JW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "private pilot three passenger crosscountry flight singleengine airplane 10 mile destination airport pilot switched fullest fuel tank entered traffic pattern reduced throttle slow airplane final approach advanced throttle however engine respond pilot turned boost pump emergency high engine still respond shortly pilot turned boost pump conducted forced landing field engine bent downward firewall fuselage sustained substantial damage onsite examination found sufficient fuel available wing fuel tank additionally fuel present fuel line near engine fuel manifold detailed engine examination download engine monitor conducted airplane recovery review engine data day accident found three file last file corresponded accident flight monitor indicated 304 gallon used pilot reported fuel last takeoff 33 gallon engine examination find evidence mechanical malfunction failure would precluded normal operation although data engine monitor indicated airplane low fuel onsite examination showed various level fuel available fuel tank thus likely airplane engine monitor accurately reflect airplane correct fuel state based available evidence reason total loss engine power could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                11
+            ],
+            [
+                "engine",
+                11
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

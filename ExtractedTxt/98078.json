@@ -1,0 +1,29 @@
+{
+    "Filename": "98078.txt",
+    "Location": "Marsing, Idaho",
+    "Accident Number": "WPR18LA224",
+    "Date & Time": "August 14, 2018, 10:30 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N89093",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "low pas runway pilot advanced throttle engine failed respond switching fuel tank pilot initiated forced landing shallow part river paralleled runway airplane came rest upright river partially submerged sustained substantial damage lower fuselage firewall postaccident examination airplane revealed engine initially would run carburetor removed partially disassembled examined evidence corrosion observed float bowl carburetor bowl cleaned internally reassembled reinstalled engine additional attempt run engine revealed engine would run power setting 1300 rpm subsequent examination carburetor revealed throttle shaft loose bushing mounting casting carburetor installed fuel flow bench immediate leak noted audibly one throttle shaft seal one area accelerator pump indication blockage idle chamber carburetor present idle range fuel flow significantly specification likely led loss engine power removal idle tube showed significant corrosion contaminant area source contaminant determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "carburetor",
+                5
+            ],
+            [
+                "throttle",
+                3
+            ]
+        ]
+    }
+}

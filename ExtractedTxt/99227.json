@@ -1,0 +1,29 @@
+{
+    "Filename": "99227.txt",
+    "Location": "Monument Valley, Utah",
+    "Accident Number": "GAA19CA199",
+    "Date & Time": "April 4, 2019, 11:45 Local",
+    "Aircraft": "Beech 36",
+    "Registration": "N925SF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported approach private airstrip electronic primary flight display reported wind south 16 knot added upon touchdown airplane quickly veered left added power correct addition power enough lift airplane slightly take airplane floated short distance landed side runway nose landing gear collapsed dirt airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control runway heading landing resulted runway excursion nose landing gear collapsing",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

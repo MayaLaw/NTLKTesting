@@ -1,0 +1,29 @@
+{
+    "Filename": "94724.txt",
+    "Location": "Dawsonville, Georgia",
+    "Accident Number": "ERA17LA109",
+    "Date & Time": "February 19, 2017, 12:15 Local",
+    "Aircraft": "Ercoupe 415",
+    "Registration": "N99716",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "private pilot recently purchased airplane returning home airport flight added 12 quart oil engine bringing oil level 3 12 4 quart 30 minute departure pilot noticed oil pressure dropping reduced engine power turned airplane toward closest airport oil pressure continued decrease even though engine continued produce power pilot chose perform precautionary landing road upon touchdown airplane skidded across road impacted tree came rest ditch examination engine revealed hole oil sump consistent impact damage oil noted coming crankcase breather tube addition oil noted bottom airplane nose empennage even oil leaked broken oil sump breather tube postaccident engine oil level 3 12 quart subsequent engine run demonstrated engine would experience momentary drop oil pressure indication oil sump overfilled engine oil pressure gauge otherwise operated normally since pilot lacked operational experience airplane likely unintentionally overfilled oil sump resulted interaction oil sump rotating crankshaft interaction likely resulted air bubble becoming entrained oil subsequent oil pressure fluctuation additionally since checked oil level following previous flight likely oil fully drained back sump reading taken considering oil pressure gauge operated normally accident unlikely gauge producing faulty reading flight probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "oil",
+                20
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "pressure",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97901.txt",
+    "Location": "Hood River, Oregon",
+    "Accident Number": "GAA18CA444",
+    "Date & Time": "July 21, 2018, 09:30 Local",
+    "Aircraft": "Cessna 195",
+    "Registration": "N195N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing tailwheel touched airplane veered sharply left applied full right rudder brake avail airplane exited runway left right main landing gear collapsed right wing struck ground airplane came rest nosedown attitude airplane sustained substantial damage right wing federal aviation administration inspector reported postaccident examination observe anomaly rudder cable tailwheel assembly brake automated weather observation station located airport reported 16 minute accident wind 240 6 knot airplane landed runway 25 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

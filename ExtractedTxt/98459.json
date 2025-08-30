@@ -1,0 +1,29 @@
+{
+    "Filename": "98459.txt",
+    "Location": "Nashville, Tennessee",
+    "Accident Number": "DCA19CA005",
+    "Date & Time": "October 9, 2018, 23:00 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N287WN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 1 Minor, 91",
+    "Analysis": {
+        "Text": "october 9 2018 2300 edt southwest airline 2235 boeing 737700 n287wn enroute charlottedouglas international airport kclt charlotte north carolina flight attendant burned hot liquid 93 passenger crew onboard one flight attendant received serious injury regularly scheduled domestic passenger flight operating 14 code federal regulation part 121 nashville international airport kbna nashville tennessee kclt flight attendant fa conducting cabin service tripped passenger knee causing spill beverage tray one beverage hot tea splashed left forearm passenger shoulder arm landing paramedic treated passenger flight attendant gate however declined transported local hospital examination following day fa still pain went local medical clinic diagnosed 2nd degree burn forearm probable cause finding national transportation safety board determines probable cause accident flight attendant tripping passenger knee resulted hot liquid splashing flight attendant",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "attendant",
+                6
+            ],
+            [
+                "passenger",
+                6
+            ]
+        ]
+    }
+}

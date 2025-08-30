@@ -1,0 +1,48 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Atlantic Ocean, Atlantic Ocean
+Accident Number:
+ERA19LA026
+Date & Time:
+October 25, 2018, 11:19 Local 
+Registration:
+N555PM
+Aircraft:
+Piper PA31T
+Aircraft Damage:
+Destroyed
+Defining Event:
+Inflight upset
+Injuries:
+5 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The two pilots and three passengers were conducting a cross-country flight over the ocean from South 
+Carolina to the Bahamas. About 30 minutes into the flight, while climbing through 24,300 ft to 25,000 ft 
+about 95 miles beyond the coast, the pilot made a garbled radio transmission indicating an emergency 
+and intent to return. At the time of the transmission the airplane had drifted slightly right of course. The 
+airplane then began a descent and returned on course. After the controller requested several times for the 
+pilot to repeat the radio transmission, the pilot replied, "we're descending." About 15 seconds later, at an 
+altitude of about 23,500 ft, the airplane turned sharply toward the left, and the descent rate increased to 
+greater than 4,000 ft per minute, consistent with a loss of control. Attempts by the air traffic controller to 
+clarify the nature of the emergency and the pilot's intentions were unsuccessful. About 1 minute after the 
+sharp left turn and increased descent, the pilot again declared an emergency. No further communications 
+were received. Search efforts coordinated by the U.S. Coast Guard observed an oil slick and some debris 
+on the water in the vicinity of where the airplane was last observed via radar, however the debris was not 
+identified or recovered. According to recorded weather information, a shallow layer favorable for light 
+rime icing was present at 23,000 ft. However, because the airplane was not recovered, the investigation 
+could not determine whether airframe icing or any other more-specific issues contributed to the loss of 
+control. 
+One air traffic control communication audio recording intermittently captured the sound of an 
+emergency locator transmitter (ELT) "homing" signal for about 45 minutes, beginning near the time of 
+takeoff, and ending about 5 minutes after radar contact was lost. Due to the intermittent nature of the 
+signal, and the duration of the recording, it could not be determined if the ELT signal had begun 
+transmitting before or ceased transmitting after these times. Because ELT homing signals sound the 
+same for all airplanes, the source could not be determined. However, the ELT sound was recorded by 
+only the second of two geographic areas that the airplane flew through and began before the airplane 
+arrived near either of those areas. Had the accident airplane's ELT been activated near the start of the 
+flight, it is unlikely that it would be detected in the second area and not the first. Additionally, the 
+intermittent nature of the ELT signal is more consistent with an ELT located on the ground, rather than 
+an airborne activation. An airborne ELT is more likely to have a direct line-of-sight to one or more of 

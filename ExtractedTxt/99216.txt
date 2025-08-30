@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Clemson, South Carolina
+Accident Number:
+GAA19CA194
+Date & Time:
+April 2, 2019, 16:30 Local 
+Registration:
+N54222
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that, during landing, as the nosewheel touched down on the runway, he 
+felt a "strong vibration," and the airplane veered left. He tried to correct by pulling back on the yoke, but 
+the airplane became airborne and continued veering left, and the left wing impacted a ramp left of the 
+runway.
+Examination of video surveillance revealed that, shortly after landing, the airplane veered left. The 
+airplane then became airborne, aerodynamically stalled, and the left wing dropped and impacted the 
+ramp.
+The airplane sustained substantial damage to the left wing.
+The manager reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll and his exceedance of the 
+airplane's critical angle of attack when it inadvertently became airborne, which resulted in an 
+aerodynamic stall.

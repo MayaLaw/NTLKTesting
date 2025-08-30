@@ -1,0 +1,45 @@
+Page 1 of 14
+Aviation Investigation Final Report
+Location:
+La Verne, California
+Accident Number:
+WPR19FA001
+Date & Time:
+October 1, 2018, 11:50 Local 
+Registration:
+N7997M
+Aircraft:
+Beech V35
+Aircraft Damage:
+Destroyed
+Defining Event:
+Collision during takeoff/land
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was approaching his home airport in day visual meteorological conditions at the conclusion of 
+a cross-country flight. The tower controller cleared the pilot for a straight-in approach to runway 8R and 
+advised him that another airplane about 1 mile ahead was inbound for landing on the parallel runway, 
+8L. A short time later, the controller asked the accident pilot if he had the other airplane in sight. The 
+pilot responded that he was looking for the traffic and was inbound for runway 8L. The controller 
+immediately corrected the pilot and verified he was cleared to land on runway 8R, which the pilot 
+confirmed. Shortly thereafter, the pilot told the controller that he had the other airplane in sight and that 
+it was aligned with runway 8R. The controller queried the pilot of the other airplane and verified that 
+that airplane was cleared for landing on runway 8L, then confirmed with the accident pilot that the 
+accident airplane was cleared for 8R. About 20 seconds later, the controller asked the accident pilot if he 
+was landing 8R and subsequently instructed him to go-around and offset his flight path to the 
+right. There was no further communication from the accident airplane.
+Witnesses, who were at the site of an aircraft accident that occurred the previous day near the end of the 
+runways, heard the accident airplane impact trees. They turned to see the airplane in a left banking, 
+nose-low attitude that progressively steepened before the airplane impacted the ground, a post-impact 
+fire ensued. Radar data showed the accident airplane proceeding toward the airport left of the runway 8R 
+centerline until it was about 0.76 nautical mile (nm) west of the runway 8R, when it turned right, then 
+left. 
+The final 3 radar targets showed a right turn toward runway 8R. Radar data showed that the other 
+airplane was flying right of the runway 8L centerline until about 0.64 nm of runway 8L, when it turned 
+left toward runway 8L.  
+Examination revealed no anomalies with the airframe or engine that would have precluded normal 
+operation.  
+Given the apparent confusion regarding the inbound airplanes' runway assignments and the multiple 

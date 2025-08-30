@@ -1,0 +1,29 @@
+{
+    "Filename": "98494.txt",
+    "Location": "Albany, New York",
+    "Accident Number": "DCA19CA207",
+    "Date & Time": "October 15, 2018, 13:10 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N7816B",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 142 None",
+    "Analysis": {
+        "Text": "october 15 2018 1310 eastern daylight time southwest airline flight 2437 boeing 737 7l9 n7816b encountered turbulence descending fl280 result turbulence one flight attendant received serious injury remaining passenger crew injured airplane damaged regularly scheduled passenger flight operating provision title 14 code federal regulation part 121 chicago midway international airport kmdw chicago illinois manchesterboston regional airport kmht manchester new hampshire flight crew stated prior encountering turbulence seat belt sign illuminated flight attendant asked seated since turbulence anticipated flight crew stated upon entering benignlooking cloud formation airplane encountered continuous moderate heavy turbulence 20 30 second flight attendant fa stated soon receiving call seated flight encountered turbulence fa aft galley thrown door cabinet onto floor injuring right foot landing fa transported local hospital diagnosed broken right foot probable cause finding national transportation safety board determines probable cause accident encounter convective turbulence resulted serious injury flight attendant",
+        "Top Words": [
+            [
+                "flight",
+                9
+            ],
+            [
+                "turbulence",
+                7
+            ],
+            [
+                "attendant",
+                4
+            ]
+        ]
+    }
+}

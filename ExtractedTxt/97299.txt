@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Harlan, Iowa
+Accident Number:
+CEN18CA185
+Date & Time:
+May 16, 2018, 09:45 Local 
+Registration:
+N77273
+Aircraft:
+Cessna 120
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot flew a visual approach to a 1,712-ft-long by 120-ft-wide turf runway. During touchdown, the 
+airplane bounced and the pilot "felt out of control." The pilot executed a late go-around, during which 
+the airplane struck a fence at the end of the airport property. Then, due to approaching trees, the pilot 
+attempted to make a turn, which resulted in an aerodynamic stall. The airplane subsequently impacted 
+terrain and came to rest inverted, which damaged the tail. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's late go-around during a bounced landing, which led to an aerodynamic stall and impact with 
+terrain. 
+Findings
+Personnel issues
+Aircraft control - Pilot
+Personnel issues
+Decision making/judgment - Pilot
+Environmental issues
+Tree(s) - Contributed to outcome
+Aircraft
+Airspeed - Not attained/maintained

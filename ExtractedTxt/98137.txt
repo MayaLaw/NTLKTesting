@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Little Rock, Arkansas
+Accident Number:
+CEN18LA347
+Date & Time:
+August 22, 2018, 13:00 Local 
+Registration:
+N7954W
+Aircraft:
+Piper PA-28-235
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and his passenger were on a multi-leg cross-country flight. The pilot reported that he 
+departed with a total of 84 gallons of fuel in the auxiliary and main tanks and flew two flight legs that 
+lasted a total of about 40 to 50 minutes. The fuel selector was positioned on the right fuel tank during the 
+first two legs of flight. Before departing on the third flight leg, he switched the fuel selector to the left 
+main fuel tank. 
+About 10 minutes after takeoff and after climbing to 4,500 ft above mean sea level, the pilot turned off 
+the fuel boost pump and engaged the autopilot. He reported that the engine then rolled back to idle. He 
+immediately turned the fuel boost pump back on but noted no difference. The pilot switched the fuel 
+selector back to the right main tank since he had flown the previous legs on the right main tank without 
+any problems. The engine then lost total power, and he attempted an engine restart without success. He 
+performed a forced landing to a grassy field, during which the airplane impacted rough terrain, which 
+resulted in substantial damage to the airplane. After recovery of the airplane, 22 gallons of fuel were 
+removed from the left fuel tank and none was removed from the right fuel tank; however, the right fuel 
+tank was compromised from impact damage. The postaccident examination of the airframe and engine 
+revealed no evidence of preimpact mechanical malfunctions or failures that would have precluded 
+normal operation. Thus, investigators were unable to determine the reason for the loss of engine power 
+based on the available evidence. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

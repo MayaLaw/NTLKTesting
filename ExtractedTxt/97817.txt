@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Houghton Lake, Michigan
+Accident Number:
+CEN18LA280
+Date & Time:
+July 8, 2018, 06:43 Local 
+Registration:
+N4329R
+Aircraft:
+Best Off Skyranger
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a local private flight when the airplane had a sudden loss of 
+engine power shortly after takeoff. The pilot reported that after an uneventful takeoff, as the 
+airplane climbed through 150 ft above ground level, the engine speed rapidly decreased 
+from 6,200 rpm to 4,700 rpm. Despite the pilot's corrective actions, the engine continued to 
+operate at a decreased power setting and the airplane was unable to maintain altitude. The 
+pilot reported that there were trees ahead of the airplane's flight path, so he turned into the 
+wind and maneuvered to land on a nearby golf course fairway. The pilot stated that the 
+airplane had insufficient altitude and airspeed to flare normally, which resulted in a hard 
+landing and substantial damage to both wings and the empennage.
+The pilot reported that he did not observe any anomalies during his preflight inspection or 
+his before-takeoff engine runup, and that the fuel tank contained about 12 gallons of 
+automotive fuel. A postaccident engine examination did not reveal any evidence of 
+mechanical malfunctions or failures that would have precluded normal operation during the 
+flight. Although the atmospheric conditions were conducive for the formation of carburetor 
+icing, the airplane's engine was equipped with carburetors with a variable-venturi design 
+that are generally not prone to carburetor icing. Therefore, the reason for the partial loss of 
+engine power could not be determined with the available evidence.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

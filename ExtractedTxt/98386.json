@@ -1,0 +1,29 @@
+{
+    "Filename": "98386.txt",
+    "Location": "La Verne, California",
+    "Accident Number": "WPR19FA001",
+    "Date & Time": "October 1, 2018, 11:50 Local",
+    "Aircraft": "Beech V35",
+    "Registration": "N7997M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot approaching home airport day visual meteorological condition conclusion crosscountry flight tower controller cleared pilot straightin approach runway 8r advised another airplane 1 mile ahead inbound landing parallel runway 8l short time later controller asked accident pilot airplane sight pilot responded looking traffic inbound runway 8l controller immediately corrected pilot verified cleared land runway 8r pilot confirmed shortly thereafter pilot told controller airplane sight aligned runway 8r controller queried pilot airplane verified airplane cleared landing runway 8l confirmed accident pilot accident airplane cleared 8r 20 second later controller asked accident pilot landing 8r subsequently instructed goaround offset flight path right communication accident airplane witness site aircraft accident occurred previous day near end runway heard accident airplane impact tree turned see airplane left banking noselow attitude progressively steepened airplane impacted ground postimpact fire ensued radar data showed accident airplane proceeding toward airport left runway 8r centerline 076 nautical mile nm west runway 8r turned right left final 3 radar target showed right turn toward runway 8r radar data showed airplane flying right runway 8l centerline 064 nm runway 8l turned left toward runway 8l examination revealed anomaly airframe engine would precluded normal operation given apparent confusion regarding inbound airplane runway assignment multiple",
+        "Top Words": [
+            [
+                "runway",
+                14
+            ],
+            [
+                "airplane",
+                13
+            ],
+            [
+                "pilot",
+                10
+            ]
+        ]
+    }
+}

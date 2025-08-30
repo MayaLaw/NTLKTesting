@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Sioux Falls, South Dakota
+Accident Number:
+CEN18LA164
+Date & Time:
+April 29, 2018, 22:30 Local 
+Registration:
+N172GA
+Aircraft:
+Beech 1900C
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+As the twin-engine, turbopropeller-equipped airplane started to taxi for takeoff, the right main landing 
+gear collapsed, deforming the aft center wing lower spar cap. A postaccident examination of the airplane 
+revealed that the right main landing gear drag brace bolt failed at the wing forward attach point. As the 
+airplane moved forward, the strut pivoted aft, collapsing the landing gear. The drag brace bolt was not 
+retained, and the reason for its failure could not be determined based on the available information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Failure of the right main landing gear drag brace bolt for reasons that could not be determined based on 
+the available information.
+Findings
+Aircraft
+Main landing gear attach sec - Failure
+Aircraft
+Spar (on wing) - Fatigue/wear/corrosion

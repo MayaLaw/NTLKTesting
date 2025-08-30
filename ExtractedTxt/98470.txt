@@ -1,0 +1,39 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Payson, Arizona
+Accident Number:
+WPR19FA007
+Date & Time:
+October 12, 2018, 18:45 Local 
+Registration:
+N433CS
+Aircraft:
+Cessna T240
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was approaching the airport for landing around dusk in visual meteorological conditions at the 
+conclusion of a cross-country flight. Radar data depicted the airplane at 589 ft above ground level on a 
+downwind leg for the runway at a groundspeed of 108 knots. The airplane then entered a right turn; 
+however, rather than aligning with the runway on a final approach leg, the airplane continued the turn 
+through 360° and continued on an extended downwind before entering another right turn. The airplane’s 
+altitude and groundspeed was fluctuating throughout these maneuvers. Radar contact was lost near the 
+accident site about 1 nautical mile from the end of the runway.
+The airplane impacted the ground in a vertical, nose-down attitude consistent with an aerodynamic 
+stall/spin. Damage signatures indicated that the engine was producing power at the time of the accident, 
+and examination of the airframe and engine revealed no anomalies that would have precluded normal 
+operation. 
+Analysis of the radar data revealed that the radius of the airplane's final turn was about 700 ft, which 
+would have required a bank angle of about 50° based on the airplane's approximate speed. The data are 
+consistent with the pilot's failure to compensate for the increased load factor during the turn and a 
+subsequent exceedance of the airplane's critical angle of attack, which resulted in a stall/spin from which 
+the pilot was unable to recover given the airplane's low altitude.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

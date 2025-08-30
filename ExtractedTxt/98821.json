@@ -1,0 +1,29 @@
+{
+    "Filename": "98821.txt",
+    "Location": "Big Lake, Alaska",
+    "Accident Number": "ANC19CA009",
+    "Date & Time": "December 22, 2018, 18:30 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N93018",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot upon returning short sightseeing flight tailwheelequipped airplane landing taxi light would illuminate due dark night condition inoperable landing taxi light pilot chose land roadway rather short icecovered private airstrip used departure unbeknownst pilot snow berm placed roadway landing roll airplane struck snow berm nosed airplane sustained substantial damage wing horizontal stabilizer rudder pilot reported postaccident examination revealed factory connection landing taxi light failed 4pin connector pilot reported mechanical failure malfunction airplane would precluded normal operation pilot stated accident might prevented flight limited daylight operation probable cause finding national transportation safety board determines probable cause accident pilot improper decision land roadway dark night condition inoperable landing taxi light resulted impact snow berm",
+        "Top Words": [
+            [
+                "pilot",
+                7
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

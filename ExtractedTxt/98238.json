@@ -1,0 +1,29 @@
+{
+    "Filename": "98238.txt",
+    "Location": "Los Angeles, California",
+    "Accident Number": "DCA18CA283",
+    "Date & Time": "August 13, 2018, 04:45 Local",
+    "Aircraft": "Airbus A321-271N",
+    "Registration": "N204HA",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "197 None",
+    "Analysis": {
+        "Text": "august 13 2018 1645 pacific daylight time hawaiian airline flight 56 airbus a321 n204ha experienced tail strike landing los angeles international airport klax los angeles california injury 197 passenger crew onboard airplane sustained substantial damage domestic passenger flight operating 14 code federal regulation part 121 kahului airport phog kahului hawaii klax first officer fo pilot flying captain pilot monitoring according flight crew received gpws fail message electronic centralized alert monitoring ecam 1500 foot altitude ground agl airplane established il 6r approach flight crew conducted appropriate ecam action required turn ground proximity warning system gpws continued approach airplane descended 50 foot agl fo realized electronic automatic altitude callouts provided airplane system time react airplane touched firmly bounced pitch attitude increased arrested fo resulting tail section contacting runway post flight examination airplane found damage aft lower skin well several deformed stringer tie clip frame approach crew receive automated altitude callouts determined radio altimeter ra crew received 100 minimum callouts based barometric altitude visual meteorological condition prevailed light wind time approach resulting airplane descending calm water february 2018 updated august 6 2018 manufacturer released flight operation transmission fot operation engineering bulletin july 2018 referencing ra available approach water fot indicated new ra abnormal behavior airplane approach flatwater area may available subsequent accident operator issued memorandum pilot described circumstance accident fot issued operation engineering bulletin detailed required procedure ra available",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "approach",
+                6
+            ]
+        ]
+    }
+}

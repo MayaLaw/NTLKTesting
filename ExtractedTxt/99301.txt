@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Dwight, Illinois
+Accident Number:
+CEN19LA126
+Date & Time:
+April 19, 2019, 16:30 Local 
+Registration:
+N838JH
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was in cruise flight in the single-engine airplane when the engine started to run rough. He 
+applied carburetor heat, but the engine continued to run rough. He noticed that the fuel pressure gauge 
+indicated 0, so he turned on the electric fuel boost pump, which did not restore power. He then switched 
+fuel tanks, which momentarily restored engine power. The pilot decided to divert to a nearby airport and 
+continued to switch between fuel tanks to obtain short bursts of engine power. During landing, the 
+airplane departed the runway surface and the nose landing gear collapsed.
+Examination of the fuel system found available fuel in the tanks and only a small amount of debris in the 
+gascolator. Both the engine-driven and electric fuel boost pumps were removed from the airplane. Hand 
+testing of the engine-driven pump found suction and pressure at the inlet and outlet ports. Testing of the 
+electric boost pump revealed that liquid would not flow when activated. Despite the failure of the 
+electric boost pump, it was not indicated for use in cruise flight, and its failure should not have resulted 
+in a loss of fuel flow. It is possible that an unidentified fuel restriction prevented fuel from getting to the 
+engine-driven fuel pump; however, the reason for or source of the fuel restriction could not be 
+determined during postaccident examination. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power due to a restriction in fuel flow for undetermined reasons.

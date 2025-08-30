@@ -1,0 +1,29 @@
+{
+    "Filename": "98735.txt",
+    "Location": "Monroe, North Carolina",
+    "Accident Number": "GAA19CA087",
+    "Date & Time": "December 3, 2018, 18:05 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N65773",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported upon touchdown maintained aft pressure control yoke keep nose landing gear nlg runway airplane bounced main landing gear touched hard followed nlg collapsed left wing impacted grass adjacent runway airplane sustained substantial damage left wing student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted hard bounced landing nose landing gear collapse",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "gear",
+                3
+            ]
+        ]
+    }
+}

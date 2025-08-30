@@ -1,0 +1,35 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Meriden, Connecticut
+Accident Number:
+ERA19LA149
+Date & Time:
+April 11, 2019, 18:54 Local 
+Registration:
+N38658
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that he intended to fly in the airport traffic pattern after routine maintenance work. He 
+noted no anomalies in the preflight inspection of the airplane or the engine runup and noted that the fuel 
+was "to the tabs." He flew the normal traffic pattern and extended the downwind leg to allow time for 
+another airplane in the traffic pattern. After reaching an altitude of about 500 ft above ground level on 
+the base leg, he attempted to add power to maintain altitude. The engine did not respond, and the pilot 
+noted that the tachometer indicated 2,000 rpm and was decreasing. The pilot attempted to restart the 
+engine, but it did not respond, and the airplane continued to descend. During the forced landing to a 
+baseball field, the airplane impacted power lines and subsequently impacted the ground tail-first. 
+Postaccident examination of the engine revealed no evidence of any preimpact mechanical failures or 
+malfunctions that would have precluded normal operation, and the reason for the loss of engine power 
+could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+ The loss of engine power for undetermined reasons.

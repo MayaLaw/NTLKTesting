@@ -1,0 +1,29 @@
+{
+    "Filename": "97809.txt",
+    "Location": "Katy, Texas",
+    "Accident Number": "CEN18LA276",
+    "Date & Time": "July 17, 2018, 08:30 Local",
+    "Aircraft": "Beech V35",
+    "Registration": "N228Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot reported approached destination airport noted sudden severe noise vibration astream gray smoke right side engine cowling followed loss engine power pilot subsequently conducted forced landing airplane sustained substantial damage fuselage right wing postaccident engine examination revealed two hole top crankcase near no 3 4 cylinder teardown examination engine revealed 4 connecting rod failed due oil starvation resulted catastrophic engine failure foreign debris similar paper towel recovered engine oil sump oil pickup screen screen area obstructed debris interrupted oil flow sump engine airplane maintenance record noted alternator alternator drive gear replaced 8 week accident engine operated 24 hour since alternator replacement starter starter adapter replaced day accident flight engine operated 15 minute since recent maintenance work performed likely maintenance personnel left paper towel engine recent maintenance work resulted oil starvation failure connecting rod catastrophic engine failure subsequent total loss engine power",
+        "Top Words": [
+            [
+                "engine",
+                12
+            ],
+            [
+                "oil",
+                5
+            ],
+            [
+                "maintenance",
+                4
+            ]
+        ]
+    }
+}

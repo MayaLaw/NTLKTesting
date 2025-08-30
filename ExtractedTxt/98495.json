@@ -1,0 +1,29 @@
+{
+    "Filename": "98495.txt",
+    "Location": "Canoncito, New Mexico",
+    "Accident Number": "CEN19FA008",
+    "Date & Time": "October 16, 2018, 16:22 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N9326G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting crosscountry flight airplane loss engine power descending area precipitation icing condition unable restore normal engine operation using carburetor heat resulted forced landing airplane struck terrain right wing attitude cartwheeled upon impact shortly accident individual observed several piece structural ice ground airplane left wing leading edge accident engine demonstrated ability produce rated horsepower engine test however carburetor heat control cable found fractured exhibited evidence prolonged polishing wear cable sheathing likely carburetor heat control cable failed overstress due reduced cross section polishing wear additionally based contaminant observed cable fracture surface carburetor heat control cable fractured extended period flight airplane approved flight known icing condition however inadvertently flown icing condition carburetor heat engaged avoid loss engine power due induction air filter icing andor carburetor icing likely loss engine power flight due accumulation ice induction air filter andor carburetor pilot unable restore engine power fractured control cable rendered carburetor heat inoperative according airplane operating handbook pilot verify proper operation carburetor heat engine runup flight",
+        "Top Words": [
+            [
+                "carburetor",
+                9
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "heat",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98856.txt",
+    "Location": "Fort Lauderdale, Florida",
+    "Accident Number": "ERA19LA079",
+    "Date & Time": "December 24, 2018, 13:44 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N3015E",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "according flight instructor student pilot conducting local instructional flight instructor reported flying 800 ft shoreline engine started vibrate lost power tried restart engine twice avail third attempt engine started would produce 1200 rpm instructor saw people beach decided land water main landing gear touched water airplane immediately flipped resulted substantial damage vertical stabilizer rudder examination engine revealed 2 exhaust rocker arm stud fractured metallurgical examination fracture surface rocker arm stud revealed fractured due fatigue fatigue fracture 2 exhaust rocker arm stud likely led loss engine power probable cause finding national transportation safety board determines probable cause accident total loss engine power due fatigue fracture 2 exhaust rocker arm stud",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "rocker",
+                4
+            ],
+            [
+                "arm",
+                4
+            ]
+        ]
+    }
+}

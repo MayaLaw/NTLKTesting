@@ -1,0 +1,29 @@
+{
+    "Filename": "97620.txt",
+    "Location": "Manteo, North Carolina",
+    "Accident Number": "ERA18FA180",
+    "Date & Time": "June 27, 2018, 10:26 Local",
+    "Aircraft": "Cessna 150J",
+    "Registration": "N60111",
+    "Flight Conducted Under": "Part 91: General aviation - Banner tow",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot performing bannertow flight ground crewmember witnessed accident stated airplane operating low banner pickup witness another indicated airplane picked bannertow rope became entangled area left horizontal stabilizer elevator pilot radioed unable release banner rope could turn airplane airplane yawed left climbed 250 ft descending tree airport postaccident examination flight control engine revealed anomaly would precluded normal operation exception banner tow rope wrapped around leading edge left horizontal stabilizer approach pick banner wind direct left crosswind 10 knot gusting 14 knot likely pilot flew approach hampered crosswind pickup tow line banner towrope became entangled horizontal stabilizer elevator reducing pilot ability control airplane resulted loss control flight probable cause finding national transportation safety board determines probable cause accident loss control due banner tow rope becoming entangled left horizontal stabilizer innbspcrosswind condition",
+        "Top Words": [
+            [
+                "banner",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "left",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97444.txt",
+    "Location": "Fairhope, Alabama",
+    "Accident Number": "GAA18CA332",
+    "Date & Time": "June 8, 2018, 10:00 Local",
+    "Aircraft": "Waco YKS 7",
+    "Registration": "N17473",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped biplane reported landing slight cross wind biplane ground looped right biplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction biplane would precluded normal operation automated weather observation system located airport reported time accident wind calm pilot landed runway 19 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "biplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

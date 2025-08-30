@@ -1,0 +1,29 @@
+{
+    "Filename": "97003.txt",
+    "Location": "Vero Beach, Florida",
+    "Accident Number": "GAA18CA204",
+    "Date & Time": "March 2, 2018, 12:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N158ND",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported approach glideslope adding full flap lowered nose lose altitude added brought little speed intended ground effect airplane yawed left overcorrected right airplane touched right runway centerline nose pointed 45 left student attempted maintain directional control airplane exited runway right right wing struck runway sign student pilot taxied back onto runway parking ramp without incident airplane sustained substantial damage right wing chief flight instructor flight school reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 37 minute accident wind 360 6 knot automated station reported 23 minute accident wind 030 11 knot gusting 17 knot airplane landed runway 04 probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain stabilized approach resulted overcorrection rudder landing loss control runway excursion",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "runway",
+                6
+            ],
+            [
+                "right",
+                5
+            ]
+        ]
+    }
+}

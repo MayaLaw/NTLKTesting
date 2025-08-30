@@ -1,0 +1,29 @@
+{
+    "Filename": "97920.txt",
+    "Location": "North Fox Island, Michigan",
+    "Accident Number": "CEN18LA298",
+    "Date & Time": "July 29, 2018, 14:35 Local",
+    "Aircraft": "Extra EA300",
+    "Registration": "N32WR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Midair collision",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airline transport pilot aerobatic lowwing airplane extra 300 passenger board landing airline transport pilot highwing airplane cessna 172 near maximum weight two passenger board conducting shortsoftfield takeoff nontowered island based runway surrounded tall tree extra pilot passenger reported pilot landing intention communicated common traffic advisory frequency ctaf reply saw airplane opposite end airstrip pilot decided land cessna pilot reported monitored ctaf taxied center runway heard radio call frequency airport nearby island cessna pilot made departure radio call ctaf blind conducted rolling departure much runway ahead possible hear see airplane cessna lifted 5 7 ft ground level accelerated best angle climb speed plus 10 knot extra pilot indicated see aircraft final approach landing airplane 2030 ft landing surface threshold saw bright object right side front wing extra cessna collided ctaf frequency accident airport recorded however witness monitoring another ctaf frequency nearby island overheard pilot airplane calling intention land remarked customer call wrong frequency likely extra pilot transmitting ctaf frequency airport nearby island cessna pilot likely heard transmission attributed pilot landing airport airport leaseholder website contained link pilot information included safety briefing airport briefing recommended airport ctaf well another local airport ctaf monitored addition briefing recommended arriving aircraft fly airfield scan aircraft ground using left traffic pattern briefing advised airport",
+        "Top Words": [
+            [
+                "pilot",
+                13
+            ],
+            [
+                "airport",
+                9
+            ],
+            [
+                "ctaf",
+                8
+            ]
+        ]
+    }
+}

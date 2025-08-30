@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Midland, Texas
+Accident Number:
+CEN19LA002
+Date & Time:
+October 12, 2018, 10:45 Local 
+Registration:
+N729TG
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and passenger departed on a cross-country flight in a single-engine airplane. Shortly after 
+takeoff and about 500 ft above ground level, the engine "surged." The pilot turned the airplane back 
+toward the airport; however, the engine lost power. The pilot recognized the airplane would not make it 
+back to the airport, so he deployed the airplane's parachute. The airplane descended under the parachute 
+into a parking lot and impacted a parked automobile, which resulted in substantial damage to the 
+airplane.
+The engine examination and test run noted that the engine fuel flow was high and above specified 
+engine and airframe manufacturers' limits. 
+Data from the airplane's data monitor also indicated that the airplane engine's fuel flow was high on the 
+accident flight and on previous flights, although the maximum fuel flow recorded varied. A review of 
+maintenance records revealed that the engine manifold pressure and fuel flow were adjusted in 
+accordance with the manufacturer's maintenance manual about 3 months before the accident. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power due to excessive fuel flow.

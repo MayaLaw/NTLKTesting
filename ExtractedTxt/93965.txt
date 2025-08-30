@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Frankfort, Kentucky
+Accident Number:
+GAA16CA469
+Date & Time:
+September 6, 2016, 08:45 Local 
+Registration:
+N2899X
+Aircraft:
+RAINBOW SKY REACH (PTY) LTD 
+BUSHCAT
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he was performing a low approach with full flaps about 30 feet above the 
+runway. He further reported that when the airplane was about 60 feet from the end of the runway, he 
+started to add power to go-around, but the airplane entered an aerodynamic stall. Subsequently, the nose 
+of the airplane "suddenly" dropped, the airplane impacted the terrain, and stopped on the remaining 
+runway surface.  
+The fuselage and both wings sustained substantial damage. 
+The pilot reported no preaccident mechanical malfunctions or failures with the airplane that would have 
+precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle-of-attack while maneuvering at low 
+altitude, which resulted in an aerodynamic stall.

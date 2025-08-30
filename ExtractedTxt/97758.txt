@@ -1,0 +1,42 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Deer Park, Washington
+Accident Number:
+WPR18FA195
+Date & Time:
+July 13, 2018, 10:21 Local 
+Registration:
+N24442
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Birdstrike
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The purpose of the flight was for the student pilot to make his first flight in his training program, with 
+the flight instructor and an observer also onboard the airplane. There were no aggressive maneuvers 
+planned during the flight. Radar data indicated that, following departure, the airplane flew about 25 
+minutes making a series of benign turns. With the airplane maneuvering in a level attitude, configured at 
+77 kts (ground speed), it suddenly made a sharp 90° right turn and rapidly descended; the last speed 
+recorded was 117 kts. The airplane was in a steep dive as it approached the accident site and just before 
+impact, the outboard wings broke off the airplane about the same time. 
+Postaccident examinations revealed no anomalies with the airplane. Flight control system continuity 
+could not be definitively confirmed due to the fragmentation of the wreckage, but the fractured control 
+cables all showed signatures consistent with overload. 
+Numerous pieces of the windscreen and swabs of the airframe were sent to the Smithsonian Institution's 
+Feather Identification Lab. Found within the samples were a partial feather and the microscopic downy 
+feather characters, which were consistent with an American white pelican, which has an average weight 
+of 7.7 kg. There were many observations of American white pelicans reported near the area around the 
+date of the accident. 
+The airplane manufacturer’s recommended maneuvering speed was about 97 kts and abrupt control 
+movements above that speed could impose excessive loads beyond the structural strength of the 
+airplane. The airplane likely collided with an American white pelican resulting in a rapid descent that 
+the flight instructor was unable to recover from before the airplane exceeded the manufacturer’s 
+recommended maneuvering speed, which led to the exceedance of the airplane's structural strength 
+capability and breaking up in-flight.  

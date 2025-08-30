@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Cuba, New Mexico
+Accident Number:
+CEN16LA349
+Date & Time:
+September 4, 2016, 04:35 Local 
+Registration:
+N9241J
+Aircraft:
+Piper PA 28-180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and passenger departed on a night cross-country flight using flight following. About 2 
+hours after departure, the engine suddenly lost partial power. The pilot checked the engine gauges, 
+which were all in the green, and advised air traffic control (ATC) of the loss of engine power. The pilot 
+switched fuel tanks, then activated the carburetor heat. He tried switching magnetos and enriching the 
+mixture for "a few seconds." He then leaned the mixture again and "deactivated the carb heat," all with 
+no changes observed in engine power. The pilot declared an emergency with ATC and used his tablet 
+computer's navigation application to align the airplane over a road. Upon touchdown, the airplane's wing 
+impacted a guardrail, and the airplane subsequently nosed over. Although weather conditions at the 
+nearest weather reporting facility about 50 miles from the accident site were conducive to the 
+accumulation of serious carburetor icing at cruise power, the investigation could not determine whether 
+the loss of power was a result of carburetor ice, and no postaccident examination of the engine was 
+conducted to rule out other causes. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power for reasons that could not be determined based on available information. 

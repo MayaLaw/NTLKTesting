@@ -1,0 +1,29 @@
+{
+    "Filename": "98096.txt",
+    "Location": "Hayes Center, Nebraska",
+    "Accident Number": "GAA18CA495",
+    "Date & Time": "August 17, 2018, 09:40 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N4102N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported airplane bounced wheel landing narrow private grass airstrip allowed slight drift continue without applying adequate corrective rudder input right wing collided cornstalk outlined perimeter airstrip right main landing gear failed airplane came rest right wing airplane sustained substantial damage right wing pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

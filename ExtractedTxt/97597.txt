@@ -1,0 +1,46 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Orlando, Florida
+Accident Number:
+WPR18LA179
+Date & Time:
+June 25, 2018, 08:15 Local 
+Registration:
+N60E
+Aircraft:
+Cessna 340A
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that engine start, run-up, and taxi were all normal in preparation for the personal 
+flight. The pilot began the takeoff roll using the full length of the dry, paved 6,000-ft runway, but shortly 
+thereafter he felt a "sudden lag." The maximum speed he observed on the airspeed indicator was 43 
+knots, and the airspeed indicator needle "seemed to be fluttering." He confirmed that the engine controls 
+were properly set and then decided to discontinue the takeoff about halfway down the runway by 
+reducing power and applying the brakes and spoilers to decelerate the airplane. The airplane did not 
+appear likely to stop before overrunning the end of the runway, so the pilot steered the airplane to the 
+right as it ran off the runway end. The airplane impacted and stopped in a culvert about 500 ft beyond 
+the runway and sustained substantial damage to the fuselage nose.
+Postaccident examination of the airplane, airspeed indication system, and engines did not reveal any 
+preimpact mechanical malfunctions or failures that would have precluded normal operation. Several 
+months after the accident, the airplane was repaired, and engine test runs revealed two minor but 
+unrelated turbocharger problems. One problem affected the left engine, and the other affected the right 
+engine, but they did not manifest themselves concurrently. In each case, the affected engine did not 
+develop full rpm, but the other engine did develop full rpm. The investigation was unable to determine 
+whether these problems existed at the time of the accident takeoff. If they did exist, unless they occurred 
+simultaneously, they would have manifested as a significant asymmetric thrust between the two engines, 
+which would have been obvious to the pilot. The pilot did not report any shortcomings in engine rpm or 
+such thrust asymmetry. The airplane was subsequently ferried to its destination, and both engines 
+operated normally for that flight.
+Accident site review revealed that the airplane traversed a total distance of about 6,500 ft during its 
+takeoff roll and stop. Calculations performed postaccident indicate that, with a normal acceleration to 43 
+knots, had the airplane continued at that speed, it would have taken 35 seconds to reach the halfway 
+point of the runway, at which point the pilot would have had 3,000 ft remaining to stop from 43 knots, 
+which should have been sufficient. 

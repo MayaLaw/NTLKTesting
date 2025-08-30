@@ -1,0 +1,29 @@
+{
+    "Filename": "99044.txt",
+    "Location": "Fort Lauderdale, Florida",
+    "Accident Number": "ERA19FA112",
+    "Date & Time": "March 1, 2019, 11:41 Local",
+    "Aircraft": "Piper PA25",
+    "Registration": "N145AB",
+    "Flight Conducted Under": "Part 91: General aviation - Banner tow",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Collision with terr/obj (non-CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "newlyhired banner tow pilot departed first bannertow flight away training airport completing several circuit pilot flying southerly heading 8 knot easterly wind 14 mile offshore half distance trained offshore pilot initiated right turn descended 250 ft mean sea level flew heavily congested area tall building nearby airplane seen flying 250 ft ground level heavilycongested area impacted 16th 17th floor 19story building right turn although witness provided varying account engine operating near end flight sound spectrum study conducted video taken airplane impact indicated engine operating near maximum available power time impact postaccident examination airplane engine revealed evidence preimpact failure malfunction abnormal engine sound reported several witness likely attributed lack muffler exhaust system given lack mechanical malfunction airplane likely pilot adequately compensate wind condition would pushed airplane inland right turn reverse course operator reported bannertow flight performed 500 700 ft mean sea level offshore time except takeoff landing unless authorized air traffic control pilot expected fly altitude less 500 ft according training record pilot received 17 hour banner tow flight training completed 6hour solo banner tow training flight airport vicinity 3 day accident probable cause finding",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "flight",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

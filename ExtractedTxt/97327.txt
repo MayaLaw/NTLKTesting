@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Santa Fe, New Mexico
+Accident Number:
+CEN18FA192
+Date & Time:
+May 25, 2018, 13:42 Local 
+Registration:
+N79091
+Aircraft:
+Beech D17S
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The commercial pilot was conducting a cross-country flight in day visual meteorological conditions. 
+Automatic dependent surveillance-broadcast (ADS-B) track data revealed that most of the flight was 
+flown at a cruise altitude of 10,500 ft mean sea level (msl) on a direct course to the planned destination. 
+About 23 minutes before the accident, the airplane began shallow turns to the right and left of a direct 
+course to the destination, consistent with the pilot making manual course corrections as the airplane 
+continued toward the airport. Similarly, the airplane's altitude began to fluctuate ±100 feet from the 
+target cruise altitude of 10,500 ft msl. About 2.5 minutes before the accident, the airplane entered a 
+descent from 10,500 ft msl. During the final 2 minutes of the flight, the airplane had an average descent 
+rate of 1,375 ft per minute and a ground speed between 99 knots and 121 knots. The final ADS-B return 
+was about 385 ft east-northeast of the accident site at 7,025 ft msl (near ground level), and the ground 
+speed was about 106 knots. At no point during the flight did the pilot declare an emergency with air 
+traffic control or report having any problems. There were no witnesses to the accident.
+Examination of the airframe and engine revealed no evidence of preimpact mechanical malfunctions or 
+failures that would have precluded normal operation. The airplane's landing gear and flaps were 
+retracted. The fuel tanks ruptured during impact; however, fuel was observed in fuel lines, the engine-
+driven fuel pump, and the carburetor. The propeller exhibited damage consistent with the engine 
+operating at the time of impact. Autopsy and toxicology of the pilot revealed no evidence of 
+physiological impairment or incapacitation. The reason for the airplane's descent and impact with terrain 
+could not be determined based on the available information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain clearance from terrain for reasons that could not be determined 
+based on the available information.

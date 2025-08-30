@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Temple, Texas
+Accident Number:
+CEN18LA385
+Date & Time:
+September 10, 2018, 08:45 Local 
+Registration:
+N946JY
+Aircraft:
+Zenair ZENITH CH 750
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Before takeoff, the private pilot completed a preflight inspection, engine start, and two engine run-ups 
+with no anomalies noted. Shortly after takeoff, when the airplane was about 400 ft above ground level, 
+the engine began to vibrate, and the pilot noticed a partial loss of power. He suspected carburetor icing 
+and applied carburetor heat but observed no change to the engine power. Due to the low altitude, the 
+pilot chose to execute a forced landing to a field. The airplane touched down in the soft field, and the 
+nose gear collapsed. 
+Postaccident examination of the airplane, which included the fuel system, revealed no evidence of 
+preimpact mechanical malfunctions or failures that would have precluded normal operation. The pilot 
+reported that he should have applied carburetor heat before takeoff to clear any potential ice buildup 
+during the taxi and subsequent engine run-ups. The airplane was operating in an area with weather 
+conditions conducive to the formation of serious carburetor ice at glide power settings. Thus, the partial 
+loss of engine power was likely due to an accumulation of carburetor ice while operating at reduced 
+engine power settings before takeoff.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The accumulation of carburetor ice before takeoff, which resulted in a partial loss of engine power on 
+initial climb and a forced landing on unsuitable terrain.

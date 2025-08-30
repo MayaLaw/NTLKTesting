@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+St. Johns, Arizona
+Accident Number:
+GAA18CA298
+Date & Time:
+May 23, 2018, 13:30 Local 
+Registration:
+N4207D
+Aircraft:
+GARCIA BENIGNO BABY ACE D
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, immediately after landing, the tailwheel-equipped airplane veered left and then 
+right. Subsequently, he applied "heavy" brakes, and the airplane exited the right side of the runway and 
+then nosed over.
+The airplane sustained substantial damage to the right-wing lift strut.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system located at the accident airport reported that, about the time 
+of the accident, the wind was from 280° at 10 knots, gusting to 19 knots. The pilot landed the airplane 
+on runway 3.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing in gusting, quartering tailwind 
+conditions.

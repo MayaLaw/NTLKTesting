@@ -1,0 +1,29 @@
+{
+    "Filename": "98552.txt",
+    "Location": "Houston, Texas",
+    "Accident Number": "CEN19LA015",
+    "Date & Time": "October 27, 2018, 09:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N3973L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "commercial pilot reported airplane approached runway short local personal flight engine lost power pilot checked fuel valve mixture engaged starter engine power restored pilot stated airplane headed directly toward concrete revetment south bank creek banked airplane left subsequently impacted creek recovery airplane fuel selector found position throttle mixture carburetor heat control found forward position examination wreckage revealed evidence preaccident mechanical malfunction failure would precluded normal operation atmospheric condition time engine lost power conducive serious icing power moderate icing cruise power serious icing descent power given evidence likely carburetor ice accumulated flight pilot apply carburetor heat resulted loss engine power probable cause finding national transportation safety board determines probable cause accident pilot failure apply carburetor heat operating area conducive carburetor icing resulted total loss engine power approach subsequent forced landing creek",
+        "Top Words": [
+            [
+                "power",
+                8
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

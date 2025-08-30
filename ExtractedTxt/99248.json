@@ -1,0 +1,29 @@
+{
+    "Filename": "99248.txt",
+    "Location": "Fullteron, California",
+    "Accident Number": "GAA19CA203",
+    "Date & Time": "April 11, 2019, 11:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N9964L",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported landing roll applied brake airplane began veer left corrected right rudder airplane exited runway left nosed airplane sustained substantial damage left wing rudder student reported preimpact mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control landing roll resulted runway excursion noseover finding aircraft directional control attainedmaintained personnel issue use equipsystem studentinstructed pilot",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "95389.txt",
+    "Location": "Rexberg, Idaho",
+    "Accident Number": "GAA17CA346",
+    "Date & Time": "June 12, 2017, 10:30 Local",
+    "Aircraft": "Cessna 305C (0 1E)",
+    "Registration": "N305CM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported attempted crosswind landing asphalt surface runway 35 300 hour total tailwheel flight time 5 hour flight time accident airplane pilot first flight pilotincommand recalled automated surface observing system reported wind 050 5 knot gusting 21 knot landing roll airplane encountered wind gust right tail lifted pilot lost directional control airplane airplane faced southeast another wind gust lifted left wing right wing struck ground wind gust subsided airplane came rest upright airplane sustained substantial damage right wing right aileron elevator per national transportation safety board pilot aircraft accident report pilot reported accident could prevented received instruction federal aviation administration certificated flight instructor accident airplane specific crosswind landing important flown airplane airport runway line wind pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting wind condition",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "wind",
+                6
+            ]
+        ]
+    }
+}

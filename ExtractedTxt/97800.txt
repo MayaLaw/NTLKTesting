@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Rockford, Ohio
+Incident Number:
+CEN18IA273
+Date & Time:
+July 12, 2018, 16:47 Local 
+Registration:
+N2483J
+Aircraft:
+Cessna A188B
+Aircraft Damage:
+Minor
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The commercial pilot of the aerial application flight reported that the airplane was at 350 ft above 
+ground level when the engine started running roughly and then lost total power. He executed a forced 
+landing to a field, which resulted in minor damage to the right wing. 
+A review of the engine maintenance logbooks indicated that the accident occurred 107.6 hours after all 
+six cylinders were replaced. The engine teardown examination revealed a large hole in the crankcase 
+near the No. 2 cylinder. The crankcase bearing supports exhibited signs consistent with bearing shift. 
+The No. 2 and No. 3 lock tabs exhibited elongation, and all bearing support mating surfaces exhibited 
+varying amounts of fretting, with the No. 2 and No. 3 surfaces displaying the most fretting. The No. 3 
+bearing had shifted a significant amount, and part of the bearing was separated. The No. 2 connecting 
+rod bearings exhibited a significant amount of thermal damage consistent with heat distress. The No. 2 
+connecting rod was separated from its journal and exhibited damage consistent with lubrication distress. 
+The No. 2 piston was separated from the connecting rod and remained in the cylinder. 
+It is likely that, when all six cylinders were replaced, the engine's through-bolts did not have sufficient 
+clamping force, which resulted in movement of the crankcase halves as evidenced by the fretting on the 
+crankcase bearing supports. This led to the crankcase main bearings shifting, which resulted in oil 
+starvation to the No. 2 connecting rod journal, failure of the No. 2 connecting rod, and the subsequent 
+total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this incident to be:

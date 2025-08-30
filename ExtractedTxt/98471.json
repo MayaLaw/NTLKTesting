@@ -1,0 +1,29 @@
+{
+    "Filename": "98471.txt",
+    "Location": "Hudson, Colorado",
+    "Accident Number": "CEN19LA006",
+    "Date & Time": "October 13, 2018, 15:30 Local",
+    "Aircraft": "Cessna 120",
+    "Registration": "N1881N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot attempting land quartering tailwind stated noticed strong crosswind decided go around goaround pilot added engine power however engine develop full power engine began sputter surge airplane continued climb regain power pilot performed forced landing field airplane nosed sustained substantial damage postaccident engine test run performed engine started without hesitation damage engine propeller prevented testing maximum power setting although engine operation goaround similar would experienced carburetor ice accumulated approach weather condition time outside ice would accumulate therefore reason partial loss engine could determined probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined based available information finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "determined",
+                4
+            ]
+        ]
+    }
+}

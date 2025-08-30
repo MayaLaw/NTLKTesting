@@ -1,0 +1,29 @@
+{
+    "Filename": "97106.txt",
+    "Location": "Kingsville, Texas",
+    "Accident Number": "CEN18FA147",
+    "Date & Time": "April 25, 2018, 12:25 Local",
+    "Aircraft": "North American SNJ 5",
+    "Registration": "N12377",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot owner vintage military trainer airplane pilotrated passenger conducting right turn takeoff still runway surface witness reported airplane bank angle exceeded 90 highest altitude achieved 200300 ft ground level airplane descended nose low impacted ground less 1 minute takeoff radar data indicated airplane average airspeed final portion flight 87 mph bank angle reached 56 would resulted load factor 18g airplane performance data indicated accelerated stall speed load factor 95 mph thus likely turn airplane exceeded critical angle attack entered accelerated stall altitude low pilot recover postaccident examination airplane reveal anomaly could attributed preimpact mechanical deficiency airplane equipped tandem seating dual flight control owner seated front seat passenger seated rear seat removable rear cockpit control stick found outside airplane could determined stick installed time accident conclusive determination could made occupant manipulating control accident sequence private pilot using decongestant allergy medication toxicological testing identified diphenhydramine sedating antihistamine level likely impairing however extent contributed accident could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "could",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

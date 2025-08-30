@@ -1,0 +1,29 @@
+{
+    "Filename": "99155.txt",
+    "Location": "Skwentna, Alaska",
+    "Accident Number": "ANC19FA038",
+    "Date & Time": "March 6, 2019, 17:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N7469A",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting crosscountry flight mountainous terrain hunting camp home airport forecast product airmets valid flight route indicated mountain obscuration marginal visual flight rule instrument flight rule moderate icing condition expected friend pilot stated snow shower began departure site shortly airplane departed radar track indicated pilot initially flew low mountain valley 4000 ft mean sea level msl 2500 ft ground level climbed 6900 ft msl tracking east toward destination last recorded radar data target indicated altitude 1000 ft nearest mountain peak airplane arrive destination alnot issued extensive multiagency search conducted snowcovered mountain range search terminated 2 week later wreckage found 4 month later snow melted wreckage discovered mountain ridge 15 mile east last radar return point postaccident examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation damage airplane indicated impacted ground nosedown nearvertical attitude rear fuselage twist consistent aerodynamic stall spin review satellite imagery sounding data radar reflectivity accident site revealed overcast cloud layer approximate cloudtop height 20000 ft present accident time moderate rime icing condition light precipitation likely present weather camera image near accident site indicated obscured mountaintops broken overcast cloud layer given weather information likely structural icing accumulated flight resulting pilot inability maintain airspeed andor altitude resulted aerodynamic stall spin",
+        "Top Words": [
+            [
+                "flight",
+                5
+            ],
+            [
+                "indicated",
+                5
+            ],
+            [
+                "mountain",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Wasilla, Alaska
+Accident Number:
+ANC18CA068
+Date & Time:
+August 25, 2018, 14:10 Local 
+Registration:
+N5392Y
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the landing roll on a private grass airstrip, the left main landing gear 
+wheel became caught in the ditch that was obscured by long grass along the edge of the runway. He 
+subsequently lost directional control, and the airplane rolled into the ditch and nosed over, which 
+resulted in substantial damage to the wings, vertical stabilizer, and rudder. The pilot reported that there 
+were no preaccident mechanical malfunctions or failures with the airplane that would have precluded 
+normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll when the left main landing gear 
+wheel got caught in a ditch, which resulted in a subsequent nose-over.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Directional control - Not attained/maintained
+Environmental issues
+Sloped/uneven terrain - Effect on operation

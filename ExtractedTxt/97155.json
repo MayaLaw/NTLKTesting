@@ -1,0 +1,29 @@
+{
+    "Filename": "97155.txt",
+    "Location": "West Milford, New Jersey",
+    "Accident Number": "ERA18FA138",
+    "Date & Time": "May 2, 2018, 14:10 Local",
+    "Aircraft": "Piper PA32",
+    "Registration": "N4153R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot told friend problem airplane engine stated going taxi end runway perform engine runup engine runup successful pilot going conduct short crosscountry flight return takeoff engine experienced total loss power airplane subsequently impacted wooded area 1100 ft south departure runway examination wreckage revealed airplane experienced inflight fire heaviest concentration thermal damage aft right side engine compartment fuel inlet line fuel pump fuel servo loose according manufacturer part number inlet line installed accident airplane approved aircraft use however aside part number approved hose looked identical unapproved hose error likely could detected annual inspection airplane maintenance logbook destroyed accident pilot performed maintenance airplane therefore unapproved hose installed could determined likely loose fuel line allowed fuel spray onto exhaust system resulted inflight fire total loss engine power probable cause finding national transportation safety board determines probable cause accident inflight fire total loss engine power takeoff due loose fuel line contributing accident installation unapproved fuel line unknown personnel",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "fuel",
+                7
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

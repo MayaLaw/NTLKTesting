@@ -1,0 +1,29 @@
+{
+    "Filename": "99387.txt",
+    "Location": "Foley, Alabama",
+    "Accident Number": "ERA19FA164",
+    "Date & Time": "May 6, 2019, 12:47 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N5542U",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "flight instructor student pilot conducting simulated engineout emergency procedure airport traffic pattern 300400 ft ground level takeoff witness reported flight instructor announced radio engine quit witness reported airplane entered nosehigh steep left turn pitching impacting ground postaccident examination airframe flight control revealed mechanical anomaly would precluded normal operation examination engine revealed 4 cylinder exhaust valve stuck valve guide due excessive combustion deposit likely stuck exhaust valve resulted partial loss engine power flight instructor flew accident airplane day accident flight reported experiencing engine roughness performing simulated engineout procedure following flight mechanic cleaned sparkplugs performed engine runup returned airplane service however maintenance record show engine valve inspected sticking time manufacturer service instruction suggested inspecting valve sticking regular interval sooner sticking suspected valve inspection completed accordance engine manufacturer guidance day accident following report engine roughness likely heavy carbon deposit exhaust valve would detected given flight instructor reportedly student trim airplane noseup landing possible airplane trimmed nosehigh time takeoff subsequent loss engine power trim setting would led excessive pitch resulting rapid loss airspeed exceedance airplane critical angle attack aerodynamic stall low altitude probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "valve",
+                7
+            ]
+        ]
+    }
+}

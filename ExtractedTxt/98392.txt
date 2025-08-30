@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Fairbanks, Alaska
+Accident Number:
+ANC18LA073
+Date & Time:
+September 27, 2018, 15:00 Local 
+Registration:
+N70391
+Aircraft:
+Cessna A185
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, before departure for the 24-minute roundtrip flight, the airplane was refueled; 25 
+gallons of useable fuel was on board the airplane. The fuel quantity was confirmed with a custom-made 
+fuel dipstick before departure. After landing at a lake, the pilot departed for the return flight. While in 
+level cruise flight, at an altitude of about 1,000 ft above ground level (agl), the engine lost total power. 
+In an effort to restore power, the pilot switched fuel tanks and activated the fuel boost pump to no avail. 
+He performed an emergency descent to a landing on a small lake, during which the airplane impacted 
+trees, the floats separated from the fuselage, and the airplane came to rest partially submerged with 
+substantial damage to the wings and fuselage. 
+Postaccident examination revealed that both left and right fuel tanks were intact; however, the fuel 
+bladders were loose in the tank cavity with wrinkles present. About 2 gallons of fuel were recovered 
+from the fuel tanks. The fuel line between the fuel pump and the fuel control unit was removed, and 
+about 2 tablespoons of fluid that was light blue in color and consistent with 100LL AvGas was 
+recovered. The fuel line between the fuel control unit and fuel manifold was removed, and no fluid was 
+present. Examination of the engine revealed no evidence of malfunctions or anomalies.
+The airplane was equipped with optional long-range fuel tanks. According to the owner's manual, the 
+total unusable fuel for an aircraft equipped with long-range fuel tanks is 6 gallons.
+The investigation was unable to determine if the loose fuel bladders were a result of the accident or 
+recovery and what impact they would have had on fuel quantity and unusable fuel. However, given the 
+lack of malfunctions or anomalies noted during the engine examination and the lack of fluid present in 
+the fuel lines, it is likely that the engine lost power due to fuel exhaustion. 

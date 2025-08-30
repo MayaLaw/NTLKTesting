@@ -1,0 +1,29 @@
+{
+    "Filename": "95317.txt",
+    "Location": "Tooele, Utah",
+    "Accident Number": "GAA17CA327",
+    "Date & Time": "June 6, 2017, 16:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N741TW",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing airplane ballooned added little throttle settle airplane added airplane seemed settle felt like coming fast applied full power go around reduced flap 20 added airplane stalling moved flap 0 degree caused plane continue stall subsequently airplane impacted ground airplane sustained substantial damage wing empennage student pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain adequate airspeed exceedance airplane critical angle attack attempted goaround resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

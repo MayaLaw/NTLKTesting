@@ -1,0 +1,39 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Kennett, Missouri
+Accident Number:
+WPR18LA256
+Date & Time:
+September 7, 2018, 15:00 Local 
+Registration:
+N131TX
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the takeoff roll, the pilot realized that his headset active noise reduction (ANR) function was 
+inoperative. He tugged on the headset cord to access the ANR control module, but the module was stuck 
+between his seat and the center console, and he returned his attention to continuing the takeoff. When 
+the airplane was about 200 ft above ground level, the pilot engaged the autopilot, then leaned down to 
+focus on freeing the control module. A few seconds later, and without freeing the module, the pilot 
+noticed a significant decrease in engine noise and power. He sat upright, verified that the engine power 
+and mixture levers were correctly positioned, and began scanning the instrument panel, but was unable 
+to restore engine power. About the same time, the aural "sink rate" warning began sounding.
+Based on the airplane's low altitude and his evaluation of the surrounding terrain, the pilot chose to 
+deploy the airframe parachute system, even though the airplane’s height above the ground was below the 
+minimum recommended deployment altitude. The airplane impacted the ground under canopy, resulting 
+in substantial damage to the fuselage.
+It is likely that, during his attempt to free the headset control module, the pilot inadvertently and 
+unknowingly repositioned the unguarded three-position fuel pump control rocker switch, located on the 
+center console, to the HIGH BOOST/PRIME position. This selection resulted in the loss of engine 
+power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

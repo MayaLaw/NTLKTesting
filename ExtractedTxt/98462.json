@@ -1,0 +1,29 @@
+{
+    "Filename": "98462.txt",
+    "Location": "Winder, Georgia",
+    "Accident Number": "GAA19CA016",
+    "Date & Time": "October 4, 2018, 19:30 Local",
+    "Aircraft": "Piper PA24",
+    "Registration": "N8220P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported night flight lowering flap landing cockpit light turned attempted turn light back avail added precision approach path indicator papi light could get runway light turn either landing past first arrow front chevron displaced threshold heard thump taxied airplane ramp without incident passenger airframe powerplant mechanic reported approach cockpit light went used flashlight light cockpit unable correct panel light observed runway light bright added landing felt bottom drop airplane landed hard bounced postaccident examination revealed right horizontal stabilator sustained substantial damage pilot added passenger went beginning approach runway found piece broken runway light archived notams date accident stated rwy 31 papi unusable probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "light",
+                9
+            ],
+            [
+                "runway",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

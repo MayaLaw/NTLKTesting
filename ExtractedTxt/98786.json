@@ -1,0 +1,29 @@
+{
+    "Filename": "98786.txt",
+    "Location": "Bell Glade, Florida",
+    "Accident Number": "ERA19LA069",
+    "Date & Time": "December 17, 2018, 12:10 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N4886B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot reported conducting personal crosscountry flight descending cruise level engine began gradually losing power applied carburetor heat initially restored cruise power several minute later engine lost partial power began vibrate engine continued lose power airplane unable maintain altitude pilot chose execute forced landing field nosewheel dug ground airplane subsequently nosed examination engine revealed 1 intake valve stuck valve guide upper valve spring seat 1 cylinder broken detailed examination revealed contact mark interior end face valve keeper pitting radial crack intake valve head valve spring strength found within serviceable limit rocker arm contact wear pattern valve tip abnormal likely operation intake valve keeper dislodged became wedged valve spring seat valve spring seat fractured time intake valve became stuck valve guide resulted loss compression cylinder subsequent partial loss engine power contact mark interior end face valve keeper indicate keeper dislodged time engine operated valve spring seat intact pitting radial crack intake valve head indicate engine operated valve seating properly also consistent operation dislodged valve keeper lack normal rocker arm contact wear pattern valve tip indicates valve keeper likely became dislodged soon valve placed service engine manufacturer operator manual recommended periodic inspection every 400 flight hour intake valve review engine maintenance record record found",
+        "Top Words": [
+            [
+                "valve",
+                21
+            ],
+            [
+                "engine",
+                9
+            ],
+            [
+                "intake",
+                6
+            ]
+        ]
+    }
+}

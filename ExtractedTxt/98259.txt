@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+New York, New York
+Accident Number:
+DCA18LA285
+Date & Time:
+September 6, 2018, 12:45 Local 
+Registration:
+N173AN
+Aircraft:
+Boeing 757
+Aircraft Damage:
+None
+Defining Event:
+Abrupt maneuver
+Injuries:
+1 Serious, 2 Minor, 
+110 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+The airplane was descending toward the destination airport with the autopilot and autothrottle 
+systems engaged. As the airplane was approaching 12,000 ft, and the autopilot was capturing 
+the altitude, the captain adjusted the altimeter resulting in a displayed altitude of 12,100 ft. The 
+captain (the pilot flying) selected flight level change mode on the autopilot to recapture the 
+altitude and set the speed at 250 knots to slow from about 255 knots. As a result, the 
+autothrottles went to Throttle Hold mode when the throttle levers reached the aft stop. As the 
+captain was briefing the approach, the airplane slowed and pitched up as it tried to maintain 
+altitude with a reduced throttle setting. An international relief officer who was in the cockpit at 
+the time commented on the airplane’s decreasing speed three times when the airplane’s 
+airspeed was about 186 knots before stating that the captain should push the nose over. The 
+captain disengaged the autopilot and auto throttles, aggressively pitched down, and increased 
+the throttles. These aggressive maneuvers caused the flight attendants in the aft galley to be 
+thrown against the ceiling. One flight attendant sustained a compound arm fracture; two other 
+flight attendants sustained minor injuries. The crew subsequently landed the airplane without 
+further incident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight crew’s failure to adequately monitor the airplane’s airspeed, which led to the 
+captain’s aggressive control inputs to increase airspeed; these aggressive inputs resulted in 
+injuries to three cabin crewmembers.

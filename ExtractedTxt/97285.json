@@ -1,0 +1,29 @@
+{
+    "Filename": "97285.txt",
+    "Location": "Bennington, Vermont",
+    "Accident Number": "ERA18FA148",
+    "Date & Time": "May 20, 2018, 14:23 Local",
+    "Aircraft": "Piper PA34",
+    "Registration": "N1101X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "receiving commercial flight instructor certificate designated pilot examiner dpe instrumentrated commercial pilot planned fly back home airport following day dpe reviewed weather pilot advised delay flight 2 day due poor weather however following day pilot attempted visual flight rule flight instrument meteorological condition mountain obscuration departing flight pilot received three weather briefing three contained information regarding instrument flight rule condition mountain obscuration pilot receiving flight following service air traffic control proceeding southeast cloud minimum vectoring altitude near mountainous terrain controller suggested westbound turn lower terrain continued radar coverage airplane briefly turned westbound heading turned back southeast heading 4 mile later controller advised pilot continued present heading radar coverage would lost pilot asked heading fly controller responded westbound pilot responded westbound heading 270 radar radio contact lost second westbound turn last radar target indicated altitude 3500 ft msl groundspeed 218 knot 1000 ft accident site located elevation 2625 ft msl examination accident site revealed 60ft debris path 265 course tree consistent 45 nosedown attitude impact examination wreckage reveal preimpact mechanical malfunction pilot entered cloud trying fly clear cloud condition conducive development spatial disorientation however extent spatial disorientation played role could determined descent could also result uncoordinated turn distraction probable cause finding",
+        "Top Words": [
+            [
+                "pilot",
+                10
+            ],
+            [
+                "flight",
+                7
+            ],
+            [
+                "westbound",
+                5
+            ]
+        ]
+    }
+}

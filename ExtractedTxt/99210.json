@@ -1,0 +1,29 @@
+{
+    "Filename": "99210.txt",
+    "Location": "Stephenville, Texas",
+    "Accident Number": "GAA19CA192",
+    "Date & Time": "March 31, 2019, 10:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N902RA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "solo student pilot reported landing airplane configured flap 30 airspeed 70 knot airplane runway reduced throttle idle initiated landing flare airplane descended rapidly landed hard bounced aborted landing wind caught next thing knew facing taxiway airplane exited left side runway grass nosed airplane sustained substantial damage right wing lift strut student reported preaccident mechanical malfunction failure airplane would precluded normal operation metar airport reported time accident wind 050 12 knot gusting 20 knot pilot landed airplane runway 32 according manufacturer pilot operating handbook maximum demonstrated crosswind 15 knot crosswind component accident flight 16 knot probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted hard landing subsequent failure maintain directional control gusting crosswind condition exceeded airplane demonstrated crosswind landing resulted runway excursion noseover",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                6
+            ],
+            [
+                "knot",
+                5
+            ]
+        ]
+    }
+}

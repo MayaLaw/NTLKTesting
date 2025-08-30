@@ -1,0 +1,29 @@
+{
+    "Filename": "97953.txt",
+    "Location": "Fort Lauderdale, Florida",
+    "Accident Number": "WPR18LA209",
+    "Date & Time": "June 14, 2018, 12:00 Local",
+    "Aircraft": "Cessna 402",
+    "Registration": "N322HA",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "20 minute flight airplane experienced total electrical failure pilot maneuvered airplane circle attempting troubleshoot problem perform emergency checklist despite effort power restored electrically actuated hydraulic landing gear would extend pilot attempted extend landing gear using emergency extension system pulled thandle broke housing separating cable additional troubleshooting attempt electrical system pilot chose land nearby airport airplane landed runway landing gear retracted resulted substantial damage fuselage mechanic performed postaccident examination airplane stated left starter motor starter relaysolenoid electrical short additionally starter relay remained closed position likely resulted airplane drawing greater electrical load draining battery leading complete loss power emergency extension thandle examined accident however based pilot account handle breaking attempted use emergency extension system likely prevented manual extension landing gear resulted forced landing landing gear retracted probable cause finding national transportation safety board determines probable cause accident failure left starter relay resulted loss electrical power flight failure thandle cable led forced landing landing gear retracted",
+        "Top Words": [
+            [
+                "landing",
+                8
+            ],
+            [
+                "gear",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

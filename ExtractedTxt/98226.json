@@ -1,0 +1,29 @@
+{
+    "Filename": "98226.txt",
+    "Location": "Porterville, California",
+    "Accident Number": "GAA18CA523",
+    "Date & Time": "September 1, 2018, 09:10 Local",
+    "Aircraft": "Eggleston Daniel S-18 THORP",
+    "Registration": "N575DG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported takeoff advanced throttle full power maintained runway centerline began raise tail added 60 mph airplane suddenly turned left applied full right rudder avail subsequently airplane continued veer left exited runway plowed dirt nosed airplane sustained substantial damage fuselage vertical stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system airport reported time accident wind variable 3 knot pilot departing runway 30 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff roll",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,43 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Lincolnton, North Carolina
+Accident Number:
+ERA18FA197
+Date & Time:
+July 24, 2018, 05:21 Local 
+Registration:
+N38523
+Aircraft:
+Piper PA32R
+Aircraft Damage:
+Substantial
+Defining Event:
+VFR encounter with IMC
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The noninstrument-rated private pilot and one passenger departed on a personal cross-country visual 
+flight rules flight in dark night instrument meteorological conditions (IMC) that included 1 1/2 statute 
+miles visibility in mist and an overcast cloud layer 200 ft above ground level. The pilot did not obtain an 
+official weather briefing before departing on the flight, and what preflight weather information he may 
+have obtained could not be determined. Onboard data indicated that the airplane departed, entered a 
+climbing left turn to a downwind leg for the runway, and about 1 minute after takeoff, entered a rapid 
+left turning descent that continued to ground contact.Postaccident examination of the airframe and 
+engine did not reveal evidence of any preimpact mechanical malfunctions that would have precluded 
+normal operation.
+The restricted visibility due to the dark night and instrument conditions was conducive to the 
+development of spatial disorientation, and the airplane's flight track was consistent with the known 
+effects of spatial disorientation. According to a family member, the pilot stated that he was going to 
+attend an air show and had planned to leave early in the morning for "a window of good weather." 
+Despite not being instrument rated, the pilot likely chose to depart due to his self-induced pressure to 
+complete the flight as planned. It is likely that the pilot's decision to depart into IMC resulted in his 
+spatial disorientation and a subsequent loss of airplane control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The noninstrument-rated pilot's intentional visual flight rules flight into instrument 
+meteorological conditions, which resulted in a loss of control due to spatial disorientation. 
+Contributing the accident was the pilot's self-induced pressure to complete the flight as 
+planned.

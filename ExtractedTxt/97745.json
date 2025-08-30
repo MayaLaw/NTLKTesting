@@ -1,0 +1,29 @@
+{
+    "Filename": "97745.txt",
+    "Location": "De Land, Illinois",
+    "Accident Number": "GAA18CA415",
+    "Date & Time": "July 10, 2018, 16:45 Local",
+    "Aircraft": "Air Tractor AT 502",
+    "Registration": "N4509S",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported agricultural application flight landing roll rain shower crosswind tailwheelequipped airplane hit bump became airborne added airplane slow drifted left touched hard subsequently airplane exited runway ground looped pilot reported landed farther runway avoid bump caused airplane become airborne airplane sustained substantial damage fuselage empennage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located 19 nautical mile accident site reported time accident wind 260 12 knot pilot landed airplane runway 18 probable cause finding national transportation safety board determines probable cause accident pilot selection unsuitable terrain landing crosswind condition resulted airplane inadvertently becoming airborne subsequent hard landing loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

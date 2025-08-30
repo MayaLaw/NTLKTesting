@@ -1,0 +1,29 @@
+{
+    "Filename": "97305.txt",
+    "Location": "Merritt Island, Florida",
+    "Accident Number": "GAA18CA292",
+    "Date & Time": "May 11, 2018, 09:10 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N610FT",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported solo flight landing encountered wind gust tilted airplane right attempted maintain centerline left main landing gear touched hard taxied park without incident airplane sustained substantial damage leftwing spar student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located 8 mile southeast accident airport reported time accident wind 290 3 knot student pilot landed airplane runway 11 probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare tailwind condition resulted hard landing",
+        "Top Words": [
+            [
+                "student",
+                4
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

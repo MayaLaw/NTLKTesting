@@ -1,0 +1,29 @@
+{
+    "Filename": "99285.txt",
+    "Location": "Fullerton, California",
+    "Accident Number": "WPR19FA115",
+    "Date & Time": "April 18, 2019, 19:51 Local",
+    "Aircraft": "Beech 60",
+    "Registration": "N65MY",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Ground handling event",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot began takeoff roll visual meteorological condition airplane airborne 1300 ft runway 75 normal ground roll distance airplane weight takeoff environment 2 second rotation airplane rolled left three second later airplane reached altitude 80 ft ground level 90 left bank nose dropped airplane rolled inverted struck ground rightwinglow nosedown attitude airplane destroyed postaccident examination reveal anomaly airframe engine would precluded normal operation landing gear flap trim position appropriate takeoff flight control continuity confirmed symmetry damage propeller assembly indicated engine producing equal high amount power impact autopsy revealed natural disease present could pose significant hazard flight safety review surveillance video footage accident revealed elevator almost full noseup trailing edge position taxi beginning takeoff roll surveillance footage also showed pilot perform preflight inspection airplane control check accident flight according pilot friend also hangar accident pilot pushing airplane back hangar night accident manipulated locked elevator trailing edge position clear obstacle hangar however evidence installed elevator control lock found cabin accident",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "accident",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

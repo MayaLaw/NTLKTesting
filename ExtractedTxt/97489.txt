@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Rotan, Texas
+Accident Number:
+CEN18FA227
+Date & Time:
+June 15, 2018, 15:38 Local 
+Registration:
+N734BS
+Aircraft:
+Cessna 172N
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The airplane had completed an aerial photography mission with a pilot and passenger aboard and was en 
+route to the destination airport. Video and photographic evidence obtained from two devices located in 
+the wreckage (a Garmin Aera 560 portable GPS device and a GoPro Hero 4 action camera) and an 
+online social media post indicated that the pilot was operating the airplane at high speeds and low 
+altitudes during the accident flight. Photographs taken from within the airplane showed the canyon, 
+wooden poles, and suspended power lines that the airplane eventually struck. In the final image retrieved 
+from the GoPro camera, the airplane was in a moderate left bank at a similar altitude as the surrounding 
+canyon and power lines and was heading toward the power lines. Given the image timestamp, the 
+recorded time of the final GPS point, and the relative distance from the final GPS location and the 
+accident site, it is likely that the final image from the GoPro camera depicted the canyon and wires that 
+were struck. The airplane then impacted terrain and came to rest in a canyon about 900 ft from the 
+location where the power lines crossed the canyon. A large portion of power line cable was found 
+wrapped around the engine's crankshaft about 15 times, indicating that the engine was operating at 
+considerable power output when the impact occurred. 
+Toxicological testing showed the presence of tetrahydrocannabinol (THC), the primary psychoactive 
+compound in marijuana, as well as the inactive metabolites of cocaine in the pilot's blood and urine 
+specimens. No active cocaine was found in the pilot's blood specimens, so it is unlikely that the pilot 
+was impaired by cocaine. Although the pilot likely had a low level of active THC in his system, it is 
+unlikely that impairment from this low level of THC contributed to the circumstances of this accident. 
+Thus, the available evidence indicated that the pilot intentionally conducted low-level flight through a 
+canyon without recognizing that power lines crossed the canyon, which led to the airplane's impact with 
+power lines and subsequent impact with terrain.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

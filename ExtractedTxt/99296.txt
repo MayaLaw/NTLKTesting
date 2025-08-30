@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+St. Cloud, Minnesota
+Accident Number:
+CEN19LA125
+Date & Time:
+April 20, 2019, 09:46 Local 
+Registration:
+N40956
+Aircraft:
+Piper PA-28R-200
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that the airplane operated normally during the personal flight. He stated that 
+before touchdown at the destination airport, he applied left rudder and had the right wing down into the 
+wind to counter the crosswinds and maintain the center line of the runway. At touchdown, he held the 
+control yoke to the right and was applying the brakes; however, the airplane veered left and exited the 
+runway. The airplane traveled about 50 ft into the grass, and the right main landing gear collapsed; the 
+right wing struck the ground and sustained substantial damage. Postaccident examination confirmed 
+flight control continuity. The airplane was equipped with an engine monitoring system, and data 
+indicated that the engine and propeller operated normally during the flight. The pilot reported no 
+preaccident mechanical malfunctions or failures with the airplane that would have precluded normal 
+operation. Weather at the destination airport about 1 hour before the accident was wind from 180° at 13 
+knots gusting to 20 knots; the automated weather report that the pilot received en route was similar. The 
+crosswind component was within the maximum demonstrated crosswind component for this airplane; 
+however, the pilot stated, "Looking back, I should have never gone up with crosswinds that high, with 
+little to no practice in crosswinds logged in the last 30, 60, [or] 90 days." Thus, it is likely that the pilot 
+failed to maintain directional control during landing in crosswind conditions.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during a crosswind landing. Contributing to the 
+accident was the pilot's decision to land in crosswind conditions given his lack of recent experience in 
+those conditions. 

@@ -1,0 +1,46 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Jacksonville, Alabama
+Accident Number:
+ERA18FA146
+Date & Time:
+May 12, 2018, 20:05 Local 
+Registration:
+N486T
+Aircraft:
+Beech 35A33
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fire/smoke (non-impact)
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot and his daughter were on the return leg of a cross-country flight in night, 
+visual meteorological conditions. While in cruise flight, the pilot saw smoke in the cockpit, so he began 
+turning off electrical components. The engine then sputtered and lost total power. He set up for a forced 
+landing, felt heat from the engine compartment, and then saw flames coming from the same area. He 
+discharged a portable fire extinguisher. At the first indication of heat, his daughter left the right cockpit 
+seat and climbed into the aft cabin; the pilot did not believe she fastened her lap belt. While crossing a 
+ridge, the airplane collided with trees and came to rest on the side of a hill in a forested area. The pilot 
+egressed the airplane and noted that his daughter was no longer in the airplane. He subsequently found 
+her; she had been thrown clear of the wreckage and was seriously injured. First responders arrived soon 
+thereafter, and she later died from her injuries.
+Most of the airplane's fuselage, empennage, and right wing was consumed by postcrash fire. The left 
+wing separated during the impact sequence and was not burned. The engine, propeller, nose landing 
+gear, and cowling separated during the impact sequence and were found outside the postcrash fire zone. 
+Evidence of an in-flight fire was observed at the aft section of the engine, with the heaviest fire damage 
+near fuel lines adjacent to the left muffler and heat exchanger. An examination of the muffler and heat 
+exchanger revealed multiple preexisting cracks that could have allowed hot exhaust gasses to escape 
+from the assembly onto the adjacent fuel lines. Damage to those fuel lines prevented determining a 
+definitive origin for the ignition of the inflight fire, though the damage to those fuel lines was consistent 
+with the fire being fuel-fed in nature. The largest crack of the muffler was located at the left side and 
+extended 3.35 inches around the circumference through the muffler wall and coincided with a crack 
+through the heat exchanger end flange that extended 4.25 inches around the circumference. Oxidation 
+and exhaust deposits observed on the crack surfaces indicated the cracks developed and existed for some 
+time before the accident.
+The pilot, who owned the airplane, was a certificated airframe and powerplant mechanic with inspection 
+authorization. He performed the airplane's most recent annual and 100-hour inspections about 4 months 

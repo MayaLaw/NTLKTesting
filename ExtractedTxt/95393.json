@@ -1,0 +1,29 @@
+{
+    "Filename": "95393.txt",
+    "Location": "Mount Vernon, Ohio",
+    "Accident Number": "CEN17LA234",
+    "Date & Time": "June 17, 2017, 13:30 Local",
+    "Aircraft": "Aeronca 65 CA",
+    "Registration": "N33778",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "AC/prop/rotor contact w person",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot prepared handprop airplane equipped electrical starter tying tail nylon rope pilot handpropped engine started high power setting airplane moved forward breaking rope continued taxi circle pilot another individual tried stop airplane however propeller struck pilot resulting fatal injury airplane eventually came stop farther runway although pilot attempted secure airplane tying tail throttle set high engine power setting allowing airplane movement probable cause finding national transportation safety board determines probable cause accident pilot improper starting procedure hand propping engine subsequent attempt stop moving airplane resulted struck propeller",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "engine",
+                3
+            ]
+        ]
+    }
+}

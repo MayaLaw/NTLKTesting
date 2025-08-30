@@ -1,0 +1,29 @@
+{
+    "Filename": "99403.txt",
+    "Location": "Boulder City, Nevada",
+    "Accident Number": "WPR19LA141",
+    "Date & Time": "May 7, 2019, 16:00 Local",
+    "Aircraft": "Flight Design CTLS",
+    "Registration": "N423EB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "pilot departed local flight passenger nearby lake airplane reached lake pilot perceived sudden increase indicated airspeed responded retarding throttle idle position advancing throttle back full power point observed warning light engine control unit lane b failure message primary flight display pfd rotax land aircraft pilot immediately returned airport performed rapid descent realized high approach unsuccessful reducing airspeed first half runway decided execute goaround maneuver airplane passed midfield eyewitness reported observed airplane attempt goaround end runway engine initially sound like reached full power airplane subsequently stalled impacted terrain according engine manufacturer lane b failure would affected engine performance recorded engine aircraft parameter indicated engine continued run respond throttle position change normally throughout flight data showed unexplained increase airspeed occurred following change throttle position resultant increase engine rpm recorded data consistent pilot account event leading point goaround initiated data indicated throttle moved 95 20 second airplane stalled engine rpm increased airspeed decreased 52 knot 35 knot angle attack increased 99 time postaccident examination airplane revealed preimpact mechanical failure anomaly could precluded normal flight accident consistent pilot failing monitor airplane performance return airport resulted need go around due fast land remaining runway goaround maneuver pilot advance throttle 100 resulted airspeed decreasing angle attack increasing airplane stalled",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Wasilla, Alaska
+Accident Number:
+ANC18LA040
+Date & Time:
+June 2, 2018, 10:25 Local 
+Registration:
+N624MW
+Aircraft:
+Piper PA 18-150
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, shortly after departure for a cross-country flight, the engine lost total power. He 
+was unable to return to the runway, and the airplane impacted trees, which resulted in substantial 
+damage to the wings and rudder. 
+A postaccident engine examination revealed small unidentified contaminants in the gascolator and 
+carburetor bowl. The amount and size of the contaminants were not enough that would be expected to 
+cause a total loss of engine power. 
+After the examination, an engine test run was conducted with no hesitations or anomalies observed.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined based on the available information.
+Findings
+Not determined
+(general) - Unknown/Not determined
+Environmental issues
+Tree(s) - Contributed to outcome

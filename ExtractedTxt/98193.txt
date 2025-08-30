@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Everett, Washington
+Accident Number:
+GAA18CA519
+Date & Time:
+July 21, 2018, 18:55 Local 
+Registration:
+N45586
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during final approach, the engine sputtered and then lost all power. The airplane 
+landed short of the runway on the threshold, and the nose landing gear collapsed. 
+The airplane sustained substantial damage to the engine truss and mount.
+Postaccident examination by a Federal Aviation Administration inspector revealed no evidence of 
+preaccident mechanical malfunctions or failures that would have precluded normal operation. A 
+photograph provided by the inspector showed no damage to the propeller, which is consistent with the 
+engine not producing power at the time of impact. The inspector reported that fuel was present in the 
+tanks, that the gascolator screen was found clear of debris, and that he suspected carburetor ice was 
+responsible for the loss of engine power. 
+The airport's automated weather observation station reported that, about the time of the accident, the 
+wind was from 310° at 7 knots, the temperature was 72°F, and the dew point was 48°F. The atmospheric 
+conditions were favorable for serious carburetor icing at descent power setting.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to carburetor icing during final approach, which resulted in a hard 
+landing short of the runway and the nose landing gear collapsing. 

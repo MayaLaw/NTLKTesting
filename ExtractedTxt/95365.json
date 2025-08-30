@@ -1,0 +1,29 @@
+{
+    "Filename": "95365.txt",
+    "Location": "Ruidoso, New Mexico",
+    "Accident Number": "CEN17FA227",
+    "Date & Time": "June 13, 2017, 22:10 Local",
+    "Aircraft": "Beech E 90",
+    "Registration": "N48TA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot filed instrument flight rule flight plan departing dark night visual meteorological condition crosscountry personal flight witness departure airport stated takeoff airplane sounded looked normal witness said airplane lifted halfway runway 24 plenty runway remaining airplane land witness lost sight airplane see accident airport hangar blocked view wreckage located 2400 ft southeast departure end runway 24 examination accident site indicated airplane impacted nosedown attitude left bank 20 left turn departure consistent airport published instrument departure procedure obstacle avoidance required immediate climbing left turn proceeding navigational beacon located 7 mile eastnortheast airport examination wreckage reveal evidence preimpact mechanical malfunction would precluded normal operation pilot reportedly awake 15 hour conducting departure time normally went sleep therefore may fatigued time event however given available evidence impossible determine role fatigue event although circumstance accident consistent spatial disorientation insufficient evidence determine whether may played role sequence event probable cause finding",
+        "Top Words": [
+            [
+                "departure",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "airport",
+                4
+            ]
+        ]
+    }
+}

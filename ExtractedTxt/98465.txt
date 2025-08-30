@@ -1,0 +1,44 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Culpeper, Virginia
+Accident Number:
+ERA19FA010
+Date & Time:
+October 11, 2018, 20:00 Local 
+Registration:
+N804RL
+Aircraft:
+Vans RV8
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of visual reference
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Air race/show
+Analysis 
+The accident pilot was performing as part of a two-airplane demonstration team that was conducting a 
+night aerobatic display about 55 minutes after the end of civil twilight. Both airplanes were equipped 
+with streamer- and flare-type fireworks that were discharged throughout the 5-minute routine. The pilot 
+of the lead airplane stated that the night of the accident was "a little bit on the darker side" and that they 
+had chosen to perform their display around 700 ft above ground level (agl) rather than their typical 500 
+ft agl altitude. They were in the middle of the routine when the accident occurred; the accident airplane 
+was in trail behind the lead airplane as they each performed two aileron rolls. Video footage showed 
+that, after completing the second aileron roll, the lead airplane began to climb. The accident airplane 
+completed its second aileron roll to an inverted attitude, but rather than continuing the roll to an upright 
+position, entered an inverted descent that continued until ground contact.
+At the time of the accident, the moon was more than 14° below the horizon. The dark night conditions, 
+combined with a lack of cultural lighting on the ground in the vicinity of the airport, would have 
+increased the difficulty associated with the task of maintaining awareness of the airplane's attitude in 
+relation to the horizon and its height above the ground. In addition, the multiple point-source glare from 
+the pyrotechnics off the lead airplane during the final moments of the flight may have impeded the 
+pilot's vision and affected his ability to maintain his orientation during maneuver, particularly without a 
+discernable contrast between earth and sky under the dark night conditions. With this loss of attitude 
+orientation, it is likely that the pilot did not recognize that he had not come out of the roll and the 
+airplane continued to ground impact.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of attitude orientation while maneuvering at low altitude in dark night visual 
+meteorological conditions, which resulted in impact with terrain.

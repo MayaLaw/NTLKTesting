@@ -1,0 +1,29 @@
+{
+    "Filename": "99030.txt",
+    "Location": "Devine, Texas",
+    "Accident Number": "CEN19LA087",
+    "Date & Time": "February 27, 2019, 16:38 Local",
+    "Aircraft": "Warner Aerocraft Space Walker II",
+    "Registration": "N1778",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting personal fight private airstrip airplane collided tree descent make low pas runway forward fuselage left wing sustained substantial damage accident pilot recall final portion flight besides brief memory airplane descending toward tree 90 nosedown pitch attitude pilot recall airplane mechanical malfunction flight witness reported hearing reduction engine power shortly accident however based pilot statement likely reduced engine power descend toward runway low pas additionally examination airplane engine reveal evidence mechanical malfunction would precluded normal operation based upon pilot recollection airplane vertical nosedown descent likely airplane exceeded critical angle attack maneuvering near runway resulted aerodynamic stall collision tree terrain probable cause finding national transportation safety board determines probable cause accident pilot failure maintain control airplane maneuvering low altitude resulted airplane exceeding critical angle attack aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "tree",
+                3
+            ]
+        ]
+    }
+}

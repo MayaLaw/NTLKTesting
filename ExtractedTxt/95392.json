@@ -1,0 +1,29 @@
+{
+    "Filename": "95392.txt",
+    "Location": "Watervliet, Michigan",
+    "Accident Number": "GAA17CA347",
+    "Date & Time": "June 16, 2017, 19:20 Local",
+    "Aircraft": "Aeronca 11AC",
+    "Registration": "N9404E",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aircraft loading event",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "flight instructor reported takeoff climb grass runway student pilot flying 25 ft ground climb rate became stagnant added instructed student lower nose slightly several second airplane resume normal climb rate flight instructor took flight control noticed sluggish felt airplane caught wind swirl downdraft subsequently flight instructor made small left turn toward small gap tree line ahead airplane impacted heavily woodedtreed area fuselage wing sustained substantial damage flight instructor reported preaccident mechanical malfunction failure airplane would precluded normal operation according flight instructor airplane departed loaded gross weight student pilot reported flight instructor discus weight balance flight postaccident interview national transportation safety board investigatorincharge student flight instructor reported personal weight total 10 gallon fuel board takeoff based upon information provided takeoff weight 1389 lb 139 lb maximum gross weight 1250 lb published airplane pilot operating handbook airplane center gravity takeoff within limit 1865 124 220 automated weather observation station 8 nautical mile nm southwest accident site reported time accident wind 200 5 knot temperature 82f 28c dewpoint 54f 12c barometric setting 2976 inch mercury calculated density altitude 8 nm southwest 2648 ft flight instructor reported took runway 20 2600 ft long",
+        "Top Words": [
+            [
+                "flight",
+                10
+            ],
+            [
+                "instructor",
+                8
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

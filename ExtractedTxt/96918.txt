@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Pierce, Nebraska
+Accident Number:
+CEN18FA126
+Date & Time:
+March 21, 2018, 18:45 Local 
+Registration:
+N741WT
+Aircraft:
+RANS INC S-16 SHEKARI
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was approaching his private airstrip in his experimental amateur-built airplane when 
+witnesses heard the sound of the engine stop. The airplane then impacted a field about ¼ mile from the 
+approach end of the runway. The runway's usable length was limited due to standing water and mud; 
+thus, the approach for landing would have necessitated a low-speed, low-altitude approach with low 
+engine power to minimize airplane energy. The wreckage path and airplane damage were consistent 
+with a low-speed, nose-low impact. 
+The accident occurred about 1 hour after the pilot fueled the airplane with 16.5 gallons of 100 low-lead 
+(LL) fuel. Postaccident examination of the fuel tank found that it contained useable fuel. No indication 
+of water was found in the fuel.
+Recorded data from the airplane' s electronic flight instrument system showed that the airplane's speed 
+decreased below stall speed and engine operation continued until the airplane impacted terrain. The 
+airplane was not equipped with a stall warning system, and there were no markings on airspeed 
+instruments indicating the stall speed. Postaccident examination of the airplane revealed no mechanical 
+anomalies that would have precluded normal operation.
+The National Transportation Safety Board was unable to determine, from the available evidence, the 
+number of hours that the pilot flew in the accident airplane make and model, which he had purchased 6 
+months before the accident.    
+Although the pilot's severe heart disease placed him at increased risk for an acute cardiac event, whether 
+or not symptoms from such an event contributed to this accident could not be determined. Thus, the 
+reason for the pilot's failure to maintain airspeed could not be determined.

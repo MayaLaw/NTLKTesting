@@ -1,0 +1,29 @@
+{
+    "Filename": "98044.txt",
+    "Location": "Steilacoom, Washington",
+    "Accident Number": "WPR18FA220",
+    "Date & Time": "August 10, 2018, 20:43 Local",
+    "Aircraft": "De Havilland DHC8",
+    "Registration": "N449QX",
+    "Flight Conducted Under": "Unknown",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Security/criminal event",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "august 10 2018 2043 pacific daylight time de havilland dhc8402 n449qx destroyed impacted tree ketron island near steilacoom wa noncertificated pilot fatally injured airplane registered horizon air industry inc operated noncertificated pilot unauthorized flight visual meteorological condition prevailed area time event flight plan filed airplane departed seattletacoma international airport seattle washington 1932 horizon air personnel reported noncertificated pilot employed ground service agent access airplane ramp investigation event conducted jurisdiction federal bureau investigation fbi ntsb provided requested technical assistance fbi material generated ntsb control fbi ntsb plan issue investigative report open public docket probable cause finding",
+        "Top Words": [
+            [
+                "noncertificated",
+                3
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

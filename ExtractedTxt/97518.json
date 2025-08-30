@@ -1,0 +1,29 @@
+{
+    "Filename": "97518.txt",
+    "Location": "Hartford, Connecticut",
+    "Accident Number": "WPR18LA173",
+    "Date & Time": "June 16, 2018, 13:15 Local",
+    "Aircraft": "Piper PA 28-140",
+    "Registration": "N1782J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot stated takeoff engine lost partial power airplane would maintain altitude pilot initiated forced landing runway nearby closed airport descent pilot verified mixture full rich carburetor heat switched fuel tank pilot said engine respond turned executed forward slip sturns position airplane onto runway however airplane landed 600 ft departure end runway overran end runway struck fence resulted substantial damage wing fuselage pilot reported believed recently replaced fuel selector valve failed starved engine fuel postaccident examination airplane engine test run reveal anomaly engine fuel system fuel selector valve would precluded normal operation thus reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident loss engine power undetermined reason postaccident examination engine fuel system reveal anomaly would precluded normal operation led pilot forced landing subsequent runway overshoot collision fence",
+        "Top Words": [
+            [
+                "engine",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "fuel",
+                6
+            ]
+        ]
+    }
+}

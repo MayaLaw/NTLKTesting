@@ -1,0 +1,29 @@
+{
+    "Filename": "99082.txt",
+    "Location": "Superior, Wisconsin",
+    "Accident Number": "GAA19CA157",
+    "Date & Time": "March 7, 2019, 17:45 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N522DN",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing snow icecovered runway unable maintain directional control attempted go around however airplane impacted snowbank right side runway came rest inverted airplane sustained substantial damage right wing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing snow icecovered runway resulted impact snowbank noseover",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "runway",
+                3
+            ]
+        ]
+    }
+}

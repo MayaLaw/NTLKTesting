@@ -1,0 +1,29 @@
+{
+    "Filename": "98460.txt",
+    "Location": "San Jose, California",
+    "Accident Number": "DCA19CA006",
+    "Date & Time": "October 11, 2018, 11:00 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N734SA",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 121 None",
+    "Analysis": {
+        "Text": "october 11 2018 1100 pacific daylight time southwest airline flight 2134 boeing b737 700 n734sa final decent norman mineta san jos\u00e9 international airport ksjc san jose california passenger fell returning seat 122 passenger crew onboard one passenger received serious injury regularly scheduled domestic passenger flight operating 14 code federal regulation part 121 john wayne airport ksna santa ana california ksjc according flight attendant completing final walkthrough cabin passenger exited lavatory tripped returning seat seatbelt sign illuminated airplane 10000 foot passenger immediately complained hip pain flight attendant remained floor injured passenger landing emergency medical personnel met airplane gate transported passenger local hospital diagnosed fractured left hip probable cause finding national transportation safety board determines probable cause accident passenger falling returning seat resulted serious injury",
+        "Top Words": [
+            [
+                "passenger",
+                9
+            ],
+            [
+                "flight",
+                4
+            ],
+            [
+                "returning",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Panama City, Florida
+Accident Number:
+GAA18CA419
+Date & Time:
+June 30, 2018, 16:45 Local 
+Registration:
+N89887
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, 15 minutes into a cross-country flight, the airplane's engine lost rpm. He added 
+power, and the engine regained rpm briefly before losing all power. The pilot selected a dirt road for an 
+emergency landing, during which the nose landing gear touched down on a soft surface, and the airplane 
+nosed over.
+The airplane sustained substantial damage to the left and right wings and the front windshield.
+The pilot reported that the airplane had 4.5 gallons of fuel on board at the last takeoff. A Federal 
+Aviation Administration inspector reported that, during postaccident examination of the airplane, the 
+fuel tanks were found empty. The gascolator had residual fuel, and about 1 gallon of fuel was removed 
+from the fuselage fuel drain. He added that, according to the manufacturer's specifications, the airplane 
+should have had 1.5 gallons of unusable fuel. He turned on the airplane's master power switch to view 
+the fuel quantity gauge indications, and the left-wing tank gauge indicated between empty and a quarter 
+full with no fuel in the tank, and the right-wing fuel tank gauge indicated empty.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper preflight fuel planning, which resulted in fuel exhaustion and a subsequent total 
+loss of engine power.

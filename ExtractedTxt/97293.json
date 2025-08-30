@@ -1,0 +1,29 @@
+{
+    "Filename": "97293.txt",
+    "Location": "Commerce, Georgia",
+    "Accident Number": "ERA18FA149",
+    "Date & Time": "May 21, 2018, 19:10 Local",
+    "Aircraft": "Taylorcraft BC12",
+    "Registration": "N94909",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot departed visual flight rule local flight witness saw pilot conduct preflight inspection accident airplane depart 10minute flight airplane returned airstrip land witness heard engine rpm going airplane landed pilot began taxiing toward hangar taxied back runway another takeoff witness stated airplane reached altitude 50 75 ft runway engine sputtering time airplane seemed slow tree right wing nose dropped followed impact tree postaccident examination engine revealed evidence preimpact mechanical malfunction failure would precluded normal operation weather condition near accident site time accident conducive formation serious carburetor icing descent engine power setting given condition existed witness reported engine rpm may fluctuating airplane previous landing approach likely carburetor ice accumulated prior descent possibly taxi period followed prior accident takeoff undetected partial loss power accident takeoff ultimately led aerodynamic stall pilot unable recover probable cause finding national transportation safety board determines probable cause accident pilot failure effectively mitigate accumulation carburetor ice resulted undetected partial loss engine power aerodynamic stall takeoff",
+        "Top Words": [
+            [
+                "accident",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                6
+            ]
+        ]
+    }
+}

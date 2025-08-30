@@ -1,0 +1,29 @@
+{
+    "Filename": "97324.txt",
+    "Location": "Killeen, Texas",
+    "Accident Number": "GAA18CA300",
+    "Date & Time": "May 17, 2018, 11:00 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N7750F",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported max performance takeoff set flap 10 accelerated 60 mph pulled back pitched airplane vx best angle climb 52 mph simulate obstacle pitched vy best rate climb 72 mph observed airplane descending pitched back gain altitude immediately heard stall warning horn felt lack responsiveness flight control leveled airplane touch remaining runway right wing right horizontal stabilizer impacted runway airplane sustained substantial damage right wing right horizontal stabilizer pilot reported cause accident published vx airspeed stall speed pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation possible engine performing optimal performance airplane owner manual checklist titled maximum performance takeoff stated 1 wing flap 2 carburetor heat cold 3 brake hold 4 throttle full open 5 brake release",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

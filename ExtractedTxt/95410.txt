@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Georgetown, Texas
+Accident Number:
+CEN17LA239
+Date & Time:
+June 4, 2017, 16:09 Local 
+Registration:
+N169BZ
+Aircraft:
+LEVY ADAM V LEGACY 2000
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After reaching 12,500 ft altitude, the private pilot attempted to adjust the boost control of the 
+experimental amateur-built airplane's engine. When he did so, the engine experienced a total loss of 
+power. The pilot subsequently performed a forced landing to a field. A postaccident examination of the 
+engine revealed no anomalies. The examination revealed that the airplane was powered by an aircraft 
+engine that was modified to employ a belt-driven automotive centrifugal supercharger. Due to the 
+experimental nature of the supercharger installation, no determination could be made regarding its 
+installation or operation; however, no outward signs of a failure or malfunction were observed. Based on 
+the available evidence, the reason for the loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined based on the available information.
+Findings
+Not determined
+(general) - Unknown/Not determined

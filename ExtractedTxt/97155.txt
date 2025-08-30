@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+West Milford, New Jersey
+Accident Number:
+ERA18FA138
+Date & Time:
+May 2, 2018, 14:10 Local 
+Registration:
+N4153R
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fire/smoke (non-impact)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot told a friend that he was having problems with his airplane's engine and stated that he 
+was going to taxi to the end of the runway and perform an engine run-up. If the engine run-up was 
+successful, the pilot was going to conduct a short cross-country flight and return. During takeoff, the 
+engine experienced a total loss of power; the airplane subsequently impacted a wooded area about 1,100 
+ft south of the departure runway.
+Examination of the wreckage revealed that the airplane experienced an in-flight fire, with the heaviest 
+concentration of thermal damage on the aft right side of the engine compartment. The fuel inlet line 
+from the fuel pump to the fuel servo was loose. According to the manufacturer, the part number of the 
+inlet line installed on the accident airplane was not approved for aircraft use; however, aside from the 
+part number, the approved hose looked identical to the unapproved hose, and the error likely could not 
+be detected during an annual inspection. The airplane's maintenance logbooks were destroyed during the 
+accident and the pilot performed some of the maintenance of the airplane himself; therefore, when and 
+by whom the unapproved hose was installed could not be determined. It is likely that the loose fuel line 
+allowed fuel to spray onto the exhaust system, which resulted in the in-flight fire and the total loss of 
+engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An in-flight fire and total loss of engine power after takeoff due to a loose fuel line. Contributing to the 
+accident was the installation of an unapproved fuel line by unknown personnel.

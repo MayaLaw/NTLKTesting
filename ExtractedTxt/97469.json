@@ -1,0 +1,29 @@
+{
+    "Filename": "97469.txt",
+    "Location": "Phoenix, Arizona",
+    "Accident Number": "DCA18CA209",
+    "Date & Time": "June 12, 2018, 11:44 Local",
+    "Aircraft": "Boeing 737-8H4",
+    "Registration": "N8693A",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 5 None",
+    "Analysis": {
+        "Text": "june 12 2018 1144 mst southwest airline 2344 boeing 737800 n8693a b position flight attendant seriously injured pot hot water holding splashed chest face passenger exiting lavatory bumped boarding phoenix sky harbor international airport kphx phoenix arizona two flight crew 4 flight attendant unknown passenger board time flight operating 14 code federal regulation part 121 regularly scheduled passenger flight kphx buffalo niagara international airport kbuf buffalo new york injured flight attendant unable perform duty replaced injured flight attendant transported hospital diagnosed second degree burn released probable cause finding national transportation safety board determines probable cause accident anbsppassenger bumping flight attendant wasnbspholding hot liquid finding personnel issue general cabin crew",
+        "Top Words": [
+            [
+                "flight",
+                8
+            ],
+            [
+                "attendant",
+                5
+            ],
+            [
+                "injured",
+                3
+            ]
+        ]
+    }
+}

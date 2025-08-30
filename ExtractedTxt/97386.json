@@ -1,0 +1,29 @@
+{
+    "Filename": "97386.txt",
+    "Location": "Vinton, Iowa",
+    "Accident Number": "GAA18CA317",
+    "Date & Time": "May 28, 2018, 15:06 Local",
+    "Aircraft": "Aeronca 7AC",
+    "Registration": "N84163",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported overflying airport determine wind direction landed variable crosswind condition touchdown near stall speed tailwheelequipped airplane encountered wind gust added airplane veered left attempted correct immediate application right rudder right brake subsequently airplane exited left side runway grass right wingtip struck ground added able taxi airplane park airplane sustained substantial damage right wing right wing spar right wing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located accident airport reported time accident wind 140 11 knot gusting 18 knot pilot landed runway 34 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting tailwind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

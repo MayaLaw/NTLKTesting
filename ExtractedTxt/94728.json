@@ -1,0 +1,29 @@
+{
+    "Filename": "94728.txt",
+    "Location": "Wheatland, Wyoming",
+    "Accident Number": "GAA17CA141",
+    "Date & Time": "February 13, 2017, 14:50 Local",
+    "Aircraft": "Cessna 170",
+    "Registration": "N1421D",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "flight instructor tailwheelequipped airplane reported landing roll soon tailwheel touched runway airplane veered right added attempted recover applying full left rudder left brake right aileron left wing impacted ground airplane exited runway right subsequently airplane nosed airplane sustained substantial damage right wing lift strut wing empennage flight instructor reported skid mark runway indicated tailwheel rolling freely added postaccident inspection left brake pedal went lower limit initial depression later held brake pressure second depression reported would able recover airplane back centerline initial brake pressure response flight instructor reported 10 minute accident wind 310 13 knot gusting 19 knot followup email flight instructor reported brake tailwheel anomaly noted runup departure also reported student pilot make noticeable control input landing sequence federal aviation administration inspector reported postaccident examination airplane 2 day accident saw nothing abnormal brake added tailwheel turning airplane landed runway 26 online commercial weather service provider reported nearby station 2 minute accident reported wind 010 21 mph gusting 24 mph",
+        "Top Words": [
+            [
+                "reported",
+                9
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "brake",
+                6
+            ]
+        ]
+    }
+}

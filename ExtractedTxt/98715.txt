@@ -1,0 +1,43 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Apalachicola, Florida
+Accident Number:
+ERA19FA059
+Date & Time:
+November 30, 2018, 18:05 Local 
+Registration:
+N3995Y
+Aircraft:
+Cessna 210
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot had departed on the second leg of a cross-country flight just after the end of civil 
+twilight. Another pilot approaching the airport from the west reported seeing the airplane as it departed 
+to the east and communicating with the pilot over the radio. Soon afterward, the other pilot observed a 
+fireball. The wreckage was subsequently found in a remote, unlit marsh about 2 miles north of the 
+airport. The pilot did not make any distress calls over the radio.
+Examination of the wreckage and accident site indicated a high-energy, near-wings-level impact at a 
+shallow descent angle, which was consistent with controlled flight into terrain. The landing gear was 
+down, and the flaps were up. The wreckage examination revealed no evidence of a preaccident 
+mechanical failure or malfunction that would have precluded normal operation of the airframe or engine.
+The accident occurred at the end of civil twilight, and, because of the cloud cover, no moon would have 
+been visible. The lack of external lighting cues as the pilot took off over an area with no lights would 
+have been conducive to the development of spatial disorientation. The pilot likely experienced a 
+vestibular illusion and/or spatial disorientation and allowed the airplane to descend into the marsh under 
+controlled flight.
+The pilot's diabetes was well controlled and thus not a factor in this accident. Toxicology testing 
+revealed the pilot's use of venlafaxine, an antidepressant. The cognitive impairment associated with 
+depression could have made the pilot more susceptible to spatial disorientation and less able to 
+recognize the situation and respond quickly. However, given the available evidence, the investigation 
+could not determine whether cognitive impairment related to depression contributed to the accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's controlled flight into terrain as a result of his spatial disorientation during departure 

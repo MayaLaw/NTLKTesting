@@ -1,0 +1,29 @@
+{
+    "Filename": "99171.txt",
+    "Location": "Loveland, Colorado",
+    "Accident Number": "CEN19LA107",
+    "Date & Time": "March 23, 2019, 10:43 Local",
+    "Aircraft": "Cessna R172E",
+    "Registration": "N7879N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious, 2 Minor",
+    "Analysis": {
+        "Text": "pilot approached airport another pilot heard radio advised significant draft approach runway 15 pilot acknowledged transmission continued approach turned onto base leg encountered severe downdraftmicroburst pilot mentioned applied full power attempt climb airplane continued descend striking powerline tree subsequently impacted terrain review weather showed complex wind pattern existed area period wind shift occurring immediately time accident support convective microburst activity noted area however large area light intensity precipitation potential outflow noted could resulted different wind occurring accident site period addition high resolution rapid refresh model sounding satellite imagery pilot report noted support mountain wave activity area supported downslope wind downdraft activity area time accident national weather service airmet advisory turbulence ifr mountain obscuration condition area advisory lowlevel wind shear likely pilot encountered shifting wind due weather system area reduced engine power base leg traffic pattern pilot likely got downdraft produced sink rate could recover probable cause finding national transportation safety board determines probable cause accident inflightnbsploss control landing approach due tonbspencountering anbspdown draft pilot failure take timely action tonbspabandon approach perform goaround",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "area",
+                7
+            ],
+            [
+                "wind",
+                6
+            ]
+        ]
+    }
+}

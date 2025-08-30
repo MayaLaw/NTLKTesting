@@ -1,0 +1,29 @@
+{
+    "Filename": "94831.txt",
+    "Location": "Monongahela, Pennsylvania",
+    "Accident Number": "GAA17CA176",
+    "Date & Time": "February 22, 2017, 10:00 Local",
+    "Aircraft": "STUMP GREAT LAKES 2T 1A",
+    "Registration": "N305Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported airplane veered right left corrected veer right didnt get quick enough stop turn airplane continued left ground looped postaccident examination revealed airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station airport reported time accident wind 190 6 knot pilot landed runway 26 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control airplane landing roll crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

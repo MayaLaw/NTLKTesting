@@ -1,0 +1,29 @@
+{
+    "Filename": "95397.txt",
+    "Location": "Canon City, Colorado",
+    "Accident Number": "CEN17LA236",
+    "Date & Time": "June 18, 2017, 07:15 Local",
+    "Aircraft": "WELLS JOHN L JR STOL CH 701",
+    "Registration": "N999WX",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "commercial pilot reported initial climb takeoff amateurbuilt airplane engine experienced partial loss power attempted return airport engine lost total power subsequently conducted forced landing rough terrain right wing fuselage sustained damage postaccident examination engine revealed fuel hose left wing tank deteriorated inside would restricted flow fuel engine led fuel starvation subsequent loss engine power probable cause finding national transportation safety board determines probable cause accident fuel starvation due deterioration fuel hose finding aircraft fuel distribution damageddegraded aircraft fuel fluid level environmental issue rough terrain contributed outcome",
+        "Top Words": [
+            [
+                "fuel",
+                7
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

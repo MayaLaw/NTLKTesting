@@ -1,0 +1,29 @@
+{
+    "Filename": "98567.txt",
+    "Location": "Valkaria, Florida",
+    "Accident Number": "ERA19LA032",
+    "Date & Time": "October 27, 2018, 13:15 Local",
+    "Aircraft": "Titan T51",
+    "Registration": "N154DF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot stated shortly takeoff local test flight experimental amateurbuilt airplane engine surged corresponding fuel pressure fluctuation engine developing partial power elected return airport landing base leg airport traffic pattern engine lost total power airplane subsequently impacted small retention pond came rest partially submerged water postaccident examination engine revealed damage no 2 5 cast aluminum piston consistent detonation fuel pump engine control unit operationally tested discrepancy reported inspection cooling system component revealed evidence preimpact failure malfunction evidence warpage cylinder head observed owner reported continuing engine overheating problem occurred sustained moderate power setting unable correct despite extensive troubleshooting effort including routing coolant reservoir although believed operating engine rich fueltoair ratio compared identical airplane operating successfully accident engine operated lean fueltoair ratio power setting 500 5000 250 rpm increment finding consistent pilot report overheating sustained moderate power setting probable cause finding national transportation safety board determines probable cause accident partial total loss engine power due detonation associated damage several piston result overly lean fueltoair ratio",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "power",
+                6
+            ],
+            [
+                "airplane",
+                3
+            ]
+        ]
+    }
+}

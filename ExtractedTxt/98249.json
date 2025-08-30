@@ -1,0 +1,29 @@
+{
+    "Filename": "98249.txt",
+    "Location": "Lancaster, Ohio",
+    "Accident Number": "CEN18LA370",
+    "Date & Time": "August 31, 2018, 13:45 Local",
+    "Aircraft": "CUBCRAFTERS CC11-160",
+    "Registration": "N71BN",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported descending cruise flight traffic pattern altitude airplane engine began run rough applied carburetor heat made roughness worse turned carburetor heat engine lost power pilot executed forced landing farm field airplane nosed high vegetation according carburetor icing probability chart temperature dew point range susceptibility serious carburetor icing descent power setting pilot report accident listed mechanical malfunction failure airplane recommendation apply carburetor heat earlier beginning descent based information available airplane engine likely lost power due accumulation carburetor ice due delayed application carburetor heat probable cause finding national transportation safety board determines probable cause accident delayed application carburetor heat pilot led accumulation carburetor ice eventual loss engine power subsequent forced landing high vegetation",
+        "Top Words": [
+            [
+                "carburetor",
+                9
+            ],
+            [
+                "heat",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

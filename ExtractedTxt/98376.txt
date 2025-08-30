@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Addison, Texas
+Accident Number:
+CEN18LA392
+Date & Time:
+September 30, 2018, 11:21 Local 
+Registration:
+N818GM
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The private pilot and flight instructor were conducting a cross-country instructional flight. During 
+departure and while climbing through 2,800 ft mean sea level, the pilot and instructor noticed multiple 
+avionics malfunctions and initiated a turn back toward the airport. While the airplane was turning, the 
+engine lost all power, and the pilots noted indications of a fire. Because they were unable to find a 
+suitable area for a forced landing, the pilot activated the airplane's parachute system. The airplane 
+descended under the parachute into a parking lot, and the main wing spar sustained substantial damage. 
+Examination of the engine revealed that the engine exhaust muffler attachment hardware was not 
+secured correctly, which allowed the exhaust collector to freely rotate. A hole near the lower right 
+engine cowling was consistent with escaping hot exhaust gas. Several components in the right forward 
+side of the firewall were thermally damaged, and both magneto p-leads were shorted against the engine's 
+metal mount frame. The thermal damage interrupted both magnetos' function, which resulted in the loss 
+of engine power.
+During a pre-buy inspection of the airplane, the No. 1 cylinder base O-ring was replaced. The work 
+order, dated 3 days before the accident, required removal of the muffler. During the muffler 
+reinstallation, maintenance personnel likely did not correctly install the attachment hardware, which 
+resulted in the muffler separating in flight, thermal damage that interrupted the magnetos' function, and 
+the subsequent loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

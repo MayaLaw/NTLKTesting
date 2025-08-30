@@ -1,0 +1,29 @@
+{
+    "Filename": "94785.txt",
+    "Location": "Big Lake, Alaska",
+    "Accident Number": "GAA17CA159",
+    "Date & Time": "February 22, 2017, 16:30 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N6024D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported conducting two touchandgo landing nearby airport decided land different airport speak friend added everything seemed normal touchdown snowcovered runway airplane abruptly stopped nosed airplane sustained substantial damage wing rudder pilot reported inside left main landing gear brake packed ice frozen prevented wheel rotating landing roll probable cause finding national transportation safety board determines probable cause accident contamination snow ice left main landing gear brake prevented wheel rolling touchdown resulted noseover",
+        "Top Words": [
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

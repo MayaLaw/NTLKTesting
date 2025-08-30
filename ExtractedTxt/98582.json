@@ -1,0 +1,29 @@
+{
+    "Filename": "98582.txt",
+    "Location": "Laramie, Wyoming",
+    "Accident Number": "GAA19CA044",
+    "Date & Time": "October 26, 2018, 18:40 Local",
+    "Aircraft": "Stoddard Hamilton Glasair II",
+    "Registration": "N505YR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilotrated owner reported purchasing airplane receiving initial training day morning accident pilotrated friend departed crosscountry flight home airport added nearly 9 hour flying pilotrated friend manipulating flight control offered land destination airport landed horizon becoming dark attempted adjust panel light instrument realized light functioning owner used flashlight illuminate instrument landing landing nose landing gear contacted ground first airplane porpoised second bounce severe pilot initiated goaround avail owner added third bounce airplane exited runway left came rest nose airplane sustained substantial damage engine mount fuselage owner reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation system reported time accident wind 270 11 knot pilot landed airplane runway 30 probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "owner",
+                4
+            ],
+            [
+                "pilotrated",
+                3
+            ]
+        ]
+    }
+}

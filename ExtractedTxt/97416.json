@@ -1,0 +1,29 @@
+{
+    "Filename": "97416.txt",
+    "Location": "Springdale, Arkansas",
+    "Accident Number": "GAA18CA327",
+    "Date & Time": "June 6, 2018, 09:48 Local",
+    "Aircraft": "JABIRU USA SPORT AIRCRAFT LLC",
+    "Registration": "N748J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported takeoff airplane started veer left attempted recover right rudder input airplane continued veer left departed runway came rest ditch perimeter fence airplane sustained substantial damage left lift strut student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control takeoff finding aircraft directional control attainedmaintained personnel issue aircraft control studentinstructed pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

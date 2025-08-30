@@ -1,0 +1,29 @@
+{
+    "Filename": "98523.txt",
+    "Location": "Dahlonga, Georgia",
+    "Accident Number": "GAA19CA029",
+    "Date & Time": "October 18, 2018, 14:00 Local",
+    "Aircraft": "CAPITAL HOLDINGS 226 LLC CCX-",
+    "Registration": "N468LM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing airplane bounced veered right airplane exited right side runway applied full throttle abort landing recalled airplane climb obstacle failed reposition flap go around airplane collided tree stopped airplane sustained substantial damage wing pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted bounced landing subsequent failure maintain directional control also causal accident pilot failure retract flap aborted landing resulted airplane failure climb subsequent collision tree",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

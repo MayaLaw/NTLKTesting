@@ -1,0 +1,36 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Brownsville, Oregon
+Accident Number:
+WPR18TA238
+Date & Time:
+August 20, 2018, 16:40 Local 
+Registration:
+N140JL
+Aircraft:
+Rans S14
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The sport pilot was circling about 600 ft above ground level and taking photographs of a concert venue. 
+He stated that he slowed the airplane to about 60 mph before entering a steep left turn. During the turn, 
+the airplane stalled and subsequently impacted the ground. The pilot reported that there were no pre-
+impact mechanical anomalies with the airplane that would have precluded normal operation.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack while maneuvering at low altitude, which 
+resulted in an aerodynamic stall, loss of control, and impact with terrain.
+Findings
+Aircraft
+Angle of attack - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot
+Personnel issues
+Monitoring equip/instruments - Pilot

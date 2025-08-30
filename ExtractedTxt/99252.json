@@ -1,0 +1,29 @@
+{
+    "Filename": "99252.txt",
+    "Location": "New Albany, Mississippi",
+    "Accident Number": "CEN19FA119",
+    "Date & Time": "April 13, 2019, 15:14 Local",
+    "Aircraft": "Rockwell International NA-265-65",
+    "Registration": "N265DS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Electrical system malf/failure",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "two instrumentrated commercial pilot one passenger conducting crosscountry flight instrument meteorological condition began discussing electrical malfunction reported electrical problem air traffic control airplane subsequently made descending right turn impacted wooded terrain high speed component airplane highly fragmented impact damaged unidentifiable based limited discussion electrical problem cockpit voice recorder damage airplane possible determine specific nature electrical malfunction airplane may experienced possible determine system impacted electrical malfunction possible flight instrument affected airplane descending turning flight path impact consistent system malfunction either directly indirectly diversion attention led pilot loss awareness airplane performance instrument meteorological condition subsequent loss control airplane probable cause finding national transportation safety board determines probable cause accident unidentified electrical system malfunction led pilot losing awareness airplane performance instrument meteorological condition resulted loss control airplane",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "electrical",
+                6
+            ],
+            [
+                "malfunction",
+                5
+            ]
+        ]
+    }
+}

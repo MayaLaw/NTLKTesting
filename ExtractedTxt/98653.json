@@ -1,0 +1,29 @@
+{
+    "Filename": "98653.txt",
+    "Location": "Clermont, Florida",
+    "Accident Number": "ERA19LA050",
+    "Date & Time": "November 17, 2018, 11:20 Local",
+    "Aircraft": "ULTRALITE SRO Stingsport",
+    "Registration": "N494N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot stated cruise flight received automatic dependent surveillancebroadcast traffic alert traffic approaching one oclock position closing high rate speed pilot went describe control input airplane attitude response perceived threat ultimately resulted loss control aerodynamic spin pilot attempted recovery spin nose airplane pitched forward uncontrolled airplane entered highspeed nosedown descent likely remedial action regain control structure surrounding horizontal stabilizer failed stabilizer separated airplane pilot successfully deployed airplane ballistic parachute system landed pasture examination failed structure surrounding horizontal stabilizer revealed area delamination dry glass fiber indicative improper material layup inadequate resin application could determined extent inflight separation horizontal stabilizer due defect whether pilot control input response traffic warning departure controlled flight subsequent attempted recovery attempt imparted force onto horizontal stabilizer beyond nominal structural capability probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "stabilizer",
+                5
+            ]
+        ]
+    }
+}

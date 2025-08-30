@@ -1,0 +1,29 @@
+{
+    "Filename": "99383.txt",
+    "Location": "Rosendale, Wisconsin",
+    "Accident Number": "GAA19CA245",
+    "Date & Time": "May 6, 2019, 12:20 Local",
+    "Aircraft": "Ercoupe 415 C",
+    "Registration": "N2101H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported made offairport precautionary landing due turbulent condition landing roll pasture airplane nose landing gear impacted fence airplane nosed airplane sustained substantial damage fuselage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot selection unsuitable terrain offairport precautionary landing resulted impact fence noseover finding personnel issue decision makingjudgment pilot environmental issue fencefence post effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98673.txt",
+    "Location": "Miami, Florida",
+    "Accident Number": "GAA19CA071",
+    "Date & Time": "November 20, 2018, 09:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N607FT",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot lowwing airplane reported landing exited runway onto taxiway occupied highwing airplane landed attempted pas highwing airplane left airplane right wing struck airplane left wing lift strut airplane turned right 180 right wing struck propeller right wing highwing airplane flight instructor highwing airplane reported exiting runway onto taxiway felt small hit left side saw lowwing airplane make right 180 turn around front airplane impact right wing low highwing airplane sustained substantial damage right wing student reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper decision taxi past another airplane occupying taxiway subsequent failure maintain clearance airplane",
+        "Top Words": [
+            [
+                "airplane",
+                14
+            ],
+            [
+                "right",
+                7
+            ],
+            [
+                "wing",
+                6
+            ]
+        ]
+    }
+}

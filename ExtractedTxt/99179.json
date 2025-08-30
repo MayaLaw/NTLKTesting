@@ -1,0 +1,29 @@
+{
+    "Filename": "99179.txt",
+    "Location": "Deming, New Mexico",
+    "Accident Number": "WPR19LA101",
+    "Date & Time": "March 23, 2019, 11:30 Local",
+    "Aircraft": "DENNIS l ZUMBALT SKY BOLT",
+    "Registration": "N254PM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "takeoff pilot fueled airplane main header fuel tank 25 gallon automotive fuel shortly takeoff 400 ft ground level engine lost total power pilot performed forced landing dirt field airplane landed hard impacted sand dune resulting substantial damage examination fuel system revealed fuel selector selected auxwing fuel tank position pilot stated never fueled auxwing tank filled operated main header tank pilot reported examination confirmed mechanical malfunction airplane would precluded normal operation accident consistent total loss engine power due fuel starvation result pilot failure correctly position fuel selector prior departure probable cause finding national transportation safety board determines probable cause accident pilot failure properly position fuel selector takeoff resulted total loss engine power due fuel starvation",
+        "Top Words": [
+            [
+                "fuel",
+                9
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "tank",
+                4
+            ]
+        ]
+    }
+}

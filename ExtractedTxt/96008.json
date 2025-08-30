@@ -1,0 +1,29 @@
+{
+    "Filename": "96008.txt",
+    "Location": "Greeley, Colorado",
+    "Accident Number": "CEN17LA350",
+    "Date & Time": "September 12, 2017, 20:45 Local",
+    "Aircraft": "Embraer EMB 120ER",
+    "Registration": "N121CZ",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aircraft loading event",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "airplane operating nonscheduled domestic passenger flight standing ramp dark night condition waiting flight passenger arrive bus flight crew onboard airplane airport employee duty opened gate told bus driver drop passenger next airplane returned previous duty bus driver reported lighting ramp drove bus onto added made right turn around back airplane didnt see wing point unable stop bus hit wing although bus driver reported light back wing video ramp area showed vertical portion ttail illuminated airplane position light illuminated bus driver possessed current commercial passengercarrying vehicle operational medical certification driver vision problem driver stated using cell phone time crash review driver 72hour activity history reveal irregularity driver postaccident toxicological testing result negative test performed given fact likely unescorted driver failed maintain clearance airplane planeside delivery passenger dark night condition lack airport employee escort bus side airplane likely contributed accident accident operator stated would make policy driver guided airplane ground guide ground guide available driver would permitted drop passenger planeside",
+        "Top Words": [
+            [
+                "driver",
+                11
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "bus",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Nantucket, Massachusetts
+Accident Number:
+ERA17LA329
+Date & Time:
+September 13, 2017, 07:23 Local 
+Registration:
+N836GW
+Aircraft:
+Cessna 402
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot stated that, shortly after taking off for a cross-country, personal flight and while 
+accelerating, he noticed high airplane nose-down control forces and that the airplane became 
+increasingly difficult to control. He used manual trim to attempt to trim out the control forces and 
+verified that the autopilot was not engaged; however, the nose-down tendency continued, and the pilot 
+had trouble maintaining altitude. During the subsequent emergency landing, the airframe sustained 
+substantial damage.
+ 
+Postaccident examination of the airplane revealed that the elevator trim push rod assembly was 
+separated from the elevator trim tab actuator, and the end of the elevator trim push rod assembly was 
+found wedged against the elevator's main spar. The elevator trim indicator in the cockpit was found in 
+the nose-up stop position; however, the elevator trim tab was deflected 24° trailing edge up/airplane 
+nose down (the maximum airplane nose-down setting is 6°). A drilled bolt was recovered from inside 
+the right elevator; however, the associated washer, castellated nut, and cotter pin were not found. 
+Examination of the bolt revealed that the threads were damaged and that the bolt hole on one of the 
+clevis yoke halves exhibited deformation, consistent with the bolt separating. About 2 weeks before the 
+accident, the pilot flew the airplane to a maintenance facility for an annual inspection. At that time, 
+Airworthiness Directive (AD) 2016-07-24, which required installation of new hardware at both ends of 
+the pushrod for the elevator trim tab, was overdue. While the airplane was in for the annual inspection, 
+AD 2016-07-24 was superseded by AD 2016-17-08, which also required the installation of new 
+hardware. The ADs were issued to prevent jamming of the elevator trim tab in a position outside the 
+normal limits of travel due to the loss of the attachment hardware connecting the elevator trim tab 
+actuator to the elevator trim tab push-pull rod, which could result in loss of airplane control.
+ 

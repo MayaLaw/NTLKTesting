@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Daytona Beach, Florida
+Accident Number:
+ERA18LA164
+Date & Time:
+June 9, 2018, 15:00 Local 
+Registration:
+N21161
+Aircraft:
+Piper PA 44
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor stated that he and the private pilot-receiving instruction, who had the controls, 
+informally checked the weather before departing for the cross-country instructional flight but that they 
+did not obtain an official weather briefing. The flight was operating on an instrument approach in 
+instrument meteorological conditions, which included thunderstorms, frequent lightning, and low-level 
+wind shear advisories in effect at the destination airport. A tower controller at the destination airport 
+issued the flight a local instrument clearance and provided wind and supplemental weather information, 
+which included wind from 310° at 14 knots, gusting to 20 knots; a low-level windshear advisory, which 
+included wind from 320° at 15 knots and a 15-knot gain 1 mile from the end of the runway. The 
+controller also advised the pilot that the visibility was probably 1 mile in “that precipitation" and that 
+there was “frequent lightning cloud to ground.” During the approach, the airplane began encountering 
+rain, which increased in intensity as the airplane neared the final approach fix (FAF). Shortly after 
+passing the FAF, when the airplane was about 800 ft mean sea level, the controller issued a low-altitude 
+alert. The flight instructor took the controls, added full power, and attempted to climb the airplane; 
+however, it continued descending while about 90 knots throughout the descent and upon impact. The 
+airplane impacted houses and then came to rest inverted in a retention pond.
+The flight instructor noted that there were thunderstorms east of the destination airport when the flight 
+began; however, he did not anticipate their potential impact on the flight. While in-flight, both pilots 
+failed to identify the frequent lightning and low-level windshear advisory as a severe weather hazard and 
+continued the approach into an area of thunderstorm activity instead of diverting to an alternate airport.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

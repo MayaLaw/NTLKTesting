@@ -1,0 +1,29 @@
+{
+    "Filename": "98154.txt",
+    "Location": "Island Pond, Vermont",
+    "Accident Number": "ERA18FA232",
+    "Date & Time": "August 25, 2018, 15:20 Local",
+    "Aircraft": "Piper PA22",
+    "Registration": "N6936B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot landing airplane home airport conclusion local flight airplane last seen flying normally left downwind leg airport traffic pattern wreckage subsequently discovered location consistent turn downwind base leg traffic pattern airplane engine sustained extensive impact damage postimpact fire damage however examination revealed discrepancy would precluded normal operation friend pilot flew often said pilot tended turn downwind leg onto base leg traffic pattern quite steep 40 bank slow 6263 knot friend said shared concern stalling pilot pilot share concern airplane equipped stall warning horn angle attack indicator postmortem toxicology testing revealed presence several medication including diphenhydramine sedating antihistamine however given low level identified evidence pilot impaired use diphenhydramine contributed accident given amount fuel onboard duration flight unlikely airplane ran fuel although witness accident given location accident site lack preimpact mechanical anomaly pilot reported habit conducting traffic pattern turn slow speed steep bank likely pilot exceeded airplane critical angle attack maneuvering landing resulted aerodynamic stall subsequent impact terrain probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack maneuvering landing resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "leg",
+                4
+            ]
+        ]
+    }
+}

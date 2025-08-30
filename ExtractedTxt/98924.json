@@ -1,0 +1,29 @@
+{
+    "Filename": "98924.txt",
+    "Location": "Sugar Land, Texas",
+    "Accident Number": "GAA19CA119",
+    "Date & Time": "December 27, 2018, 13:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N17SJ",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported taking stopandgo landing applied full power airplane drifted left corrected right rudder airplane continued left reduced power idle abort takeoff airplane continued control left applied brake opposite rudder airplane exited runway left struck airport sign left main landing gear separated airplane came rest 200 ft past sign airplane sustained substantial damage left wing lift strut student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control takeoff resulted runway excursion impact sign",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                6
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

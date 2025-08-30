@@ -1,0 +1,29 @@
+{
+    "Filename": "98569.txt",
+    "Location": "New Market, Virginia",
+    "Accident Number": "ERA19LA033",
+    "Date & Time": "October 25, 2018, 09:15 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N68DW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot stated shortly takeoff crosscountry personal flight engine suddenly lost partial power subsequently made forced landing corn field left main landing gear penetrated left wing separated airplane nose landing gear collapsed firewall engine mount sustained substantial damage postaccident examination engine reveal evidence preaccident mechanical malfunction failure would precluded normal operation carburetor exhibited external damage however air box alternate air control removed dead mouse fell intake manifold probable cause finding national transportation safety board determines probable cause accident loss engine power takeoff due restricted air flow engine finding aircraft air intake specified",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "air",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

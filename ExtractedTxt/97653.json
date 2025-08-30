@@ -1,0 +1,29 @@
+{
+    "Filename": "97653.txt",
+    "Location": "Springfield, Missouri",
+    "Accident Number": "OPS18IA014",
+    "Date & Time": "June 27, 2018, 12:51 Local",
+    "Aircraft": "Embraer EMB145",
+    "Registration": "N655AE",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Air traffic event",
+    "Injuries": "Flight Conducted Under:",
+    "Analysis": {
+        "Text": "runway incursion sequence began air traffic control atc local controller lc cleared eny3660 takeoff inactive runway notamd closed arrival accommodate airfield mowing underrun interview controller incident revealed sgf runway 14 notamd closed sgf airport operation arrival available departure mower underrun runway 14 runway safety area rsa prohibited overflight landing air traffic notam published available aircrew air traffic control via faa website covered period 1230 utc 2100 utc runway 1432 closed landing traffic sgf standard operating procedure permitted transfer control runway ground controller gc position use runway crossing without need coordination lc gc operational control runway lc required request use closed runway gc prior issuing clearance takeoff pilot eny3660 requested use runway 14 departure gc approved request issued taxi instruction runway 14 airplane taxiing runway 14 van7 requested cross runway 14 gc maintained operational control runway gc control runway requirement coordinate closed runway vehicle crossing lc pilot eny3660 called lc ready takeoff runway 14 lc issued takeoff clearance without coordinating gc",
+        "Top Words": [
+            [
+                "runway",
+                18
+            ],
+            [
+                "14",
+                7
+            ],
+            [
+                "gc",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Northport, Washington
+Accident Number:
+WPR18LA222
+Date & Time:
+August 14, 2018, 15:00 Local 
+Registration:
+N397AS
+Aircraft:
+Air Tractor AT802
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Public aircraft
+Analysis 
+The accident airplane was one of three public aircraft that were supporting firefighting 
+operations. The three airplanes had made four successful water drops and had just scooped 
+water from a river to make a fifth drop. The airplanes were in a climb en route to the drop 
+location when the pilot of the accident airplane heard a “loud bang” followed by a total loss of 
+engine power. The pilot made a forced landing to treetops in a heavily forested area.
+During the on-site examination, a coat of oil was observed on the cowling and one of the wings. 
+Damage was also observed to the engine. The engine examination revealed that a second-stage 
+power turbine blade exhibited fatigue signatures, and molten debris was identified throughout 
+the engine. The debris was subsequently identified as environmental particles, but the source 
+of the debris was not determined from the available evidence for this investigation. The loss of 
+engine power was likely due to the accumulation of foreign melted environmental debris on the 
+engine’s hot section components, which resulted in the first- and second-stage power turbine 
+blades fracturing from tensile overload.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power during a climb due to an accumulation of molten environmental 
+particles, the source of which could not be determined based on the available evidence, which 
+resulted in a forced landing.

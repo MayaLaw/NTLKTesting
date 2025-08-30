@@ -1,0 +1,29 @@
+{
+    "Filename": "98264.txt",
+    "Location": "Jackson, California",
+    "Accident Number": "WPR18LA257",
+    "Date & Time": "September 8, 2018, 08:16 Local",
+    "Aircraft": "Piper J3C",
+    "Registration": "N70192",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported preflight inspection control check normal however liftoff left wing dipped airplane pulled hard left pilot input corrective control action airplane continued veer left realizing airplane would able climb approaching tree pilot reduced engine power aimed airplane two tree order cushion impact airplane came rest upright 450 ft east runway examination airplane revealed mechanical anomaly would precluded normal operation flight control system although full aileron travel could confirmed due impact damage cockpitcabin floor plywood contained multiple cutout control system properly sized permit full travel respective control however none control opening equipped flexible boot otherwise shielded prevent foreign object either falling floor becoming caught control cutout perimeter thereby restricting preventing control travel screwdriver bungee cord found cockpit floor accident whether contributed accident could determined shape location rear seat rudder pedal combination anchor attach point location front seat lap belt fastened either front seat lap belt half could inadvertently capture trap rudder pedal thereby restrict travel reason pilot inability maintain directional control takeoff initial climb could determined based available information probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "control",
+                9
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

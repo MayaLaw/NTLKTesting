@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Easton, Maryland
+Accident Number:
+ERA19LA160
+Date & Time:
+March 13, 2019, 17:40 Local 
+Registration:
+N33305
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and pilot were on a flight to resume the pilot's instrument training. After 
+performing maneuvers and several touch-and-go landings, the pilots elected to perform a 
+practice instrument approach to the destination airport. While on the approach, they 
+configured the airplane for landing. The flight instructor noted that the airplane was below the 
+glideslope and asked the pilot to increase engine power; however, the engine did not respond 
+to the throttle input. The flight instructor took the controls and attempted to restore engine 
+power without success. The propeller continued to windmill, the pilot switched fuel tanks, and 
+the engine did not restart. The flight instructor performed a forced landing in a nearby field, 
+during which the fuselage was substantially damaged. During recovery from the field, fuel was 
+drained from both fuel tanks, and no water or debris was noted in the fuel. An examination of 
+the engine revealed crankshaft and valvetrain continuity throughout the engine. The propeller 
+was rotated through 360&deg; of motion, and compression and suction were noted on all 
+cylinders. In addition, fuel was plumbed into the engine, and the engine was started and ran 
+smoothly without hesitation. The engine power was decreased to idle power, and then the 
+engine was shut down. There were no mechanical malfunctions or failures noted with the 
+engine that would have precluded normal operation before the accident. The reason for the 
+loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power for reasons that could not be determined because postaccident 
+engine examination and testing revealed no preimpact mechanical malfunctions or failures 
+that would have precluded normal operation.

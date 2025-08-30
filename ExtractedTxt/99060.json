@@ -1,0 +1,29 @@
+{
+    "Filename": "99060.txt",
+    "Location": "Atlantic Ocean, Atlantic Ocean",
+    "Accident Number": "ERA19TA120",
+    "Date & Time": "March 5, 2019, 15:15 UTC",
+    "Aircraft": "Cirrus SR22",
+    "Registration": "N345DM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported yellow low oil engine pressure light illuminated 2 hour flight airplane 8000 ft mean sea level analog oil pressure gauge confirmed low oil pressure reading 25 psi oil pressure continued drop pilot notified air traffic control situation oil pressure dropped 2 psi engine vibrated strongly propeller stopped pilot established best glide speed deployed airplane parachute system 1500 ft water airplane landed water upright position life raft inflated pilot egressed airplane subsequently rescued passing cruise ship 2 hour later airplane recovered ocean precluded postaccident examination probable cause finding national transportation safety board determines probable cause accident loss oil pressure subsequent total loss engine power undetermined reason finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "oil",
+                6
+            ],
+            [
+                "pressure",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

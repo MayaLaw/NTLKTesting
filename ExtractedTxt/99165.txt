@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Savannah, Georgia
+Accident Number:
+GAA19CA176
+Date & Time:
+March 20, 2019, 15:00 Local 
+Registration:
+N2667Q
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fire/smoke (non-impact)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the landing roll, wind pushed the airplane to the right and that he 
+overcompensated with left rudder. The airplane veered left, abruptly rotated about 180°, and then 
+stopped on the runway at a taxiway intersection. 
+The tower controller asked the pilot if he could restart the engine or if he needed a tow. The pilot 
+attempted to restart the engine four to five times. While attempting a "hot start," he saw black smoke 
+coming from the lower left engine cowling. He leaned forward and saw flames in the same location. The 
+pilot searched for a fire extinguisher to no avail. He egressed the airplane without further incident. 
+The pilot added that, during the multiple restarts, he engaged the starter for 5 to 8 seconds and estimated 
+that the time between attempts was about 5 seconds. He attempted a hot start for the first couple of 
+attempts. After he observed the engine fire, he attempted a flooded start.
+The airplane sustained substantial damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The director of maintenance reported that the fire extinguisher was located in the seat pocket behind the 
+copilot's seat.
+The airport's automated weather observation station reported that, about 7 minutes before the accident, 
+the wind was from 360° at 10 knots, gusting to 17 knots. The pilot landed the airplane on runway 10.
+The Pilot's Operating Handbook, Section 3.7, "Engine Fire During Start," stated the following:
+Engine fires during start are usually the result of overpriming. 

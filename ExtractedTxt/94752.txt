@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Poplar Bluff, Missouri
+Accident Number:
+GAA17CA150
+Date & Time:
+February 6, 2017, 16:00 Local 
+Registration:
+N246CA
+Aircraft:
+Beech F90
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during an instrument meteorological conditions flight, he chose to accomplish an 
+area navigation approach. He reported that he descended to his minimum descent altitude of 800 ft, 
+decreased the airspeed, and began looking outside the cockpit for the runway. He recalled that the 
+visibility was 3/4 mile, and that, about 20 seconds later, the airplane struck tree tops. The pilot 
+immediately executed the missed approach procedure and made an approach to an alternate airport. The 
+right wing sustained substantial damage. 
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's descent below the minimum descent altitude during a nonprecision approach, which resulted 
+in a tree strike.

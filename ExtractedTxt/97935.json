@@ -1,0 +1,29 @@
+{
+    "Filename": "97935.txt",
+    "Location": "Brainerd, Minnesota",
+    "Accident Number": "CEN18LA302",
+    "Date & Time": "July 30, 2018, 10:00 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N1856W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot passenger 2hour personal flight midway destination pilot switched fuel selector right fuel tank left fuel tank visual approach 1 hour later engine lost power pilot attempt restart engine unsuccessful made forced landing tree resulted damage wing one week accident pilot flying route engine lost power visual approach pilot switched fuel selector left tank right tank landed uneventfully landing switched right tank left tank repeated process twice engine lost power time left tank selected maintenance personnel unable determine cause power loss event pilot flew airplane back home airport without incident accident occurred next flight review engine data indicated four power loss event occurred left fuel tank half full 19 gallon consistent interruption fuel supply engine examination fuel system revealed fuel selector left detent worn however inflight power loss event occurred without pilot moving fuel selector issue relevant accident anomaly found fuel system including leftwing fuel tank bladder venting system although investigation unable identify anomaly left fuel tank venting system circumstance power loss event consistent loss fuel flow left tank",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "tank",
+                11
+            ],
+            [
+                "left",
+                8
+            ]
+        ]
+    }
+}

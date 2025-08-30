@@ -1,0 +1,29 @@
+{
+    "Filename": "97226.txt",
+    "Location": "Bumpass, Virginia",
+    "Accident Number": "GAA18CA270",
+    "Date & Time": "May 9, 2018, 16:30 Local",
+    "Aircraft": "JETSON'S AVIATION LLC AIRCAM",
+    "Registration": "N334JS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot airplane reported touchdown paved runway airplane encountered wind gust became airborne pilot added full power go around left wing aerodynamically stalled left float struck runway resulted cartwheel airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located 11 mile west accident airport reported time accident wind 040 7 knot airplane landed runway 8 probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack goaround",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

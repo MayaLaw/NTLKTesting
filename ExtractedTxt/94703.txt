@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Sterling, Alaska
+Accident Number:
+ANC17LA016
+Date & Time:
+February 8, 2017, 15:03 Local 
+Registration:
+N1268A
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Unknown or undetermined
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, while making a right turn during a personal flight, the flight controls 
+"stuck." She was unable to make aileron or elevator control inputs, and was also unable to correct the 
+airplane's bank using rudder inputs. The airplane subsequently descended in a right turn until it impacted 
+the ground.
+The airplane was removed from the accident site before it could be examined. During recovery, both 
+wings and their control cables were cut. The airplane was later examined on the pilot's property, 
+strapped to a trailer. Examination of the airframe and engine revealed no evidence of any control 
+anomalies that would have precluded normal operation; however, since the flight control system was 
+compromised during the recovery, the pre-accident condition of the flight controls could not be 
+determined and the investigation was unable to establish a reason for the pilot's reported loss of control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of control while maneuvering for reasons that could not be determined based on the 
+available information.

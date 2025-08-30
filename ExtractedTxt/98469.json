@@ -1,0 +1,29 @@
+{
+    "Filename": "98469.txt",
+    "Location": "Cartersville, Georgia",
+    "Accident Number": "CEN19FA005",
+    "Date & Time": "October 13, 2018, 14:30 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N180QT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot departed crosscounty flight day visual meteorological condition according airplane coowner spoke pilot departed accident flight airplane 34 gallon fuel onboard time departure based experience sufficient 2 hour 20 minute flight suggested pilot top airplane fuel tank departure watched pilot taxi airplane past fuel facility take subsequently sent pilot text message stating hope fuel stop planned pilot replied would stop needed gps data indicated pilot land point departure airport accident site though passed near one airport directly another airport fuel service available witness reported airplane engine stopped restarted another witness reported airplane engine surging airplane subsequently impacted power line duration accident flight 3 hour 10 minute postaccident examination revealed fuel tank intact left wing tank empty right wing tank contained residual fuel examination fuel system engine revealed anomaly given absence fuel airplane fuel tank accident site duration flight known quantity fuel onboard time departure accident consistent total loss engine power due fuel exhaustion although pilot passed two airport fuel available chose continue flight beyond airplane endurance given fuel departure probable cause finding national transportation safety board determines probable cause accident pilot inadequate preflight inflight fuel planning decision continue flight without stopping fuel resulted total loss engine power due fuel exhaustion",
+        "Top Words": [
+            [
+                "fuel",
+                17
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                9
+            ]
+        ]
+    }
+}

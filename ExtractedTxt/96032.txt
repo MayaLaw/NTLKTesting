@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+El Cajon, California
+Accident Number:
+WPR17LA208
+Date & Time:
+September 17, 2017, 13:47 Local 
+Registration:
+N2587X
+Aircraft:
+Piper PA 28-161
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that he and the pilot-rated passenger returned to the airport to practice 
+touch-and-go landings after a local flight. The first two landings were uneventful. While on the 
+downwind leg of the traffic pattern for the third landing, the pilot reduced engine power and started to 
+descend the airplane. After turning base, the pilot increased power, but the engine did not respond and 
+remained at idle. There was no change in engine noise and the engine was not running rough. The pilot 
+manipulated the throttle and primer several times, but the engine did not respond, and the pilot elected to 
+land the airplane on a nearby road. During the descent, the airplane struck powerlines and a tree before it 
+impacted the road and slid to a stop.
+A postaccident engine examination did not reveal any anomalies that would have precluded normal 
+operation. A review of the carburetor icing probability chart revealed that the airplane was operating in 
+conditions favorable to the formation of serious carburetor icing at glide power. In addition, on-scene 
+photographs revealed that the carburetor heat lever was in the off position; therefore, it is likely that 
+carburetor ice accumulated during the descent, which resulted in a partial loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power due to the formation of carburetor ice during descent for landing. 
+Contributing to the accident was the pilot's failure to apply carburetor heat.

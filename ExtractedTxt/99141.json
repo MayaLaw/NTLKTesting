@@ -1,0 +1,29 @@
+{
+    "Filename": "99141.txt",
+    "Location": "Reno, Nevada",
+    "Accident Number": "WPR19LA098",
+    "Date & Time": "March 17, 2019, 08:10 Local",
+    "Aircraft": "Piper PA 24",
+    "Registration": "N5028P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "conclusion uneventful flight pilot verified landing gear locked observed green indication instrument panel landing airplane touched normally main landing gear veered left nose landing gear contacted runway departed runway edge left wing impacted airport sign airplane spun left airplane slid gravel nose landing gear right main landing gear collapsed substantially damaging airplane accident pilot purchased airplane several month accident airplane parked mostly outside 27 year flew airplane 15 hour accident flight postaccident examination nose landing gear revealed assembly mostly intact except engine mount failed supported nose landing gear engine mount tube displayed moderate heavy corrosion deposit wall thinning investigation could determine exact order tube failed however tube integral nose landing gear support likely corrosion wall thinning decreased strength tube resulted failure nose landing gear load touchdown investigation find preimpact anomaly nose landing gear steering system engine mount failure likely compromised pilot steering capability touchdown collapse occurred wear corrosion tube mostly internal could determined whether mechanic recently serviced airplane would recognized condition probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "landing",
+                11
+            ],
+            [
+                "gear",
+                10
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97517.txt",
+    "Location": "Spanish Fork, Utah",
+    "Accident Number": "GAA18CA358",
+    "Date & Time": "June 16, 2018, 10:22 Local",
+    "Aircraft": "DIAMOND AIRCRAFT IND INC DA",
+    "Registration": "N992CT",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor pilot receiving instruction reported pilot performed softfield takeoff ground effect reduced back pressure instructor heard stall warning horn observed low airspeed instructor told pilot reduce pitch pilot lowered nose little airplane continued climb instructor told pilot reduce pitch pilot stated concerned possible propeller strike flight instructor took flight control airplane turned right experienced loss control airplane landed right side runway instructor reduced power left main landing gear separated airplane came rest flight instructor pilot reported airplane aerodynamically stalled airplane sustained substantial damage fuselage flight instructor pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction failure maintain adequate airspeed exceedance airplane critical angle attack takeoff resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "instructor",
+                8
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

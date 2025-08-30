@@ -1,0 +1,45 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Prescott, Arizona
+Accident Number:
+WPR18FA245
+Date & Time:
+August 29, 2018, 20:35 Local 
+Registration:
+N6500W
+Aircraft:
+Cessna P210
+Aircraft Damage:
+Destroyed
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The purpose of the flight was for the pilot to acquire night currency by performing practice takeoffs and 
+landings. He initially requested to takeoff and fly the traffic pattern for the longer, 150-ft wide runway 
+(21L), but the ground controller replied that the traffic pattern was full and offered that the pilot could 
+use the parallel, shorter 60-ft wide runway (21R). Once airborne, the pilot did not fly a traffic pattern 
+that paralleled runway 21R on downwind and he overshot the final approach course on his base-to-final 
+turn. The pilot subsequently corrected his track and became aligned for runway 21R, but airplane 
+collided with desert terrain about 1,900 ft short of the destination runway, impacting in a near level-pitch 
+attitude with the landing gear down. The airplane impacted a berm and shortly thereafter, was destroyed 
+by a postcrash fire. 
+Although visual meteorological conditions prevailed, no natural horizon and few external visual 
+references were available during the visual approach in dark night conditions to judge height above 
+terrain. The pilot's tasks during the approach included maintaining visual separation from the traffic on 
+runway 21L and aligning with the much narrower runway 21R. The pilot’s collision with terrain short of 
+the runway suggests that he was experiencing the runway width illusion in which the sight picture to a 
+narrow runway during a nighttime approach can lead pilots to believe their approach path is too high and 
+they descend in an attempt to correct. The runway had a precision approach path indicator (PAPI) 
+system to help pilots maintain a safe glidepath at night. The pilot’s competing visual task demands 
+including traffic and runway alignment and recency of nighttime experience may have contributed to his 
+failure to heed this information. 
+Examination of the recovered wreckage did not reveal evidence of any preexisting mechanical 
+anomalies that would have precluded normal operation of the airplane. Examination of the airplane's 
+exhaust revealed a crack that would have likely been present during the most recent maintenance. 
+However, although the heat exchanger contained voids, that was likely not an entry for the exhaust gases 
+because the higher pressure of the ram air that is directed into the exchanger. 

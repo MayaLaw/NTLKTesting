@@ -1,0 +1,44 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Longview, Texas
+Accident Number:
+CEN19FA094
+Date & Time:
+March 9, 2019, 10:47 Local 
+Registration:
+N922EJ
+Aircraft:
+Cessna T337
+Aircraft Damage:
+Destroyed
+Defining Event:
+Windshear or thunderstorm
+Injuries:
+4 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The non-instrument-rated private pilot and three passengers departed on a cross-country flight in a 
+multi-engine airplane, even though the pilot did not hold multiengine rating. At the time of departure, 
+the weather was reported to be clear. However, a line of thunderstorms and high winds were along the 
+flight route. Radar data showed that the airplane initially flew eastward and that, after entering an area of 
+convective weather, it turned westward, likely to avoid the area of weather. The airplane then flew 
+northeast before resuming eastward flight and entering another area of weather. The airplane then 
+entered a series of descending spiral turns until impact. About 10 hours after the accident, a witness 
+noted wreckage near a roadway, and the airplane was located shortly thereafter.
+No preimpact anomalies were found with the airframe or engines that would have precluded normal 
+operation of the airplane. All separations were consistent with overload.
+Parts of the right wing were located between 1 and 3 nautical miles from the main wreckage, indicating 
+that an in-flight breakup of the airplane had occurred. Radar data showed that the airplane was flying at 
+a groundspeed of between 160 and 190 kts before it entered the spiral shaped flight track. According to 
+the manufacturer, the airplane's maximum maneuvering speed was about 135 kts. Thus, the in-flight 
+breakup occurred because the airplane was operating above its maximum maneuvering speed, which 
+exceeded the design load factor of the airplane.
+Various aviation weather products indicated that the airplane entered areas of significant convective 
+weather twice. Once the airplane entered the clouds and precipitation associated with thunderstorms, the 
+airplane was also in areas that were favorable for icing conditions. No evidence indicated that the pilot 
+received a weather briefing on the day before or the day of the accident. If he had received a weather 
+briefing, he could have been aware of the severe thunderstorms predicted for the flight route.
+Toxicology testing showed the pilot had taken a beta blocker used in the treatment of hypertension and 
+certain arrhythmias.

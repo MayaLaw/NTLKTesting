@@ -1,0 +1,41 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Sacramento, California
+Accident Number:
+WPR18CA172
+Date & Time:
+June 14, 2018, 11:38 Local 
+Registration:
+N2165
+Aircraft:
+DORNIER GMBH ALPHA JET
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot-under-instruction planned a visual, simulated no-flap approach and landing during an 
+instructional flight in a twin-engine advanced jet trainer. Audio data provided by the Federal Aviation 
+Administration indicated that the pilot requested a left closed traffic, simulated no-flap pattern and stated 
+that he needed to go out about 4 miles upwind. By the time the air traffic tower controller responded, the 
+pilot had already started the crosswind turn; therefore, the controller cleared him to the overhead pattern, 
+left closed traffic. Subsequently, the controller initially instructed the pilot to make the base turn when 
+able but then instructed him to turn immediately to be sequenced in front of slower traffic on a 5-mile 
+final approach. The controller stated that he would give the pilot the 4 miles he requested on the next 
+pattern. The pilot accepted the turn clearance and reported to the controller that he was turning. A 
+review of radar data indicated that, during the final turn, the airplane overshot the final approach by over 
+1,800 ft to the northwest. Subsequently, the airplane landed on its belly and sustained substantial 
+damage to the bottom of the fuselage. A postlanding fire ensued.
+The filed company report stated that flying a no-flap approach and landing required maintaining a higher 
+airspeed during the final turn, and when established on final approach, the airspeed had to be quickly 
+bled off. The higher approach speed, difficulty of maintaining airspeed, and the early turn to final 
+increased the pilot's workload during the simulated no-flap pattern. While on final approach, the pilot 
+extended the air brakes, which are typically extended just before lowering the landing gear but failed to 
+extend the landing gear. The flight instructor failed to notice the omission, which resulted in a gear-up 
+landing. The pilots reported no preimpact mechanical malfunctions or failures with the airplane that 
+would have precluded normal operation. 

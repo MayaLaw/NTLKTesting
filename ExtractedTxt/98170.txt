@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Eldorado, Texas
+Accident Number:
+GAA18CA514
+Date & Time:
+August 26, 2018, 19:00 Local 
+Registration:
+N1701Q
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he departed with 26 gallons of fuel. He added that, about 3.5 hours into the flight, 
+he asked flight following where the closest airports were because he had become concerned that he was 
+"near the fuel limit." During their exchange, the engine lost power. He declared an emergency, rocked 
+the wings, applied full-rich mixture, and restarted the engine, "which worked [for] 15 seconds or less." 
+He then conducted an emergency landing near the end of a road, and the airplane bounced, veered left, 
+impacted a pipe, and the nose landing gear collapsed.
+The airplane sustained substantial damage to the engine mount.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper preflight fuel planning, which resulted in a total loss of engine power due to fuel 
+exhaustion.

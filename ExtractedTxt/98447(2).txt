@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Kukaklek Lake, Alaska
+Accident Number:
+GAA18CA581
+Date & Time:
+September 23, 2018, 18:00 Local 
+Registration:
+N9RW
+Aircraft:
+De Havilland DHC 2 MK. I(L20A)
+Aircraft Damage:
+Substantial
+Defining Event:
+Dragged wing/rotor/float/other
+Injuries:
+2 Minor, 5 None
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The pilot of the float-equipped airplane reported that, during landing on a river to pick up passengers, he 
+observed that the river was low and that sand bars were visible. During takeoff, the left float contacted a 
+sand bar in shallow water, and the airplane impacted the river bank.
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to see and avoid a sand bar during a water takeoff, which resulted in the airplane 
+impacting a river bank.
+Findings
+Personnel issues
+Monitoring environment - Pilot
+Environmental issues
+(general) - Effect on operation

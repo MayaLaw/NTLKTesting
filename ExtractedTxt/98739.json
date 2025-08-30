@@ -1,0 +1,29 @@
+{
+    "Filename": "98739.txt",
+    "Location": "Chicago, Illinois",
+    "Accident Number": "DCA19CA038",
+    "Date & Time": "December 3, 2018, 10:35 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N868NN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 146 None",
+    "Analysis": {
+        "Text": "december 3 2018 1035 central standard time american airline flight 114 boeing 737 800 n868nn taxiing gate chicago ohare international airport ord chicago illinois flight attendant injured object fell onto overhead bin remaining passenger crew injured airplane damaged regularly scheduled domestic passenger flight operating provision title 14 code federal regulation part 121 ord laguardia airport lga east elmhurst new york according operator taxiing takeoff flight attendant opened overhead bin laptop fell striking eye forcing left eye socket flight returned gate flight attendant transported hospital probable cause finding national transportation safety board determines probable cause accident object fell overhead bin struck flight attendant resulting serious injury finding personnel issue general cabin crew",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "attendant",
+                4
+            ],
+            [
+                "fell",
+                3
+            ]
+        ]
+    }
+}

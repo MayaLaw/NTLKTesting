@@ -1,0 +1,29 @@
+{
+    "Filename": "98350.txt",
+    "Location": "St. Augustine, Florida",
+    "Accident Number": "ERA18LA259",
+    "Date & Time": "September 8, 2018, 10:45 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N6469P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot conducting personal crosscountry flight reported airplane 12 mile departure airport engine started running roughly airplane violently shaking decided conduct forced landing field nose landing gear dug soft ground airplane flipped postaccident examination engine revealed 4 cylinder exhaust valve fractured although head exhaust valve recovered fracture feature exhaust valve stem consistent fatigue review maintenance record revealed exhaust valve installed overhaul engine 28 year accident engine manufacturer recommended engine overhauled every 12 year 2400 hour whichever come first probable cause finding national transportation safety board determines probable cause accident partial loss engine power due fractured exhaust valve resulted forced landing unsuitable terrain subsequent rollover",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "exhaust",
+                5
+            ],
+            [
+                "valve",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "93924.txt",
+    "Location": "Sparks, Nevada",
+    "Accident Number": "WPR16FA172",
+    "Date & Time": "August 30, 2016, 18:01 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N985CA",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aircraft wake turb encounter",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "73yearold commercial pilot fourth final leg 950mile round trip day flight airplane neared airport pilot told air traffic controller expect runway 25 landing controller informed delay runway pilot stated could accept runway 16l pilot told proceed runway landing runway specified instruction acknowledged shortly establishing contact tower controller instructed pilot continue runway 25 pilot reported airplane downwind leg landing runway 16l controller acknowledged rather correcting pilot instructed continue inbound 16l time runway 16r used landing two boeing 757 b757 airplane sequence separated 7 mile controller advised accident pilot b757 9mile final runway 16r cautioned wake turbulence cleared accident airplane land shortly thereafter pilot reported airliner sight time one b757s short final approach 16r 45 mile ahead accident airplane b757 potential conflict 5 mile away accident airplane 2to3oclock position given pilot attention likely focused toward runway portion approach likely misidentified atcreported traffic b757 short final landed soon likely resulted pilot relaxing vigilance looking traffic shortly thereafter controller issued allaircraft advisory wind 250 17 knot gust 20 knot although wind condition met exceeded airplane maximum demonstrated crosswind capability landing 16l airplane still wellpositioned revert approach runway 25 pilot continued toward 16l 70 second pilot reported sighting traffic turning airplane onto base leg traffic pattern b757 passed 1 mile ahead 100 ft accident airplane investigation unable determine whether pilot saw b757 whether cognizant potential wake vortex encounter flight path alteration",
+        "Top Words": [
+            [
+                "pilot",
+                14
+            ],
+            [
+                "runway",
+                11
+            ],
+            [
+                "airplane",
+                10
+            ]
+        ]
+    }
+}

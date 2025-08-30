@@ -1,0 +1,29 @@
+{
+    "Filename": "97761.txt",
+    "Location": "La Porte, Texas",
+    "Accident Number": "CEN18FA267",
+    "Date & Time": "July 15, 2018, 09:00 Local",
+    "Aircraft": "Kolb Twinstar",
+    "Registration": "N3135J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot recently purchased experimental amateurbuilt lightsport airplane passenger conducting local flight day visual meteorological condition witness stated airplane departed remained airport traffic pattern airplane approach runway landing witness heard engine power decrease immediately increase airplane appeared enter aerodynamic stall low altitude impact terrain noselow attitude postaccident examination airplane revealed evidence mechanical malfunction failure would precluded normal operation based available information examination wreckage likely pilot maintain sufficient airspeed maneuvering approach landing airplane subsequently exceeded critical angle attack entered aerodynamic stall altitude low recovery pilot logbook located investigation pilot experience level experimental lightsport airplane determined additionally could determined pilot obtained transition training accident airplane classified low inertiahighdrag airplane lowinertiahigh drag airplane particularly susceptible unintentional aerodynamic stall due margin low cruise speed stall speed tendency experience significant airspeed decay increased load factor turn toxicology revealed pilot using pain allergy medication time accident however whether pilot impairing level either medication around time accident whether potentiallyimpairing medication degraded ability safely operate airplane could determined probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "stall",
+                4
+            ]
+        ]
+    }
+}

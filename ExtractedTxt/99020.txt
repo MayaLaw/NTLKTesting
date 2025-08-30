@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bellingham, Washington
+Accident Number:
+GAA19CA148
+Date & Time:
+February 25, 2019, 10:50 Local 
+Registration:
+CFHGQ
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while taxiing to the runway for takeoff with the yoke "left and push[ed] in," a 
+wind gust from the right lifted the right wing. The pilot was unable to maintain control and the wind 
+continued to push the airplane to the left off the runway. The airplane subsequently nosed over.
+The airplane sustained substantial damage to the fuselage and empennage.
+The pilot reported that there were no preimpact mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation. 
+The airport's automated surface observation system reported that, about the time of the accident, the 
+wind was from 030° at 20 knots, gusting to 29 knots. The pilot was turning the airplane right onto 
+runway 34. Based on this information, the calculated crosswind component while taxiing into takeoff 
+position was about 19 knots. The airplane manufacturer reported that the maximum demonstrated 
+crosswind component was 15 knots. 
+The Federal Aviation Administration's Airplane Flying Handbook, FAA-H-8083-3B, "Taxiing" stated, 
+in part, the following:
+When taxiing with a quartering headwind, the wing on the upwind side (the side that the wind is coming 
+from) tends to be lifted by the wind unless the aileron control is held in that direction (upwind aileron 
+UP). Moving the aileron into the UP position reduces the effect of the wind striking that wing, thus 
+reducing the lifting action. This control movement also causes the downwind aileron to be placed in the 
+DOWN position, thus a small amount of lift and drag on the downwind wing, further reducing the 
+tendency of the upwind wing to rise.

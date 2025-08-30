@@ -1,0 +1,29 @@
+{
+    "Filename": "95349.txt",
+    "Location": "Suffolk, New York",
+    "Accident Number": "ERA17LA203",
+    "Date & Time": "June 12, 2017, 06:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N13306",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according private pilot en route crosscountry personal flight heard loud pop followed engine losing power declared emergency unsuccessfully attempted restart engine turned airplane toward golf course landing airplane struck tree resulted substantial damage right wing postaccident examination engine revealed crankshaft gear alignment dowel set rotational alignment gear respect crankshaft fractured one half dowel retained crankshaft contacting gear half dowel retained pilot flange hole examination fracture surface indicated dowel fractured fatigue initially unidirectional bending started side wear transitioned reverse bending fatigue final failure rub mark observed part gear contact crankshaft along interface gear lock plate evidence indicates bolt fastened crankshaft gear crankshaft either torqued proper value assembly bolt torqued proper value gradually lost preload due installation error insufficient preload gear would placed unintended stress alignment dowel would resulted wear eventual failure due fatigue factor could result loss preload include improper installation lock plate damage debris trapped gear counterbore recess would prevent proper seating gear engine manufacturer service bulletin sb described proper procedure evaluating condition crankshaft crankshaft gear proper procedure attaching crankshaft gear crankshaft one step stated aligning crankshaft gear crankshaft using alignment dowel bolt tightened 125 inchlbs torque followed several check ensure gear properly seated check made final step tighten bolt 204 inchlbs torque",
+        "Top Words": [
+            [
+                "gear",
+                13
+            ],
+            [
+                "crankshaft",
+                12
+            ],
+            [
+                "dowel",
+                6
+            ]
+        ]
+    }
+}

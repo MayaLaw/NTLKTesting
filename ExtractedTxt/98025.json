@@ -1,0 +1,29 @@
+{
+    "Filename": "98025.txt",
+    "Location": "Greeley, Colorado",
+    "Accident Number": "CEN18CA323",
+    "Date & Time": "August 8, 2018, 20:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N20JA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot safety pilot practicing instrument maneuver approach landing different airport flight airplane entered traffic pattern practice landing airport according safety pilot airplane high slow final approach 10 ft ground level airplane floated little longer pilot initiated goaround applying full throttle attempted goaround occupant applied conflicting correction input control yoke pilot applied back pressure safety pilot applied forward pressure airplane stalled left wing impacted terrain airplane came rest upright adjacent runway airplane sustained substantial damage forward fuselage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot statement conflicting regarding accident detail sequence event based statement airplane damage likely conflicting control input resulted pilot failure maintain proper airspeed airplane entered aerodynamic stall attempted goaround neither pilot reported verbal communication established landing sequence probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                10
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "safety",
+                4
+            ]
+        ]
+    }
+}

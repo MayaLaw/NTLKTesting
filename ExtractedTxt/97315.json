@@ -1,0 +1,29 @@
+{
+    "Filename": "97315.txt",
+    "Location": "Batavia, Ohio",
+    "Accident Number": "GAA18CA295",
+    "Date & Time": "May 24, 2018, 11:00 Local",
+    "Aircraft": "Luscombe 8",
+    "Registration": "N77922",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "student pilot reported handpropping engine engine started full power airplane jumped chock began moving circle subsequently stop airplane airport vehicle driven airplane tail airplane sustained substantial damage fuselage student reported preaccident mechanical failure malfunction airplane would precluded normal operation student recommended better control throttle could prevented accident probable cause finding national transportation safety board determines probable cause accident student pilot use improper engine handpropping procedure resulted airplane unexpected movement",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "engine",
+                3
+            ]
+        ]
+    }
+}

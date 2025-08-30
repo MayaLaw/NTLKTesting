@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Kenosha, Wisconsin
+Accident Number:
+CEN18LA360
+Date & Time:
+August 30, 2018, 19:00 Local 
+Registration:
+N64604
+Aircraft:
+Stearman A75N1(PT17)
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot had performed three touch-and-go maneuvers without braking. On the fourth 
+and last planned landing roll about 30 mph, the airplane experienced an excessive tailwheel shimmy. 
+About 25 mph, the airplane nosed over and came to rest inverted. Postaccident examination of the 
+airplane revealed that the left main wheel/brake assembly was locked; thus, the wheel/tire could not be 
+rotated. Partial disassembly of the wheel/brake assembly revealed a failed retaining bolt for the brake 
+backing plate and a crack in the backing plate. The bolt likely broke off and became lodged in the 
+assembly; thus, it is likely the failed retaining bolt and cracked backing plate resulted in a shift of the 
+brake lining to contact the brake drum and led to a subsequent wheel lock when the brakes were applied.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failed retaining bolt and cracked backing plate, which resulted in a shift of the brake lining to 
+contact the brake drum and a subsequent wheel lock when the brakes were applied.
+Findings
+Aircraft
+Landing gear brakes system - Failure
+Aircraft
+(general) - Attain/maintain not possible

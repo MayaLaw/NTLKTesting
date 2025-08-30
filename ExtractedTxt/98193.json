@@ -1,0 +1,29 @@
+{
+    "Filename": "98193.txt",
+    "Location": "Everett, Washington",
+    "Accident Number": "GAA18CA519",
+    "Date & Time": "July 21, 2018, 18:55 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N45586",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported final approach engine sputtered lost power airplane landed short runway threshold nose landing gear collapsed airplane sustained substantial damage engine truss mount postaccident examination federal aviation administration inspector revealed evidence preaccident mechanical malfunction failure would precluded normal operation photograph provided inspector showed damage propeller consistent engine producing power time impact inspector reported fuel present tank gascolator screen found clear debris suspected carburetor ice responsible loss engine power airport automated weather observation station reported time accident wind 310 7 knot temperature 72f dew point 48f atmospheric condition favorable serious carburetor icing descent power setting probable cause finding national transportation safety board determines probable cause accident total loss engine power due carburetor icing final approach resulted hard landing short runway nose landing gear collapsing",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "power",
+                5
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

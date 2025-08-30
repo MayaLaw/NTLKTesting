@@ -1,0 +1,29 @@
+{
+    "Filename": "97244.txt",
+    "Location": "Batavia, Ohio",
+    "Accident Number": "GAA18CA276",
+    "Date & Time": "May 8, 2018, 16:25 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N377ES",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported flight performed weight balance performance calculation initial fuel level airplane fuel tank filled full fuel amend weight balance performance calculation pilot reported takeoff airplane became airborne feel comfortable way airplane performing reduced power landed airplane remaining runway added enough runway stop attempted exit taxiway understeered airplane exited runway ditch airplane sustained substantial damage fuselage airplane maximum gross weight 2460 lb weight time accident 2600 lb 140 lb maximum gross weight likely affected airplane takeoff performance pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot decision take airplane maximum gross weight due failure perform preflight weight balance calculation affected airplane takeoff performance",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "weight",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

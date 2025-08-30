@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+North Myrtle Beach, South Carolina
+Accident Number:
+ERA19LA055
+Date & Time:
+November 23, 2018, 11:05 Local 
+Registration:
+N7081Q
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was taxiing after landing when he felt a wind gust push the tail to the right and he could not 
+correct with full right rudder. He then applied right brake, but the right brake failed. He applied both 
+brakes to stop, but the left turn became exaggerated, and he pulled the mixture control to stop the 
+engine. The airplane subsequently impacted another airplane parked on the ramp. Postaccident 
+examination of the right brake by the operator revealed damage to an O-ring or packing that allowed 
+brake fluid to leak past the piston, rendering the right brake inoperative. The brake linings of both brakes 
+were replaced about 389 flight hours before the accident. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the right brake while taxiing after landing, which resulted in a loss of directional 
+control and collision with a parked airplane.
+Findings
+Aircraft
+Brake - Malfunction
+Personnel issues
+Aircraft control - Pilot

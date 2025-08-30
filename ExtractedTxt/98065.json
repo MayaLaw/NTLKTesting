@@ -1,0 +1,29 @@
+{
+    "Filename": "98065.txt",
+    "Location": "Waynesville, Ohio",
+    "Accident Number": "GAA18CA487",
+    "Date & Time": "August 10, 2018, 17:15 Local",
+    "Aircraft": "Cessna U206",
+    "Registration": "N29204",
+    "Flight Conducted Under": "Part 91: General aviation - Skydiving",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "6 None",
+    "Analysis": {
+        "Text": "pilot reported climbing airplane jump altitude skydiver onboard encountered light rain decided postpone jump return airport upon crossing runway threshold 100 ft ground level initiated goaround airplane climb pilot decided land remaining runway touchdown applied full braking airplane overran end runway corn field airplane sustained substantial damage left wing horizontal stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located 7 mile accident airport reported 20 minute accident wind 280 8 knot pilot reported accident airport time accident wind northwest rain pilot landed airplane runway 26 probable cause finding national transportation safety board determines probable cause accident pilot inability stop airplane wet runway aborted goaround resulted runway overrun impact terrain",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "runway",
+                6
+            ]
+        ]
+    }
+}

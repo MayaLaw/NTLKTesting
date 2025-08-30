@@ -1,0 +1,44 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Mill Creek, California
+Accident Number:
+WPR19FA126
+Date & Time:
+May 1, 2019, 11:00 Local 
+Registration:
+N7302S
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Fatal, 2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and two passengers departed on a sightseeing flight over mountainous terrain. About 30 
+minutes into the flight, the engine lost partial power and smoke began to enter the cockpit. The pilot 
+turned the airplane toward a grassy meadow for a forced landing. While approaching the field, the pilot 
+suddenly saw power lines immediately ahead and attempted to maneuver the airplane below them. The 
+airplane contacted the wires and came to rest inverted. 
+Postaccident examination revealed several holes in the engine crankcase. The oil filter adapter was 
+found loose and the fiber gasket was protruding beyond the castings. Removal of the oil filter adapter 
+revealed that the fiber gasket was split. The failure of the gasket allowed oil to exit the engine, resulting 
+in oil starvation and the subsequent catastrophic failure.  
+During postaccident testing, the gasket failure seen in the accident adapter could not be replicated, and 
+the reason for the failure could not be determined. The testing did reveal that the adapters were difficult 
+to install properly, and on some occasions, when the proper torque was achieved, the adapter housing 
+could still be rotated about the hub when hand pressure was applied. In response to the accident and 
+testing, the supplemental type certificate (STC) holder issued a service bulletin (SB) that stated that the 
+adapter should be inspected for oil leakage and gasket damage. The SB also provided detailed 
+instructions to eliminate and identify rotation of the housing during and after installation. 
+The purpose of the oil filter adapter was to enable use of a conventional spin-on oil filter. The adapter 
+was installed on the engine about 2 years before the accident; the engine had accrued about 340 hours 
+since that time. There were no documents regarding the installation of the oil filter adapter, and it is 
+unknown how it was installed or if new gaskets were used at the time of installation. Maintenance 
+records indicated that the oil filter was changed 7 times between the engine installation and the accident. 
+The last maintenance performed on the airplane was an annual inspection completed 5 days and about 
+9.4 flight hours before the accident. During this maintenance, the oil filter and the vacuum pump 

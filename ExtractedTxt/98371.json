@@ -1,0 +1,29 @@
+{
+    "Filename": "98371.txt",
+    "Location": "Kernville, California",
+    "Accident Number": "WPR18LA278",
+    "Date & Time": "September 30, 2018, 08:44 Local",
+    "Aircraft": "Howard DGA 15P",
+    "Registration": "N9471H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "departure pilot selected main fuel tank performed engine runup taxied runway subsequent takeoff attempt airplane lifted ground transitioned climb airplane reached 50 ft ground level pilot experienced total loss engine power airplane descended rapidly impacted runway resulted postcrash fire destroyed airplane except engine compartment information provided airplane type certificate holder indicated takeoff conventionally conducted front fuel tank selected takeoff rather main fuel tank accident airplane operating handbook indicated takeoff conducted main tank selected documentation indicated manufacturer later published guidance requiring takeoff front fuel tank selected due unspecified fuel system failure believed result fuel tank unporting available information indicate guidance distributed operator earlier serial number airplane type certificate holder also published anecdote pilot experienced loss engine power takeoff main fuel tank selected tank less 12 full accident pilot reported main fuel tank may less 38 full time accident examination airplane engine test run reveal preimpact mechanical anomaly could resulted loss power given available information likely engine experienced fuel starvation resulted total loss engine power probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                9
+            ],
+            [
+                "tank",
+                9
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "94707.txt",
+    "Location": "Ramona, California",
+    "Accident Number": "WPR17FA063",
+    "Date & Time": "February 12, 2017, 14:10 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N2179L",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal, 2 Minor",
+    "Analysis": {
+        "Text": "airplane departed instructional flight flight instructor right front seat student pilot left front seat passenger right rear seat completed maneuver practice area flew valley located mountainous terrain performed simulated engine failure maneuver flight instructor student pilot provided differing account event followed simulated engine failure maneuver according flight instructor performing simulated engine failure maneuver student pilot advanced throttle full power turned east toward rising terrain flight instructor reported gauge read normal airplane would outclimb approaching terrain took control could turn left right due rising terrain side airplane according instructor choice crash airplane according student pilot flight instructor told turn east towards rising terrain took control airplane student reported flight instructor made comment demonstrating airplane performance added full power leaned mixture flew straight 5 second said expletive shortly airplane crashed mountain flight track data recovered personal electronic device onboard airplane showed simulated engine failure maneuver airplane climbed turned east entering terrain rose front side airplane track continued climb 1 minute 5 second reaching accident site postaccident examination airplane revealed evidence preimpact mechanical malfunction failure would precluded normal operation according pilot operating handbook airplane maximum gross weight standard condition flap full throttle airplane capable climbing maximum rate 625 ft per minute 73 knot indicated airspeed 2000 ft mean sea level msl",
+        "Top Words": [
+            [
+                "airplane",
+                13
+            ],
+            [
+                "flight",
+                8
+            ],
+            [
+                "instructor",
+                7
+            ]
+        ]
+    }
+}

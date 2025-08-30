@@ -1,0 +1,29 @@
+{
+    "Filename": "98687.txt",
+    "Location": "Santa Fe, New Mexico",
+    "Accident Number": "CEN19FA032",
+    "Date & Time": "November 26, 2018, 19:50 Local",
+    "Aircraft": "Mooney M20C",
+    "Registration": "N113TA",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot departed crosscountry flight continued night visual meteorological condition across sparselypopulated terrain destination airport located 600 nautical mile nm northeast departure airport however airplane impacted terrain almost 5 hour takeoff near airport 330 nm eastnortheast departure airport 120 nm east southeast direct course departure destination airport airplane route flight could determined however location accident site suggests pilot become lost point flight investigator able determine route flight planning conducted pilot prior flight witness near accident site saw airplane flying airport light whatsoever perception pilot trying land may trying attract attention tower controller landing gear wing flap appeared retracted engine running smoothly airplane impacted ravine 13mile south airport destroyed impact force postimpact fire postaccident airframe engine examination reveal anomaly consistent preimpact failure malfunction however portion airplane damaged postimpact fire extent complete examination airplane system electrical system possible airplane current annual inspection pilot requested ferry permit flight based available information reason pilot circling airport airplane subsequent impact terrain could determined likely pilot became lost point flight airplane likely near fuel endurance limit time accident pilot may trying orient circling airport attempting alert tower controller setting landing however investigation unable determine whether loss control preceded impact terrain whether pilot became low landing approach",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airport",
+                9
+            ],
+            [
+                "airplane",
+                9
+            ]
+        ]
+    }
+}

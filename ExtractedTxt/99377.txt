@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Sandy Valley, Nevada
+Accident Number:
+GAA19CA242
+Date & Time:
+May 5, 2019, 08:00 Local 
+Registration:
+N175LM
+Aircraft:
+Flight Design CTLS
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot reported that, during a biennial flight review, the flight instructor told him to expect a 
+simulated engine failure during takeoff and an engine-out approach to a perpendicular runway. After 
+departure and about 400 ft above ground level (agl), the instructor reduced power, and the pilot turned 
+left to land on the perpendicular runway. He overshot the runway, banked to 40°, and felt a "strong 
+sink." He leveled the wings and added full power about 150 to 200 ft agl, but the airplane continued to 
+descend. The instructor stated he considered taking the flight controls, but the pilot maintained control. 
+The airplane landed hard, the right main landing gear (MLG) struck a hole, the airplane veered right, and 
+the left MLG separated.
+The airplane sustained substantial damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's steep bank turn at low altitude, which resulted in a rapid descent and hard landing.

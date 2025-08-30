@@ -1,0 +1,43 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Descanso, California
+Accident Number:
+WPR18FA237
+Date & Time:
+August 22, 2018, 16:15 Local 
+Registration:
+N1682G
+Aircraft:
+Champion 7KCAB
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and the pilot receiving instruction were conducting an instructional flight for spin 
+training. About 15 minutes into the flight, the radar data showed the airplane in a slight left turn at about 
+2,400 ft agl, then enter a right 360o decreasing turn before dropping off radar. The last radar hit was 
+about 1,500 ft above the accident site. The airplane's final maneuver and rapid descent are consistent 
+with a spin entry. 
+The FAA Advisory Circular AC 61-67C, Stall and Spin Awareness Training, provides information that 
+reports spin avoidance, incipient spins, actual spin entry, spin, and spin recovery techniques should be 
+practiced from an altitude above 3,500 feet AGL. 
+Examination of the accident site revealed the airplane impacted terrain in a right wing and nose down 
+attitude. Examination of the wreckage revealed no anomalies with the airframe or engine that would 
+have precluded normal operation. Damage to the airplane's fuel tanks indicated that they contained fuel 
+at the time of impact. Damage to the propeller revealed varying degrees of impact damage consistent 
+with some degree of engine power at the time of impact. 
+According to the weight and balance calculations, the airplane exceeded its maximum gross weight at 
+takeoff by 73 lbs and the center of gravity was outside the acrobatic flight envelope. This could have 
+affected the spin and recovery characteristics and may have degraded or enhanced the spin maneuver. It 
+was not determined if either pilot was aware of the weight and balance of the airplane. 
+ 
+Although the flight instructor had postmortem evidence of atherosclerotic disease that could pose a risk 
+to flight safety, there was no evidence of an acute cardiac event. For both pilots, toxicology testing 
+showed small amounts of ethanol in cavity blood and muscle, but not in brain tissue. Thus, it is likely 
+that the ethanol is due to postmortem production and not consumption of ethanol prior to the flight.

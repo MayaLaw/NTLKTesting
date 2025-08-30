@@ -1,0 +1,29 @@
+{
+    "Filename": "97328(1).txt",
+    "Location": "Aberdeen, Idaho",
+    "Accident Number": "WPR18LA149",
+    "Date & Time": "May 27, 2018, 14:20 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N5700B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot conducting personal crosscountry flight flight airplane encountered light drizzle reduced visibility continuing minute condition 2000 ft ground level pilot decided initiate right turn divert original destination airplane exited turn engine stuttered time eventually lost power despite pilot attempt restore engine power apply carburetor heat engine would run roughly inconsistently decided divert another airport closer airplane position reattempt restore engine power engine developed partial power however insufficient sustain flight realizing airplane could reach airport chose conduct emergency landing open field landing roll main landing gear dug dirt nosewheel hit ground hard collapsed subsequently nose dug dirt airplane nosed resulted substantial damage vertical stabilizer rudder fuselage examination engine revealed evidence preaccident mechanical malfunction failure would precluded normal operation atmospheric condition existed around time accident conducive formation serious carburetor icing cruise power therefore likely engine lost power due accumulation carburetor ice resulted pilot failure use carburetor heat probable cause finding national transportation safety board determines probable cause accident pilot failure use carburetor heat operating condition conducive carburetor icing",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "power",
+                6
+            ],
+            [
+                "carburetor",
+                6
+            ]
+        ]
+    }
+}

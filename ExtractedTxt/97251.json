@@ -1,0 +1,29 @@
+{
+    "Filename": "97251.txt",
+    "Location": "Cascade, Idaho",
+    "Accident Number": "WPR18FA141",
+    "Date & Time": "May 13, 2018, 12:30 Local",
+    "Aircraft": "Cessna 182G",
+    "Registration": "N2377R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot planned fly airplane newly purchased hangar destination airport morning accident pilot monitored weather condition along proposed route flight internet application highway traffic camera pilot told friend ceiling destination airport 700 ft rising traffic camera showed marginal weather condition pilot also told friend would wait depart early mid afternoon long weather condition improved investigation could determine available evidence whether pilot aware published airmets mountain obscuration icing along route flight time surrounding accident pilot departed weather destination airport consistent visual meteorological condition however another pilot flying similar route accident pilot opposite direction experienced low ceiling near accident site shortly accident pilot reversed course landed safely radar data associated accident airplane debris path signature indicated accident pilot likely encountered similar weather condition started reverse course airplane impacted tree top ground orientation length wreckage path consistent controlled flight terrain postaccident examination airframe engine revealed evidence preimpact mechanical malfunction failure pilot hold instrument rating may aware airmets mountain obscuration icing along route flight monitoring highway traffic camera improvement weather condition nevertheless poor decision attempt flight likely influenced longanticipated desire finish moving new hangar destination airport pilot route flight along highway 4800 ft mean sea level located valley bordered 5500 foot tall mountain left 6500 foot tall mountain right overcast cloud layer 1100 ft ground level radar data showed airplane turn northern heading southern heading likely accident airplane terminated near",
+        "Top Words": [
+            [
+                "pilot",
+                12
+            ],
+            [
+                "accident",
+                8
+            ],
+            [
+                "weather",
+                6
+            ]
+        ]
+    }
+}

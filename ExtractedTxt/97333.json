@@ -1,0 +1,29 @@
+{
+    "Filename": "97333.txt",
+    "Location": "Katy, Texas",
+    "Accident Number": "CEN18LA195",
+    "Date & Time": "May 27, 2018, 17:15 Local",
+    "Aircraft": "CIRRUS DESIGN CORP SR20",
+    "Registration": "N67Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported immediately takeoff airplane began roll left attempted counteract roll right aileron input could control rolling motion airplane continued roll left pilot continued use right aileron trim lowered nose executed forced landing field adjacent departure airport examination wreckage showed left aileron actuation arm attachment bolt missing associated impact damage impact mark present inboard hinge consistent aileron striking distress marking found hole attachment bolt bolt remnant safety wire found pilot reported flown airplane day accident noted problem flight control recent annual inspection maintenance document show work performed aileron could determined bolt came loose attachment absence bolt would severely affect aileron flight control reported pilot allowing aileron rotate freely around hinge point connection flight control accident federal aviation administration issued aviation maintenance alert advising owner operator sr20 sr22 airplane visually inspect bolt aileron actuation arm presence safety wire probable cause finding",
+        "Top Words": [
+            [
+                "aileron",
+                8
+            ],
+            [
+                "bolt",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99400.txt",
+    "Location": "Minden, Nevada",
+    "Accident Number": "WPR19LA139",
+    "Date & Time": "May 5, 2019, 08:20 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N1510S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported approach landing uneventful selected landing gear lever extended position airplane touched landing gear collapsed landing gear circuit breaker found position postaccident examination airplane placed jack gear swing test conducted test electric motor drove landing gear noted weak gear retraction slow gear would partially extend anomaly landing gear system noted cockpit landing gear lever landing gear indication warning audio functioned properly test thus pilot alerted partial extension landing gear probable cause finding national transportation safety board determines probable cause accident partial extension landing gear due poor condition electric landing gear motor resulted gear collapse upon landing finding aircraft gear extension retract sys damageddegraded",
+        "Top Words": [
+            [
+                "gear",
+                15
+            ],
+            [
+                "landing",
+                12
+            ],
+            [
+                "test",
+                3
+            ]
+        ]
+    }
+}

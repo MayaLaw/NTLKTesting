@@ -1,0 +1,29 @@
+{
+    "Filename": "98060.txt",
+    "Location": "South Beloit, Illinois",
+    "Accident Number": "CEN18LA328",
+    "Date & Time": "August 12, 2018, 08:32 Local",
+    "Aircraft": "Piper PA32R",
+    "Registration": "N9894K",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious, 2 Minor",
+    "Analysis": {
+        "Text": "private pilot indicated soon takeoff personal flight airplane engine cowling opened began swing back forth concerned cowling might fracture windshield reduced engine power land straight ahead realizing runway remaining insufficient attempted climb return runway attempted goaround airplane began descend impacted cornfield end runway examination airframe engine revealed evidence mechanical malfunction failure would precluded normal flight operation pilot stated startled opening cowling distracted maintaining airspeed probable cause finding national transportation safety board determines probable cause accident pilot failure maintain airspeed startled distracted engine cowling opened takeoff led subsequent impact terrain finding personnel issue aircraft control pilot personnel issue attention pilot",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "cowling",
+                4
+            ]
+        ]
+    }
+}

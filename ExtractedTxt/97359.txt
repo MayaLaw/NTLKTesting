@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Tonopah, Nevada
+Accident Number:
+WPR18LA156
+Date & Time:
+May 30, 2018, 11:08 Local 
+Registration:
+N191HL
+Aircraft:
+Beech A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, after the airplane reached about 8,000 ft mean sea level for the personal, 
+cross-country flight, he began to smell smoke and then heard a popping sound. The engine then began to 
+lose power, and he initiated a return to the airport. During the descent, the engine lost all power, and the 
+pilot maneuvered the airplane to land on a highway. Due to obstructions, the pilot subsequently landed 
+the airplane on a highway median. The airplane landed hard, which resulted in substantial damage to the 
+fuselage and wings.
+Examination of the engine revealed signatures consistent with detonation, which led to the failure of the 
+No. 4 piston, the crankcase becoming pressurized, oil being pumped overboard, and the eventual oil 
+starvation of the engine components.
+A review of data from the engine data monitor (EDM) revealed that, during the flight that occurred 
+earlier that day, the fuel flows and engine temperatures were appropriate. However, the EDM data for 
+the accident flight revealed that the fuel flow was significantly lower during the takeoff and en route 
+climb portions of the flight and that the cylinder head, turbine inlet, and oil temperatures reached 
+extremely high values.
+The pilot stated that he could not specifically recall the steps he took to manage the fuel/air mixture 
+during the flight. The low fuel flow recorded on the EDM along with the excessive temperatures 
+suggests that the mixture was set lean. Additionally, following the accident, the mixture control 
+appeared to be leaned for cruise flight, rather than at full rich. However, the aircraft flight manual 
+specified that the fuel mixture should be set to full rich during all operational phases from engine start 
+through cruise climb. Given the evidence, it is likely that the pilot improperly leaned the fuel/air mixture 
+and that he did not adequately monitor critical engine parameters via the cockpit gauges, which led to 
+the high engine temperatures going undetected and resulted in oil starvation and the subsequent 
+catastrophic engine failure.

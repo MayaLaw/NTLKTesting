@@ -1,0 +1,29 @@
+{
+    "Filename": "99240.txt",
+    "Location": "New York, New York",
+    "Accident Number": "DCA19LA134",
+    "Date & Time": "April 10, 2019, 20:40 Local",
+    "Aircraft": "Airbus A321",
+    "Registration": "N114NN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "110 None",
+    "Analysis": {
+        "Text": "accident occurred american airline airbus a321 entered left roll takeoff runway 31l john f kennedy international airport wind time resulted 14 17knot crosswind right company 35knot crosswind limitation initial takeoff roll proceeded normally captain pilot flying applying left rudder pedal counter right crosswind captain stated kept airplane near runway centerline everything ok airplane reached 80 knot airplane reached rotation speed 156 knot still ground captain made large left rudder pedal input 8 25 15second timeframe response large rudder pedal input airplane heading deviated left lateral acceleration increased maximum 032 g postaccident interview captain stated airplane made significant turn left captain also stated looking runway edge knew get airplane air digital flight data recorder dfdr data showed sidestick pulled full noseup position right sidestick position aft sidestick right sidestick application rotate airplane rudder remained close fullleft deflection 3 second nose airplane lifted ground airplane began roll left left roll rate accelerated main landing gear lifted ground reaching maximum 37 left wing captain moved rudder sidestick full right full aft movement arrested left roll allowed airplane continue lift large left roll angle immediately liftoff resulted left wingtip striking ground runway distance marker part remained imbedded wingtip airbus engineering simulation performed part investigation demonstrated several second nearmaximum left rudder generated rolling moment gear left ground impart left roll rate dfdr recorded airplane flight control",
+        "Top Words": [
+            [
+                "left",
+                14
+            ],
+            [
+                "airplane",
+                11
+            ],
+            [
+                "roll",
+                7
+            ]
+        ]
+    }
+}

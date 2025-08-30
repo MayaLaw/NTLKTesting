@@ -1,0 +1,29 @@
+{
+    "Filename": "97250.txt",
+    "Location": "Borger, Texas",
+    "Accident Number": "CEN18LA172",
+    "Date & Time": "May 11, 2018, 08:27 Local",
+    "Aircraft": "WITTMAN D R/WITTMAN D M RV 6",
+    "Registration": "N833DW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot stated approach airport weather observation system reported variable wind 4 6 knot less forecast short final approach landing runway 21 pilot experienced strong updraft unusual landforms airplane landed halfway runway experienced strong gust causing swerving airplane departing side runway pilot chose abort landing applying full engine power airplane unable outclimb rising terrain side runway subsequently impacted ground fence postaccident examination airplane revealed anomaly would precluded normal operation review recorded weather information showed wind consistently 220 23 32 knot would resulted crosswind component 2 6 knot strong updraft pilot experienced would consistent mechanical turbulence could confirmed wind indication airport windsock probable cause finding national transportation safety board determines probable cause accident pilot failure maintain airplane control landing subsequent aborted landing attempt crosswind condition",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

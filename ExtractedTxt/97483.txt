@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Thomson, Georgia
+Accident Number:
+ERA18LA168
+Date & Time:
+June 14, 2018, 18:00 Local 
+Registration:
+N45TX
+Aircraft:
+Stinson L 5
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+While in cruise flight, the pilot noticed an increase in oil temperature and loss of oil pressure. 
+Shortly thereafter, the engine lost total power, and the propeller stopped rotating. The pilot 
+performed a forced landing to a lake, which resulted in substantial damage. Examination 
+revealed that the propeller could not be rotated by hand, and the crankshaft was fractured at 
+the No. 2 crank pin. Review of maintenance logbooks revealed that the most recent engine 
+overhaul was performed about 24 years and 711 flight hours before the accident. Since that 
+time, the propeller had been removed and replaced on two separate occasions due to propeller 
+strikes. There was no record of any crankshaft inspections following either of the propeller 
+strikes, contrary to manufacturer guidance. 
+Additional damage found on the Nos. 1 and 2 cylinders was caused by the crankshaft failure 
+and pistons that impacted their respective rods and skirts. In addition to the main fracture, a 
+separate crack was discovered slightly aft of the No. 1 main bearing and had propagated nearly 
+the width of the crankshaft, but had not fully failed. The thrust nut, which required 375 ft-lbs of 
+torque, was easily removed without effort or special tools, indicating that it was torqued to a 
+value significantly below specification. This could cause axial play along the crankshaft and 
+contribute to the progression of the crankshaft failure that was likely initiated during the 
+previous 2 propeller strikes. The crankshaft likely failed after its structural integrity was 
+compromised during previous propeller strikes. The improper torque on the thrust nut likely 
+exacerbated the failure of the crankshaft.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

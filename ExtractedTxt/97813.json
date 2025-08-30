@@ -1,0 +1,29 @@
+{
+    "Filename": "97813.txt",
+    "Location": "Fort Rice, North Dakota",
+    "Accident Number": "CEN18FA277",
+    "Date & Time": "July 17, 2018, 14:23 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N24515",
+    "Flight Conducted Under": "Part 91: General aviation - Aerial observation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting second lowlevel aerial photography flight day pilot would take photograph left window airplane review surveillance data showed airplane depart airport fly target area aerial photograph pilot completed photography work target area airplane traveled river airplane made several lowlevel turn river left last recorded data point showed airplane 1700 ft msl groundspeed 49 knot airplane wreckage found partially submerged river photograph pilot camera extracted last several image showed fish river undetermined pilot taking photo fish postaccident examination airplane engine revealed anomaly would precluded normal operation airplane given temperature dew point time accident airplane susceptible serious carburetor icing glide power setting airplane equipped carburetor temperature system installed right side cockpit system ice zone warning light illuminated carburetor ice could form likely lowlevel turn left river pilot focusing taking photograph airplane left window see ice zone light illuminated illumination light pilot expected apply carburetor heat however airplane carburetor heat found position thus given ambient condition time accident likely carburetor ice formed resulted loss engine power pilot attention diverted taking photo fish river likely notice loss airspeed resulted airplane exceeding critical angle attack subsequent lowlevel aerodynamic stall accident flight mechanic assisted pilot refueling airplane observed",
+        "Top Words": [
+            [
+                "airplane",
+                14
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "river",
+                6
+            ]
+        ]
+    }
+}

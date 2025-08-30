@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Wickenburg, Arizona
+Accident Number:
+GAA18CA274
+Date & Time:
+May 10, 2018, 11:45 Local 
+Registration:
+N430PA
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot reported that the approach was stable, but during the landing roll, when applying the 
+brakes, the airplane veered to the right. He released the brakes because he thought he needed to maintain 
+directional control, but he then reapplied the brakes. Subsequently, he added full power to go around, 
+and after becoming airborne, the airplane turned left. The right wing struck a runway sign, the student 
+reduced power and landed the airplane, and he then applied the brakes to stop.
+The airplane sustained substantial damage to the stabilator.
+The flight school's safety manager reported that there were no preaccident mechanical failures or 
+malfunctions with the airplane that would have precluded normal operation.
+The automated weather observation station located on the airport reported that, about 13 minutes after 
+the accident, the wind was from 210° at 7 knots. The airplane landed on runway 05.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain directional control during the landing roll in tailwind conditions.

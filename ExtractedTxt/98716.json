@@ -1,0 +1,29 @@
+{
+    "Filename": "98716.txt",
+    "Location": "Fort Lauderdale, Florida",
+    "Accident Number": "ERA19FA060",
+    "Date & Time": "December 1, 2018, 13:27 Local",
+    "Aircraft": "Cessna 335",
+    "Registration": "N79HP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 Fatal, 1 Minor",
+    "Analysis": {
+        "Text": "pilot pilotrated passenger planning conduct repositioning flight shortly takeoff video depicted white smoke trailing airplane left engine subsequently flight advised tower controller fire left engine airplane observed turning left return airport maintaining controlled flight landing gear retracted left propeller unfeathered position airplane clipped roof building adjacent airport impacted ground 67 knot ground speed came rest impacting another building postimpact fire ensued ground impact left right propeller rotating 900 rpm 2700 rpm respectively postaccident examination left engine revealed detonation damage several piston rodoil gauge cap assembly attached engine examination oil filler breather assembly revealed contact mark consistent rodoil gauge cap assembly coming evidence preimpact failure malfunction right engine propeller propeller governor although flight reported fire left engine compartment air traffic control video showed trailing smoke likely left engine damaged piston allowed crankcase become pressurized missing rodoil gauge cap assembly allowed oil exit engine contact either exhaust turbocharger exhaust duct resulting smoke although left propeller propeller governor heat damaged evidence preimpact failure malfunction either would precluded feathering propeller blade pilot failure feather left propeller following partial loss left engine power resulted negative climb performance pilot feathered left propeller following partial loss engine power likely positive rate climb could attained airplane flown last several year accident pilot purchased several month accident maintenance record located within wreckage accident site",
+        "Top Words": [
+            [
+                "left",
+                12
+            ],
+            [
+                "engine",
+                10
+            ],
+            [
+                "propeller",
+                9
+            ]
+        ]
+    }
+}

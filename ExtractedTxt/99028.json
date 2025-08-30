@@ -1,0 +1,29 @@
+{
+    "Filename": "99028.txt",
+    "Location": "Louisville, Kentucky",
+    "Accident Number": "ERA19LA109",
+    "Date & Time": "February 26, 2019, 18:35 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N2184X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot airplane accelerated normally takeoff roll became airborne engine started run rough elected land straight ahead remaining runway airplane subsequently overran runway collided perimeter fence examination airplane revealed sustained substantial damage airframe examination left magneto two ignition wire distributor cap revealed evidence arcing one ignition lead found detached insulator spring right magneto removed rotated produced spark spark lead metal copper electrode right magneto distributor gear found loose address potential decreased service life slick 4cylinder magneto distributor gear assembly slickchampion aerospace service bulletin sb115a call replacing distributor gear assembly copper electrode assembly monel electrode rough running engine symptom condition sb intended address review accident airplane maintenance logbook revealed entry repair magneto compliance applicable sb airplane received three annual inspection since release revision sb probable cause finding national transportation safety board determines probable cause accident failure magneto due known deficiency resulted partial loss engine",
+        "Top Words": [
+            [
+                "magneto",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "distributor",
+                4
+            ]
+        ]
+    }
+}

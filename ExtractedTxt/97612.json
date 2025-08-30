@@ -1,0 +1,29 @@
+{
+    "Filename": "97612.txt",
+    "Location": "Ferndale, Washington",
+    "Accident Number": "GAA18CA380",
+    "Date & Time": "June 18, 2018, 14:20 Local",
+    "Aircraft": "Jabiru J250",
+    "Registration": "N722BL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported accepting delivery recently purchased airplane requested ferry pilot show operate aircraft second approach felt airplane low slow asked ferry pilot add power ferry pilot responded youre fine shortly airplane landed hard runway nosewheel right main landing gear collapsed right wing struck runway airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation added accident flight experience flying accident airplane ferry pilot stated agreed passenger act flight instructor added airplane configured left seat pilot probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing contributing accident pilot lack experience training accident airplane make model",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

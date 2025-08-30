@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Maple Lake, Minnesota
+Accident Number:
+CEN18LA237
+Date & Time:
+June 22, 2018, 18:30 Local 
+Registration:
+N736MM
+Aircraft:
+Zenith STOL CH701
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and the flight instructor were flying in the airport traffic pattern. The pilot indicated 
+that he smelled a "burnt electrical" smell after takeoff, so they decided to remain in the traffic pattern. 
+After about 10 minutes of flight, the engine began to backfire and then lost total power. 
+The pilot switched fuel tanks, turned the fuel boost pump on, and attempted a restart of the engine with 
+no success. The pilot reported that he initially decided to attempt a forced landing on the runway. 
+However, he assessed that he would be unable to clear power lines and instead decided to execute a 
+forced landing onto a road. The airplane landed short of the road, impacted a ditch, and came to rest in a 
+grass-covered field. During the forced landing sequence, the nosewheel collapsed, which resulted in 
+substantial damage to the fuselage and engine mount, and the right wing impacted a sign and sustained 
+substantial damage.
+Postaccident examination of the airframe and engine revealed no preimpact mechanical malfunctions or 
+failures with the airframe and engine that would have precluded normal operation. However, the engine 
+would not start after multiple attempts. The origin of the "burnt electrical" smell could not be 
+determined. Fuel was found on board; thus, fuel exhaustion did not occur. The reason for the loss of 
+engine power could not be determined based on the available evidence.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The total loss of engine power for reasons that could not be determined based on the available evidence.

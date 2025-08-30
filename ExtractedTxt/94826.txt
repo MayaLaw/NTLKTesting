@@ -1,0 +1,44 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Rattan, Oklahoma
+Accident Number:
+CEN17LA121
+Date & Time:
+February 14, 2017, 11:45 Local 
+Registration:
+N1551C
+Aircraft:
+Beech C90A
+Aircraft Damage:
+Substantial
+Defining Event:
+Electrical system malf/failure
+Injuries:
+3 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled - Air Medical (Unspecified)
+Analysis 
+The pilot stated that the engine start and airplane power-up were normal for the air medical flight with 
+two medical crewmembers. The engine ice vanes were lowered (as required for ground operations) and 
+then were subsequently raised before takeoff. Takeoff and climbout were routine, and the pilot leveled 
+off the airplane at the assigned cruise altitude. The air traffic controller informed the pilot of heavy 
+showers near the destination airport, and the pilot "put the ice vanes down." The pilot indicated that, 
+shortly afterward, the airplane experienced two "quick" electrical power fluctuations in which 
+"everything went away and then came back," and "[s]econds later the entire [electrical] system failed." 
+Due to the associated loss of navigation capability while operating in instrument meteorological 
+conditions (IMC), the pilot set a general course for better weather conditions based on information from 
+his preflight weather briefing. While the pilot attempted to find a suitable hole in the clouds to descend 
+through under visual conditions, the left engine lost power. The pilot ultimately located a field through 
+the cloud cover and executed a single-engine off-airport landing, which resulted in substantial damage to 
+the right engine mount and firewall. 
+A postaccident examination of the airplane and systems did not reveal any anomalies consistent with an 
+in-flight electrical system malfunction. The three-position ignition and engine start/starter-only switches 
+were in the ON position, and the engine anti-ice switches were in the ON position. When the airplane 
+battery was initially checked during the examination, the voltmeter indicated 10.7 volts (normal voltage 
+is 12 volts); the battery was charged and appeared to function normally thereafter.
+The loss of electrical power was likely initiated by the pilot inadvertently selecting the engine start 
+switches instead of the engine anti-ice (ice vane) switches. This resulted in the starter/generators 
+changing to starter operation and taking the generator function offline. Airplane electrical power was 
+then being supplied solely by the battery, which caused it to deplete and led to a subsequent loss of 
+electrical power to the airplane.

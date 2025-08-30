@@ -1,0 +1,29 @@
+{
+    "Filename": "99213.txt",
+    "Location": "Pella, Iowa",
+    "Accident Number": "GAA19CA193",
+    "Date & Time": "March 26, 2019, 14:50 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N7127G",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported landing student pilot flight control 5 10 ft ground wind gust caused airplane drift right instructor assumed control airplane attempted correct applied full power initiated goaround instructor stated airplane low slow left main landing gear contacted runway airplane drifted left concerned airplane would gain significant altitude clear building flightpath instructor chose land grass left runway subsequently airplane encountered soft terrain nosed airplane sustained substantial damage aft fuselage rudder instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation time accident airport automated weather observation station reported wind 170 5 knot student landing airplane runway 16 probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain runway heading flight instructor delayed remedial action landing resulted instructor landing airplane grass left runway subsequent noseover",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "instructor",
+                7
+            ],
+            [
+                "landing",
+                5
+            ]
+        ]
+    }
+}

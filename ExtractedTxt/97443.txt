@@ -1,0 +1,43 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Sitka, Alaska
+Accident Number:
+ANC18FA044
+Date & Time:
+June 8, 2018, 20:00 Local 
+Registration:
+N1203A
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was flying a lodge client on a wildlife viewing flight in a floatplane. About 2 hours after the 
+planned return time, the airplane was reported overdue and a search was coordinated. The airplane 
+wreckage was located nose down in a confined shallow river the next day. The airplane did not have 
+GPS, ADS-B or a recording system, and there was no radar coverage in the area of the accident; 
+therefore, the flight track was unknown. 
+The airplane impacted the river bottom in a 70 ° nose down attitude with the front floats absorbing much 
+of the energy and the aft fuselage displaced and twisted right, indicative of impact during a stall/spin. 
+All flight controls were intact and continuous, and the engine exhibited no anomalies. The propeller 
+blades exhibited rearward bends with torsional twist and some chordwise scrapes, and propeller strikes 
+were evident on deadfall trees trunks at the initial impact site, which are all indications of impact with 
+engine power. The right fuel tank cap was not located but given that there was evidence of engine power 
+at impact, it is unlikely that fuel siphoning/exhaustion was causal. It is likely that the pilot was 
+maneuvering the airplane in slow flight to show the passenger wildlife, and, in doing so, exceeded the 
+airplane's critical angle of attack, resulting in the stall.
+The airplane was equipped with 4-point shoulder harnesses on both seats; however, first responders 
+reported that the pilot did not have the shoulder harness fittings inserted into the lapbelt buckle. The rear 
+seat passenger was ejected during the impact and examination of the shoulder harnesses for his seat 
+revealed no indication of deformation of the webbing or metal end fittings, indicating he was also likely 
+not using the shoulder harnesses at the time of impact. His lapbelt buckle however, was deformed 
+although it was fully functional.  It is possible that the use of the shoulder harnesses may have prevented 
+the rear seat passenger's ejection and/or mitigated some of the occupants' injuries had they been in use at 
+the time of the accident.

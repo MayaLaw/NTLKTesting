@@ -1,0 +1,29 @@
+{
+    "Filename": "97597.txt",
+    "Location": "Orlando, Florida",
+    "Accident Number": "WPR18LA179",
+    "Date & Time": "June 25, 2018, 08:15 Local",
+    "Aircraft": "Cessna 340A",
+    "Registration": "N60E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported engine start runup taxi normal preparation personal flight pilot began takeoff roll using full length dry paved 6000ft runway shortly thereafter felt sudden lag maximum speed observed airspeed indicator 43 knot airspeed indicator needle seemed fluttering confirmed engine control properly set decided discontinue takeoff halfway runway reducing power applying brake spoiler decelerate airplane airplane appear likely stop overrunning end runway pilot steered airplane right ran runway end airplane impacted stopped culvert 500 ft beyond runway sustained substantial damage fuselage nose postaccident examination airplane airspeed indication system engine reveal preimpact mechanical malfunction failure would precluded normal operation several month accident airplane repaired engine test run revealed two minor unrelated turbocharger problem one problem affected left engine affected right engine manifest concurrently case affected engine develop full rpm engine develop full rpm investigation unable determine whether problem existed time accident takeoff exist unless occurred simultaneously would manifested significant asymmetric thrust two engine would obvious pilot pilot report shortcoming engine rpm thrust asymmetry airplane subsequently ferried destination engine operated normally flight accident site review revealed airplane traversed total distance 6500 ft takeoff roll stop calculation performed postaccident indicate normal acceleration 43 knot airplane continued speed would taken 35 second reach halfway point runway point pilot would 3000 ft remaining stop 43 knot sufficient",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

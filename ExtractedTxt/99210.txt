@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Stephenville, Texas
+Accident Number:
+GAA19CA192
+Date & Time:
+March 31, 2019, 10:15 Local 
+Registration:
+N902RA
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The solo student pilot reported that, during landing, the airplane was configured with flaps 30° and that 
+the airspeed was 70 knots. When the airplane was over the runway, he reduced the throttle to idle and 
+initiated the landing flare. The airplane descended rapidly, landed hard, and bounced. He aborted the 
+landing, "but the wind caught me and the next thing I knew, I was facing the taxiway." The airplane 
+exited the left side of the runway into grass and nosed over. 
+The airplane sustained substantial damage to the right wing lift strut.
+The student reported that there were no preaccident mechanical malfunctions or failures with the 
+airplane that would have precluded normal operation.
+The METAR at the airport reported that, at the time of the accident, the wind was from 050° at 12 knots, 
+gusting to 20 knots. The pilot landed the airplane on runway 32.
+According to the manufacturer's Pilot's Operating Handbook, the maximum demonstrated crosswind is 
+15 knots. The crosswind component for the accident flight was 16 knots. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's improper landing flare, which resulted in a hard landing, and his subsequent failure to 
+maintain directional control in gusting crosswind conditions that exceeded the airplane's demonstrated 
+crosswind for landing, which resulted in a runway excursion and nose-over. 

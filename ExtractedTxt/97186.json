@@ -1,0 +1,29 @@
+{
+    "Filename": "97186.txt",
+    "Location": "Warrenton, Virginia",
+    "Accident Number": "GAA18CA257",
+    "Date & Time": "May 6, 2018, 10:30 Local",
+    "Aircraft": "Aeronca 7AC",
+    "Registration": "N83581",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according flight instructor tailwheelequipped airplane purpose flight provide proficiency check pilot front seat pilot control landed airplane accomplishing one pattern subsequent takeoff 5 ft ground level airplane right wing went pilot applied left stick airplane struck ground interview national transportation safety board investigatorincharge instructor reported believed airspeed slow takeoff climb airplane stalled airplane sustained substantial damage rightwing lift strut metar airport reported time accident wind 20 4 knot pilot used runway 15 pilot instructor reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed exceedance airplane critical angle attack takeoff initial climb resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "instructor",
+                3
+            ]
+        ]
+    }
+}

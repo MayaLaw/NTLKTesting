@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Westminster, Maryland
+Accident Number:
+GAA18CA326
+Date & Time:
+May 25, 2018, 23:00 Local 
+Registration:
+N789EP
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during short final at night, he reduced power to idle, and the airplane descended 
+rapidly and landed hard in a flat attitude. He added that, after touchdown, the airplane bounced, and he 
+applied full power to go around. He entered the traffic pattern and then landed without further incident.
+Postaccident examination 3 days after the accident revealed that the airplane sustained substantial 
+damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in a hard landing.
+Findings
+Aircraft
+Landing flare - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

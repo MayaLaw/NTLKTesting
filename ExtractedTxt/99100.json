@@ -1,0 +1,29 @@
+{
+    "Filename": "99100.txt",
+    "Location": "Latrobe, Pennsylvania",
+    "Accident Number": "ERA19LA123",
+    "Date & Time": "March 12, 2019, 13:36 Local",
+    "Aircraft": "Beech A100",
+    "Registration": "N945WS",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "according pilot lowering landing gear handle preparation landing co pilot heard crunching noise noticed landing gear indicator light turn green crew unable extend gear manually crew diverted airport emergency equipment control tower following flyby tower controller reported landing gear appeared extended however landing roll left main landing gear collapsed followed right main landing gear resulting substantial damage airplane examination airplane revealed main landing gear mechanical linkage compromised right main landing gear actuator shaft broken mechanic examined airplane found actuator pinion bearing support separated actuator undetermined reason causing side load actuator initiating fracture probable cause finding national transportation safety board determines probable cause accident landing gear collapse due separation actuator pinion bearing support actuator resulted failure actuator shaft",
+        "Top Words": [
+            [
+                "landing",
+                10
+            ],
+            [
+                "gear",
+                9
+            ],
+            [
+                "actuator",
+                7
+            ]
+        ]
+    }
+}

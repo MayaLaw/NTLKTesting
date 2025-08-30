@@ -1,0 +1,29 @@
+{
+    "Filename": "98565.txt",
+    "Location": "Simsbury, Connecticut",
+    "Accident Number": "ERA19LA030",
+    "Date & Time": "October 28, 2018, 16:45 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N8132X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Part(s) separation from AC",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "commercial pilot practicing approach touchandgo landing pilot reported taxi takeoff wheel brake sluggish attempting fullstop landing destination airport brake failed pilot steered airplane runway avoid fence collided ditch resulted substantial damage left wing postaccident examination airplane revealed left main landing gear separated airplane ground collision evidence preexisting hydraulic fluid leakage fluid line fitting connected wheel brake assembly additionally right main landing gear wheel brake assembly attached trunnion required bolt hydraulic fluid line fitting attached brake assembly according maintenance logbook 100hour inspection completed 18 day accident logbook entry noted servicing tire wheel brake brake fluid given right main landing gear hydraulic fluid line detached respective brake assembly likely maintenance personnel adequately inspect wheel brake system right brake failed due loss hydraulic fluid probable cause finding national transportation safety board determines probable cause accident maintenance personnel inadequate inspection wheel brake system airplane recent 100hour inspection resulted loss hydraulic fluid pilot inability control airplane landing",
+        "Top Words": [
+            [
+                "brake",
+                11
+            ],
+            [
+                "fluid",
+                7
+            ],
+            [
+                "landing",
+                6
+            ]
+        ]
+    }
+}

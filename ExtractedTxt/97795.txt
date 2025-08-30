@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Lexington, Texas
+Accident Number:
+CEN18LA271
+Date & Time:
+July 14, 2018, 14:00 Local 
+Registration:
+N22GL
+Aircraft:
+Steen Skybolt
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After landing and while taxiing to the hangar, the bottom of the airplane's fuselage began to drag on the 
+ground. Realizing that something was wrong, the pilot stopped the airplane and turned the engine 
+magneto switch to off. Postaccident examination revealed that a fatigue failure of the main landing gear 
+(MLG) truss had occurred, which allowed the MLG to spread apart. 
+ 
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The fatigue failure of the main landing gear (MLG) truss, which resulted in the MLG spreading apart. 
+ 

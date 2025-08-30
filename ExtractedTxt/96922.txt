@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Ontario, Oregon
+Accident Number:
+GAA18CA176
+Date & Time:
+March 18, 2018, 14:30 Local 
+Registration:
+N234RA
+Aircraft:
+AMERICAN CHAMPION AIRCRAFT 
+7GCBC
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, during the last landing of the day, which he performed in crosswind 
+conditions, the tailwheel-equipped airplane bounced. He added that during the bounce, the airplane 
+rolled right, and the right main landing gear touched down. Subsequently, once both main landing gear 
+were on the runway the airplane veered sharply to the right and he lost directional control. The airplane 
+exited the right side of the runway, the right main landing gear spindle and tire separated from the 
+airplane, and the airplane came to rest. 
+The airplane sustained substantial damage to the front spar.
+The flight instructor reported that there were no preaccident mechanical failures or malfunctions with 
+the airplane that would have precluded normal operation.
+The automated weather observation system located at the accident airport reported, about the time of the 
+accident, the wind was from 210° at 8 knots. The flight instructor landed on runway 33.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight instructor's failure to maintain directional control during landing, in cross wind conditions.

@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Shullsburg, Wisconsin
+Accident Number:
+CEN18LA159
+Date & Time:
+May 4, 2018, 19:30 Local 
+Registration:
+N36LP
+Aircraft:
+Beech A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that he heard an unusual noise from the engine during cruise flight and 
+shortly afterward, the engine experienced a total loss of power. The pilot performed a forced landing to 
+an open field.
+Visual examination of the engine revealed a hole in the crankcase. A teardown examination revealed 
+fretting on the crankcase mating surfaces, shifting of the No. 2 main bearing within the journal support, 
+thermal damage consistent with a loss of oil lubrication, and separation of the crankshaft. The observed 
+fretting damage was consistent with relative movement of the crankcase halves during operation due to a 
+lack of through-bolt torque. The main journal bearing damage, the separation of the crankshaft, and the 
+crankcase damage were secondary and a result of the loss of lubrication.
+An engine overhaul was completed in about 11 years 5 months before the accident; about 849 flight 
+hours had accumulated since the overhaul. Two cylinders were replaced 6 years before the accident, and 
+one cylinder was replaced during the most recent annual inspection about 9 months before the accident. 
+It is likely that improper torque of the through-bolt nuts was applied during one of the cylinder 
+replacement events, though it could not be determined which event. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A catastrophic engine failure due to improper torque on the engine through-bolt nuts, which resulted in 
+relative movement between the crankcase halves, damage to a main journal bearing, and a loss of oil 
+lubrication. 

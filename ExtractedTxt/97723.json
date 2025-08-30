@@ -1,0 +1,29 @@
+{
+    "Filename": "97723.txt",
+    "Location": "Mackinac Island, Michigan",
+    "Accident Number": "GAA18CA407",
+    "Date & Time": "July 1, 2018, 12:00 Local",
+    "Aircraft": "Beech 58",
+    "Registration": "N66568",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot twinengine airplane reported takeoff roll 3500ftlong runway airspeed indicator indicate airspeed rejected takeoff added attempted brake full braking initially possible due lift subsequently airplane overran runway onto downhill grassy area struck fence postaccident examination airplane pilot found pitot tube cover removed flight according manufacturer typical takeoff roll 1336 ft approximate landing roll 1440 ft pilot rejected takeoff sooner likely could stopped airplane runway airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added preflight memory list fuel oil tire prop surface add chock cowl plug pitot tube cover probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

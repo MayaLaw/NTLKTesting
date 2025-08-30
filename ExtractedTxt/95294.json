@@ -1,0 +1,29 @@
+{
+    "Filename": "95294.txt",
+    "Location": "Santa Rosa Valley, California",
+    "Accident Number": "WPR17FA120",
+    "Date & Time": "June 4, 2017, 15:29 Local",
+    "Aircraft": "Piper PA 28-180",
+    "Registration": "N4871L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot son conducting personal flight 15 minute takeoff airplane flew series pass horse arena pilot daughter riding arena situated within geographic bowl depression surrounded hilly terrain adjacent three set power transmission line pilot witness airplane flying accident airplane described accident airplane flight path low erratic witness close arena described initial pas aggressive pilot conducted final pas arena much lower altitude previous pass multiple witness described engine noise sputtering going quiet either descent final pas airplane flew arena engine sound increased airplane climbed entered steep right bank descended power line impacted ground 600 ft south arena calculation based witness report impact geometry indicated radius turn impact would required high angle bank resulting increase stall speed would led accelerated stall altitude low recovery examination revealed anomaly airframe engine would precluded normal operation damage signature witness account indicated engine producing power time accident damage airplane fuel tank indicated contained fuel time impact pilot son pilot seated front left seat since airplane equipped dual control could determined flying airplane time accident pilot familiar terrain area accident site witness stated performed low pass multiple time past aware power line edge arena reduction engine noise reported witness could result actual loss engine power power reduction made pilot descend rapidly order perform pas lower altitude however pilot flying appropriate safe altitude airplane experienced loss engine power would within gliding distance open",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "arena",
+                7
+            ]
+        ]
+    }
+}

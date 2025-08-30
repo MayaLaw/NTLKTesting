@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Brownstown, Indiana
+Accident Number:
+ERA19LA022
+Date & Time:
+October 20, 2018, 00:30 Local 
+Registration:
+N5581Z
+Aircraft:
+Piper PA22
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot was conducting a night, solo, cross-country flight, and while en route with the landing 
+and taxi lights on, the cockpit panel lights on bright, and his cell phone and tablet charging from the 
+electrical system, the airplane lost all electrical power, followed by the loss of all engine power. 
+Subsequently, the student cycled both the electrical system master switch and the engine magneto switch 
+twice, but electrical and engine power were not restored. The student navigated to a dark area below the 
+airplane's flightpath hoping it was an open field, but the airplane subsequently impacted a heavily 
+wooded area and then came to rest upright. The student was not injured, but the airplane was destroyed.
+The airplane's electrical system was equipped with a master switch that when turned on, routed all 
+power through either a main or spare fuse. Postaccident examination of the airplane revealed that the 
+when the master switch was positioned to the spare fuse position the electrical system would not turn on 
+because spare fuse had blown. The main fuse was intact, and when the electrical system was activated 
+by toggling the master switch to the main fuse position, the electrical components powered on normally.
+Based on the student's account of the flight and the blown spare fuse, it is possible that, during the flight, 
+the electrical load drew an excessive current through the selected spare fuse, which resulted in it 
+blowing and interrupting electrical power. The student's reported inability to restore electrical power by 
+selecting the main fuse with the master switch could not be duplicated during postaccident testing. 
+Further, postaccident examination of the engine did not reveal any evidence of preimpact mechanical 
+malfunctions or failures that would have precluded normal operation. The reason for the loss of engine 
+power could not be determined. The investigation determined that the student had not received a flight 
+endorsement for the solo flight; thus, he should not have been conducting the flight; however, having an 
+endorsement would not have better prepared the student to deal with the reported engine issue.

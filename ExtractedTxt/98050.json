@@ -1,0 +1,29 @@
+{
+    "Filename": "98050.txt",
+    "Location": "Philadelphia, Pennsylvania",
+    "Accident Number": "DCA18IA265",
+    "Date & Time": "August 10, 2018, 20:50 Local",
+    "Aircraft": "Gulfstream G IV",
+    "Registration": "N619A",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Course deviation",
+    "Injuries": "10 None",
+    "Analysis": {
+        "Text": "pegasus elite aviation flight 19 final approach runway 35 philadelphia international airport philadelphia pennsylvania airplane deviated runway 35 centerline 24 mile runway 35 threshold aligned taxiway e shortly thereafter flight crew initiated lowaltitude goaround arrested airplane descent started climb airplane 01 mile south end taxiway e airplane flew past four airplane taxiway e captain stated flying visual approach runway 35 area navigation rnav approach backup flight crewmembers stated rnav needle showed airplane centered approach captain stated flight proceeded inbound airport light blended together lost visual contact runway distance 1 2 mile altitude 500 ft ground level agl first officer stated see approach light runway captain initiated goaround 1 mile airport airplane 500 ft agl flight data recorder fdr federal aviation administration faa radar data showed goaround procedure airplane moved right aligned taxiway taxiway runway reached minimum altitude 125 ft agl 01 mile runway 35 threshold point airplane stopped descending began climbing faa radar data showed closest incident airplane came first airplane passed 200 ft vertically airplane flew past three airplane taxiway e continuing climb flight crewmembers initiated lowaltitude goaround recognize airplane misaligned runway late final approach result safety margin severely reduced given incident airplane proximity ground",
+        "Top Words": [
+            [
+                "airplane",
+                15
+            ],
+            [
+                "runway",
+                9
+            ],
+            [
+                "flight",
+                6
+            ]
+        ]
+    }
+}

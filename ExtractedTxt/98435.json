@@ -1,0 +1,29 @@
+{
+    "Filename": "98435.txt",
+    "Location": "San Antonio, Texas",
+    "Accident Number": "GAA19CA011",
+    "Date & Time": "October 5, 2018, 11:30 Local",
+    "Aircraft": "Beech 55",
+    "Registration": "N6674Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported day accident flight flown airplane wanted become comfortable new instrument installed flight hangar friend turned airplane electrical power familiarize pilot autopilot system specifically would follow heading bug setting familiarization ran pitch trim way pilot added takeoff accident flight check pitch trim setting believed would previous flight instead pitch trim setting autopilot ground familiarization added takeoff nose pitched severely lowered nose airplane entered negative g condition realized latch seat belt good saw seatbelt disconnected longer seat could regain airplane control airplane struck runway porpoised nose landing gear collapsed airplane skidded struck taxiway light postaccident examination airplane revealed vertical trim tab fulldown position indicating full noseup trim applied airplane sustained substantial damage engine fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot operating handbook checklist titled takeoff stated seat belt shoulder harness check 15 trim required takeoff",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "trim",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

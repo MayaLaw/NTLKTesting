@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Schlater, Mississippi
+Accident Number:
+CEN19FA138
+Date & Time:
+May 6, 2019, 19:45 Local 
+Registration:
+N7665S
+Aircraft:
+Champion 7GCAA
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was departing from a private airstrip with a light tailwind present. A witness at the airstrip saw 
+the airplane lift off the ground, northbound, about 1,500 ft down the runway; the airplane flew another 
+500 ft before it pitched up. The airplane was about 100 ft above the ground and not climbing when it 
+banked left and then turned right. The airplane nose pitched down and the airplane entered a dive and 
+subsequently impacted terrain.
+The airplane came to rest on its nose and its engine was embedded in terrain. Examination of the 
+airframe and engine did not reveal any preimpact anomalies that would have precluded control of the 
+airplane. 
+Given the available information, it is likely that the pilot failed to maintain the proper airspeed during 
+the initial climb after takeoff, which resulted in the exceedance of the airplane's critical angle of attack 
+and the airplane experiencing an aerodynamic stall at too low of an altitude to recover. Investigators 
+were not able to determine why the airplane was on the ground for 1,500 ft before it rotated and took 
+off. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain the proper airspeed during the initial climb after takeoff, which resulted in 
+an exceedance of the airplane's critical angle of attack and a stall.

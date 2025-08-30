@@ -1,0 +1,29 @@
+{
+    "Filename": "97841.txt",
+    "Location": "Patriot, Indiana",
+    "Accident Number": "CEN18FA282",
+    "Date & Time": "July 19, 2018, 17:00 Local",
+    "Aircraft": "Fisher Celebrity",
+    "Registration": "N228LC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "airline transport pilot conducting personal flight recentlypurchased experimental amateurbuilt biplane airplane experienced inflight breakup subsequently impacted cornfield witness accident upper lower left wing attached separated fuselage part lower right wing located wreckage attached fuselage additional part upper lower right wing found scattered throughout area 400 yard 800 yard west impact area part wing found 80 yard wreckage however majority wing structure found right wing attachment fitting displayed fracture intersecting inboard wing spar attachment bolt hole fracture feature attachment fitting rough matte gray appearance consistent ductile overstress fracture upward bending wing attachment location outboard end attachment fitting piece aft spar also bent aft relative inboard end consistent entire upper lower right wing folding upward rearward bending separating airplane airplane biplane upward bending lower wing attachment secondary primary failure elsewhere location could determined due fact majority wing structure unrecovered evidence preexisting damage wing spar attachment fitting probable cause finding national transportation safety board determines probable cause accident inflight separation right wing due upward rearward bending led overstress fracture reason upward rearward bending could determined",
+        "Top Words": [
+            [
+                "wing",
+                13
+            ],
+            [
+                "attachment",
+                7
+            ],
+            [
+                "lower",
+                5
+            ]
+        ]
+    }
+}

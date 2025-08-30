@@ -1,0 +1,39 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Katy, Texas
+Accident Number:
+CEN18LA195
+Date & Time:
+May 27, 2018, 17:15 Local 
+Registration:
+N67Y
+Aircraft:
+CIRRUS DESIGN CORP SR20
+Aircraft Damage:
+Substantial
+Defining Event:
+Flight control sys malf/fail
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that immediately after takeoff, the airplane began to roll to the left. He attempted to 
+counteract the roll with right aileron input but could not control the rolling motion; the airplane 
+continued to roll to the left. The pilot continued to use right aileron and trim, lowered the nose, and 
+executed a forced landing in a field adjacent to the departure airport.
+Examination of the wreckage showed that the left aileron actuation arm and attachment bolt were 
+missing; there was no associated impact damage. Impact marks were present on the inboard hinge 
+consistent with the aileron striking it. No distress or markings were found in the hole for the attachment 
+bolt. The bolt or remnants of safety wire were not found.
+The pilot reported that he had flown the airplane the day before the accident and noted no problems with 
+the flight controls. The most recent annual inspection and maintenance documents did not show any 
+work performed on the ailerons. It could not be determined when the bolt came loose from the 
+attachment. The absence of the bolt would severely affect aileron flight control as reported by the pilot, 
+allowing the aileron to rotate freely around the hinge point with no connection to the flight controls. 
+After the accident, the Federal Aviation Administration issued an aviation maintenance alert advising 
+owners and operators of SR20 and SR22 airplanes to visually inspect the bolt for the aileron actuation 
+arm for the presence of a safety wire.
+ 
+Probable Cause and Findings

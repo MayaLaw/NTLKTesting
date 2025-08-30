@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bonifay, Florida
+Accident Number:
+GAA17CA169
+Date & Time:
+February 3, 2017, 14:30 Local 
+Registration:
+N6318M
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that, during touchdown, the airplane encountered a crosswind and was 
+"push[ed]" off the runway to the right into a ditch. The airplane sustained substantial damage to the 
+firewall and engine mount.
+The student pilot reported that there were no preaccident mechanical malfunctions or failures with the 
+airplane that would have precluded normal operation.
+The student pilot reported that the wind was about 5 to 10 knots from a westerly direction. The nearest 
+automated weather observation station, located 27 nautical miles from the accident site, about the time 
+of the accident, reported wind from 270° at 3 knots. The student pilot reported that he landed on runway 
+1. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain directional control during landing in crosswind conditions.

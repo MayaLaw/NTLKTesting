@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Dallas, Texas
+Accident Number:
+GAA18CA413
+Date & Time:
+July 9, 2018, 10:30 Local 
+Registration:
+N6849C
+Aircraft:
+Beech T34
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot receiving instruction reported that, during an airplane checkout, he performed a simulated 
+engine failure. He added that, during the landing flare, the airplane "ran out of energy," and the right 
+wing struck the runway.
+The flight instructor reported that, about 5 ft above the runway, the airplane aerodynamically stalled, and 
+the right wing dropped and struck the runway.
+The airplane sustained substantial damage to the right wing.
+The flight instructor reported that there were no preaccident mechanical failures or malfunctions with 
+the airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain adequate airspeed and his exceedance of the airplane's critical angle of 
+attack during the landing flare, which resulted in an aerodynamic stall.

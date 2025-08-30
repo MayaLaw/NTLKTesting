@@ -1,0 +1,29 @@
+{
+    "Filename": "97343.txt",
+    "Location": "Tekamah, Nebraska",
+    "Accident Number": "CEN18LA199",
+    "Date & Time": "May 28, 2018, 09:30 Local",
+    "Aircraft": "Aeronca 58B",
+    "Registration": "N47252",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "private pilot reported 30 minute departing personal local flight conducting tribute cemetery noticed engine running properly proceeded fly toward airport located 8 nautical mile nm east en route airport engine stopped developing full power maximum rpm 1500 airplane descended forced landing impacted ditch 3 nm airport resulted substantial damage airplane pilot stated landed airplane flat field opportunity possible instead kept flying situation option postaccident examination airframe engine revealed evidence preaccident mechanical malfunction failure would precluded normal operation time loss engine power airplane operating condition conducive carburetor icing glide power pilot reported using carburetor heat likely tribute pilot reduced engine power resulting buildup carburetor ice restricted air fuel flow caused reduced engine power reduced engine power condition occurred pilot identified appropriate forced landing site however chose continue fly airplane airport located 8 nm away engine lost total power make forced landing unsuitable terrain probable cause finding national transportation safety board determines probable cause accident partial loss engine power due formation carburetor ice contributing accident pilot failure use carburetor heat decision continue flight",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "power",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

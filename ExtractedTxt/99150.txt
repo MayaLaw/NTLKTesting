@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Atmautluak, Alaska
+Accident Number:
+GAA19CA174
+Date & Time:
+March 21, 2019, 09:45 Local 
+Registration:
+N5544F
+Aircraft:
+Piper PA32R
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision with terr/obj (non-CFIT)
+Injuries:
+5 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Scheduled
+Analysis 
+The pilot reported that, while taxiing to the runway for departure, he felt a "large bump." The pilot 
+immediately shut down the engine and inspected the airplane. He identified damage to the right wing 
+and landing gear. 
+The pilot further reported that he inspected the taxiway after he saw the airplane's damage and noted that 
+the large bump he felt was due to the right landing gear's encounter with a snow-covered pothole. 
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The airplane's encounter with a snow-covered pothole during taxi.
+Findings
+Environmental issues
+Hidden/submerged object - Effect on operation

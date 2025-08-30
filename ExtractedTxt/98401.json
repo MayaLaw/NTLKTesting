@@ -1,0 +1,29 @@
+{
+    "Filename": "98401.txt",
+    "Location": "Spokane, Washington",
+    "Accident Number": "GAA18CA575",
+    "Date & Time": "September 29, 2018, 10:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N40825",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "noninstructorrated pilot reported agreed go flying student pilot student airplane act pilotincommand seated right seat approach land student control airplane high airfield made student selected full flap according pilot airplane got slow low student initiated goaround single motion pilot raised flap fullup position airplane struggled fly climb subsequently airplane impacted tree end runway came rest right side pilot added pilot operating handbook state flap retracted one notch time airplane sustained substantial damage wing fuselage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper retraction flap goaround resulted airplane failure climb subsequent collision tree",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "student",
+                5
+            ]
+        ]
+    }
+}

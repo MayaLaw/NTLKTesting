@@ -1,0 +1,29 @@
+{
+    "Filename": "97527.txt",
+    "Location": "Enid, Oklahoma",
+    "Accident Number": "CEN18FA232",
+    "Date & Time": "June 19, 2018, 07:15 Local",
+    "Aircraft": "AIR TRACTOR INC AT 502B",
+    "Registration": "N2063B",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "agricultural airplane dispatched apply fertilizer nearby field fertilized previous day one witness observed airplane make 810 pass field saw airplane fly low pop make turn according witness airplane ran guy wire tower airplane twisted violentlyand dropped straight 405fttall tower properly painted lighted marked sectional chart examination accident site revealed airplane struck top portion tower impacted ground nearvertical attitude detailed examination airplane engine reveal preimpact mechanical anomaly would preclude normal operation toxicology testing detected doxylamine potentially impairing sedating antihistamine pilot blood urine detected level within normally sedating range doxylamine undergoes postmortem redistribution level postmortem blood may elevated antemortem level therefore whether pilot impaired sedating effect doxylamine time accident could determined additionally toxicology testing identified antidepressant citalopram tested sample citalopram known cause significant impairment major depression significantly affect judgment response time executive functioning however pilot health care prescriber could identified extent potential depressive symptom time accident could determined probable cause finding national transportation safety board determines probable cause accident pilot failure see avoid known obstacle communication tower agricultural spraying operation",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "tower",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

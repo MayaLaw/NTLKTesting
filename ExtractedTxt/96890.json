@@ -1,0 +1,29 @@
+{
+    "Filename": "96890.txt",
+    "Location": "Madison, South Dakota",
+    "Accident Number": "GAA18CA166",
+    "Date & Time": "March 12, 2018, 17:15 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N2011N",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor acting safety pilot tailwheelequipped airplane reported expedite takeoff decided take grass runway instead concrete runway added midway softfield takeoff roll observed airplane struggling build airspeed added runway previously thawed wet spongy sod reduced power began apply brake abort takeoff airplane overran runway impacted snow bank nosed airplane sustained substantial damage fuselage flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident flight instructor delayed aborted takeoff soft wet grass runway resulted runway overrun",
+        "Top Words": [
+            [
+                "runway",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

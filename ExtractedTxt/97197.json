@@ -1,0 +1,29 @@
+{
+    "Filename": "97197.txt",
+    "Location": "Clarksville, Tennessee",
+    "Accident Number": "GAA18CA260",
+    "Date & Time": "May 6, 2018, 15:25 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N5419E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area overshoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot weather began deteriorate previous approach airplane encountered updraft downdraft additionally noticed begun rain aborted landing reported next approach variable crosswind updraft downdraft continued added landing roll wind direction may shifted tailwind brake normal stopping effect airplane overran runway struck fence coming rest public road airplane sustained substantial damage leftwing spar ten minute accident metar airport reported wind 260 9 knot lightning distance west northeast time accident wind 350 24 knot gusting 33 knot peak wind 350 33 knot lightning distance west northeast ten minute accident metar reported wind 10 20 knot gusting 31 knot peak wind 350 33 knot shifting lightening quadrant thunderstorm light rain pilot landed airplane runway 23 pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "knot",
+                7
+            ],
+            [
+                "wind",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96030.txt",
+    "Location": "Sedona, Arizona",
+    "Accident Number": "WPR17LA207",
+    "Date & Time": "September 16, 2017, 14:30 Local",
+    "Aircraft": "Cessna 208B",
+    "Registration": "N786WW",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground handling event",
+    "Injuries": "9 None",
+    "Analysis": {
+        "Text": "commercial pilot reported taxiing landing instructed ground controller follow truck transient parking flyin car show event taking place time several area ramp occupied show wing walker right wing followed truck moved left taxiway centerline avoid getting close airplane right overhung taxiway airplane clear airplane right pilot advanced throttle left wing impacted light pole resulted substantial damage left wing pilot reported mechanical malfunction anomaly would precluded normal operation airplane probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance light pole taxiing finding personnel issue monitoring environment pilot environmental issue pole contributed outcome",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "wing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

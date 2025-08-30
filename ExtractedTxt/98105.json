@@ -1,0 +1,29 @@
+{
+    "Filename": "98105.txt",
+    "Location": "Phoenix, Arizona",
+    "Accident Number": "WPR18FA229",
+    "Date & Time": "August 20, 2018, 06:45 Local",
+    "Aircraft": "James E Causey Acroduster II",
+    "Registration": "N787WM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "two private pilot board experimental amateurbuilt airplane purchased airplane 2 day accident day sale previous owner provided rearseat accident pilot 25hour familiarization flight stated issue pilot performance suggest accident pilot obtain instruction flight instructor become familiar airplane accident pilot replied didnt time felt comfortable airplane morning accident pilot performed 4 takeoff landing airport traffic pattern uneventful 5th circuit traffic pattern onboard video revealed airplane nose pitched slightly airplane entered left turn onto base leg airplane continued turn left appeared exhibit aerodynamic buffeting airplane rolled right immediately rolled left nose pitched airplane began rapidly descend airplane rolled 90 left bank 90 right bank continued descend noselow attitude rolling left right impacting terrain postaccident examination airplane engine revealed anomaly would precluded normal operation could determined two pilot manipulating flight control time accident personal logbook either pilot available review therefore pilot flight experience recency experience could determined onboard video flight consistent exceedance airplane critical angle attack maneuvering airport traffic pattern resulted aerodynamic stallspin altitude low recovery",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "pilot",
+                9
+            ],
+            [
+                "accident",
+                6
+            ]
+        ]
+    }
+}

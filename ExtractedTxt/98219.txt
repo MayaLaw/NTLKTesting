@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Mount Pleasant, Tennessee
+Accident Number:
+ERA18LA241
+Date & Time:
+September 1, 2018, 17:15 Local 
+Registration:
+N388MA
+Aircraft:
+Diamond DA40
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that, while on a downwind leg of the airport traffic pattern, he reduced the 
+engine power to prepare for landing; however, the engine lost total power. The pilot then advanced the 
+throttle in an unsuccessful attempt to regain power. He subsequently attempted an engine restart to no 
+avail and, at that time, realized that the airplane would not be able to glide to the runway. The pilot 
+performed a forced landing to a field about 1 mile short of the runway threshold, which resulted in 
+substantial damage to the landing gear and empennage. Postaccident examination of the airplane 
+revealed that sufficient fuel remained in the left fuel tank and that the fuel selector was found positioned 
+to the left fuel tank; sufficient fuel also remained in the right fuel tank. Further examination of the 
+engine, fuel system, and ignition system did not reveal any evidence of preimpact mechanical 
+malfunctions or failures that would have precluded normal operation. Although fuel unporting is 
+possible with the amount of fuel that was available in the left tank, it was unlikely based on the 
+airplane's attitude around the time of the loss of engine power. Thus, the reason for the loss of engine 
+power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined because postaccident examination 
+of the airplane did not reveal any evidence of preimpact mechanical malfunctions or failures that would 
+have precluded normal operation.

@@ -1,0 +1,29 @@
+{
+    "Filename": "99286.txt",
+    "Location": "Brookings, Oregon",
+    "Accident Number": "WPR19FA116",
+    "Date & Time": "April 18, 2019, 16:15 Local",
+    "Aircraft": "Vans RV8",
+    "Registration": "N791PF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "witness saw airplane complete touchandgo landing depart toward north another witness saw airplane flying north takeoff shortly thereafter saw flying south pilot returning airport landing airplane made abrupt severe 180 left turn back toward north rolled onto right side several second went straight subsequently impacted terrain postaccident examination engine revealed anomaly would precluded normal operation examination airframe revealed flight control continuity confirmed throughout airplane pilot control control surface exception elevator torque tube fractured observed separated near elevator pitch servo metallurgical examination indicated fracture consistent bending overstress could determined fracture occurred prior impact sequence likely pilot experienced loss control aggressive maneuver low altitude recover probable cause finding national transportation safety board determines probable cause accident pilot failure maintain aircraft control aggressive maneuver resulted nose collision terrain",
+        "Top Words": [
+            [
+                "control",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

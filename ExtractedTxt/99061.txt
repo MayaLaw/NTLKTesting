@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Summersville, Missouri
+Accident Number:
+CEN19FA093
+Date & Time:
+March 5, 2019, 22:04 Local 
+Registration:
+N7369W
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a multileg cross-country flight and had last refueled the airplane with 26.98 
+gallons of fuel about 375 miles from the accident location and about 450 miles from the destination 
+airport. After departure from the last fuel stop, the pilot continued on the final leg of the flight in dark 
+night conditions. Radar data consistent with the accident flight showed the airplane on course about 
+5,000 ft mean sea level for about 4 hours. Just before the end of the radar track, the airplane began 
+descending, then turned north and then southeast. The airplane impacted trees and terrain. The right 
+wing separated and the fuselage was buckled. 
+The wreckage of the airplane was found on wooded, hilly terrain the next morning by a motorist on a 
+nearby road. The airplane impacted the trees and terrain in an attitude, consistent with a forced landing. 
+The dark night conditions likely would have made it difficult for the pilot to see the trees during the 
+landing. 
+Postaccident examination of the airplane revealed that the two fuel tanks were not compromised; the left 
+fuel tank was empty, and the right fuel tank contained only a minimal amount of fuel. Only a trace 
+amount of fuel was found in the fuel lines and fuel pump. The damage to the propeller blades was 
+consistent with little or no engine power at the time of impact. No preimpact mechanical malfunctions or 
+failures with the airframe or engine were noted during the examination, although the emergency locator 
+transmitter was found to be inoperable. 
+The airplane averaged about 94 knots ground speed during the flight, and the entire flight from the fuel 
+stop to the destination airport should have taken about 4 hours 48 minutes at that speed. Although the 
+extent of the pilot’s preflight fuel planning and in-flight fuel monitoring could not be determined, with a 
+fuel burn rate of 10 gallons per hour, there was not enough fuel to complete the planned flight with the 
+required 45-minute night flight fuel reserve. Thus, the pilot’s preflight fuel planning was likely 
+inadequate, and the engine lost power due to fuel exhaustion. 

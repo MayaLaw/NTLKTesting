@@ -1,0 +1,29 @@
+{
+    "Filename": "97316.txt",
+    "Location": "Prescott, Washington",
+    "Accident Number": "GAA18CA296",
+    "Date & Time": "May 16, 2018, 17:00 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N182EW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot taxi loose dirt surface initiated left 180 turn reported using fairly aggressive power setting compensate surface condition left turn right wingtip struck ground additionally propeller struck ground airplane rolled left left wing struck ground airplane sustained substantial damage left wing pilot reported accident could prevented airplane power setting needed conservative power setting slower taxi speed could prevent future occurrence pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot taxiing fast rough terrain resulted loss directional control",
+        "Top Words": [
+            [
+                "left",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

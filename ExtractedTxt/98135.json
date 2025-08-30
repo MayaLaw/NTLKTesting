@@ -1,0 +1,29 @@
+{
+    "Filename": "98135.txt",
+    "Location": "Dansville, New York",
+    "Accident Number": "GAA18CA502",
+    "Date & Time": "August 4, 2018, 14:00 Local",
+    "Aircraft": "WSK PZL MIELEC    M-18A",
+    "Registration": "N851EJ",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Low altitude operation/event",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported performing agricultural application flight corn field tree line running west east north side field another tree line running north south east end field making application pass east west started south side field progressing northward toward tree line pas added noticed wind speed increased 10 12 mph second last spray pas heading west came east end tree line descended close corn 300 ft field airplane began descend rapidly pitched airplane nose added descent continued airplane began lose airspeed landing gear struck corn airplane impacted terrain came rest inverted pilot added believed combination descending air rolled north line tree wind shear lowaltitude flying reduced margin error proper application pesticide caused accident airplane sustained substantial damage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation weather station located 3 mile northeast accident site reported time accident temperature 853f dew point 683f wind 293 6 mph gusting 8 mph probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "field",
+                5
+            ],
+            [
+                "tree",
+                5
+            ]
+        ]
+    }
+}

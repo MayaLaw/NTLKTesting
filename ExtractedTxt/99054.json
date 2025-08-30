@@ -1,0 +1,29 @@
+{
+    "Filename": "99054.txt",
+    "Location": "Fellsmere, Florida",
+    "Accident Number": "ERA19FA116",
+    "Date & Time": "March 5, 2019, 07:03 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N556PU",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of visual reference",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "student pilot scheduled complete solo crosscountry flight day accident flight instructor provided required endorsement flight however flight subsequently cancelled due weather rescheduled following morning pilot arrived airport morning accident released flight operation duty officer responsible confirming student proper endorsement solo flight even though endorsement previous day flight would longer valid also responsible ensuring weather condition along student planned route flight met student prescribed limitation found although departure airport reporting visual flight rule vfr condition destination airport reporting instrument flight rule ifr condition stated airport area tended ifr earlymorning hour due fog quickly improve vfr sunrise signed pilot flight risk assessment could conduct preflight inspection stressed needed check weather takeoff condition still ifr flight needed cancelled time released pilot flight time subsequently departed sunrise weather condition departure airport deteriorated vfr low ifr including cloud ceiling around 400 500 ft ground level airplane likely entered instrument meteorological condition imc immediately takeoff review radar data revealed pilot flew westnorthwest airport made series climbing descending turn airplane impacted terrain around 6 minute takeoff 73 mile northwest airport postaccident examination airplane engine revealed discrepancy would precluded normal operation airplane radar track takeoff suggest immediate loss control upon entering imc however climbing descending turn near end data consistent known effect spatial disorientation morning accident four student departed solo flight three pilot departed accident pilot two pilot stated checked weather flight",
+        "Top Words": [
+            [
+                "flight",
+                15
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "airport",
+                7
+            ]
+        ]
+    }
+}

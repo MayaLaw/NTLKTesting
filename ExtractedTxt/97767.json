@@ -1,0 +1,29 @@
+{
+    "Filename": "97767.txt",
+    "Location": "Palmer, Alaska",
+    "Accident Number": "GAA18CA422",
+    "Date & Time": "July 15, 2018, 16:00 Local",
+    "Aircraft": "Piper PA18S",
+    "Registration": "N3982Z",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll softfield runaway tail started lift maintained aft pressure control stick tail continued lift airplane nosed airplane sustained substantial damage left right wing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added wind 110\u00ba 6 knot airport automated weather observation station reported time accident wind calm pilot landed airplane runway 16 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain pitch control landing roll",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "93931.txt",
+    "Location": "Russian Mission, Alaska",
+    "Accident Number": "ANC16FA061",
+    "Date & Time": "August 31, 2016, 10:01 Local",
+    "Aircraft": "Cessna 208",
+    "Registration": "N752RV",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Scheduled",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Midair collision",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "cessna departed 3 minute prior scheduled passenger flight piper en route remote hunting camp two airplane collided altitude 1760 ft mean sea level remote area day visual meteorological condition airline transport pilot two passenger onboard cessna commercial pilot passenger onboard piper fatally injured airplane destroyed postaccident examination revealed signature consistent cessnas outboard left wing initially impacting piper right wing forward strut level cruise flight examination revealed mechanical malfunction anomaly would precluded normal operation either airplane neither pilot communication air traffic control facility required performance visibility study indicated airplane would remained relatively small slowmoving object pilot window fuselage spanning less 05 field view equivalent diameter penny viewed 7 ft away 10 second collision time would appeared grow size suddenly blossom effect 2 minute collision neither airplane would obscured airplane pilot nominal field view cockpit structure although cessna would appeared close bottom piper right wing near forward edge forward wing strut cessna automatic dependent surveillancebroadcast adsb equipped piper adsb equipped neither airplane equipped cockpit display traffic information cdti cdti data would presented visual information regarding potential conflict pilot beginning 2 minute 39 second auditory information beginning 39 second collision providing adequate time pilot react seeandavoid concept requires pilot look cockpit window identify aircraft decide aircraft collision threat necessary take appropriate action avert collision inherent limitation concept including limitation human visual information processing system pilot task compete requirement scan traffic",
+        "Top Words": [
+            [
+                "pilot",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "would",
+                6
+            ]
+        ]
+    }
+}

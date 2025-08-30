@@ -1,0 +1,29 @@
+{
+    "Filename": "97365.txt",
+    "Location": "Lewiston, Idaho",
+    "Accident Number": "GAA18CA311",
+    "Date & Time": "May 27, 2018, 18:30 Local",
+    "Aircraft": "Maule M5",
+    "Registration": "N5634Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported aligned right edge 80ft wide private grass airstrip short final pilot slipped airplane left right main landing gear contacted tall wheat field bordered runway airplane began veer right added airplane continued right subsequently nosed airplane sustained substantial damage right lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot indicated initiated immediate goaround procedure realized approach normal probable cause finding national transportation safety board determines probable cause accident pilot failure maintain runway centerline subsequent decision perform go around resulted main landing gear contacting tall wheat subsequent loss control",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "right",
+                5
+            ]
+        ]
+    }
+}

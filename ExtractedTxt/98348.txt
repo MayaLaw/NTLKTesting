@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Oscoda, Michigan
+Accident Number:
+CEN18FA387
+Date & Time:
+September 25, 2018, 06:13 Local 
+Registration:
+N241CK
+Aircraft:
+Beech 200
+Aircraft Damage:
+Destroyed
+Defining Event:
+Altitude deviation
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The airline transport pilot of the multiengine airplane was cleared for the VOR approach. The weather at 
+the airport was reported as 400 ft overcast with 4 miles visibility in drizzle. When the airplane failed to 
+arrive at the airport as scheduled, a search was initiated, and the wreckage was located soon thereafter. 
+Radar data indicated that the pilot was provided vectors to intercept the final approach course. The last 
+radar return indicated that the airplane was at 2,200 ft and 8.1 miles from the runway threshold. It 
+impacted terrain 3.5 miles from the runway threshold and left of the final approach course. According to 
+the published approach procedure, the minimum descent altitude was 1,100 feet, which was 466 ft above 
+airport elevation.
+Examination of the wreckage revealed that the airplane had impacted the tops of trees and descended at 
+a 45° angle to ground contact; the airplane was destroyed by a postcrash fire, thus limiting the 
+examination; however, no anomalies were observed that would have precluded normal operation. The 
+landing gear was extended, and approach flaps had been set. Impact and fire damage precluded an 
+examination of the flight and navigation instruments. Autopsy and toxicology of the pilot were not 
+performed; therefore, whether a physiological issue may have contributed to the accident could not be 
+determined. The location of the wreckage indicates that the pilot descended below the minimum descent 
+altitude (MDA) for the approach; however, the reason for the pilot's descent below MDA could not be 
+determined based on the available information.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's&nbsp;descent below minimum descent altitude&nbsp;during the nonprecision 
+instrument approach&nbsp;for reasons that could not be determined based on the available 

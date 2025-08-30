@@ -1,0 +1,29 @@
+{
+    "Filename": "97272.txt",
+    "Location": "Jackson, Wyoming",
+    "Accident Number": "CEN18LA178",
+    "Date & Time": "May 16, 2018, 14:00 Local",
+    "Aircraft": "PEET CHARLES ZENITH CH 701",
+    "Registration": "N44CP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported finished rebuilding airplane conducting local personal flight airplane first flight since accident 5 year earlier returning land grass strip shortly switching right left tank engine began run roughly sputter pilot added airplane high fast approach chose continue landing due engine problem upon landing airplane bounced nosewheel hit ground hard collapsed airplane nosed came rest inverted postaccident engine examination revealed evidence mechanical malfunction failure would precluded normal operation pilot reported airplane adequate amount fuel onboard engine lost power added quick fuel disconnect left wing fuel tank loose flight reconnected fitting speculated air might entered line reconnected fitting led engine sputtering switched tank reason loss engine power could determined based available information probable cause finding national transportation safety board determines probable cause accident total loss engine power undetermined reason pilot failure maintain proper control airplane led hard bounced landing",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

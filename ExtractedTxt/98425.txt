@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hailey, Idaho
+Accident Number:
+GAA19CA005
+Date & Time:
+October 3, 2018, 11:25 Local 
+Registration:
+N180BG
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during takeoff in a crosswind, as the tailwheel lifted off the ground, the airplane 
+veered left. He applied right rudder and hard right brake, but the airplane continued to weathervane. He 
+then applied full brakes and reduced power to idle, and the airplane then departed the runway to the left 
+and skidded sideways on gravel before coming to an abrupt stop.
+The airplane sustained substantial damage to the fuselage and horizontal stabilizer.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation system at the airport reported that, about the time of the accident, 
+the wind was from 220° at 8 knots, gusting to 18 knots. The pilot was departing from runway 31.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during takeoff in gusting crosswind conditions.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97975.txt",
+    "Location": "Lopez Island, Washington",
+    "Accident Number": "WPR18FA210",
+    "Date & Time": "August 2, 2018, 17:05 Local",
+    "Aircraft": "Mooney M20J",
+    "Registration": "N56039",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot flight instructor conducting flight review pilot airplane witness departing nearby airport heard pilot accident airplane make position report traffic pattern saw accident airplane 300 ft ground level initiating left turn base final leg traffic pattern landing airplane started left turn bank angle progressively steepened airplane entered spin disappeared behind tree electric fuel boost pump found inoperative however condition suggested inoperative extended period time accident flight engine would run normally landing using enginedriven fuel pump therefore inoperative electric fuel boost pump contribute accident examination airframe engine reveal evidence preimpact anomaly would precluded normal operation surveillance video near accident location captured audio airplane approached runway audio consistent engine operating landing approach revealed sudden increase engine sound shortly impact witness statement impact signature accident site consistent cross control stall spin subsequent impact tree pilot likely attempting correct approach overshooting runway centerline basetofinal turn private pilot rudder aileron input likely uncoordinated would initiated spin one occupant added power altitude low recovery flight instructor may attempted remediate stall adding power lack oversight approach likely contributed stall entry low concentration ethanol detected pilot cardiac cavity blood however ethanol found fluid less susceptible postmortem production thus reasonable identified ethanol source ingestion contribute accident postmortem evidence moderate severe atherosclerotic disease right",
+        "Top Words": [
+            [
+                "accident",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ]
+        ]
+    }
+}

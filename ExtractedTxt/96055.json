@@ -1,0 +1,29 @@
+{
+    "Filename": "96055.txt",
+    "Location": "Albuquerque, New Mexico",
+    "Accident Number": "GAA17CA547",
+    "Date & Time": "September 21, 2017, 13:00 Local",
+    "Aircraft": "Cessna 180",
+    "Registration": "N180SA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff roll tailwheelequipped airplane tailwheel raised wind gust right lifted right wing pilot overcorrected right aileron control right wing horizontal stabilizer contacted runway surface airplane subsequently veered runway left came stop postaccident examination airplane revealed substantial damage right wing empennage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation automated weather observation system located airport reported 13 minute accident wind 220 10 knot gusting 20 knot 13 minute accident wind 200 8 knot gusting 19 knot pilot landed runway 22 probable cause finding",
+        "Top Words": [
+            [
+                "right",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

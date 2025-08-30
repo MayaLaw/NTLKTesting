@@ -1,0 +1,29 @@
+{
+    "Filename": "97959.txt",
+    "Location": "Bend, Oregon",
+    "Accident Number": "GAA18CA459",
+    "Date & Time": "July 31, 2018, 13:30 Local",
+    "Aircraft": "HERZOG AVIATION CCX-2000",
+    "Registration": "N116PM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped experimental amateurbuilt airplane reported landing roll home airport left main landing gear mlg wheel exited asphalt runway entered gravel bordered runway pilot applied right rudder steer airplane back onto runway point left mlg tire contacted asphalt runway left mlg collapsed left wing struck ground airplane came rest runway airplane sustained substantial damage left wing spar aileron pilot reported left mlg shock absorber shaft sheared lock nut attached rod end believed resulted left mlg collapsing however photograph provided federal aviation administration air safety inspector revealed left mlg failed inward underneath fuselage airplane additionally photograph revealed ground scar asphalt runway left wing could traced runway centerline 90 back runway heading photograph revealed airplane equipped tundra tire would put lot stress landing gear evidence indicates left mlg collapsed pilot attempted steer airplane back onto runway metar airport reported wind time accident variable 3 knot gusting 12 knot pilot landed airplane runway 16",
+        "Top Words": [
+            [
+                "left",
+                10
+            ],
+            [
+                "runway",
+                10
+            ],
+            [
+                "airplane",
+                8
+            ]
+        ]
+    }
+}

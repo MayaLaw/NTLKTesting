@@ -1,0 +1,29 @@
+{
+    "Filename": "98794.txt",
+    "Location": "McClure, Ohio",
+    "Accident Number": "CEN19LA047",
+    "Date & Time": "December 16, 2018, 15:30 Local",
+    "Aircraft": "Rans S12",
+    "Registration": "N3165V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot warmed engine 120f taxiing runway departure personal flight airplane climbing 50 100 ft ground level engine lost partial power ensured throttle control full forward pumped throttle control twice engine speed continued decrease pilot performed offairport landing field airplane stuck power line pole right wing impacted ground accident pilot reported engine low cylinder compression scoring piston cylinder wall also aluminum fragment within cylinder said engine overhauled 1 year purchase airplane previous owner stated fairly certain engine problem accident flight said engine radiator covered cold weather operation believed piston failure due cold seizure according rotax 2stroke maintenance schedule engine minimum coolant temperature 150f given available information likely engine lost partial power due cold seizure cylinderpiston probable cause finding national transportation safety board determines probable cause accident cold seizure cylinderpiston due pilot failure adequately warm engine takeoff resulted loss engine power departure climb",
+        "Top Words": [
+            [
+                "engine",
+                11
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "power",
+                4
+            ]
+        ]
+    }
+}

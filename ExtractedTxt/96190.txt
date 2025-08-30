@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Chino, California
+Accident Number:
+GAA17CA573
+Date & Time:
+September 22, 2017, 10:00 Local 
+Registration:
+N520KS
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Birdstrike
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, while the student pilot was flying on downwind, he noticed a bird 
+approaching the airplane. He added that he took the flight controls from the student and banked left, but 
+the airplane struck the bird. The airplane landed without further incident.
+The airplane sustained substantial damage to the left wing.
+The flight instructor reported that there were no preaccident mechanical failures or malfunctions with 
+the airplane that would have precluded normal operation.
+The Federal Aviation Administration Airport Facility Diagram page for the airport stated, in part: "Birds 
+and wildlife on and invof [in vicinity of] arpt."
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An in-flight collision with a bird while on downwind.
+Findings
+Environmental issues
+Animal(s)/bird(s) - Ability to respond/compensate

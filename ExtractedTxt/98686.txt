@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Ogden, Utah
+Accident Number:
+GAA19CA076
+Date & Time:
+November 21, 2018, 20:30 Local 
+Registration:
+N21621
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, during a night landing, the student pilot relaxed back pressure, and 
+the nose landing gear struck the runway. The airplane bounced, and the instructor took the flight controls 
+and settled the airplane back onto the runway. They then taxied off the runway and did not see anything 
+wrong with the airplane, so they continued two more takeoffs and landings without further incident.
+During the 100-hour inspection the next day, it was observed that the airplane had sustained substantial 
+damage to the fuselage.
+The instructor reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's improper landing flare, which resulted in a bounced landing.

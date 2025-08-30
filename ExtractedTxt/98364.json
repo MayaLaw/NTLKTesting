@@ -1,0 +1,29 @@
+{
+    "Filename": "98364.txt",
+    "Location": "Malad, Idaho",
+    "Accident Number": "WPR18LA275",
+    "Date & Time": "September 26, 2018, 16:50 Local",
+    "Aircraft": "Piper PA-32RT",
+    "Registration": "N24BA",
+    "Flight Conducted Under": "Part 91: General aviation - Ferry",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported realize entered runway taxiway intersection halfway 5000ftlong runway takeoff ground roll airplane speed 60 knot rotation speed realized end runway approaching needed either lift abort takeoff pilot attempted continue takeoff airplane would lift pilot subsequently applied brake try stop however enough runway remaining airplane continued end runway road struck drainage ditch pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation likely pilot utilized full available runway takeoff aborted takeoff sooner runway excursion would occurred probable cause finding national transportation safety board determines probable cause accident pilot failure identify utilizing full runway takeoff delayed decision abort takeoff resulted runway overrun",
+        "Top Words": [
+            [
+                "runway",
+                9
+            ],
+            [
+                "takeoff",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97219.txt",
+    "Location": "Fulton, New York",
+    "Accident Number": "GAA18CA267",
+    "Date & Time": "May 5, 2018, 08:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N7762X",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported practicing landing thought wind becoming gusty increased approach speed added runway threshold reduced throttle felt airplane enter ground effect airplane landed hard bounced landed hard second time student pilot added full power turned carburetor heat airplane landed hard third time nose landing gear collapsed airplane came rest grass next runway airplane sustained substantial damage fuselage student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located airport reported 37 minute accident wind 230 7 knot automated station reported 24 minute accident wind 260 7 knot airplane landed runway 24 probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted hard bounced landing",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97710.txt",
+    "Location": "San Luis Obispo, California",
+    "Accident Number": "GAA18CA396",
+    "Date & Time": "July 8, 2018, 11:26 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N411BP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "according pilot made straightin approach 80 knot full flap final initiated landing flare felt slight sink lift resulted hard landing reported airplane bounced four time bounce increasing height magnitude subsequently taxied airplane nearest intersection unable continue airplane taxiing rough believed nose landing gear tire damaged airplane sustained substantial damage left right fuselage stringer additionally pilot asserted proper trim application could helped prevent accident aborted landing first hard bounce pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted hard landing",
+        "Top Words": [
+            [
+                "landing",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

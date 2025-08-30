@@ -1,0 +1,29 @@
+{
+    "Filename": "97560.txt",
+    "Location": "Detroit, Michigan",
+    "Accident Number": "CEN18FA236",
+    "Date & Time": "June 24, 2018, 19:57 Local",
+    "Aircraft": "Cessna P210N",
+    "Registration": "N3896P",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 Fatal, 1 Serious",
+    "Analysis": {
+        "Text": "pilot approached destination crosscountry flight airplane landing gear fully extend next 7 minute pilot attempted troubleshoot landing gear airport traffic pattern reported tower controller well burnt outta fuel totally bud tower controller immediately cleared pilot land however additional communication pilot final radar return recorded 180 ft ground level mile northwest runway airplane impacted tree electricity service line urban residential area postcrash fire destroyed forward fuselage cockpit landing gear motorpump assembly hydraulic fluid line damaged impact fire precluded comprehensive testing landing gear extensionretraction system landing gear selector handle emergency extension handle destroyed fire nose right main landing gear found fully extended secured respective downlocks left main landing gear found fully retracted wheel well secured uplock small tree branch leaf observed wheel well left landing gear leg fuselage indicating left landing gear partially extended pushed wheel well accident main landing gear moved freely hand retracted extended position without anomaly respective lock assembly secured landing gear designed three landing gear actuator functioned normally hydraulic pressure applied using hand actuated pump extensive impact fire damage landing gear extensionretraction component precluded determination landing gear fully extend flight postaccident engine examination reveal evidence mechanical malfunction would precluded normal operation flight although pilot departed flight enough fuel reach intended destination enough fuel remaining adequately address landing gear malfunction airplane total loss engine power due fuel exhaustion federal regulation stipulate daytime flight visual flight rule depart enough fuel reach intended destination plus least 30",
+        "Top Words": [
+            [
+                "landing",
+                15
+            ],
+            [
+                "gear",
+                15
+            ],
+            [
+                "flight",
+                6
+            ]
+        ]
+    }
+}

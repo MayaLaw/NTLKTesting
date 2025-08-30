@@ -1,0 +1,29 @@
+{
+    "Filename": "97254.txt",
+    "Location": "Atmore, Alabama",
+    "Accident Number": "WPR18LA142",
+    "Date & Time": "May 11, 2018, 12:03 Local",
+    "Aircraft": "Kolb Firestar",
+    "Registration": "N9216E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "noncertificated pilot purchased experimental amateurbuilt airplane 1 year accident accrued 4 hour experience airplane make model wife reported accident flight first actual flight airplane previous activity limited taxiing maneuver airplane intentionally became momentarily airborne traveling runway externally mounted onboard video camera recorded pilot entire 13minute personal flight showed takeoff airplane climbed altitude 500 750 ft ground level 6 minute takeoff airplane began maneuver consistent aerodynamic stall spin airplane first banked turned sharply right nose pitched airplane banked turned sharply left descending rapidly sequence within second airplane struck tree impacted ground fuselage tail boom wing sustained substantial damage examination airplane reveal preimpact mechanical malfunction failure would precluded normal operation pilot indicated total flight time 36 hour accrued 20 year accident pilot limited overall flight experience combined lack recent flight training instruction accident airplane make model likely prevented recognizing avoiding recovering aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "flight",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

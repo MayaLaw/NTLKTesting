@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Independence, Iowa
+Accident Number:
+GAA19CA173
+Date & Time:
+March 15, 2019, 17:30 Local 
+Registration:
+N822GC
+Aircraft:
+Pereira Osprey
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the airplane encountered a significant headwind during the flight and that the 
+engine burned more fuel than he had planned. The fuel was exhausted, which resulted in a loss of all 
+engine power. The pilot subsequently conducted a forced landing, during which the right wing struck the 
+ground.
+The airplane sustained substantial damage to the right wing.
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper fuel planning, which resulted in fuel exhaustion and a total loss of engine power. 
+Findings
+Personnel issues
+Fuel planning - Pilot
+Aircraft
+Fuel - Fluid level

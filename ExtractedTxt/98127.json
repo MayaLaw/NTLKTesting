@@ -1,0 +1,29 @@
+{
+    "Filename": "98127.txt",
+    "Location": "Kaktovik, Alaska",
+    "Accident Number": "ANC18LA066",
+    "Date & Time": "August 21, 2018, 18:30 Local",
+    "Aircraft": "Cessna A185F",
+    "Registration": "N8041R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot maneuvering land riverside gravel beach engine experienced loss power low altitude pilot stated engine surged sure partial loss power attempted restore power advancing throttle mixture propeller control however power restored pilot continued straight ahead turned auxiliary fuel boost pump engine power restored airplane impacted brushcovered terrain resulting substantial damage wreckage recovery crew observed almost fuel one tank little pilot stated fuel leaked low wing fuel vent accident provided photographic evidence precise quantity usable fuel time accident could determined given full fuel tank time departure average fuel flow 13 gallon per hour fuel remaining time accident 17 gallon distributed two wing tank 6 gallon considered unusable review gps data revealed engine experienced power loss pilot performed steep turn survey landing site postaccident examination airplane revealed mechanical malfunction failure would precluded normal operation fuel present fuel system component leading engine engine operated normally test run likely steep turn airplane low fuel state wing fuel tank pickup unported resulted interruption fuel supply engine loss engine power due airplane low altitude pilot unable restore power impact terrain",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "power",
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Ramona, California
+Accident Number:
+WPR17FA063
+Date & Time:
+February 12, 2017, 14:10 Local 
+Registration:
+N2179L
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal, 2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The airplane departed on an instructional flight with a flight instructor in the right front seat, a student 
+pilot in the left front seat, and a passenger in the right rear seat. They completed maneuvers in a practice 
+area, flew to a valley located in mountainous terrain, and performed a simulated engine failure 
+maneuver. The flight instructor and the student pilot provided differing accounts of the events that 
+followed the simulated engine failure maneuver. According to the flight instructor, after performing the 
+simulated engine failure maneuver, the student pilot advanced the throttle to full power and turned east 
+toward rising terrain. The flight instructor reported that the gauges all read normal, but the airplane 
+would not outclimb the approaching terrain. He took over the controls but could not turn left or right due 
+to the rising terrain on both sides of the airplane. According to the instructor, he had no choice but to 
+crash the airplane. 
+According to the student pilot, the flight instructor told him to turn east towards the rising terrain and 
+then took control of the airplane. The student reported that the flight instructor made a comment about 
+demonstrating the airplane's performance, added full power, leaned the mixture, flew straight for 5 
+seconds, and then said an expletive shortly before the airplane crashed into a mountain.
+Flight track data recovered from a personal electronic device onboard the airplane showed that, after the 
+simulated engine failure maneuver, the airplane climbed and turned east entering terrain that rose in 
+front and on both sides of the airplane. The track continued to climb for about 1 minute 5 seconds before 
+reaching the accident site.
+Postaccident examination of the airplane revealed no evidence of any preimpact mechanical 
+malfunctions or failures that would have precluded normal operation. According to the pilot's operating 
+handbook for the airplane, at its maximum gross weight, under standard conditions, with no flaps and 
+full throttle, the airplane was capable of climbing at a maximum rate of 625 ft per minute, at 73 knots 
+indicated airspeed, at 2,000 ft mean sea level (msl). 

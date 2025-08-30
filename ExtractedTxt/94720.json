@@ -1,0 +1,29 @@
+{
+    "Filename": "94720.txt",
+    "Location": "Charlotte, North Carolina",
+    "Accident Number": "DCA17CA064",
+    "Date & Time": "February 15, 2017, 11:42 Local",
+    "Aircraft": "BOMBARDIER INC CL 600 2C10",
+    "Registration": "N709PS",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Wildlife encounter (non-bird)",
+    "Injuries": "48 None",
+    "Analysis": {
+        "Text": "february 15 2017 1142 eastern standard time psa airline flight 5320 bombardier crj700 n709ps struck deer takeoff runway 36c charlotte douglas international airport clt charlotte north carolina airplane sustained substantial damage injury 48 passenger crew onboard flight operating 14 cfr part 121 regularly scheduled passenger flight clt gulfportbiloxi international airport gpt gulfport mississippi according operator airplane struck deer right wing takeoff roll crew continued takeoff declared emergency returning land flight crew conducted low pas runway 36r airport rescue firefighting arff inspect damage arff observed damage right wing reported vapor coming landing runway 36r flight crew elected stop taxiway due fuel leak passenger evacuated bused terminal post flight examination wing found damage substantial damage leading edge slat slat track flap front spar right wing probable cause finding national transportation safety board determines probable cause accident collision deer takeoff",
+        "Top Words": [
+            [
+                "flight",
+                6
+            ],
+            [
+                "damage",
+                5
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

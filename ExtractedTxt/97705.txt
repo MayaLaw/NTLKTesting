@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Gulf Shores, Alabama
+Accident Number:
+ERA18LA186
+Date & Time:
+July 7, 2018, 09:20 Local 
+Registration:
+N294AB
+Aircraft:
+Piper PA34
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+5 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot departed in the twin-engine airplane with an estimated quantity of fuel. While landing 
+at the destination airport, the airplane bounced and the pilot aborted the landing. During the subsequent 
+climb, the left engine surged several times before it lost all power. The pilot attempted to restore left 
+engine power by placing the auxiliary fuel pump switch to "high" and selecting "crossfeed" on the left 
+fuel selector, but restoration of continuous engine power was unsuccessful.
+When the left engine stopped producing power, the stall horn sounded, and the controls "started to 
+buffet." The pilot said that he had "no time" to consult the emergency checklist and considered multiple 
+forced landing areas before he chose to land straight ahead into trees. The airplane came to rest upright 
+with substantial damage to both wings and the fuselage. There was an odor of fuel at the scene, but there 
+was no evidence of fuel or fuel spillage.
+Examination and testing of the engines revealed no pre-impact mechanical anomalies that would have 
+precluded normal operation. The airplane's best single-engine rate of climb given the conditions present 
+at the time of the accident was about 280 ft per minute.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper preflight and in-flight fuel planning, which resulted in fuel exhaustion to 
+the left engine and a total loss of engine power during an attempted go-around maneuver.

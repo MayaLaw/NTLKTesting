@@ -1,0 +1,29 @@
+{
+    "Filename": "98345.txt",
+    "Location": "St. Mary's, Alaska",
+    "Accident Number": "GAA18CA567",
+    "Date & Time": "September 20, 2018, 20:00 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N8192D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing offairport dirt grass landing area ground slippery landing roll airplane struck hole bump airplane rocked side side airplane left wing struck ground pushed caused right wing strike catch ground airplane ground looped right came rest nosedown attitude airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot selection unsuitable offairport landing area resulted ground loop",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "ground",
+                5
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

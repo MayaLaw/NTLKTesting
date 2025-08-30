@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Santa Teresa, New Mexico
+Accident Number:
+CEN18LA383
+Date & Time:
+August 31, 2018, 17:00 Local 
+Registration:
+N747DA
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+6 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and five passengers were departing the airport on an international cross-country flight. The 
+pilot attempted an intersection takeoff in high density altitude conditions over the airplane's maximum 
+gross weight. The airplane would not become airborne, so the pilot back taxied and attempted to take off 
+on the full length of another runway. The airplane lifted off but was not climbing, so the pilot lowered 
+the nose and the airplane hit the runway hard. The airplane veered right and exited the runway surface, 
+which resulted in substantial damage to the wings. The pilot reported that there were no mechanical 
+malfunctions or failures with the airplane or engine that would have precluded normal operation and that 
+he attempted the takeoff in an overweight airplane at a high density altitude. Calculations showed that 
+the airplane's maximum gross takeoff weight was exceeded by at least 300 lbs, and the density altitude 
+was about 6,900 ft. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's decision to attempt to take off in an overweight airplane in high density altitude conditions, 
+which resulted in the airplane's inability to climb, an aborted takeoff, and a subsequent runway 
+excursion.

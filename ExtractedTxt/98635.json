@@ -1,0 +1,29 @@
+{
+    "Filename": "98635.txt",
+    "Location": "KAILUA/KONA, Hawaii",
+    "Accident Number": "GAA19CA059",
+    "Date & Time": "November 13, 2018, 11:30 Local",
+    "Aircraft": "Eugene Wells Dragon Fly-B",
+    "Registration": "N5023G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported approach heavy traffic behind airplane right crosswind added wheel landing tried maintain speed clear runway airplane began fishtail added power regain control airplane exited left side runway left wing impacted ground airplane came rest lava field airplane sustained substantial damage left wing pilot reported accident due pilot error lack experience airplane added tailwheel endorsement total 3 flight hour experience tailwheel airplane flight instructor airport automated weather observation system reported time accident wind 220 9 knot pilot landed airplane runway 17 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing crosswind contributing accident pilot lack experience tailwheel airplane endorsement",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

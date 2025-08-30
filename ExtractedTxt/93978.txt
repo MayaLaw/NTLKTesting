@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Holland, Michigan
+Accident Number:
+CEN16LA363
+Date & Time:
+September 3, 2016, 18:30 Local 
+Registration:
+N4513S
+Aircraft:
+CGS AVIATION HAWK AERO II
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot stated that the experimental light sport airplane experienced a partial loss of engine 
+power during climb after takeoff about 80 to100 ft above ground level. The airplane entered an 
+aerodynamic stall, so the pilot decreased the pitch attitude to recover, but the airplane then impacted 
+power lines. 
+Postaccident examination of the engine revealed numerous items that had not been performed in 
+accordance with the engine manufacturer's maintenance instructions, one of which was the correct 
+installation of a quick release connector in the fuel lines. When the quick release connector was tested, it 
+leaked a substantial amount of air into the fuel system; therefore, it is likely that air entered the fuel 
+system during the flight and resulted in the partial loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The improper installation of quick release connectors in the fuel lines, which was not in 
+accordance with the engine manufacturer's maintenance instructions and allowed air to be 
+introduced into the fuel system and resulted in a partial loss of engine power. Also causal to 
+the accident was the pilot's failure to maintain adequate airspeed and exceedance of the 
+airplane's critical angle of attack, which resulted in an aerodynamic stall and impact with 
+power lines.

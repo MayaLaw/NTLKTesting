@@ -1,0 +1,29 @@
+{
+    "Filename": "99394.txt",
+    "Location": "McCarthy, Alaska",
+    "Accident Number": "GAA19CA251",
+    "Date & Time": "May 3, 2019, 16:30 Local",
+    "Aircraft": "De Havilland DHC2",
+    "Registration": "N456SF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported approach land private gravelcovered airstrip dust cloud obscured threequarters airstrip approach end airstrip remained visible added approach airplane encountered wind shear main landing gear impacted terrain approach end airstrip airplane bounced came rest nose airplane sustained substantial damage landing gear box pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported time accident wind variable 060 120 20 knot gusting 25 knot pilot landed airplane east probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper approach path gusting wind condition resulted airplane landing short airstrip bouncing",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "approach",
+                5
+            ]
+        ]
+    }
+}

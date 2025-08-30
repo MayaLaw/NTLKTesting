@@ -1,0 +1,44 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Daytona Beach, Florida
+Accident Number:
+ERA18FA152
+Date & Time:
+May 22, 2018, 19:30 Local 
+Registration:
+N89864
+Aircraft:
+Cessna 140
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fuel starvation
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and pilot-rated passenger were practicing touch-and-go takeoffs and 
+landings in the tailwheel-equipped airplane. Witnesses reported that, during the third touch-
+and-go, as the airplane was climbing about 200 to 300 ft above ground level near the end of 
+the runway, the engine lost all power and the airplane turned back toward the runway before 
+spiraling to the ground. Examination of the airframe and engine revealed no evidence of any 
+preimpact mechanical malfunctions or abnormalities that would have precluded normal 
+operation. Each of the wing fuel tanks was about 1/4 full at the accident site. The fuel tanks 
+were not breached and about 1 tablespoon of water was found in both tanks. Both the 
+airplane's operations manual and markings on the fuel gauges in the cockpit indicated that the 
+pilot should not take off with less than 1/4 tank of fuel. A warning supplement issued by the 
+airplane manufacturer stated that, in certain flight maneuvers, the fuel may move away from 
+the fuel tank supply outlet. If the outlet is uncovered, fuel flow to the engine may be interrupted 
+and a temporary loss of power may result. It is possible that the pilot initially departed with 
+more than 1/4 tank of fuel; however, after the third touch-and-go landing, the fuel level was at 
+or below 1/4 tank. During the initial climb after the touch and go, the fuel moved away from the 
+fuel supply outlet line and starved the engine of fuel, resulting in a total loss of power. The 
+airplane's position at the time of the loss of engine power did not allow for a suitable off 
+airport landing location. Following the loss of power, it is likely that the pilot attempted to 
+return to the runway and failed to maintain sufficient airspeed during the turn, which resulted in 
+the airplane exceeding its critical angle of attack and entering an aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate fuel planning, which resulted in a total loss of engine power due to fuel 

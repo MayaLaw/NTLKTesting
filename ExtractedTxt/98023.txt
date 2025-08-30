@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Burlington, Washington
+Accident Number:
+WPR18CA213
+Date & Time:
+July 14, 2018, 08:40 Local 
+Registration:
+N5202B
+Aircraft:
+Cessna E162
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that he landed uneventfully and then taxied to the runup area. He called 
+his flight instructor, opened a new flight plan, then taxied to the runway for departure. During the 
+takeoff roll, about the time of rotation, he felt the airplane shudder. Subsequently, he chose to abort the 
+takeoff. During the aborted takeoff, the airplane porpoised, and the nose landing gear collapsed. 
+The airplane sustained substantial damage to the fuselage. 
+The student reported that there were no preimpact mechanical failures or malfunctions with the airframe 
+or engine that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain pitch control during an aborted takeoff. 
+Findings
+Personnel issues
+Aircraft control - Student/instructed pilot
+Aircraft
+Pitch control - Not attained/maintained

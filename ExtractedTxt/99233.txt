@@ -1,0 +1,35 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Santa Fe, New Mexico
+Accident Number:
+WPR19FA106
+Date & Time:
+April 8, 2019, 15:38 Local 
+Registration:
+N118LS
+Aircraft:
+Tecnam P2002
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and student pilot were conducting a touch-and-go landing. Surveillance footage 
+showed that, shortly after takeoff, the airplane appeared to stop climbing. The right wing then dropped 
+and the airplane entered a steep, nose-down attitude and impacted the ground. A postimpact fire ensued.
+Examination of the airframe and engine revealed no anomalies that would have precluded normal 
+operation.
+At the time of the accident, the density altitude was calculated to be about 8,600 ft. Given the available 
+evidence, it is likely that the engine’s performance was degraded by the high density altitude and the 
+airplane’s critical angle of attack was exceeded during the initial climb after takeoff, which resulted in 
+an aerodynamic stall and loss of control.  
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The flight instructor’s failure to maintain adequate airspeed during the initial climb after takeoff, which 
+resulted in an exceedance of the airplane's critical angle of attack, an aerodynamic stall, and loss of 
+control. 

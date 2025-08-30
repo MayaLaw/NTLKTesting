@@ -1,0 +1,29 @@
+{
+    "Filename": "93985.txt",
+    "Location": "Yakutat, Alaska",
+    "Accident Number": "GAA16CA474",
+    "Date & Time": "September 2, 2016, 17:00 Local",
+    "Aircraft": "Cessna 180",
+    "Registration": "N54AF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheel equipped airplane reported landing roll grass field airplane encountered standing water nosed airplane sustained substantial damage left wing right wing strut empennage pilot reported preimpact mechanical failure malfunction airframe engine would precluded normal operation pilot reported safety recommendation conduct thorough prelanding reconnaissance intended landing zone probable cause finding national transportation safety board determines probable cause accident pilot inadequate inspection offairport landing area resulted encounter standing water nose finding personnel issue monitoring environment pilot environmental issue water effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Upland, California
+Accident Number:
+WPR19LA129
+Date & Time:
+May 1, 2019, 10:01 Local 
+Registration:
+N156LZ
+Aircraft:
+STORCH FL-156C
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Shortly after takeoff, the engine lost oil pressure and subsequently lost total power. The pilot 
+maneuvered the airplane to return to the airport, but the airplane touched down in a field and 
+came to rest upright.  
+Postaccident examination of the engine revealed evidence of an oil leak. The leak likely came 
+from the No. 3 cylinder, as the valve cover was loose, with a gap between the cylinder and the 
+valve cover, which was likely the result of an improperly torqued allen screw. The improper 
+torquing likely occurred during the pilot’s recent inspection of the crankcase throughbolts and re-
+installation of the engine’s four valve covers. Eventually, the No. 3 allen screw became loose 
+during the engine run-up and continued to loosen during the taxi, takeoff, and climb phases of 
+flight, which resulted in a loss of engine oil and a subsequent total loss of engine power due to 
+oil starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s improper installation of the No. 3 cylinder valve cover, which resulted in an oil leak, 
+oil starvation, and a subsequent total loss of engine power.   

@@ -1,0 +1,29 @@
+{
+    "Filename": "96891.txt",
+    "Location": "Hastings, Nebraska",
+    "Accident Number": "GAA18CA167",
+    "Date & Time": "March 16, 2018, 07:50 Local",
+    "Aircraft": "Beech C99",
+    "Registration": "N213AV",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according operator director safety landing gusty crosswind condition multi engine turbinepowered airplane bounced airplane touched second time left runway centerline recognizing position far left flight crew attempted goaround however engine almost idle took time spool back without appropriate airspeed airplane continued veer left gust right wing drove left wing ground airplane continued across grass field nose landing gear collapsed airplane slid stop airplane sustained substantial damage fuselage left wing director safety reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located accident airport reported time accident wind 110 21 knot gusting 35 knot pilot landed runway 04 beechcraft airplane flight manual state max demonstrated crosswind 25 knot based stated wind condition calculated crosswind component 19 33 knot probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "left",
+                5
+            ],
+            [
+                "knot",
+                4
+            ]
+        ]
+    }
+}

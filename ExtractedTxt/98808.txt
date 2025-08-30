@@ -1,0 +1,46 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Busan, Other Foreign
+Incident Number:
+ENG19IA008
+Date & Time:
+December 26, 2018,  Local 
+Registration:
+HL8314
+Aircraft:
+Airbus A220
+Aircraft Damage:
+None
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+N/A
+Flight Conducted Under:
+Non-U.S., commercial
+Analysis 
+On December 26, 2018, KoreanAir flight 0753, an Airbus A220-300, registration HL8314, 
+experienced a commanded inflight shutdown of the left (No. 1) engine, a Pratt & Whitney 
+(P&W) PW1521G-3, while climbing through 29,000 feet on a flight from Busan, Korea (PUS) to 
+Nagoya, Japan.  The flight crew reported hearing a loud bang that was followed by vibrations 
+and an engine fire warning.  The flight crew shut down the engine and the airplane returned to 
+PUS without further incident.  The engine was removed from the airplane and shipped to 
+P&W’s Columbus Engine Center, Columbus, Georgia for disassembly and examination.  
+The examination of the engine revealed one low pressure turbine (LPT) stage 3 blade, No. 52, 
+that had a flat, planar, elliptical-shaped fracture surface at the rear half of the blade.  The 
+metallurgical examination of blade No. 52 showed that the grain size and hardness conformed 
+to the requirements for the specified IN-100 nickel alloy.  The energy dispersive spectroscopy 
+(EDS) of blade No. 52 away from the origin of the fatigue crack produced a spectra that was 
+consistent with the requirements for IN-100.  However, the EDS of blade No. 52 at the 
+preexisting intergranular crack and the origin of the fatigue crack produced a spectra that was 
+consistent with IN-100, but also had peaks of zirconium and hafnium.
+Arconic suggested the elevated level of zirconium that was noted in the EDS could be from the 
+zirconia crucible in which the nickel alloy was melted. Since all of the blades from this engine 
+and many others were cast from nickel alloy melted in a zirconia crucible and the Korean Air 
+event was the only IN-100 LPT stage 3 blade fracture, that would suggest the elevated level of 
+zirconium noted in the EDS of LPT stage 3 blade No. 52 was probably not a major factor in the 
+failure of the blade.  Hafnium is not one of the alloying elements in IN-100.  It is however, one 
+of the alloying elements of MAR-M-247, which according to Arconic’s records was the alloy 
+that had been melted in the crucible just prior to it being used to melt the IN-100 nickel alloy 
+to cast the blades that included the LPT stage 3 blade that would become No. 52.  Arconic also 
+suggested that the presence of the hafnium could be from the incomplete cleaning of the 

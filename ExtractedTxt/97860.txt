@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Brazoria, Texas
+Accident Number:
+CEN18LA292
+Date & Time:
+July 23, 2018, 12:15 Local 
+Registration:
+N74420
+Aircraft:
+Grumman AA5
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot and his flight instructor were conducting a local instructional flight when the airplane 
+began to shake violently. A reduction of engine power revealed that the one of the propeller blades had 
+separated about midspan. The flight instructor took control of the airplane and completed an uneventful 
+forced landing in a nearby field. A postaccident examination revealed several fractured engine mounts.
+A laboratory examination of the propeller revealed that about one-half of one blade had fractured. 
+Further examination of the flat portion of the fracture surface revealed a pattern of crack arrest lines and 
+striations that were consistent with fatigue cracking. The pattern of crack arrest lines indicated that the 
+fatigue cracking emanated from the trailing edge tip of the blade. Damage to the fracture surface at the 
+trailing edge tip of the blade obscured the exact initiation point of the fatigue cracking. The propeller 
+had accumulated about 4,499 hours since its last overhaul, and about 11 hours since it was last examined 
+during an annual inspection. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The propeller blade separation due to a fatigue fracture.

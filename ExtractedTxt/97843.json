@@ -1,0 +1,29 @@
+{
+    "Filename": "97843.txt",
+    "Location": "Burnet, Texas",
+    "Accident Number": "WPR18FA201",
+    "Date & Time": "July 21, 2018, 09:15 Local",
+    "Aircraft": "Douglas DC3",
+    "Registration": "N47HL",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "6 Serious, 1 Minor, 6",
+    "Analysis": {
+        "Text": "according copilot takeoff pilot briefed copilot would conduct takeoff planned crosscountry flight pilot flying pilot would pilot monitoring accident flight copilot first takeoff accident airplane near maximum gross weight pilot reported taxied airplane onto runway locked tailwheel place copilot took control 13 second start takeoff roll airplane veered slightly right copilot counteracted left rudder input airplane swerved left shortly pilot took control airplane airplane briefly became airborne pilot stated knew airplane slow tried ease back runway set back subsequently felt shudder stall airplane rolled left impacted ground right main landing gear collapsed left wing struck ground airplane came stop postimpact fire ensued airplane occupant egressed aft left door postaccident examination airplane revealed evidence mechanical malfunction failure flight control tailwheel outboard portion aluminum shear pin within tailwheel strut assembly sheared consistent side load force tailwheel impact sequence copilot obtained pilotincommand type rating checkout accident airplane 2 month 2 week accident respectively copilot conducted two flight accident airplane unit instructor accident instructor reported flight noted copilot directional control issue made lazy input similar small airplane tended go right first seemed overcorrect left leaving control input long added checkout completed copilot could take land without assistance however concern reaction time divergence",
+        "Top Words": [
+            [
+                "airplane",
+                14
+            ],
+            [
+                "copilot",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

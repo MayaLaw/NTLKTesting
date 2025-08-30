@@ -1,0 +1,29 @@
+{
+    "Filename": "97210.txt",
+    "Location": "Las Cruces, New Mexico",
+    "Accident Number": "GAA18CA266",
+    "Date & Time": "May 8, 2018, 09:15 Local",
+    "Aircraft": "DIVEN ROBERT NIEUPORT 17",
+    "Registration": "N315BD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped biplane purpose flight accomplish first test flight experimental amateurbuilt airplane takeoff roll airplane yawed left tail lifted reported airplane became airborne would accelerate airplane remained ground effect exited runway collided rising terrain subsequently nosed airplane sustained substantial damage rudder left main subwings metar airport reported time accident wind 40 4 knot temperature 81f dew point 27f barometric setting 3012 inch mercury airport elevation 4456 ft density altitude 6742 ft pilot used runway 8 pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure attain positive climb rate takeoff highdensity altitude condition resulted collision terrain",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

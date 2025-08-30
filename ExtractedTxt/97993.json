@@ -1,0 +1,29 @@
+{
+    "Filename": "97993.txt",
+    "Location": "Lakewood, New Jersey",
+    "Accident Number": "ERA18LA210",
+    "Date & Time": "August 4, 2018, 12:00 Local",
+    "Aircraft": "Champion 7GCAA",
+    "Registration": "N87000",
+    "Flight Conducted Under": "Part 91: General aviation - Banner tow",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported preflight check ground operation subsequent 2hour bannertowing flight uneventful final approach dropping banner 500 ft ground level agl reduced throttle idle airplane descended towards runway airplane tree height pitched added full throttle preparing drop banner stated engine continued operate produced limited power making abnormal combustion sound verified mixture full rich throttle full forward released banner airplane flying low slow pitched elected land straight ahead airplane impacted small pine tree terrain forward portion fuselage substantially damaged postaccident examination engine revealed evidence preimpact mechanical anomaly would precluded normal engine operation weather condition time accident conducive formation serious carburetor icing glide engine power setting pilot reported approach apply carburetor heat engine produce much power expected attempted increase power dropping banner therefore likely carburetor ice accumulated approach resulted partial loss engine power probable cause finding national transportation safety board determines probable cause accident pilot failure use carburetor heat weather condition conducive carburetor icing resulted partial loss engine power due formation carburetor ice forced landing",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "power",
+                6
+            ],
+            [
+                "carburetor",
+                6
+            ]
+        ]
+    }
+}

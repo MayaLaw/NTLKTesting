@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Friendswood, Texas
+Accident Number:
+CEN18TA330
+Date & Time:
+August 13, 2018, 11:00 Local 
+Registration:
+N42218
+Aircraft:
+Piper J3C
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the personal flight, the commercial pilot completed several uneventful touch-and-go landings at 
+two nearby airports, then returned and landed on the runway with a right crosswind at 9 knots. As the 
+airplane slowed on the runway, it weathervaned into the wind and veered to the right. The pilot was 
+unable to steer with the tailwheel, and the airplane exited the right side of the runway and collided with a 
+tree. 
+A postaccident examination of the airplane revealed that the tailwheel locking mechanism pins were 
+worn and degraded. The locking mechanism could not withstand even a small amount of side pressure; 
+as pressure was applied to the tailwheel, the locking mechanism would unlock and the tailwheel would 
+swivel out of alignment. 
+It is likely that, due to the degraded locking pins, the tailwheel became unlocked before the final landing 
+and was out of alignment during the landing roll, which precluded the pilot from regaining directional 
+control. It is the pilot's responsibility to ensure that the airplane is in a safe condition for flight; in this 
+case, the pilot did not ensure that the tailwheel locking mechanism was in good working condition 
+before he decided to conduct the flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

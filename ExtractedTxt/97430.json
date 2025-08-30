@@ -1,0 +1,29 @@
+{
+    "Filename": "97430.txt",
+    "Location": "Monroe, Wisconsin",
+    "Accident Number": "CEN18FA216",
+    "Date & Time": "June 10, 2018, 12:01 Local",
+    "Aircraft": "Cessna T182T",
+    "Registration": "N1880B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "4 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot conducting personal crosscountry flight upon arrival destination airport air traffic control atc cleared pilot gps approach controller instructed pilot change airport common traffic advisory frequency passing initial approach fix pilot acknowledged point communication received available atc data depicted airplane tracking final approach course radar contact lost less 2 mile runway due routine radar coverage limitation radar contact airplane regained low instrument meteorological condition prevailed cloud ceiling minimum descent altitude approach witness heard airplane immediately accident described sound similar airplane performing aerobatic maneuver subsequently observed fireball opening tree line behind home immediately heard explosion accident site located 12 mile north runway departure threshold postaccident airframe engine examination reveal anomaly consistent preimpact failure malfunction investigation unable determine whether autopilot engaged flight however precise flight track course intercept depicted position data consistent extended portion flight including initial portion approach flown autopilot published missed approach procedure included left turn location accident site relation runway indicated right turn executed missed approach revealed pilot using course guidance autopilot either using autopilot heading mode flying airplane manually based witness description airplane performing aerobatics likely pilot flying airplane manually furthermore probable airplane remained instrument meteorological condition",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "approach",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

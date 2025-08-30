@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Nulato, Alaska
+Accident Number:
+GAA18CA320
+Date & Time:
+June 1, 2018, 23:30 Local 
+Registration:
+N3937M
+Aircraft:
+Piper PA 12
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while landing off airport on an upsloping ridge, the tailwheel-equipped airplane 
+"touched down harder than preferred." He applied full throttle, initiated a go-around, and attempted to 
+turn toward the down-sloping side of the hill. The airplane briefly became airborne, but it then 
+aerodynamically stalled and nosed down into the tundra. 
+The airplane sustained substantial damage to the engine mount. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in a hard landing on upsloping terrain, and his 
+subsequent failure to maintain adequate airspeed and his exceedance of the airplane's critical angle of 
+attack during an attempted go-around, which resulted in an aerodynamic stall.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97463.txt",
+    "Location": "Hillsboro, Texas",
+    "Accident Number": "GAA18CA340",
+    "Date & Time": "June 9, 2018, 12:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N363CK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported touchandgo came fast airplane landed hard bounced added gone around chose ride subsequently airplane porpoised nosewheel collapsed airplane came rest nose runway airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system accident airport reported 5 minute accident wind 180 8 knot 15 minute accident wind 170 8 knot gusting 15 knot pilot landed runway 16 probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted bounced landing subsequent porpoise",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

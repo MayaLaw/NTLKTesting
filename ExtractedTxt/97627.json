@@ -1,0 +1,29 @@
+{
+    "Filename": "97627.txt",
+    "Location": "Salt Lake City, Utah",
+    "Accident Number": "ANC18LA049",
+    "Date & Time": "June 26, 2018, 08:50 Local",
+    "Aircraft": "LEARJET INC 60",
+    "Registration": "N57",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Non-scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported taxiing runway departure nose wheel steering seemed unusually sensitive airplane pulled slightly right neared runway threshold smelled thought overheated brake crew confirmed position parking brake handle fully stowed handle completely stowed parking brake position airplane moved freely crew cancelled takeoff clearance taxied airplane runup area allow brake cool shortly thereafter control tower notified flight crew airplane fire examination airplane revealed substantial damage underside fuselage right wing due fire originated right main landing gear detailed examination airplane brake system revealed preaccident mechanical failure malfunction would precluded normal operation review cockpit voice recorder information confirmed crew completely release parking brake taxi probable cause finding national transportation safety board determines probable cause accident flight crew failure fully disengage parking brake taxi resulted brake fire",
+        "Top Words": [
+            [
+                "brake",
+                8
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "crew",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98792.txt",
+    "Location": "Sedona, Arizona",
+    "Accident Number": "GAA19CA102",
+    "Date & Time": "December 19, 2018, 15:30 Local",
+    "Aircraft": "Beech 36",
+    "Registration": "N636M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported flying recently purchased airplane initial climb front right cockpit door opened decided condition unsafe entered left downwind land approach end runway rising terrain airplane high fast 200 ft ground level decided abort landing engine sputtered continued landing airplane overran runway collided fence airplane sustained substantial damage left wing elevator pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper airspeed landing resulted airplane landing fast far runway safely stop",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

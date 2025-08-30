@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Fredericksburg, Virginia
+Accident Number:
+ERA19FA066
+Date & Time:
+December 14, 2018, 07:40 Local 
+Registration:
+N350FT
+Aircraft:
+Eipper Quicksilver
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was operating an experimental amateur-built airplane on a personal flight in the 
+airport traffic pattern. Video and audio recovered from an airframe-mounted camera, along with track 
+data recorded by two onboard GPS receivers, revealed that, during the initial climb, the throttle was 
+reduced, and then increased back to climb engine power for the upwind and crosswind legs of the traffic 
+pattern. As the airplane turned toward the downwind leg at an altitude of about 300 feet, the throttle was 
+reduced, increased briefly, and then was reduced again to what sounded consistent with an idle setting. 
+The video and GPS track data showed that rather than aligning with the downwind leg of the traffic 
+pattern, the airplane continued in a tightening, steepening, left turn with the engine at idle power. The 
+airplane's last GPS-recorded position was over the accident site. The GPS data also showed that the 
+airplane's groundspeed during the turn was near the airplane's published/placarded stall speeds. Just 
+before ground impact, the video camera recorded a "pop" sound consistent with activation of the 
+airplane's ballistic recovery system parachute. Postaccident examination of the airframe and engine 
+revealed no preimpact mechanical anomalies that would have precluded normal operation.
+The pilot had purchased the airplane about 3 months before the accident. At the time of purchase, the 
+airplane had an open-cockpit, tubular-framed configuration. The pilot subsequently enclosed the open 
+cockpit using PVC tubing, sheets of plexiglass, and zip ties. The investigation could not determine 
+whether the cockpit modifications affected the handling and stall characteristics of the airplane. These 
+modifications notwithstanding, the GPS data showed that the airplane was operating at or near its stall 
+speed, had entered a tight left turn, and had likely encountered an aerodynamic stall before it descended 
+to ground impact.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack, which led to an aerodynamic 
+stall while turning in the traffic pattern at low altitude.

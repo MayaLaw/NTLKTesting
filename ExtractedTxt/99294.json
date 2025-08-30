@@ -1,0 +1,29 @@
+{
+    "Filename": "99294.txt",
+    "Location": "Norco, California",
+    "Accident Number": "WPR19FA118",
+    "Date & Time": "April 22, 2019, 12:09 Local",
+    "Aircraft": "Northrop N9M",
+    "Registration": "N9MB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting local postmaintenance test flight following completion airplane annual inspection radar information showed airplane flying roughly easterly heading accident however altitude information captured multiple witness located adjacent accident site reported observing airplane flying low altitude pitched upward banked left abruptly banking right nosediving toward ground one witness stated right roll continued rpm engine increased quickly airplane entered diving right corkscrew turn descended sight video provided witness near accident site capture airplane capture sound modulating engine noise impact likely result inflight loss control wreckage impact signature consistent nearvertical high speed impact terrain major structural component airplane accounted examination accident site recovered wreckage evidence preexisting mechanical malfunction observed airframe engine propeller however extent damage sustained accident sequence precluded functional testing flight control system associated hydraulics engine system location canopy located within debris path unlatched seat restraint suggest pilot wearing parachute may initiated egress following loss control likely sufficient altitude impact occurred although toxicology revealed presence ethanol pilot muscle tissue likely detected ethanol may source ingestion additional testing secondary laboratory found unspecified amount ethanol pseudoephedrineephedrine unlikely ethanol medication use contributed accident likely pilot experienced inflight loss control however given significant fragmentation wreckage reason loss control could determined available information",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "accident",
+                6
+            ],
+            [
+                "control",
+                5
+            ]
+        ]
+    }
+}

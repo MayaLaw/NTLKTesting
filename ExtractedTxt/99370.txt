@@ -1,0 +1,40 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Anderson, Indiana
+Accident Number:
+CEN19FA135
+Date & Time:
+May 5, 2019, 08:30 Local 
+Registration:
+N999CR
+Aircraft:
+Piper PA34
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot planned to ferry the twin-engine airplane to another airport for the annual maintenance 
+inspection. Several witnesses saw the airplane's departure. Two of the witness reported that the airplane 
+engines didn't sound "normal".  Several witnesses reported that the airplane appeared to pitch up, before 
+stalling. 
+A video from the airport's security camera revealed that the airplane appeared to climb steeply; the 
+airplane's wings rocked back-and-forth, and the airplane disappeared out of view. When the airplane 
+reappeared in the camera's view, the airplane was in a descent with the left wing low. The airplane 
+collided with terrain and the airplane cabin area was largely destroyed by the impact. 
+Examination of the airplane found the stabilator trim actuator screw was near its maximum nose up 
+setting.  The left engine was removed from the airframe and tested in the engine manufacturers test cell. 
+The engine test run reveled the engine did not produce full rated horsepower and on occasions produced 
+black exhaust which was indicative of a rich fuel air mixture. The fuel servo was replaced with a new 
+unit and the engine was able to produce rated horsepower. Further examination of the original fuel servo 
+showed that the control linkage (rod and link assembly), was installed incorrectly.  
+The accident is consistent with loss of power on the left engine due to an incorrectly installed fuel servo 
+and an excessive nose up trim setting, which resulted in steep climb angle, a loss of airspeed, and an 
+aerodynamic stall.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

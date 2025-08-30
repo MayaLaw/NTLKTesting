@@ -1,0 +1,42 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Whittier, Alaska
+Accident Number:
+ANC18FA036
+Date & Time:
+May 12, 2018, 09:40 Local 
+Registration:
+N7061W
+Aircraft:
+Piper PA-28-180
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot departed on a solo cross-country flight through mountainous terrain. The airplane was 
+subsequently found on the side of a steep, snow-covered mountain near a well-known, charted mountain 
+pass. Detailed radar data were not available, and the airplane's GPS data did not include the end of the 
+flight; therefore, the exact flight track could not be determined. 
+The damage to the airplane and the debris field were consistent with a high-speed impact into deep snow 
+in a relatively wings-level attitude on a heading toward the destination. Examination of the airframe, 
+engine, and associated systems revealed no evidence of mechanical malfunctions or failures that would 
+have precluded normal operation.
+Aviation weather camera images near the time and location of the accident indicated an overcast layer of 
+clouds obscuring the mountain tops, and two pilots reported low ceilings and obscured mountains in the 
+area. Forecast weather products that would have been available to the pilot before the flight indicated 
+visual flight rules (VFR) conditions at the departure airport and marginal VFR conditions from the 
+mountain pass to the destination. There was no record that the pilot obtained a weather briefing for the 
+intended route of flight. 
+The pilot's flight logbook and current flight instructor(s) were not located or identified; therefore, 
+whether the pilot had adequate training or had been endorsed by an instructor to complete the solo flight 
+could not be determined. 
+Given the reported and documented weather conditions in the area about the time of the accident, it is 
+likely that the pilot encountered and chose to continue through restricted visibility conditions as he 
+navigated through the mountain pass, which resulted in controlled flight into terrain. 
+ 

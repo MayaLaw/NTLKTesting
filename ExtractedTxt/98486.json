@@ -1,0 +1,29 @@
+{
+    "Filename": "98486.txt",
+    "Location": "Hampton, Georgia",
+    "Accident Number": "GAA19CA021",
+    "Date & Time": "October 9, 2018, 16:35 Local",
+    "Aircraft": "Aviat S",
+    "Registration": "N126BB",
+    "Flight Conducted Under": "Part 91: General aviation - Other work use",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "biplane pilot reported performing reconnaissance flight determine viability landing biplane infield section racing track upcoming airshow made several pass saw power wire added approach proposed landing area biplane struck power wire pilot aborted approach performed quick controllability check decided land nearby airport pilot landed biplane without incident airplane sustained substantial damage left aileron pilot reported preaccident mechanical failure malfunction biplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure see avoid power wire approach",
+        "Top Words": [
+            [
+                "biplane",
+                5
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

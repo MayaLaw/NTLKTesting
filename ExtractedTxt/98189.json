@@ -1,0 +1,29 @@
+{
+    "Filename": "98189.txt",
+    "Location": "Wasilla, Alaska",
+    "Accident Number": "ANC18CA068",
+    "Date & Time": "August 25, 2018, 14:10 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N5392Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported landing roll private grass airstrip left main landing gear wheel became caught ditch obscured long grass along edge runway subsequently lost directional control airplane rolled ditch nosed resulted substantial damage wing vertical stabilizer rudder pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll left main landing gear wheel got caught ditch resulted subsequent noseover finding personnel issue aircraft control pilot aircraft directional control attainedmaintained environmental issue slopeduneven terrain effect operation",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "control",
+                4
+            ]
+        ]
+    }
+}

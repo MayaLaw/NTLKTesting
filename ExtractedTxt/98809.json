@@ -1,0 +1,29 @@
+{
+    "Filename": "98809.txt",
+    "Location": "Chesaning, Michigan",
+    "Accident Number": "CEN19LA050",
+    "Date & Time": "December 29, 2018, 10:23 Local",
+    "Aircraft": "Cessna R172K",
+    "Registration": "N1095V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot departed personal flight 10 minute accident according witness pilot conducting touchandgo landing airport engine cut airplane went straight two witness described steep bank sharp turn airplane descended steep angle impacted ground building pilot fatally injured ground scar accident site damage airplane consistent leftwinglow attitude engine operating high power time impact airplane steep bank descent steep angle consistent loss control examination airplane engine revealed mechanical malfunction failure would precluded normal operation toxicology testing revealed pilot using combination phenobarbital phenytoin time accident although drug cause various impairing symptom type impairment drug cause unlikely lead sudden loss control drug used prevent seizure patient epilepsy although seizure neurologic event causing sudden incapacitation could occurred without leaving autopsy evidence enough available information indicate pilot increased risk event thus investigation could determine based available information whether pilot loss airplane control related medical issue probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

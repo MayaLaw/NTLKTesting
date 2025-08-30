@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Chelan Falls, Washington
+Accident Number:
+GAA18CA443
+Date & Time:
+July 22, 2018, 07:30 Local 
+Registration:
+N825PW
+Aircraft:
+Just JA30 SUPERSTOL
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing area undershoot
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, as he made the approach over a river to land at his private airstrip, he "came in 
+too low and hit a dock." The airplane's propeller struck the dock, and the landing gear separated from the 
+airplane, which then slid about 25 ft and came to a stop. 
+The airplane sustained substantial damage to the engine mounts.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper approach over a river, which resulted in a collision with a dock.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Descent/approach/glide path - Not attained/maintained
+Environmental issues
+(general) - Effect on operation

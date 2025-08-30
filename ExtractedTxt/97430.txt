@@ -1,0 +1,45 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Monroe, Wisconsin
+Accident Number:
+CEN18FA216
+Date & Time:
+June 10, 2018, 12:01 Local 
+Registration:
+N1880B
+Aircraft:
+Cessna T182T
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+4 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot was conducting a personal, cross-country flight. Upon arrival at the destination 
+airport, air traffic control (ATC) cleared the pilot for a GPS approach. The controller instructed the pilot 
+to change to the airport common traffic advisory frequency after passing the initial approach fix. The 
+pilot acknowledged, after which point no further communications were received. The available ATC 
+data depicted the airplane tracking the final approach course until radar contact was lost less than 2 
+miles from the runway due to routine radar coverage limitations. Radar contact with the airplane was not 
+regained. Low instrument meteorological conditions prevailed, and the cloud ceiling was below the 
+minimum descent altitude for the approach. 
+A witness heard the airplane immediately before the accident and described the sound as similar to an 
+airplane performing aerobatic maneuvers. She subsequently observed a "fireball" through an opening in 
+the tree line behind her home and immediately heard an explosion. The accident site was located about 
+1/2 mile north of the runway departure threshold. 
+Postaccident airframe and engine examinations did not reveal any anomalies consistent with a preimpact 
+failure or malfunction.
+The investigation was unable to determine whether the autopilot was engaged during the flight. 
+However, the precise flight track and course intercepts depicted by the position data are consistent with 
+extended portions of the flight, including the initial portion of the approach, being flown by the 
+autopilot. While the published missed approach procedure included a left turn, the location of the 
+accident site in relation to the runway indicated that a right turn was executed during the missed 
+approach. This revealed that the pilot was not using the course guidance from the autopilot and was 
+either using the autopilot in heading mode or was flying the airplane manually. Based on the witness 
+description of an airplane performing aerobatics, it is likely that the pilot was flying the airplane 
+manually.
+Furthermore, it is probable that the airplane remained in instrument meteorological conditions during the 

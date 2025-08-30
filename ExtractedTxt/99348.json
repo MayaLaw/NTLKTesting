@@ -1,0 +1,29 @@
+{
+    "Filename": "99348.txt",
+    "Location": "Prairieville, Louisiana",
+    "Accident Number": "CEN19LA132",
+    "Date & Time": "April 3, 2019, 10:00 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N41AT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting airplane first flight following annual inspection 5 minute takeoff engine started run rough seized pilot performed forced landing sustained serious injury postaccident examination revealed engine oil drain valve damaged nose landing gear contacted valve gear retraction takeoff resulted loss engine oil subsequent engine failure due oil starvation examination revealed installed drain valve meet manufacturer specification installed valve protruded 118 inch engine manufacturerspecified valve protruded 12 inch review airplane maintenance record revealed valve replaced annual inspection leaking airframe manufacturer previously issued service bulletin regarding installation incorrect engine oil drain valve federal aviation administration subsequently issued airworthiness directive requiring replacement incorrectly installed valve placement warning placard engine mount airplane maintenance manual also included cautionary note regarding engine oil drain valve noted requirement warning placard warning placard present accident airplane probable cause finding national transportation safety board determines probable cause accident installation incorrect engine oil drain valve resulted damage valve",
+        "Top Words": [
+            [
+                "valve",
+                11
+            ],
+            [
+                "engine",
+                9
+            ],
+            [
+                "oil",
+                6
+            ]
+        ]
+    }
+}

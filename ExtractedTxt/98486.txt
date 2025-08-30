@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hampton, Georgia
+Accident Number:
+GAA19CA021
+Date & Time:
+October 9, 2018, 16:35 Local 
+Registration:
+N126BB
+Aircraft:
+Aviat S
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The biplane pilot reported that, while performing a reconnaissance flight to determine the viability of 
+landing the biplane on the infield section of the racing track for an upcoming airshow, he made several 
+passes and saw no power wires. He added that, during an approach to the proposed landing area, the 
+biplane struck a power wire. The pilot aborted the approach, performed a quick controllability check, 
+and decided to land at a nearby airport. The pilot landed the biplane without further incident.
+The airplane sustained substantial damage to the left ailerons.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the biplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to see and avoid power wires during approach.

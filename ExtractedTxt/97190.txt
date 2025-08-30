@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Tamiami, Florida
+Accident Number:
+WPR18LA135
+Date & Time:
+May 3, 2018, 22:41 Local 
+Registration:
+N6198Q
+Aircraft:
+Cessna 152
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The non-instrumented-rated pilot and pilot-rated passenger, who also did not hold an instrument rating, 
+departed on a local flight and were expected to return before dark; however, they flew to another airport, 
+where they refueled and departed on the return flight in night conditions. While en route, the airplane 
+encountered instrument meteorological conditions and the pilot lost control of the airplane, which 
+subsequently impacted terrain.
+Examination of the airframe and engine revealed no anomalies that would have precluded normal 
+operation. The operator reported that company policy stated that pilots were prohibited from flying at 
+night without explicit permission from the chief or assistant chief pilot; the accident pilots did not obtain 
+such approval. Whether the pilot obtained weather information before departing on the flight was not 
+determined. Although the restricted visibility conditions were conducive to the development of spatial 
+disorientation, there was insufficient evidence to determine whether it played a role in the sequence of 
+events. The circumstances of the accident are consistent with a loss of control in instrument 
+meteorological conditions.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The non-instrument-rated pilot’s loss of control during an encounter with instrument meteorological 
+conditions at night. Contributing to the accident was the pilot's decision to depart on the flight without 
+obtaining approval to fly at night in accordance with company policy.

@@ -1,0 +1,29 @@
+{
+    "Filename": "99354.txt",
+    "Location": "Winston Salem, North Carolina",
+    "Accident Number": "GAA19CA235",
+    "Date & Time": "April 27, 2019, 16:30 Local",
+    "Aircraft": "Bakeng BAKENG DEUCE",
+    "Registration": "N19RG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported threepoint landing landing roll airplane veered right ground looped right wing impacted ground airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing resulted ground loop finding aircraft directional control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

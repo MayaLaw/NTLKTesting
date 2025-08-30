@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bend, Oregon
+Accident Number:
+GAA19CA111
+Date & Time:
+December 29, 2018, 14:36 Local 
+Registration:
+N7757C
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 Minor, 3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during touchdown with the flaps extended, he 
+heard the stall warning horn. Immediately following touchdown, a wind gust caused the airplane to 
+balloon about 10 ft and drift left. The pilot applied power to go around; however, the airplane continued 
+to drift and subsequently impacted the ground. 
+The airplane sustained substantial damage to the fuselage and both wings.
+The pilot reported that there were no preimpact mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+At the time of the accident, the pilot was landing the airplane on runway 16 with a crosswind from 250° 
+at 16 knots, gusting to 28 knots.
+The pilot recommended less flaps and more airspeed when landing in a crosswind. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control in gusting crosswind conditions.

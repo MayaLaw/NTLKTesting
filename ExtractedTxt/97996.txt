@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Dallas, Texas
+Accident Number:
+CEN18LA315
+Date & Time:
+August 3, 2018, 08:15 Local 
+Registration:
+N2546B
+Aircraft:
+COLUMBIA AIRCRAFT MFG LC41-
+550FG
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was taxiing to the ramp after an uneventful landing when the airplane did not respond 
+to his application of brakes. The airplane subsequently departed the taxiway and entered a grass median, 
+where the right wing impacted a lighted taxiway sign. The airplane was not equipped with nosewheel 
+steering and relied on differential brake input to steer the airplane while on the ground. A postaccident 
+examination noted that the brake pads for both main landing gear were worn excessively, which allowed 
+brake fluid to leak past their respective O-ring seals when the brake pedals were depressed. 
+Additionally, the right main tire was deflated and exhibited rotational scoring where the wheel rim had 
+contacted the tire. It is likely that the right main tire deflated during taxi and the pilot was unable to 
+adequately maintain directional control due to the excessively worn brake pads.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inability to maintain directional control during taxi due to excessively worn brake pads and a 
+deflated right main tire.

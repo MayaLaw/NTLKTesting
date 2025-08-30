@@ -1,0 +1,37 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Austin, Arkansas
+Accident Number:
+CEN18FA389
+Date & Time:
+September 26, 2018, 14:42 Local 
+Registration:
+N534MM
+Aircraft:
+Vans RV 4
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a local personal flight to fly over his home; it was the pilot's first flight in the 
+airplane without a flight instructor. According to radar data, the airplane started to descend and the 
+ground speed increased from about 100 knots to about 145 knots just before the airplane flew over the 
+pilot's home. according to a witness, the airplane approached the house and the right wing tipped up, the 
+airplane climbed briefly, and then the airplane rolled inverted, descended, and impacted terrain. 
+Postaccident examination of the airplane and engine revealed no evidence of mechanical malfunctions 
+or anomalies that would have precluded normal operations. The description of the flight sequence is 
+consistent with an accelerated stall when the airplane entered into a left bank as the pilot flew over his 
+home. 
+The pilot had completed a total of 10 hours of instruction in the accident airplane. According to the 
+pilot's flight instructor, most of the pilot's training time consisted of takeoffs and landings and minimal 
+time was spent training maneuvers and performance characteristics.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airplane control while maneuvering which resulted in the airplane 
+exceeding its critical angle of attack and an accelerated stall. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "96190.txt",
+    "Location": "Chino, California",
+    "Accident Number": "GAA17CA573",
+    "Date & Time": "September 22, 2017, 10:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N520KS",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Birdstrike",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "flight instructor reported student pilot flying downwind noticed bird approaching airplane added took flight control student banked left airplane struck bird airplane landed without incident airplane sustained substantial damage left wing flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration airport facility diagram page airport stated part bird wildlife invof vicinity arpt probable cause finding national transportation safety board determines probable cause accident inflight collision bird downwind finding environmental issue animalsbirds ability respondcompensate",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "bird",
+                4
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

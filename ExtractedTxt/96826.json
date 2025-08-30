@@ -1,0 +1,29 @@
+{
+    "Filename": "96826.txt",
+    "Location": "Edgewater, Florida",
+    "Accident Number": "ERA18LA096",
+    "Date & Time": "March 6, 2018, 10:05 Local",
+    "Aircraft": "Piper PA 28",
+    "Registration": "N6764W",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "2 Serious",
+    "Analysis": {
+        "Text": "flight instructor student pilot practicing pattern work airport due injury recall event accident witness reported landing accident airplane low final leg traffic pattern appeared increased engine power clear tree line continued approach witness observe accident sequence examination accident site wreckage revealed airplane struck tree impacting ground 750 ft runway examination airplane revealed evidence preimpact mechanical malfunction failure would precluded normal engine operation given available information likely flight instructor allowed airplane descend normal approach path runway seen previous approach resulted collision tree terrain probable cause finding national transportation safety board determines probable cause accident flight instructor failure maintain appropriate glidepath runway resulted collision tree terrain final approach",
+        "Top Words": [
+            [
+                "accident",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "tree",
+                4
+            ]
+        ]
+    }
+}

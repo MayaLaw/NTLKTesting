@@ -1,0 +1,29 @@
+{
+    "Filename": "99021.txt",
+    "Location": "Springfield, Illinois",
+    "Accident Number": "GAA19CA149",
+    "Date & Time": "February 24, 2019, 14:00 Local",
+    "Aircraft": "Zenair ZENITH STOL CH 701",
+    "Registration": "N8436S",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing taxiing gusting wind condition airplane flipped came rest inverted added minute airplane righted flipped airplane sustained substantial damage empennage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation system reported time accident wind 270 27 knot gusting 41 knot probable cause finding national transportation safety board determines probable cause accident pilot improper crosswind correction taxi operation gusting crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

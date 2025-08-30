@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Cleveland, Texas
+Accident Number:
+GAA19CA019
+Date & Time:
+October 5, 2018, 12:00 Local 
+Registration:
+N36268
+Aircraft:
+Champion 7ECA
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while landing on a private grass airstrip in a crosswind, a wind gust from the 
+right made the tailwheel-equipped airplane weathervane into the wind. He added that, while correcting 
+for the crosswind, the airplane drifted left, and the left main landing gear sunk into soft ground. The 
+airplane then pivoted left, the right main landing gear exited the runway, and the airplane nosed over.
+The airplane sustained substantial damage to the right wing, right wing spar, and left wing lift strut. 
+The pilot reported that the wind was variable at 10 knots, gusting to 15 knots.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control while landing in a gusting crosswind conditions. 

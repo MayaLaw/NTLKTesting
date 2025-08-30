@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Falcon, Colorado
+Accident Number:
+CEN18LA348
+Date & Time:
+August 23, 2018, 12:54 Local 
+Registration:
+N2880W
+Aircraft:
+Piper PA32R
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and the passenger planned to depart on a cross-country personal flight; the density 
+altitude was about 9,500 ft mean sea level. During the pretakeoff engine run-up, the engine began 
+running roughly. The pilot and a mechanic attempted to troubleshoot the engine issue by checking the 
+dual magneto. According to the mechanic, the left magneto was inoperative and the P-leads were wired 
+incorrectly; he then disconnected both magnetos' P-leads. The pilot's second and third engine run-ups 
+appeared to produce full engine power when he adjusted the fuel mixture; however with an inoperative 
+left magneto it is unlikely that full power was achieved. The pilot departed and was unable to maintain 
+altitude and chose to land in a field adjacent to the airport; the airplane stalled just above the ground and 
+then impacted the ground. 
+During a postaccident examination of the airplane, the left magneto was removed and tested; the left 
+magneto did not produce a spark at any terminal, and the contact points did not open. In addition, the 
+spark plugs connected to the left magneto did not exhibit signs of recent operation, which was consistent 
+with an inoperative magneto. The disconnected P-leads would not have affected the right magneto's 
+ability to energize half of the spark plugs. With an inoperative left magneto and a high density altitude, 
+the available engine power would have been reduced, and the airplane's climb performance would have 
+been degraded. The reduction in the available engine power, combined with the high-density altitude at 
+the time of takeoff, resulted in the airplane's inability to maintain a positive rate of climb after lifting off.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's decision to depart with an inoperative left magneto, which resulted in degraded climb 
+performance in high-density altitude conditions and a subsequent emergency landing. 

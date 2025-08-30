@@ -1,0 +1,44 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Los Angeles, California
+Accident Number:
+DCA17CA195
+Date & Time:
+September 12, 2017, 13:10 Local 
+Registration:
+N69813
+Aircraft:
+Boeing 737-924ER
+Aircraft Damage:
+Minor
+Defining Event:
+Ground collision
+Injuries:
+140 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+On September 12, 2017, at 1310 pacific daylight time, United Airlines flight 447, a Boeing 737, 
+N69813, collided with Air Canada flight 785, a Boeing 767, C-GHOZ, while taxiing on taxiway C near 
+gate 69B at the Los Angeles International Airport (LAX), Los Angeles, California.  Both aircraft were 
+regularly scheduled passenger flights and there were no injuries aboard either airplane.  The right 
+winglet of the B737 had minor damage and the right horizontal stabilizer of the B767 was substantially 
+damaged.
+The B767 was being marshaled onto gate 69B and was instructed to stop approximately 15 feet short of 
+the stop line because it is normally a tow-in gate.  The flight crew shut down the engines and awaited the 
+ground crew to hook up the tow bar.  There are white lines painted around each gate area to aid ground 
+vehicles driving on the ramp.  The B767 tail protruded beyond the white lines perpendicular to, and 
+adjacent to, taxiway C.  
+The B737 was taxiing out for departure via taxiway C in accordance with ATC instructions.  The captain 
+reported that he saw the B767 and maneuvered left of centerline for more clearance.  He asked the first 
+officer (FO), who was heads down making FMS entries, to look and verify if they had enough 
+clearance.  The FO reported he saw that the B767 was hooked up to the tug but wasn't sure if it was 
+being towed.  He judged that there was about 5 feet of clearance.  He said he saw no action by the 
+marshallers indicating they thought the airplanes were too close.
+As the airplane continued taxiing, the right winglet of the B737 contacted the horizontal stabilizer of the 
+B767. The flight crew reported that they did not feel an impact but were told by ATC that the collision 
+had occurred.  The B737 returned to the gate and deplaned passengers normally.  The B767 was towed 
+into the gate and deplaned passengers normally.
+Surveillance video from Gate 69B was obtained and captured the event.  The B737 nosewheel was 
+tracking along the yellow centerline of taxiway C.

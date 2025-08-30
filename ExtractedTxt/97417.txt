@@ -1,0 +1,34 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Arlington, Washington
+Accident Number:
+GAA18CA328
+Date & Time:
+June 7, 2018, 11:30 Local 
+Registration:
+N3202H
+Aircraft:
+Bellanca 7GCBC
+Aircraft Damage:
+Substantial
+Defining Event:
+Nose over/nose down
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the landing roll, he applied the brakes too hard, and the tailwheel-
+equipped airplane nosed down.
+The airplane sustained substantial damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's overapplication of the brakes during the landing roll, which resulted in a nose-over.
+Findings
+Aircraft
+Brake - Incorrect use/operation
+Personnel issues
+Aircraft control - Pilot

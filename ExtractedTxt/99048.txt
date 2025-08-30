@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Scottsdale, Arizona
+Accident Number:
+GAA19CA162
+Date & Time:
+March 2, 2019, 13:00 Local 
+Registration:
+N9404F
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that, during the landing roll of a touch-and-go landing, the airplane began 
+to veer off the runway, so he added power for a go-around. During the go-around, he saw that the left 
+main landing (MLG) gear strut was bent and that the tire was "missing." He told the tower controller 
+that he must have hit something and was instructed to fly by the tower. After the flyby, the tower 
+controller confirmed that the left MLG was damaged and cleared the student to land. During the landing 
+roll, the airplane skidded off the runway.
+The airplane sustained substantial damage to the left horizontal stabilizer and left elevator.
+The student reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+The airport's automated weather observation station reported that, about 7 minutes before the accident, 
+the wind was from 320° at 8 knots. The student was landing the airplane on runway 21.
+Examination of security videos revealed that, during the go-around, the airplane drifted left and that the 
+left MLG struck a runway sign.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain the runway heading during a go-around with a crosswind, which 
+resulted in the left main landing gear impacting a runway sign.

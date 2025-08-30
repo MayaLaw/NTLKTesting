@@ -1,0 +1,29 @@
+{
+    "Filename": "98290.txt",
+    "Location": "Bentonville, Arkansas",
+    "Accident Number": "GAA18CA549",
+    "Date & Time": "September 12, 2018, 18:30 Local",
+    "Aircraft": "Aviat A1",
+    "Registration": "N868X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "pilot reported landing tailwheelequipped airplane bounced airplane bounced twice veered left centerline applied stick back pin tail applied full throttle go around relieve back pressure stick subsequently airplane pitched high angle attack resulted aerodynamic stall spin subsequent impact ground airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack attempted goaround airplane bounced resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "bounced",
+                3
+            ]
+        ]
+    }
+}

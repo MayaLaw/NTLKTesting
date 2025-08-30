@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Burlington, North Carolina
+Accident Number:
+GAA17CA140
+Date & Time:
+February 16, 2017, 09:55 Local 
+Registration:
+N381MG
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing in a gusting crosswind, following the main wheels touching down 
+and as the nosewheel was about to touch down, the airplane "abruptly lifted into the air." He 
+immediately added full power to go-around, but the airplane drifted to the left off the runway surface 
+and impacted an embankment.
+The left wing sustained substantial damage.
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation.
+The automated weather observing station at the accident airport, about the time of the accident, recorded 
+wind from 270° at 16 knots, gusting to 31 knots. A peak wind of 260° at 31 knots was recorded about 5 
+minutes before the accident. The airplane landed on runway 24.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain the runway heading during an attempted go-around in gusting crosswind 
+conditions, which resulted in a runway excursion.

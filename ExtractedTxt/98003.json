@@ -1,0 +1,29 @@
+{
+    "Filename": "98003.txt",
+    "Location": "Dowagiac, Michigan",
+    "Accident Number": "GAA18CA471",
+    "Date & Time": "August 4, 2018, 17:15 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N8994V",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported takeoff softfield runway 10 ft ground airplane drifted left added left wing dipped contacted ground airplane impacted terrain airplane sustained substantial damage right wing right elevator fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported stayed longer ground effect airport automated weather observation station reported 20 minute accident wind 210 10 knot 40 minute accident wind 190\u00ba 7 knot airplane departed runway 22 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain bank control takeoff",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

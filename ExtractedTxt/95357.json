@@ -1,0 +1,29 @@
+{
+    "Filename": "95357.txt",
+    "Location": "Stow, Ohio",
+    "Accident Number": "GAA17CA335",
+    "Date & Time": "June 12, 2017, 11:30 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N95821",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "student pilot reported landing roll solo flight airplane landed left runway centerline added applied right rudder overcorrected airplane veered right student pilot reported panicked leg got stuck right rudder airplane veered runway right impacted ditch airplane sustained substantial damage firewall student pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot rudder overcorrection landing roll resulted loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

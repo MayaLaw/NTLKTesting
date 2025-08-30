@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Fort Lauderdale, Florida
+Accident Number:
+WPR18LA209
+Date & Time:
+June 14, 2018, 12:00 Local 
+Registration:
+N322HA
+Aircraft:
+Cessna 402
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+4 None
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+About 20 minutes into the flight, the airplane experienced a total electrical failure. The pilot maneuvered 
+the airplane in circles while attempting to troubleshoot the problem and perform emergency checklists. 
+Despite his efforts, power was not restored, and the electrically actuated hydraulic landing gear would 
+not extend. The pilot attempted to extend the landing gear using the emergency extension system, but 
+when he pulled the T-handle, it broke off from its housing, separating it from the cable. After additional 
+troubleshooting attempts on the electrical system, the pilot chose to land at a nearby airport, and the 
+airplane landed on the runway with the landing gear retracted, which resulted in substantial damage to 
+the fuselage. A mechanic who performed a postaccident examination of the airplane stated that the left 
+starter motor and starter relay/solenoid had electrical shorts. Additionally, the starter relay remained in 
+the closed position, which likely resulted in the airplane drawing a greater electrical load and draining 
+the battery, leading to a complete loss of power. 
+The emergency extension T-handle was not examined after the accident. However, based on the pilot’s 
+account of the handle breaking off when he attempted to use the emergency extension system, it is likely 
+this prevented the manual extension of the landing gear, which resulted in the forced landing with the 
+landing gear retracted. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the left starter relay, which resulted in a loss of electrical power during the flight and the 
+failure of the T-handle from the cable led to a forced landing with the landing gear retracted.

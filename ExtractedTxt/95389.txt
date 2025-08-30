@@ -1,0 +1,40 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Rexberg, Idaho
+Accident Number:
+GAA17CA346
+Date & Time:
+June 12, 2017, 10:30 Local 
+Registration:
+N305CM
+Aircraft:
+Cessna 305C (0 1E)
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the tailwheel-equipped airplane reported that he attempted a crosswind landing to the 
+asphalt surface of runway 35. He had about 300 hours of total tailwheel flight time, and he had 5 hours 
+of flight time in the accident airplane. This was the pilot's first flight as the pilot-in-command. He 
+recalled that the Automated Surface Observing System reported that the wind was from 050° at 5 knots, 
+gusting to 21 knots. During the landing roll, the airplane encountered a wind gust from the right, and the 
+tail lifted. The pilot lost directional control of the airplane, and the airplane faced southeast when 
+another wind gust lifted the left wing, and the right wing struck the ground. The wind gust subsided, and 
+the airplane came to rest upright. The airplane sustained substantial damage to the right wing, the right 
+aileron, and the elevator.
+Per the National Transportation Safety Board Pilot Aircraft Accident Report, the pilot reported that the 
+accident could have been prevented if he had received more instruction from a Federal Aviation 
+Administration certificated flight instructor in the accident airplane that was specific to crosswind 
+landings. "But more important, I should have flown the airplane to an airport with a runway that was 
+more in line with the wind."
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing in gusting wind conditions.

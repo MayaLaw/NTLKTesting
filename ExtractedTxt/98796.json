@@ -1,0 +1,29 @@
+{
+    "Filename": "98796.txt",
+    "Location": "Key West, Florida",
+    "Accident Number": "ERA19LA073",
+    "Date & Time": "December 15, 2018, 09:33 Local",
+    "Aircraft": "Learjet 35",
+    "Registration": "N55FN",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Windshear or thunderstorm",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "flight crew conducted instrument approach destination airport terminated missed approach air traffic control provided radar vector second approach time wind shifted due passage cold front favored opposite direction runway subsequent approach uneventful however landing flare airplane touched hard substantially damaged review weather sounding taken shortly accident revealed potential lowlevel windshear activity surface 1000 foot given information likely flight crew encountered windshear landing flare resulted hard landing probable cause finding national transportation safety board determines probable cause accident flight crew encounter windshear landing flare resulted hard landing finding environmental issue windshear contributed outcome aircraft landing flare attainedmaintained",
+        "Top Words": [
+            [
+                "landing",
+                6
+            ],
+            [
+                "approach",
+                4
+            ],
+            [
+                "flare",
+                4
+            ]
+        ]
+    }
+}

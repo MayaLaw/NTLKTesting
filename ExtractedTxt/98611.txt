@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Llano, Texas
+Accident Number:
+GAA18CA583
+Date & Time:
+June 21, 2018, 10:00 Local 
+Registration:
+N9496D
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot receiving instruction in the tailwheel-equipped airplane reported that, during landing, the 
+airplane touched down abruptly. He added that he taxied to the edge of the runway and saw that the 
+airplane was leaning left.
+The flight instructor reported that the pilot leveled off about 3 ft above the ground and allowed the 
+airspeed to decrease. He added that he instructed the pilot to add power to "cushion the landing" and that 
+the pilot attempted to do so, but the airplane continued to decelerate until it aerodynamically stalled and 
+landed hard on the left main landing gear. 
+The airplane sustained substantial damage to the fuselage.
+The instructor reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation.
+ 
+ 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's receiving instruction’s improper landing flare and his failure to maintain adequate airspeed 
+and his exceedance of the airplane's critical angle of attack during landing, which resulted in an 
+aerodynamic stall.

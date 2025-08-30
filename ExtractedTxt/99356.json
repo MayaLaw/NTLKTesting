@@ -1,0 +1,29 @@
+{
+    "Filename": "99356.txt",
+    "Location": "Wasilla, Alaska",
+    "Accident Number": "GAA19CA236",
+    "Date & Time": "April 30, 2019, 19:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N3031U",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported preflight inspection asked student pilot owner airplane much fuel onboard airplane student replied enough fuel 3 hour flight added flight became concerned fuel level saw right fuel gauge needle displayed little movement brief conversation student fuel burn instructor decided return airport student stated visually checked fuel tank preflight estimated 12 tank 19 gallon enough 25 hour flight based fuel burn 75 gph student reported flight instructor commented fuel gauge looked low responded working intermittently point instructor decided return airport student reported 5 nautical mile airport airplane ran fuel 3000 ft msl mean sea level subsequently instructor landed airplane road right wing struck power line pole airplane sustained substantial damage right wing probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                9
+            ],
+            [
+                "student",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99230.txt",
+    "Location": "Fort Worth, Texas",
+    "Accident Number": "GAA19CA200",
+    "Date & Time": "April 4, 2019, 18:10 Local",
+    "Aircraft": "Zenair ZENITH CH 801",
+    "Registration": "N801R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported short final 50 ft ground level airplane rolled 30ordm left applied full right aileron leveled airplane 2 ft ground level airplane descended onto runway exited runway left impacted terrain airplane sustained substantial damage wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain lateral control flight subsequent loss directional control landing crosswind resulted runway excursion impact terrain finding aircraft directional control attainedmaintained personnel issue aircraft control pilot aircraft lateralbank control attainedmaintained environmental issue crosswind effect operation",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "control",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Pagosa Springs, Colorado
+Accident Number:
+CEN18LA381
+Date & Time:
+September 19, 2018, 10:00 Local 
+Registration:
+N8003W
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The airline transport pilot rated flight instructor was introducing engine failure emergency procedures to 
+the student pilot. Emergency procedures were reviewed inflight. The flight instructor then reduced the 
+engine power to idle to simulate a loss of engine power. The student pilot conducted the emergency 
+procedures on the left side of the cockpit that included switching the fuel tank selector position from 
+right to left. The engine sputtered when the flight instructor subsequently added power to go around 
+about 600 ft above the ground. The engine sputtered. Emergency procedures were reviewed again and 
+the fuel pressure indication was zero. The flight instructor subsequently performed a forced landing 
+where the airplane impacted fencing and ditches and came to rest in a field. Following the accident, the 
+flight instructor noticed the fuel selector valve was about 1.5 to 2 inches between the left detent and off 
+positions.
+No preimpact mechanical malfunctions or failures with the airframe and engine that would have 
+precluded normal operation were reported by the flight instructor and the engine was operational during 
+a subsequent examination of the accident airplane at the accident site.
+It is likely the student pilot, while conducting the emergency procedure, mismanaged the positioning of 
+the fuel selector valve. While the student pilot was conducting the emergency procedure, the flight 
+instructor did not adequately supervise the student pilot to ensure the fuel selector valve was properly set 
+to the correct position.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

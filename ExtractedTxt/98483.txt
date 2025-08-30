@@ -1,0 +1,45 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Westhampton Beach, New York
+Accident Number:
+ERA19LA012
+Date & Time:
+October 13, 2018, 10:58 Local 
+Registration:
+N593MS
+Aircraft:
+Piper PA34
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor picked up the private pilot and passenger for a cross-country flight. The instructor 
+requested visual flight rules (VFR) flight following services from air traffic control (ATC) and indicated 
+a planned climb to 8,500 ft mean sea level (msl); however, the airplane continued to climb past that 
+altitude. During the climb, the instructor indicated to the ATC controller, in separate transmissions, that 
+he was climbing to reach "VFR on-top," that he was experiencing problems with an "unreliable" attitude 
+indicator, and that the airplane was "in and out of IMC [instrument meteorological conditions]." Based 
+on weather sounding and satellite imagery, it is likely that the airplane was operating in IMC above 
+4,100 ft.
+About 20 minutes after the airplane departed, the controller declared an emergency on behalf of the pilot 
+and provided multiple radar vectors for the airplane to return to visual meteorological conditions 
+(VMC); however, the airplane's radar track showed that the airplane continued climbing to 19,400 ft msl 
+before it entered a series of figure-eight turns followed by a steep, turning descent. A witness stated that 
+the airplane sounded "as if it were a stunt plane doing spins (pitch changing)" and then heard a "pop" 
+and saw large pieces of the airplane descending from the overcast sky. Examination of the recovered 
+portions of the airplane revealed no evidence of preimpact mechanical anomalies and a wreckage 
+distribution consistent with an in-flight breakup.
+Both the instructor and the private pilot had low levels of ethanol in cavity blood but none in vitreous 
+(instructor) or urine (private pilot). The absence of ethanol in the second specimen indicates it is likely 
+the ethanol was not from ingestion and therefore it did not contribute to the accident circumstances. The 
+private pilot also had evidence of use of morphine, an impairing opioid. However, the decision-making 
+on this flight, including the route and response to weather conditions, was most likely performed by the 
+instructor. Therefore, it is unlikely that effects from low levels of morphine in the private pilot 
+contributed to the accident circumstances.
+The instructor demonstrated several lapses in judgment associated with conducting the flight. 

@@ -1,0 +1,29 @@
+{
+    "Filename": "97626.txt",
+    "Location": "Chelan, Washington",
+    "Accident Number": "GAA18CA384",
+    "Date & Time": "June 27, 2018, 10:45 Local",
+    "Aircraft": "COLUMBIA AIRCRAFT MFG LC41",
+    "Registration": "N1266C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported made steep approach touched twothirds length runway beyond approach end faster expected subsequently applied full brake airplane overran end runway airplane crossed road briefly became airborne airplane touched hard came rest upright field heavy vegetation airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper approach resulted airplane landing long subsequent runway overrun",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "approach",
+                3
+            ]
+        ]
+    }
+}

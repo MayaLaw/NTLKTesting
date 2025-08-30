@@ -1,0 +1,46 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Chicago, Illinois
+Incident Number:
+ENG17IA028
+Date & Time:
+June 10, 2017, 17:50 Local 
+Registration:
+N715SK
+Aircraft:
+BOMBARDIER INC CL 600 2C10
+Aircraft Damage:
+Minor
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+64 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+     The No. 1 engine failure was caused by combustion outer liner buckling due to low cycle (thermal) 
+fatigue.  An axial crack that was about 2.5 inches long in the outer panel connected with a 
+circumferential crack that was about 12 inches long between the 10 o'clock and 12:30 positions. At the 
+junction of the two cracks, the outer liner was displaced (buckled) about 1.5 inches inward toward the 
+engine centerline. The liner deformation caused an airflow disruption that prevented complete 
+combustion of fuel in the combustion chamber and decreased engine performance margin. In response to 
+the decrease in performance, the engine control system increased fuel flow in an attempt to compensate. 
+The combination of increased fuel flow and incomplete combustion of the fuel injected into the 
+combustion chamber led to delayed ignition of unconsumed fuel downstream of the combustion 
+chamber (flame holder). The delayed ignition resulted in thermal damage to the high pressure turbine 
+(HPT) hardware. The first stage HPT blades and vanes receive a high volume of cooling airflow and 
+remained intact, but the HPT 2nd stage nozzle was thermally damaged and a nozzle vane segment at the 
+10 o'clock position eventually separated. After separation of the HPT 2nd stage nozzle vane segment, all 
+four stages of the LPT experienced severe impact damage as separated fragments moved through the 
+gaspath. The HPT 2nd stage nozzle separation also resulted in LPT case burn through at the 10 o'clock 
+position that allowed hot gases to escape and contact the engine fire detection loop, which triggered a 
+fire warning. There was no evidence that high energy fragments exited the LPT case.
+     Combustion liner cracks are a normal occurrence on high time parts. The engine line maintenance 
+manual (LMM) includes inspection criteria with limits based on crack length and location. 
+    SkyWest received a total of four GE customer notification reports (CNRs) for the incident engine 
+related to reduced hot day performance margin. SkyWest complied with the CNR recommendation to 
+perform a core engine water wash after receipt of each CNR. Although the first water wash was 
+effective, the third (April 1, 2017) and fourth (May 6, 2017) attempts did not improve engine 
+performance margin. The CNRs all also included a recommendation to perform a borescope inspection 
+(BSI) of the HPC and HPT (recommendations 3 and 4). SkyWest performed a HPC BSI on June 6, 2017 

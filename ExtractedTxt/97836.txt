@@ -1,0 +1,45 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Hyrum, Utah
+Accident Number:
+WPR18LA199
+Date & Time:
+July 19, 2018, 09:50 Local 
+Registration:
+N70DD
+Aircraft:
+Cub Crafters CC19
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot was relocating the airplane to the owner’s private ranch. The pilot stated that, 
+before the flight, he ordered fuel for the airplane; however, when the fuel truck arrived, he checked the 
+fuel levels using the fuel quantity sight gauges inside the airplane and “realized it was full,” so he 
+declined to have the airplane refueled. The pilot stated that he did not visually verify the fuel levels in 
+each fuel tank or use a dipstick. The pilot added that, before the flight, he was dealing with a 
+malfunctioning hangar door when he received a telephone call from work. After the call ended, he 
+conducted his preflight inspection of the airplane and again attempted to close the hangar door. When 
+the pilot attempted to start the engine, the battery was dead, so he charged it, started the engine, and then 
+took off.
+About 45 minutes after departure, during cruise flight over mountainous terrain, the engine began to lose 
+power. As the pilot turned the electric fuel pump on, he noticed a slight increase in power; however, 
+shortly thereafter, the engine lost all power. The pilot initiated an off-airport landing to a nearby open 
+area; however, when he realized that the airplane would be unable to reach it, he maneuvered toward 
+another suitable landing area. During the landing, the airplane impacted trees and terrain before it came 
+to rest upright, which resulted in substantial damage to the right wing and fuselage.
+First responders and wreckage recovery company personnel independently confirmed that no fuel was 
+recovered from the wing tanks. Recovery personnel also reported that there was no fuel in the engine 
+inlet fuel line during disassembly. Postaccident examination of the airplane revealed no evidence of any 
+preexisting mechanical malfunctions or failures with the engine or fuel system, including the fuel 
+quantity sight gauges, that would have precluded normal operation.
+It is possible that, due to the distractions that the pilot reported experiencing while preparing for the 
+flight, he did not correctly read the fuel quantity sight gauges during the preflight inspection. It is likely 
+that the pilot departed with insufficient fuel onboard to complete the flight, which led to a loss of engine 
+power due to fuel exhaustion.  

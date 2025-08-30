@@ -1,0 +1,45 @@
+Page 1 of 19
+Aviation Investigation Final Report
+Location:
+Kerrville, Texas
+Accident Number:
+CEN19FA124
+Date & Time:
+April 22, 2019, 08:51 Local 
+Registration:
+N501CE
+Aircraft:
+Beech 58
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+6 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot was conducting an instrument flight rules (IFR) flight in a twin-engine airplane with five 
+passengers. During a GPS approach to the destination airport, both engines lost total power within 10 
+seconds of each other; the left engine regained near full power about 40 seconds later, which it 
+maintained until the end of recorded data. As the pilot continued the approach, he did not ensure the 
+flaps were up or feather the propeller of the inoperative right engine, which was contrary to the airplane 
+manufacturer's emergency procedures guidance. 
+As the airplane descended with the right engine inoperative below the cloud ceiling to about 500 ft agl, 
+its flightpath leveled and airspeed decreased below the minimum controllable airspeed (Vmc). The 
+airplane's continued flight profile below Vmc with the unfeathered propeller of the inoperative right 
+engine, the left engine near full power, and the airplane's aft center of gravity resulted in a right-
+turning spin and ground impact.
+The pilot's filed flight plan indicated a minimum fuel load required of 58 gallons, although this did not 
+account for the instrument approach and alternate airports. However, the pilot's flight planning log 
+indicated only 50 or 54 gallons of fuel onboard. Thus, based solely on the pilot's logs, there was 
+insufficient fuel onboard the airplane to embark on the flight. Because the airplane was beyond its 
+maximum gross weight with just 50 gallons of fuel onboard, it is likely that the pilot did not want to add 
+additional fuel. Thus, the pilot's decision to depart on the accident flight without adequate fuel onboard 
+showed poor judgement.  
+Although the pilot departed without an adequate fuel reserve for the IFR flight, an actual fuel load of 50 
+or 54 gallons would have been sufficient to reach the destination airport (the airplane burned about 42 
+gallons just before the crash site about 6 miles from the airport). However, when the airplane was fueled 
+at the pilot's request 8 days (five flights) before the accident flight, it was not completely filled. Because 
+the pilot was not present for the fueling and did not crosscheck the fuel receipt with his fuel-planning 
+logs, he did not recognize that the error meant he had less than 50 gallons of fuel onboard before 

@@ -1,0 +1,39 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Kelso, Washington
+Accident Number:
+WPR18TA243
+Date & Time:
+August 18, 2018, 21:30 Local 
+Registration:
+N9031S
+Aircraft:
+Beech 36
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while en route to the destination airport during the personal flight, the engine lost 
+power. The pilot initiated a forced landing to a field, which resulted in substantial damage to the 
+airplane. The pilot reported that there were no mechanical malfunctions or failures with the engine or 
+airframe that would have precluded normal operation. A postaccident examination of the airplane 
+revealed that the right fuel tank was empty, while the left fuel tank was full. The pilot stated that he did 
+not remember switching fuel tanks during the flight and that, given that the right fuel tank was empty, he 
+likely ran out of fuel.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's fuel mismanagement, which led to fuel starvation, a total loss of engine power, and the 
+subsequent forced landing to a field. 
+Findings
+Aircraft
+Fuel - Fluid management
+Personnel issues
+Monitoring equip/instruments - Pilot
+Personnel issues
+Use of equip/system - Pilot

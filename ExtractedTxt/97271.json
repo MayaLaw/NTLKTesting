@@ -1,0 +1,29 @@
+{
+    "Filename": "97271.txt",
+    "Location": "SINTON, Texas",
+    "Accident Number": "CEN18LA177",
+    "Date & Time": "March 7, 2018, 12:30 Local",
+    "Aircraft": "Cessna 150M",
+    "Registration": "N66786",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "commercial pilot reported conducting touchandgo landing airplane engine experienced partial loss power near end runway airplane unable gain altitude landed open field forced landing airplane engine mount bent according pilot airplane carburetor full carbon exhaust pipe black carbon buildup although unlikely thatnbspthe black material carburetor carbon excessive buildup within carburetor would adverselynbspaffected engine performancenbspthe pilot stated carburetor unable properly regulate fuelair mixture due thenbspexcessive buildup corrosion main nozzle basic wear tear caused engine flood experience partial loss engine power review airplane maintenance logbook showed carburetor rebuilt since installed 1974 44 year accident thus likely inadequate service repair airplane carburetor led partial loss engine power probable cause finding national transportation safety board determines probable cause accident inadequate service repair airplane carburetor led partial loss engine power takeoff resulted forced landing",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "carburetor",
+                7
+            ]
+        ]
+    }
+}

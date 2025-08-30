@@ -1,0 +1,29 @@
+{
+    "Filename": "97399.txt",
+    "Location": "Salem, Oregon",
+    "Accident Number": "ANC18FA041",
+    "Date & Time": "June 3, 2018, 18:15 Local",
+    "Aircraft": "MASON HAL J KITFOX MODEL 1",
+    "Registration": "N375KF",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "student pilot completed maintenance newly purchased experimental amateurbuilt light sport airplane told witness going conduct taxi test hour observing airplane taxi along runway multiple time noticed student vehicle trailer still parked airport airplane airplane wreckage subsequently located near edge wooded area 100 yard runway student flight instructor estimated accumulated 35 total hour flight experience almost another make model airplane stated think student previously flown accident airplane make model fuselage exhibited accordionstyle crushing damage consistent nearvertical impact indicative loss airplane control postaccident examination airplane revealed evidence preimpact mechanical failure malfunction would precluded normal operation although toxicological testing detected one potentially sedating antihistamine student urine detected blood therefore use medication likely contribute accident based available evidence likely student decided take airplane shortly takeoff lost airplane control student endorsed instructor fly accident airplane solo likely didnt experience maintain control takeoff probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "student",
+                7
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

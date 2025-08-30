@@ -1,0 +1,29 @@
+{
+    "Filename": "99216.txt",
+    "Location": "Clemson, South Carolina",
+    "Accident Number": "GAA19CA194",
+    "Date & Time": "April 2, 2019, 16:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N54222",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "solo student pilot reported landing nosewheel touched runway felt strong vibration airplane veered left tried correct pulling back yoke airplane became airborne continued veering left left wing impacted ramp left runway examination video surveillance revealed shortly landing airplane veered left airplane became airborne aerodynamically stalled left wing dropped impacted ramp airplane sustained substantial damage left wing manager reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll exceedance airplane critical angle attack inadvertently became airborne resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "left",
+                7
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

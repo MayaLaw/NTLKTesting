@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Houston, Texas
+Accident Number:
+CEN19LA015
+Date & Time:
+October 27, 2018, 09:15 Local 
+Registration:
+N3973L
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot reported that, as the airplane approached the runway after a short local, personal 
+flight, the engine lost power. The pilot checked the fuel valve, mixture, and engaged the starter, but 
+engine power was not restored. The pilot stated that the airplane was "headed directly toward a concrete 
+revetment on the south bank" of a creek, so he banked the airplane left, and it subsequently impacted in 
+the creek.
+During recovery of the airplane, the fuel selector was found in the "both" position, and the throttle, 
+mixture, and carburetor heat controls were found in the "forward" (off) position. Examination of the 
+wreckage revealed no evidence of any preaccident mechanical malfunctions or failures that would have 
+precluded normal operation.
+The atmospheric conditions at the time that the engine lost power were conducive to serious icing at any 
+power, moderate icing at cruise power, and serious icing at descent power. Given the evidence, it is 
+likely that carburetor ice accumulated during the flight and that the pilot did apply carburetor heat, 
+which resulted in a loss of all engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to apply carburetor heat while operating in an area conducive to carburetor icing, 
+which resulted in a total loss of engine power on approach and subsequent forced landing into a creek.

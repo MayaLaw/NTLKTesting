@@ -1,0 +1,29 @@
+{
+    "Filename": "97797.txt",
+    "Location": "Odessa, Texas",
+    "Accident Number": "CEN18LA272",
+    "Date & Time": "July 16, 2018, 14:30 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N182GQ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fire/smoke (non-impact)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "landing destination airport pilot smelled smoke shut airplane exited saw fire vicinity baggage compartment fire consumed fuselage inboard portion wing pilot recently lithiumion battery installed emergency locator transmitter elt however elt battery examined determined source fire investigator able determine origin fire due extent fire damage probable cause finding national transportation safety board determines probable cause accident onground fire reason could determined based available information finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "fire",
+                6
+            ],
+            [
+                "determined",
+                4
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

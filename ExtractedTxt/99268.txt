@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hutchinson, Kansas
+Accident Number:
+GAA19CA206
+Date & Time:
+April 15, 2019, 13:35 Local 
+Registration:
+N55275
+Aircraft:
+Piper PA28R
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the retractable landing gear-equipped airplane reported that, during a straight-in approach, 
+the airplane's approach angle was too high. He recalled that he was distracted by an increase in aircraft 
+operating in the area and that he forgot to extend the landing gear. The airplane landed with the landing 
+gear retracted and slid off the right side of the runway before it came to rest. 
+The airplane sustained substantial damage to the lower fuselage.
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to extend the landing gear before landing.

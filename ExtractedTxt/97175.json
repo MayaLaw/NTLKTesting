@@ -1,0 +1,29 @@
+{
+    "Filename": "97175.txt",
+    "Location": "Baltimore, Maryland",
+    "Accident Number": "DCA18CA169",
+    "Date & Time": "May 7, 2018, 00:08 Local",
+    "Aircraft": "Boeing 737-8H4",
+    "Registration": "N8655D",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "179 None",
+    "Analysis": {
+        "Text": "may 7 2018 approximately 0010 eastern daylight time southwest airline flight 6263 b737800 n8655d struck southwest airline maintenance truck aircraft marshaled gate baltimorewashington international thurgood marshall airport kbwi baltimore maryland injury 181 passenger crewmembers onboard airplane sustained substantial damage flight operating 14 cfr part 121 regularly scheduled passenger flight fort lauderdalehollywood international airport kfll fort lauderdale florida kbwi according flight crew cleared safety zone prior joining jline according ground witness maintenance vehicle appeared initially slow airplane appeared increase speed pas front airplane could enter gate airplane sustained damage left right nose landing gear door nose landing gear trunnion fitting lefthand forward fuselage skin stringer probable cause finding national transportation safety board determines probable cause accident maintenance truck driver failure give way airplane resulted truck colliding taxiing aircraft",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "flight",
+                4
+            ],
+            [
+                "maintenance",
+                3
+            ]
+        ]
+    }
+}

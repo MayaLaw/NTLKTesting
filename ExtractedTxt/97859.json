@@ -1,0 +1,29 @@
+{
+    "Filename": "97859.txt",
+    "Location": "Lincolnton, North Carolina",
+    "Accident Number": "ERA18FA197",
+    "Date & Time": "July 24, 2018, 05:21 Local",
+    "Aircraft": "Piper PA32R",
+    "Registration": "N38523",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "VFR encounter with IMC",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated private pilot one passenger departed personal crosscountry visual flight rule flight dark night instrument meteorological condition imc included 1 12 statute mile visibility mist overcast cloud layer 200 ft ground level pilot obtain official weather briefing departing flight preflight weather information may obtained could determined onboard data indicated airplane departed entered climbing left turn downwind leg runway 1 minute takeoff entered rapid left turning descent continued ground contactpostaccident examination airframe engine reveal evidence preimpact mechanical malfunction would precluded normal operation restricted visibility due dark night instrument condition conducive development spatial disorientation airplane flight track consistent known effect spatial disorientation according family member pilot stated going attend air show planned leave early morning window good weather despite instrument rated pilot likely chose depart due selfinduced pressure complete flight planned likely pilot decision depart imc resulted spatial disorientation subsequent loss airplane control probable cause finding national transportation safety board determines probable cause accident noninstrumentrated pilot intentional visual flight rule flight instrument meteorological condition resulted loss control due spatial disorientation contributing accident pilot selfinduced pressure complete flight planned",
+        "Top Words": [
+            [
+                "flight",
+                8
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "instrument",
+                4
+            ]
+        ]
+    }
+}

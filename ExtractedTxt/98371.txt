@@ -1,0 +1,41 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Kernville, California
+Accident Number:
+WPR18LA278
+Date & Time:
+September 30, 2018, 08:44 Local 
+Registration:
+N9471H
+Aircraft:
+Howard DGA 15P
+Aircraft Damage:
+Destroyed
+Defining Event:
+Fuel starvation
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Before departure, the pilot selected the main fuel tank, performed an engine run-up and then taxied to 
+the runway. During his subsequent takeoff attempt, the airplane lifted off the ground and transitioned 
+into a climb. As the airplane reached about 50 ft above ground level, the pilot experienced a total loss of 
+engine power. The airplane descended rapidly and impacted the runway, which resulted in a postcrash 
+fire and destroyed most of the airplane except for the engine compartment. 
+Information provided by the airplane type certificate holder indicated that takeoffs were conventionally 
+conducted with the front fuel tank selected for takeoff rather than the main fuel tank. The accident 
+airplane’s operating handbook indicated that takeoff should be conducted with the main tank selected, 
+but documentation indicated that the manufacturer later published guidance requiring takeoffs with the 
+front fuel tank selected due to an unspecified fuel system failure, believed to be the result of a fuel tank 
+un-porting. There was no available information to indicate that this guidance was distributed to the 
+operators of earlier serial number airplanes. The type certificate holder also published anecdotes from 
+pilots who had experienced a loss of engine power during takeoff with the main fuel tank selected when 
+the tank was less than 1/2 full. The accident pilot reported that the main fuel tank may have been less 
+than 3/8 full at the time of the accident. 
+Examination of the airplane and an engine test run did not reveal any preimpact mechanical anomalies 
+that could have resulted in a loss of power. Given the available information, it is likely that the engine 
+experienced fuel starvation, which resulted in a total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

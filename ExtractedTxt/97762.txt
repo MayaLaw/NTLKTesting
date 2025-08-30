@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Rosamond, California
+Accident Number:
+WPR18LA196
+Date & Time:
+July 14, 2018, 10:00 Local 
+Registration:
+N43SJ
+Aircraft:
+Cassutt IIIM
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was departing in his experimental, amateur-built airplane configured for aerial racing. He 
+reported that when the airplane entered its initial climb and was about 50 ft above ground level, the 
+engine performance reduced by about 300 rpm. The pilot attempted to continue the takeoff to complete a 
+circuit in the airport traffic pattern. A witness saw the airplane turn left, and the nose immediately 
+dropped and impacted the ground, followed by the right side of the airplane. The airplane sustained 
+substantial damage to the forward fuselage and right wing. It is likely that, while the pilot was 
+maneuvering at low altitude after the partial loss of engine power, he failed to maintain adequate 
+airspeed, which resulted in the airplane exceeding its critical angle of attack and a subsequent 
+accelerated stall. 
+Postaccident examination of the engine and most of the accessories did not reveal any preimpact 
+mechanical anomalies. However, a teardown of the carburetor showed multiple discrepancies, the most 
+notable of which was a loose primary venturi. This condition is likely to have caused the partial loss of 
+engine power during takeoff due to the delivery of inconsistent vacuum pressure and a disruption in fuel 
+flow. An airworthiness directive (AD) issued 20 years before the accident required that the venturi be 
+inspected at each annual, 100-hour, or conditional inspection. It is unknown if this AD was complied 
+with, as the pilot/owner did not possess any records that showed the carburetor's maintenance history. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

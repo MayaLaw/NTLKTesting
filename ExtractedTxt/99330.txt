@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Elberton, Georgia
+Accident Number:
+ERA19LA158
+Date & Time:
+April 25, 2019, 13:58 Local 
+Registration:
+N20FB
+Aircraft:
+Acro SUPER ACRO SPORT I
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot had just purchased the airplane and the accident flight was his first in it. Before the 
+flight, the previous owner explained to the pilot that the main fuel tank was full of fuel and that 
+the auxiliary tank contained no fuel. The pilot acknowledged the fuel state of the airplane and 
+told the seller he "would not need" auxiliary fuel. Following an aborted takeoff attempt, the 
+pilot departed for his home airport. The pilot advised first responders that during the flight, his 
+“fuel quit working so he tried to prime it for his backup fuel to work.” When that did not 
+remedy the problem, he prepared the airplane for a forced landing and subsequently impacted 
+trees. The airplane was substantially damaged during the forced landing and the pilot was 
+seriously injured.
+A Federal Aviation Administration inspector who examined the airplane at the accident site 
+found that only a “very small amount” of fuel remained in the main fuel tank after the accident. 
+The estimated fuel endurance of the airplane based on the fuel reported to be onboard at the 
+time the pilot departed, and the estimated fuel consumption reported by the previous owner, 
+was about 2.1 hours. The time elapsed between when the airplane departed and the accident 
+was about 2.3 hours. Given this information, it is likely that the pilot exhausted the airplane’s 
+available fuel supply, resulting in a total loss of engine power and subsequent forced landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s inadequate fuel planning, which resulted in a total loss of engine power due to fuel 

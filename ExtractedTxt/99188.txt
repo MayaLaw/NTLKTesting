@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Sevierville, Tennessee
+Accident Number:
+ERA19LA139
+Date & Time:
+March 27, 2019, 16:30 Local 
+Registration:
+N22GM
+Aircraft:
+MARLOW Bearhawk
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the experimental, amateur-built airplane experienced a total loss of engine power 
+while maneuvering at an altitude of 2,500 ft mean sea level. He activated the electronic fuel 
+injection/ignition system emergency power switch and attempted to restart the engine, but was 
+unsuccessful. He performed a forced landing to a field, during which the airplane sustained substantial 
+damage to the left wing and fuselage. A review of engine and flight data recorded by the electronic 
+flight information system revealed a sudden increase (about 240°F over 1 second) in exhaust gas 
+temperature (EGT) in the No. 1 cylinder, consistent with abnormal combustion immediately preceded 
+the loss of engine power. Shortly thereafter, the engine rpm began to decrease, and the electrical system 
+load increased by about 8 amps, then decreased by about 17 amps. The engine rpm continued to 
+decrease for the next 2.5 minutes, consistent with a windmilling propeller, before it reached 900 rpm and 
+then decreased to 0 rpm just prior to the landing. The electronic ignition circuit breaker was found 
+activated. The reason for the abnormal combustion and the activation of the electronic ignition circuit 
+breaker which resulted in a total loss of engine power could not be determined based on the available 
+information. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Abnormal combustion in the No. 1 cylinder for reasons that could not be determined based on the 
+available evidence, followed by the activation of the ignition system circuit breaker, which resulted in a 
+total loss of engine power.

@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Grand Island, Nebraska
+Accident Number:
+GAA18CA577
+Date & Time:
+September 18, 2018, 17:30 Local 
+Registration:
+N811YD
+Aircraft:
+Aviat A1
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the second flight of the day, which was 
+a 3 hour 30 minute flight, the tower controller at the destination airport instructed him to land on runway 
+35. During the landing roll, he lost directional control, the airplane ground looped to the right, and the 
+left wing impacted the ground.
+The pilot added that he believed the accident was the result of fatigue. He added that he should have 
+requested runway 13, which would have reduced the crosswind component, rather than accept the 
+assigned runway.
+The airplane sustained substantial damage to the left wing and left aileron.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation station at the airport reported that, about 37 minutes before the 
+accident, the wind was from 100° at 12 knots. The same automated station reported that, about 23 
+minutes after the accident, the wind was from 100° at 12 knots, gusting to 22 knots. The airplane landed 
+on runway 35.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

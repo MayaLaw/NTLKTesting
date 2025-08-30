@@ -1,0 +1,29 @@
+{
+    "Filename": "95302.txt",
+    "Location": "Tulelake, California",
+    "Accident Number": "GAA17CA321",
+    "Date & Time": "June 5, 2017, 08:30 Local",
+    "Aircraft": "AG-CAT CORPORATION G 164",
+    "Registration": "N80083",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Part(s) separation from AC",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported maneuvering perform agricultural application noticed ground application operator located inside cab ground application equipment pilot decided perform close flyby ground equipment left main landing gear struck ground equipment cab pilot chose return airport landed gravel taxiway paralleled runway airplane sustained substantial damage left main landing gear attachment point per national transportation safety board pilot aircraft accident report pilot reported accident could prevented pilot used better judgement done close flyby ground application equipment also owned operator pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper decision perform low altitude flyby ground equipment resulted airplane striking equipment",
+        "Top Words": [
+            [
+                "pilot",
+                8
+            ],
+            [
+                "ground",
+                6
+            ],
+            [
+                "equipment",
+                6
+            ]
+        ]
+    }
+}

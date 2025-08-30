@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Atlantic Ocean, Atlantic Ocean
+Accident Number:
+ERA19TA120
+Date & Time:
+March 5, 2019, 15:15 UTC 
+Registration:
+N345DM
+Aircraft:
+Cirrus SR22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the yellow low oil engine pressure light illuminated about 2 hours into 
+the flight while the airplane was at 8,000 ft mean sea level. The analog oil pressure gauge 
+confirmed the low oil pressure reading of 25 psi. The oil pressure continued to drop, and the 
+pilot notified air traffic control of the situation. As the oil pressure dropped to 2 psi, the engine 
+vibrated strongly and the propeller stopped. The pilot established best glide speed and 
+deployed the airplane parachute system about 1,500 ft above the water. The airplane landed in 
+the water in an upright position. The life raft was inflated, and the pilots egressed from the 
+airplane and were subsequently rescued by a passing cruise ship about 2 hours later. The 
+airplane was not recovered from the ocean, which precluded a postaccident examination.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of oil pressure and subsequent total loss of engine power for undetermined reasons.
+Findings
+Not determined
+(general) - Unknown/Not determined

@@ -1,0 +1,45 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Boulder City, Nevada
+Accident Number:
+WPR19LA141
+Date & Time:
+May 7, 2019, 16:00 Local 
+Registration:
+N423EB
+Aircraft:
+Flight Design CTLS
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on a local flight with a passenger to a nearby lake. As the airplane reached the lake, 
+the pilot perceived a sudden increase in his indicated airspeed. He responded by retarding the throttle to 
+the idle position then advancing the throttle back to full power, at which point he observed a warning 
+light for an engine control unit “Lane B” failure and a message on the primary flight display (PFD), 
+“Rotax: Land Aircraft.” The pilot immediately returned to the airport and performed a rapid descent 
+when he realized that he was high for the approach. He was unsuccessful in reducing his airspeed while 
+over the first half of the runway and decided to execute a go-around maneuver as the airplane passed 
+midfield. An eyewitness reported that when he observed the airplane attempt the go-around at the end of 
+the runway, the engine did not “initially” sound like it reached full power. The airplane subsequently 
+stalled and impacted terrain.
+According to the engine manufacturer, the “Lane B” failure would not have affected engine 
+performance, and recorded engine and aircraft parameters indicated the engine continued to run and 
+respond to throttle position changes normally throughout the flight.  The data showed the unexplained 
+increase in airspeed occurred following a change in the throttle position and the resultant increase in 
+engine rpm.  The recorded data are consistent with the pilot’s account of events leading up to the point 
+the go-around was initiated.  The data indicated that the throttle was moved to 95% about 20 seconds 
+before the airplane stalled. The engine rpm increased, but the airspeed decreased from 52 knots to 35 
+knots and the angle of attack increased to 99% during that time. A postaccident examination of the 
+airplane revealed no preimpact mechanical failures or anomalies that could have precluded normal 
+flight. 
+The accident is consistent with the pilot failing to monitor the airplane’s performance during the return 
+to the airport, which resulted in the need to go around due to being too fast to land on the remaining 
+runway. During the go-around maneuver, the pilot did not advance the throttle to 100%, which resulted 
+in the airspeed decreasing and angle of attack increasing until the airplane stalled.

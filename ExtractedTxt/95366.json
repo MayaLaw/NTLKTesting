@@ -1,0 +1,29 @@
+{
+    "Filename": "95366.txt",
+    "Location": "Homer, Louisiana",
+    "Accident Number": "CEN17LA228",
+    "Date & Time": "June 9, 2017, 08:30 Local",
+    "Aircraft": "Thompson Angel Hawk II",
+    "Registration": "N335JT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot reported accident flight planned take circle experimental amateurbuilt airplane runway check engine operation takeoff engine began sputtering made left 180 turn return runway turn engine experienced total loss power stated airplane stalled turn enough time recover impacting ground airplane accumulated 47 hour run time initial flight test stage accident occurred pilot reported trouble increased cylinder head temperature converted automotive engine engine experienced total loss power previous flight pilot able land airplane without incident following event replaced ignition system component adjusted valve able start engine reported ran fine subsequent test run postaccident examination airplane revealed fuel mixture adjustable cockpit examination engine revealed melted plastic material inside distributor rotor distributor drive shaft condition spark plug consistent overly lean fuel mixture andor high temperature operation likely melted distributor rotor result engine high operating temperature degradation distributor drive shaft would resulted shift ignition timing subsequent loss engine power probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "distributor",
+                4
+            ]
+        ]
+    }
+}

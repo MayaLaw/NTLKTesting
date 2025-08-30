@@ -1,0 +1,34 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Moberly, Missouri
+Accident Number:
+GAA19CA170
+Date & Time:
+March 15, 2019, 15:00 Local 
+Registration:
+N4926M
+Aircraft:
+Piper PA 11
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during the landing roll, the right wing "lifted 
+abruptly and rapidly." He attempted to correct with right aileron, but the airplane veered left and then 
+began to yaw left. The pilot added right rudder and power to correct to no avail. Subsequently, he 
+reduced power, and the airplane exited the runway, impacted a ditch, and then came to rest inverted.
+The airplane sustained substantial damage to the right wing and rudder.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The pilot estimated that the wind was from 300° at 24 knots, gusting to 28 knots. The airport's 
+automated weather observation station reported that, about 5 minutes before the accident, the wind was 
+from 320° at 15 knots, gusting to 21 knots. The pilot landed the airplane on runway 31.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll in gusting wind conditions.

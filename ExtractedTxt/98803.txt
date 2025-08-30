@@ -1,0 +1,43 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Sioux Falls, South Dakota
+Accident Number:
+CEN19LA049
+Date & Time:
+December 25, 2018, 17:03 Local 
+Registration:
+N6745V
+Aircraft:
+Beech 58
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and passenger were on a cross-country flight and an instrument flight rules approach in 
+instrument meteorological conditions. According to air traffic control transcripts, an air traffic controller 
+at the destination airport cleared the flight for the RNAV approach for runway 33. According to ADS-B 
+flight track data, the airplane then turned toward the final approach path just inside the initial approach 
+fix at 3,100 ft mean sea level (msl) and 156 knots calibrated airspeed (KCAS). Subsequently, the 
+airplane proceeded west of the final approach centerline, turned back through the centerline to the east, 
+and then back to the west, resembling s-turns through the extended centerline. During the s-turns across 
+the extended centerline, the controller cleared the airplane to land. Two minutes later, the airplane was 
+about 3,000 ft msl and 78 KCAS, and then began to rapidly descend. 
+According to a witness and video footage of the accident, the airplane descended in a steep, nose-down 
+attitude. The witness added that it appeared that he then “saw airplane try to pull out of a dive” just 
+before it impacted the ground. 
+The airplane impacted trees and a building and then came to rest in a residential neighborhood about 200 
+ft south of the last radar location. The airplane was massively fragmented and a postimpact fire ensued. 
+Impact and fire damage precluded a thorough examination and functional testing of the related airplane 
+systems. Examination of both engines and propeller assemblies revealed signatures consistent with 
+symmetric power development at the time of the accident. 
+According to a family member of the pilot, 3 months before the accident, the pilot was en route at 
+altitude when the airplane suddenly nosed over. According to a work order, 3 weeks before the accident, 
+the autopilot was removed and repaired. The repair station owner reported that, after a flight 3 days 
+before the accident, the pilot told him that he had no issues with the airplane and that the flight was 
+uneventful. 

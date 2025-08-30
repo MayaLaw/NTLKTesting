@@ -1,0 +1,29 @@
+{
+    "Filename": "97897.txt",
+    "Location": "Oshkosh, Wisconsin",
+    "Accident Number": "CEN18TA296",
+    "Date & Time": "July 26, 2018, 18:55 Local",
+    "Aircraft": "Fisher DAKATO HAWK",
+    "Registration": "N677TS",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "private pilot landing airplane runway ultralight airfield airplane touched left main landing gear mlg collapsed bottom end strut airplane ground looped right wingtip struck ground pilot stated landing smooth gentle hard side load landing gear touchdown added suspected previous landing may hard resulted crack landing gear examination left mlg revealed upperouter strut tubing broken lowerinner strut tubing bent evidence fatigue could determined crack occurred result accident preexisting probable cause finding national transportation safety board determines probable cause accident failure left main landing gear reason could determined resulted loss directional control ground roll finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "gear",
+                4
+            ],
+            [
+                "determined",
+                4
+            ]
+        ]
+    }
+}

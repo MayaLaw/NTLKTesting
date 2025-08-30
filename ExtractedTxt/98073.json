@@ -1,0 +1,29 @@
+{
+    "Filename": "98073.txt",
+    "Location": "Napa, California",
+    "Accident Number": "WPR18TA223",
+    "Date & Time": "August 11, 2018, 10:56 Local",
+    "Aircraft": "Zenair ZENITH STOL CH750",
+    "Registration": "N328SK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilotowner conducting flight experimental amateurbuilt airplane pilotrated passenger potential buyer pilot reported flew local area 20 minute smoke entered cockpit pilot declared emergency headed toward departure airport within 12 minute engine lost oil pressure lost total power pilot initially attempted glide airport far away decided land road atop nearby levee airplane touched normally due wind left wingtip struck ground airplane spun veered levee sustained substantial damage wing fuselage engine exhibited impactrelated damage exhibit external evidence nonimpactrelated damage engine devoid lubricating oil significant oil residue observed muffler lower fuselage postaccident examination indicated source oil via seal engine case drive penetration starter ring gear located muffler oil exited via seal produced smoke contacted hot muffler engine control unit ecu removed shipped engine manufacturer facility installed testbed engine engine operated normally accident ecu installed engine disassembled examined detail four piston displayed evidence significant erosion damage consistent detonation least one piston eroded point could longer seal cylinder wall common cause detonation using lower octane fuel specified manufacturer damage consistent use fuel octane rating significantly required engine although pilot specify octane rating fuel used likely used fuel required octane rating",
+        "Top Words": [
+            [
+                "engine",
+                10
+            ],
+            [
+                "oil",
+                5
+            ],
+            [
+                "damage",
+                5
+            ]
+        ]
+    }
+}

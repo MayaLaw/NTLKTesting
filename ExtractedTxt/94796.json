@@ -1,0 +1,29 @@
+{
+    "Filename": "94796.txt",
+    "Location": "Pomona, California",
+    "Accident Number": "WPR17LA070",
+    "Date & Time": "February 15, 2017, 18:34 Local",
+    "Aircraft": "Beech F33A",
+    "Registration": "N222EN",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot crosscountry flight discrepancy noted flight flight arrived near destination airport engine quit pilot attempted troubleshoot engine restart diverted alternate nearby airport perform emergency offairport landing pilot set landing darkness able see exactly land landing airplane struck fence seating area pilot reported approximately 4045 gallon fuel onboard time accident airplane sustained substantial damage wing tail section airplane engine examination engine ground run performed mechanical anomaly would precluded normal operation production horsepower probable cause finding national transportation safety board determines probable cause accident total loss engine power reason could determined postaccident examination engine revealed mechanical malfunction failure would precluded normal operation",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "flight",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98118.txt",
+    "Location": "Beaver Falls, Pennsylvania",
+    "Accident Number": "GAA18CA498",
+    "Date & Time": "July 8, 2018, 16:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N984BT",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported first approach unstable aborted landing subsequent approach downwind leg tower controller advised cautious wake turbulence continued approach landing airplane bounced twice attempted abort landing propeller struck ground taxied airplane taxiway airplane sustained substantial damage forward lower fuselage longerons bulkhead student reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare resulted bounced landing",
+        "Top Words": [
+            [
+                "landing",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "student",
+                3
+            ]
+        ]
+    }
+}

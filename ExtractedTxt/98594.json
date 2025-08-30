@@ -1,0 +1,29 @@
+{
+    "Filename": "98594.txt",
+    "Location": "Louisa, Virginia",
+    "Accident Number": "ERA19FA036",
+    "Date & Time": "November 4, 2018, 14:15 Local",
+    "Aircraft": "Titan TORNADO 1",
+    "Registration": "N38FD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot experimental amateurbuilt airplane took made left turn travel north airport witness airport reported airplane sounded louder normal departure 1 minute 18 second takeoff airplane climbed altitude 400 foot ground level groundspeed 60 knot next 22 second airplane descended 300 ft slowed groundspeed 34 knot impacting field lack discernable debris path asymmetric damage wing airplane relatively low ground speed immediately accident suggest airplane likely departed controlled flight entering aerodynamic stall spin examination engine revealed preimpact mechanical malfunction would precluded engine operating normally muffler hole measuring 2 inch diameter muffler rear mount attached engine although pilot headset separation muffler occurred accident flight increased engine noise due hole muffler could distracted resulted subsequent loss control aerodynamic stallspin pilot longstanding hypertensive cardiomyopathy could increased risk arrhythmia could caused palpitation shortness breath anxiety andor fainting however pilot medication may mitigated risk therefore investigation could determine available information whether pilot heart disease contributed circumstance accident probable cause finding national transportation safety board determines probable cause accident pilot failure maintain airspeed airplane exceedance critical angle attack resulted aerodynamic stall spin low altitude",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "accident",
+                4
+            ]
+        ]
+    }
+}

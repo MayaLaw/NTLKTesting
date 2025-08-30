@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Westbrook, Minnesota
+Accident Number:
+CEN18LA332
+Date & Time:
+August 15, 2018, 11:45 Local 
+Registration:
+N5521X
+Aircraft:
+Aero Commander S2R
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The commercial pilot reported that the airplane experienced a loss of engine power at rotation during 
+takeoff. The airplane cleared a soybean field off the end of the runway and then a two-lane road before 
+entering a corn field on the opposite side of the road. The airplane traveled about 300 ft into the corn 
+field with 8-ft-tall corn before nosing over and coming to rest. A postaccident examination did not 
+reveal any anomalies consistent with a loss of engine power or a mechanical failure or malfunction of 
+the flight control system.
+Engine monitor data revealed that the accident takeoff was the fifth takeoff of the day. At the beginning 
+of the takeoff, the engine speed and torque increased smoothly to full power. About 50 seconds after the 
+takeoff began, the engine speed and torque decreased abruptly over 3 or 4 seconds consistent with the 
+encounter with the corn field.
+The distance that the airplane traveled into the corn field was consistent with normal acceleration under 
+full engine power during the takeoff run. The engine monitor data revealed that the engine was 
+producing full power until encountering the corn field with no evidence of a loss of engine power. Thus, 
+because the available evidence indicated that the airplane was operating normally at the time of the 
+accident, the investigation was unable to determine why the runway excursion occurred.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A runway excursion during takeoff for reasons that could not be determined based on the available 
+evidence.

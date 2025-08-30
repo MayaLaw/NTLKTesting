@@ -1,0 +1,45 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Sedona, Arizona
+Accident Number:
+WPR19LA128
+Date & Time:
+May 1, 2019, 09:35 Local 
+Registration:
+N6864Q
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+About 1 week before the accident, the previous owner had flown the fuel-injected single-engine airplane 
+about 70 miles for inspection before selling to the accident pilot. That flight was uneventful as was the 
+pre-buy inspection. The sale was accomplished, and the airplane remained at the accident pilot’s airport, 
+which was at an elevation of about 4,800 ft. The accident pilot arranged to begin an airplane checkout 
+process with a certificated flight instructor (CFI), and their flight was to be the first flight since the pre-
+buy inspection. The CFI and the pilot both reported that the preflight inspection, engine start, taxi out, 
+and engine runup for the planned local flight were all normal. Based on the airport’s high elevation, they 
+leaned the fuel mixture for takeoff.
+The takeoff roll and liftoff were normal, but just after the airplane lifted off, both pilots sensed a 
+significant loss of engine power, the stall warning sounded, and the airplane began to roll right-wing 
+down. The airplane drifted to the right and impacted the unpaved surfaces adjacent to the right side of 
+the runway. The airplane traversed some rough terrain, the landing gear collapsed, and the airplane slid 
+to a stop. The left wing sustained substantial damage.
+Initial postaccident examination of the airplane did not reveal any pre-impact mechanical deficiencies or 
+failures that would have precluded normal operation. The engine started and operated normally during a 
+test run while it remained on the airframe. However, fuel was observed leaking from the throttle and 
+metering assembly (T/MA), so testing was terminated. Visual inspection of the T/MA and nearby 
+components revealed grime around the shaft-case penetrations and blue staining on the airframe 
+structure below the T/MA. Both were evidence of pre-existing fuel leaks. Although the leak origination 
+date could not be determined, the appearances of both signatures were consistent with their existence 
+while the airplane was in service rather than as a result of the accident impact. The investigation could 
+not determine how long the leak had been occurring or if it was present at the time of the last annual 
+inspection, about 8 months before the accident. The visual evidence of the existing leak was likely not 
+significant enough to have been identified during the pre-buy inspection.

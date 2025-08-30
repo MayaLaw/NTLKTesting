@@ -1,0 +1,29 @@
+{
+    "Filename": "98530.txt",
+    "Location": "Woodbine, New Jersey",
+    "Accident Number": "ERA19FA023",
+    "Date & Time": "October 23, 2018, 14:00 Local",
+    "Aircraft": "Mooney M20C",
+    "Registration": "N9667M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot taking personal flight according onboard data airplane reached 150 ft ground level pitch began increase next 4 second airplane altitude began increase groundspeed decreased airplane banked left descended nosedown impact east runway witness observed airplane reached 100 ft runway landing gear retracted diverted attention shortly heard impact airplane recorded airport security video ground contact near vertical descent consistent stall landing gear extended pilot previously reported physical difficulty manually retracting landing gear result would use one hand hold onto something cockpit brace hand operate retracting handle assembly johnson bar assist retracting landing gear pilot would also slow airplane supported data recorded stratus 2 accident flight previous uneventful flight examined examination airframe flight control engine engine system landing gear system revealed evidence preimpact failure malfunction likely pilot intentionally increased airplane noseup pitch decreased airplane speed order assist retract landing gear ultimate result airplane exceeding critical angle attack inadvertent stall probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "landing",
+                6
+            ],
+            [
+                "gear",
+                6
+            ]
+        ]
+    }
+}

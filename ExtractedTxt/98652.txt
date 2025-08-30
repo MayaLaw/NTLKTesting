@@ -1,0 +1,46 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Harmon, North Dakota
+Accident Number:
+CEN19FA030
+Date & Time:
+November 17, 2018, 22:40 Local 
+Registration:
+N441CX
+Aircraft:
+Cessna 441
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aircraft structural failure
+Injuries:
+3 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot and two medical crewmembers were repositioning the airplane to pick up a patient for 
+aeromedical transport. Dark night instrument meteorological conditions prevailed for the flight. Radar 
+data showed the airplane climb to 14,000 ft mean sea level after departure and proceed direct toward the 
+destination airport before beginning a right descending turn. The airplane subsequently broke up inflight 
+and impacted terrain. No distress calls were received from the pilot before the accident. Although 
+weather conditions were conducive for inflight icing, no evidence of structural icing was identified at the 
+scene.
+The debris field was 2,500 ft long and the disbursement of the wreckage confirmed that both wings, the 
+horizontal stabilizer, both elevators, and both engines separated from the airplane before impacting the 
+ground. Examination of the wreckage revealed that the initiating failure was the failure of the wing 
+where it passed through the center of the airplane. The three wing spars exhibited S-bending 
+deformation, indicative of positive overload producing compressive buckling and fracture. Further, 
+impact signatures as black paint transfers and gouged aluminum, were consistent with the left outboard 
+wing separating when it was struck by the right engine after the wing spars failed. There was no 
+evidence of any pre-exiting conditions that would have degraded the strength of the airplane structure at 
+the fracture locations. Flight control continuity was confirmed. An examination of the engines, 
+propellers, and available systems showed no mechanical malfunctions or failure that could have 
+contributed to the accident. The descending right turn was inconsistent with the intended flight track and 
+ATC-provided clearance. However, there was insufficient information to determine how it was initiated 
+and when the pilot became aware of the airplane's state in the dark night IMC conditions. Yet, the 
+absence of a distress call or communication with ATC about the airplane's deviation suggests that the 
+pilot was not initially aware of the change in state. The structural failure signatures on the airplane were 
+indicative of the wings failing in positive overload, which was consistent with the pilot initiating a pull-
+up maneuver that exceeded the airplane spars' structural integrity during an attempted recovery from the 
+spiral dive.

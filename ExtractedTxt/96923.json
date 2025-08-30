@@ -1,0 +1,29 @@
+{
+    "Filename": "96923.txt",
+    "Location": "Snohomish, Washington",
+    "Accident Number": "GAA18CA177",
+    "Date & Time": "March 12, 2018, 14:00 Local",
+    "Aircraft": "Cessna 152",
+    "Registration": "N6509L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing flare airplane encountered wind gust airplane pitched upward landing airplane bounced twice time touched nose landing gear subsequently wing struck ground airplane sustained substantial damage left rightwing spar pilot reported wind airport time accident 100 12kts gusting 30kts pilot landed runway 33 probable cause finding national transportation safety board determines probable cause accident pilot decision land tailwind failure maintain pitch control airplane gusting wind condition",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

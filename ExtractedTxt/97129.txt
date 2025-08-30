@@ -1,0 +1,43 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Maxwell, California
+Accident Number:
+WPR18LA128
+Date & Time:
+April 29, 2018, 15:30 Local 
+Registration:
+N6674K
+Aircraft:
+GRUMMAN ACFT ENG COR-
+SCHWEIZER G 164C
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The pilot departed the private agricultural airstrip to the south, orbited over the area just west of 
+the airstrip, then proceeded east. Just east of the airstrip, the pilot turned left heading north then 
+made a 180° left turn back toward the south and onto a right downwind in preparation to land to 
+the north. The pilot stated that about midway down and parallel to the runway, the engine surged 
+about two to three times then completely lost power. The pilot elected to perform a forced 
+landing in a plowed field, but during a short landing roll, the airplane nosed over on its back, 
+which resulted in substantial damage to both upper wing panels, both horizontal stabilizers, the 
+rudder, and the elevator. 
+Postaccident examination of the engine revealed damage consistent with an engine that was not 
+producing power at the time of impact. 
+Functional tests of the fuel control unit identified fuel schedules that were out of specification 
+limits, and operation of the engine at low power conditions with the out-of-specification fuel 
+control settings most likely resulted in unstable engine operation below 100% engine speed. The 
+fuel shutoff valve (FSOV), which terminates fuel flow to the engine, was found in the 
+electrically commanded closed position after removal from the airplane. Testing of the valve 
+indicated that it required a higher voltage to open than specified, and had a higher leakage 
+through the output port than was specified, but it passed all other tests and neither condition 
+would cause an uncommanded closing of the valve. 
+The results of the engine teardown examination coupled with the functional testing of various 
+engine components failed to reveal what precipitated the reported engine surge condition before 
+the subsequent loss of engine power. 

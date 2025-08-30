@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Goodyear, Arizona
+Accident Number:
+GAA18CA381
+Date & Time:
+June 22, 2018, 21:14 Local 
+Registration:
+N7072Y
+Aircraft:
+Piper PA 30
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor reported that, while landing at night, the pilot receiving instruction allowed the 
+twin-engine airplane to drift left of the centerline at touchdown. The pilot then overcorrected with right 
+rudder, the airplane veered to the right, and the pilot then locked the brakes. The airplane continued to 
+veer right and exited the runway. 
+The flight instructor added that he did not ask for the flight controls but that he did ask the pilot to 
+release the brakes; however, the pilot did not do so. After exiting the runway, the flight instructor had 
+only right rudder and nosewheel steering and "fishtailed" the airplane further to the right before the left 
+main landing gear collapsed.
+The airplane sustained substantial damage to the left wing.
+The flight instructor reported that there were no preaccident mechanical failures or malfunctions with 
+the airplane that would have precluded normal operation.
+The automated weather observation system on the airport reported that, about the time of the accident, 
+the wind was from 230° at 9 knots. The pilot landed the airplane on runway 21.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot receiving instruction's failure to maintain directional control during the landing roll.

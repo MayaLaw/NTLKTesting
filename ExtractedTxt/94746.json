@@ -1,0 +1,29 @@
+{
+    "Filename": "94746.txt",
+    "Location": "Fairbanks, Alaska",
+    "Accident Number": "GAA17CA147",
+    "Date & Time": "February 18, 2017, 17:08 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N185AE",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of visual reference",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported first landing currency flight never realized low approach airplane impacted snowcovered area short asphalt runway nosed added flight conducted reduced light condition recognize condition flat light vertical stabilizer sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation national weather service reported sun set 25 minute accident federal aviation administration chart supplement stated part landing runway equipped precision approach path indicator probable cause finding national transportation safety board determines probable cause accident pilot failure maintain appropriate glidepath runway use vertical guidance system",
+        "Top Words": [
+            [
+                "pilot",
+                3
+            ],
+            [
+                "reported",
+                3
+            ],
+            [
+                "runway",
+                3
+            ]
+        ]
+    }
+}

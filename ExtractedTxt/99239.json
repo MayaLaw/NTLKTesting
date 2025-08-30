@@ -1,0 +1,29 @@
+{
+    "Filename": "99239.txt",
+    "Location": "Fort Myers, Florida",
+    "Accident Number": "ERA19TA146",
+    "Date & Time": "March 29, 2019, 21:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N4335R",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according lineperson airport airplane taxiing toward four fuel truck park lineperson exited one truck wand got pilot attention walked north away truck direct pilot safer parking area signaled pilot taxi toward airplane continued northnorthwest toward truck engine revved high rpm lineperson motioned airplane slow move away truck however airplane continued taxi toward truck lineperson signaled stop yelled stop several time airplane stop left wing struck light pole near one truck pilot reported preimpact mechanical malfunction airplane although pilot stated parking ramp parking area lineperson provided direction taxi led airplane left wing collide light pole airport director operation reported pilot could recall wand signal provided probable cause finding national transportation safety board determines probable cause accident pilot failure remain clear light pole taxiing",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "truck",
+                7
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

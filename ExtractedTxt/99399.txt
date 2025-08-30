@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Reno, Nevada
+Accident Number:
+WPR19LA138
+Date & Time:
+May 4, 2019, 19:15 Local 
+Registration:
+N6684Z
+Aircraft:
+Beech 36
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was landing the airplane in gusty wind conditions when he lost directional control of the 
+airplane. After touchdown, the airplane veered off the runway to the left, despite the pilot’s corrective 
+inputs. Subsequently, the airplane exited the runway, struck two runway signs, and spun to the right 
+before coming to a stop.
+An examination of the airplane revealed that the nosewheel would not center and that it pointed to the 
+right. Impact damage was visible on the nosewheel strut assembly. Additionally, when the right rudder 
+pedal was pushed to the full position, the right rudder was about 5° from full deflection. It could not be 
+determined whether these anomalies were impact related. The airplane would have had right turning 
+tendencies if the nosewheel condition existed during the landing. The pilot would have had less rudder 
+authority available to counter the left turning tendencies if the rudder condition existed during landing. 
+No other mechanical malfunctions or failures that would have precluded normal operation were 
+observed. 
+The circumstances of the accident are consistent with the pilot’s inability to maintain directional control 
+during landing in strong, gusty wind conditions.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s inability to maintain directional control during landing in gusty crosswind conditions for 
+reasons that could not be determined based on available evidence.

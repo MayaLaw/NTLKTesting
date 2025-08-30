@@ -1,0 +1,29 @@
+{
+    "Filename": "98655.txt",
+    "Location": "Franklin, North Carolina",
+    "Accident Number": "ERA19TA051",
+    "Date & Time": "November 16, 2018, 10:15 Local",
+    "Aircraft": "Cessna E162",
+    "Registration": "N70252",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "sport pilot reported conducting personal crosscountry flight nearing destination airport reduced engine rpm 2350 2200 began slow descent cruise altitude 3500 ft mean sea level msl traffic pattern altitude 2800 ft msl added carburetor heat time 2 minute later noticed engine lost power without roughness sputtering pilot turned carburetor heat positioned mixture full rich confirmed fuel shutoff valve engaged however engine respond subsequently conducted forced landing field right wing struck fence airplane came rest inverted postaccident examination airplane engine revealed evidence preaccident mechanical malfunction failure would precluded normal operation engine successfully test run atmospheric condition time accident conducive serious carburetor icing cruise power pilot operating handbook descent checklist instructed pilot apply carburetor heat required descent therefore likely carburetor ice accumulated cruise flight pilot applied carburetor heat late melt ice resulted loss engine power pilot stated fully understand potentially subtle nature carburetor ice probable cause finding national transportation safety board determines probable cause accident pilot delay applying carburetor heat resulted total loss engine power descent due carburetor icing",
+        "Top Words": [
+            [
+                "carburetor",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "engine",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98587.txt",
+    "Location": "Bradley, South Dakota",
+    "Accident Number": "CEN19FA021",
+    "Date & Time": "November 2, 2018, 11:30 Local",
+    "Aircraft": "Cessna 210",
+    "Registration": "N81KD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "noninstrumentrated pilot conducting crosscountry personal flight earlier morning accident pilot diverted intended destination airport poor weather waiting diversion airport 15 hour pilot decided attempt 35mile flight destination airport taxi pilot called friend ask weather condition close destination airport friend advised pilot pretty low cloud existed pilot departed remained low altitude 3 minute accident air traffic control radar captured airplane altitude 800 ft ground level agl last minute recorded data airplane made climbing left turn 90 altitude 1000 2100 ft agl slowed groundspeed 144 106 knot witness near accident site heard sounded airplane climbing descending twice followed sound loud bang airplane impacted terrain nosedown attitude high speed postcrash fire ensued postaccident examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation even though available evidence indicated pilot request weather briefing receive weather information vendor pilot known start flight instrument meteorological condition imc would likely exist near destination based information friend provided weather condition closest official reporting station accident site time surrounding accident indicated 500ft cloud ceiling reduced visibility due mist airmets valid accident location time indicated instrument flight rule condition existed information confirmed accident airplane imc time accident previous flight pilot intentionally flown imc condition autopilot pilot decision fly along route low ceiling subsequent entry imc condition likely resulted pilot becoming spatially disoriented led steep dive ground impact",
+        "Top Words": [
+            [
+                "pilot",
+                11
+            ],
+            [
+                "accident",
+                8
+            ],
+            [
+                "condition",
+                6
+            ]
+        ]
+    }
+}

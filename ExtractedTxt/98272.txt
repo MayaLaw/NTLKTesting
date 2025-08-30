@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Hereford, Texas
+Accident Number:
+CEN18LA378
+Date & Time:
+September 9, 2018, 11:17 Local 
+Registration:
+N4078W
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+4 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot lost control of the airplane during takeoff; it subsequently impacted the ground near the 
+departure end of the runway and was destroyed. The pilot reported that she had no memory of her 
+preflight activity or takeoff. A witness observed the airplane in a nose-high, tail-low attitude during the 
+takeoff but lost sight of the airplane behind hangars. He noted that the engine sounded like it was at full 
+power. Postaccident examination of the airplane did not reveal any evidence of preimpact mechanical 
+malfunctions or failures that would have precluded normal operation. Data recovered from an onboard 
+engine monitor did not reveal any indication of a loss of engine power during takeoff. The airplane was 
+loaded within the gross weight and center-of-gravity limits. Performance data indicated that the 
+available runway length was sufficient for takeoff. It is likely that the pilot overrotated during takeoff 
+and the airplane entered an aerodynamic stall, which resulted in the airplane departing controlled flight 
+and impacting the ground.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during takeoff, which resulted in an 
+aerodynamic stall.

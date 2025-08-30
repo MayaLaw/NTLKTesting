@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+England, Arkansas
+Accident Number:
+GAA18CA160
+Date & Time:
+March 7, 2018, 17:00 Local 
+Registration:
+N1889Y
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The student pilot reported that, during the preflight, he and the pilot-rated passenger, who was not a 
+flight instructor, inspected the fuel sumps on each wing and the engine, "pulling [a] sample on each." He 
+added that, during departure from the airstrip, after they became airborne for about 9 seconds, the engine 
+rpm dropped to idle. The propeller was still rotating, but the airplane's engine was not producing power. 
+Subsequently, the airplane landed in a cotton field, the nose landing gear sheared off, and the airplane 
+came to rest nosed over.
+The airplane sustained substantial damage to the tail and fuselage.
+The student pilot reported that the airplane had gone through a pre-purchase inspection the previous 
+week, and the airplane had accrued little time since the annual, which was 7 months before the accident 
+flight. He added that it seemed like the airplane was starved for fuel.
+The Federal Aviation Administration inspector reported finding substantial water in the gascolator.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to detect water in the fuel system during the preflight inspection, which resulted in a 
+loss of engine power during departure and a subsequent impact with terrain. 

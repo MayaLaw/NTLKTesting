@@ -1,0 +1,29 @@
+{
+    "Filename": "99173.txt",
+    "Location": "FORT LAUDERDALE, Florida",
+    "Accident Number": "ERA19LA137",
+    "Date & Time": "March 24, 2019, 11:01 Local",
+    "Aircraft": "Pilatus PC12",
+    "Registration": "N944BT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aircraft structural failure",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "climb cruise altitude crosscountry flight pilot heard loud bang pilot side windshield shattered cabin began depressurizing pilot returned departure airport landed uneventfully noticed seal extruded two place around outer pane windshield sent manufacturer detailed examination revealed 80 fiberglass strap missing likely removed maintenance personnel combination missing strap heavy delamination caused outboard ply become detached edge attachment moisture ingres bottom aft edge caused delamination arcing record airframe logbook strap removal probable cause finding national transportation safety board determines probable cause accident improper maintenance windshield resulted delamination inflight depressurization",
+        "Top Words": [
+            [
+                "pilot",
+                3
+            ],
+            [
+                "windshield",
+                3
+            ],
+            [
+                "strap",
+                3
+            ]
+        ]
+    }
+}

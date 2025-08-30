@@ -1,0 +1,29 @@
+{
+    "Filename": "99352.txt",
+    "Location": "Mill Creek, California",
+    "Accident Number": "WPR19FA126",
+    "Date & Time": "May 1, 2019, 11:00 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N7302S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Fatal, 2 Serious",
+    "Analysis": {
+        "Text": "pilot two passenger departed sightseeing flight mountainous terrain 30 minute flight engine lost partial power smoke began enter cockpit pilot turned airplane toward grassy meadow forced landing approaching field pilot suddenly saw power line immediately ahead attempted maneuver airplane airplane contacted wire came rest inverted postaccident examination revealed several hole engine crankcase oil filter adapter found loose fiber gasket protruding beyond casting removal oil filter adapter revealed fiber gasket split failure gasket allowed oil exit engine resulting oil starvation subsequent catastrophic failure postaccident testing gasket failure seen accident adapter could replicated reason failure could determined testing reveal adapter difficult install properly occasion proper torque achieved adapter housing could still rotated hub hand pressure applied response accident testing supplemental type certificate stc holder issued service bulletin sb stated adapter inspected oil leakage gasket damage sb also provided detailed instruction eliminate identify rotation housing installation purpose oil filter adapter enable use conventional spinon oil filter adapter installed engine 2 year accident engine accrued 340 hour since time document regarding installation oil filter adapter unknown installed new gasket used time installation maintenance record indicated oil filter changed 7 time engine installation accident last maintenance performed airplane annual inspection completed 5 day 94 flight hour accident maintenance oil filter vacuum pump",
+        "Top Words": [
+            [
+                "oil",
+                10
+            ],
+            [
+                "adapter",
+                9
+            ],
+            [
+                "filter",
+                7
+            ]
+        ]
+    }
+}

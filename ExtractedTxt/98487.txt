@@ -1,0 +1,34 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Cherry Ridge, Pennsylvania
+Accident Number:
+GAA19CA022
+Date & Time:
+October 14, 2018, 13:30 Local 
+Registration:
+N6690D
+Aircraft:
+Piper PA 18-135
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, after conducting a three-point landing, during 
+the landing roll, the wind changed direction and lifted the left wing, and the airplane ground looped. 
+The airplane sustained substantial damage to the right wing and elevator. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing, which resulted in a ground loop. 
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

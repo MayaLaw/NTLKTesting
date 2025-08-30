@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Atlanta, Georgia
+Accident Number:
+ERA18LA176
+Date & Time:
+May 29, 2018, 13:45 Local 
+Registration:
+N86507
+Aircraft:
+Cessna 337
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot was conducting a cross-country, personal flight. He stated that, while on approach to 
+the destination airport, he was unable to extend the landing gear. He declared an emergency and 
+attempted to pump the landing gear down via the emergency gear-extension handle to no avail. He then 
+observed a large puddle of red hydraulic fluid on the floorboards near the hydraulic pump. The pilot 
+realized that he would not be able to extend the gear and conducted a gear-up landing, which resulted in 
+substantial damage to the lower fuselage. 
+Postaccident examination of the airplane revealed that the hydraulic reservoir was nearly empty. When 
+the emergency handle was activated, a stream of hydraulic fluid sprayed from the surface of the 
+aluminum hydraulic line connecting the emergency handle/pump to the electric hydraulic pump that was 
+mounted under and behind the pilot's instrument panel. Magnified visual examination of the leaking 
+hydraulic line revealed an area of corrosion and pitting on the aluminum surface, which likely resulted 
+in a loss of hydraulic pressure and the pilot's inability to extend the landing gear.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+An area of pitting and corrosion on the surface of the aluminum hydraulic line connecting the 
+emergency handle/pump to the electric hydraulic pump, which resulted in a loss of hydraulic pressure 
+and the pilot's inability to extend the landing gear.

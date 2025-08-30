@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Bentonville, Arkansas
+Accident Number:
+GAA18CA549
+Date & Time:
+September 12, 2018, 18:30 Local 
+Registration:
+N868X
+Aircraft:
+Aviat A1
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, the tailwheel-equipped airplane bounced. The airplane then 
+bounced again twice and veered left of the centerline, and he applied "stick back" to pin the tail down. 
+He then applied full throttle to go around but did not relieve the back pressure on the stick. 
+Subsequently, the airplane pitched up in a "very high" angle of attack, which resulted in an aerodynamic 
+stall and spin and subsequent impact with the ground. 
+The airplane sustained substantial damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during an attempted go-around after the 
+airplane bounced, which resulted in an aerodynamic stall.

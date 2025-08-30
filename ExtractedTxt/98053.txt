@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Florence, South Carolina
+Accident Number:
+ERA18LA215
+Date & Time:
+August 9, 2018, 13:12 Local 
+Registration:
+N1693R
+Aircraft:
+Cessna R182
+Aircraft Damage:
+Substantial
+Defining Event:
+Electrical system malf/failure
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Before departure on the personal flight, the private pilot reported that the engine had to be started using 
+an auxiliary power supply because the battery was dead; however, he did not determine the reason for 
+the dead battery. After the engine was started, he reported normal electrical system indications. About 
+10 minutes into the 20-minute flight, the pilot noticed that the electric fuel gauges were reading zero and 
+the ammeter was showing a discharge. He did not consult or comply with emergency procedures from 
+the pilot's operating handbook (POH) for a discharging ammeter and continued to his destination, where 
+he attempted to extend the landing gear using the normal system; however, there was no down-and-
+locked indication. He confirmed visually that the nose landing gear was down and locked; he performed 
+a fly-by of the air traffic control tower, was informed that the landing gear appeared to be down, and 
+returned for landing. After touchdown, both main landing gear collapsed, the airplane began to veer to 
+the left, and the left wing and horizontal stabilizer contacted the runway. The airplane came to rest in the 
+grass off the left side of the runway. Postaccident examination and operational testing of the normal and 
+emergency landing gear extension and indicating systems revealed no evidence of preimpact failure or 
+malfunction that would have precluded normal operation. Had the pilot shed unnecessary electrical load 
+per the POH when he first noticed the discharging state or pumped the landing gear down using the 
+emergency gear extension mechanism, it is likely that the landing gear would have extended and locked 
+into position. The reason for the electrical system failure was not investigated.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

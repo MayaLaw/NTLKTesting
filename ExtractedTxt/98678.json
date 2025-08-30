@@ -1,0 +1,29 @@
+{
+    "Filename": "98678.txt",
+    "Location": "Porterville, California",
+    "Accident Number": "GAA19CA073",
+    "Date & Time": "November 25, 2018, 13:20 Local",
+    "Aircraft": "Beech C23",
+    "Registration": "N66710",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing flare airplane touched main landing gear ballooned foot ground subsequently airplane porpoised nosewheel collapsed airplane came rest nose runway airplane sustained substantial damage engine mount pilot reported preimpact mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted abnormal landing subsequent porpoise finding aircraft pitch control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

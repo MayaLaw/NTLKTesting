@@ -1,0 +1,29 @@
+{
+    "Filename": "97188.txt",
+    "Location": "Palmyra, Pennsylvania",
+    "Accident Number": "GAA18CA258",
+    "Date & Time": "May 3, 2018, 15:56 Local",
+    "Aircraft": "BERGER BERNARD M PULSAR",
+    "Registration": "N914BB",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported preflight inspection observed discrepancy noted oil level inside lower bound normal oil capacity reported en route oil pressure 30 pound per square inch trending downward still within normal engine oil pressure limit decided divert nearby airport precaution pilot reported maneuvering alternate airport engine instrument appeared normal however left base runway observed second white smoke coming engine left wing reduced power added flap noticed airplane approach speed fast decided would attempt goaround due smoke shut engine thinking possibility engine fire subsequently airplane bounced initial touchdown landed near runway halfway point pilot applied brake airplane overran runway dirt field nose landing gear collapsed airplane sustained substantial damage fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

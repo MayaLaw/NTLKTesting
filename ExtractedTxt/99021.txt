@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Springfield, Illinois
+Accident Number:
+GAA19CA149
+Date & Time:
+February 24, 2019, 14:00 Local 
+Registration:
+N8436S
+Aircraft:
+Zenair ZENITH STOL CH 701
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+The pilot reported that, after landing, while taxiing in gusting wind conditions, the airplane flipped over 
+and came to rest inverted. He added that, a few minutes after the airplane was righted, it flipped over 
+again. 
+The airplane sustained substantial damage to the empennage and fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport's automated weather observation system reported that, about the time of the accident, the 
+wind was from 270° at 27 knots, gusting to 41 knots.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper crosswind correction during taxi operations in gusting crosswind conditions. 

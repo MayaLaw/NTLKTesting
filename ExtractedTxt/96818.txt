@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Enumclaw, Washington
+Accident Number:
+WPR18LA098
+Date & Time:
+March 4, 2018, 15:58 Local 
+Registration:
+N207PC
+Aircraft:
+RAYTHEON AIRCRAFT COMPANY 
+A36
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was at cruise altitude en route on a cross-country flight from Arizona to Washington when he 
+noted that the engine oil pressure indicated zero and the manifold pressure was near zero. He then heard 
+“…a loud bang, as though the engine had thrown a rod.” The cabin filled with smoke and oil covered the 
+windscreen, and the pilot conducted a forced landing into a stand of trees, during which the airplane 
+sustained substantial damage. 
+Examination of the airframe revealed no anomalies that would have precluded normal operation. An 
+examination of the engine revealed three holes in the crankcase, each consistent with an internal engine 
+failure. All six cylinders remained attached to their respective cylinder bays; there was no indication of 
+impact damage. The Nos. 2, 4 and 5 connecting rods had separated from the crankshaft. All rod bearings 
+displayed lubrication distress consistent with oil starvation. The oil line B-nut attached to the 
+turbocharger scavenge check valve was loose. 
+Based on the available information, it is likely that the loose oil line B-nut resulted in a gradual loss of 
+oil during the long cross-country flight, which subsequently resulted in the separation of the connecting 
+rods due to oil starvation and a total loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to oil starvation as a result of a loose oil line B-nut. 

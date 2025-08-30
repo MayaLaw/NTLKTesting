@@ -1,0 +1,42 @@
+Page 1 of 23
+Aviation Investigation Final Report
+Location:
+Carrollton, Georgia
+Accident Number:
+ERA16FA312
+Date & Time:
+September 7, 2016, 10:48 Local 
+Registration:
+N6027K
+Aircraft:
+Beech F33
+Aircraft Damage:
+Substantial
+Defining Event:
+Midair collision
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The Diamond flight instructor and student pilot were in the traffic pattern at the non-towered airport 
+practicing landings. The Beech pilot entered the traffic pattern on an extended left downwind leg with 
+the intention of landing. Pilots of other airplanes in the pattern reported that the Diamond instructor was 
+making standard traffic pattern callouts on the common traffic advisory frequency (CTAF); however, the 
+Beech pilot was not transmitting on the CTAF. Witness observations, radar data, GPS data, and 
+examination of the wreckage of the two airplanes revealed that, while both airplanes were on final 
+approach for landing, the Beech overtook the Diamond from above and behind. The landing gear of the 
+Beech struck the horizontal stabilizer and elevator of the Diamond, and then both airplanes abruptly 
+descended into the terrain short of the runway. The Beech came to rest inverted and on top of the 
+Diamond. An examination of wreckage of both airplanes did not reveal evidence of any preaccident 
+anomalies or malfunctions.
+Testing of the Beech's VHF communications radio revealed that it was set to an old CTAF frequency for 
+the airport that had been changed about 5 years before the accident. A local airport frequency card dated 
+7 years before the accident that was found in the Beech's cockpit listed the old CTAF frequency that was 
+set in the Beech's radio. Another pilot at a different airport heard the Beech pilot making pattern calls on 
+the incorrect frequency about the time of the accident.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the Beech pilot to see and avoid the Diamond that was in front of and below his 
+airplane on final approach and his use of an incorrect radio communication frequency for the 
+airport.

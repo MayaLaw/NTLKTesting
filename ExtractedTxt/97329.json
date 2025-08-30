@@ -1,0 +1,29 @@
+{
+    "Filename": "97329.txt",
+    "Location": "Petaluma, California",
+    "Accident Number": "WPR18FA150",
+    "Date & Time": "May 27, 2018, 16:00 Local",
+    "Aircraft": "MORRISON MARVIN E JR RV 6A",
+    "Registration": "N4269Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot departing experimental amateurbuilt airplane initial climb airplane 500 800 ft ground level engine backfired several time losing power airplane entered 180 turn back toward airport however second half turn bank angle increased airspeed slowed airplane entered aerodynamic stall spin subsequently impacted terrain postaccident examination engine revealed left magneto loose mounting pad free rotate hand would resulted erratic enginetomagneto timing magneto would likely account engine backfiring partial loss engine power additional mechanical anomaly would precluded normal operation maintenance record recovered whether magnetorelated maintenance performed accident could determined area beyond departure end runway comprised golf course open field would favorable straightahead forced landing pilot decision turn back toward runway low altitude subsequent exceedance airplane critical angle attack turn resulted aerodynamic stallspin loss control probable cause finding national transportation safety board determines probable cause accident partial loss engine power initial climb takeoff due loose left magneto pilot decision turn back airport exceedance airplane critical angle attack resulted aerodynamic stallspin impact terrain",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "turn",
+                5
+            ]
+        ]
+    }
+}

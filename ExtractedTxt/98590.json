@@ -1,0 +1,29 @@
+{
+    "Filename": "98590.txt",
+    "Location": "Flanigan, Nevada",
+    "Accident Number": "WPR19TA018",
+    "Date & Time": "November 3, 2018, 10:00 Local",
+    "Aircraft": "Audenried Kitfox S7 SuperSport",
+    "Registration": "N13NZ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "commercial pilot reported took dry lake bed second airplane people ground visually compare two normal flight second airplane landed pilot flew past landing spot pulled nosehigh attitude made rapid left turn pushed left rudder control left wing stalled pilot attempted recover stall however airplane low altitude recover impacted ground noselow attitude pilot reported mechanical failure malfunction airplane would precluded normal operation likely pilot failed maintain airspeed sharp turn resulted aerodynamic stall probable cause finding national transportation safety board determines probable cause accident pilot failure maintain airspeed sharp turn low altitude resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "left",
+                3
+            ]
+        ]
+    }
+}

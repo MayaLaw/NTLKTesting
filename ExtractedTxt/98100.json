@@ -1,0 +1,29 @@
+{
+    "Filename": "98100.txt",
+    "Location": "Camp Verde, Arizona",
+    "Accident Number": "WPR18FA228",
+    "Date & Time": "August 18, 2018, 14:08 Local",
+    "Aircraft": "Pietenpol Aircamper",
+    "Registration": "N88HK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot passenger departed local area flight flight return search initiated wreckage located later evening hilly uneven desert terrain wreckage debris field contained within 10foot radius main wreckage flight control surface remained attached flight control continuity established wing assembly deformed middle section left portion wing pushed main spar right wing pushed likely airplane uncontrolled attitude time impact terrain visual examination engine revealed hole engine case postaccident examination engine revealed carbon buildup cylinder barrel piston face worn spark plug wooden propeller remained attached crankshaft engine mechanical anomaly revealed would precluded normal operation probable cause finding national transportation safety board determines probable cause accident loss control reason could determined postaccident examination airframe engine revealed mechanical anomaly would precluded normal operation",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "flight",
+                4
+            ],
+            [
+                "revealed",
+                4
+            ]
+        ]
+    }
+}

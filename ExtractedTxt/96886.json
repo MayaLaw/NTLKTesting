@@ -1,0 +1,29 @@
+{
+    "Filename": "96886.txt",
+    "Location": "Browns Valley, California",
+    "Accident Number": "WPR18LA107",
+    "Date & Time": "March 18, 2018, 08:30 Local",
+    "Aircraft": "CUBCRAFTERS INC CC11-160",
+    "Registration": "N1951B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot reported maneuvering altitude 500 ft unpopulated area studying river airplane must gone 500 ft hit something fire started airplane subsequently crashed river sustained substantial damage fuselage wing pilot reported later told hit power line river run generally east west power line 200 ft tall ran across river generally north south extended 1 mile wreckage located 2000 ft east power line 3 ft water power line company personnel reported six power line found separated pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation pilot likely vigilant monitoring environment obstruction maintain sufficient altitude avoid power line probable cause finding",
+        "Top Words": [
+            [
+                "power",
+                6
+            ],
+            [
+                "line",
+                6
+            ],
+            [
+                "ft",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99370.txt",
+    "Location": "Anderson, Indiana",
+    "Accident Number": "CEN19FA135",
+    "Date & Time": "May 5, 2019, 08:30 Local",
+    "Aircraft": "Piper PA34",
+    "Registration": "N999CR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot planned ferry twinengine airplane another airport annual maintenance inspection several witness saw airplane departure two witness reported airplane engine didnt sound normal several witness reported airplane appeared pitch stalling video airport security camera revealed airplane appeared climb steeply airplane wing rocked backandforth airplane disappeared view airplane reappeared camera view airplane descent left wing low airplane collided terrain airplane cabin area largely destroyed impact examination airplane found stabilator trim actuator screw near maximum nose setting left engine removed airframe tested engine manufacturer test cell engine test run reveled engine produce full rated horsepower occasion produced black exhaust indicative rich fuel air mixture fuel servo replaced new unit engine able produce rated horsepower examination original fuel servo showed control linkage rod link assembly installed incorrectly accident consistent loss power left engine due incorrectly installed fuel servo excessive nose trim setting resulted steep climb angle loss airspeed aerodynamic stall probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "engine",
+                7
+            ],
+            [
+                "fuel",
+                4
+            ]
+        ]
+    }
+}

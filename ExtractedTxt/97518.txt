@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Hartford, Connecticut
+Accident Number:
+WPR18LA173
+Date & Time:
+June 16, 2018, 13:15 Local 
+Registration:
+N1782J
+Aircraft:
+Piper PA 28-140
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing area overshoot
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot stated that after takeoff, the engine lost partial power, and the airplane would not maintain 
+altitude. The pilot initiated a forced landing to a runway at a nearby closed airport. During the descent, 
+the pilot verified the mixture was full rich and the carburetor heat was off, and he switched fuel tanks. 
+The pilot said the engine did not respond, so he turned it off and executed a "forward slip" and S-turns to 
+position the airplane onto the runway; however, the airplane landed about 600 ft from the departure end 
+of the runway, overran the end of the runway, and struck a fence which resulted in substantial damage to 
+the wings and fuselage. The pilot reported he believed that the recently replaced fuel selector valve 
+failed and starved the engine of fuel. 
+Postaccident examination of the airplane and an engine test run did not reveal any anomalies with the 
+engine, fuel system or the fuel selector valve that would have precluded normal operation. Thus, the 
+reason for the loss of engine power could not be determined. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of engine power for undetermined reasons because postaccident examination of the engine and 
+fuel system did not reveal any anomalies that would have precluded normal operation, which led to the 
+pilot’s forced landing and subsequent runway overshoot and collision with a fence. 

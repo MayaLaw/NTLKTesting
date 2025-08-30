@@ -1,0 +1,29 @@
+{
+    "Filename": "98544.txt",
+    "Location": "Atlantic Ocean, Atlantic Ocean",
+    "Accident Number": "ERA19LA026",
+    "Date & Time": "October 25, 2018, 11:19 Local",
+    "Aircraft": "Piper PA31T",
+    "Registration": "N555PM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Inflight upset",
+    "Injuries": "5 Fatal",
+    "Analysis": {
+        "Text": "two pilot three passenger conducting crosscountry flight ocean south carolina bahamas 30 minute flight climbing 24300 ft 25000 ft 95 mile beyond coast pilot made garbled radio transmission indicating emergency intent return time transmission airplane drifted slightly right course airplane began descent returned course controller requested several time pilot repeat radio transmission pilot replied descending 15 second later altitude 23500 ft airplane turned sharply toward left descent rate increased greater 4000 ft per minute consistent loss control attempt air traffic controller clarify nature emergency pilot intention unsuccessful 1 minute sharp left turn increased descent pilot declared emergency communication received search effort coordinated u coast guard observed oil slick debris water vicinity airplane last observed via radar however debris identified recovered according recorded weather information shallow layer favorable light rime icing present 23000 ft however airplane recovered investigation could determine whether airframe icing morespecific issue contributed loss control one air traffic control communication audio recording intermittently captured sound emergency locator transmitter elt homing signal 45 minute beginning near time takeoff ending 5 minute radar contact lost due intermittent nature signal duration recording could determined elt signal begun transmitting ceased transmitting time elt homing signal sound airplane source could determined however elt sound recorded second two geographic area airplane flew began airplane arrived near either area accident airplane elt activated near start flight unlikely would detected second area first additionally intermittent nature elt signal consistent elt located ground rather airborne activation airborne elt likely direct lineofsight one",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "elt",
+                8
+            ],
+            [
+                "pilot",
+                6
+            ]
+        ]
+    }
+}

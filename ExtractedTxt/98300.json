@@ -1,0 +1,29 @@
+{
+    "Filename": "98300.txt",
+    "Location": "Woburn, Massachusetts",
+    "Accident Number": "ERA18FA251",
+    "Date & Time": "September 15, 2018, 11:03 Local",
+    "Aircraft": "COLUMBIA AIRCRAFT Mfg LC41",
+    "Registration": "N2536T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "instrumentrated pilot one passenger approaching destination airport following instrument flight rule crosscountry flight instrument meteorological condition reported weather destination included ceiling 400 600 ft ground level visibility 2 mile mist controller cleared airplane instrument landing system il approach pilot intercepted localizer immediately descended minimum altitude required maintain prior crossing final approach fix faf controller issued low altitude alert airplane crossing faf 700 ft minimum altitude pilot responded climbing report problem issue airplane controller airplane drifted right localizer course controller advised pilot response airplane subsequently proceeded left localizer course controller issued another low altitude alert asked pilot still approach pilot responded approach pulling final minute flight airplane observed rapid turning climb descent radar contact lost airplane impacted terrain 42 mile eastsoutheast airport accident site evidence impact damage airplane indicative highvelocity impact examination wreckage revealed evidence preimpact mechanical anomaly analysis video doorbell captured audio airplane flight revealed engine speed consistent high power reduced visibility condition present time accident high workload associated instrument approach conducive onset pilot spatial disorientation airplane erratic maneuvering highenergy impact consistent known effect spatial disorientation therefore likely pilot became spatially disoriented instrument approach resulted loss airplane control probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                11
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "approach",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Bartow, Florida
+Accident Number:
+ERA18LA265
+Date & Time:
+September 28, 2018, 13:25 Local 
+Registration:
+N4592X
+Aircraft:
+Piper PA32
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot reported that during cruise flight, the engine began to run roughly. The No. 3 cylinder 
+then separated from the airplane; the engine lost all power, and oil began to cover the windshield. The 
+pilot flew via instruments and landed in a marsh; the right wing of the airplane separated after contacting 
+a tree. Postaccident engine examination revealed impact marks on the engine crankcase where the No. 3 
+cylinder would have been secured. The marks were consistent with the cylinder impacting the case 
+multiple times. The examination also revealed that several of the nuts on other cylinders were well 
+below the required 50 ft-lbs of torque. The engine's most recent overhaul was completed about 12 years 
+before the accident, and the engine had accrued about 366 hours since that overhaul; there was no record 
+of cylinder removal or replacement since the engine overhaul. It is likely that undertorqued cylinder nuts 
+allowed the cylinder to come loose and separate from the engine. The investigation could not determine 
+if the undertorqued condition of the cylinder nuts was the result of an improper overhaul or possible 
+improper undocumented maintenance after the overhaul.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power after the separation of the No. 3 cylinder from the crankcase due to 
+improper maintenance.

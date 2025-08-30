@@ -1,0 +1,31 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Meadow Lakes, Alaska
+Accident Number:
+GAA18CA454
+Date & Time:
+July 24, 2018, 17:30 Local 
+Registration:
+N171Q
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the initial climb, the engine experienced a total loss of power. He added 
+that he realized the wrong fuel tank had been selected for takeoff. He subsequently performed a forced 
+landing on a gravel stream bed north of the runway.
+The airplane sustained substantial damage to both wings and the empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's selection of the wrong fuel tank for departure, which resulted in fuel starvation and the 
+subsequent total loss of engine power.

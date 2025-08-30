@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Ramona, California
+Accident Number:
+WPR19LA023
+Date & Time:
+November 10, 2018, 07:52 Local 
+Registration:
+N5433T
+Aircraft:
+Vans RV7A
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During takeoff on the first flight since the airplane was built, the engine began to lose power.  
+The passenger conducted a series of troubleshooting steps while the pilot flew the airplane.  
+Unable to restore engine power, the pilot landed in a rock-covered field.  The airplane came to 
+rest upright; a postimpact fire ensued and consumed most of the airplane. Postaccident 
+examination of the engine revealed no evidence of any preexisting mechanical malfunctions 
+that would have precluded normal operation.  The airplane was equipped with an electric 
+constant speed propeller, which was controlled by an electric propeller controller.  Due to the 
+postimpact fire damage sustained to the airplane, functional testing of the propeller control 
+unit could not be performed.  Due to the lack of available information, the reason for the 
+partial loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The partial loss of engine power for reasons that could not be determined based on the 
+available information.

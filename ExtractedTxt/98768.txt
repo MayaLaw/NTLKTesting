@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Valparaiso, Indiana
+Accident Number:
+CEN19FA044
+Date & Time:
+December 13, 2018, 10:44 Local 
+Registration:
+N6785P
+Aircraft:
+Piper PA24
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was departing on a personal flight. Witness observations and surveillance video 
+captured the airplane during the initial climb; the right wing dropped and then the airplane 
+entered a right spin.  A surveillance video from a camera mounted on a building near the 
+accident captured the final portion of the accident sequence; the airplane completed one 
+revolution in the spin before it impacted the ground in a near vertical attitude. Examination of 
+the airplane, engine, and systems revealed no evidence of any preimpact anomalies. The 
+circumstances of the accident are consistent with the pilot's failure to maintain adequate 
+airspeed during the initial climb after takeoff, which resulted in an exceedance of the airplane's 
+critical angle of attack and a subsequent aerodynamic stall and spin.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to&nbsp;maintain adequate airspeed during the initial climb after takeoff, 
+which resulted in an exceedance of the airplane's critical angle of attack and a subsequent 
+aerodynamic stall and spin.

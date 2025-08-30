@@ -1,0 +1,43 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+New Orleans, Louisiana
+Accident Number:
+CEN16LA338
+Date & Time:
+August 27, 2016, 20:15 Local 
+Registration:
+N984RA
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Controlled flight into terr/obj (CFIT)
+Injuries:
+2 Fatal, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+Shortly after sunset, the pilot with two passengers departed on a local sightseeing flight of the city. The 
+flight flew around the city, then proceeded back to the airport after civil twilight. The final portion of the 
+flight and the landing approach were conducted over a lake. A review of radar's last return revealed the 
+airplane about 0.6 miles from the airport at an altitude of 100 ft agl. The surviving passenger reported 
+everything appeared normal during the flight, and as they neared the airport, it started to rain, and 
+visibility was poor. The pilot pointed out 4 four red lights ahead of the airplane and stated to the 
+passengers that was the airport. The passenger added that she could see out the side window and the 
+airplane was about 4-6 ft above the surface of the lake. Shortly thereafter, the airplane impacted the lake.
+Postaccident examination of the airplane did not reveal any anomalies that would have precluded normal 
+operation. A review of weather information noted the presence of thunderstorm activity and isolated rain 
+showers in the area at the time of the accident.
+The pilot's toxicology report was positive for ethanol and clomipramine. Due to a delay in the recovery, 
+it is likely that most, if not all, of the ethanol was from postmortem production. Clomipramine is a 
+tricyclic antidepressant used to treat symptoms of obsessive-compulsive disorder. Clomipramine is not 
+considered impairing. Additionally, the pilot's actions and communication with the passengers also 
+indicate that the pilot did not experience a seizure or incapacitation, so a reaction to his medication was 
+not likely.
+With reduced visibility due to rain and night conditions, it is unlikely the pilot could see the water. The 
+four red lights, consistent with the runway's precision approach path indicator (PAPI) that the pilot 
+pointed out to the passengers, reflected the airplane's low approach path. The accident is consistent with 
+the pilot continuing the descent, while already below a normal approach path to the airport, which 
+resulted in the controlled flight into terrain. 

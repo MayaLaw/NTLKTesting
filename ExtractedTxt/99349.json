@@ -1,0 +1,29 @@
+{
+    "Filename": "99349.txt",
+    "Location": "Easton, Maryland",
+    "Accident Number": "ERA19LA160",
+    "Date & Time": "March 13, 2019, 17:40 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N33305",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor pilot flight resume pilot instrument training performing maneuver several touchandgo landing pilot elected perform practice instrument approach destination airport approach configured airplane landing flight instructor noted airplane glideslope asked pilot increase engine power however engine respond throttle input flight instructor took control attempted restore engine power without success propeller continued windmill pilot switched fuel tank engine restart flight instructor performed forced landing nearby field fuselage substantially damaged recovery field fuel drained fuel tank water debris noted fuel examination engine revealed crankshaft valvetrain continuity throughout engine propeller rotated 360deg motion compression suction noted cylinder addition fuel plumbed engine engine started ran smoothly without hesitation engine power decreased idle power engine shut mechanical malfunction failure noted engine would precluded normal operation accident reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident loss engine power reason could determined postaccident engine examination testing revealed preimpact mechanical malfunction failure would precluded normal operation",
+        "Top Words": [
+            [
+                "engine",
+                14
+            ],
+            [
+                "power",
+                6
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

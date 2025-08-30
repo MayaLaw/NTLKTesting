@@ -1,0 +1,29 @@
+{
+    "Filename": "98770.txt",
+    "Location": "Fredericksburg, Virginia",
+    "Accident Number": "ERA19FA066",
+    "Date & Time": "December 14, 2018, 07:40 Local",
+    "Aircraft": "Eipper Quicksilver",
+    "Registration": "N350FT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot operating experimental amateurbuilt airplane personal flight airport traffic pattern video audio recovered airframemounted camera along track data recorded two onboard gps receiver revealed initial climb throttle reduced increased back climb engine power upwind crosswind leg traffic pattern airplane turned toward downwind leg altitude 300 foot throttle reduced increased briefly reduced sounded consistent idle setting video gps track data showed rather aligning downwind leg traffic pattern airplane continued tightening steepening left turn engine idle power airplane last gpsrecorded position accident site gps data also showed airplane groundspeed turn near airplane publishedplacarded stall speed ground impact video camera recorded pop sound consistent activation airplane ballistic recovery system parachute postaccident examination airframe engine revealed preimpact mechanical anomaly would precluded normal operation pilot purchased airplane 3 month accident time purchase airplane opencockpit tubularframed configuration pilot subsequently enclosed open cockpit using pvc tubing sheet plexiglas zip tie investigation could determine whether cockpit modification affected handling stall characteristic airplane modification notwithstanding gps data showed airplane operating near stall speed entered tight left turn likely encountered aerodynamic stall descended ground impact probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack led aerodynamic stall turning traffic pattern low altitude",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "stall",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

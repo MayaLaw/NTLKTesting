@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Woodstock, Georgia
+Accident Number:
+ERA19LA037
+Date & Time:
+November 4, 2018, 09:33 Local 
+Registration:
+N3515J
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The private pilot and student pilot passenger were departing on a local personal flight from a 2,000-ft-
+long turf runway. The passenger reported that the airplane seemed to "struggle to climb" after clearing 
+trees near the end of the runway. He heard the stall warning horn activate, and the airplane descended 
+into trees and impacted the ground. Witnesses reported that the airplane "wobbled" as it climbed and that 
+the right wing dropped before the airplane crashed into the woods.
+Although the airplane's most recent annual inspection was completed about 8 years before the accident, 
+examination of the airframe and engine did not reveal any evidence of a preaccident malfunction or 
+anomaly. A review of the pilot's logbook revealed no current flight review or recent flight experience, 
+and the pilot did not hold a current medical certificate. Reported wind conditions at a nearby airport 
+indicated that a quartering tailwind may have been present about the time of the accident, with gusts up 
+to 20 knots. Based on the available information, it is likely that the pilot failed to maintain airspeed 
+during the initial climb in gusting wind conditions, which resulted in an exceedance of the airplane's 
+critical angle of attack, an aerodynamic stall, and loss of control.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airspeed during the initial climb in gusting wind conditions, which 
+resulted in an aerodynamic stall and loss of control. Contributing to the accident was the 
+pilot's lack of recent flight experience.

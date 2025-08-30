@@ -1,0 +1,32 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Loveland, Colorado
+Accident Number:
+GAA17CA131
+Date & Time:
+February 5, 2017, 15:55 Local 
+Registration:
+N4853U
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that the airplane was low and that he felt "rushed" during final approach. He added 
+that, during the landing roll, the airplane "started to veer off the runway," so he applied power to abort 
+the landing and that, during the aborted landing, he "pulled back" on the yoke. The airplane then 
+aerodynamically stalled and impacted grass left of the runway and then nosed over.
+The fuselage, left wing, and vertical stabilizer sustained substantial damage.
+The pilot reported that there were no preaccident mechanical malfunctions or failures with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during an attempted go-around, which 
+resulted in an aerodynamic stall.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97973.txt",
+    "Location": "Spring, Texas",
+    "Accident Number": "GAA18CA464",
+    "Date & Time": "July 26, 2018, 17:30 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N865CP",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported landing flared airplane high landed hard added airplane dipped felt nosewheel wobble turned engine steered grass runway airplane sustained substantial damage fuselage student reported preaccident mechanical failure malfunction airplane would precluded normal operation student reported wind 110 6 knot automated weather observation station located airport reported 23 minute accident wind 100 9 knot airplane landed runway 35r probable cause finding national transportation safety board determines probable cause accident student pilot improper landing flare crosswind resulted hard landing",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "student",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

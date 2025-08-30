@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Gaithersburg, Maryland
+Accident Number:
+ERA17LA204
+Date & Time:
+June 8, 2017, 21:10 Local 
+Registration:
+N3020M
+Aircraft:
+Piper PA 44-180
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+According to the flight instructor, after an uneventful training flight, the airplane was returning to home 
+base. After touchdown and during the landing roll, the airplane veered to the right of the centerline and 
+stopped. The instructor exited the airplane and discovered that the right main landing gear had collapsed. 
+Postaccident examination of the landing gear revealed that the right aft main landing gear trunnion 
+bracket had failed and that the wing spar web was damaged. A visual examination of the fracture 
+surfaces revealed that the landing gear trunnion bracket failed during an overstress event. A review of 
+the logbooks did not reveal any recent maintenance to the gear assembly. The investigation could not 
+determine when the overstress event occurred that resulted in the failure of right main landing gear 
+trunnion bracket.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the right main landing gear trunnion bracket due to an undetermined overstress event.
+Findings
+Aircraft
+Main landing gear attach sec - Failure

@@ -1,0 +1,29 @@
+{
+    "Filename": "97904.txt",
+    "Location": "Malden, Missouri",
+    "Accident Number": "GAA18CA446",
+    "Date & Time": "July 20, 2018, 17:00 Local",
+    "Aircraft": "Cessna 310",
+    "Registration": "N46CH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing airplane hit turbulence felt like bottom dropped subsequently airplane landed hard airplane sustained substantial damage right wing front spar pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported wind light variable automated weather observation system 19 nautical mile accident site reported time accident wind 220 7 knot gusting 15 knot pilot landed airplane runway 18 probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare gusting wind condition resulted hard landing",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "99122.txt",
+    "Location": "Granite Shoals, Texas",
+    "Accident Number": "CEN19LA101",
+    "Date & Time": "March 6, 2019, 13:00 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N6917F",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Minor, 2 None",
+    "Analysis": {
+        "Text": "pilot reported last fueled airplane 5 month accident flight pilot conducted preflight inspection sumped wing fuel tank left fuel tank sediment present continued sumping fuel became clear fuel right fuel tank ran clear engine start left tank fuel gauge indicated near empty right fuel tank gauge indicated 14 full subsequently pilot took personal crosscountry flight starting right turn 600 ft ground level engine sputtered lost power pilot attempted turn back airport realized airplane low executed forced landing field small tree left wing struck tree resulted substantial damage wing pilot reported accident found sediment left tank stated believed low fuel state sediment left tank may starved engine fuel turn fuel onboard would probably helpful however likely due low fuel state pilot conducted right turn fuel became unported resulting loss engine power due fuel starvation probable cause finding national transportation safety board determines probable cause accident pilot decision takeoff limited amount fuel onboard unported turn resulting fuel starvation subsequent loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                15
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "tank",
+                7
+            ]
+        ]
+    }
+}

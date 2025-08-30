@@ -1,0 +1,29 @@
+{
+    "Filename": "98227.txt",
+    "Location": "Fulton, Missouri",
+    "Accident Number": "GAA18CA524",
+    "Date & Time": "August 28, 2018, 09:25 Local",
+    "Aircraft": "Luscombe 8",
+    "Registration": "N1211B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing roll wind gust pushed airplane left pilot added partial throttle enhance rudder effectiveness unsuccessful airplane veered left exited runway impacted ditch airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located 10 mile west accident airport reported 31 minute accident wind 180 13 knot gusting 22 knot automated station reported 29 minute accident wind 200 16 knot gusting 23 knot peak wind 4 minute accident 190 27 knot airplane landed runway 18 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing gusting crosswind condition",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "accident",
+                5
+            ],
+            [
+                "knot",
+                5
+            ]
+        ]
+    }
+}

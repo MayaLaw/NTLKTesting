@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Aberdeen, Idaho
+Accident Number:
+WPR18LA149
+Date & Time:
+May 27, 2018, 14:20 Local 
+Registration:
+N5700B
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a personal, cross-country flight. During the flight, the airplane encountered 
+light drizzle and reduced visibility. After continuing for a few minutes in these conditions while about 
+2,000 ft above ground level, the pilot decided to initiate a right turn and divert from his original 
+destination. As the airplane exited the turn, the engine “stuttered” a few times and eventually lost power. 
+Despite the pilot's attempts to restore engine power, during which he did not apply carburetor heat, the 
+engine would only run roughly and inconsistently. He then decided to divert to another airport that was 
+closer to the airplane’s position. As he was about to reattempt to restore engine power, the engine 
+developed partial power; however, it was insufficient to sustain flight. Realizing the airplane could not 
+reach the airport, he chose to conduct an emergency landing to an open field. During the landing roll, the 
+main landing gear dug into dirt, and the nosewheel then hit the ground hard and collapsed. 
+Subsequently, the nose dug into dirt, and the airplane nosed over, which resulted in substantial damage 
+to the vertical stabilizer, rudder, and fuselage.  
+Examination of the engine revealed no evidence of preaccident mechanical malfunctions or failures that 
+would have precluded normal operation. The atmospheric conditions that existed around the time of the 
+accident were conducive to the formation of serious carburetor icing at cruise power. Therefore, it is 
+likely the engine lost power due to the accumulation of carburetor ice, which resulted from the pilot’s 
+failure to use carburetor heat.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to use carburetor heat while operating in conditions conducive to carburetor icing, 

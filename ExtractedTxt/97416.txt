@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Springdale, Arkansas
+Accident Number:
+GAA18CA327
+Date & Time:
+June 6, 2018, 09:48 Local 
+Registration:
+N748J
+Aircraft:
+JABIRU USA SPORT AIRCRAFT LLC 
+J230-SP
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The solo student pilot reported that, during takeoff, the airplane started to veer left. He attempted to 
+recover with right rudder input, but the airplane continued to veer left, departed the runway, and then 
+came to rest in a ditch against the perimeter fence. 
+The airplane sustained substantial damage to the left lift strut.
+The student pilot reported that there were no preaccident mechanical failures or malfunctions with the 
+airplane that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain directional control during takeoff.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Student/instructed pilot

@@ -1,0 +1,29 @@
+{
+    "Filename": "94722.txt",
+    "Location": "Climax, Georgia",
+    "Accident Number": "ERA17FA107",
+    "Date & Time": "February 16, 2017, 18:52 Local",
+    "Aircraft": "Beech A45",
+    "Registration": "N3434G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "pilot flying local personal flight personal airstrip sundown witness heard airplane crash reported engine made sputtering sound airplane collided two tall tree came rest inverted approach end runway propeller exhibit indication rotational damage although right fuel tank breached impact fuel found inside left tank contained 11 gallon fuel annual inspection completed airframe engine 22 hour accident examination engine fuel line found throttle metering unit outlet b nut less fingertight fuel manifold valve cap opened fuel leaked loose throttle metering unit outlet b nut compressed air passed throttle metering unit inlet fuel line bubble fuel could seen coming fuel outlet fitting condition fuel line inspection item specifically noted completed annual inspection throttle metering unit outlet b nut likely adequately secured inspection backed 22hour previous flight 12minute accident flight subsequently resulted total loss engine power pilot likely attempting return runway landing gear extended flap time accident however since accident occurred concurrently end civil twilight possible see tree final approach due darkening condition probable cause finding national transportation safety board determines probable cause accident failure maintenance personnel ensure throttle fuel metering unit b nut secured resulted total loss engine power flight subsequent collision tree attempting land sunset",
+        "Top Words": [
+            [
+                "fuel",
+                11
+            ],
+            [
+                "engine",
+                5
+            ],
+            [
+                "accident",
+                5
+            ]
+        ]
+    }
+}

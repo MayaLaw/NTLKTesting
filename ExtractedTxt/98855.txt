@@ -1,0 +1,45 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Lakeland, Florida
+Accident Number:
+ERA19LA078
+Date & Time:
+December 22, 2018, 10:12 Local 
+Registration:
+N587BL
+Aircraft:
+BRM Aero Bristell S-LSA
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot had completed two touch-and-go landings at his home airport in crosswind 
+conditions. During the approach for the third touch-and-go landing, the air traffic controller instructed 
+the pilot to fly a right closed traffic pattern, rather than a standard left traffic pattern (which was 
+performed during the two previous touch-and-go landings), to avoid a potential conflict with another 
+airplane. The pilot acknowledged the instruction. Surveillance video showed that, after the third touch-
+and-go landing, the airplane began a steep climb along the runway heading, gained altitude rapidly, 
+entered a rapidly descending left turn, and impacted terrain in a near-vertical pitch-down attitude. 
+Although a postcrash explosion and fire consumed most of the airplane, examination of the remaining 
+airplane wreckage found no evidence of a preimpact mechanical malfunction or failure that would have 
+precluded normal operation.
+The airplane's increased angle of attack and high rate of climb likely led to an exceedance of the critical 
+angle of attack, causing an aerodynamic stall at low altitude from which the student pilot was unable to 
+recover. The investigation could not determine, based on the available evidence, why the pilot did not 
+mitigate the airplane's rapidly increasing angle of attack and climb rate shortly after takeoff given that 
+the airplane was equipped with an angle-of-attack audio and visual stall warning indicator.
+The autopsy of the pilot found that he had early coronary artery disease. As a result, the pilot might have 
+been at increased risk of a sudden cardiac event that could have caused symptoms such as palpitations, 
+shortness of breath, chest pain, or fainting, but there was no evidence that such an event occurred. 
+Therefore, it is unlikely that the pilot's heart disease contributed to this accident. Toxicology testing 
+detected ethanol in one tissue at a very low level; no ethanol was found in the pilot's brain. The 
+identified ethanol was most likely from postmortem production and therefore did not contribute to the 
+accident circumstances. Although cetirizine, which is sedating and can affect decision-making and 
+performance, was identified in the pilot's liver and muscle specimens, the amount of cetirizine in the 
+pilot's blood, and thus the effects of the pilot's use of this drug, could not be determined.

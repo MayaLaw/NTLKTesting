@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+State College, Pennsylvania
+Accident Number:
+ERA19LA024
+Date & Time:
+October 24, 2018, 00:36 Local 
+Registration:
+N8319D
+Aircraft:
+Beech 35
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot reported that he departed on a long, cross-country flight at night with full fuel 
+tanks. The pilot stated that the fuel selector was set to the left main fuel tank on departure and that he 
+moved the selector to the auxiliary tank about 1 hour later. About 1 to 2 hours after that, the pilot moved 
+the fuel selector switch to the right main fuel tank, where it remained for the remainder of the flight 
+(about 30 minutes). The flight was uneventful until it was on final approach to land and between about 
+400 and 500 ft above ground level, at which point, the engine suddenly stopped producing power. The 
+pilot recalled the passenger saying there was no fuel pressure, and he immediately pushed the throttle 
+and mixture full forward and retracted the flaps. He also turned on the auxiliary fuel pump and pressed 
+the starter button to restart the engine to no avail. The pilot did not switch the fuel selector to another 
+tank. Due to the low altitude, the pilot slowed the airplane and conducted an emergency landing in trees, 
+during which both wings, the fuselage, and the tail section sustained substantial damage. 
+Postaccident examination of the engine and fuel system revealed no evidence of any preaccident 
+mechanical malfunctions or failures that would have precluded normal operation. The fuel selector was 
+found set to the right main fuel tank, which was found empty of fuel. However, measurable fuel was 
+found in the remaining three tanks. Therefore, the loss of engine power was likely due to the pilot's 
+mismanagement of the available fuel, which resulted in the loss of all engine power due to fuel 
+starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's mismanagement of the available fuel, which resulted in a total loss of engine power due to 
+fuel starvation.

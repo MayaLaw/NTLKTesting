@@ -1,0 +1,29 @@
+{
+    "Filename": "98638.txt",
+    "Location": "Williams, Arizona",
+    "Accident Number": "GAA19CA060",
+    "Date & Time": "November 14, 2018, 12:06 Local",
+    "Aircraft": "Beech 36",
+    "Registration": "N264PC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot reported uphill takeoff ascending terrain 4000 ft 6000ft long runway 80 knot rotated airplane stayed ground effect gain airspeed began pulling back establish climb stall warning horn sounded reduced pitch attitude added constantly attempted pitch heard stall horn end runway retracted landing gear affect airplane performance reported knew airplane attained positive climb rate know specific value saw airplane going strike tree pulled back hard airplane struck tree impacted terrain airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 9 minute accident wind calm temperature 50f dew point 3f altimeter setting 3041 inch mercury airplane departed runway 18 airport elevation 6691 ft mean sea level msl runway 18 6000 ft 100 ft 10 gradient calculated density altitude 7128 ft calculated takeoff distance flap 2442 ft takeoff distance 50ft obstacle 4440 ft calculated climb rate 670 ft per minute airplane equipped additional tip tank per supplemental type certificate increased allowable maximum gross weight 3833 lb pilot reported airplane weight time accident 3797 lb center gravity 807 inch near forward center gravity limit",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "ft",
+                8
+            ],
+            [
+                "reported",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97220.txt",
+    "Location": "Fulton, New York",
+    "Accident Number": "GAA18CA268",
+    "Date & Time": "May 5, 2018, 10:40 Local",
+    "Aircraft": "Piper PA 15",
+    "Registration": "N4534H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing crosswind condition airplane ground looped right airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system accident airport reported time accident wind 260 10 knot pilot landed runway 24 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

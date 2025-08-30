@@ -1,0 +1,29 @@
+{
+    "Filename": "98710.txt",
+    "Location": "Memphis, Indiana",
+    "Accident Number": "CEN19FA036",
+    "Date & Time": "November 30, 2018, 10:28 Local",
+    "Aircraft": "Cessna 525",
+    "Registration": "N525EG",
+    "Flight Conducted Under": "Part 91: General aviation - Business",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Flight control sys malf/fail",
+    "Injuries": "3 Fatal",
+    "Analysis": {
+        "Text": "pilot two passenger departed instrument meteorological condition cross country flight according airplane automatic dependent surveillancebroadcast ad b data airplane climbed 1400 ft mean sea level msl turned left onto track toward assigned fix continued climb pilot contacted air traffic control assigned 10000 ft turned autopilot adjusted selected altitude 10000 ft airplane passed 3000 ft airspeed 230 240 kt continued climb airplane began bank left rate 5 per second onset roll airplane maintained airspeed continued climb 12 second indicated engine power reduced response roll onset airplane reached 30 left bank 3 second onset roll autopilot disconnected accompanied aural alert 1 second later cockpit voice recorder cvr recorded statement pilot consistent surprise likely made response autopilot disconnect andor bank angle based pilot statement surprise unlikely pilot commanded left bank airplane continued climb reached maximum altitude 6100 ft msl began rapidly descend left bank angle reaching near 90 descent airplane enhanced ground proximity warning system announced eight bank angle annunciation one overspeed warning annunciation 23 second autopilot disconnected pilot made mayday call shouting emergency descent unable gain control aircraft final adsb data point airplane altitude 1000 ft msl airspeed 380 kt 53 left bank airplane impacted wooded area 85 mile northwest departure airport total time beginning left bank ground impact 35 second",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "bank",
+                8
+            ],
+            [
+                "left",
+                7
+            ]
+        ]
+    }
+}

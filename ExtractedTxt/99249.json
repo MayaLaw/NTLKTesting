@@ -1,0 +1,29 @@
+{
+    "Filename": "99249.txt",
+    "Location": "Fort Meyers, Florida",
+    "Accident Number": "DCA19CA137",
+    "Date & Time": "April 11, 2019, 23:16 Local",
+    "Aircraft": "Boeing 737",
+    "Registration": "N31412",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Cabin safety event",
+    "Injuries": "1 Serious, 107 None",
+    "Analysis": {
+        "Text": "april 11 2019 2316 eastern daylight time united airline flight 2260 boeing 737 924 n31412 aft galley oven dislodged landing southwest florida international airportkrsw fort myers florida 107 passenger crew onboard one flight attendant sustained serious injury airplane damaged flight operating provision 14 code federal regulation cfr part 121 regularly scheduled passenger flight george bush intercontinental airport kiah houston texas krsw touchdown runway 24 aft galley oven became dislodged aft galley flight attendant attempted restrain causing injury taxiing gate deplaning flight attendant treated emergency medical personnel transported hospital diagnosed fractured left forearm post flight examination found multiple attach screw bottom oven missing allowed oven slide compartment landing subsequent accident operator conducted fleet inspection oven housing attach screw probable cause finding national transportation safety board determines probable cause accident missing attach screw aft galley oven allowed become dislodged landing injuring flight attendant",
+        "Top Words": [
+            [
+                "flight",
+                8
+            ],
+            [
+                "oven",
+                6
+            ],
+            [
+                "aft",
+                4
+            ]
+        ]
+    }
+}

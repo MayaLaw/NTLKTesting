@@ -1,0 +1,29 @@
+{
+    "Filename": "97785.txt",
+    "Location": "Lowville, New York",
+    "Accident Number": "GAA18CA423",
+    "Date & Time": "July 15, 2018, 10:30 Local",
+    "Aircraft": "DANIELS ALAN L KITFOX SERIES 7",
+    "Registration": "N555HT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported landing 5 ft ground left wing raised right wing impacted ground subsequently airplane twisted right landed sideways left main landing gear pilot reported telephone conversation landing airplane got slow breeze left airplane respond applied correction lateral control airplane sustained substantial damage wing fuselage elevator pilot recommended speed performed goaround pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper airspeed approach land resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Anchorage, Alaska
+Accident Number:
+ANC19CA003
+Date & Time:
+October 11, 2018, 12:50 Local 
+Registration:
+N6492H
+Aircraft:
+Cessna 207
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot reported that, while on a visual approach at 700 ft, the airplane lost all engine power. The pilot 
+immediately recognized that the selected fuel tank was empty because she had forgotten to switch fuel 
+tanks during the flight. She attempted to restore engine power by selecting the other fuel tank, which did 
+have fuel remaining, and activating the auxiliary fuel pump. Partial engine power was restored, and the 
+pilot decided to land at a nearby private airstrip. During the approach, the right wing struck a tree. The 
+pilot continued the landing, and during the landing roll, the nosewheel contacted soft gravel, and the 
+nose landing gear collapsed.
+The airplane sustained substantial damage to the right wing and fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate in-flight fuel management, which resulted in fuel starvation and the subsequent 
+loss of engine power, and her subsequent failure to maintain clearance from trees during the approach to 
+land at a nearby airstrip.

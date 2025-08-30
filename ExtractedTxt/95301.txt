@@ -1,0 +1,40 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Goodyear, Arizona
+Accident Number:
+WPR17LA121
+Date & Time:
+June 4, 2017, 09:17 Local 
+Registration:
+N51FB
+Aircraft:
+Bob Frederick Titan T-51
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot indicated that, immediately after takeoff for the local flight, the experimental, 
+amateur-built airplane began to vibrate. As he transitioned the airplane to the downwind leg, the 
+vibration increased, and the engine then experienced an overspeed and lost all power. The cockpit filled 
+with smoke and the pilot subsequently performed a forced off-airport landing, which resulted in 
+substantial damage to the left wing and aft fuselage.
+The airplane had accrued about 43 flight hours since its construction, which was completed about 2 
+years before the accident.
+Examination of the propeller speed reduction gearbox revealed that the teeth of the input drive gear had 
+separated, which caused a loss of drive continuity to the propeller. The drive and idler gears did not 
+appear to meet the manufacturer's case hardness requirements; however, evidence suggests that the 
+gearbox had undergone severe heat buildup during the failure sequence, which may have subsequently 
+altered the hardness. Oil starvation or exhaustion likely did not occur, as the gearbox bearings were 
+intact and largely undamaged. Due to damage sustained to the gears, an accurate assessment of the 
+initial failure mode could not be determined. Thus, the investigation could not determine the reason for 
+the failure of the propeller speed reduction gearbox input drive gear.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Failure of the propeller speed reduction gearbox input drive gear during the airplane's initial climb for 
+reasons that could not be determined due to extensive damage.

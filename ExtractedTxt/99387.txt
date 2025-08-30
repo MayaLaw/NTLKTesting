@@ -1,0 +1,43 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Foley, Alabama
+Accident Number:
+ERA19FA164
+Date & Time:
+May 6, 2019, 12:47 Local 
+Registration:
+N5542U
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal, 1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The flight instructor and student pilot were conducting simulated engine-out emergency procedures in 
+the airport traffic pattern. About 300-400 ft above ground level after takeoff, witnesses reported that the 
+flight instructor announced on the radio that the engine had quit. Witnesses reported that the airplane 
+then entered a nose-high, steep left turn before pitching down and impacting the ground.
+Postaccident examination of the airframe and flight controls revealed no mechanical anomalies that 
+would have precluded normal operation. Examination of the engine revealed that the No. 4 cylinder 
+exhaust valve was stuck in the valve guide due to excessive combustion deposits. It is likely that the 
+stuck exhaust valve resulted in a partial loss of engine power.
+A flight instructor who flew the accident airplane the day before the accident flight reported 
+experiencing engine roughness when performing simulated engine-out procedures. Following that flight, 
+a mechanic cleaned the sparkplugs, performed an engine run-up, and returned the airplane to service; 
+however, maintenance records did not show that the engine valves were inspected for sticking at that 
+time. Manufacturer service instructions suggested inspecting for valve sticking at regular intervals or 
+sooner if sticking was suspected. If a valve inspection had been completed in accordance with engine 
+manufacturer guidance the day before the accident following the report of engine roughness, it is likely 
+that the heavy carbon deposits on the exhaust valve would have been detected.
+Given that the flight instructor reportedly had students trim the airplane nose-up when landing, it is 
+possible that the airplane was trimmed nose-high at the time of takeoff and the subsequent loss of engine 
+power. Such a trim setting would have led to excessive pitch up, resulting in a rapid loss of airspeed, an 
+exceedance of the airplane's critical angle of attack, and an aerodynamic stall at low altitude.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

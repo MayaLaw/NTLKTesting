@@ -1,0 +1,29 @@
+{
+    "Filename": "98251.txt",
+    "Location": "Port Huron, Michigan",
+    "Accident Number": "CEN18FA371",
+    "Date & Time": "September 5, 2018, 23:47 Local",
+    "Aircraft": "Cessna 340A",
+    "Registration": "C-GLKX",
+    "Flight Conducted Under": "Part 91: General aviation",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel starvation",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot multiengine airplane conducting instrument approach night visual meteorological condition 13 nautical mile nm final approach fix right engine lost total power pilot continued approach notified air traffic control loss power 1 minute 13 second later subsequently pilot contacted controller reported unable activate airport pilotcontrolled runway lighting pilot last radio transmission indicated airport going reshoot approach last radar return indicated airplane 450 ft ground level 72 kt groundspeed airplane impacted ground steep vertical nosedown attitude 12 nm departure end runway examination wreckage revealed landing gear flap extended right propeller feathered data onboard airplane also indicated pilot secure right engine following loss power left engine continued produce power impact airplane fuel system held total 203 gallon fuel consumption calculation estimated 100 gallon remaining time accident rightwing locker fuel tank remained intact contained 14 gallon fuel fuel blight grass observed accident site blight associated right wing likely emanated rightwing tip tank elevator trim tab found full noseup position likely pulled position empennage separated aft pressure bulkhead impact examination airframe engine revealed evidence mechanical malfunction failure would precluded normal operation although adequate fuel board airplane pilot may inadvertently moved right fuel selector position intermediate position preparation landing instead selecting right wing fuel tank possibly ran right auxiliary fuel tank dry resulted fuel starvation right engine total loss power airplane manufacturer pilot operating handbook poh stated 20gallon right leftwing locker fuel tank used 90 minute flight however 14 gallon fuel found rightwing locker fuel tank",
+        "Top Words": [
+            [
+                "fuel",
+                13
+            ],
+            [
+                "right",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97921.txt",
+    "Location": "Columbia, Illinois",
+    "Accident Number": "CEN18LA299",
+    "Date & Time": "July 28, 2018, 12:25 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N624FL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "3 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "pilot departure local flight witness observed airplane climbing shallower attitude normal airplane appeared level contacted transmission line 12 mile departure end runway resulted substantial damage airplane postaccident examination engine found fouled sparkplugs cylinder 2 compression check cylinder revealed 60 psi cylinder 2 18 psi three cylinder 50 psi engine manufacturer service letter stated pressure reading 60 psi removal overhaul cylinder considered weight balance calculation revealed airplane operating near maximum gross weight circumstance accident consistent partial loss engine power due low compression cylinder fouled sparkplugs 2 cylinder loading airplane near maximum gross weight combined reduction available engine power likely allow airplane climb normally probable cause finding national transportation safety board determines probable cause accident airplane inability climb due reduced engine power result insufficient compression cylinder fouled spark plug 2 cylinder operating near maximum gross weight",
+        "Top Words": [
+            [
+                "cylinder",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

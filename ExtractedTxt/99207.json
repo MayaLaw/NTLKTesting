@@ -1,0 +1,29 @@
+{
+    "Filename": "99207.txt",
+    "Location": "Corvallis, Oregon",
+    "Accident Number": "GAA19CA189",
+    "Date & Time": "March 18, 2019, 12:00 Local",
+    "Aircraft": "Cessna 140",
+    "Registration": "N5641C",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot tailwheelequipped airplane newly endorsed tailwheel pilot flight control landing pilot control recalled airplane touched bounced added power airplane bounced settled runway landing roll airplane veered right overcorrected left applied right rudder airplane became squirrelly pilot owner airplane grabbed yoke applied rudder regain directional control airplane decelerated propeller struck runway airplane nosed pilot reported apply brake asked pilot control landing could recall whether applied brake airplane sustained substantial damage rudder vertical stabilizer pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing roll resulted propeller strike subsequent noseover",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "control",
+                5
+            ]
+        ]
+    }
+}

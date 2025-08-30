@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Anchorage, Alaska
+Accident Number:
+ANC18LA051
+Date & Time:
+June 29, 2018, 13:07 Local 
+Registration:
+N7675D
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot stated that he and the pilot-rated passenger fueled the airplane from his private 
+fuel tank at his floatplane slip before the flight and that the preflight inspection and engine run-up were 
+normal. He was conducting a takeoff from the rear seat with a pilot-rated passenger in the front seat. 
+When the airplane was between about 100 and 200 ft above ground level, the engine started to “sputter” 
+and lose power. The pilot attempted to restore power by cycling the throttle to no avail. Realizing he 
+would not be able to land on the water, he turned the airplane to land on a nearby gravel runway. He 
+asked the pilot-rated passenger to check that the fuel selector valve was in the “on” position, and he 
+responded that it was. He could not recall the impact attitude or the impact itself. The passenger’s 
+statement corroborated the pilot’s statement, but he added that the airplane landed with a nose-high 
+attitude and then banked right. Impact ground scars were evident across a gravel taxiway and a grassy 
+area next to the runway. The airplane sustained substantial damage to the fuselage and wings.
+The engine was found attached to the airframe and intact, and the fuel and oil lines were secure. 
+Postaccident examination of the engine and fuel system revealed that there was corrosion on the top 
+spark plugs, and no spark could be produced at the leads; however, these were likely caused by the 
+airplane’s exposure to water with the engine cowling off during the 2 months after the accident. No fuel 
+was present in the carburetor or the fuel line from the fuel strainer to the engine. The fuel tanks had 
+sufficient fuel and no water or debris was found in fuel samples from the fuel system or from the pilot’s 
+private fuel tank. One of the propeller blades was found straight with extensive trailing edge impact 
+damage and dirt and grass dried onto the cambered face, indicative of no rotation at impact. No evidence 
+of any preaccident mechanical malfunctions or failures were noted with the engine or airframe that 
+would have precluded normal operation. Based on the evidence, it is likely that fuel was not reaching the 
+engine, which led to fuel starvation and a subsequent total loss of engine power.

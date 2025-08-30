@@ -1,0 +1,42 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Napa, California
+Accident Number:
+WPR18TA223
+Date & Time:
+August 11, 2018, 10:56 Local 
+Registration:
+N328SK
+Aircraft:
+Zenair ZENITH STOL CH750
+Aircraft Damage:
+Substantial
+Defining Event:
+Powerplant sys/comp malf/fail
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot/owner was conducting a flight in the experimental amateur-built airplane with a pilot-rated 
+passenger, who was a potential buyer. The pilot reported that they flew in the local area for about 20 
+minutes, and then smoke entered the cockpit. The pilot declared an emergency and headed toward the 
+departure airport. Within 1-2 minutes, the engine lost all oil pressure and then lost total power.
+The pilot initially attempted to glide to the airport but, because it was too far away, decided to land on a 
+road atop a nearby levee. The airplane touched down normally, but due to wind, the left wingtip struck 
+the ground; the airplane spun, veered off the levee, and sustained substantial damage to the wing and 
+fuselage.
+The engine exhibited some impact-related damage but did not exhibit any external evidence of 
+nonimpact-related damage. The engine was devoid of lubricating oil, and significant oil residue was 
+observed on the muffler and the lower fuselage. Postaccident examination indicated that the source of 
+the oil was via the seal for the engine case drive penetration of the starter ring gear, located just above 
+the muffler. The oil exited via this seal and produced smoke when it contacted the hot muffler.
+The engine control unit (ECU) was removed and shipped to the engine manufacturer's facility, where it 
+was installed on a testbed engine. That engine operated normally with the accident ECU installed.
+The engine was disassembled and examined in detail. All four pistons displayed evidence of significant 
+erosion damage consistent with detonation, with at least one piston eroded to the point that it could no 
+longer seal against the cylinder wall. A common cause of detonation is using a lower octane fuel than 
+specified by the manufacturer. The damage was consistent with the use of fuel with octane rating(s) 
+significantly below that required for the engine. Although the pilot did not specify the octane rating of 
+the fuel that he used, it is likely that he used fuel below the required octane rating.

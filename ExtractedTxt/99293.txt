@@ -1,0 +1,38 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Grass Valley, California
+Accident Number:
+WPR19LA117
+Date & Time:
+April 19, 2019, 13:40 Local 
+Registration:
+N621JM
+Aircraft:
+Nanchang CJ 6
+Aircraft Damage:
+Substantial
+Defining Event:
+Runway excursion
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During the landing roll, the pilot applied left rudder and lightly depressed the brake handle to exit the 
+runway. About 30° into the left turn, the brakes failed, and the airplane exited the asphalt taxiway 
+surface. Due to obstructions ahead and the downsloping terrain, the pilot applied right rudder and engine 
+power to realign the airplane with the runway. Shortly thereafter, the airplane overran the departure end 
+of the runway and traveled downslope while airborne. The airplane then touched down and impacted a 
+dirt berm before it collided with a fence, nosed over, and came to rest inverted, sustaining substantial 
+damage to the fuselage and both wings. Examination of the airplane revealed that the brake control cable 
+was fractured near the cable thimble and was separated from the brake control handle. The fracture 
+surfaces of the separated cable were consistent with a fatigue fracture. Six of the seven strands of wires 
+exhibited relatively flat fracture surfaces normally oriented to the wire axis, consistent with a 
+progressive fracture mechanism, such as a fatigue fracture. Only one strand and a few of the remaining 
+individual wires showed evidence of minor elongation at the fracture location. It is likely that the cable 
+completely failed during the landing roll when the pilot depressed the brake handle.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of brake control due to fatigue fracture of the brake control cable, which resulted in the separation 
+of the cable from the brake handle.

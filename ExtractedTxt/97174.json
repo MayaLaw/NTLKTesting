@@ -1,0 +1,29 @@
+{
+    "Filename": "97174.txt",
+    "Location": "Shullsburg, Wisconsin",
+    "Accident Number": "CEN18LA159",
+    "Date & Time": "May 4, 2018, 19:30 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N36LP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot reported heard unusual noise engine cruise flight shortly afterward engine experienced total loss power pilot performed forced landing open field visual examination engine revealed hole crankcase teardown examination revealed fretting crankcase mating surface shifting 2 main bearing within journal support thermal damage consistent loss oil lubrication separation crankshaft observed fretting damage consistent relative movement crankcase half operation due lack throughbolt torque main journal bearing damage separation crankshaft crankcase damage secondary result loss lubrication engine overhaul completed 11 year 5 month accident 849 flight hour accumulated since overhaul two cylinder replaced 6 year accident one cylinder replaced recent annual inspection 9 month accident likely improper torque throughbolt nut applied one cylinder replacement event though could determined event probable cause finding national transportation safety board determines probable cause accident catastrophic engine failure due improper torque engine throughbolt nut resulted relative movement crankcase half damage main journal bearing loss oil lubrication",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "crankcase",
+                5
+            ],
+            [
+                "damage",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "93982.txt",
+    "Location": "Kodiak, Alaska",
+    "Accident Number": "ANC16LA062",
+    "Date & Time": "September 9, 2016, 11:30 Local",
+    "Aircraft": "DEHAVILLAND DHC-2",
+    "Registration": "N91AK",
+    "Flight Conducted Under": "Part 135: Air taxi & commuter - Scheduled",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Serious",
+    "Analysis": {
+        "Text": "airline transport pilot conducting scheduled commuter flight remote village floatequipped airplane making intermediate stop drop company maintenance technician remote lake pilot backtaxied airplane east preparation westerly departure estimated wind 15 knot increasing gust 25 knot west ground witness passenger board airplane reported pilot initiated takeoff west toward area rising treecovered terrain becoming airborne airplane entered left turn avoid terrain left turn steepened airplane entered steep nosedown descent terrain pilot reported recall preaccident mechanical problem airplane due injury unable recall event accident postaccident examination revealed mechanical malfunction anomaly airplane given witness account accident likely pilot exceeded airplane critical angle attack initial climb toward subsequent turn away rising terrain resulted aerodynamic stall loss control altitude low recovery probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate airspeed initial climb turn takeoff resulted exceedance airplane critical angle attack aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "terrain",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "95350.txt",
+    "Location": "Hood River, Oregon",
+    "Accident Number": "GAA17CA331",
+    "Date & Time": "June 11, 2017, 16:30 Local",
+    "Aircraft": "Piper PA25",
+    "Registration": "N8578L",
+    "Flight Conducted Under": "Part 91: General aviation - Glider tow",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "glider tow pilot reported preflight fuel indicator read 23 full brief discussion previous pilot completed numerous glider tow flight without refueling added fuel dipstick available visual check fuel quantity completed preflight added 10th glider tow flight 2 hour flight time noted low fuel indication flight prior glider release subsequently glider released return airport 2 nautical mile runway 1900 ground engine lost power pilot reported due quartering headwind aloft believe could make runway attempted land open pasture struck tree impacted terrain 50 yard short pasture fuselage elevator wing sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure visually check fuel level prior takeoff subsequent mismanagement available fuel supply numerous glider tow flight",
+        "Top Words": [
+            [
+                "glider",
+                6
+            ],
+            [
+                "fuel",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ]
+        ]
+    }
+}

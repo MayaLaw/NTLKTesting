@@ -1,0 +1,42 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Covington, Tennessee
+Accident Number:
+ERA18FA240
+Date & Time:
+September 1, 2018, 17:20 Local 
+Registration:
+N815EY
+Aircraft:
+LANCE M HOOLEY JETEZ
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aircraft structural failure
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot was flying the experimental amateur-built airplane about 200 ft above ground 
+level when its left wing failed, causing the airplane to abruptly depart controlled flight and subsequently 
+impact terrain. Two witnesses indicated that the left wing began a flutter-like movement (described as an 
+oscillation and a "wave like movement"/"wiggle") immediately before the wing failed at its mid-span. 
+The speed of the airplane at the time of the left wing failure could not be determined. However, a 
+witness who had extensive experience observing the accident airplane during flight reported that the 
+pilot performed an intentional low pass over the airport at a speed that may have been near the airplane's 
+maximum structural limits.
+The National Transportation Safety Board's Materials Laboratory examined portions of the internal left 
+wing material and found a lack of penetration and bonding of epoxy resin, which resulted in wing 
+sections in which the adhesive had disbonded, leading to the wing's failure. This finding indicated a 
+fabrication problem during manufacture and not wear over time or an environmental degradation failure. 
+The lack of impregnation of the resin into the wing skin pieces indicated a lack of a vacuum seal during 
+the curing process. The airplane's builder records were not located during the investigation; therefore, 
+the method and timeline for manufacturing the wings could not be determined. Nevertheless, the 
+findings indicated that the left wing was not properly designed and manufactured, which resulted in 
+flutter at high speeds. 
+It is likely that the airplane's left wing entered a flutter condition during the high-speed low-pass 
+maneuver and that the left wing's internal composite structure near the wing's mid-span subsequently 
+experienced a failure of the adhesive between the composite layers.
+Probable Cause and Findings

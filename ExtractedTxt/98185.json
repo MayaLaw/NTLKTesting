@@ -1,0 +1,29 @@
+{
+    "Filename": "98185.txt",
+    "Location": "Painton, Missouri",
+    "Accident Number": "GAA18CA518",
+    "Date & Time": "August 19, 2018, 13:51 Local",
+    "Aircraft": "Rans RANS S6S",
+    "Registration": "N107SJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "pilot reported landing airplane bounced landed hard nosedown attitude propeller stuck ground airplane slid came rest nose airplane sustained substantial damage engine truss mount pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain proper pitch attitude landing resulted bounced hard landing finding aircraft pitch control attainedmaintained personnel issue aircraft control pilot",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

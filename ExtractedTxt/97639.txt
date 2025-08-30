@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Page, Arizona
+Accident Number:
+WPR18LA184
+Date & Time:
+June 16, 2018, 13:00 Local 
+Registration:
+N621PG
+Aircraft:
+Piper PA31
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The pilot stated that, during the landing roll, he was unable to maintain directional control, and the 
+airplane veered right and exited the runway, where the nose landing gear collapsed. 
+Examination of the airplane revealed that the nose gear steering/centering mechanism was fractured, 
+which resulted in the improper alignment of the nose landing gear when it was extended, and a 
+subsequent loss of directional control. Three skid marks were visible from the runway centerline to 
+where the airplane came to rest. The center skid mark was consistent with the nose landing gear and was 
+darker and was about 2-3 times the width of the marks from the main tires; consistent with the nose 
+landing gear's misalignment during the landing roll.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The failure of the airplane’s nose wheel steering/centering mechanism, which resulted in a loss of 
+directional control and subsequent runway excursion.
+Findings
+Aircraft
+Nose/tail gear strut/axle - Failure

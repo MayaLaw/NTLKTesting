@@ -1,0 +1,40 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Commerce, Georgia
+Accident Number:
+ERA18FA149
+Date & Time:
+May 21, 2018, 19:10 Local 
+Registration:
+N94909
+Aircraft:
+Taylorcraft BC12
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot departed on a visual flight rules local flight. A witness saw the pilot conduct a 
+preflight inspection of the accident airplane and depart on a 10-minute flight. When the airplane returned 
+to the airstrip to land, the witness heard the engine rpm "going up and down." After the airplane landed, 
+the pilot began taxiing toward the hangar but then taxied back to the runway for another takeoff. The 
+witness stated that the airplane reached an altitude between about 50 and 75 ft above the runway with 
+the engine sputtering. At that time, the airplane seemed to slow and was just above the trees when the 
+right wing and then the nose dropped, which was followed by an impact with trees. 
+Postaccident examination of the engine revealed no evidence of any preimpact mechanical malfunctions 
+or failures that would have precluded normal operation. The weather conditions near the accident site at 
+the time of the accident were conducive to the formation of serious carburetor icing at descent engine 
+power settings. Given that these conditions existed, and that the witness reported the engine rpm may 
+have been fluctuating during the airplane's previous landing approach, it is likely that carburetor ice 
+accumulated during the prior descent and possibly the taxi period that followed prior to the accident 
+takeoff. The undetected partial loss of power during the accident takeoff ultimately led to an 
+aerodynamic stall from which the pilot was unable to recover. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to effectively mitigate an accumulation of carburetor ice, which resulted in an 
+undetected partial loss of engine power and an aerodynamic stall during takeoff. 

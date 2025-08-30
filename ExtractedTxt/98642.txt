@@ -1,0 +1,39 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Redding, California
+Accident Number:
+WPR19FA025
+Date & Time:
+November 14, 2018, 18:27 Local 
+Registration:
+N2629R
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of visual reference
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Before departing on the night instrument flight rules (IFR) flight, the pilot asked another pilot at the 
+airport about the published IFR departure procedure he intended to use after takeoff. The pilot and 
+passenger subsequently departed on the filed flight plan.
+Radar data depicted that the accident airplane started to drift to the left of the runway while still flying 
+over it. The left drift continued beyond the departure end of runway 34.  About 0.43 mile north of the 
+airport, the airplane began a right turn and started to descend from 500 ft above ground level (agl). The 
+last radar target was located near the accident site, at an altitude of 100 ft agl.  A video obtained from a 
+security camera, located about 1 mile southwest of the accident site, captured the accident airplane in a 
+descending right turn until the view of the airplane was lost behind a tree line. 
+A review of the pilot's flight records revealed that he held an instrument rating and had logged 3.6 hours 
+in the last 6 months. However, there was no record of the pilot obtaining an instrument proficiency 
+check within the 12 months before the accident. Examination of the airframe and engines did not reveal 
+any anomalies consistent with a preimpact failure or malfunction.
+It is likely that the pilot experienced some level of spatial disorientation as the airplane turned during 
+takeoff in the dark night conditions with smoke and haze, which led to a loss of control and impact with 
+terrain. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

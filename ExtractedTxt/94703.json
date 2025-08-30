@@ -1,0 +1,29 @@
+{
+    "Filename": "94703.txt",
+    "Location": "Sterling, Alaska",
+    "Accident Number": "ANC17LA016",
+    "Date & Time": "February 8, 2017, 15:03 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N1268A",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Unknown or undetermined",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot reported making right turn personal flight flight control stuck unable make aileron elevator control input also unable correct airplane bank using rudder input airplane subsequently descended right turn impacted ground airplane removed accident site could examined recovery wing control cable cut airplane later examined pilot property strapped trailer examination airframe engine revealed evidence control anomaly would precluded normal operation however since flight control system compromised recovery preaccident condition flight control could determined investigation unable establish reason pilot reported loss control probable cause finding national transportation safety board determines probable cause accident pilot loss control maneuvering reason could determined based available information",
+        "Top Words": [
+            [
+                "control",
+                8
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

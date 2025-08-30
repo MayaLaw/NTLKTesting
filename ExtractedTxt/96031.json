@@ -1,0 +1,29 @@
+{
+    "Filename": "96031.txt",
+    "Location": "McAlester, Oklahoma",
+    "Accident Number": "CEN17LA357",
+    "Date & Time": "September 15, 2017, 16:20 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N18403",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "private pilot stated flight originated full fuel tank 8 minute takeoff noticed fuel leaking left fuel tank cap short period pilot continued flight switching fuel tank every 25 minute flight continued uneventfully engine lost total power airplane entering downwind leg land pilot switched fuel tank attempted restart engine avail pilot performed forced landing field airplane touched hard contacted hay bale resulted substantial damage wing compromised fuel system postaccident examination main fuel tank cap revealed orings cracked maintenance record showed orings replaced 17 month accident although unknown much fuel leaked fuel cap flight pilot reported 50 minute accident fuel tank indicating 34 full thus doubtful enough fuel would leaked result fuel exhaustion postaccident engine test run conducted fuselage strapped trailer alternate fuel system rigged left right fuel inlet line fuselage engine started without hesitation ran smoothly 1500 rpm using left fuel tank inlet test repeated using right fuel tank inlet engine performed manner rpm increased higher due security fuselage test postaccident examination engine reveal evidence preimpact malfunction failure would precluded normal operation thus reason loss engine power could determined probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "fuel",
+                16
+            ],
+            [
+                "tank",
+                8
+            ],
+            [
+                "engine",
+                7
+            ]
+        ]
+    }
+}

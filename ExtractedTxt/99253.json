@@ -1,0 +1,29 @@
+{
+    "Filename": "99253.txt",
+    "Location": "Winters, California",
+    "Accident Number": "WPR19LA108",
+    "Date & Time": "April 13, 2019, 11:45 Local",
+    "Aircraft": "Europa XS",
+    "Registration": "N120EJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Powerplant sys/comp malf/fail",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "local flight pilot also builder airplane heard noise accompanied sudden vibration partial loss engine power noted 5 cylinder exhaust gas temperature abnormally low recycled throttle vibration persisted engine lost total power pilot performed forced landing field airplane nosed substantially damaged pilot removed cylinder no 3 5 airplane install new piston ring several month 4 flight hour accident postaccident examination revealed internal catastrophic damage 5 cylinder engine case consistent 5 cylinder wrist pin circlip improperly installed probable cause finding national transportation safety board determines probable cause accident pilot failure properly install wrist pin circlip resulted internal damage 5 cylinder subsequent total loss engine power",
+        "Top Words": [
+            [
+                "5",
+                5
+            ],
+            [
+                "cylinder",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

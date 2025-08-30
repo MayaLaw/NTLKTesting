@@ -1,0 +1,29 @@
+{
+    "Filename": "97656.txt",
+    "Location": "Flat Rock, Alabama",
+    "Accident Number": "ERA18LA182",
+    "Date & Time": "June 30, 2018, 10:45 Local",
+    "Aircraft": "Piper PA 25",
+    "Registration": "N6307Z",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot conducting agricultural application flight takeoff roll becoming fully airborne right main landing gear mlg snapped followed right wing dropping striking runway right wing propeller dug turf airplane spun departed runway subsequently impacted hay bale coming rest fuselage right wing substantially damaged examination right steel spring mlg revealed broken cleanly wheel displayed feature indicative fatigue failure maintenance record available examination service history right mlg could determined probable cause finding national transportation safety board determines probable cause accident failure right landing gear takeoff due fatigue failure resulted runway excursion",
+        "Top Words": [
+            [
+                "right",
+                7
+            ],
+            [
+                "mlg",
+                3
+            ],
+            [
+                "wing",
+                3
+            ]
+        ]
+    }
+}

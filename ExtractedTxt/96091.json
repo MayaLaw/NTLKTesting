@@ -1,0 +1,29 @@
+{
+    "Filename": "96091.txt",
+    "Location": "Old Forge, New York",
+    "Accident Number": "GAA17CA554",
+    "Date & Time": "September 21, 2017, 15:45 UTC",
+    "Aircraft": "THOMAS J MURRAY KITFOX",
+    "Registration": "N233TD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "according pilot experimental amateurbuilt tailwheelequipped airplane touched turf surface runway airplane bounced airplane descended surface right main landing gear wheel brake assembly separated landing gear leg pilot reported airplane skidded runway nosed pilot reported recently installed tundra tire airplane four bolt came tundra tire kit long enough properly secure wheel brake assembly landing gear leg recalled used four bolt longer however provided manufacturer asserted nut used retain bolt provided wheel assembly kit airplane sustained substantial damage rightwing strut leftwing spar probable cause finding national transportation safety board determines probable cause accident separation wheel assembly landing due pilot use improper retaining nut installed tundra tire",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+East Moriches, New York
+Accident Number:
+GAA19CA050
+Date & Time:
+October 20, 2018, 12:15 Local 
+Registration:
+N8275V
+Aircraft:
+Piper PA28
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing area overshoot
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Positioning
+Analysis 
+The pilot stated that, during the preflight inspection, he did not observe anything abnormal. He added 
+that, during the initial taxi, the airplane "pulled more power than usual" but that he observed no issues 
+with the brakes or flight controls.
+The pilot reported that, during approach to a 2,300-ft-long grass airstrip about 60 knots with full flaps, 
+he reduced power to idle to flare. The airplane was "still floating," and about midfield, he saw that the 
+rpm had increased with the power at idle to between about 1,000 to 1,200 rpm. He retracted the flaps to 
+15° to execute a go-around, but before he increased power, the airplane touched down on the runway. 
+He was going to continue the go-around but realized the airplane would be unable to clear power lines 
+and trees at the end of the runway. He then braked hard but was unable to stop the airplane on the grass, 
+so he shut off the fuel pump and closed the mixture. He added that the "engine did not stop," and the 
+airplane continued moving forward due to momentum. He applied full brakes with an "s turn and 180 
+turn," the airplane slid on the grass, and the left wing struck a wooden pole. The airplane then came to 
+an abrupt stop. The pilot stated that he saw that the engine and propeller had stopped
+The airplane sustained substantial damage to the left wing.
+The Federal Aviation Administration inspector reported that he attempted to examine the engine, but the 
+airplane was unavailable for examination.
+The airplane manufacturer's prescribed "Go Around" checklist stated:
+Throttle………………………..FULL
+Carb Heat……………………….OFF
+Flaps……….RETRACT TO 20 DEG

@@ -1,0 +1,43 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+South Lake Tahoe, California
+Accident Number:
+GAA16CA465
+Date & Time:
+September 5, 2016, 13:30 Local 
+Registration:
+N738GK
+Aircraft:
+Cessna TR182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that during landing the airplane floated half way down the runway, so she decided to 
+perform a go-around. During the go-around, the pilot reported that airplane would not climb initially and 
+one wheel touched down on the runway, which "threw the airplane off kilter." Subsequently, the 
+airplane did start to climb, but the flight path was over the grass to the right of the runway, so she forced 
+the airplane down in the grass ahead. During the touchdown, the nose gear collapsed and the airplane 
+nosed over. 
+During a postaccident interview with the National Transportation Safety Board investigator-in-charge, 
+the pilot reported that during the go-around, she retracted the flaps to 20 degrees, but she forgot to 
+remove the carburetor heat because she normally flies fuel-injected airplanes. 
+The fuselage, both wings, and vertical stabilizer sustained substantial damage. 
+The pilot reported no preaccident mechanical malfunctions or failures with the airplane that would have 
+precluded normal operation.
+The pilot's operating handbook for the accident airplane states in part: 
+Balked Landing
+    1. Power – FULL THROTTLE and 2400 RPM [revolutions per minute].
+    2. Carburetor Heat – COLD.
+    3. Wing Flaps – RETRACT to 20 degrees.
+    4. Climb Speed – 75 KIAS [knots indicated airspeed].
+    5. Wing Flaps – RETRACT slowly after reach 75 KIAS.
+    6. Cowl Flaps – OPEN.
+About the time of the accident, at the accident airport, an automated weather observing system reported 
+the wind to be variable at 6 knots, a temperature of 66 degrees Fahrenheit(19 Celsius), and a dew point 

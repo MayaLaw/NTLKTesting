@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Bronson, Michigan
+Accident Number:
+CEN18FA339
+Date & Time:
+August 18, 2018, 17:27 Local 
+Registration:
+N502RL
+Aircraft:
+Air Tractor AT502
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot was conducting an agricultural application flight in the turboprop-equipped airplane. Data 
+from an onboard GPS unit showed that the airplane had completed 10 spray passes on a field, making 
+right 180° turns after each pass to align the airplane for the subsequent pass. The airplane would climb 
+between 500-700 ft during the first 90° of the turn, then descend during the second 90° of the turn. The 
+airplane's groundspeed decayed to between 37 kts and 63 kts during the previous turns; however, the 
+data did not capture the accident turn. A witness stated that he saw the airplane complete a spray pass, 
+pull up into a near-vertical attitude, then become inverted. The airplane descended straight down and 
+was starting to pull up when it hit the ground.
+The airplane impacted terrain in a wings-level, nose-low attitude. No preimpact anomalies of the 
+airframe, engine, or propeller were found. Based on the available evidence, it is likely that the pilot 
+failed to maintain sufficient airspeed during a turn following a spray pass, which resulted in exceedance 
+of the airplane's critical angle of attack, an aerodynamic stall, and loss of airplane control at an altitude 
+too low for recovery.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain airspeed while maneuvering, which resulted in exceedance of the 
+airplane's critical angle of attack, an aerodynamic stall, and loss of control at an altitude too 
+low for recovery.

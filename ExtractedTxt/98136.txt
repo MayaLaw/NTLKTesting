@@ -1,0 +1,44 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Elberta, Alabama
+Accident Number:
+GAA18CA503
+Date & Time:
+August 22, 2018, 10:00 Local 
+Registration:
+N88287
+Aircraft:
+Champion 8GCBC
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Banner tow
+Analysis 
+The pilot in the tailwheel-equipped airplane reported that, during a banner towing operation, the ground 
+crew attempted to connect the banner to the hook, but the banner did not connect and became caught on 
+the tailwheel. The pilot made several approaches over the field to dislodge the banner. He reported that, 
+during his last attempt to dislodge the banner, he moved the throttle to idle and made a normal descent to 
+drop the banner. The banner remained caught on the tailwheel, and he stopped the descent and then 
+moved the throttle from idle to full power. However, the engine sputtered, and the power did not 
+increase. He then visually and physically confirmed that the mixture was in the full-rich position and 
+that the primer was in the closed-and-locked position. He attempted moving the throttle from idle to full 
+power two more times with no subsequent change in engine power. The pilot subsequently made a 
+forced landing on the southwest corner of the field, and the airplane collided with uneven terrain and 
+trees. 
+The airplane sustained substantial damage to both wings and the fuselage. 
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+During a postaccident interview, the pilot reported that, during the low-power setting approaches to 
+release the banner, he did not use carburetor heat. The pilot reported that the temperature about the time 
+of the accident was 80°F. The METAR at the nearest airport reported that the dew point about the time 
+of the accident was 72°F. The relative humidity was about 77%. The atmospheric conditions at the time 
+of the accident were conducive to the accumulation of serious carburetor icing. Federal Aviation 
+Administration Special Airworthiness Information Bulletin CE-09-35 recommends the use of carburetor 
+heat when operating in conditions of visible moisture or high humidity while on approach with low-
+power settings. The pilot's failure to use carburetor heat likely resulted in the accumulation of carburetor 
+icing during the low-power setting approaches and led to the partial loss of engine power.

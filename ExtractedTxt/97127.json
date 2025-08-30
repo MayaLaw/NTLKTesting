@@ -1,0 +1,29 @@
+{
+    "Filename": "97127.txt",
+    "Location": "Gainesville, Georgia",
+    "Accident Number": "ERA18FA137",
+    "Date & Time": "April 28, 2018, 17:15 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N4363F",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Fatal, 2 Serious",
+    "Analysis": {
+        "Text": "commercial pilot receiving instruction flight instructor conducting local instructional flight engine lost partial power oil obscured front windscreen instructor took control airplane maneuvered toward highway conduct forced landing airplane struck power line vehicle veering road steep embankment came rest inverted examination engine revealed 2 cylinder separated cylinder mounting deck 2 cylinder rocker box cover pushrod tube protruding left forward side cowling 2 cylinder connecting rod protruding top cowling 2 cylinder base stud thru bolt remained crankcase fractured threaded section metallurgical examination revealed fractured surface exhibited evidence crack arrest mark consistent fatigue cracking microvoid coalescence feature typical overstress separation crankcase web mating surface no 2 3 4 bearing journal exhibited pitting consistent fretting typically result inadequate preload tension loss preload tension fastener secure cylinder engine inadequate loss preload resulted fatigue cracking 2 cylinder stud thrubolts subsequent separation cylinder according maintenance record engine underwent major overhaul 4 year accident accrued 107111 hour since last overhaul time overhaul crankcase reassembled four cylinder installed could determined thru bolt stud improperly tightened maintenance personnel time overhaul undocumented maintenance action performed overhaul toxicology testing flight instructor revealed unquantifiable amount doxylamine sedating antihistamine well considered cause significant effect therefore unlikely pilot use doxylamine contributed inability successfully perform forced landing highway",
+        "Top Words": [
+            [
+                "cylinder",
+                9
+            ],
+            [
+                "2",
+                6
+            ],
+            [
+                "overhaul",
+                5
+            ]
+        ]
+    }
+}

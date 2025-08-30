@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Cheyenne, Wyoming
+Accident Number:
+CEN18LA225
+Date & Time:
+June 14, 2018, 14:45 Local 
+Registration:
+N4954W
+Aircraft:
+Rockwell International 112TC
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airline transport pilot and his passenger departed on a short personal flight from an airpark to a local 
+airport. The entire flight was conducted with the fuel selector valve selected to BOTH. During the flight, 
+the engine rpm decreased and then increased several times before decreasing to idle. The pilot attempted 
+to restore engine power but was not successful. The pilot performed a forced landing to a field, during 
+which the airplane sustained substantial damage to the right wing and fuselage. The pilot stated that each 
+fuel tank contained about 1/4 tank of fuel based on the reading on the fuel gauges and his knowledge of 
+the fuel burn and the previous day's flight. He did not have a calibrated fuel stick for the airplane to 
+visually verify the level of fuel. A postaccident examination of the airframe, engine, and fuel system 
+revealed no evidence of preimpact mechanical malfunctions or failures that would have precluded 
+normal operation. Thus, the reason for the loss of engine power could not be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of engine power for reasons that could not be determined because postaccident examination did 
+not reveal any evidence of preimpact mechanical malfunctions or failures that would have precluded 
+normal operation.

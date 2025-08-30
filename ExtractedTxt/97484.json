@@ -1,0 +1,29 @@
+{
+    "Filename": "97484.txt",
+    "Location": "Hesperia, California",
+    "Accident Number": "WPR18FA171",
+    "Date & Time": "June 14, 2018, 17:00 Local",
+    "Aircraft": "Beech A35",
+    "Registration": "N580B",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Abrupt maneuver",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting personal flight witness reported takeoff initial climb appeared normal however something came airplane near end runway airplane climbed 800 ft nose dropped made radical left turn turn wing appeared vertical airplane lost 400 ft airplane leveled appeared going back toward airport however nose remained low airplane turned right appeared align road airplane struck powerlines parallel road impacted ground caught fire came rest inverted mechanic worked airplane day accident reported airplane quite maintenance issue completed maintenance item pilot wanted fixed however mechanic indicated pilot shouldnt fly airplane remaining work could completed pilot purchased airplane less year accident airplane recent maintenance logbook entry inconsistent contained date correction addition 67 year gap recent logbook entry 27 hour recorded tachometer time wreckage documentation revealed several piece spinner spinner bulkhead separated shortly takeoff found departure end runway screw remained attached spinner undamaged however majority screw hole ripped metallurgical examination revealed fracture across rivet rivet hole consistent progressive fatigue crack growth however postaccident examination airframe engine revealed anomaly would precluded normal operation damage signature propeller blade consistent engine producing power time impact appears pilot able maintain sufficient altitude airplane control return airport",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "however",
+                5
+            ]
+        ]
+    }
+}

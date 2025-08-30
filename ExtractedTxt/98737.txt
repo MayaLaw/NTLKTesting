@@ -1,0 +1,45 @@
+Page 1 of 19
+Aviation Investigation Final Report
+Location:
+Burbank, California
+Incident Number:
+DCA19IA036
+Date & Time:
+December 6, 2018, 09:02 Local 
+Registration:
+N752SW
+Aircraft:
+Boeing 737
+Aircraft Damage:
+Minor
+Defining Event:
+Runway excursion
+Injuries:
+117 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+Southwest Airlines (SWA) flight 278 was en route to Bob Hope Airport (BUR), Burbank, 
+California, when it overran the end of runway 8. The airplane came to rest about 144 ft past the 
+departure end of runway and 71 ft into an engineered materials arresting system. Shortly 
+before the airplane touched down on the runway, the tower controller informed the flight crew 
+that heavy precipitation was occurring directly over the airport and that the wind was from 
+270° at 11 knots. BUR runway 8, which was 5,802 ft in length, was one of the shortest runways 
+at airports where SWA operated.   
+Incident Sequence
+Before the airplane reached the top of descent (about 0839), the flight crew requested and 
+received a landing data report generated from the SWA performance weight and balance 
+(PWB) system. The report indicated that maximum autobrakes should be used for landing on 
+runway 8 and that the stopping margin—that is, the difference between the calculated landing 
+distance (including a 15% safety factor) and the runway length available—would be 245 ft. The 
+PWB system calculations assumed that touchdown would occur 1,500 ft from the runway 
+threshold and that the wind would be from about 280° at 5 knots (the wind direction and 
+speed at the time of the airport’s 0753 weather observation converted from true north to 
+magnetic north). Both flight crewmembers expressed concern about the stopping distance 
+given the wet runway, the tailwind that would be present, and the runway length, and they 
+discussed that the braking action upon touchdown would need to be “pretty abrupt.” Also, even 
+though the first officer stated, during a postincident interview, that BUR “always has a low 
+number” for the stopping margin, the captain stated that he had not previously seen a stopping 
+margin as low as the one for the incident flight.
+While the airplane was descending through the terminal area, the controller advised the flight 
+crew that the pilot of a King Air airplane reported a 15-knot loss of airspeed on final approach 

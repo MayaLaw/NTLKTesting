@@ -1,0 +1,45 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Baker City, Oregon
+Accident Number:
+WPR18FA218
+Date & Time:
+August 11, 2018, 10:17 Local 
+Registration:
+N231EC
+Aircraft:
+Mooney M20K
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and student pilot-rated passenger were in a high-performance airplane and inbound for 
+landing. Multiple witnesses saw the airplane on the downwind leg of the airport traffic pattern; one 
+witness estimated that the airplane was lower and closer to the runway than a typical traffic pattern. 
+Witnesses then saw the airplane begin a left turn, and one reported that the airplane then rapidly 
+transitioned to a nose-down descent.
+The wreckage location corresponded to an extended downwind-to-base turn; there was ample space 
+available for the pilot to initiate the turn to final without excessive flight control inputs. The airplane 
+appeared to be in the landing configuration, and debris distribution and damage indicated a near vertical, 
+nose-down impact, consistent with the airplane impacting the ground while in a spin.
+Postaccident examination did not reveal any anomalies with the airframe or engine that would have 
+precluded normal operation, and the engine appeared to be operating at the time of impact; however, 
+evidence suggested that the airplane's engine-driven vacuum pump had recently failed. Such a failure 
+would have resulted in multiple visual alerts, caused the vacuum-operated instruments to become 
+inoperative, and prevented operation of the airplane's speed brakes. The airplane was equipped with a 
+backup vacuum system; however, impact damage prevented an accurate assessment of its operational 
+status at the time of the accident. The vacuum pump had exceeded its manufacturer's recommended 
+replacement life and had been subjected to multiple sudden engine stoppage events, each of which 
+required replacement of the pump; however, there was no indication in the airplane's logbooks that the 
+pump had been replaced following these events.
+Although none of the systems that relied on the vacuum pump were critical for visual flight rules 
+operation, such a failure would have presented an operational distraction to the pilot that would have 
+competed for his attention while flying in the pattern. Based on witness reports and the location of the 
+wreckage, it is possible that he extended the downwind leg to attempt to manage the failure or in an 
+effort to slow the airplane further in order to land without the speed brakes.

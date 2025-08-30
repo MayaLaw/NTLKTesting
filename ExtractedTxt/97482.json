@@ -1,0 +1,29 @@
+{
+    "Filename": "97482.txt",
+    "Location": "Arrey, New Mexico",
+    "Accident Number": "CEN18LA226",
+    "Date & Time": "June 15, 2018, 10:10 Local",
+    "Aircraft": "GRUMMAN ACFT ENG COR-",
+    "Registration": "N6672Q",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "commercial pilot reported completed four agricultural application load fine however fourth application turned airplane conduct cleanup pas field subsequently airplane impacted east side hill pilot stated remember happened happened another pilot previously sprayed accident field reported flying eastwest morning eastfacing swath sun toward rapidly rising terrain time accident clear sky light wind present sun east given information operator reported evidence preimpact mechanical malfunction airplane would precluded normal operation pilot likely failed maintain clearance rising terrain facing sun lowlevel flight probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance hillside agricultural application flight facing sun",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "sun",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Deadwood, California
+Accident Number:
+WPR18LA233
+Date & Time:
+August 20, 2018, 16:30 Local 
+Registration:
+N14CK
+Aircraft:
+Blue Oak LLC. CCK-1865
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After completing routine maintenance on the experimental, amateur-built airplane, the private pilot 
+decided to conduct a test flight near the departure airport. He completed a preflight inspection, a ground 
+engine run, and taxi checks, which were normal; he noted that about 12 gallons of fuel was onboard the 
+airplane. About 10 minutes after departure, he chose to extend the flight, as he did not observe any 
+anomalies with the airplane. After an uneventful period of flight, the airplane was about 500 ft above 
+ground level over mountain ridge tops when the engine lost partial power. The pilot maintained level 
+flight and maneuvered the airplane toward more favorable terrain before the engine lost total power. 
+Subsequently, the pilot performed a forced landing in a small clearing within heavily wooded 
+mountainous terrain. During the landing roll, the airplane struck a tree and came to rest upright.
+Postaccident examination of the airplane revealed no evidence of preexisting mechanical malfunctions 
+or failures with the engine or fuel system, including the fuel quantity sight gauges, that would have 
+precluded normal operation. The pilot reported that, after the accident, he noticed that the left-wing fuel 
+cap was not fully secured. Wreckage recovery company personnel indicated that the right-wing fuel tank 
+was void of fuel, and the left-wing fuel tank contained about 1/2 gallon of fuel. Review of a photograph 
+provided by the wreckage recovery company taken 10 days after the accident revealed a small amount of 
+residue and discoloration directly aft of the left-wing fuel filler neck, extending to the trailing edge of 
+the fuel tank cover. It is likely that fuel vented through the loose fuel cap in flight, which reduced fuel 
+quantity and led to the subsequent loss of engine power. Further, the pilot failed to adequately monitor 
+the fuel quantity sight gauges while in flight.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

@@ -1,0 +1,29 @@
+{
+    "Filename": "98442.txt",
+    "Location": "Van Nuys, California",
+    "Accident Number": "GAA18CA580",
+    "Date & Time": "September 30, 2018, 16:21 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N400JW",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "pilot reported landing flare runway 16l felt wind gust right counter gust applied left rudder right aileron lower right wing nose landing gear touched runway airplane veered left applied minimal right steering braking avoid overcorrecting colliding airplane landing runway 16r subsequently airplane exited left side runway struck taxiway sign came stop airplane sustained substantial damage right wing airport metar reported time accident wind calm pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control airplane landing",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "right",
+                5
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98784.txt",
+    "Location": "Summerland Key, Florida",
+    "Accident Number": "ERA19TA067",
+    "Date & Time": "November 23, 2018, 08:20 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N41VK",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported taxi landing 2550ftlong asphalt runway intended retract flap accidently retracted landing gear resulting nose gear right main landing gear collapsing runway pilot added preimpact mechanical malfunction airplane examination accident site revealed runway scrape mark propeller strike originating 1000 ft beyond approach end runway mark extended 500 ft terminated wreckage left side runway left main landing gear remained extended right wing lower fuselage sustained damage length scrape mark extent damage consistent landing gear collapse highspeed landing rollout rather lowspeed taxi landing airplane equipped squat switch main landing gear prevent inadvertent landing gear retraction ground however switch required weightonwheels work effectively likely pilot bounced landing attempted retract flap effort settle airplane runway better wheel braking however without weight right main landing gear gear retracted pilot inadvertently moved landing gear lever instead flap lever probable cause finding national transportation safety board determines probable cause accident pilot inadvertent retraction landing gear landing rollout resulting landing gear collapse",
+        "Top Words": [
+            [
+                "landing",
+                15
+            ],
+            [
+                "gear",
+                12
+            ],
+            [
+                "runway",
+                6
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "93899.txt",
+    "Location": "Clinton, Montana",
+    "Accident Number": "WPR16FA170",
+    "Date & Time": "August 28, 2016, 14:45 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N9936T",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "private pilot conducting local flight airplane planning purchase witness saw airplane initially overfly runway east west turn back east onto right downwind landing west runway 25 witness pilot reported wind directly runway 8 knot airplane short final approach 15 ft runway suddenly turned 90 right witness estimated bank angle 30 40 airplane continued low altitude toward north perimeter airport impacted stand tree proceeded tree coming rest upright south shoulder interstate highway shortly thereafter postcrash fire erupted consumed airplane postaccident examination airframe engine reveal mechanical anomaly would precluded normal operation reason sudden right turn short final approach could determined investigation probable cause finding national transportation safety board determines probable cause accident sudden right turn approach landing reason could determined postaccident examination reveal anomaly would precluded normal operation",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "runway",
+                4
+            ],
+            [
+                "right",
+                4
+            ]
+        ]
+    }
+}

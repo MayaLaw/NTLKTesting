@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Tulsa, Oklahoma
+Accident Number:
+CEN18LA345
+Date & Time:
+August 18, 2018, 09:46 Local 
+Registration:
+N6958N
+Aircraft:
+Cessna T210
+Aircraft Damage:
+Substantial
+Defining Event:
+Electrical system malf/failure
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airplane had been sitting on a ramp for 3-4 months before the accident flight. The pilot initially 
+could not start the engine due to a discharged battery but then departed on a cross-country flight after a 
+ground unit was used to start the airplane. After takeoff, the pilot noticed that the radios became silent. 
+He started to troubleshoot the loss of radio communications with no success. He set up to return to the 
+airport and land on the runway. The pilot tried to deploy the flaps and landing gear, but there was no 
+indication that either extended. He stated that he checked to see if the landing gear extended by using the 
+wing-mounted mirrors. The pilot continued the approach. During the landing rollout, the pilot applied 
+right rudder and brakes, but the airplane rolled off the runway into the grass. Postaccident examination 
+of the airplane revealed a collapsed left main landing gear. No mechanical anomalies were noted with 
+the landing gear, and the battery was discharged. It is likely that the discharged battery affected the 
+landing gear extension system. However, it could not be determined if the landing gear collapsed during 
+the accident sequence or if it was not completely extended before landing. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's decision to take off with a known electrical problem, which resulted in the loss of electrical 
+power, problem with the landing gear extension system, and subsequent runway excursion.

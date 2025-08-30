@@ -1,0 +1,29 @@
+{
+    "Filename": "99035.txt",
+    "Location": "Shreveport, Louisiana",
+    "Accident Number": "CEN19FA088",
+    "Date & Time": "February 28, 2019, 10:40 Local",
+    "Aircraft": "Piper PA46",
+    "Registration": "N428CD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "instrumentrated private pilot passenger departed instrument meteorological condition 600ft cloud ceiling airplane 550 lb gross weight air traffic control data showed airplane climbing left turn continued beyond assigned heading reaching 1400 ft msl airplane continued turning left altitude speed began vary airplane continued left spiral completing two full circle decelerated right turn rapidly descended impact terrain examination flight control system revealed evidence mechanical malfunction downloaded engine data indicated normal engine operation downloaded data autopilot system revealed three inflight error code first error code likely occurred 1 minute takeoff would resulted autopilot engaged time disengaging subsequent error code likely occurred erratic flight profile autopilot disengaged accident flight pilot informed mechanic also pilot intermittent issue autopilot system issue unresolved mechanic flown accident pilot previously assessed instrument flying skill weak flight instructor provided initial flight training turbine engine transition stated pilot instrument flying proficiency poor hand flying airplane toxicology testing revealed pilot used marijuana girlfriend stated pilot would take marijuana gummy bedtime sleep soundly however given psychoactive compound found blood specimen unlikely pilot impaired time accident instrument condition time accident airplane erratic flightpath pilot reported lack instrument proficiency flying hand support likelihood pilot experienced spatial disorientation sometime takeoff addition given report intermittently malfunctioning autopilot fixed likely pilot experienced",
+        "Top Words": [
+            [
+                "pilot",
+                11
+            ],
+            [
+                "airplane",
+                6
+            ],
+            [
+                "instrument",
+                5
+            ]
+        ]
+    }
+}

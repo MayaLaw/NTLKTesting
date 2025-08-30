@@ -1,0 +1,46 @@
+Page 1 of 12
+Aviation Investigation Final Report
+Location:
+Mayport, Florida
+Accident Number:
+ERA19LA072
+Date & Time:
+December 20, 2018, 09:04 Local 
+Registration:
+N307JM
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot and his pilot-rated passenger departed under instrument flight rules for a personal 
+cross-country flight and climbed first to 19,000 ft mean sea level (msl), then to 23,000 ft msl 
+several minutes later. Weather and air traffic control radar information indicated that the 
+airplane had been operating in an area of heavy precipitation for about 20 minutes before it 
+entered a descending right turn. A section of the right wing separated as the airplane 
+descended, and the airplane impacted water. Performance calculations revealed that, shortly 
+before the airplane began its descent, its airspeed decreased to between 77 and 90 knots 
+indicated (KIAS). The airplane’s published stall speed at maximum gross weight was 69 KIAS. 
+Because accumulation of ice on the unprotected areas of the airframe increased the airplane’s 
+stall speed, with aerodynamic buffeting occurring up to 19 knots above the normal stall speed, 
+the manufacturer stated that flight in icing conditions should be conducted at a speed not 
+lower than 130 KIAS. 
+Postaccident examination of the airplane’s flight controls and icing protection system 
+components revealed no evidence of preimpact failure or malfunction. While the filament of 
+the stall warning fail and windshield heat fail warning light bulbs were broken and stretched, 
+potentially consistent with illumination at impact, it could not be determined at what portion 
+of the flight the bulb(s) might have illuminated. Based on the environmental conditions at the 
+time, the stall warning system was likely not accurate or reliable. Although fatigue cracks were 
+noted in the right wing spar web, the cracks did not contribute to the inflight break-up.
+The pilot received a preflight weather briefing that included a convective SIGMET outlook and 
+an AIRMET for icing between about 14,000 ft and 27,000 ft msl, valid for the area of the 
+accident site about the time of the accident. Although the pilot did not access specific icing 
+forecasts, which likely understated the potential for icing conditions, there was sufficient 
+information available to the pilot to indicate possible icing at his chosen cruise altitude. The 
+airplane was operating above the freezing level near the top of a mature cumulus cloud 

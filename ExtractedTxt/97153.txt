@@ -1,0 +1,37 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Page, Arizona
+Accident Number:
+GAA18CA246
+Date & Time:
+April 29, 2018, 14:10 Local 
+Registration:
+N7553N
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+4 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during takeoff, the airplane experienced a "loss of lift." He added that he rejected 
+the takeoff, and while landing back on the runway, the airplane bounced and veered left. The airplane 
+exited the runway and came to rest in a shallow ditch.
+The pilot reported that the maximum gross weight of the airplane was 3,100 pounds and that the weight 
+at the time of the accident was 3,055 pounds.
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation station located on the airport reported that, about 17 minutes before 
+the accident, the wind was from 250° at 10 knots, gusting to 19 knots, visibility 10 statute miles, cloud 
+condition clear, temperature 26°C (79°F), dew point -16°C (3°F), altimeter setting 29.71 inches of 
+mercury. The airplane was departing runway 15. The estimated density altitude was 6,816 ft.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during a rejected takeoff in gusting quarting tailwind 
+conditions.

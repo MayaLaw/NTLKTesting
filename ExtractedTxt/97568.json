@@ -1,0 +1,29 @@
+{
+    "Filename": "97568.txt",
+    "Location": "Chester, Connecticut",
+    "Accident Number": "GAA18CA374",
+    "Date & Time": "June 21, 2018, 19:30 UTC",
+    "Aircraft": "Beech V35B",
+    "Registration": "N6KG",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according pilot taxi hangar airplane left wingtip struck eastfacing wall hangar airplane pivoted left wing entered hangar came stop airplane sustained substantial damage engine mount pilot asserted accident could prevented monitored distance airplane wingtip hangar pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance hangar taxi",
+        "Top Words": [
+            [
+                "hangar",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

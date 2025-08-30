@@ -1,0 +1,33 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Tooele, Utah
+Accident Number:
+GAA17CA327
+Date & Time:
+June 6, 2017, 16:15 Local 
+Registration:
+N741TW
+Aircraft:
+Cessna 172
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The solo student pilot reported that, during landing, the airplane "ballooned up and [he] added a little 
+throttle [to] settle the [airplane]." He added that "the [airplane] seemed to settle but felt like it was 
+coming down too fast." He applied full power to go around and reduced the flaps to 20°. He added that 
+"the [airplane] was stalling and so [he] moved the flaps to 0 degrees, which caused the plane to continue 
+to stall." Subsequently, the airplane impacted the ground. 
+The airplane sustained substantial damage to the wings and empennage. 
+The student pilot reported that there were no preaccident mechanical malfunctions or failures with the 
+airplane that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The student pilot's failure to maintain adequate airspeed and his exceedance of the airplane's critical 
+angle of attack during an attempted go-around, which resulted in an aerodynamic stall. 

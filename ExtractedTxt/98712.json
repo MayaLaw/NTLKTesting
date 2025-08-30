@@ -1,0 +1,29 @@
+{
+    "Filename": "98712.txt",
+    "Location": "Rock Hill, South Carolina",
+    "Accident Number": "GAA19CA083",
+    "Date & Time": "November 28, 2018, 10:25 Local",
+    "Aircraft": "Smith Aerostar601",
+    "Registration": "N909CA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported flying airplane wearing air cast boot landing airplane decelerated asked passenger move foot brake pedal apply brake added passenger applied insufficient differential brake application airplane veered left passenger applied right brake rudder correct airplane veered right exited runway impacted ditch pilot reported wearing boot due previous injury added ability fully manipulate rudder control boot prevented able fully apply brake pressure airplane sustained substantial damage right wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper decision fly air cast boot foot led rely passenger apply brake rudder performed improperly led loss directional control",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "brake",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

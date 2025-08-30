@@ -1,0 +1,29 @@
+{
+    "Filename": "97742.txt",
+    "Location": "Plainville, Connecticut",
+    "Accident Number": "ERA18FA189",
+    "Date & Time": "July 12, 2018, 10:42 Local",
+    "Aircraft": "Rutan Defiant",
+    "Registration": "N17DR",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "private pilot one builder twinengine experimental amateurbuilt airplane conducting local flight airport traffic pattern wingmounted camera captured ground operation accident flight seemingly normal engine start runup check pilot departed north remaining airport traffic pattern subsequent landing runway threshold landing approach initiated goaround airplane climbed left runway centerline entered steep descending left turn varying angle bank exceeding 60\u00ba airplane continued descend erratic manner impacted ground examination aircraft system engine revealed evidence preimpact anomaly failure ample fuel board flight forward engine wooden propeller showed evidence rotational damage although aft engine propeller generally undamaged crash dynamic aft mounting propeller assembly likely shielded damage impact although condition time accident conducive serious carburetor icing glide power electronic engine monitor showed evidence loss engine power sound spectrum study wingmounted camera audio autopsy toxicology testing pilot revealed evidence physiological impairment incapacitation reason pilot erratic aggressive maneuvering goaround could determined probable cause finding national transportation safety board determines probable cause accident pilot loss airplane control climb reason could determined based available information",
+        "Top Words": [
+            [
+                "engine",
+                6
+            ],
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

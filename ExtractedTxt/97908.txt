@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+San Diego/El Cajon, California
+Accident Number:
+WPR18LA205
+Date & Time:
+July 28, 2018, 10:23 Local 
+Registration:
+N3477T
+Aircraft:
+Cessna 177
+Aircraft Damage:
+Substantial
+Defining Event:
+Miscellaneous/other
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while departing on a cross-country flight from the 2,738-ft-long runway, the 
+engine lost partial power about 100 ft above ground level during the initial climb. He lowered the 
+airplane's nose, which appeared to restore engine power, then raised the nose again as the airplane 
+approached the end of the runway. The engine then experienced a "severe" loss of power and the 
+airplane subsequently impacted a dirt field at the departure end of the runway. Postaccident examination 
+of the airframe and engine revealed no preimpact anomalies that would have precluded normal 
+operation, and review of data from the onboard engine monitor revealed that the engine was producing 
+full power throughout the takeoff. 
+A Federal Aviation Administration inspector spoke to several witnesses who saw the pilot fill a truck 
+bed with belongings from the accident airplane, including wooden crates full of avocados. The pilot 
+confirmed that he had a "substantial amount" of cargo on board, and that he did not calculate the 
+airplane's weight and balance for the flight.
+Based on the available information, it is likely that the pilot's inadequate preflight planning resulted in 
+his exceedance of the airplane's maximum gross weight, which lead to the the airplane's poor climb 
+performance, the perceived loss of engine power, and the subsequent loss of control and impact with 
+terrain.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

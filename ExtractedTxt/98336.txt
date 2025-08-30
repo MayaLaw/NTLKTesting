@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Phoenix, Arizona
+Accident Number:
+DCA18CA289
+Date & Time:
+September 10, 2018, 21:00 Local 
+Registration:
+N950NN
+Aircraft:
+Boeing 737
+Aircraft Damage:
+None
+Defining Event:
+Aircraft wake turb encounter
+Injuries:
+1 Serious, 2 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+On September 10, 2018, at 9:00 pm Mountain Standard Time (MST), American Airlines flight 2197, a 
+Boeing 737-800, N950NN, encountered wake turbulence while descending through 3,100 feet on 
+approach to the Phoenix Sky Harbor International Airport (KPHX), Phoenix, Arizona. A flight attendant 
+was securing items in the galley and was seriously injured as a result of the turbulence. There were no 
+injuries to the other passengers or crew, and the airplane was not damaged. The flight was 
+operating under 14 CFR Part 121 as a regularly scheduled passenger flight from Seattle-Tacoma 
+International Airport (KSEA), Seattle, Washington, to KPHX.
+According to the flight crew, the seat belt sign was on, and the "prepare for landing" announcement was 
+made to the flight attendants.  The airplane was approximately three miles behind a narrow body Airbus, 
+in landing configuration when the turbulence occurred.  After landing, the flight crew were notified that 
+one of the flight attendants had been injured.  Paramedics met the flight at the gate and the flight 
+attendant was transported to the hospital where she was diagnosed with a broken left rib. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+an inadvertent encounter with wake turbulence.

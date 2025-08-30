@@ -1,0 +1,43 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Uvalde, Texas
+Accident Number:
+CEN18LA213
+Date & Time:
+June 7, 2018, 10:24 Local 
+Registration:
+N3291X
+Aircraft:
+Beech F33A
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on a cross-country flight, which was the second flight after recent maintenance. The 
+pilot reported that, about 48 minutes into the flight at 8,500 ft mean sea level, the manifold pressure 
+suddenly dropped with a simultaneous engine explosion; oil was on the windshield, and "there was fire 
+everywhere." He reduced the mixture, throttle, and propeller controls. The pilot reported the emergency 
+to air traffic control and received vectors to the closest airstrip, which was about 6 nautical miles south-
+southeast. He indicated that he had difficulty maintaining glide speed because the nose of the airplane 
+was pitching upward. During the descent, he extended the landing gear, and the airplane impacted trees 
+and terrain and came to rest about 500 yards west of the intended runway. The airplane was destroyed 
+by a postimpact fire.
+A postaccident examination of the airplane revealed that the engine exhibited excessive heat signatures 
+consistent with a lack of oil lubrication. The lack of oil resulted in the No. 2 connecting rod becoming 
+disconnected from the crankshaft, which punctured a large hole in the crankcase. The engine oil filter 
+was found loose on its mount and safety wired in the counterclockwise direction. During the 
+examination, when the oil filter was manually rotated about one-half turn clockwise to tighten, the safety 
+wire prevented it from further rotation; however, the oil filter could have rotated further. Due to the fire 
+damage, investigators could not determine if there had been a gasket installed between the oil filter and 
+mount. The exhaust manifold directly underneath the oil filter had burn marks, which were likely from 
+oil that had leaked from the oil filter onto the exhaust manifold. Based on the available evidence, it is 
+likely that the loose oil filter allowed oil to leak from the engine and resulted in oil starvation and a total 
+loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

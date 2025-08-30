@@ -1,0 +1,29 @@
+{
+    "Filename": "98246.txt",
+    "Location": "Talkeetna, Alaska",
+    "Accident Number": "GAA18CA535",
+    "Date & Time": "September 4, 2018, 16:00 Local",
+    "Aircraft": "Piper PA 12",
+    "Registration": "N7690H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported landing uphill offairport unimproved landing site landed applied brake airplane hit bush bump caused tail rise subsequently propeller struck ground airplane nosed airplane sustained substantial damage empennage fuselage wing spar pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain pitch control uneven terrain landing roll resulted noseover",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

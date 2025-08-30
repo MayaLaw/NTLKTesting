@@ -1,0 +1,29 @@
+{
+    "Filename": "98316.txt",
+    "Location": "Reno, Nevada",
+    "Accident Number": "WPR18LA267",
+    "Date & Time": "September 14, 2018, 10:04 Local",
+    "Aircraft": "Aero Vodochody L39",
+    "Registration": "N139UK",
+    "Flight Conducted Under": "Part 91: General aviation - Air race/show",
+    "Aircraft Damage": "Minor",
+    "Defining Event": "Midair collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "closed course air race pilot race 13 airplane announced passing race 37 airplane right video recording midair collision showed two airplane approached one racecourse pylon race 13 slight left bank behind race 37 level attitude shortly race 37 initiated left bank race 13 rapidly approaching race 37 behind collision race 13 rolled turn almost level attitude two airplane collided resulted damage right wing aileron race 37 damage two inspection panel fairings forward left side fuselage race 13 airplane landed uneventfully collision pilot race 13 failed maintain adequate separation race 37 overtaking airplane probable cause finding national transportation safety board determines probable cause accident pilot race 13 airplane failure maintain clearance race 37 airplane closed course air race finding personnel issue monitoring aircraft pilot",
+        "Top Words": [
+            [
+                "race",
+                16
+            ],
+            [
+                "airplane",
+                8
+            ],
+            [
+                "13",
+                7
+            ]
+        ]
+    }
+}

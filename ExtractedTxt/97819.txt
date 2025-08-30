@@ -1,0 +1,44 @@
+Page 1 of 14
+Aviation Investigation Final Report
+Location:
+Willow, Alaska
+Accident Number:
+ANC18FA055
+Date & Time:
+July 18, 2018, 19:00 Local 
+Registration:
+N9878R
+Aircraft:
+De Havilland DHC-2
+Aircraft Damage:
+Destroyed
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Fatal, 2 Serious
+Flight Conducted Under:
+Part 135: Air taxi & commuter - Non-scheduled
+Analysis 
+The pilot was conducting an on-demand air taxi flight in a float-equipped airplane from a seaplane base 
+on a public lake to a remote lakeside home, with a passenger and her young son. The passenger brought 
+cargo to transport as well, including an unexpected 800 lbs of mortar bags. Witnesses who labored to 
+push the airplane out after loading reported that the airplane appeared very aft heavy and the pilot said 
+he would offload "cement blocks" if he could not take off. A review of witness videos revealed that the 
+pilot attempted one takeoff using only 3/4 of the available waterway, then step taxied around the lake 
+and performed a step-taxi takeoff, again not using the full length of the lake. The airplane eventually 
+lifted off, and barely climbed over trees on the south end of the lake, before descending and impacting 
+terrain. 
+A home surveillance video that captured the airplane seconds before the crash revealed that 3 seconds 
+before ground impact, the estimated altitude of the airplane was 115 ft above ground level (agl) and the 
+groundspeed was about 64 miles per hour (mph), which was low and much slower than normal climb 
+speed (80 mph). As the airplane banked to the left to turn on course, it rolled through 90° likely 
+experiencing an aerodynamic stall. Analysis of the engine rpm sound revealed that the engine was 
+operating near maximum continuous power up until impact, and a postaccident examination of the 
+airframe and engine revealed no evidence of mechanical malfunctions or failures that would have 
+precluded normal operation.
+A calculation performed by investigators postaccident revealed the airplane's estimated gross weight at 
+the time of the accident was 75 lbs over the approved maximum gross takeoff weight, and the airplane's 
+estimated center of gravity was 1.76 inches aft of the rear limit.
+The pilot had been recently hired by the operator and he flew his first commercial flight in the same 
+make and model, float-equipped airplane the week before the accident. He had accumulated 12.9 flight 
+hours, and 13 sea landings/takeoffs in the accident model airplane since being hired as a part-time pilot.

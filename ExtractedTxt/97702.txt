@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Springhill, Louisiana
+Accident Number:
+CEN18LA257
+Date & Time:
+July 3, 2018, 12:57 Local 
+Registration:
+N689KC
+Aircraft:
+Piper PA46
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+During landing, the airplane bounced, and the pilot applied power to go around. The pilot 
+reported that the engine did not produce full power and the airplane began to slow down. 
+Onboard data indicated that the pilot accelerated the airplane to a maximum speed of 70 kts 
+before he retracted the flaps; the airplane rolled right and impacted the runway, resulting in 
+substantial damage.
+Examination of the airplane revealed no evidence of mechanical malfunctions or failures that 
+would preclude normal operation. The airplane's published stall speed in the landing 
+configuration was 60 knots; and 69 kts with landing gear and flaps retracted. The procedure 
+for a go-around included retracting the wing flaps incrementally after attaining an airspeed of 
+80 kts. The circumstances of the accident are consistent with the pilot's failure to attain the 
+proper airspeed during the go-around, and his improper decision to fully retract the wing flaps 
+before attaining adequate airspeed, which resulted in an exceedance of the airplane's critical 
+angle of attack, an aerodynamic stall, and impact with the runway.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s exceedance of the airplane's critical angle of attack during an improper go-around 
+procedure which resulted in an aerodynamic stall.

@@ -1,0 +1,29 @@
+{
+    "Filename": "97131.txt",
+    "Location": "Garwood, Texas",
+    "Accident Number": "CEN18LA152",
+    "Date & Time": "April 27, 2018, 18:00 Local",
+    "Aircraft": "Grumman G 164A",
+    "Registration": "N6637",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "commercial pilot departing agricultural application flight engine experienced partial loss power shortly takeoff pilot released part load fertilizer attempted land nearby field airplane contacted levee landing separated landing gear airplane became airborne settled back onto ground subsequently nosed reported weather condition conducive serious carburetor icing glide power however airplane operating high power setting takeoff therefore unlikely carburetor icing present postaccident examination engine reveal mechanical malfunction anomaly reason partial loss power could determined probable cause finding national transportation safety board determines probable cause accident partial loss engine power reason could determined postaccident examination engine reveal anomaly would precluded normal operation finding determined general unknownnot determined",
+        "Top Words": [
+            [
+                "power",
+                5
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "determined",
+                4
+            ]
+        ]
+    }
+}

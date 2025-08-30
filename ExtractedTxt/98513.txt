@@ -1,0 +1,40 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Milton, Florida
+Accident Number:
+ERA19FA020
+Date & Time:
+October 19, 2018, 10:00 Local 
+Registration:
+N107KW
+Aircraft:
+Bowers Flybaby
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was flying the experimental, amateur-built airplane to a nearby airport to conduct touch-and-
+go takeoffs and landings. Witnesses near the accident site heard the airplane's engine power increasing 
+and decreasing. One witness stated that, about 100 ft above ground level, the airplane's wings started to 
+rock back and forth, then the airplane entered a roll to the left, followed by a steep uncontrolled descent 
+until it impacted with trees and terrain.
+Postaccident examination of the airplane, engine, and fuel system revealed no mechanical deficiencies 
+that would have precluded normal operation; however, witness reports of repeated fluctuations in power 
+settings, combined with a lack of rotational damage to the propeller, suggest that the engine may have 
+experienced a loss of power. Although conditions at the time of the accident were conducive to serious 
+carburetor icing at glide power settings, the airplane was likely en route and operating at a higher power 
+setting when the engine began to experience a loss of power for reasons that could not be determined 
+based on the available evidence. The accident site was located in an area of numerous fields that would 
+have allowed for a forced landing; whether the pilot was attempting to maneuver to one of these fields 
+could not be determined. The circumstances of the accident are consistent with the pilot's exceedance of 
+the airplane's critical angle of attack and an aerodynamic stall/spin at low altitude.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A loss of engine power for reasons that could not be determined, and the pilot's subsequent exceedance 
+of the airplane's critical angle of attack, which resulted in an aerodynamic stall at low altitude.

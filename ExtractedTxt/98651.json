@@ -1,0 +1,29 @@
+{
+    "Filename": "98651.txt",
+    "Location": "Liberal, Kansas",
+    "Accident Number": "CEN19FA029",
+    "Date & Time": "November 17, 2018, 16:57 Local",
+    "Aircraft": "Beech 55",
+    "Registration": "N4817M",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Structural icing",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "pilot conducting personal flight encountered moderate rime ice en route planned destination airport pilot attempted climb 5100 8000 ft allow accreted ice airplane dissipate airplane unable climb entered uncontrolled descent pilot recovered airplane altitude 3500 ft diverted alternate airport approach diversion airport pilot attempted maintain visual flight requested vector localizer approach airport air traffic controller unable provide vector due airplane low altitude airplane impacted power line 3 mile south approach end intended landing runway postaccident examination airframe engine revealed preimpact anomaly would precluded normal operation airplane airplane ice present leading edge horizontal stabilizer rightside window airplane certified flight icing condition airplane alcohol deice system leftside windshield propeller however postaccident examination alcohol reservoir revealed used period time fluid found line leading reservoir thus windshield propeller deice system likely inoperable time accident airmet zulu advisory moderate ice 10000 ft issued national weather service aviation weather center applicable accident airplane route flight airspace pilot destination airport diverting accident location leidos flight service indicated thirdparty vendor us leidos system contact accident pilot day accident thus pilot would unaware forecast icing condition airplane uncontrolled descent 5100 3500 ft likely result reduced airplane performance ice accretion",
+        "Top Words": [
+            [
+                "airplane",
+                12
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "flight",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Somerset, Wisconsin
+Accident Number:
+CEN18LA200
+Date & Time:
+May 28, 2018, 19:45 Local 
+Registration:
+N214FF
+Aircraft:
+IRLBECK THOMAS H RV 8
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, while in cruise flight in the experimental, amateur-built airplane, the 
+radio and GPS lights flickered, followed by a total loss of engine power. He attempted to 
+troubleshoot the loss of power and then conducted a forced landing to a field, during which the 
+airplane impacted a fence; the wings were substantially damaged.
+Examination revealed that the wire connection from the main battery to the engine's electronic 
+ignition had melted just above the terminal attachment. Although the airplane was equipped 
+with a backup battery, the connection from the backup battery to the ignition was 
+disconnected, which pre and the wire connection from the electronic ignition to the backup 
+battery was not connected to the battery terminal. While the melted wire that connected the 
+main battery to the electronic ignition would still have allowed power to the electronic ignition 
+from the backup battery, the lack of connection to the backup battery provided no power to the 
+electronic ignition and resulted in the total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to damaged and disconnected electronic ignition wires from both the 
+main and backup batteries, which resulted in a forced landing.   

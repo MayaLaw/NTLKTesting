@@ -1,0 +1,29 @@
+{
+    "Filename": "98539.txt",
+    "Location": "State College, Pennsylvania",
+    "Accident Number": "ERA19LA024",
+    "Date & Time": "October 24, 2018, 00:36 Local",
+    "Aircraft": "Beech 35",
+    "Registration": "N8319D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "airline transport pilot reported departed long crosscountry flight night full fuel tank pilot stated fuel selector set left main fuel tank departure moved selector auxiliary tank 1 hour later 1 2 hour pilot moved fuel selector switch right main fuel tank remained remainder flight 30 minute flight uneventful final approach land 400 500 ft ground level point engine suddenly stopped producing power pilot recalled passenger saying fuel pressure immediately pushed throttle mixture full forward retracted flap also turned auxiliary fuel pump pressed starter button restart engine avail pilot switch fuel selector another tank due low altitude pilot slowed airplane conducted emergency landing tree wing fuselage tail section sustained substantial damage postaccident examination engine fuel system revealed evidence preaccident mechanical malfunction failure would precluded normal operation fuel selector found set right main fuel tank found empty fuel however measurable fuel found remaining three tank therefore loss engine power likely due pilot mismanagement available fuel resulted loss engine power due fuel starvation probable cause finding national transportation safety board determines probable cause accident pilot mismanagement available fuel resulted total loss engine power due fuel starvation",
+        "Top Words": [
+            [
+                "fuel",
+                17
+            ],
+            [
+                "pilot",
+                8
+            ],
+            [
+                "tank",
+                7
+            ]
+        ]
+    }
+}

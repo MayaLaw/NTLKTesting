@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Hillsdale, Michigan
+Accident Number:
+GAA18CA560
+Date & Time:
+September 17, 2018, 18:00 Local 
+Registration:
+N3544A
+Aircraft:
+Piper PA22
+Aircraft Damage:
+Substantial
+Defining Event:
+Aerodynamic stall/spin
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, he flared too high, and the airplane aerodynamically stalled. He 
+added that the airplane landed hard, the nose landing gear collapsed, the airplane veered right off the 
+runway into the dirt, and it then nosed over.
+The airplane sustained substantial damage to both wings, the fuselage, and the empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's exceedance of the airplane's critical angle of attack during the landing flare, which resulted in 
+an aerodynamic stall.
+Findings
+Aircraft
+Angle of attack - Capability exceeded
+Personnel issues
+Aircraft control - Pilot

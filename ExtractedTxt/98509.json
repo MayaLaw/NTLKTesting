@@ -1,0 +1,29 @@
+{
+    "Filename": "98509.txt",
+    "Location": "Lynchburg, Virginia",
+    "Accident Number": "ERA19LA019",
+    "Date & Time": "October 18, 2018, 10:57 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N924MM",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported shortly student pilot conducted takeoff instructional flight felt engine vibrate airplane shudder noticed rpm decreased engine performance degraded instructor took control lowered nose prevent stall attempted land intersecting runway airplane touched 100 ft runway remaining realizing airplane could stopped within remaining runway instructor steered airplane right avoid steep dropoff past runway end airplane subsequently impacted ditch came rest grass nosedown position left wing sustained substantial damage postaccident examination engine revealed 2 cylinder exhaust valve stuck open given evidence likely stuck exhaust valve resulted partial loss engine power probable cause finding national transportation safety board determines probable cause accident stuck 2 cylinder exhaust valve resulted partial loss engine power subsequent forced landing impact ditch",
+        "Top Words": [
+            [
+                "engine",
+                5
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "runway",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Newport News, Virginia
+Accident Number:
+ERA19LA169
+Date & Time:
+May 9, 2019, 10:15 Local 
+Registration:
+N343AX
+Aircraft:
+Hawker Siddeley HUNTER
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear collapse
+Injuries:
+1 None
+Flight Conducted Under:
+Public aircraft
+Analysis 
+The pilot was conducting a training flight under the supervision of a flight instructor in a 
+second airplane. Following a touch-and-go landing, the landing gear was retracted; however, 
+the right main landing gear indicated unsafe. After consultation with the flight instructor, the 
+pilot again attempted to lower the landing gear and then observed a normal indication that all 
+three landing gear were down and locked into position. As the pilot turned onto the downwind 
+leg of the traffic pattern, he noticed a hydraulic warning light. The flight instructor also noticed 
+fluid streaming from the right side of the airplane. Shortly thereafter, the pilot noted low 
+hydraulic pressure and it was decided he would conduct a no-flap landing, utilizing the 
+remaining hydraulic pressure to boost the flight controls. Immediately upon touchdown, the 
+right main landing gear collapsed. The pilot was unable to control the airplane and it veered off 
+the right side of the runway before stopping. 
+The right main landing gear strut was broken in two parts. Examination of the broken right 
+gear components revealed small crack features consistent with a preexisting progressive crack 
+at the base of the aft pivot pin bore. It is likely that the preexisting fatigue crack in the landing 
+gear propagated to the point of failure. The crack also likely became large enough for hydraulic 
+fluid to leak following the touch-and-go landing and failed catastrophically when the airplane 
+touched down during the final landing.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

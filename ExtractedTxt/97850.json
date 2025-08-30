@@ -1,0 +1,29 @@
+{
+    "Filename": "97850.txt",
+    "Location": "Milford, Iowa",
+    "Accident Number": "CEN18LA288",
+    "Date & Time": "July 22, 2018, 13:30 Local",
+    "Aircraft": "Air Tractor AT 301",
+    "Registration": "N3169H",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "operator reported takeoff agricultural application flight airplane quickly whipped left almost immediately becoming airborne subsequently airplane impacted cornfield came rest 70 ft west runway postaccident airframe examination reveal evidence preimpact anomaly flight control system would precluded normal operation pilot reported issue engine takeoff pilot added commonly used gentle rise runway assist airplane become airborne takeoff however investigation could determine played role loss airplane control based available evidence investigation could determine reason pilot loss airplane control probable cause finding national transportation safety board determines probable cause accident pilot loss airplane control takeoff reason could determined anomaly consistent flight control system malfunction observed",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "control",
+                5
+            ],
+            [
+                "takeoff",
+                4
+            ]
+        ]
+    }
+}

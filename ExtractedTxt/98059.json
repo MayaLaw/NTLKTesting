@@ -1,0 +1,29 @@
+{
+    "Filename": "98059.txt",
+    "Location": "Akron, Colorado",
+    "Accident Number": "GAA18CA486",
+    "Date & Time": "August 11, 2018, 13:30 Local",
+    "Aircraft": "Bushby Mustang II",
+    "Registration": "N527JT",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported flying grass runway appeared rough serviceable landing found surface extremely rough tall weed subsequent departure acceleration less normal due vegetation airplane reached pilot planned abort point runway realized misjudged abort point initially thought selected abort point 800 1000 ft end runway 100 200 ft end runway airplane overran runway crossed road struck barbed wire fence airplane sustained substantial damage fuselage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation federal aviation administration airport facility directory accident airport part stated runway recommended takeoff landing probable cause finding national transportation safety board determines probable cause accident pilot improper preflight planning identify unserviceable runway subsequent decision attempt takeoff rough grassy runway selection abort point insufficient runway remaining resulted runway overrun",
+        "Top Words": [
+            [
+                "runway",
+                10
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

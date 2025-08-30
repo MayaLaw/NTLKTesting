@@ -1,0 +1,43 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+West Creek, New Jersey
+Accident Number:
+ERA17LA205
+Date & Time:
+June 12, 2017, 22:55 Local 
+Registration:
+N206TF
+Aircraft:
+Cessna P206
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Other work use
+Analysis 
+The commercial pilot was on the second leg of a postmaintenance flight. The first flight leg, which was 
+about 1-hour long, was uneventful, and the pilot reported that the fuel selector was positioned to the 
+right tank during this flight leg. He landed the airplane but did not purchase fuel before departing for the 
+return leg. The pilot reported that, during the return leg, the fuel selector was positioned to the left tank. 
+While on final approach to the airport, the pilot added power to go around. He turned onto the crosswind 
+and then downwind legs of the airport traffic pattern, and while on the downwind leg, the engine lost all 
+power. The pilot switched the fuel selector to the right tank, but engine power was not restored. 
+Realizing that the airplane would be unable to reach the runway, the pilot conducted a forced landing in 
+trees, and the airplane came to rest inverted.
+During postaccident examination, more than the unusable amount of fuel was drained from the left fuel 
+tank, which was breached in two locations; only about 6 ounces of fuel were drained from the 
+unbreached right fuel tank. No fuel was found in the engine-driven fuel pump or the flow divider, which 
+is indicative of fuel starvation. Examination of the fuel supply system revealed no evidence of preimpact 
+mechanical failures or malfunctions that would have precluded normal operation. The engine was started 
+and operated briefly using the fuel that had been drained from the airplane with no discrepancies noted.
+Although the pilot stated that he conducted the entire second flight leg with the fuel selector positioned 
+to the left tank and then switched to the right tank after the engine lost power, the fuel selector was 
+found positioned to the left tank, which had more than the unusable amount of fuel. Therefore, it is 
+likely that the pilot was approaching the airport with the fuel selector positioned to the right tank, which 
+ran out of fuel, and that he then switched to the left tank too late to restore engine power. Given this and 
+the lack of fuel in the engine-driven fuel pump and flow divider, it is likely that the pilot mismanaged 
+the fuel, which resulted in the loss of all engine power.

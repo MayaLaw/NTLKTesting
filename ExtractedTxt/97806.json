@@ -1,0 +1,29 @@
+{
+    "Filename": "97806.txt",
+    "Location": "Miami, Florida",
+    "Accident Number": "ERA18FA194",
+    "Date & Time": "July 17, 2018, 12:59 Local",
+    "Aircraft": "Piper PA34",
+    "Registration": "N16281",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Midair collision",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "lowwing multiengine airplane departed airport evaluation flight local training area commercial pilot candidate designated pilot examiner onboard student pilot flight instructor onboard highwing airplane returning airport crosscountry instructional flight 6 minute lowwing airplane departed airplane collided nearly straighton 1500 ft mean sea level 9 mile northwest airport time lowwing airplane clear class airspace longer communicating air traffic control atc one pilot highwing airplane contacted atc collision controller acknowledged transmission issued traffic advisory communication received neither airplane equipped traffic information system required aircraft performance cockpit visibility study revealed airplane would remained relatively small slowmoving object others window 12 second collision subsequently grown size suddenly however likely none pilot saw airplane given radar data indicate either airplane performed evasive maneuver avoid collision preimpact mechanical malfunction identified either airplane toxicology testing identified low level delta9tetrahydrocannabinol thc metabolite highwing flight instructor blood urine presence indicates instructor used marijuana time accident unlikely psychoactive effect thc remained contributed accident probable cause finding national transportation safety board determines probable cause accident failure pilot airplane see avoid airplane converged nearly headon altitude",
+        "Top Words": [
+            [
+                "airplane",
+                13
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

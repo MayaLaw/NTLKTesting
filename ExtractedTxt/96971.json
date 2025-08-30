@@ -1,0 +1,29 @@
+{
+    "Filename": "96971.txt",
+    "Location": "Cedar Key, Florida",
+    "Accident Number": "GAA18CA197",
+    "Date & Time": "March 14, 2018, 12:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N1004H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Runway excursion",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according operator airplane exited departure end runway collided drainage culvert pilot later reported wind sock gave faulty information landing airplane sustained substantial damage engine mount metar nearest airport reported time accident wind 310 5 knot pilot landed airplane runway 5 runway length 2355 ft according manufacturer pilot operating handbook normal landing distance 595 ft operator reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot unstabilized approach resulted long landing subsequent runway overrun",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "runway",
+                4
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

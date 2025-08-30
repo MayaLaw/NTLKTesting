@@ -1,0 +1,29 @@
+{
+    "Filename": "97912.txt",
+    "Location": "Swainsboro, Georgia",
+    "Accident Number": "GAA18CA449",
+    "Date & Time": "June 30, 2018, 17:00 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N6167L",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Hard landing",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported rain shower present near destination airport diverted landed nearby airport added approach felt airplane pushed forward saw increase indicated airspeed nosedown attitude continued approach upon touchdown airplane landed hard nosewheel first bounced initiated goaround reentered pattern approached runway upon touchdown nose landing gear nlg collapsed airplane exited runway left ditch airplane sustained substantial damage nlg tunnel pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station awos reported 7 minute accident wind 100 7 knot pilot landed airplane runway 32 pilot reported believed nlg damaged initial landing added landing windsock found damaged indicating wind direction properly however airport awos accessible radio probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                4
+            ]
+        ]
+    }
+}

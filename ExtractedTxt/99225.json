@@ -1,0 +1,29 @@
+{
+    "Filename": "99225.txt",
+    "Location": "Ormond Beach, Florida",
+    "Accident Number": "GAA19CA198",
+    "Date & Time": "March 29, 2019, 10:35 Local",
+    "Aircraft": "Cessna 195",
+    "Registration": "N195PC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported airplane touched veered right tried correct full aft stick full right aileron left brake airplane continued yaw right exited right side runway left main landing gear collapsed airplane sustained substantial damage left wing fuselage pilot reported preimpact mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control landing resulted runway excursion nose landing gear collapsing",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "right",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

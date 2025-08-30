@@ -1,0 +1,29 @@
+{
+    "Filename": "99304.txt",
+    "Location": "Henderson, Kentucky",
+    "Accident Number": "ERA19FA155",
+    "Date & Time": "April 22, 2019, 22:03 Local",
+    "Aircraft": "Bellanca 1730",
+    "Registration": "N9693E",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel exhaustion",
+    "Injuries": "2 Fatal",
+    "Analysis": {
+        "Text": "student pilot passenger taken airplane without permission owner night crosscountry flight unknown destination 4 hour departure airplane flew approach closed airport likely land airplane climbed flew 10 mile away airport returning last radar data indicated altitude 700 ft ground 12 mile south runway consistent aa left downwind leg airport traffic pattern airplane impacted terrain near vertical nosedown attitude near midfield 200 ft south runway ground scar leading main wreckage consistent little forward airspeed loss control 34 gallon fuel recovered right wing however placard filler neck indicated 4 gallon fuel unusable trace amount fuel found left wing fuel found fuselage auxiliary tank post accident examination airframe engine revealed preimpact anomaly would precluded normal operation however lack rotational scoring propeller blade noted likely airplane engine lost power due fuel exhaustion airplane airport traffic pattern second time pilot failed maintain sufficient airspeed resulted aerodynamic stall impact terrain student pilot logged 24 hour total flight experience 23 dual instruction logged 3 hour dual crosscountry experience 14 hour accident airplane earlier day accident experience airplane makemodel logged total 4 hour night different airplane makemodel thus likely pilot little experience fuel planning management night operation emergency procedure accident airplane makemodel help deal loss engine power approach airport night toxicology performed student pilot positive methamphetamine cocaine metabolite although test result could directly correlated exact time use amount residual effect time accident result suggest use within hour accident likely impairment student pilot use cocaine methamphetamine",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "hour",
+                6
+            ]
+        ]
+    }
+}

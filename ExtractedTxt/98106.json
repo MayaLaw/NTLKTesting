@@ -1,0 +1,29 @@
+{
+    "Filename": "98106.txt",
+    "Location": "Big Lake, Alaska",
+    "Accident Number": "GAA18CA496",
+    "Date & Time": "August 17, 2018, 21:30 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N185MC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Collision during takeoff/land",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff roll southeast private airstrip 120 ft runway left wing struck tree foliage airplane veered left exited runway impacted tree added watching right side runway swale paying attention left side runway airplane sustained substantial damage left wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain clearance tree foliage left side runway takeoff due focus right side runway",
+        "Top Words": [
+            [
+                "runway",
+                6
+            ],
+            [
+                "left",
+                5
+            ],
+            [
+                "side",
+                4
+            ]
+        ]
+    }
+}

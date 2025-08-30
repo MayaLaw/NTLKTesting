@@ -1,0 +1,35 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Rio Vista, California
+Accident Number:
+GAA19CA075
+Date & Time:
+November 26, 2018, 12:30 Local 
+Registration:
+N1916Z
+Aircraft:
+Darren M. Vinelli Sopwith PUP
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during landing, the airplane encountered a 
+variable crosswind gust, and the left wing lifted. He was able to keep the airplane on the runway and 
+established a landing roll. The ground speed was about 20 mph, and the airplane encountered another 
+wind gust. The airplane weather-vaned to the left, exited the left side of the runway, rolled into mud, and 
+nosed over.
+The airplane sustained substantial damage to the rudder.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+The pilot reported that the wind at the time of the accident was variable at 5 knots, gusting to 8 knots. A 
+METAR at the nearest airport about 12 miles west of the accident site reported that, about the time of 
+the accident, the wind was from 020° at 6 knots. The pilot landed the airplane on runway 25.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during the landing roll in gusting tailwind conditions. 

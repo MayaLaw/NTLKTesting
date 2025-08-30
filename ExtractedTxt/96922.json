@@ -1,0 +1,29 @@
+{
+    "Filename": "96922.txt",
+    "Location": "Ontario, Oregon",
+    "Accident Number": "GAA18CA176",
+    "Date & Time": "March 18, 2018, 14:30 Local",
+    "Aircraft": "AMERICAN CHAMPION AIRCRAFT",
+    "Registration": "N234RA",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor reported last landing day performed crosswind condition tailwheelequipped airplane bounced added bounce airplane rolled right right main landing gear touched subsequently main landing gear runway airplane veered sharply right lost directional control airplane exited right side runway right main landing gear spindle tire separated airplane airplane came rest airplane sustained substantial damage front spar flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation system located accident airport reported time accident wind 210 8 knot flight instructor landed runway 33 probable cause finding national transportation safety board determines probable cause accident flight instructor failure maintain directional control landing cross wind condition",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "right",
+                5
+            ]
+        ]
+    }
+}

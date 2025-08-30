@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Roseburg, Oregon
+Accident Number:
+GAA19CA255
+Date & Time:
+May 10, 2019, 13:25 Local 
+Registration:
+N107DM
+Aircraft:
+Elmwood CHRISTAVIA MK I
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that he made a three-point landing, but during the 
+landing roll, the airplane veered right. He added that his left rudder and brake application "was not fast 
+enough to arrest the progressive turn rate." He then applied full power to regain directional control, but 
+his corrective action was too slow, so he decided to go around. He then realized that the climb rate was 
+too slow, so he decided to abort the takeoff. The airplane touched down and exited the right side of the 
+runway and subsequently ground looped to the right, and the left wing struck the ground
+The left wing sustained substantial damage.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing, which resulted in a ground loop. 

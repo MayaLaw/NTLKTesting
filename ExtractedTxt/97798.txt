@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Arecibo, Puerto Rico
+Accident Number:
+ERA18TA193
+Date & Time:
+July 14, 2018, 17:40 Local 
+Registration:
+N594TC
+Aircraft:
+Quicksilver MXL II
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel exhaustion
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+After the local flight, the noncertificated pilot approached the airport for landing. During the approach, 
+he performed a go-around, and the airplane encountered strong winds, so he decided to turn 180° to land 
+on the opposite runway. While turning, about 1/2 mile from the runway, the engine lost total power, so 
+the pilot landed the airplane straight ahead into marshy terrain in a nose-low attitude. The empennage 
+and fuselage sustained substantial damage. 
+Postaccident examination of the airplane revealed no evidence of any preimpact mechanical 
+malfunctions or failures that would have precluded normal operation. The 6-gallon fuel tank was found 
+empty, and the fuel cap was found secured to the tank. The pilot reported that the airplane departed with 
+5 gallons of fuel onboard for the flight, which was about 1 hour 10 minutes long, and the estimated fuel 
+consumption for the airplane was between about 5.3 and 6 gallons per hour. It is likely that, during the 
+go-around and maneuver to return to the airport, the fuel supply was exhausted, which resulted in a total 
+loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The noncertificated pilot's improper fuel planning and management, which resulted in a total loss of engine 
+power due to fuel exhaustion.

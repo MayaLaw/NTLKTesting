@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Tokyo, 
+Incident Number:
+ENG17IA026
+Date & Time:
+June 7, 2017, 09:50 UTC 
+Registration:
+N668US
+Aircraft:
+Boeing 747 451
+Aircraft Damage:
+None
+Defining Event:
+Loss of engine power (total)
+Injuries:
+326 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+The disassembly and examination of the engine revealed a 5th stage compressor blade was fractured 
+transversely across the airfoil directly above the blade root platform.  Unfortunately, that fractured blade 
+was lost during the shipment of the engine parts from Delta Air Lines to P&W's Material and Processes 
+Engineering Laboratory.  However, the similarity of the elliptical-shaped fracture surface on that 5th 
+stage compressor blade to the elliptical-shaped fracture surfaces on 6th, 7th, 8th, and 9th compressor 
+blades that were confirmed as fatigue fractures would indicate the 5th stage compressor blade also 
+fractured due to a fatigue crack.  The PN 5th stage blade that fractured in this engine and the compressor 
+blade that it had superseded had a combined total of 38 airfoil fractures that would suggest some subtle 
+interrelationship that would cause a resonance leading to a fracture.  A detailed examination of the HPC 
+did not identify anything that could have triggered an airflow disturbance.  The fractured blade 5th stage 
+compressor blade was subsequently superseded with a new blade in 2011 that has not experienced any 
+fractures suggesting that whatever was causing the fractures was designed out.
+The engine's turbine sections sustained extensive thermal and mechanical damage.  When the 5th stage 
+compressor blade fractured, the cascade of damage through the HPC disabled the compressor's ability to 
+pump air.  The FDR showed that following the loss of power after the 5th stage compressor blade 
+fractured, the fuel flow dropped to zero but then recovered to a sub idle level probably from the 
+electronic control's auto relight feature activating the igniter plugs.  Although the fuel flow was less than 
+what was seen when the airplane taxied out for departure, with little to no airflow through the engine, 
+the combustion flame would stagnate around the turbine vanes and blades burning off the early stages 
+and the liberated pieces causing the mechanical damage to the trailing stages.  

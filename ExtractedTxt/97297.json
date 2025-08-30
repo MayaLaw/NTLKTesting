@@ -1,0 +1,29 @@
+{
+    "Filename": "97297.txt",
+    "Location": "Farmingdale, New York",
+    "Accident Number": "GAA18CA291",
+    "Date & Time": "May 21, 2018, 18:00 Local",
+    "Aircraft": "Piper PA28",
+    "Registration": "N5560W",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "1 Minor, 2 None",
+    "Analysis": {
+        "Text": "pilot reported short final airspeed 65 70 knot full flap observed two precision approach path light indicating two white light left wing dropped hear stall warning horn left main landing gear touched hard right main landing gear collapsed airplane veered runway right pilot reported airplane hit air pocket crashed witness located ramp observed airplane headon coming low slow saw airplane aerodynamically stall right wing drop right wing impacted ground followed right main landing gear nose landing gear landing gear assembly separated airplane skidded abrupt halt airplane sustained substantial damage wing pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack short final resulted aerodynamic stall hard landing",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "landing",
+                6
+            ],
+            [
+                "gear",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "94694.txt",
+    "Location": "Loveland, Colorado",
+    "Accident Number": "GAA17CA131",
+    "Date & Time": "February 5, 2017, 15:55 Local",
+    "Aircraft": "Cessna T210",
+    "Registration": "N4853U",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Minor, 1 None",
+    "Analysis": {
+        "Text": "pilot reported airplane low felt rushed final approach added landing roll airplane started veer runway applied power abort landing aborted landing pulled back yoke airplane aerodynamically stalled impacted grass left runway nosed fuselage left wing vertical stabilizer sustained substantial damage pilot reported preaccident mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot exceedance airplane critical angle attack attempted goaround resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "landing",
+                3
+            ]
+        ]
+    }
+}

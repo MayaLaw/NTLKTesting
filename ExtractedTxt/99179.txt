@@ -1,0 +1,36 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Deming, New Mexico
+Accident Number:
+WPR19LA101
+Date & Time:
+March 23, 2019, 11:30 Local 
+Registration:
+N254PM
+Aircraft:
+DENNIS l ZUMBALT SKY BOLT
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+Before takeoff, the pilot fueled the airplane’s main header fuel tank with 25 gallons of 
+automotive fuel. Shortly after takeoff, about 400 ft above ground level, the engine lost 
+total power. The pilot performed a forced landing to a dirt field, during which the 
+airplane landed hard and impacted a sand dune, resulting in substantial damage. 
+Examination of the fuel system revealed that the fuel selector was selected to the 
+AUX/wing fuel tank position. The pilot stated that he never fueled the AUX/wing tank, 
+and that he only filled and operated off the main header tank. The pilot reported, and 
+examination confirmed, that there were no mechanical malfunctions with the airplane that 
+would have precluded normal operation. The accident is consistent with a total loss of 
+engine power due to fuel starvation as a result of the pilot’s failure to correctly position 
+the fuel selector prior to departure.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot’s failure to properly position the fuel selector before takeoff, which resulted in a total 
+loss of engine power due to fuel starvation.

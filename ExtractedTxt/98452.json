@@ -1,0 +1,29 @@
+{
+    "Filename": "98452.txt",
+    "Location": "Stockton, California",
+    "Accident Number": "GAA19CA014",
+    "Date & Time": "October 5, 2018, 11:45 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N78239",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "solo student pilot reported departure rotation airplane veered left applied opposite rudder airplane impacted taxiway sign nose landing gear separated firewall airplane exited runway left came rest upright field adjacent runway airplane sustained substantial damage firewall structural plate lower firewall flange student reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident student pilot failure maintain directional control takeoff",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "firewall",
+                3
+            ]
+        ]
+    }
+}

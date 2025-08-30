@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Madison, Ohio
+Accident Number:
+CEN16LA342
+Date & Time:
+August 30, 2016, 19:50 Local 
+Registration:
+N47164
+Aircraft:
+Fairchild M 62A-3
+Aircraft Damage:
+Substantial
+Defining Event:
+Collision during takeoff/land
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and one passenger departed in a vintage airplane from a private airstrip. During 
+the takeoff, the airplane would not climb with full engine power, and it collided with trees about 1/2 
+mile from the end of the runway. 
+An examination of the airplane revealed that the flaps were in the "down" position. However, the Before 
+Takeoff checklist stated, "flaps up," for takeoff. The pilot reported that he normally took off with one 
+notch of flaps. It is likely that the pilot's failure to follow the Before Takeoff checklist and his use of the 
+wrong flaps setting for takeoff degraded the airplane's climb performance.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to follow the Before Takeoff checklist and his improper use of flaps during takeoff, 
+which degraded the airplane's climb performance and resulted in a collision with trees.

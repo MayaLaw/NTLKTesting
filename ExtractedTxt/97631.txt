@@ -1,0 +1,41 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Jacksonville, Florida
+Accident Number:
+WPR18LA183
+Date & Time:
+June 23, 2018, 14:40 Local 
+Registration:
+N5682B
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Skydiving
+Analysis 
+The commercial pilot reported that he had been conducting skydiving support flights on the day of the 
+accident. Before his first flight, the airplane had about 23 gallons of fuel onboard. He flew the airplane 
+for about 4.0 hours and then added about 18 gallons of fuel to the airplane. He flew three more local 
+flights and then made a second fuel stop and added 14 gallons of fuel to the airplane. The pilot did not 
+conduct fuel consumption checks to estimate the engine’s fuel consumption rate nor did he check the 
+total fuel quantity in the tanks after the first and second refuelings. After making two more local flights 
+and while on final approach to the airport, the engine lost total power, and the pilot conducted a forced 
+landing to a residential area, during which the right elevator and right wing sustained substantial 
+damage.
+After the accident, no fuel was found in the wing tanks; however, the airplane had come to rest on its 
+right side with the right-wing tank breached and the left-wing tank in a position to allow drainage, which 
+likely allowed any remaining fuel to leak out into the ground. Further, the original carburetor engine had 
+been replaced with a fuel-injected engine and wing extensions had been added to the airplane. 
+Performance charts for the airplane did not account for these changes. Therefore, the amount of fuel 
+onboard the airplane when the engine lost power could not be determined. The engine was test-run, and 
+it started and ran successfully. The reason for the loss of engine power could not be determined based on 
+the available evidence. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power for reasons that could not be determined due to insufficient evidence. 

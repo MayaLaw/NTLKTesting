@@ -1,0 +1,39 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Adel, Georgia
+Accident Number:
+ERA19FA068
+Date & Time:
+December 18, 2018, 15:00 Local 
+Registration:
+N203SW
+Aircraft:
+Saberwing Saberwing
+Aircraft Damage:
+Substantial
+Defining Event:
+Aircraft structural failure
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airplane broke up in-flight and the wreckage was located about 6 miles southwest from the airport, 
+scattered over a large swamp area; there were no witnesses to the accident. Examination of the airplane 
+revealed that the wing forward spar had two significant failure areas on both the left and right wings; 
+one was located at the side of the fuselage and one was located at the outboard wing attach points. This 
+was indicative of shear failure of the rear spar upper attach bolts and tensile overload at the rear spar 
+upper spar cap. The primary wing failures were due to negative overload causing failure of the upper 
+attach points on the left and right wings.
+High positive loads on the horizontal stabilizers would generate downward bending loads in the fuselage 
+that would be greatest at the rear spar location. Given these findings, it is likely that the pilot performed 
+a pull-up maneuver aggressively or at high speed, possibly while performing aerobatics. The pull up 
+would have generated significant down force on the tail, resulting in the left and right fuselage longerons 
+failing in tensile overload due to the downward bending loads in the fuselage in excess of the structural 
+capabilities of the airplane. This sudden failure would cause the airplane to pitch over violently resulting 
+in the negative overload wing failure.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The in-flight failure of the fuselage, as a result of the pilot conducting maneuvers that exceeded 
+the structural capabilities of the airplane.

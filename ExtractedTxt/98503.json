@@ -1,0 +1,29 @@
+{
+    "Filename": "98503.txt",
+    "Location": "Opelika, Alabama",
+    "Accident Number": "ERA19LA017",
+    "Date & Time": "October 15, 2018, 22:10 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N9398G",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious, 2 None",
+    "Analysis": {
+        "Text": "climb takeoff pilot noticed drop engine oil pressure turned back toward airport land almost immediately thereafter engine began run rough eventually lost power completely pilot performed forced landing interstate exit ramp airplane sustained substantial damage examination engine revealed no 2 4 connecting rod separated respective rod journal rod journal absent lubrication displayed heat damage disassembly engine separation case half revealed abnormal wear damage consistent loss lubrication examination testing engine accessory revealed anomaly would prevented normal operation engine equipped screwon oil filter adaptor required torqued 65 ftlbs installation integrity oil filter adaptor installation required examined every 100hour annual inspection adaptor accident engine found loose could easily rotated hand 90 arc oil seepage found area surrounding oil filter adapter attachment point given information likely loose adaptor allowed engine oil pumped overboard resulting loss engine lubrication catastrophic failure no 2 4 connecting rod probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "oil",
+                6
+            ],
+            [
+                "rod",
+                4
+            ]
+        ]
+    }
+}

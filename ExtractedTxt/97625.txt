@@ -1,0 +1,33 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Phoenix, Arizona
+Accident Number:
+WPR18LA181
+Date & Time:
+June 26, 2018, 10:20 Local 
+Registration:
+N154ME
+Aircraft:
+Cessna 172S
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+While maneuvering during a local instructional flight, the engine began running rough, and the 
+instructor decided to return to the airport. The engine subsequently lost total power and the propeller 
+stopped rotating. The instructor performed a forced landing to a clearing where the airplane nosed over, 
+resulting in substantial damage. 
+Examination of the engine revealed that the crankshaft was fractured at the No. 4 connecting rod journal. 
+The fracture surface was flat and crack arrest lines were consistent with a fatigue fracture which initiated 
+subsurface. No flaws or embedded particles were observed at the site of the fatigue initiation. 
+The engine was overhauled about 3 years before the accident and had accumulated 2,798 hours of 
+operation since the overhaul.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to crankshaft failure as the result of a subsurface fatigue crack.

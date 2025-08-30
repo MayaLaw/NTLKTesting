@@ -1,0 +1,29 @@
+{
+    "Filename": "97434.txt",
+    "Location": "Decatur, Texas",
+    "Accident Number": "DCA18CA201",
+    "Date & Time": "June 10, 2018, 20:43 UTC",
+    "Aircraft": "Boeing 777 223",
+    "Registration": "N750AN",
+    "Flight Conducted Under": "Part 121: Air carrier - Scheduled",
+    "Aircraft Damage": "None",
+    "Defining Event": "Turbulence encounter",
+    "Injuries": "1 Serious, 7 Minor,",
+    "Analysis": {
+        "Text": "june 10 2018 2043 utc american airline flight 60 n750an b777200 turbulence descent dallasfort worth international airport kdfw dallasfort worth texas 269 passenger crew onboard one passenger received serious injury seven flight attendant received minor injury damage airplane flight operating 14 code federal regulation part 121 scheduled international passenger flight narita international airport rjaa narita japan kdfw flight began descent kdfw captain illuminated seatbelt sign made public address announcement reminding passenger seatbelt sign return seat buckle remainder flight shortly captain notified flight attendant fa prepare landing take seat airplane entered band small cumulus cloud experienced 1015 second moderate turbulence turbulence encountered fa conducting final cabin safety check since captain informed might turbulence descent result seven fa thrown floor one passenger ignored seatbelt sign instruction remain seated also thrown floor injured left ankle fa notified flight crew arranged paramedic meet airplane gate landing passenger transported hospital diagnosed broken ankle seven fa received various minor injury treated airplane released probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "flight",
+                8
+            ],
+            [
+                "passenger",
+                6
+            ],
+            [
+                "fa",
+                5
+            ]
+        ]
+    }
+}

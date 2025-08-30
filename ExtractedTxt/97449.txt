@@ -1,0 +1,41 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Plant City, Florida
+Accident Number:
+WPR18LA166
+Date & Time:
+June 11, 2018, 01:40 Local 
+Registration:
+N13RF
+Aircraft:
+Cessna 421C
+Aircraft Damage:
+Substantial
+Defining Event:
+Unknown or undetermined
+Injuries:
+1 Minor, 1 None
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+During takeoff on a night aerial observation flight, the pilot reported that the airplane did not accelerate 
+adequately, and he chose to abort the takeoff. The airplane continued off the end of the runway and 
+came to rest in a field about 750 ft past the departure end, resulting in substantial damage to the wings 
+and fuselage.
+Examination revealed that the left engine turbocharger compressor air duct was disconnected from the 
+throttle body. The right engine's engine-driven fuel pump was contaminated with water and debris and 
+would not produce normal pressures and flow; however, whether these anomalies were present at the 
+time of the accident or occurred as a result of or after the accident could not be determined. There were 
+no other anomalies observed that would have precluded normal engine operation. 
+Review of performance information revealed that, given the airplane's weight and atmospheric 
+conditions at the time of the accident, the pilot had adequate runway available to accelerate the airplane 
+to a decision speed, abort the takeoff, and stop on the remaining runway. Airport surveillance video 
+revealed that the pilot did not activate the pilot-controlled runway lighting before takeoff, and tire skid 
+marks on the runway were consistent with heavy braking within the last 200 ft of the runway's paved 
+surface. The circumstances of the accident are consistent with the pilot's delayed decision to abort the 
+takeoff. The pilot's failure to activate the runway lighting system before takeoff likely contributed to the 
+accident by reducing his ability to judge the airplane's acceleration with respect to the runway distance 
+remaining and abort the takeoff in a timely manner upon recognizing an anomaly. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

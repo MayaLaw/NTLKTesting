@@ -1,0 +1,29 @@
+{
+    "Filename": "97633.txt",
+    "Location": "Anchorage, Alaska",
+    "Accident Number": "GAA18CA385",
+    "Date & Time": "June 28, 2018, 07:15 Local",
+    "Aircraft": "Piper PA18",
+    "Registration": "N4714Y",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Nose over/nose down",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot tundratire tailwheelequipped airplane reported landing airport gravel bar got brake little hard tail came airplane flipped airplane sustained substantial damage left wing lift strut pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot overapplication brake landing resulted noseover finding aircraft brake incorrect useoperation personnel issue aircraft control pilot personnel issue use equipsystem pilot",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "brake",
+                3
+            ]
+        ]
+    }
+}

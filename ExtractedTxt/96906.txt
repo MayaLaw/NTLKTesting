@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Shelburne, Vermont
+Accident Number:
+ERA18LA111
+Date & Time:
+March 16, 2018, 14:45 Local 
+Registration:
+N761DV
+Aircraft:
+Cessna 210
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Aerial observation
+Analysis 
+The commercial pilot stated that he did not visually check either fuel tank before takeoff because he had 
+observed the airplane being fueled the day before; he assumed that the tanks were full (44.5 gallons of 
+usable fuel per tank, 89 gallons total) and that he would have sufficient fuel (6.5 hours) for his estimated 
+5-hour aerial survey flight. He departed with the fuel selector positioned to the left tank; his normal 
+routine was to switch fuel tanks every hour for the first 4 hours of flight. About 3 hours into the flight, 
+the engine lost total power. The pilot switched the fuel selector to the right tank and attempted to restart 
+the engine to no avail; he made a forced landing to a snow-covered field, which resulted in substantial 
+damage to the fuselage, an engine mount, and the firewall. Postaccident examination revealed that the 
+left- and right-wing fuel tanks were undamaged, that both fuel caps were secure, and that there was no 
+evidence of leaks. The left tank was empty, and 33 gallons of fuel were drained from the right tank. 
+Visual examination of the engine revealed no evidence of mechanical malfunctions or failures that 
+would have precluded normal operation. Although the pilot indicated that his typical routine was to 
+switch fuel tanks every hour, given the amount of fuel remaining in the right tank, it is likely that the 
+pilot did not adequately manage the fuel supply during flight, which resulted in the total loss of engine 
+power due to fuel starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's inadequate fuel management, which resulted in a total loss of engine power due to fuel 
+starvation.

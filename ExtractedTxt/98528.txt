@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+MADRAS, Oregon
+Accident Number:
+GAA19CA032
+Date & Time:
+October 18, 2018, 15:00 Local 
+Registration:
+N6263P
+Aircraft:
+Piper PA24
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the retractable-gear airplane reported that, during landing, at the "last second," he noticed 
+that the landing gear were not extended. He applied full power to go around, but the airplane pitched 
+down and impacted the runway. The airplane came to rest about 1000 ft down the runway. 
+The airplane sustained substantial damage to the fuselage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to extend the landing gear, which resulted in an attempted go-around and subsequent 
+pitchdown and impact with the runway.
+Findings
+Aircraft
+Gear extension and retract sys - Not used/operated
+Personnel issues
+Forgotten action/omission - Pilot

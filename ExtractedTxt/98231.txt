@@ -1,0 +1,32 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Tulsa, Oklahoma
+Accident Number:
+GAA18CA527
+Date & Time:
+September 1, 2018, 14:45 Local 
+Registration:
+N2303D
+Aircraft:
+Cessna 170
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, during landing, a crosswind lifted the left 
+wing, and the airplane drifted right. The right main landing gear encountered the grass on the right side 
+of the runway, and the airplane subsequently nosed over and came to rest inverted.
+The airplane sustained substantial damage to the left wing lift strut, right aileron, and the empennage.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The automated weather observation station located on the airport reported that, about 8 minutes after the 
+accident, the wind was from 150° at 10 knots, gusting to 16 knots. The airplane landed on runway 19.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing in gusting crosswind conditions.

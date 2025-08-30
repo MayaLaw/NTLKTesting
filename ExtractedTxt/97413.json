@@ -1,0 +1,29 @@
+{
+    "Filename": "97413.txt",
+    "Location": "Uvalde, Texas",
+    "Accident Number": "CEN18LA213",
+    "Date & Time": "June 7, 2018, 10:24 Local",
+    "Aircraft": "Beech F33A",
+    "Registration": "N3291X",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot departed crosscountry flight second flight recent maintenance pilot reported 48 minute flight 8500 ft mean sea level manifold pressure suddenly dropped simultaneous engine explosion oil windshield fire everywhere reduced mixture throttle propeller control pilot reported emergency air traffic control received vector closest airstrip 6 nautical mile south southeast indicated difficulty maintaining glide speed nose airplane pitching upward descent extended landing gear airplane impacted tree terrain came rest 500 yard west intended runway airplane destroyed postimpact fire postaccident examination airplane revealed engine exhibited excessive heat signature consistent lack oil lubrication lack oil resulted 2 connecting rod becoming disconnected crankshaft punctured large hole crankcase engine oil filter found loose mount safety wired counterclockwise direction examination oil filter manually rotated onehalf turn clockwise tighten safety wire prevented rotation however oil filter could rotated due fire damage investigator could determine gasket installed oil filter mount exhaust manifold directly underneath oil filter burn mark likely oil leaked oil filter onto exhaust manifold based available evidence likely loose oil filter allowed oil leak engine resulted oil starvation total loss engine power probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "oil",
+                13
+            ],
+            [
+                "filter",
+                7
+            ],
+            [
+                "engine",
+                5
+            ]
+        ]
+    }
+}

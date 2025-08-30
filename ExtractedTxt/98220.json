@@ -1,0 +1,29 @@
+{
+    "Filename": "98220.txt",
+    "Location": "Yuma, Arizona",
+    "Accident Number": "WPR18LA250",
+    "Date & Time": "August 27, 2018, 10:36 Local",
+    "Aircraft": "Stoddard Hamilton GLASAIR",
+    "Registration": "N8162H",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "private pilot reported 35 minute personal crosscountry flight experimental amateurbuilt airplane alternator field toggle switchcircuit breaker tripped reset switch system appeared normal 5 minute later switch tripped pilot cycled switch 2 minute later pilot noticed engine manifold pressure dropping along airplane airspeed consistent partial loss engine power engine experienced total loss power maneuvering emergency landing nearby airport airplane subsequently landed short runway sustained substantial damage aft fuselage engine installed 91 flight hour 5 month accident flight condition inspection completed month installation maintenance record indicated period engine installation accident maintenance limited routine oil change magneto timing adjustment replacement exhaust gas temperature cylinder head temperature probe installation replacement alternator postaccident examination engine revealed throttle linkage detached throttle arm fuel injection servo rod end bearing linkage throttle arm intact undamaged connecting bolt associated washer castellated nut cotter pin missing butterfly valve within throttle body closed position throttle lever cabin full forward open position likely bolt securing linkage sufficiently tightened secured cotter pin installation error detected subsequent condition inspection investigation determined electrical system malfunction unrelated loss engine power",
+        "Top Words": [
+            [
+                "engine",
+                7
+            ],
+            [
+                "throttle",
+                5
+            ],
+            [
+                "installation",
+                4
+            ]
+        ]
+    }
+}

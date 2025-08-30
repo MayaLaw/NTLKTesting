@@ -1,0 +1,34 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Ontario, California
+Accident Number:
+WPR19LA021
+Date & Time:
+November 8, 2018, 15:53 Local 
+Registration:
+N9914M
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The airplane encountered severe turbulence and downdrafts after flying through a mountain 
+pass, and the pilot applied full engine power in an effort to arrest the descent. The engine did 
+not respond, and the pilot performed a forced landing onto a highway. While the pilot 
+attempted to avoid automobiles, the airplane landed hard and sustained substantial damage.
+Examination revealed that about 20 years and 300 flight hours before the accident, threaded 
+studs had been used to mount the carburetor airbox to the carburetor inlet, rather than the 
+appropriate bolts. The studs had been overdriven and penetrated the carburetor bowl, 
+fracturing the bowl housing. Fragments of the damaged housing lay at the bottom of the bowl 
+until the accident flight, when the turbulence likely caused them to migrate and interfere with 
+either the float or the fuel mixture metering system.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power during descent due to an incorrectly installed carburetor.

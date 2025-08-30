@@ -1,0 +1,29 @@
+{
+    "Filename": "97404.txt",
+    "Location": "Mojave, California",
+    "Accident Number": "ANC18LA042",
+    "Date & Time": "June 4, 2018, 11:52 Local",
+    "Aircraft": "GIPPSAERO PTY LTD GA10",
+    "Registration": "VH-XMH",
+    "Flight Conducted Under": "Part 91: General aviation - Flight test",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "airplane manufacturer conducting spin flight testing installation cargo pod airplane exhibited aberrant behavior testing halted chief design engineer cde consulted provide margin safety flight forward center gravity position authorized flap flap takeoff entry gain insight airplane behavior previous flight final briefing next flight flight crew added spin flap landing configuration flap landing test plan without cdes consultation authorization according pilot flying two wingslevel power flap landing spin left rudder right aileron third spin entry flown configuration except entry 30 leftbank turn airplane entered normal spin one turn flight control inputted normal recovery however airplane settled fully developed spin recovery attempt failed decision made deploy antispin parachute repeated unsuccessful attempt deploy antispin parachute airplane altitude reached 500 ft briefed minimum bailout altitude pilot called executed bailout airplane impacted ground destroyed postaccident examination antispin parachute system revealed half connector hook opened allowed activation pin lanyard antispin parachute become disengaged based airplane previous aberrant behavior conservative parameter cde previously set likely cde would authorized abused spin entry without prior testing buildup entry thus flight crew made inappropriate decision introduce flap landing entry spin testing failure antispin parachute contributed accident probable cause finding",
+        "Top Words": [
+            [
+                "airplane",
+                8
+            ],
+            [
+                "spin",
+                8
+            ],
+            [
+                "flight",
+                7
+            ]
+        ]
+    }
+}

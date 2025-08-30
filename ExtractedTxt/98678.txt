@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Porterville, California
+Accident Number:
+GAA19CA073
+Date & Time:
+November 25, 2018, 13:20 Local 
+Registration:
+N66710
+Aircraft:
+Beech C23
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during the landing flare, the airplane touched down on the main landing gear and 
+ballooned a few feet off the ground. Subsequently, the airplane porpoised, the nosewheel collapsed, and 
+the airplane came to rest nose down on the runway.
+The airplane sustained substantial damage to the engine mount.
+The pilot reported that there were no preimpact mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper landing flare, which resulted in an abnormal landing and subsequent porpoise.
+Findings
+Aircraft
+Pitch control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

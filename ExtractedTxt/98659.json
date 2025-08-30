@@ -1,0 +1,29 @@
+{
+    "Filename": "98659.txt",
+    "Location": "Center, Texas",
+    "Accident Number": "GAA19CA067",
+    "Date & Time": "November 18, 2018, 13:15 Local",
+    "Aircraft": "Jabiru J230-SP",
+    "Registration": "N667J",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported departure noted notam stated fuel available airport landed planned refuel felt sufficient fuel onboard continue another airport get fuel necessary assessed fuel quantity departed airport subsequently engine lost power pitched nose engine regained power pilot realized fuel supply almost exhausted attempted maintain power altitude eventually chose land field selected touchdown point circled land airplane complete turn level wing airplane touched gently overran intended landing area collided drainage culvert nosed airplane sustained substantial damage composite fuselage windscreen probable cause finding national transportation safety board determines probable cause accident pilot improper preflight fuel planning resulted fuel exhaustion total loss engine power",
+        "Top Words": [
+            [
+                "fuel",
+                7
+            ],
+            [
+                "power",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

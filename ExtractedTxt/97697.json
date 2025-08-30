@@ -1,0 +1,29 @@
+{
+    "Filename": "97697.txt",
+    "Location": "San Saba, Texas",
+    "Accident Number": "GAA18CA393",
+    "Date & Time": "July 4, 2018, 09:15 Local",
+    "Aircraft": "Zenair ZENITH STOL CH 701",
+    "Registration": "N127VV",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff applied right rudder counteract left turning tendency airplane airplane continued left runway centerline unable correct back runway centerline airplane 5 10 ft ground decided abort takeoff land grass left runway landing airplane landed hard nose landing gear dug grass airplane nosed airplane sustained substantial damage wing empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare aborted takeoff resulted hard landing noseover",
+        "Top Words": [
+            [
+                "airplane",
+                7
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

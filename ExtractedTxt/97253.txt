@@ -1,0 +1,43 @@
+Page 1 of 7
+Aviation Investigation Final Report
+Location:
+Hamilton, Ohio
+Accident Number:
+CEN18LA173
+Date & Time:
+May 15, 2018, 09:45 Local 
+Registration:
+N6550L
+Aircraft:
+GRUMMAN AMERICAN AVN. CORP. 
+AA 1B
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+About 1 month before the accident, the prior owner of the accident airplane performed a maintenance 
+test flight after an engine replacement. The airplane failed a run-up because of engine roughness. The 
+mechanic/accident pilot who performed the engine replacement felt that the roughness was caused by oil 
+getting by the new piston rings and fouling the spark plugs. The mechanic/pilot cleaned and reinstalled 
+the plugs. 
+The maintenance test flight was then reattempted, and the prior owner flew in the right seat with the 
+mechanic/pilot as the pilot flying. The prior owner indicated that the mechanic/pilot took the active 
+runway without completing an engine run-up. The takeoff power appeared normal until about 100 ft 
+above ground level, when the engine failed abruptly and without warning. The airplane's nose dropped, 
+and the pilot landed the airplane, stopping it about 30 ft from the end of the runway. 
+The mechanic/pilot subsequently sent the carburetor out for overhaul. After reinstalling the carburetor, 
+the mechanic/pilot attempted another maintenance test flight, which was the accident flight. Witnesses 
+stated that the airplane took off; they heard the engine stop, and the pilot attempted to circle back to the 
+airport but did not make it. The airplane impacted terrain during the landing, which resulted in 
+substantial damage to the wing and fuselage.
+The mechanic/pilot completed an accident report that did not contain a narrative of the accident flight 
+and advised that he did not recall the accident. Further, the pilot did not indicate the date of his last flight 
+review.
+A postaccident engine examination revealed no evidence of preimpact mechanical malfunctions or 
+failures that would have precluded normal operation. The engine monitor sustained damage; no engine 
+data was recorded for the accident flight.

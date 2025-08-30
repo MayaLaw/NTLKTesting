@@ -1,0 +1,29 @@
+{
+    "Filename": "98626.txt",
+    "Location": "Lake City, Florida",
+    "Accident Number": "ERA19LA041",
+    "Date & Time": "November 11, 2018, 13:14 Local",
+    "Aircraft": "Piper PA28R",
+    "Registration": "N52737",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "private pilot attempting depart 2600ftlong turf runway right quartering tailwind three passenger onboard witness estimated tailwind 8 knot pilot reported thing could recall flight difficulty getting airplane air another witness reported immediately becoming airborne airplane entered series pitch oscillation oscillation airplane appeared near stall speed lose altitude several oscillation airplane neared left side runway impacted treetop impacting ground cartwheeling one witness stated engine sound change takeoff engine appeared running well entire time given evidence likely pilot failure attain adequate airspeed attempting takeoff tailwind led airplane unable sustain flight probable cause finding national transportation safety board determines probable cause accident pilot failure attain adequate airspeed attempting takeoff tailwind resulted airplane unable sustain flight",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "tailwind",
+                4
+            ]
+        ]
+    }
+}

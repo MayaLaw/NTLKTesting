@@ -1,0 +1,29 @@
+{
+    "Filename": "99335.txt",
+    "Location": "Lincoln, California",
+    "Accident Number": "GAA19CA228",
+    "Date & Time": "April 28, 2019, 11:30 Local",
+    "Aircraft": "Bellanca 7GCAA",
+    "Registration": "N5046E",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot receiving tailwheel instruction reported following threepoint landing raised tail initiate goaround wind shifted left quartering headwind left quartering tailwind airplane veered left pilot added right rudder aileron correct airplane continued veer left exited runway onto tall grass rough terrain instructor took flight control aborted goaround left wing elevator impacted far side trench airplane sustained substantial damage left wing elevator instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation airport automated weather observation station reported 5 minute accident wind 240 3 knot 35 minute accident wind calm pilot landed airplane runway 15 probable cause finding national transportation safety board determines probable cause accident pilot receiving instruction failure maintain directional control landing resulted attempted goaround collision trench flight instructor delayed remedial action landing",
+        "Top Words": [
+            [
+                "left",
+                6
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

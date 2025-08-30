@@ -1,0 +1,29 @@
+{
+    "Filename": "98623.txt",
+    "Location": "Reardan, Washington",
+    "Accident Number": "GAA19CA055",
+    "Date & Time": "November 9, 2018, 10:02 Local",
+    "Aircraft": "Cessna A185",
+    "Registration": "N185PR",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "flight instructor evaluating pilot receiving instruction tailwheelequipped highperformance airplane visual flight rule crosscountry flight added considered runway oneway strip arrived private airstrip gps indicated 5knot crosswind southeast approach airplane 50 ft high crossed predetermined goaround point continued landing touchdown airplane bounced twice pilot initiated goaround instructor reminded pilot committed landing instructed goaround pilot transitioned airplane back landing subsequent touchdown airplane quickly veered right pilot attempted correct veer airplane exited right side airstrip onto soft ground nosed came rest spinner left wing airplane sustained substantial damage left wing instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot indicated wind airport 140 5 knot pilot landed airplane runway 5 flight instructor recommended taken control sooner abnormal situation",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "pilot",
+                7
+            ],
+            [
+                "flight",
+                4
+            ]
+        ]
+    }
+}

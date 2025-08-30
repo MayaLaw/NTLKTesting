@@ -1,0 +1,29 @@
+{
+    "Filename": "98276.txt",
+    "Location": "Denver, Colorado",
+    "Accident Number": "GAA18CA544",
+    "Date & Time": "September 9, 2018, 12:10 Local",
+    "Aircraft": "HALLADAY ROY LOCKHEED",
+    "Registration": "N514RH",
+    "Flight Conducted Under": "Part 91: General aviation - Positioning",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Part(s) separation from AC",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported upon landing activated canopy motor open canopy 2 inch canopy continued open separated airframe struck empennage added standard procedure upon landing open canopy slightly aid slowing airplane egress runway excursion event airplane sustained substantial damage empennage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot added emergency canopy release anchor canopy airframe canopy motor turned inadvertently released flight probable cause finding national transportation safety board determines probable cause accident pilot failure verify emergency canopy release correct position opening canopy landing resulted canopy separating airplane subsequently impacting empennage",
+        "Top Words": [
+            [
+                "canopy",
+                10
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

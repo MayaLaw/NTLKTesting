@@ -1,0 +1,29 @@
+{
+    "Filename": "97552.txt",
+    "Location": "Chicago, Illinois",
+    "Accident Number": "OPS18IA015",
+    "Date & Time": "June 21, 2018, 09:58 Local",
+    "Aircraft": "Boeing 747",
+    "Registration": "B-18711",
+    "Flight Conducted Under": "Non-U.S., commercial",
+    "Aircraft Damage": "None",
+    "Defining Event": "Miscellaneous/other",
+    "Injuries": "4 None",
+    "Analysis": {
+        "Text": "cal5148 conducting il autoland approach runway 10r instrument meteorological condition prevailed time incident overcast ceiling 600 foot ground level agl visibility 2 12 mile moderate rain condition required protection il critical area atc according faa order jo 711065 air traffic control atc issue control instruction protect il critical area avoid signal interference vehicle traffic taxiing aircraft reported weather ceiling less 800 foot visibility less 2 mile however restriction include consideration preceding arriving departing aircraft previously departed aircraft airborne il critical area cal5148 experienced localizer deviation short final math modelling analysis event conducted faa result consistent localizer deviation determined cal5148 flight data recorder fdr data specifically modelling indicated deviation beginning 14 mile threshold would lead aircraft turn left continue follow localizer course line autoland approach faa national resource engineer navigation performed modelling wrote 90 confident location departing eny3544 caused sufficient multipath signal deflection produce fly left indication arriving cal5148 multipath term used describe distortion radiated signal caused signal deflected either stationary moving object aircraft vehicle localizer glide slope critical area probable cause finding",
+        "Top Words": [
+            [
+                "aircraft",
+                5
+            ],
+            [
+                "cal5148",
+                4
+            ],
+            [
+                "il",
+                4
+            ]
+        ]
+    }
+}

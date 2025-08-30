@@ -1,0 +1,40 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Fairbanks, Alaska
+Accident Number:
+ANC18LA048
+Date & Time:
+June 22, 2018, 17:30 Local 
+Registration:
+N3125D
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Sys/Comp malf/fail (non-power)
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+According to the pilot, he was landing with a right crosswind, and after touchdown, as the airplane 
+began to decelerate, he applied left brake to maintain directional control. He stated that the left brake 
+pedal was "soft" and traveled to its full forward limit. The airplane weathervaned and skidded sideways 
+before the left main wheel went off the landing area and into brush. The left wing and left horizontal 
+stabilizer impacted terrain, which resulted in substantial damage. The pilot noted in a postflight 
+examination that the brake line had separated at the compression fitting near the brake caliper where the 
+brake line transitioned from a rigid line to a flexible line.
+A laboratory examination of the brake line and its components revealed that the interior surface of the 
+failed end had circumferential marks consistent with formation of a flared end with a flaring tool. The 
+sleeve was trapped within the nut from the failed end, and deposits of gray metal appearing consistent 
+with deformed brake tube material were observed deposited on internal threads of the nut.
+According to Federal Aviation Administration Advisory Circular AC 43-13-1B, "Acceptable Methods, 
+Techniques, and Practices – Aircraft Inspection and Repair," a double flare is used on soft aluminum 
+tubing having a 3/8-inch outside diameter or less. No evidence of folded walls consistent with a double 
+flare was noted at either end of the brake line tube.
+No records could be found that showed the manufacture or assembly date of the fractured brake line 
+components. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

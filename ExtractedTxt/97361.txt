@@ -1,0 +1,33 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Crescent Mills, California
+Accident Number:
+WPR18TA157
+Date & Time:
+May 18, 2018, 08:09 Local 
+Registration:
+N9163X
+Aircraft:
+Cessna 182D
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel related
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that when he arrived in the vicinity of the destination airport, there was fog in the 
+valley where the airport was located, and he began circling the airplane at a low engine power setting. 
+The engine subsequently lost total power, and the pilot performed a forced landing to a river, resulting in 
+substantial damage to the right wing. The atmospheric conditions present in the area at the time of the 
+accident were conducive to the development of serious carburetor icing at glide power settings which 
+likely resulted in the loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power due to the development of carburetor icing.
+Findings
+Environmental issues
+Conducive to carburetor icing - Effect on equipment

@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Greenville, South Carolina
+Accident Number:
+GAA19CA035
+Date & Time:
+October 23, 2018, 11:30 Local 
+Registration:
+N782JR
+Aircraft:
+Cirrus SR20
+Aircraft Damage:
+Substantial
+Defining Event:
+Abnormal runway contact
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, the wheels touched down but then lifted off the runway. The 
+airplane floated and drifted left of centerline. He then heard the stall horn, the wheels touched down 
+again, and the airplane veered left, exited the runway, and struck a pole. 
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+The airport's automated weather observation station reported that, about the time of the accident, the 
+wind was from 220° at 5 knots. The pilot landed the airplane on runway 01.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper decision to land with a quartering tailwind and his improper landing flare, which 
+resulted in a bounced landing, loss of directional control, runway excursion, and impact with a pole.

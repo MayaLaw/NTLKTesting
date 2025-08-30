@@ -1,0 +1,42 @@
+Page 1 of 10
+Aviation Investigation Final Report
+Location:
+Canoncito, New Mexico
+Accident Number:
+CEN19FA008
+Date & Time:
+October 16, 2018, 16:22 Local 
+Registration:
+N9326G
+Aircraft:
+Cessna 182
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot was conducting a cross-country flight when the airplane had a loss of engine 
+power while descending through an area of precipitation and icing conditions. He was 
+unable to restore normal engine operation using carburetor heat, which resulted in a forced 
+landing. The airplane struck the terrain in a right wing down attitude and cartwheeled upon 
+impact. Shortly after the accident, an individual observed several pieces of structural ice on 
+the ground below the airplane’s left wing leading edge.
+After the accident, the engine demonstrated the ability to produce rated horsepower during 
+an engine test. However, the carburetor heat control cable was found fractured and 
+exhibited evidence of prolonged polishing wear against the cable sheathing. It is likely that 
+the carburetor heat control cable had failed in overstress due to its reduced cross section 
+from the polishing wear. Additionally, based on contaminants observed on the cable and 
+fracture surfaces, the carburetor heat control cable had been fractured for an extended 
+period before the flight. 
+The airplane was not approved for flight in known icing conditions; however, if inadvertently 
+flown in icing conditions, the carburetor heat should be engaged to avoid a loss of engine 
+power due to induction air filter icing and/or carburetor icing. It is likely the loss of engine 
+power during the flight was due to an accumulation of ice on the induction air filter and/or 
+to the carburetor, and the pilot was unable to restore engine power because the fractured 
+control cable had rendered the carburetor heat inoperative. According to the airplane’s 
+operating handbook, pilots are to verify the proper operation of the carburetor heat during 
+an engine runup before each flight.

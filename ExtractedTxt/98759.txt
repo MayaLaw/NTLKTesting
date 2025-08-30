@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Moscow, Pennsylvania
+Accident Number:
+ERA19LA063
+Date & Time:
+December 4, 2018, 10:45 Local 
+Registration:
+N618G
+Aircraft:
+Lancair LC41
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, about 20 minutes after departure, the airplane began to shudder. He adjusted the 
+engine power, but the airplane continued to shake before the engine lost total power.  The pilot 
+performed a forced landing to a road, during which the airplane sustained substantial damage. 
+Visual examination revealed multiple holes in the top of the engine crankcase. Disassembly of the 
+engine revealed that the Nos. 2, 3, 4, and 5 connecting rods were fractured and separated from the 
+connecting rod journals. The connecting rods, connecting rod bearings, and the crankshaft’s connecting 
+rod journals displayed thermal discoloration consistent with oil starvation. Examination of the engine 
+components and engine-related systems revealed no evidence of a pre-impact oil leak; however, the left 
+turbocharger was missing its turbine wheel, and the shaft was fractured outboard of the turbine piston 
+ring. A test run of an exemplar engine without the left turbine wheel revealed significant oil loss during 
+operation. 
+The left turbocharger was overhauled 158 flight hours before the accident, and its wheel assemblies 
+were reused rather than replaced, as specified by the manufacturer. It is likely the separation of the left 
+turbine wheel resulted in oil escaping the engine, which resulted in oil starvation and catastrophic engine 
+failure.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:

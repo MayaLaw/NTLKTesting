@@ -1,0 +1,29 @@
+{
+    "Filename": "98218.txt",
+    "Location": "St Ignace, Michigan",
+    "Accident Number": "CEN18FA368",
+    "Date & Time": "August 31, 2018, 21:45 Local",
+    "Aircraft": "Piper PA32RT",
+    "Registration": "N500MJ",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "instrumentrated pilot took dark night condition lake bordered departure end runway airport manager witnessed airplane depart reported takeoff sounded normal two witness facing lake reported observed aircraft take airport fly 100 200 ft lake surface banked right disappeared sight 10 15 second later witness heard sounded like crash water explosion distress radio call pilot radar information flight airport manager first responder reported dark night distinguishable horizon examination airframe engine reveal preimpact anomaly would precluded normal operation evidence consistent slight right wing nose low high speed impact water right turn would necessary point takeoff fly towards destination airport evidence consistent right turn initiated although reason impact water could determined overwater departure dark night condition would provided adequate visual cue assure positive rate climb departure initial turnout course pilot would vulnerable illusion flight instrument used conduct takeoff initial climb probable cause finding national transportation safety board determines probable cause accident pilot failure maintain sufficientnbspaltitude takeoff dark night condition resulted collision water",
+        "Top Words": [
+            [
+                "pilot",
+                4
+            ],
+            [
+                "dark",
+                4
+            ],
+            [
+                "night",
+                4
+            ]
+        ]
+    }
+}

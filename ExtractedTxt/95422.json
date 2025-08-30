@@ -1,0 +1,29 @@
+{
+    "Filename": "95422.txt",
+    "Location": "Salem, Oregon",
+    "Accident Number": "GAA17CA359",
+    "Date & Time": "June 14, 2017, 16:30 Local",
+    "Aircraft": "Cessna A188",
+    "Registration": "N4877Q",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff roll agricultural flight airplane drifted left runway center left wing spray boom encountered tall grass subsequently airplane spun 270 airplane sustained substantial damage wing fuselage pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation pilot reported operatorowner safety recommendation section ntsb form 61201 tall grass next runway maintained shorter probable cause finding national transportation safety board determines probable cause accident pilot failure maintain directional control takeoff roll resulted airplane contacting tall grass",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

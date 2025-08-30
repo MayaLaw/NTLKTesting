@@ -1,0 +1,41 @@
+Page 1 of 9
+Aviation Investigation Final Report
+Location:
+Plain City, Ohio
+Accident Number:
+CEN19FA100
+Date & Time:
+March 17, 2019, 17:45 Local 
+Registration:
+N424TW
+Aircraft:
+Cessna 421
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+1 Fatal
+Flight Conducted Under:
+Part 91: General aviation
+Analysis 
+The pilot departed on a short cross-country flight in the twin-engine airplane. Instrument meteorological 
+conditions (IMC) were present at the time. While en route at an altitude of 3,000 ft mean sea level, the 
+pilot reported that the airplane was "picking up icing" and that he needed to "pick up speed." The 
+controller then cleared the pilot to descend, then to climb, in order to exit the icing conditions; shortly 
+thereafter, the controller issued a low altitude alert. The pilot indicated that he was climbing; radar and 
+radio contact with the airplane were lost shortly thereafter. The airplane impacted a field about 7 miles 
+short of the destination airport. Examination of the airplane was limited due to the fragmentation of the 
+wreckage; however, no pre-impact anomalies were noted during the airframe and engine examinations. 
+Extensive damage to the pitot static and deicing systems precluded functional testing of the two systems.
+A review of data recorded from onboard avionics units indicated that, about the time the pilot reported to 
+the controller that the airplane was accumulating ice, the airplane's indicated airspeed had begun to 
+diverge from its ground speed as calculated by position data. However, several minutes later, the 
+indicated airspeed was zero while the ground speed remained fairly constant. It is likely that this 
+airspeed indication was the result of icing of the airplane's pitot probe. During the final 2 minutes of 
+flight, the airplane was in a left turn and the pilot received several "SINK RATE" and "PULL UP PULL 
+UP" annunciations as the airplane conducted a series of climbs and descents during which its ground 
+speed (and likely, airspeed) reached and/or exceeded the airplane's maneuvering and maximum 
+structural cruising speeds.
+It is likely that the pilot became distracted by the erroneous airspeed indication due to icing of the pitot 
+probe and subsequently lost control while maneuvering.

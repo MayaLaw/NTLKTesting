@@ -1,0 +1,29 @@
+{
+    "Filename": "97734.txt",
+    "Location": "Spencer, Iowa",
+    "Accident Number": "GAA18CA412",
+    "Date & Time": "June 29, 2018, 16:30 Local",
+    "Aircraft": "Beech A36",
+    "Registration": "N67CD",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear not configured",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "according pilot retractablelanding gearequipped airplane extend landing gear landing reported became distracted communicating aircraft controlling airplane gusting wind condition realize perceived stall warning horn actually landing gear unsafe warning horn added accident could prevented repeating gumpfs checklist final checking ensure three green landing gear safe light illuminated airplane sustained substantial damage lower fuselage bulkhead spar carrythrough pilot reported mechanical malfunction failure airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure extend landing gear landing contributing accident pilot failure use landing checklist due distracted communicating aircraft controlling airplane gusting wind condition",
+        "Top Words": [
+            [
+                "landing",
+                7
+            ],
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ]
+        ]
+    }
+}

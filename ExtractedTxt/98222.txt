@@ -1,0 +1,38 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Indiana, Pennsylvania
+Accident Number:
+ERA18LA242
+Date & Time:
+September 2, 2018, 09:20 Local 
+Registration:
+N4059C
+Aircraft:
+Stinson 108
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel contamination
+Injuries:
+1 Serious, 1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Instructional
+Analysis 
+The student pilot and instructor departed on a local instructional flight, completing about 35 
+minutes of airwork before returning to the airport to practice takeoffs and landings. They 
+performed several landings and used full carburetor heat during each approach. During the 
+initial climb for the last takeoff, the engine response was "normal" until about 300 ft above 
+ground level, when the engine "abruptly" lost total power. The flight instructor took the flight 
+controls, attempted to restore engine power, and turned the airplane toward a clearing, where 
+it impacted trees before impacting the ground. 
+Fuel samples from the wings, gascolator, and carburetor revealed solid debris similar to dirt 
+and orange sealant in all samples. Additionally, an air filter element was found lodged in the 
+carburetor venturi. Because the airplane had flown for a few hours since maintenance was 
+completed and the engine stopped producing power "abruptly," it is likely that the engine was 
+starved of fuel as a result of the debris that migrated through the fuel system, which resulted in 
+the total loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A total loss of engine power as a result of debris contamination of the fuel, which resulted in 
+fuel starvation.

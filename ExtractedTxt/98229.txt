@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Palmer, Alaska
+Accident Number:
+GAA18CA525
+Date & Time:
+August 31, 2018, 18:00 Local 
+Registration:
+N5373Y
+Aircraft:
+Piper PA18
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during takeoff from an unimproved, gravel airstrip, the tailwheel-equipped 
+airplane veered right and then struck an airplane parked on the right side of the airstrip.
+The airplane sustained substantial damage to both wings, the fuselage, and the elevator.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during takeoff.
+Findings
+Aircraft
+Directional control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot
+Environmental issues
+Aircraft - Effect on operation
+Environmental issues
+Rough terrain - Contributed to outcome

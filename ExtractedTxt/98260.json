@@ -1,0 +1,29 @@
+{
+    "Filename": "98260.txt",
+    "Location": "RICHLAND, Missouri",
+    "Accident Number": "WPR18LA255",
+    "Date & Time": "September 4, 2018, 12:26 Local",
+    "Aircraft": "Cessna 150",
+    "Registration": "N8028F",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 Serious, 1 Minor",
+    "Analysis": {
+        "Text": "flight instructor student pilot performing touchandgo takeoff landing runway 14 instructor stated second touchandgo went bad could remember event accident student pilot provide statement recorded weather condition nearby airport time accident included wind 160 17 knot gust 23 knot resulting 7knot right crosswind component landing runway airplane came rest inverted 1800 ft 3000ftlong runway wing flap fully extended position examination flight control revealed anomaly runway displayed impact marking consistent contact left wing 1700 ft runway right runway centerline circumstance accident consistent loss directional control touchandgo landing gusting crosswind condition probable cause finding national transportation safety board determines probable cause accident loss directional control touchandgo landing gusting crosswind condition",
+        "Top Words": [
+            [
+                "runway",
+                6
+            ],
+            [
+                "touchandgo",
+                4
+            ],
+            [
+                "landing",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Granite Shoals, Texas
+Accident Number:
+CEN19LA101
+Date & Time:
+March 6, 2019, 13:00 Local 
+Registration:
+N6917F
+Aircraft:
+Cessna 150
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Minor, 2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that he last fueled the airplane about 5 months before the accident. Before the flight, 
+the pilot conducted a preflight inspection and sumped both wing fuel tanks. The left fuel tank had some 
+sediment present, but as he continued sumping the fuel became clear. The fuel in the right fuel tank ran 
+clear. After engine start, the left tank fuel gauge indicated near empty, and the right fuel tank gauge 
+indicated about 1/4 full. Subsequently, the pilot took off for a personal cross-country flight. After 
+starting a right turn, and about 600 ft above ground level, the engine sputtered and lost power. The pilot 
+then attempted to turn back to the airport but realized that the airplane was too low, so he executed a 
+forced landing to a field with small trees, during which the left wing struck a tree, which resulted in  
+substantial damage to the wing.
+The pilot reported that, after the accident, he found more sediment in the left tank. He stated that he 
+believed that the low fuel state and the sediment in the left tank may have starved the engine of fuel 
+during the turn and that having more fuel onboard would have “probably been helpful.” However, it is 
+more likely that, due to the low fuel state, when the pilot conducted the right turn, the fuel became 
+unported, resulting in the loss of engine power due to fuel starvation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's decision to takeoff with a limited amount of fuel onboard, which unported during a 
+turn, resulting in fuel starvation and a subsequent loss of engine power.

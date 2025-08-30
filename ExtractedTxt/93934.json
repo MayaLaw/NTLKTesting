@@ -1,0 +1,29 @@
+{
+    "Filename": "93934.txt",
+    "Location": "Hibbing, Minnesota",
+    "Accident Number": "CEN16LA343",
+    "Date & Time": "August 31, 2016, 11:30 Local",
+    "Aircraft": "Cessna 170A",
+    "Registration": "N1726D",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot conducting personal flight last recollection flight entered traffic pattern runway stated unsure bad landing tried go around accident occurred airplane came rest upright grass alongside runway facing southeast forward fuselage crushed aft consistent nosedown impact flap found fully retracted postaccident examination runway reveal tire skid mark could associated loss directional control airplane touched initial point impact left wingtip hit ground 30 ft left edge runway propeller exhibited damage consistent minimal engine power impact wreckage examination reveal mechanical malfunction failure airplane would precluded normal operation based available information pilot lost airplane control could determined occurred landing goaround attempt probable cause finding national transportation safety board determines probable cause accident pilot failure maintain aircraft control resulted impact terrain near runway",
+        "Top Words": [
+            [
+                "runway",
+                5
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "impact",
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "96827.txt",
+    "Location": "Palatka, Florida",
+    "Accident Number": "ERA18LA097",
+    "Date & Time": "March 6, 2018, 14:30 Local",
+    "Aircraft": "REILLY CHARLES W ESCAPADE",
+    "Registration": "N45DC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (total)",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "private pilot reported 1mile final approach landing 400 ft ground engine lost total power pilot applied full throttle enrichened mixture momentary return power occurred engine lost power airspeed decreased airplane entered aerodynamic stall impacted house terrain postaccident examination airframe engine revealed evidence preimpact mechanical malfunction failure left wing fuel tank empty right wing tank contained 4 gallon fuel auxiliary tank contained enough fuel cover bottom tank however evidence fuel spillage site amount fuel onboard accident could determined nonvolatile memory data recorded accident flight revealed large spike fuel flow followed 0 rpm reading indicative total loss engine power due air passing fuel line transducer rather fuel likely fuel flow engine interrupted postaccident examination engine fuel system could determine caused interruption probable cause finding national transportation safety board determines probable cause accident interruption fuel engine final approach resulted total loss engine power due fuel starvation pilot subsequent failure maintain airspeed resulted aerodynamic stall",
+        "Top Words": [
+            [
+                "fuel",
+                12
+            ],
+            [
+                "engine",
+                8
+            ],
+            [
+                "power",
+                5
+            ]
+        ]
+    }
+}

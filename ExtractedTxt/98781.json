@@ -1,0 +1,29 @@
+{
+    "Filename": "98781.txt",
+    "Location": "Jasper, Georgia",
+    "Accident Number": "GAA19CA099",
+    "Date & Time": "November 28, 2018, 11:30 Local",
+    "Aircraft": "Cirrus SR20",
+    "Registration": "N343BZ",
+    "Flight Conducted Under": "Part 91: General aviation - Instructional",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Aerodynamic stall/spin",
+    "Injuries": "2 Minor",
+    "Analysis": {
+        "Text": "flight instructor reported touchandgo landing observed student struggling maintain traffic pattern altitude airplane excessively left runway centerline told would allowed land airplane centerline accident landing airplane left runway centerline asked correct corrected anticipated full landing landing flare airplane drifted left instructed student perform goaround student aggressively pitched airplane heard stall warning horn stall audio annunciation took flight control lowered nose airplane continued drift left student statement corroborated instructor statement airplane sustained substantial damage fuselage left wing flight instructor reported preaccident mechanical failure malfunction airplane would precluded normal operation automated weather observation station located 9 mile south accident airport reported 5 minute accident wind 290 9 knot gusting 15 knot student landed airplane runway 34 probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "airplane",
+                9
+            ],
+            [
+                "student",
+                5
+            ],
+            [
+                "left",
+                5
+            ]
+        ]
+    }
+}

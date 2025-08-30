@@ -1,0 +1,33 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Albermarle, North Carolina
+Accident Number:
+GAA19CA017
+Date & Time:
+October 4, 2018, 13:00 Local 
+Registration:
+N52881
+Aircraft:
+Cessna 177RG
+Aircraft Damage:
+Substantial
+Defining Event:
+Landing gear not configured
+Injuries:
+2 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot in the retractable-landing gear-equipped airplane reported that he "decided to attempt a gear up 
+glide" to the runway. He recalled that he became fixated on reaching the runway and forgot to extend the 
+landing gear. The airplane touched down and skidded to a stop on the runway. 
+The airplane sustained substantial damage to the lower fuselage bulkheads.
+The pilot reported that there were no mechanical malfunctions or failures with the airplane that would 
+have precluded normal operation. 
+The pilot recommended adhering to checklists. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's improper decision to attempt a gear-up glide to the runway and his subsequent failure to 
+extend the landing gear before landing. Contributing to the accident was the pilot's failure to use a 
+checklist before landing.

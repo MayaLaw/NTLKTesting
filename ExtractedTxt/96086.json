@@ -1,0 +1,29 @@
+{
+    "Filename": "96086.txt",
+    "Location": "Franklin, Pennsylvania",
+    "Accident Number": "GAA17CA552",
+    "Date & Time": "September 21, 2017, 14:10 Local",
+    "Aircraft": "HENCKEN WILLIAM PIETENPOL",
+    "Registration": "N40WH",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing gear collapse",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported takeoff roll experimental tailwheelequipped airplane left wing dropped pilot corrected right aileron input back pressure control yoke however airplane veered runway bounced impacted runway rightwinglow attitude subsequently airplane nosed postaccident examination airplane revealed weld connects left main landing gear axle failed airplane sustained substantial damage right wing empennage probable cause finding national transportation safety board determines probable cause accident failure weld connects left main landing gear axle takeoff roll",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "left",
+                3
+            ],
+            [
+                "pilot",
+                2
+            ]
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Grand Forks, North Dakota
+Accident Number:
+WPR18LA234
+Date & Time:
+August 21, 2018, 08:50 Local 
+Registration:
+N7300M
+Aircraft:
+Air Tractor AT 400
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (total)
+Injuries:
+1 Serious
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+The pilot was maneuvering the airplane during an aerial application over a field. A witness noticed that 
+the airplane’s final turn was different than previous turns. Just before the airplane impacted the ground, 
+the witness noticed a puff of smoke or liquid coming from the airplane.  As the witness was a distance 
+away, she was not certain. During the impact, the airplane sustained substantial damage. 
+Examination of the engine revealed circumferential rubbing marks due to contact between the 
+compressor turbine disk assembly and power turbine (PT) disk assembly. Of the 41 PT blades, 18 were 
+recovered, and those blades exhibited fracture surfaces consistent with overstress fracture under elevated 
+temperatures. Impact marks were identified inside the exhaust duct. The fracture of these blades likely 
+occurred at ground impact when the engine was operational.
+It is likely that one or more of the unrecovered PT blades failed for an undetermined reason during the 
+flight and impacted adjacent PT blades and components, including the exhaust duct. The internal engine 
+damage from the released blades caused the PT disc assembly to fail, resulting in a loss of engine power. 
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The loss of engine power while maneuvering due to the failure of the power turbine blade assembly for 
+reasons that could not be determined based on available evidence.  

@@ -1,0 +1,38 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+Canon City, Colorado
+Accident Number:
+CEN17LA236
+Date & Time:
+June 18, 2017, 07:15 Local 
+Registration:
+N999WX
+Aircraft:
+WELLS JOHN L JR STOL CH 701
+Aircraft Damage:
+Substantial
+Defining Event:
+Fuel starvation
+Injuries:
+1 Minor
+Flight Conducted Under:
+Part 91: General aviation - Flight test
+Analysis 
+The commercial pilot reported that, during initial climb after takeoff, the amateur-built airplane's engine 
+experienced a partial loss of power. As he attempted to return to the airport, the engine lost total power. 
+He subsequently conducted a forced landing on rough terrain, during which the right wing and fuselage 
+sustained damage.
+Postaccident examination of the engine revealed that the fuel hose from the left wing tank had 
+deteriorated from the inside, which would have restricted the flow of fuel to the engine and led to fuel 
+starvation and the subsequent loss of engine power.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+Fuel starvation due to the deterioration of a fuel hose.
+Findings
+Aircraft
+Fuel distribution - Damaged/degraded
+Aircraft
+Fuel - Fluid level
+Environmental issues
+Rough terrain - Contributed to outcome

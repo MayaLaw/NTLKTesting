@@ -1,0 +1,44 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+New York, New York
+Accident Number:
+DCA19CA035
+Date & Time:
+December 1, 2018, 00:18 UTC 
+Registration:
+N202PS
+Aircraft:
+Bombardier CL 600 2B19
+Aircraft Damage:
+Substantial
+Defining Event:
+Ground handling event
+Injuries:
+2 Minor, 27 None
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+On December 1, 2018, at approximately 0018 coordinated universal time, PSA Airlines flight 5541, a 
+Bombardier CRJ200, N202PS, struck a tug during engine start at LaGuardia Airport (LGA), Queens, 
+New York. There were no injuries to the 27 passengers and crew onboard. The airplane was 
+substantially damaged. The was operating under 49 Code of Federal Regulations Part 121 as a regularly 
+scheduled passenger flight from LGA to Akron-Canton Airport (CAK), North Canton, Ohio.  
+According to the operator, the accident airplane had six deferred items on the dispatch release including, 
+auxiliary power unit (APU) crossflow, power crossflow shutoff valves (SOV), and the APU. These 
+deferred items rendered the fuel tank transfer on the ground inoperative and required the right engine to 
+be started via an air cart. The flight crew indicated that the tug driver had to use hand signals to 
+communicate back to them because the transmit function on his headset was inoperative. The captain 
+indicated that he had requested to start both engines at the gate to limit fuel imbalance while on the 
+ground, but the ground crew had denied that request.  The towing operation was initiated with only the 
+right engine running.  
+A cross-bleed start on the CRJ200 requires a significant increase in thrust in the operative engine to 
+allow the appropriate amount of bleed pressure to power the air turbine starter and imparts a 
+lateral thrust imbalance on the airplane. A checklist item on the CRJ200 Engine Start (Cross-Bleed) 
+procedure is to set the parking brake prior to initiating a cross-bleed engine start. However, the captain 
+initiated the cross-bleed start while still under tow after receiving clearance from the ground crew. 
+According to the operator, the flight data indicated the was initiated with the right engine N2 first 
+increasing to approximately 82.5%, and then to maximum N2 about 12 seconds after start was initiated.  
+About ten seconds later, a lateral acceleration of 0.20 g was recorded.  The tug impacted the right side of 
+the airplane underneath the right front galley door, after jack knifing while remaining attached to the 
+nose gear. The airplane sustained a whole 14.5 inches by 7.5 inches and a fractured stringer.

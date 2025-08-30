@@ -1,0 +1,29 @@
+{
+    "Filename": "98049.txt",
+    "Location": "Payson City, Utah",
+    "Accident Number": "CEN18FA326",
+    "Date & Time": "August 13, 2018, 02:30 Local",
+    "Aircraft": "Cessna 525",
+    "Registration": "N526CP",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "commercial pilot flying airplane night visual meteorological condition flew airplane toward home airplane struck garage across street continued impacted front home examination airplane found anomaly flight control would contributed accident toxicology testing revealed presence medication used treat depression obsessivecompulsive disorder eating disorder panic attack pilot report use medication federal aviation administration pilot known history depression anxiety anger management issue circumstance accident consistent pilot intentional flight home probable cause finding national transportation safety board determines probable cause accident pilot intentional flight residence finding personnel issue suicide pilot",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "airplane",
+                4
+            ],
+            [
+                "home",
+                3
+            ]
+        ]
+    }
+}

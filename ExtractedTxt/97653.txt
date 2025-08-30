@@ -1,0 +1,40 @@
+Page 1 of 13
+Aviation Investigation Final Report
+Location:
+Springfield, Missouri
+Incident Number:
+OPS18IA014
+Date & Time:
+June 27, 2018, 12:51 Local 
+Registration:
+N655AE
+Aircraft:
+Embraer EMB145
+Aircraft Damage:
+None
+Defining Event:
+Air traffic event
+Injuries:
+Flight Conducted Under:
+Part 121: Air carrier - Scheduled
+Analysis 
+The runway incursion sequence began when the air traffic control (ATC) local controller (LC) 
+cleared (ENY3660) for takeoff from an inactive runway that had been NOTAM’d closed for arrivals to 
+accommodate airfield mowing in the underrun. 
+Interviews with controllers after the incident revealed SGF runway 14 had been NOTAM’d 
+closed by SGF Airport Operations for arrivals but was available for departures. There were mowers in 
+the underrun of runway 14 in the runway safety area (RSA) that prohibited an overflight by landing air 
+traffic. The NOTAM was published and available to aircrew and air traffic control via the FAA website 
+and covered the period from 1230 UTC to 2100 UTC. 
+Because runway 14/32 was closed to landing traffic, SGF standard operating procedures 
+permitted the transfer of control for the runway to the ground controller (GC) position to use for runway 
+crossings without the need for coordination with LC. Because GC now had operational control of the 
+runway, the LC was required to request the use of the closed runway from the GC prior to issuing any 
+clearances for takeoff. 
+The pilot of ENY3660 requested to use runway 14 for a departure, and the GC approved the 
+request and issued taxi instructions to runway 14. While the airplane was taxiing to runway 14, VAN7 
+requested to cross runway 14 while GC maintained operational control of the runway. Because GC had 
+control of the runway, there was no requirement to coordinate the closed runway vehicle crossing with 
+LC.
+When the pilot of ENY3660 called the LC ready for takeoff from runway 14, the LC issued a takeoff 
+clearance without coordinating with GC. 

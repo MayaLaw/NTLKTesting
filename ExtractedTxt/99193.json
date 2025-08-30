@@ -1,0 +1,29 @@
+{
+    "Filename": "99193.txt",
+    "Location": "Afton, Wyoming",
+    "Accident Number": "GAA19CA184",
+    "Date & Time": "March 31, 2019, 11:30 Local",
+    "Aircraft": "Piper PA 16",
+    "Registration": "N676SC",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Abnormal runway contact",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot tailwheelequipped airplane reported upon landing airplane bounced twice started veer left immediately applied power go around main landing gear struck snowbank airplane nosed airplane sustained substantial damage left right wing pilot reported preimpact mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot improper landing flare resulted bounced landing loss directional control airplane subsequent impact snowbank noseover attempted goaround",
+        "Top Words": [
+            [
+                "airplane",
+                6
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ]
+        ]
+    }
+}

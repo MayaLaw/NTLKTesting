@@ -1,0 +1,29 @@
+{
+    "Filename": "97139.txt",
+    "Location": "Gainesville, Florida",
+    "Accident Number": "GAA18CA243",
+    "Date & Time": "April 29, 2018, 21:30 Local",
+    "Aircraft": "Cessna 310",
+    "Registration": "N2212A",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Controlled flight into terr/obj (CFIT)",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "pilot reported final approach night speaking control tower airplane left horizontal stabilizer struck tree pilot added full power pitched airplane yawed left resumed final approach airplane landed without incident airplane sustained substantial damage left horizontal stabilizer pilot reported preaccident mechanical failure malfunction airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure maintain adequate approach path night resulted tree strike",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "pilot",
+                4
+            ],
+            [
+                "approach",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "97159.txt",
+    "Location": "Woodward, Oklahoma",
+    "Accident Number": "CEN18LA156",
+    "Date & Time": "May 2, 2018, 16:20 Local",
+    "Aircraft": "LAMINAR Lancair 360",
+    "Registration": "N92WL",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Fuel related",
+    "Injuries": "2 None",
+    "Analysis": {
+        "Text": "airline transport pilot conducting personal flight pilotrated passenger experimental amateurbuilt airplane pilot reported flight 10000 ft airplane experienced moderate severe turbulence second shortly engine stopped producing power without warning pilot immediately attempted restart engine avail flew best glide speed toward nearest airport located 12 nautical mile away landed short runway pasture airplane encountered sagebrush caused landing gear collapse airplane bounced skidded stop fuselage sustained substantial damage examination airplane accident site revealed emergency fuel shutoff valve located right side center console instrument panel 14 way horizontal position vertical position valve could seen pilot pilotrated passenger stated could see emergency fuel shutoff valve sure knee hit valve handle shut fuel flow header fuel tank engine turbulence event onboard flight engine monitoring system indicated airplane 10000 ft mean sea level experienced 2g vertical acceleration engine data indicated rapid decrease fuel flow 2g acceleration coinciding decrease exhaust gas temperature fuel pressure 30 gallon fuel drained airplane transported recovery facility engine examination test run conducted engine performed satisfactorily second test conducted determine effectiveness emergency fuel shut valve needed positioned cut fuel engine indication power loss valve handle full vertical position caused engine stop within 10 second",
+        "Top Words": [
+            [
+                "engine",
+                9
+            ],
+            [
+                "fuel",
+                9
+            ],
+            [
+                "airplane",
+                7
+            ]
+        ]
+    }
+}

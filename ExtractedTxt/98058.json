@@ -1,0 +1,29 @@
+{
+    "Filename": "98058.txt",
+    "Location": "Sallisaw, Oklahoma",
+    "Accident Number": "GAA18CA485",
+    "Date & Time": "August 4, 2018, 11:00 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N707TM",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control on ground",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "according student pilot solo flight traffic pattern airplane encountered wind gust left landing roll airplane exited left side runway collided drainage culvert located 100 ft east runway airplane ground speed time collision 15 mph student reported mechanical malfunction failure airplane would precluded normal operation airplane sustained substantial damage rightwing spar metar airport reported time accident wind 150 3 knot sky clear gust reported probable cause finding national transportation safety board determines probable cause accident student pilot loss directional control landing roll",
+        "Top Words": [
+            [
+                "airplane",
+                5
+            ],
+            [
+                "student",
+                3
+            ],
+            [
+                "reported",
+                3
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98321(2).txt",
+    "Location": "Millbrook, New York",
+    "Accident Number": "GAA18CA568",
+    "Date & Time": "September 15, 2018, 14:45 Local",
+    "Aircraft": "Cessna U206",
+    "Registration": "N756FN",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Ground collision",
+    "Injuries": "1 None",
+    "Analysis": {
+        "Text": "pilot reported taxiing fuel station hangar taxied north turned left onto taxiway delta point airplane collided another airplane reported seen airplane pilot airplane reported landing taxiing fuel station taxiway taxiing another airplane entered taxiway collided left side airplane video recording security camera located airport office building showed airplane entered taxiway delta without yielding airplane already taxiing taxiway airplane already taxiing taxiway delta sustained substantial damage left wing rudder pilot reported mechanical malfunction failure either airplane would precluded normal operation probable cause finding national transportation safety board determines probable cause accident pilot failure yield traffic established taxiway resulted ground collision",
+        "Top Words": [
+            [
+                "airplane",
+                10
+            ],
+            [
+                "taxiway",
+                7
+            ],
+            [
+                "taxiing",
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Filename": "98550.txt",
+    "Location": "Murfreesboro, Tennessee",
+    "Accident Number": "ERA19LA028",
+    "Date & Time": "October 28, 2018, 12:10 Local",
+    "Aircraft": "Beech V35",
+    "Registration": "N5624S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "private pilot conducting crosscountry personal flight reported approach destination airport manually extend landing gear noticed light green witness airport terminal reported heard pilot announce ctaf airplane amperage issue might land radio pilot asked confirm landing gear extended witness went taxiway checked landing gear status pilot conducted low pas runway landing gear extended fully pilot stated attempted go around airplane sucked tree strong wind airplane proceeded beyond departure end runway pilot reported preaccident mechanical malfunction failure airframe engine would precluded normal operation examination wreckage revealed alternator switch position would prevented battery charging likely led insufficient battery power extend landing gear airport automated weather observation station reported time accident right quartering headwind 14 knot gusting 19 knot probable cause finding national transportation safety board determines probable cause accident",
+        "Top Words": [
+            [
+                "pilot",
+                6
+            ],
+            [
+                "landing",
+                5
+            ],
+            [
+                "gear",
+                5
+            ]
+        ]
+    }
+}

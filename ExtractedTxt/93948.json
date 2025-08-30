@@ -1,0 +1,29 @@
+{
+    "Filename": "93948.txt",
+    "Location": "Upham, North Dakota",
+    "Accident Number": "CEN16LA350",
+    "Date & Time": "August 30, 2016, 20:35 Local",
+    "Aircraft": "Cessna 150L",
+    "Registration": "N18601",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Landing area undershoot",
+    "Injuries": "1 Serious",
+    "Analysis": {
+        "Text": "pilot completed local flight landing unlighted grass airstrip toward west shortly sunset landing airplane impacted riverbank short runway 6 ft elevation runway caused airplane nose come rest inverted pilot seriously injured airplane sustained substantial damage fuselage left wing pilot recall accident reported malfunction airplane would contributed accident likely pilot obtain proper aimpoint approach due reduced visibility setting sun resulted landing short runway probable cause finding national transportation safety board determines probable cause accident pilot failure obtain proper aimpoint landing due reduced visibility setting sun",
+        "Top Words": [
+            [
+                "pilot",
+                5
+            ],
+            [
+                "landing",
+                4
+            ],
+            [
+                "airplane",
+                4
+            ]
+        ]
+    }
+}

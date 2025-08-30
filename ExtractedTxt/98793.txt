@@ -1,0 +1,38 @@
+Page 1 of 8
+Aviation Investigation Final Report
+Location:
+Atlanta, Georgia
+Accident Number:
+ERA19FA071
+Date & Time:
+December 20, 2018, 12:10 Local 
+Registration:
+N188CW
+Aircraft:
+Cessna 560
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+4 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot departed on an instrument flight rules flight into instrument meteorological conditions (IMC). 
+Radar data indicated that the airplane entered a left turn after takeoff, consistent with the pilot's 
+instrument clearance. As the airplane climbed to an altitude about 2,410 ft above ground level, its rate of 
+climb increased from about 3,500 ft per minute to 9,600 ft per minute, the stick shaker activated, and the 
+airplane decelerated to about 75 knots. The airplane then entered a descending right turn and rolled 
+inverted before impacting terrain about 1 mile from the airport. All major components of the airplane 
+were located at the accident site, and examination of the wreckage revealed no anomalies with the 
+airplane that would have precluded normal operation.
+The weather conditions about the time of the accident included an overcast cloud ceiling about 600 ft 
+above ground level. It is likely that the pilot became spatially disoriented after entering the cloud layer, 
+which resulted in the airplane's high rate of climb, rapid loss of airspeed, and a likely aerodynamic stall. 
+The steep descending right turn, the airplane's roll to an inverted attitude, and the high-energy impact are 
+also consistent with a loss of control due to spatial disorientation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's loss of airplane control due to spatial disorientation during initial climb in 
+instrument meteorological conditions.

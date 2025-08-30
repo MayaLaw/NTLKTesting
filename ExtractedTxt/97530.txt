@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Yakutat, Alaska
+Accident Number:
+GAA18CA363
+Date & Time:
+June 19, 2018, 14:00 Local 
+Registration:
+N9819D
+Aircraft:
+Piper PA22
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of control on ground
+Injuries:
+3 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, after touchdown, the airplane began 
+oscillating and that it then exited the runway to the right. The airplane ground looped to the right, the left 
+main landing gear collapsed, and the left wing impacted the ground.
+The airplane sustained substantial damage to the left wing.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain directional control during landing.
+Findings
+Personnel issues
+Aircraft control - Pilot
+Aircraft
+Directional control - Not attained/maintained

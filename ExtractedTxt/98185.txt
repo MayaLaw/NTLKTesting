@@ -1,0 +1,35 @@
+Page 1 of 4
+Aviation Investigation Final Report
+Location:
+Painton, Missouri
+Accident Number:
+GAA18CA518
+Date & Time:
+August 19, 2018, 13:51 Local 
+Registration:
+N107SJ
+Aircraft:
+Rans RANS S6S
+Aircraft Damage:
+Substantial
+Defining Event:
+Hard landing
+Injuries:
+2 Minor
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot reported that, during landing, the airplane bounced and then landed hard in a nose-down 
+attitude. The propeller stuck the ground, and then the airplane slid and came to rest nose down. 
+The airplane sustained substantial damage to the engine truss and mount. 
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to maintain the proper pitch attitude during landing, which resulted in a bounced, hard 
+landing. 
+Findings
+Aircraft
+Pitch control - Not attained/maintained
+Personnel issues
+Aircraft control - Pilot

@@ -1,0 +1,29 @@
+{
+    "Filename": "97367.txt",
+    "Location": "Payson, Arizona",
+    "Accident Number": "GAA18CA313",
+    "Date & Time": "May 30, 2018, 16:55 Local",
+    "Aircraft": "Cessna 172",
+    "Registration": "N780JA",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of control in flight",
+    "Injuries": "3 None",
+    "Analysis": {
+        "Text": "pilot reported shortfield takeoff around 100 ft ground saw primary flight display pfd airspeed indicator showing 0 added engine appeared functioning normally decided level airplane attempt land remaining runway airplane began turn left added right rudder subsequently airplane touched adjacent taxiway left runway nose landing gear collapsed airplane sustained substantial damage left horizontal stabilizer postaccident examination video provided federal aviation administration inspector video showed pfd backup airspeed indicator moving sync air applied pitot tube automated weather observation system airport reported time accident wind 190 10 knot gusting 18 knot calculated density altitude 7883 ft pilot departing runway 24 probable cause finding national transportation safety board determines probable cause accident pilot failure maintain yaw control shortfield takeoff highdensity altitude condition",
+        "Top Words": [
+            [
+                "airplane",
+                4
+            ],
+            [
+                "pilot",
+                3
+            ],
+            [
+                "runway",
+                3
+            ]
+        ]
+    }
+}

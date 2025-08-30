@@ -1,0 +1,35 @@
+Page 1 of 6
+Aviation Investigation Final Report
+Location:
+Watkins, Minnesota
+Accident Number:
+CEN18LA311
+Date & Time:
+August 2, 2018, 10:35 Local 
+Registration:
+N5523S
+Aircraft:
+Cessna 188
+Aircraft Damage:
+Substantial
+Defining Event:
+Loss of engine power (partial)
+Injuries:
+1 None
+Flight Conducted Under:
+Part 137: Agricultural
+Analysis 
+During the agricultural application flight, the commercial pilot noticed a loss of engine speed (rpm) after 
+completing an application pass. He subsequently observed a decrease in engine oil pressure combined 
+with an increase in oil temperature. As he returned for a forced landing to the corn field being sprayed, 
+the oil pressure was about 7 psi. The pilot indicated that the engine was "coughing" at that point, and he 
+decided to shut the engine down; the loss of engine power was not catastrophic. He subsequently landed 
+in the field, and the airplane sustained substantial damage to the right wing.
+A postaccident examination revealed no evidence of preimpact mechanical malfunctions or failures that 
+would have precluded normal operation. Thus, the reason for the partial loss of engine power could not 
+be determined.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+A partial loss of engine power for reasons that could not be determined because a postaccident 
+examination revealed no evidence of preimpact mechanical malfunctions or failures that would have 
+precluded normal operation.

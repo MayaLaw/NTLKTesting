@@ -1,0 +1,46 @@
+Page 1 of 11
+Aviation Investigation Final Report
+Location:
+Laredo, Texas
+Accident Number:
+CEN18FA116
+Date & Time:
+March 8, 2018, 10:38 Local 
+Registration:
+N82605
+Aircraft:
+Piper PA 31P
+Aircraft Damage:
+Destroyed
+Defining Event:
+Loss of control in flight
+Injuries:
+2 Fatal
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The commercial pilot and passenger, who held a student certificate, departed runway 18R for a local 
+flight in a multi-engine airplane. The pilot held a flight instructor certificate for single-engine airplane. 
+Just after takeoff, the tower controller reported to the pilot that smoke was coming from the left side of 
+the airplane.  The pilot acknowledged, stating that they were going to "fix it," and then entered a left 
+downwind for runway 18R, adding that they didn't need any assistance. The controller subsequently 
+cleared the airplane to land on runway 18L, which the pilot acknowledged. Two witnesses reported 
+seeing the smoke come from the left engine. Still images taken from airport security video show the 
+airplane before making the turn to land with white smoke trailing and the landing gear down. The 
+airplane was then seen in a steep left turn to final approach exceeding 90° of bank, before it impacted 
+terrain, just short of the runway in a near vertical attitude. A postcrash fire ensued.
+The examination of the wreckage found that the left engine's propeller was not being driven by the 
+engine at the time of impact. The left propeller was not in the feathered position and the landing gear 
+was found extended. The damage to the right engine propeller blades was consistent with the engine 
+operating at high power at impact. The examination of the airframe and engines revealed no evidence of 
+preimpact anomalies; however, the examinations were limited by impact and fire damage which 
+precluded examination of the hoses and lines associated with the engines. The white smoke observed 
+from the left side of the airplane was likely the result of an oil leak which allowed oil to reach the hot 
+exterior surfaces of the engine; however, this could not be verified due to damage to the engine. There 
+was no evidence of oil starvation for either engine. 
+Both the extended landing gear and non-feathered left propeller would have increased the drag on the 
+airplane. Because the pilot's operating procedures for an engine failure in a climb call for feathering the 
+affected engine and raising the landing gear until certain of making the field, it is unlikely the pilot 
+followed the applicable checklists in response to the situation. Further, the change from landing on 
+runway 18R to 18L also reduced the radius of the turn and increased the required angle of bank. The 
+increased left banked turn, the right engine operating at a high-power setting, and the airplane's 

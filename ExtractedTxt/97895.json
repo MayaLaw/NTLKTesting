@@ -1,0 +1,29 @@
+{
+    "Filename": "97895.txt",
+    "Location": "Cleveland, Tennessee",
+    "Accident Number": "ERA18LA199",
+    "Date & Time": "July 26, 2018, 16:48 Local",
+    "Aircraft": "Cessna 182",
+    "Registration": "N1311S",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "None",
+    "Defining Event": "AC/prop/rotor contact w person",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "completing personal flight wife private pilot secured engine placing mixture control idle cutoff position based physical evidence observed accident likely moved ignition switch toward position removed key pilot wife indicated performed local errand returned airport pilot performing preflight inspection airplane ignition key pocket although airport security video capture accident sequence pilot wife airplane right cabin door see husband move propeller heard propeller move engine starting trying start pilot likely slightly moved propeller engine briefly started propeller rotated fatally injured pilot engine sustain operation propeller ceased rotating postaccident examination 42yearold ignition switch revealed appeared position observed visually pilot seat actual selected position toward right magneto position switch key determined slightly misaligned instrument panel placard marking offairframe operational testing ignition switch asfound position revealed right magneto hot grounded addition examination cut surface key notch revealed relatively smooth reflective surface feature consistent worn surface flank notch adjacent key retention ridge tip end shank opposite notched side examination key cylinder revealed area smooth reflective surface consistent wear lower side key slot location shape worn area consistent wear contact tip key inserted removed key could removed switch five position due wear switch internal component contrary intended function would retain key position except position although switch manufacturer tested new switch ensure functionality new test specified performed time part inspection checklist switch manufacturer airframe manufacturer title 14 code federal regulation part 43 appendix",
+        "Top Words": [
+            [
+                "key",
+                10
+            ],
+            [
+                "position",
+                9
+            ],
+            [
+                "switch",
+                9
+            ]
+        ]
+    }
+}

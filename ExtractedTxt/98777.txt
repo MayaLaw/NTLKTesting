@@ -1,0 +1,36 @@
+Page 1 of 5
+Aviation Investigation Final Report
+Location:
+MORIARTY, New Mexico
+Accident Number:
+GAA19CA097
+Date & Time:
+December 15, 2018, 09:40 Local 
+Registration:
+N188H
+Aircraft:
+Cessna 180
+Aircraft Damage:
+Substantial
+Defining Event:
+Ground collision
+Injuries:
+1 None
+Flight Conducted Under:
+Part 91: General aviation - Personal
+Analysis 
+The pilot of the tailwheel-equipped airplane reported that, after landing, while exiting onto the taxiway, 
+he decided to "cut the corner" instead of following the taxiway centerline. He did not see the parked 
+glider to his right, and at the last second, he applied brakes. Subsequently, the airplane's tail rose, and the 
+elevator struck the glider's vertical and horizontal stabilizer. 
+The airplane sustained substantial damage to the right elevator.
+The pilot reported that there were no preaccident mechanical failures or malfunctions with the airplane 
+that would have precluded normal operation.
+Probable Cause and Findings
+The National Transportation Safety Board determines the probable cause(s) of this accident to be:
+The pilot's failure to see and avoid a parked glider while taxiing from the runway. 
+Findings
+Personnel issues
+Monitoring environment - Pilot
+Environmental issues
+Aircraft - Effect on operation

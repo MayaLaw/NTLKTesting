@@ -1,0 +1,29 @@
+{
+    "Filename": "95373.txt",
+    "Location": "Delaplaine, Arkansas",
+    "Accident Number": "CEN17LA230",
+    "Date & Time": "June 14, 2017, 18:20 Local",
+    "Aircraft": "Grumman G164",
+    "Registration": "N7501Z",
+    "Flight Conducted Under": "Part 137: Agricultural",
+    "Aircraft Damage": "Substantial",
+    "Defining Event": "Loss of engine power (partial)",
+    "Injuries": "1 Minor",
+    "Analysis": {
+        "Text": "commercial pilot conducting aerial application flight approaching rice field loading product company base engine lost partial power pilot executed forced landing rice field right main landing gear struck levee airplane flipped inverted resulted substantial damage wing fuselage examination wreckage reveal mechanical malfunction failure airplane engine show evidence fuel although top fuel tank breached accident green grass around underneath wreckage show evidence fuel contamination blight likely engine lost power due fuel exhaustion probable cause finding national transportation safety board determines probable cause accident loss engine power due fuel exhaustion resulted forced landing unsuitable terrain finding aircraft fuel fluid level environmental issue slopeduneven terrain contributed outcome",
+        "Top Words": [
+            [
+                "fuel",
+                6
+            ],
+            [
+                "engine",
+                4
+            ],
+            [
+                "power",
+                3
+            ]
+        ]
+    }
+}

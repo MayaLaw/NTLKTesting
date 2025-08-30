@@ -1,0 +1,29 @@
+{
+    "Filename": "95367.txt",
+    "Location": "Mountain Ranch, California",
+    "Accident Number": "WPR17FA125",
+    "Date & Time": "June 9, 2017, 14:30 Local",
+    "Aircraft": "Beech 95 C55",
+    "Registration": "N3717Q",
+    "Flight Conducted Under": "Part 91: General aviation - Personal",
+    "Aircraft Damage": "Destroyed",
+    "Defining Event": "VFR encounter with IMC",
+    "Injuries": "1 Fatal",
+    "Analysis": {
+        "Text": "instrumentrated commercial pilot departed 46nauticalmile visual flight rule vfr flight multiengine airplane radar data indicated airplane approached destination airport altitude 500 ft ground level turned northwest climbed appeared heading toward nearby airport airplane entered right turning descent final radar target associated airplane 3649 ft mean sea level 700 ft agl 1 nautical mile north accident site pilot received two weather briefing departing accident flight second 45 minute departure second briefing pilot provided airmets tango sierra moderate turbulence mountain obscuration due cloud mist valid route flight area destination airport pilot also advised briefing vfr flight recommended review weather information revealed presence multiple cloud layer area accident site around time accident including scattered cloud 1600 ft ground level agl broken ceiling 2900 ft overcast ceiling 6500 ft despite forecast indicating marginal vfr condition destination airport pilot chose depart continue area low cloud ceiling rising terrain likely maneuvering low altitude terrain obscured pilot inflight visibility limited cloud condition resulted controlled flight terrain witness mark tree damage airplane consistent controlled flight terrain event airframe engine examination revealed mechanical anomaly would precluded normal operation",
+        "Top Words": [
+            [
+                "flight",
+                7
+            ],
+            [
+                "pilot",
+                6
+            ],
+            [
+                "ft",
+                6
+            ]
+        ]
+    }
+}
