@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 import numpy as np
+import unicodedata
 from collections import Counter
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -18,6 +19,9 @@ from llama_index.core import Settings
 from llama_index.core.schema import TextNode
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.ollama import Ollama
+from sklearn.preprocessing import normalize
+from sklearn.metrics import silhouette_score
+
 
 # Initializing tools
 nltk.download('stopwords')
@@ -42,6 +46,150 @@ event_pattern = re.compile(r'Defining Event:\s*([^\n]+)')
 injuries_pattern = re.compile(r'Injuries:\s*([^\n]+)')
 analysis_pattern = re.compile(r'Analysis\s*([\s\S]+)', re.IGNORECASE)
 
+
+PAREN_RE = re.compile(r"\s*\([^)]*\)")  # remove parentheticals like "(non-impact)"
+
+SYNONYMS = {
+    "controlled flight into terr/obj": "controlled flight into terrain",
+    "cfit": "controlled flight into terrain",
+    "birdstrike": "bird strike",
+    "wildlife encounter (non-bird)": "wildlife encounter",
+    "runway incursion veh/ac/person": "runway incursion",
+    "collision with terr/obj": "collision with terrain/object",
+    "aircraft wake turb encounter": "wake turbulence encounter",
+    "vfr encounter with imc": "vfr into imc",
+    "loss of engine power (total)": "engine power loss total",
+    "loss of engine power (partial)": "engine power loss partial",
+}
+
+BUCKET_RULES = {
+    "Wildlife hazards": [
+        r"\bbird\b", r"\bwildlife\b", r"\banimal\b", r"\bdeer\b"
+    ],
+    "Weather / environment": [
+        r"\bwind ?shear\b", r"\bwindshear\b", r"\bthunderstorm\b",
+        r"\bturbulence\b", r"\bicing\b", r"\bweather\b", r"\bmicroburst\b"
+    ],
+    "Fuel system": [
+        r"\bfuel\b", r"\bstarvation\b", r"\bexhaustion\b", r"\bcontamination\b"
+    ],
+    "Runway / landing": [
+        r"\brunway\b", r"\bhard landing\b", r"\babnormal runway contact\b",
+        r"\bundershoot\b", r"\bovershoot\b", r"\bexcursion\b", r"\bincursion\b",
+        r"\btailstrike\b", r"\blanding gear\b"
+    ],
+    "Loss of control / aerodynamic": [
+        r"\bloss of control\b", r"\bstall\b", r"\bspin\b", r"\binflight upset\b",
+        r"\bloss of lift\b", r"\bloss of visual reference\b"
+    ],
+    "CFIT / collision": [
+        r"\bcfit\b", r"\bcontrolled flight into terrain\b",
+        r"\bcollision\b", r"\bmidair\b", r"\bterrain/object\b"
+    ],
+    "Systems / mechanical": [
+        r"\bsys/comp\b", r"\bmalf\b", r"\bfailure\b", r"\belectrical\b",
+        r"\bflight control\b", r"\bpowerplant\b", r"\buncontained engine failure\b",
+        r"\bpart\b.*\bseparation\b", r"\bstructural failure\b"
+    ],
+    "Navigation / deviations": [
+        r"\bnavigation\b", r"\bcourse deviation\b", r"\baltitude deviation\b", r"\bwrong surface\b"
+    ],
+    "Operations / ground / admin": [
+        r"\bair traffic\b", r"\bloading\b", r"\bcabin safety\b",
+        r"\bground handling\b", r"\bpreflight\b", r"\bdispatch\b",
+        r"\blow altitude\b", r"\bmedical event\b", r"\bsecurity\b"
+    ],
+    "Misc / unknown": [
+        r"\bmiscellaneous\b", r"\bunknown\b", r"\bother\b"
+    ]
+}
+
+RULE_TO_REGEX = {k: [re.compile(pat) for pat in pats] for k, pats in BUCKET_RULES.items()}
+
+def assign_bucket(evt: str) -> str | None:
+    """Return the first matching high-level bucket or None."""
+    low = evt.lower()
+    for bucket, regs in RULE_TO_REGEX.items():
+        if any(r.search(low) for r in regs):
+            return bucket
+    return None
+
+def cluster_within(texts, label_prefix, max_k=10):
+    # embeddings + k selection + KMeans (your tuned version)
+    embs = Settings.embed_model.get_text_embedding_batch(texts)
+    X = normalize(np.array(embs), norm="l2")
+    # keep k sane vs size
+    k_max = max(2, min(max_k, len(texts)-1))
+    k_min = min(4, k_max)
+    k = choose_k_by_silhouette(X, k_min=k_min, k_max=k_max)
+    k = max(2, min(k, len(texts)-1))
+    km = KMeans(n_clusters=k, random_state=42, n_init="auto")
+    lbls = km.fit_predict(X)
+    grouped = defaultdict(list)
+    for s, l in zip(texts, lbls):
+        grouped[int(l)].append(s)
+    # name clusters with LLM
+    names = label_clusters_llm(grouped, max_samples=8)
+    # prefix label with the rule-bucket for clarity, but keep it short
+    names = {cid: f"{label_prefix}: {names[cid]}" for cid in names}
+    return grouped, names
+
+def rule_first_cluster(events):
+    # 1) apply rule buckets
+    rule_bins = defaultdict(list)
+    leftovers = []
+    for e in events:
+        b = assign_bucket(e)
+        if b: rule_bins[b].append(e)
+        else: leftovers.append(e)
+
+    # 2) cluster within each rule bucket (skip tiny buckets)
+    all_clusters, all_names = {}, {}
+    next_id = 0
+    for bucket_name, items in rule_bins.items():
+        if len(items) < 3:
+            # very small: treat as one cluster verbatim
+            all_clusters[next_id] = sorted(items)
+            all_names[next_id] = f"{bucket_name}"
+            next_id += 1
+        else:
+            g, names = cluster_within(sorted(items), bucket_name)
+            for cid in sorted(g):
+                all_clusters[next_id] = sorted(g[cid])
+                all_names[next_id] = names[cid]
+                next_id += 1
+
+    # 3) cluster leftovers together (if any)
+    if len(leftovers) == 1:
+        all_clusters[next_id] = leftovers
+        all_names[next_id] = "Unassigned: single item"
+    elif len(leftovers) >= 2:
+        g, names = cluster_within(sorted(leftovers), "Unassigned")
+        for cid in sorted(g):
+            all_clusters[next_id] = sorted(g[cid])
+            all_names[next_id] = names[cid]
+            next_id += 1
+
+    return all_clusters, all_names
+
+
+def normalize_event_name(s: str) -> str:
+    if not s or s.strip().lower() == "not found":
+        return ""
+    s = unicodedata.normalize("NFKC", s).strip()
+    s = PAREN_RE.sub("", s)                    # drop trailing qualifiers in ()
+    s = re.sub(r"\s+", " ", s).strip()
+    low = s.lower()
+    low = low.replace("terr/obj", "terrain/object").replace("ac/", "aircraft ")
+    low = low.replace("veh/ac/person", "vehicle/aircraft/person")
+    low = low.replace("imc", "instrument conditions")
+    # apply synonym collapses
+    rep = low
+    for k, v in SYNONYMS.items():
+        rep = rep.replace(k, v)
+    # title-case *after* normalization for presentation
+    return " ".join(w for w in rep.split() if w).strip()
+
 # Preprocessing helpers
 def clean_text(text):
     text = re.sub(r'[^\w\s]', '', text).lower()
@@ -64,7 +212,6 @@ def report_missing_fields(data_dict):
 
 Settings.embed_model = HuggingFaceEmbedding(model_name="intfloat/e5-large-v2")
 
-print(os.getenv("OPENAI_API_KEY"))
 
 
 Settings.llm = Ollama(
@@ -76,7 +223,7 @@ Settings.llm = Ollama(
         "num_ctx": 1024,   
         "num_predict": 64,    # labels are short; trim generation budget (will play around with)
         # make labels stable run-to-run
-        "temperature": 0.2,   # (will try 0.0)
+        "temperature": 0.0,   # (will try 0.0)
         "top_p": 0.9,
         "seed": 7
     }
@@ -134,6 +281,7 @@ def create_summary_json():
         json.dump(summary, out, indent=4)
     print(f"Created summary file: {summary_output}")
 
+
 # Event extraction from JSON
 def extract_raw_events(folder_path):
     event_counter = Counter()
@@ -183,59 +331,72 @@ def plot_event_treemap(event_counter):
     plt.tight_layout()
     plt.show()
 
+
 # Event clustering with llm
-def label_clusters_llm(cluster_to_events, max_samples=6):
-    """
-    Uses LlamaIndex's configured LLM to produce short, human-friendly labels
-    for each cluster. No TF-IDF involved.
-    """
+def label_clusters_llm(cluster_to_events, max_samples=8):
     labels = {}
+    FEWSHOT = (
+        "You name text clusters with a concise 2–5 word noun phrase. "
+        "Return ONLY the label—no quotes, no punctuation, no extra text.\n\n"
+        "Examples:\n"
+        "Samples:\n- Fuel starvation\n- Fuel exhaustion\n- Fuel contamination\n"
+        "Label: Fuel system issues\n\n"
+        "Samples:\n- Bird strike\n- Wildlife encounter\n"
+        "Label: Wildlife hazards\n\n"
+    )
     for cid, evs in cluster_to_events.items():
         if not evs:
-            labels[cid] = "Misc"
+            labels[cid] = "Miscellaneous"
             continue
-        # prob should tweak the given prompt for different results
         samples = evs[:max_samples]
         prompt = (
-            "You are naming a text cluster. "
-            "Given the sample items below, return a concise 3–6 word, noun-phrase label "
-            "with no punctuation or quotes. Focus on what these items have in common.\n\n"
-            "Samples:\n- " + "\n- ".join(samples)
+            FEWSHOT +
+            "Samples:\n- " + "\n- ".join(samples) + "\n"
+            "Label:"
         )
-        label = Settings.llm.complete(prompt).text.strip()
-        labels[cid] = label if label else "Misc"
+        raw = Settings.llm.complete(prompt).text.strip()
+        # sanitize: keep it short, no punctuation/quotes
+        lab = re.sub(r'["“”\.\:]+', '', raw).strip()
+        lab = re.sub(r'\s+', ' ', lab)
+        # clamp length
+        labels[cid] = " ".join(lab.split()[:6]) if lab else "Miscellaneous"
     return labels
 
-def cluster_events(events, num_clusters=10):
-    """
-    - Embeds events with LlamaIndex's embed model (e5-large-v2 here).
-    - Clusters with KMeans (sklearn).
-    - Labels clusters with an LLM via LlamaIndex (no TF-IDF).
-    - Writes grouped_defining_events.txt.
-    """
+def choose_k_by_silhouette(X, k_min=4, k_max=18, random_state=42):
+    best_k, best_score = None, -1
+    for k in range(k_min, k_max + 1):
+        km = KMeans(n_clusters=k, random_state=random_state, n_init="auto")
+        labels = km.fit_predict(X)
+        # guard: silhouette requires >1 cluster and <n_samples unique labels
+        if len(set(labels)) > 1 and len(set(labels)) < len(labels):
+            score = silhouette_score(X, labels, metric="euclidean")
+            if score > best_score:
+                best_k, best_score = k, score
+    return best_k or max(8, min(12, k_max))  # sensible fallback
 
-    nodes = [TextNode(text=e) for e in events]
 
+def cluster_events(events, num_clusters=None):
+    # normalize + dedupe (you already added this; keep it)
+    events = [normalize_event_name(e) for e in events]
+    events = [e for e in events if e]
+    events = sorted(set(events))
 
-    texts = [n.get_content() for n in nodes]
-    embeddings = Settings.embed_model.get_text_embedding_batch(texts)  # List[List[float]] maybve
+    if len(events) < 2:
+        with open("grouped_defining_events.txt", "w", encoding="utf-8") as out:
+            out.write("\n(no events)\n" if not events else f"\n--- Cluster 1: Single Group (1) ---\n  • {events[0]}\n")
+        print("Not enough events to cluster.")
+        return
 
-    kmeans = KMeans(n_clusters=num_clusters, random_state=42, n_init="auto")
-    labels = kmeans.fit_predict(embeddings)
+    # Rule-first → then subcluster
+    clustered, cluster_names = rule_first_cluster(events)
 
-    clustered = defaultdict(list)
-    for ev, lbl in zip(events, labels):
-        clustered[int(lbl)].append(ev)
-
-    cluster_names = label_clusters_llm(clustered, max_samples=6)
-
+    # Write out
     with open("grouped_defining_events.txt", "w", encoding="utf-8") as out:
-        for cid in sorted(clustered):
+        for cid in sorted(clustered, key=lambda c: (-len(clustered[c]), c)):
             name = cluster_names.get(cid, f"Cluster {cid + 1}")
-            out.write(f"\n--- Cluster {cid + 1}: {name} ---\n")
+            out.write(f"\n--- Cluster {cid + 1}: {name} ({len(clustered[cid])}) ---\n")
             for ev in sorted(clustered[cid]):
                 out.write(f"  • {ev}\n")
-
     print("Clustered events saved to grouped_defining_events.txt")
 
 # MAIN PROGRAM
@@ -250,9 +411,12 @@ if __name__ == "__main__":
     cluster_events(events)
 
     event_counter, records = extract_raw_events(folder_path)
-    plot_event_distribution(event_counter)
-    plot_event_pie(event_counter)
-    plot_event_treemap(event_counter)
+    if len(event_counter) > 0:
+        plot_event_distribution(event_counter)
+        plot_event_pie(event_counter)
+        plot_event_treemap(event_counter)
+    else:
+        print("No events found for plotting.")
 
 # USED VISUALIZATIONS/OTHER METHODS
 #

@@ -1,83 +1,142 @@
 
---- Cluster 1: Fuel-related issues ---
-  • Fuel contamination
-  • Fuel exhaustion
-  • Fuel related
-  • Fuel starvation
-  • Not Found
+--- Cluster 13: Operations / ground / admin: Flight operations incidents (4) ---
+  • air traffic event
+  • aircraft loading event
+  • ground handling event
+  • low altitude operation/event
 
---- Cluster 2: "Event Classification" ---
-  • Medical event
-  • Security/criminal event
+--- Cluster 16: Systems / mechanical: System failures (4) ---
+  • electrical system malf/failure
+  • flight control sys malf/fail
+  • powerplant sys/comp malf/fail
+  • sys/comp malf/fail
 
---- Cluster 3: Aerodynamic instability cluster ---
-  • Aerodynamic stall/spin
-  • Dragged wing/rotor/float/other
-  • Nose over/nose down
+--- Cluster 2: Runway / landing: Runway incidents (3) ---
+  • abnormal runway contact
+  • runway excursion
+  • runway incursion veh/aircraft person
 
---- Cluster 4: Aircraft Maintenance Issues ---
-  • AC/prop/rotor contact w person
-  • Abnormal runway contact
-  • Abrupt maneuver
-  • Aircraft structural failure
-  • Aircraft wake turb encounter
-  • Altitude deviation
-  • Collision during takeoff/land
-  • Course deviation
-  • Ground collision
-  • Hard landing
-  • Inflight upset
-  • Landing area overshoot
-  • Landing area undershoot
-  • Landing gear collapse
-  • Landing gear not configured
-  • Midair collision
-  • Navigation error
-  • Runway excursion
-  • Runway incursion veh/AC/person
-  • Structural icing
-  • VFR encounter with IMC
-  • Wrong surface or wrong airport
+--- Cluster 1: Runway / landing: Landing zone deviations (2) ---
+  • landing area overshoot
+  • landing area undershoot
 
---- Cluster 5: Avionics System Failures ---
-  • Controlled flight into terr/obj (CFIT)
-  • Electrical system malf/failure
-  • Flight control sys malf/fail
-  • Powerplant sys/comp malf/fail
-  • Sys/Comp malf/fail (non-power)
+--- Cluster 4: Runway / landing: Landing Gear Issues (2) ---
+  • landing gear collapse
+  • landing gear not configured
 
---- Cluster 6: **Noun Phrase Label:**
-**Non-Incident Events** ---
-  • Collision with terr/obj (non-CFIT)
-  • Explosion (non-impact)
-  • Fire/smoke (non-impact)
-  • Miscellaneous/other
-  • Unknown or undetermined
-  • Windshear or thunderstorm
+--- Cluster 6: Loss of control / aerodynamic: Flight safety issues (2) ---
+  • loss of control in flight
+  • loss of control on ground
 
---- Cluster 7: Aviation Incident ---
-  • Birdstrike
-  • Tailstrike
+--- Cluster 21: Navigation / deviations: Navigation errors (2) ---
+  • navigation error
+  • wrong surface or wrong airport
 
---- Cluster 8: Control System Failures ---
-  • Loss of control in flight
-  • Loss of control on ground
-  • Loss of engine power (partial)
-  • Loss of engine power (total)
-  • Loss of lift
-  • Loss of visual reference
-  • Part(s) separation from AC
-  • Uncontained engine failure
+--- Cluster 23: Wildlife hazards (2) ---
+  • bird strike
+  • wildlife encounter
 
---- Cluster 9: Aviation Operations Event ---
-  • Air traffic event
-  • Aircraft loading event
-  • Cabin safety event
-  • Ground handling event
-  • Low altitude operation/event
-  • Preflight or dispatch event
+--- Cluster 24: CFIT / collision: Collision risks (2) ---
+  • collision with terrain/object
+  • controlled flight into terrain/object
 
---- Cluster 10: Wildlife Encounter ---
-  • Other weather encounter
-  • Turbulence encounter
-  • Wildlife encounter (non-bird)
+--- Cluster 28: Misc / unknown: Damage to components (2) ---
+  • dragged wing/rotor/float/other
+  • miscellaneous/other
+
+--- Cluster 30: Fuel system: Fuel system issues (2) ---
+  • fuel exhaustion
+  • fuel starvation
+
+--- Cluster 34: Weather / environment: Turbulence encounters (2) ---
+  • turbulence encounter
+  • wake turbulence encounter
+
+--- Cluster 38: Unassigned: Bird strike (2) ---
+  • aircraft prop/rotor contact w person
+  • vfr encounter with instrument conditions
+
+--- Cluster 40: Unassigned: Aerodynamic instability (2) ---
+  • fire/smoke
+  • nose over/nose down
+
+--- Cluster 3: Runway / landing: Hard crash (1) ---
+  • hard landing
+
+--- Cluster 5: Runway / landing: Tailgate collision (1) ---
+  • tailstrike
+
+--- Cluster 7: Loss of control / aerodynamic: Visual impairment (1) ---
+  • loss of visual reference
+
+--- Cluster 8: Loss of control / aerodynamic: Aerodynamic instability (1) ---
+  • aerodynamic stall/spin
+
+--- Cluster 9: Loss of control / aerodynamic: Landing gear malfunction (1) ---
+  • loss of lift
+
+--- Cluster 10: Loss of control / aerodynamic: Flight stability issues (1) ---
+  • inflight upset
+
+--- Cluster 11: Operations / ground / admin: Cabin incident (1) ---
+  • cabin safety event
+
+--- Cluster 12: Operations / ground / admin: Pre-flight incident (1) ---
+  • preflight or dispatch event
+
+--- Cluster 14: Operations / ground / admin: Security incidents (1) ---
+  • security/criminal event
+
+--- Cluster 15: Operations / ground / admin: Medical emergency (1) ---
+  • medical event
+
+--- Cluster 17: Systems / mechanical: Engine incidents (1) ---
+  • uncontained engine failure
+
+--- Cluster 18: Systems / mechanical: Structural damage (1) ---
+  • aircraft structural failure
+
+--- Cluster 19: Systems / mechanical: Engine components failure (1) ---
+  • part separation from ac
+
+--- Cluster 20: Navigation / deviations: Course deviations (1) ---
+  • course deviation
+
+--- Cluster 22: Navigation / deviations: Altitude error (1) ---
+  • altitude deviation
+
+--- Cluster 25: CFIT / collision: Airplane accidents (1) ---
+  • midair collision
+
+--- Cluster 26: CFIT / collision: Collision incidents (1) ---
+  • collision during takeoff/land
+
+--- Cluster 27: CFIT / collision: Ground incidents (1) ---
+  • ground collision
+
+--- Cluster 29: Misc / unknown: System malfunction (1) ---
+  • unknown or undetermined
+
+--- Cluster 31: Fuel system: Fuel system issues (1) ---
+  • fuel related
+
+--- Cluster 32: Fuel system: Fuel system issues (1) ---
+  • fuel contamination
+
+--- Cluster 33: Weather / environment: Structural icing (1) ---
+  • structural icing
+
+--- Cluster 35: Weather / environment: Weather incidents (1) ---
+  • other weather encounter
+
+--- Cluster 36: Weather / environment: Wind shear/thunderstorm (1) ---
+  • windshear or thunderstorm
+
+--- Cluster 37: Unassigned: Engine malfunction (1) ---
+  • explosion
+
+--- Cluster 39: Unassigned: Engine malfunction (1) ---
+  • abrupt maneuver
+
+--- Cluster 41: Unassigned: Engine performance issues (1) ---
+  • loss of engine power
