@@ -387,8 +387,10 @@ def cluster_events(events, num_clusters=None):
         print("Not enough events to cluster.")
         return
 
-    # Rule-first → then subcluster
+# Rule-first → then subcluster
     clustered, cluster_names = rule_first_cluster(events)
+# Merge exact-duplicate labels (e.g., "Fuel system: Fuel system issues")
+    clustered, cluster_names = combine_duplicate_clusters(clustered, cluster_names)
 
     # Write out
     with open("grouped_defining_events.txt", "w", encoding="utf-8") as out:
@@ -398,6 +400,48 @@ def cluster_events(events, num_clusters=None):
             for ev in sorted(clustered[cid]):
                 out.write(f"  • {ev}\n")
     print("Clustered events saved to grouped_defining_events.txt")
+
+def _normalize_label_key(label: str) -> str:
+    """Make labels comparable: lowercase, strip punctuation, collapse spaces."""
+    if not label:
+        return ""
+    key = label.lower()
+    key = re.sub(r"[^a-z0-9]+", " ", key)   # drop punctuation/separators
+    key = re.sub(r"\s+", " ", key).strip()
+    return key
+
+def combine_duplicate_clusters(
+    clustered: dict[int, list[str]],
+    cluster_names: dict[int, str]
+) -> tuple[dict[int, list[str]], dict[int, str]]:
+    """
+    Merge clusters that have the same (normalized) label.
+    Keeps the first occurrence's label; unions and sorts the events.
+    """
+    label_to_newid: dict[str, int] = {}
+    new_clusters: dict[int, list[str]] = {}
+    new_names: dict[int, str] = {}
+    next_id = 0
+
+    # determines order so merges are stable run-to-run
+    for cid in sorted(clustered):
+        label = cluster_names.get(cid, f"Cluster {cid + 1}")
+        key = _normalize_label_key(label)
+
+        if key not in label_to_newid:
+            label_to_newid[key] = next_id
+            new_clusters[next_id] = list(clustered[cid])
+            new_names[next_id] = label  
+            next_id += 1
+        else:
+            target = label_to_newid[key]
+            new_clusters[target].extend(clustered[cid])
+
+    # tidying up: dedupe + sort events within each merged cluster? might need to reowkr
+    for nid in new_clusters:
+        new_clusters[nid] = sorted(set(new_clusters[nid]))
+
+    return new_clusters, new_names
 
 # MAIN PROGRAM
 if __name__ == "__main__":

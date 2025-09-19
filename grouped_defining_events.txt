@@ -11,6 +11,12 @@
   • powerplant sys/comp malf/fail
   • sys/comp malf/fail
 
+--- Cluster 30: Fuel system: Fuel system issues (4) ---
+  • fuel contamination
+  • fuel exhaustion
+  • fuel related
+  • fuel starvation
+
 --- Cluster 2: Runway / landing: Runway incidents (3) ---
   • abnormal runway contact
   • runway excursion
@@ -44,19 +50,19 @@
   • dragged wing/rotor/float/other
   • miscellaneous/other
 
---- Cluster 30: Fuel system: Fuel system issues (2) ---
-  • fuel exhaustion
-  • fuel starvation
-
---- Cluster 34: Weather / environment: Turbulence encounters (2) ---
+--- Cluster 32: Weather / environment: Turbulence encounters (2) ---
   • turbulence encounter
   • wake turbulence encounter
 
---- Cluster 38: Unassigned: Bird strike (2) ---
+--- Cluster 35: Unassigned: Engine malfunction (2) ---
+  • abrupt maneuver
+  • explosion
+
+--- Cluster 36: Unassigned: Bird strike (2) ---
   • aircraft prop/rotor contact w person
   • vfr encounter with instrument conditions
 
---- Cluster 40: Unassigned: Aerodynamic instability (2) ---
+--- Cluster 37: Unassigned: Aerodynamic instability (2) ---
   • fire/smoke
   • nose over/nose down
 
@@ -117,26 +123,14 @@
 --- Cluster 29: Misc / unknown: System malfunction (1) ---
   • unknown or undetermined
 
---- Cluster 31: Fuel system: Fuel system issues (1) ---
-  • fuel related
-
---- Cluster 32: Fuel system: Fuel system issues (1) ---
-  • fuel contamination
-
---- Cluster 33: Weather / environment: Structural icing (1) ---
+--- Cluster 31: Weather / environment: Structural icing (1) ---
   • structural icing
 
---- Cluster 35: Weather / environment: Weather incidents (1) ---
+--- Cluster 33: Weather / environment: Weather incidents (1) ---
   • other weather encounter
 
---- Cluster 36: Weather / environment: Wind shear/thunderstorm (1) ---
+--- Cluster 34: Weather / environment: Wind shear/thunderstorm (1) ---
   • windshear or thunderstorm
 
---- Cluster 37: Unassigned: Engine malfunction (1) ---
-  • explosion
-
---- Cluster 39: Unassigned: Engine malfunction (1) ---
-  • abrupt maneuver
-
---- Cluster 41: Unassigned: Engine performance issues (1) ---
+--- Cluster 38: Unassigned: Engine performance issues (1) ---
   • loss of engine power
